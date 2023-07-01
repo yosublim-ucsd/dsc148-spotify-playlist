@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 35079,
+  "num_followers": 35120,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGE0NDZlMGI2NTUwNzhjZGM3NDA5Y2UwZDIxMGMyYWNlYWYzMDBi",
+  "snapshot_id": "MCw5NzUwZTYzZWFkMDZlYzBlNzdiYWM4ZGFmNDZiZjY3MjIxYTk0NjNh",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "Parque",
+        "url": "https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb"
+      },
+      "artists": [
+        {
+          "name": "Mike Flowers",
+          "url": "https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Parque",
+      "url": "https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "Vistas",
         "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 180000,
       "name": "Vistas",
       "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Parque",
-        "url": "https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb"
-      },
-      "artists": [
-        {
-          "name": "Mike Flowers",
-          "url": "https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Parque",
-      "url": "https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "Situation",
+        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+        }
+      ],
+      "duration_ms": 245258,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "Mexeu Contigo (Remix)",
         "url": "https://open.spotify.com/album/5pharZhhyldorgOlMpdtdk"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 242000,
       "name": "Mexeu Contigo (Remix)",
       "url": "https://open.spotify.com/track/2ZFBSjOAw8qMW31p51mCX0"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        },
-        {
-          "name": "Hernani",
-          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
-        }
-      ],
-      "duration_ms": 245258,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "Mais ningu\u00e9m",
-        "url": "https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy"
+        "name": "N\u00e3o bebo",
+        "url": "https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M"
       },
       "artists": [
         {
-          "name": "Mr. Soulja",
-          "url": "https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ"
-        },
-        {
-          "name": "AET",
-          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+          "name": "Projecto 51",
+          "url": "https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus"
         }
       ],
-      "duration_ms": 179722,
-      "name": "Mais ningu\u00e9m",
-      "url": "https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI"
+      "duration_ms": 218801,
+      "name": "N\u00e3o bebo",
+      "url": "https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1255,6 +1251,26 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "Mais ningu\u00e9m",
+        "url": "https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy"
+      },
+      "artists": [
+        {
+          "name": "Mr. Soulja",
+          "url": "https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "duration_ms": 179722,
+      "name": "Mais ningu\u00e9m",
+      "url": "https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "A Minha Rua",
         "url": "https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 197142,
       "name": "A Minha Rua",
       "url": "https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "N\u00e3o bebo",
-        "url": "https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M"
-      },
-      "artists": [
-        {
-          "name": "Projecto 51",
-          "url": "https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus"
-        }
-      ],
-      "duration_ms": 218801,
-      "name": "N\u00e3o bebo",
-      "url": "https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1339,26 +1339,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "ELEVEM",
-        "url": "https://open.spotify.com/album/1sM0eVGRoku4Du98P7wfTD"
+        "name": "J\u00e1 Sei",
+        "url": "https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L"
       },
       "artists": [
         {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+          "name": "C\u00e1lculo",
+          "url": "https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI"
         },
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Jaca",
-          "url": "https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH"
+          "name": "LEFT.",
+          "url": "https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb"
         }
       ],
-      "duration_ms": 258260,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/4E2EMfWXxBUS9DjDphTsmS"
+      "duration_ms": 144092,
+      "name": "J\u00e1 Sei",
+      "url": "https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR"
     }
   ],
   "unique_name": "Seda",

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 65764,
+  "num_followers": 65787,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGUwNDFhZGJiNTA5ZTg2NTc3ZTMwZTJlMGVmMzQ5ZWYzZmY0OTU2",
+  "snapshot_id": "MCwxY2NkMjJiZTMxNzdiMzRmYmI2N2QzYmQyOGU1NDdmM2Q3ZTY5MDM2",
   "tracks": [
     {
       "added_at": "2023-06-11 11:48:48",
@@ -343,18 +343,26 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+        "name": "LOVE&GAME",
+        "url": "https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+        },
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        },
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
         }
       ],
-      "duration_ms": 278373,
-      "name": "\u30ab\u30e9\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+      "duration_ms": 234002,
+      "name": "LOVE&GAME",
+      "url": "https://open.spotify.com/track/4B4oTvmtcumgNyXFz7ow79"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -391,26 +399,18 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "LOVE&GAME",
-        "url": "https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK"
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
       },
       "artists": [
         {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
-        },
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        },
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 234002,
-      "name": "LOVE&GAME",
-      "url": "https://open.spotify.com/track/4B4oTvmtcumgNyXFz7ow79"
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "\u30ad\u30ba\u30ca",
-      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
       },
@@ -539,38 +523,6 @@
       "duration_ms": 258385,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "BLACK or WHITE 2022",
-        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "Up to the nines",
-        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Up to the nines",
-      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -591,8 +543,24 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
       },
       "artists": [
         {
@@ -600,9 +568,25 @@
           "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
+      "duration_ms": 246546,
+      "name": "\u30ad\u30ba\u30ca",
+      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "Up to the nines",
+        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "Up to the nines",
+      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -627,6 +611,22 @@
       "duration_ms": 269453,
       "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
       "url": "https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Risky\u306a\u5f7c\u5973",
+      "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -679,34 +679,18 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
       },
       "artists": [
         {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Risky\u306a\u5f7c\u5973",
-      "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -723,6 +707,22 @@
       "duration_ms": 261040,
       "name": "Endless",
       "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -755,22 +755,6 @@
       "duration_ms": 263853,
       "name": "Monologue Note",
       "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 310600,
-      "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 310600,
+      "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
         "name": "June is Natural",
         "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 324607,
       "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u2606\u30d5\u30a1\u30a4\u30bf\u30fc",
       "url": "https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY"
-    },
-    {
-      "added_at": "2023-06-11 11:48:48",
-      "album": {
-        "name": "\u604b\u306e\u304b\u3051\u3089",
-        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "miss you...",
-      "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
     },
     {
       "added_at": "2023-06-11 11:48:48",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
+        "name": "ONE dream",
+        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "ONE dream",
+      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
+    },
+    {
+      "added_at": "2023-06-11 11:48:48",
+      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-06-11 11:48:48",
       "album": {
-        "name": "ONE dream",
-        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
+        "name": "\u604b\u306e\u304b\u3051\u3089",
+        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
       },
       "artists": [
         {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 268000,
-      "name": "ONE dream",
-      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
+      "duration_ms": 288400,
+      "name": "miss you...",
+      "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
     },
     {
       "added_at": "2023-06-11 11:48:48",

@@ -527,6 +527,32 @@
     },
     {
       "album": {
+        "name": "Manidha",
+        "url": "https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB"
+      },
+      "artists": [
+        {
+          "name": "Manoj Krishna",
+          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
+        },
+        {
+          "name": "Kalyani Nair",
+          "url": "https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds"
+        },
+        {
+          "name": "Gana Balamurugan",
+          "url": "https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Manidha",
+      "url": "https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV"
+    },
+    {
+      "album": {
         "name": "Moonu Mani Biriyani",
         "url": "https://open.spotify.com/album/18AsgykYiTkQfmNgzqDe4h"
       },

@@ -1549,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Fire Fall",
+        "url": "https://open.spotify.com/album/4qJ0oAgJeBxTbZQdYjEML1"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Fire Fall",
+      "url": "https://open.spotify.com/track/1pUOZEQfBrucbikddcJ00k"
+    },
+    {
+      "album": {
         "name": "FOLLOW",
         "url": "https://open.spotify.com/album/6ZXC5VlTFKAB51PtNyWl1M"
       },

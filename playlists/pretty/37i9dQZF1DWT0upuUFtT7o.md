@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,745 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,793 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 |
 | 100 | [BOY FEELINGS](https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [BOY FEELINGS](https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn) | 3:28 |
 
-Snapshot ID: `MCwxODJlOWIxNjlkYTc3ZDIyZTZiMjk1ODEyZGU3ODNjZmYzMmFjZTdk`
+Snapshot ID: `MCxmMTNlZTRlNjdhOWViNzQ3MzJlY2RkNzc5MThiMjFlZWU2MWZhMTFm`

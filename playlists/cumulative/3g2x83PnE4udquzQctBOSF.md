@@ -4,12 +4,12 @@
 
 > Our weekly selection is here ⚡️
 
-190 songs - 10 hr 58 min
+191 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1949](https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [1949](https://open.spotify.com/album/0AhaMd9g6mqHrmqlQGoR8g) | 2:13 | 2023-03-31 | 2023-04-17 |
-| [Abra](https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Abra](https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH) | 2:35 | 2022-07-15 |  |
+| [Abra](https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Abra](https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH) | 2:35 | 2022-07-15 | 2023-07-01 |
 | [Afterparty](https://open.spotify.com/track/2LTenX3kElT3fN77CA4wMt) | [OMBRO](https://open.spotify.com/artist/651nuNscY3BP9sr0LFpPwo) | [Afterparty](https://open.spotify.com/album/409JzsQzbj6QxKu24FtSML) | 2:55 | 2023-04-30 | 2023-05-30 |
 | [All My Dogs](https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu) | [Felipe Fella](https://open.spotify.com/artist/4fINHdoufNssJ32yLC3NsK), [cesco.](https://open.spotify.com/artist/1KVp24r2N0WPNNa7HSh0OG) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 3:15 | 2023-03-19 | 2023-04-10 |
 | [All Night](https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [All Night](https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO) | 3:08 | 2023-04-23 | 2023-05-15 |
@@ -45,6 +45,7 @@
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-15 | 2023-02-13 |
 | [Bumpin'](https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Bumpin'](https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv) | 3:28 | 2023-03-12 | 2023-04-01 |
 | [Callin' All Dancers](https://open.spotify.com/track/3xvRZdaD1RcSclqj3KmF1O) | [Dryman](https://open.spotify.com/artist/4vkf3qpJLRwhb07HXVE1RE), [Sirmo](https://open.spotify.com/artist/76DLAKD5U9Lh0koE3YLwTV) | [Around The World In UKG, Vol\. 3](https://open.spotify.com/album/5ZffUddGMdn62hoLi79Zv0) | 4:37 | 2023-04-30 | 2023-05-23 |
+| [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 | 2023-06-30 |  |
 | [Chiki Ta](https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Chiki Ta](https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43) | 1:54 | 2023-04-30 | 2023-05-23 |
 | [Clappa](https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Naughty](https://open.spotify.com/album/55eFetaEDWddPSu31yr84q) | 3:00 | 2023-04-30 | 2023-05-30 |
 | [CLOD](https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [CLOD](https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU) | 2:19 | 2022-09-30 |  |

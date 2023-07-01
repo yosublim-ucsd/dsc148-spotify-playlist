@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-55 songs - 3 hr 49 min
+56 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Local Na Thukkalu](https://open.spotify.com/track/2DZCsaHNcF8AELdTEETFZs) | [Gana Hari](https://open.spotify.com/artist/4x67D7VuInlKD9UKbrPPAW) | [Local Na Thukkalu](https://open.spotify.com/album/0tzAVFV85jfMjPSbv6EP26) | 4:12 | 2023-01-11 |  |
 | [Mambalam Vikkira](https://open.spotify.com/track/3RS56P9Qk1UO0hLsvviwrW) | [Palani](https://open.spotify.com/artist/2ek6C69timLZWHkd3qlb6b) | [Gana Ulagam Vol \- 1](https://open.spotify.com/album/3ISlqx1ncmk4x13zWU44uT) | 4:55 | 2023-01-11 | 2023-06-28 |
 | [Manasula Maligai Pothathu](https://open.spotify.com/track/6ClTmrfdPsQmm9GLa0IHiC) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5) | [Manasula Maligai Pothathu](https://open.spotify.com/album/0h7kNv1KmxJiHWDxP1uA2B) | 4:41 | 2023-03-24 |  |
+| [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 |  |
 | [Moonu Mani Biriyani](https://open.spotify.com/track/4bQu3JNlQEerOhJtCwdCcG) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Moonu Mani Biriyani](https://open.spotify.com/album/18AsgykYiTkQfmNgzqDe4h) | 3:59 | 2022-11-05 |  |
 | [Muttakannu Muniyamma](https://open.spotify.com/track/3ybSwFM2db15GxVltElgqX) | [GANA SUDHAKAR](https://open.spotify.com/artist/3EHS6onaVedl3OXWXJmlHq), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Shruthika](https://open.spotify.com/artist/68OFF6t8p1M56tcmuamHsT) | [Muttakannu Muniyamma](https://open.spotify.com/album/6Vr7ctpI4FqTjFwq5BsGII) | 3:16 | 2023-03-31 |  |
 | [Naa Oru Yedakodam](https://open.spotify.com/track/79nQElTCfuUTDLoK6JOcw4) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69) | [Naa Oru Yedakodam](https://open.spotify.com/album/6FEQJmCZy6tdyOsFSkJhU7) | 5:26 | 2023-01-11 |  |

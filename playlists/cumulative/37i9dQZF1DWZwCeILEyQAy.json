@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: Big Boss Vette",
+  "description": "Real Rap. All Pressure. Cover: City Girls ",
   "name": "Pressure",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 174705,
       "name": "11:11 (feat. YN Jay)",
       "url": "https://open.spotify.com/track/13VSMCirjOCTonWVYJkJwu"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
@@ -360,7 +360,7 @@
       },
       "artists": [
         {
-          "name": "Kali",
+          "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Box the 40",
+        "url": "https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111072,
+      "name": "Box the 40",
+      "url": "https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB"
+    },
+    {
+      "album": {
         "name": "Blattys Knight",
         "url": "https://open.spotify.com/album/4tMFnRXx5IUMD073sevs5i"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 121250,
       "name": "Click Click (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/4nkUBzFunkTB1gwW42Rmrm"
@@ -1606,6 +1624,24 @@
       "duration_ms": 208358,
       "name": "Could Never (Remix) [feat. Moneybagg Yo]",
       "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
+    },
+    {
+      "album": {
+        "name": "Countdown",
+        "url": "https://open.spotify.com/album/51IzT7nGKdjOXPAogxrhyM"
+      },
+      "artists": [
+        {
+          "name": "Billy B",
+          "url": "https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/1iUBXA98sGpUkcFakDDo6k"
     },
     {
       "album": {
@@ -3043,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "HOOD RAT SHIT",
+        "url": "https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        },
+        {
+          "name": "Chenzehn",
+          "url": "https://open.spotify.com/artist/4f6mzHylkFqgtpggUv7qdq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162648,
+      "name": "HOOD RAT SHIT",
+      "url": "https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf"
+    },
+    {
+      "album": {
         "name": "Hot Friend",
         "url": "https://open.spotify.com/album/2FpQM6aXOAhInjnFoK7tg5"
       },
@@ -3146,6 +3204,24 @@
       "duration_ms": 148848,
       "name": "Hussle",
       "url": "https://open.spotify.com/track/6dZ8Byzg5XtCa5NdmRuzfn"
+    },
+    {
+      "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
     },
     {
       "album": {
@@ -3284,6 +3360,24 @@
       "duration_ms": 144625,
       "name": "Issa Photoshoot",
       "url": "https://open.spotify.com/track/49MICz2iDO0E4suYyVYr62"
+    },
+    {
+      "album": {
+        "name": "It Girl (Freestyle)",
+        "url": "https://open.spotify.com/album/3Kgw7RB3cOPAGbkaV9t7sK"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165457,
+      "name": "It Girl - Freestyle",
+      "url": "https://open.spotify.com/track/3XGWBonwHw1qOsG8OzQprB"
     },
     {
       "album": {
@@ -4754,7 +4848,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 122293,
       "name": "Pocket Rocket",
       "url": "https://open.spotify.com/track/35IF7iaIXi6E9tzg5DlflF"
@@ -5050,7 +5144,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 139720,
       "name": "R U Mad?",
       "url": "https://open.spotify.com/track/70OenH0xhx8aApBpz2HL6z"
@@ -5159,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "Real Street",
+        "url": "https://open.spotify.com/album/4CSvuLVtgDMAal9EpifUuV"
+      },
+      "artists": [
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112097,
+      "name": "Real Street",
+      "url": "https://open.spotify.com/track/6VAytWgudLhIwR3huXuWba"
+    },
+    {
+      "album": {
         "name": "No Pressure (Pt. 1)",
         "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
       },
@@ -5224,7 +5336,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 114974,
       "name": "Return Of The P",
       "url": "https://open.spotify.com/track/7GZSK7X0cKsGnxUgR1MZEN"
@@ -5566,7 +5678,7 @@
           "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         },
         {
-          "name": "Kali",
+          "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
@@ -6228,7 +6340,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212571,
       "name": "Texture",
       "url": "https://open.spotify.com/track/6PVRA5iRJrIEMTGwx45yoA"
@@ -6254,6 +6366,24 @@
       "duration_ms": 134801,
       "name": "Tha Fuck - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/4atXiThjKGDzHmJFUQq16I"
+    },
+    {
+      "album": {
+        "name": "That's It",
+        "url": "https://open.spotify.com/album/00o8yMI5PN6DtEVz1iTkDm"
+      },
+      "artists": [
+        {
+          "name": "Chinese Kitty",
+          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "That's It",
+      "url": "https://open.spotify.com/track/6rMjVOGsrCVxqzlNAQQ0oP"
     },
     {
       "album": {

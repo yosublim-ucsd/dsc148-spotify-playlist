@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS! Cover: Pecos & the Rooftops
+> Country Music that ROCKS! Cover: Bryan Martin
 
 269 songs - 15 hr 34 min
 

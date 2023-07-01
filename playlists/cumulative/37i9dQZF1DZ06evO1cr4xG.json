@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 251160,
       "name": "Ember to Inferno",
       "url": "https://open.spotify.com/track/3IKNbveo9wfVgEjEFLpY6b"
@@ -686,6 +686,24 @@
       "duration_ms": 228040,
       "name": "Inception of the End",
       "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
+    },
+    {
+      "album": {
+        "name": "Ember to Inferno",
+        "url": "https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35200,
+      "name": "Inception: The Bleeding Skies",
+      "url": "https://open.spotify.com/track/7vbJdlJ3iqHaRRV5GlNgIF"
     },
     {
       "album": {

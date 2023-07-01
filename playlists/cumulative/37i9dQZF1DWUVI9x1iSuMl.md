@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUVI9x1iSuMl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVI9x1iSuMl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVI9x1iSuMl)
 
-### [Ambiente x Foam and Sand](https://open.spotify.com/playlist/37i9dQZF1DWUVI9x1iSuMl)
+### [Ambient X Takeover: Foam and Sand](https://open.spotify.com/playlist/37i9dQZF1DWUVI9x1iSuMl)
 
-> Foam and Sand, AKA Robot Koch's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Foam and Sand, AKA Robot Koch's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 31 songs - 2 hr 51 min
 

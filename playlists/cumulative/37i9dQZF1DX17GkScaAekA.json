@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Scarlatti: Keyboard Sonata in D Minor, K. 32",
+        "url": "https://open.spotify.com/album/4P5rdOrSpGrgaMlrQj4CE2"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Pierpaola Porqueddu",
+          "url": "https://open.spotify.com/artist/43oMRfrep3jilUBwApFSxd"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170006,
+      "name": "Keyboard Sonata in D Minor, K. 32",
+      "url": "https://open.spotify.com/track/43zfoYckReFhQkf9g3Plvn"
+    },
+    {
+      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -1838,6 +1860,28 @@
       "duration_ms": 112352,
       "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
       "url": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI"
+    },
+    {
+      "album": {
+        "name": "Carl Philipp Emanuel Bach",
+        "url": "https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "W\u00fcrttemberg Sonatas / Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
+      "url": "https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS"
     },
     {
       "album": {

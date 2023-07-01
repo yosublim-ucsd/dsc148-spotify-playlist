@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Tito Nieves & Gilberto Santa Rosa
 
-277 songs - 16 hr 32 min
+278 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 | 2022-01-01 | 2022-03-26 |
 | [No Puedo](https://open.spotify.com/track/02OLLxwUuwBKo7ZeoSks1E) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [No Puedo](https://open.spotify.com/album/4dd10L0mNEGrOpkKzTHjCW) | 3:43 | 2022-01-01 | 2022-06-30 |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-02-24 |  |
+| [Nubes](https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Nubes](https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J) | 3:58 | 2023-06-30 |  |
 | [Nubes Negras](https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Nubes Negras](https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl) | 4:06 | 2022-09-09 | 2023-04-21 |
 | [Nunca](https://open.spotify.com/track/67w8Zi9hnvt2TeATaBFfHC) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Nunca](https://open.spotify.com/album/6zBXJPqYoXyX3wOcVhn7RS) | 4:00 | 2022-07-19 | 2023-01-21 |
 | [Olor a Kush \- Merengue](https://open.spotify.com/track/4ic68ItCjS1yyO6IgLs9s0) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Olor a Kush \(Merengue\)](https://open.spotify.com/album/4QNc3T3uQhNg6nncMnqXsY) | 2:52 | 2022-04-29 | 2022-06-30 |
@@ -212,7 +213,7 @@
 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 | 2022-09-09 | 2023-01-25 |
 | [Quimicas de Amor](https://open.spotify.com/track/7hOKkEkiw2gUlJLXFFbT6s) | [J\-Dream](https://open.spotify.com/artist/43UkDk4JiVnOIVZdMHhO0Z), [Lady laura La morena del swing](https://open.spotify.com/artist/1oq10cOkNQAk6T63equyFp) | [Quimicas de Amor](https://open.spotify.com/album/0PA3JHgKlI5jzf8VdLPEE2) | 3:05 | 2022-03-25 | 2022-06-30 |
 | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs) | 2:37 | 2022-01-01 | 2022-01-29 |
-| [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 |  |
+| [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 | 2023-07-01 |
 | [Remember Me](https://open.spotify.com/track/2PTDRE8RTmKU0LbJCvK9vA) | [Alain Daniel](https://open.spotify.com/artist/2u1nvbgShcmjDc2SeSDDu6), [Alexander Delgado](https://open.spotify.com/artist/2XZxaXED899trOkylOP8fa) | [Remember Me](https://open.spotify.com/album/2KkJOl11zZxOf8LYSIwaZz) | 3:25 | 2022-06-29 | 2023-01-22 |
 | [Republica Dominicana](https://open.spotify.com/track/02IdYXYJ0G9vgs9DVmONFX) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Republica Dominicana](https://open.spotify.com/album/69Fk1rIWzvwImYuXN6CcUQ) | 4:36 | 2023-01-27 | 2023-02-25 |
 | [Resistirá](https://open.spotify.com/track/7knEsle2mCnypBafCdrWx8) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Resistirá](https://open.spotify.com/album/4VmevPcZ6QXfiKira0aBE7) | 3:45 | 2022-06-29 | 2023-01-14 |

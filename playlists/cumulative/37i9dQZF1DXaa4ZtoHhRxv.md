@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-155 songs - 8 hr 32 min
+156 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [First Rodeo](https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [First Rodeo](https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz) | 3:06 | 2022-07-08 |  |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-03-25 |
 | [Giddy Up! \- Malibu Babie Remix](https://open.spotify.com/track/4A2CY9ZLMQe4PDUbQ48lVM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Giddy Up! \(Malibu Babie Remix\)](https://open.spotify.com/album/6mIpPFIWUHCU1dG0dMprBo) | 2:44 | 2023-03-24 |  |
+| [Girls Like You \(NIIKO X SWAE Remix\)](https://open.spotify.com/track/4aEKQNctFCimUjzJpmMhIK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Girls Like You \(NIIKO X SWAE Remix\)](https://open.spotify.com/album/4qKnK4YNxMhtFNryIjkCzl) | 2:41 | 2023-06-30 |  |
 | [Good as You \- Digital Farm Animals Remix](https://open.spotify.com/track/2rrBSCcE1tO5o6ycZAEVIY) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Good as You](https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps) | 3:24 | 2021-12-10 |  |
 | [GOOD TIME \- Andrelli Remix](https://open.spotify.com/track/7n4UKXvKGFZKSdU1NUw06T) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [GOOD TIME \(Andrelli Remix\)](https://open.spotify.com/album/4IGBxXXi1Mz0y3jLgh0zhf) | 2:44 | 2021-12-10 |  |
 | [Got No Choice \- Dave Audé Remix](https://open.spotify.com/track/0MWV88QURJzWteCK2glxOZ) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Got No Choice \(Dave Audé Remix\)](https://open.spotify.com/album/3OoVO3D4GIw36Fz0r7azfl) | 3:50 | 2021-12-10 |  |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb9GYWsyFlWx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb9GYWsyFlWx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb9GYWsyFlWx)
 
-### [Ambiente x Plastikman & Chilly Gonzales](https://open.spotify.com/playlist/37i9dQZF1DXb9GYWsyFlWx)
+### [Ambient X Takeover: Plastikman & Chilly Gonzales](https://open.spotify.com/playlist/37i9dQZF1DXb9GYWsyFlWx)
 
-> Plastikman and Chilly Gonzales' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Plastikman and Chilly Gonzales' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 30 songs - 3 hr 23 min
 

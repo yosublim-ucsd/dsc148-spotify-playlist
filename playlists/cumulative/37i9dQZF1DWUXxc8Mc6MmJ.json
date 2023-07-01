@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "While You Were Sleeping, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264543,
+      "name": "I Love You Boy",
+      "url": "https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7"
+    },
+    {
+      "album": {
         "name": "Dr. Romantic 2 OST Part.6",
         "url": "https://open.spotify.com/album/1Zvz0jVLW9WtO5X4Pqskgx"
       },
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 275362,
       "name": "Is It Still Beautiful",
       "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"

@@ -1,12 +1,12 @@
 {
   "description": "Zo klinkt de zomer van 2023! ",
-  "num_followers": 521490,
+  "num_followers": 521754,
   "original_name": "Summer '23",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmE0NGE4Nzc5ZGMyMjU4MGQxMjRlNjM1NjljM2M5MTUwNzVmM2Zj",
+  "snapshot_id": "MCwwNThhMzgwZDExMTZmMjcyODNiMjI3YmJhZWJjYTdlZTYzMWUyZWM0",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -547,7 +547,7 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Substitution",
+        "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
@@ -558,10 +558,14 @@
         {
           "name": "Kungs",
           "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
       "duration_ms": 181477,
-      "name": "Substitution",
+      "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {

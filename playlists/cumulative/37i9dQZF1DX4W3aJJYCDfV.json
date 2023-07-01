@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from D-Block Europe, Holly Humberstone and more!",
+  "description": "Brand new music from Olivia Rodrigo (pictured), D-Block Europe, Holly Humberstone and more!",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -19003,7 +19003,7 @@
     },
     {
       "album": {
-        "name": "DO IT AGAIN (Official FIFA Women\u2019s World Cup \u201923 Song\u2122)",
+        "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
         "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
       },
       "artists": [
@@ -19024,7 +19024,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176730,
-      "name": "DO IT AGAIN - Official FIFA Women\u2019s World Cup \u201923 Song\u2122",
+      "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
@@ -22224,6 +22224,28 @@
       "duration_ms": 231040,
       "name": "End Of Youth",
       "url": "https://open.spotify.com/track/0vber253Le8WWt7gKorVe9"
+    },
+    {
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
     },
     {
       "album": {
@@ -40342,6 +40364,24 @@
     {
       "album": {
         "name": "Jacob",
+        "url": "https://open.spotify.com/album/2HdKDWB5Ek8lf7NuN6VArB"
+      },
+      "artists": [
+        {
+          "name": "Rachel Sermanni",
+          "url": "https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194832,
+      "name": "Jacob",
+      "url": "https://open.spotify.com/track/18UkBt8WJts1ldFaQ1du6c"
+    },
+    {
+      "album": {
+        "name": "Jacob",
         "url": "https://open.spotify.com/album/6NZtosavxk5prRtW8wEfVA"
       },
       "artists": [
@@ -40352,7 +40392,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 194832,
       "name": "Jacob",
       "url": "https://open.spotify.com/track/6BbFlXl8ce5oChDchY9740"
@@ -68258,7 +68298,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 167666,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/1nlyrAbacErxuKUERc0az1"
@@ -79645,6 +79685,28 @@
     },
     {
       "album": {
+        "name": "See You At The Gates",
+        "url": "https://open.spotify.com/album/5efrYuGXhOR4D0blYuuP5o"
+      },
+      "artists": [
+        {
+          "name": "Loski",
+          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "UK Guys",
+      "url": "https://open.spotify.com/track/2c7zzkWvP4ufzRZfHLNlUD"
+    },
+    {
+      "album": {
         "name": "UK Guys",
         "url": "https://open.spotify.com/album/5cEZuddvoNDGjv3OcWMETV"
       },
@@ -79660,7 +79722,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 206197,
       "name": "UK Guys",
       "url": "https://open.spotify.com/track/7E1Bm26mTabpKLXwo7zPk7"
@@ -80522,6 +80584,24 @@
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste releases elke vrijdag op Spotify! ",
+  "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Olivia Rodrigo",
   "name": "New Music Friday NL",
   "tracks": [
     {
@@ -3958,6 +3958,24 @@
     {
       "album": {
         "name": "Black & Thunder",
+        "url": "https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301346,
+      "name": "Black & Thunder",
+      "url": "https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN"
+    },
+    {
+      "album": {
+        "name": "Black & Thunder",
         "url": "https://open.spotify.com/album/2O5JszXqx2Kb42Lkp7sUdS"
       },
       "artists": [
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 301346,
       "name": "Black & Thunder",
       "url": "https://open.spotify.com/track/7LjdhF3WyK0Q9ynpLjstSh"
@@ -5096,6 +5114,24 @@
       "duration_ms": 210453,
       "name": "Build The Wall",
       "url": "https://open.spotify.com/track/2dg9qeErPbLpmGNWi1WSK1"
+    },
+    {
+      "album": {
+        "name": "Builder Boy",
+        "url": "https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts"
+      },
+      "artists": [
+        {
+          "name": "The Slow Show",
+          "url": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "Builder Boy",
+      "url": "https://open.spotify.com/track/3gxmx971GXRYyQlygxj5rs"
     },
     {
       "album": {
@@ -10151,6 +10187,28 @@
     },
     {
       "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/7Jlt3bLkJamokL0lBLNzHn"
       },
@@ -10731,7 +10789,7 @@
     },
     {
       "album": {
-        "name": "Fallen Leaf (Edit)",
+        "name": "Fallen Leaf",
         "url": "https://open.spotify.com/album/5S3LayPQLS2A9tCGxQDKgd"
       },
       "artists": [
@@ -10752,7 +10810,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213152,
-      "name": "Fallen Leaf - Edit",
+      "name": "Fallen Leaf",
       "url": "https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu"
     },
     {
@@ -20323,6 +20381,24 @@
     },
     {
       "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146766,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
@@ -21447,6 +21523,24 @@
     },
     {
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132380,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
+    },
+    {
+      "album": {
         "name": "ASOT 1127 - A State of Trance Episode 1127",
         "url": "https://open.spotify.com/album/4eTBSpieMluNwsywjPgWYt"
       },
@@ -21458,7 +21552,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 132380,
       "name": "Motive",
       "url": "https://open.spotify.com/track/5arKEpGhicpK6CFnnCKGeb"
@@ -26479,6 +26573,28 @@
     },
     {
       "album": {
+        "name": "Regen",
+        "url": "https://open.spotify.com/album/411KnEGeDB16Hz0s5jGHKG"
+      },
+      "artists": [
+        {
+          "name": "Zack Ink",
+          "url": "https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6"
+        },
+        {
+          "name": "Zarfani",
+          "url": "https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216158,
+      "name": "Regen",
+      "url": "https://open.spotify.com/track/0LhHGiqLB9ybnRJGdSi2fQ"
+    },
+    {
+      "album": {
         "name": "Remember The Time",
         "url": "https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T"
       },
@@ -28808,6 +28924,24 @@
       "duration_ms": 175068,
       "name": "Single Player",
       "url": "https://open.spotify.com/track/3eKIv8Unt9jWpDYgVbVYIx"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "album": {
@@ -34625,6 +34759,24 @@
     },
     {
       "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
         "name": "Van Dale (feat. Philly & MocroManiac)",
         "url": "https://open.spotify.com/album/01QDyGW3nLdnSZfqM7ok63"
       },
@@ -35286,6 +35438,24 @@
       "duration_ms": 164332,
       "name": "Vriend",
       "url": "https://open.spotify.com/track/6DmSKczxkNS4RWtVWZBEbz"
+    },
+    {
+      "album": {
+        "name": "Vrouw van de Dominee (Live @ Radio Veronica)",
+        "url": "https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176240,
+      "name": "Vrouw Van De Dominee - Live @ Radio Veronica",
+      "url": "https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo"
     },
     {
       "album": {

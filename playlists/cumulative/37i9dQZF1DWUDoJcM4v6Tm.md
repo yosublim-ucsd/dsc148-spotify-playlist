@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-248 songs - 15 hr 35 min
+249 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Woman](https://open.spotify.com/track/3KbLxkjQgIvSvIQw1VaBOg) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [I'm Around](https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj) | 3:45 | 2022-05-02 | 2022-11-14 |
 | [Woman](https://open.spotify.com/track/43JOg7EAhMKqlkPr2mZUIP) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman](https://open.spotify.com/album/31FXylZSxeyXau0uevwdeu) | 3:45 | 2022-05-02 |  |
 | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/track/0f8VjKe3TShzHjas4qd6MA) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/album/7BIJQX1YaJOxJwTCxiTvVM) | 3:45 | 2021-10-08 | 2022-07-29 |
+| [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 | 2023-06-30 |  |
 | [You are my House](https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:08 | 2022-11-17 |  |
 | [Zero](https://open.spotify.com/track/65mf8tIkooww6uBmtipfK0) | [Indianola](https://open.spotify.com/artist/3FMPtr5gEBAjsKxRbfc1kg) | [Zero](https://open.spotify.com/album/2AC9x5BmllTMZpJkzxiRlb) | 3:35 | 2021-10-08 |  |
 

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-114 songs - 7 hr 13 min
+115 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bo](https://open.spotify.com/track/5kjSd4ji3luSzLWVJClQx2) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Roman \(Expanded Edition\)](https://open.spotify.com/album/7MQ3eqEq8KXImcFgWbjnKY) | 3:55 | 2023-02-10 | 2023-06-22 |
 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 | 2023-02-10 |  |
 | [Daarom Doe Ik Het Niet](https://open.spotify.com/track/3TJ3neKQCwrOfkstbExr9f) | [Musketiers](https://open.spotify.com/artist/3i57Jc20l9fkihVbs3ZOZq), [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6), [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Musketiers](https://open.spotify.com/album/4pLF4cLdZ5Xp2akThDvtpO) | 2:59 | 2023-02-10 | 2023-04-21 |
-| [Dans met me](https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Dans met me](https://open.spotify.com/album/4flGk7sNFNkEgXI5Mq0v21) | 4:38 | 2023-05-11 |  |
+| [Dans met me](https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Dans met me](https://open.spotify.com/album/4flGk7sNFNkEgXI5Mq0v21) | 4:38 | 2023-05-11 | 2023-07-01 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2023-02-10 |  |
 | [De Clown](https://open.spotify.com/track/4R0i3XTr6ggZYWG14dVYDX) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [De Singles](https://open.spotify.com/album/4uI1vbFZyvWlw8xCi0QdY1) | 3:48 | 2023-02-10 | 2023-03-18 |
 | [De halve wereld](https://open.spotify.com/track/1FcoAGOdvv956IkeU61508) | [Pieter Derks](https://open.spotify.com/artist/4JwlHUgIACGdCcQ3lPZTJr) | [De halve wereld](https://open.spotify.com/album/3xBYi7bVVeZvFonx2DThMx) | 3:39 | 2023-02-10 | 2023-04-21 |
@@ -112,6 +112,7 @@
 | [Voor Altijd](https://open.spotify.com/track/5dDnmGYIcTqvxtG35mnxAS) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Voor Altijd](https://open.spotify.com/album/6AuFFENZVU0n13Y21WyFZP) | 2:32 | 2023-02-10 | 2023-04-07 |
 | [Voor Haar](https://open.spotify.com/track/5oSNx87hsjk0Nz0pdQcdct) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Favorieten Expres](https://open.spotify.com/album/4wtJJageS0xLtoxiqvgQZf) | 2:51 | 2023-02-10 |  |
 | [Vreemde Leegte](https://open.spotify.com/track/6lk0guHFQTBYnvWYDstwrU) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vreemde Leegte](https://open.spotify.com/album/4SRzMDY6F82IOndVDUAwEN) | 4:28 | 2023-02-10 | 2023-04-07 |
+| [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 | 2023-06-30 |  |
 | [Wat Als Later Nu Is](https://open.spotify.com/track/0jYNaO3cN6Fpkxe9VzYCUK) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [‘t Is Mooi Geweest](https://open.spotify.com/album/25TYuXkyQpV3ykpbggkGIj) | 3:38 | 2023-02-10 |  |
 | [Wat Een Dag](https://open.spotify.com/track/1w5D5Ib5VBJu94v6fyzw6w) | [Nol Havens](https://open.spotify.com/artist/7wPy6YZoLBYA5dBDpXEkqG) | [Wat Een Dag](https://open.spotify.com/album/74retVUCzvEwPP20Z2Jhle) | 2:45 | 2023-02-10 | 2023-03-09 |
 | [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 |  |

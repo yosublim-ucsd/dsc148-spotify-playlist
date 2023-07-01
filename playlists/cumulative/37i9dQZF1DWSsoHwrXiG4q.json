@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Deeper Vibe - EP",
+        "url": "https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv"
+      },
+      "artists": [
+        {
+          "name": "Fluidity",
+          "url": "https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376551,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX"
+    },
+    {
+      "album": {
         "name": "Carry Me Away / Mr Right On",
         "url": "https://open.spotify.com/album/7qgQhIJD5TtcmpCmT0NOaj"
       },
@@ -1022,6 +1040,24 @@
       "duration_ms": 273738,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/6qE2iQsG1mAdzQWeXzpszr"
+    },
+    {
+      "album": {
+        "name": "Hospital Mixtape: Lens",
+        "url": "https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h"
+      },
+      "artists": [
+        {
+          "name": "Logistics",
+          "url": "https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274977,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
     },
     {
       "album": {

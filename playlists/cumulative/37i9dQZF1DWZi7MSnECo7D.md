@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Julia Branco
+> Novidades e destaques do indie nacional\. Foto: bule
 
-420 songs - 23 hr 51 min
+421 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Vênus](https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Vênus](https://open.spotify.com/album/2ZMVEWBLpT3Dc4fsHZmROs) | 2:47 | 2022-01-21 | 2022-09-17 |
 | [Zelo](https://open.spotify.com/track/3oMIke70o3excmdrw3e2g9) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Zelo](https://open.spotify.com/album/6KFN7xhPi1XJc30uvDJjBS) | 3:07 | 2022-08-26 | 2022-09-24 |
 | [Zig Zag](https://open.spotify.com/track/3ulcqRaQcoSCw4TplOb0Vl) | [Tietê](https://open.spotify.com/artist/3WuxvUe1aEhYU7ckJ1I9BP) | [Buraco na Parede](https://open.spotify.com/album/6Rv5kiHRjovHL5zrukSGn0) | 5:20 | 2023-05-19 |  |
+| [éramos dois](https://open.spotify.com/track/5fanJH5tkVFmya4yeuph7S) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [dançando sem ninguém me ouvir](https://open.spotify.com/album/6wSiR9T9D00Fi0BcKJoVhH) | 3:04 | 2023-06-30 |  |
 | [Ímpar](https://open.spotify.com/track/4Qo4YT6wQz4EkguY7KAINQ) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [ÍMPAR 60](https://open.spotify.com/album/4zqy15IdFuUcqBO1jEEuLN) | 3:00 | 2022-07-08 | 2023-01-21 |
 | [Última Vez](https://open.spotify.com/track/4215lJTemWhVIkb47BMTwZ) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Última Vez](https://open.spotify.com/album/1IYWQ7VreE5z8uWCgbH59A) | 5:22 | 2022-06-10 | 2022-10-29 |
 

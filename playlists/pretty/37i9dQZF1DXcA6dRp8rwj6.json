@@ -1,13 +1,33 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Stormzy)",
-  "num_followers": 429961,
+  "num_followers": 430105,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmYzZmY0YTE5MTY3ZDE3ZDRlMWJmZjdjNzhmNTE0MzYzZmU4MGU1",
+  "snapshot_id": "MCw4NDYwNWFjZmJhYTYxNTBhMjZmNjdjZGVlM2U4OThlYmQ1YjNiNmFk",
   "tracks": [
+    {
+      "added_at": "2023-06-30 00:15:42",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
+    },
     {
       "added_at": "2023-06-30 00:15:42",
       "album": {

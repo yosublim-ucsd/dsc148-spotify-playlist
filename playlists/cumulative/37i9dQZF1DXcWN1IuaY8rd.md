@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-44 songs - 2 hr 22 min
+45 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [RiGHT NOW](https://open.spotify.com/track/1mK1HDtie9WU6DAw3VAC4r) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [RiGHT NOW](https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE) | 3:32 | 2021-05-26 |  |
 | [sky & blue](https://open.spotify.com/track/1AZKHiqBKfdBxVcWUnJJUj) | [GIRLFRIEND](https://open.spotify.com/artist/4jMAPB1oOdRVwqvGOnsNGn) | [sky & blue](https://open.spotify.com/album/5tNvYlCJYyNXXLKwlP7vpF) | 3:58 | 2021-05-26 |  |
 | [おかえり](https://open.spotify.com/track/2wbsecy8tvh4TbRwsQALjI) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:47 | 2021-05-26 |  |
-| [アンサー](https://open.spotify.com/track/0ud4VAfTH1AOb904kWOTzJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [花と解答](https://open.spotify.com/album/1JavH0LMoyFjKlTUKl7mA7) | 3:51 | 2021-05-26 |  |
+| [アンサー](https://open.spotify.com/track/5w3rC66HQ8fQWg2V3gepdS) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [魔法](https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov) | 3:50 | 2023-06-15 |  |
+| [アンサー](https://open.spotify.com/track/0ud4VAfTH1AOb904kWOTzJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [花と解答](https://open.spotify.com/album/1JavH0LMoyFjKlTUKl7mA7) | 3:51 | 2021-05-26 | 2023-07-01 |
 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 | 2021-05-26 |  |
 | [ハルカミライ](https://open.spotify.com/track/7m7uFwvYtrtHZb2Qw6nT2u) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [\#HAL](https://open.spotify.com/album/2EfUnv86voOYnhBW1PS9Ng) | 2:56 | 2021-05-26 | 2022-07-29 |
 | [不退転 \- アスタのテーマ](https://open.spotify.com/track/79KnY1LVBsQ5Z28btG5Beu) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:53 | 2021-05-26 |  |

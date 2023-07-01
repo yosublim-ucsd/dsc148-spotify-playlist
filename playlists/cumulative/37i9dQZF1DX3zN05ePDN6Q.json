@@ -264,7 +264,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 129229,
       "name": "4Am In Sp",
       "url": "https://open.spotify.com/track/5XU90BgqEJJJLL90V2MFhD"
@@ -438,6 +438,32 @@
       "duration_ms": 252000,
       "name": "Abra\u00e7o do Tempo",
       "url": "https://open.spotify.com/track/2yUfCproWqEB06g2bw7ba8"
+    },
+    {
+      "album": {
+        "name": "Ainda \u00e9 Tempo",
+        "url": "https://open.spotify.com/album/3txA8G6jeflBZjdotmiyxB"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Fac\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK"
+        },
+        {
+          "name": "Alemar",
+          "url": "https://open.spotify.com/artist/762y4kQE966IVmD9SMT79l"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228925,
+      "name": "Ainda \u00e9 Tempo",
+      "url": "https://open.spotify.com/track/2mmLaPqdoSvqY3l1Lyk7ke"
     },
     {
       "album": {
@@ -822,7 +848,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212582,
       "name": "Boombap",
       "url": "https://open.spotify.com/track/6LM2B5QzMIewJLdqXnh2Vq"
@@ -1108,6 +1134,36 @@
       "duration_ms": 298658,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/3tm4WUhDTMBg91iEd9hmm7"
+    },
+    {
+      "album": {
+        "name": "O Resgate do Maestro",
+        "url": "https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "Jota Ghetto",
+          "url": "https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "O Adotado",
+          "url": "https://open.spotify.com/artist/1EsZEQYqVGP7k7AhYkTEBa"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265617,
+      "name": "City Hunters",
+      "url": "https://open.spotify.com/track/0MY6SXaT3Kj6vVZQgYLYq2"
     },
     {
       "album": {

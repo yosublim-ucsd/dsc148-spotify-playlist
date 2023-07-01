@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Killer Mike",
+  "description": "Damn son, where'd ya find this? Cover: Juice WRLD, Cordae",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Body of Lies",
+        "url": "https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Body of Lies",
+      "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
+    },
+    {
+      "album": {
         "name": "I Love Life, Thank You",
         "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
       },
@@ -1464,7 +1486,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 277133,
       "name": "Cell Therapy",
       "url": "https://open.spotify.com/track/5wvxRlpUTSX9CE52yFZsIY"
@@ -1891,6 +1913,28 @@
     },
     {
       "album": {
+        "name": "Dangerous Daringer",
+        "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "Dangerous Daringer",
+      "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
+    },
+    {
+      "album": {
         "name": "Dark Hearted",
         "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
       },
@@ -1986,6 +2030,24 @@
       "duration_ms": 211973,
       "name": "Designer Drugs",
       "url": "https://open.spotify.com/track/2f36pRZBYcLOqEDEhqSnmI"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
     },
     {
       "album": {
@@ -3136,7 +3198,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 258411,
       "name": "Guillotine Dreams",
       "url": "https://open.spotify.com/track/25ZH4Gdkv29iuh8E1PlMuQ"
@@ -3458,7 +3520,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 173480,
       "name": "Hostile Takeover (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/52nPh77HvQfi4pJ138PkJu"
@@ -3736,7 +3798,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 265066,
       "name": "In The Morning (feat. Syd & Thundercat)",
       "url": "https://open.spotify.com/track/5QaUFqVL3D4IqAQh60xGCT"
@@ -4227,6 +4289,32 @@
     },
     {
       "album": {
+        "name": "LALO (feat. 38 Spesh)",
+        "url": "https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280519,
+      "name": "LALO (feat. 38 Spesh)",
+      "url": "https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp"
+    },
+    {
+      "album": {
         "name": "Pain In The City",
         "url": "https://open.spotify.com/album/3DNyLS7YfWoYY4W8B1jKEb"
       },
@@ -4304,7 +4392,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197647,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/3YluTsxXtXw5FkjFsA86fW"
@@ -5511,6 +5599,28 @@
     },
     {
       "album": {
+        "name": "2 Sides To Every Story",
+        "url": "https://open.spotify.com/album/1LzHKQ6GKXeSN7DYyhO76V"
+      },
+      "artists": [
+        {
+          "name": "Teflon",
+          "url": "https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201453,
+      "name": "Out the Gate",
+      "url": "https://open.spotify.com/track/0HoNU4qhfoVUrrLWkmjNP4"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3c8EDoT5199n5XXwfgp3v4"
       },
@@ -6338,6 +6448,32 @@
       "duration_ms": 158080,
       "name": "RIP NIP",
       "url": "https://open.spotify.com/track/2wk8mPIwieospUGsyBHuW2"
+    },
+    {
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218600,
+      "name": "RIP Tracy (feat. Earl Sweatshirt & billy woods)",
+      "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
     },
     {
       "album": {
@@ -7552,7 +7688,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 175894,
       "name": "The Chosen",
       "url": "https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y"
@@ -8191,6 +8327,28 @@
     },
     {
       "album": {
+        "name": "TRUTH OR DARE",
+        "url": "https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245480,
+      "name": "TRUTH OR DARE",
+      "url": "https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP"
+    },
+    {
+      "album": {
         "name": "TURNIN' HEADS",
         "url": "https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50"
       },
@@ -8320,7 +8478,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 154096,
       "name": "Underground Legends",
       "url": "https://open.spotify.com/track/2x4HMvgnuakc5jBOp6m509"

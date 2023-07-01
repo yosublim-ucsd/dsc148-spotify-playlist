@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Creek Will Rise (Live)",
+        "url": "https://open.spotify.com/album/4Uf3xJWBGRwrRfJyBb2x0m"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Creek Will Rise - Live",
+      "url": "https://open.spotify.com/track/0bZiAP7fav7CS9Ay3Zgv70"
+    },
+    {
+      "album": {
         "name": "We Out Here: Live",
         "url": "https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB"
       },

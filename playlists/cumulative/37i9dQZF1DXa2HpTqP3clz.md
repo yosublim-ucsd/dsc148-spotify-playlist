@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites Cover: Dan Tyminski
 
-445 songs - 1 day 2 hr 47 min
+446 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7) | 3:00 | 2022-07-22 | 2023-04-29 |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/1VW5CwDhtHhbGz5UBRLni4) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/0aPhpuXKrJcu0EEo0YYoMI) | 3:00 | 2023-04-28 |  |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/2snpAgA7u9kPs1amwGkVNo) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/1pLEZLzXrFWCG8sEtcwXnq) | 3:00 | 2021-12-17 | 2022-07-29 |
-| [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 | 2022-07-29 |  |
+| [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 | 2022-07-29 | 2023-07-01 |
 | [Shamrock](https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 4:40 | 2021-12-17 |  |
 | [She Left Me Standing on the Mountain](https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Vol\. II](https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY) | 3:25 | 2022-08-26 | 2023-04-24 |
 | [She Sings](https://open.spotify.com/track/0LHHBhcQQ23V0p7Y5MyjC0) | [One Grass Two Grass](https://open.spotify.com/artist/4DOmXqtkPNBgVaJEkYSaQJ) | [She Sings](https://open.spotify.com/album/46M1uGVjeV2Ydw0MPhkqpn) | 4:52 | 2021-12-17 | 2022-01-28 |
@@ -400,6 +400,7 @@
 | [Too Wet to Plow](https://open.spotify.com/track/5RtoqHi2cZGyKlojWxa0it) | [Carolina Blue](https://open.spotify.com/artist/1MpKDPxi8FYXI0nffT057W) | [Take Me Back](https://open.spotify.com/album/64afIjMlFKOxbrkWT5rO12) | 3:09 | 2021-12-17 | 2022-08-27 |
 | [Toward the Fray](https://open.spotify.com/track/7rVlgSnxGCilEgeNx0fmZH) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/22T0mcdsS93DavtxlvHVfb) | 2:42 | 2021-12-17 | 2022-07-17 |
 | [Town's End](https://open.spotify.com/track/4nobx1eDq4WEeZ9mvXqip7) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Hair & Hide](https://open.spotify.com/album/1hWSmIeJs2sgkpoJd7VcYo) | 3:26 | 2021-12-17 | 2022-07-23 |
+| [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 | 2023-06-23 |  |
 | [Traveling the Highway Home](https://open.spotify.com/track/4tDtaYKaHte0FzX3KH6Cgo) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Traveling the Highway Home](https://open.spotify.com/album/7eSMID0T1b6W3PbPRybdPc) | 2:43 | 2021-12-17 | 2022-07-16 |
 | [Troubled Times](https://open.spotify.com/track/0mF8LPhWriCL78r2h2UnXU) | [The Muddy Souls](https://open.spotify.com/artist/1MNJv5xS7pUvBg3ljFLTX3) | [The Raven](https://open.spotify.com/album/0UNap2Kryw872d7Yt4OtCC) | 4:12 | 2022-03-11 | 2022-07-29 |
 | [Turn Me into a Diamond](https://open.spotify.com/track/19VRvX8xmTABSpVa9eiIFF) | [Sharell Bryant](https://open.spotify.com/artist/4yAeOCzeSufeXn1Vccgi7P) | [Turn Me into a Diamond](https://open.spotify.com/album/1gNvyjqoYmm0Ok3imuiZJA) | 2:52 | 2021-12-17 | 2022-07-19 |

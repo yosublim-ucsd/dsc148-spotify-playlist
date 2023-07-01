@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Actual Proof",
+        "url": "https://open.spotify.com/album/2Xyo0fX4walkyM0ITbzZCw"
+      },
+      "artists": [
+        {
+          "name": "Electric Kif",
+          "url": "https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341137,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/5DmEiepcrLcjGA2z0qfQ2w"
+    },
+    {
+      "album": {
         "name": "African Shabtay",
         "url": "https://open.spotify.com/album/6Rj2gkyntZqABajRBksHMm"
       },
@@ -250,7 +272,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 472933,
       "name": "Beyond Now",
       "url": "https://open.spotify.com/track/4p0pz1sMMFhB1gQ5OG93zm"

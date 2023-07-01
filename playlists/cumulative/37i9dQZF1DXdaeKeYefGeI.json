@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 278726,
       "name": "Dans met me",
       "url": "https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0"
@@ -1970,6 +1970,24 @@
       "duration_ms": 268886,
       "name": "Vreemde Leegte",
       "url": "https://open.spotify.com/track/6lk0guHFQTBYnvWYDstwrU"
+    },
+    {
+      "album": {
+        "name": "Vrouw van de Dominee (Live @ Radio Veronica)",
+        "url": "https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176240,
+      "name": "Vrouw Van De Dominee - Live @ Radio Veronica",
+      "url": "https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo"
     },
     {
       "album": {

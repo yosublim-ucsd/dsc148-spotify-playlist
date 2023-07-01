@@ -2559,6 +2559,32 @@
     },
     {
       "album": {
+        "name": "Long Train Runnin' (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/1QHnsqed9WOZs151kHV2Ed"
+      },
+      "artists": [
+        {
+          "name": "Lil Mishka Band",
+          "url": "https://open.spotify.com/artist/5nSNecGsD1jB5a7lETGzGd"
+        },
+        {
+          "name": "The Soulmate Project",
+          "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
+        },
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172920,
+      "name": "Long Train Runnin' - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/17DPEy1HfgZuhDA2iW1H96"
+    },
+    {
+      "album": {
         "name": "Love Music (Intended Immigration Electro Swing Remix)",
         "url": "https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY"
       },

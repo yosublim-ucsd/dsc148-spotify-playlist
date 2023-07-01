@@ -4724,6 +4724,24 @@
     {
       "album": {
         "name": "Close To Me",
+        "url": "https://open.spotify.com/album/32xk9WhWfTektWCFQPM8Xo"
+      },
+      "artists": [
+        {
+          "name": "98alwayslate",
+          "url": "https://open.spotify.com/artist/7gf9yX6HAWmBR1eieaZPqB"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/7JfUm940NkOmCqRHLptcdY"
+    },
+    {
+      "album": {
+        "name": "Close To Me",
         "url": "https://open.spotify.com/album/43E1cAFHFlO86tsJMfnT6M"
       },
       "artists": [
@@ -7980,7 +7998,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 253518,
       "name": "Friendzone (Di Daw Tayo Bagay)",
       "url": "https://open.spotify.com/track/4GgeByozUlRZ5baJNKdSwZ"
@@ -9264,6 +9282,24 @@
       "duration_ms": 207700,
       "name": "halfway",
       "url": "https://open.spotify.com/track/1TsRJY9Z73ziHCNNyKwsGG"
+    },
+    {
+      "album": {
+        "name": "Halika",
+        "url": "https://open.spotify.com/album/7iRws3jj8928CDg0bc99qF"
+      },
+      "artists": [
+        {
+          "name": "Ghicelle",
+          "url": "https://open.spotify.com/artist/7flbvBCpxbRZ9eE9pJqp3a"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "Halika",
+      "url": "https://open.spotify.com/track/1GHhEzFU4P5hm0ur1y3cA5"
     },
     {
       "album": {
@@ -25924,6 +25960,24 @@
       "duration_ms": 210947,
       "name": "We'll Make It",
       "url": "https://open.spotify.com/track/5BQkDSq0Ede8OXMiDFbAPW"
+    },
+    {
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/1ddVz6ywCVmMR1oO9uj9Lc"
+      },
+      "artists": [
+        {
+          "name": "Saint Klutch",
+          "url": "https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167209,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/6VzfvM4PUX4MAbqX9UYXBk"
     },
     {
       "album": {

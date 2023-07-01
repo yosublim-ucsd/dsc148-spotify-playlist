@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 168688,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
@@ -2053,6 +2053,28 @@
     },
     {
       "album": {
+        "name": "Eastern Standard Time",
+        "url": "https://open.spotify.com/album/1sy41T5YegbDebkGBd26pV"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Brass Mafia",
+          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269211,
+      "name": "Eastern Standard Time",
+      "url": "https://open.spotify.com/track/0MD62jX5sCoiKqCFrq8hx2"
+    },
+    {
+      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -2332,6 +2354,24 @@
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "album": {
+        "name": "Eu t\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/0m6sswS3EQ8eyGKojn2dPT"
+      },
+      "artists": [
+        {
+          "name": "Jacarelvis",
+          "url": "https://open.spotify.com/artist/2YfMqCemlX5by5bpQJg0Dw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129675,
+      "name": "Eu t\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/4Uvg7zIxoGzd7yBQiU3v7v"
     },
     {
       "album": {
@@ -2956,7 +2996,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 201546,
       "name": "He's a Tripper",
       "url": "https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG"
@@ -2992,7 +3032,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 153540,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/42bD4w6u8lfSYJgle4pRIu"
@@ -3616,7 +3656,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 194121,
       "name": "Kick the Can",
       "url": "https://open.spotify.com/track/05RDFMBuPLfWqxIG7w4DCa"
@@ -6025,6 +6065,28 @@
     },
     {
       "album": {
+        "name": "Echo Mountain High",
+        "url": "https://open.spotify.com/album/6RqpqMl8ajrqaXIlC0bWcT"
+      },
+      "artists": [
+        {
+          "name": "Long Beach Dub Allstars",
+          "url": "https://open.spotify.com/artist/3zAxGWQqKmDnAsCY57ihKR"
+        },
+        {
+          "name": "Philieano",
+          "url": "https://open.spotify.com/artist/7ybTAfw5cVUt0VVoCmSMtO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228044,
+      "name": "Preacha",
+      "url": "https://open.spotify.com/track/6Ge208oYUVPqvvZBC4WATG"
+    },
+    {
+      "album": {
         "name": "Pressure Drop - The Golden Tracks",
         "url": "https://open.spotify.com/album/2NjDn8q3jeBHZi6nP6ttsc"
       },
@@ -8148,7 +8210,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
@@ -8534,6 +8596,24 @@
       "duration_ms": 225020,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag"
+    },
+    {
+      "album": {
+        "name": "Todo Llegar\u00e1",
+        "url": "https://open.spotify.com/album/3KCMyBZ0L0XBLHQfOLNUOO"
+      },
+      "artists": [
+        {
+          "name": "Trashtucada",
+          "url": "https://open.spotify.com/artist/5XaswkruXoiyiteNBM75Jk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Todo Llegar\u00e1",
+      "url": "https://open.spotify.com/track/38PlvrAQWCDgRFQhtJmHkP"
     },
     {
       "album": {
@@ -9440,6 +9520,24 @@
       "duration_ms": 199733,
       "name": "\u0412\u043e\u043b\u043a\u0438",
       "url": "https://open.spotify.com/track/15deVETTWicD0ZCISOBZ4w"
+    },
+    {
+      "album": {
+        "name": "\u0421 \u0423\u0440\u0430\u043b\u0430!",
+        "url": "https://open.spotify.com/album/1tTJEVmCZuZSyKpOIgqWOc"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0440\u0443\u043f\u043f\u0438\u0440\u043e\u0432\u043a\u0430 \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a",
+          "url": "https://open.spotify.com/artist/4KMJJXTtDpucSoLnvf06Ba"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247160,
+      "name": "\u041b\u0435\u0442\u043e",
+      "url": "https://open.spotify.com/track/4VI9ZutPTzdI5AdBXfqhhQ"
     },
     {
       "album": {

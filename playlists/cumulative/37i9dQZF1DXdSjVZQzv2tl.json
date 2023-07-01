@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Z\u00e9 Neto & Cristiano",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Lauana Prado, Guilherme & Benuto",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 153225,
       "name": "ABALO EMOCIONAL - Ao Vivo",
       "url": "https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja"
+    },
+    {
+      "album": {
+        "name": "To Be (Ao Vivo Em Bras\u00edlia EP4)",
+        "url": "https://open.spotify.com/album/4J251d8QDdjYABrjPImSTy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190704,
+      "name": "Abre A Mente - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/4KUj5wxJuY9Nf7L6guRxrU"
     },
     {
       "album": {
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 161802,
       "name": "Fala Alguma Coisa - Ao Vivo",
       "url": "https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 155284,
       "name": "Gatilho - Ao Vivo",
       "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
@@ -2137,6 +2155,28 @@
     },
     {
       "album": {
+        "name": "Pirulito Vermelho",
+        "url": "https://open.spotify.com/album/6QyoTHLRSr8Z8EkvpQXBQX"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152085,
+      "name": "Pirulito Vermelho",
+      "url": "https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ"
+    },
+    {
+      "album": {
         "name": "Festa das Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 181457,
       "name": "Rancorosa - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7CUQQLRMIeSfa4m2uQcRHp"
@@ -2588,6 +2628,24 @@
       "duration_ms": 203158,
       "name": "Troca de Cal\u00e7ada",
       "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+    },
+    {
+      "album": {
+        "name": "Escolhas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171712,
+      "name": "Um M\u00eas E Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-379 songs - 1 day 3 hr 52 min
+380 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Liberation](https://open.spotify.com/track/41UGzRpR0CRT56XF7GRwbq) | [Kydus](https://open.spotify.com/artist/6YycIIoEl49FGVdmgsABea) | [Liberation](https://open.spotify.com/album/4VbQUD0I1oHtwVbmcIx6rr) | 8:15 | 2021-05-07 | 2022-04-20 |
 | [Light On](https://open.spotify.com/track/3HVSuotnZrZu7dYaUptxwv) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Light On](https://open.spotify.com/album/1xmZAdsCwSmgTPdFdvY71Q) | 4:29 | 2021-05-07 | 2022-04-19 |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 |  |
+| [Lights Go Out](https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lights Go Out](https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m) | 3:06 | 2023-06-30 |  |
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 | 2023-06-12 |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 |  |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 | 2023-06-10 |
@@ -266,7 +267,7 @@
 | [Rewind](https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Rewind EP](https://open.spotify.com/album/2uwlsjnBdNtDzikfUibUjn) | 3:33 | 2021-05-07 | 2022-07-27 |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-10-14 |  |
 | [Riptide](https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Riptide](https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn) | 5:50 | 2021-06-18 | 2022-10-19 |
-| [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2021-05-07 |  |
+| [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2021-05-07 | 2023-07-01 |
 | [Roar \- Adana Twins Remix](https://open.spotify.com/track/5cWtZM21FH4YL0aWq3Syfv) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Roar \(Adana Twins Remix\)](https://open.spotify.com/album/3FY1RYMswstlQcPkPIF9hX) | 8:13 | 2021-05-07 | 2023-05-27 |
 | [Rome](https://open.spotify.com/track/49wIH8xOuabRq4ljFjfH9e) | [Juan Pablo Torrez](https://open.spotify.com/artist/0guszBsvdqSh0MqXkdujXM) | [Rome](https://open.spotify.com/album/0aS70JZhuo8WYnO7sZTSGE) | 7:12 | 2021-05-07 | 2022-04-21 |
 | [Run Away](https://open.spotify.com/track/10etnNyws0WMn5J654CSwE) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Aryan Saleh](https://open.spotify.com/artist/3V3Ye4nzNruEuomiLi2CV2) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:48 | 2021-05-07 | 2022-04-28 |

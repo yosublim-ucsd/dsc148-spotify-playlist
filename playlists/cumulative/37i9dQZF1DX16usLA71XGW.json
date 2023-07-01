@@ -262,6 +262,24 @@
     {
       "album": {
         "name": "Fire",
+        "url": "https://open.spotify.com/album/7lAxGA7kdSK6cl3XcVVLpZ"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202004,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3ZCtiMBm8r1L4V5lwMOa2l"
+    },
+    {
+      "album": {
+        "name": "Fire",
         "url": "https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ"
       },
       "artists": [
@@ -518,7 +536,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 186976,
       "name": "Jooli",
       "url": "https://open.spotify.com/track/2WZqtIHlTeusn6WHLx0aqN"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 174315,
       "name": "La La",
       "url": "https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ"
@@ -1558,10 +1576,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 164989,
       "name": "Toola",
       "url": "https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/5gtHlJlSDBeaHnfR7vnd5X"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0Hkeyxe7TwFxgiM1hhNc3A"
     },
     {
       "album": {
@@ -1620,6 +1656,36 @@
       "duration_ms": 175327,
       "name": "Unanimaliza",
       "url": "https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg"
+    },
+    {
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/72JE0lfLPQLzA0wVkJqU6B"
+      },
+      "artists": [
+        {
+          "name": "HSKE",
+          "url": "https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8"
+        },
+        {
+          "name": "Mayonde",
+          "url": "https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr"
+        },
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/5Uy3sc1qolZIq16vURqlH7"
     },
     {
       "album": {

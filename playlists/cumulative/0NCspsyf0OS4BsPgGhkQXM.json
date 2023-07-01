@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 198095,
       "name": "dashstar*",
       "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
@@ -3904,6 +3904,10 @@
         {
           "name": "Calli Boom",
           "url": "https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
         }
       ],
       "date_added": "2023-06-16",
@@ -10082,6 +10086,10 @@
         {
           "name": "Calli Boom",
           "url": "https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
         }
       ],
       "date_added": "2023-06-16",
@@ -12686,6 +12694,10 @@
         {
           "name": "Calli Boom",
           "url": "https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
         }
       ],
       "date_added": "2023-06-16",

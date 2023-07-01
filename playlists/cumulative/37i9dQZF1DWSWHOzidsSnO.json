@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX"
+    },
+    {
+      "album": {
         "name": "Cobarde (feat. Sergio George)",
         "url": "https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 219394,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
@@ -1727,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "La reina del Delay",
+        "url": "https://open.spotify.com/album/6hx57la49lxF2hmVZXg7jK"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "La reina del Delay",
+      "url": "https://open.spotify.com/track/5ASPT1ujs8dudi9LWqYGbg"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Canciones Crudas",
         "url": "https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV"
       },
@@ -1908,6 +1948,24 @@
       "duration_ms": 157580,
       "name": "Los Tweets",
       "url": "https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g"
+    },
+    {
+      "album": {
+        "name": "Lumbre - Poema de Sarawi Andrango (Radio Edit)",
+        "url": "https://open.spotify.com/album/4QKPxfbN4rveYsnMHvhcqB"
+      },
+      "artists": [
+        {
+          "name": "Sr. Maniqui",
+          "url": "https://open.spotify.com/artist/3RE6WEhNY4Nlj6HRWp5438"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343747,
+      "name": "Lumbre - Poema de Sarawi Andrango (Radio Edit)",
+      "url": "https://open.spotify.com/track/0B6nAALW65x3EoJBseviQc"
     },
     {
       "album": {
@@ -2855,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6a77QQePpJeQv01F8Pimcl"
+      },
+      "artists": [
+        {
+          "name": "Madrigal",
+          "url": "https://open.spotify.com/artist/6l5BOrVZG2Plgjkjm1WTsa"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212177,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/3qMTFFbHJ6W4C3tL8smoCp"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os, 25 Exitos",
         "url": "https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK"
       },
@@ -2964,6 +3040,24 @@
       "duration_ms": 223133,
       "name": "Ruise\u00f1ora",
       "url": "https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT"
     },
     {
       "album": {
@@ -3130,7 +3224,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"

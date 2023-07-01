@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Turnpike Troubadours ",
+  "description": "A new shade of Country. Cover: Billy Strings & Willie Nelson",
   "name": "Indigo",
   "tracks": [
     {
@@ -150,6 +150,28 @@
       "duration_ms": 224754,
       "name": "A Cowboy Knows How",
       "url": "https://open.spotify.com/track/4V5fbXluLR7vmQvAZ1xYYf"
+    },
+    {
+      "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "A Life Where We Work Out (feat. Kaitlin Butts)",
+      "url": "https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F"
     },
     {
       "album": {
@@ -886,7 +908,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 168065,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc"
@@ -1176,6 +1198,24 @@
       "duration_ms": 268856,
       "name": "Burn, Burn, Burn",
       "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
+    },
+    {
+      "album": {
+        "name": "Bury Me In My Hometown",
+        "url": "https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215926,
+      "name": "Bury Me in My Hometown",
+      "url": "https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx"
     },
     {
       "album": {
@@ -7886,7 +7926,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 163626,
       "name": "Using Again",
       "url": "https://open.spotify.com/track/6TQzLEc2mFHyZ4eYXu50ma"
@@ -8270,6 +8310,24 @@
       "duration_ms": 244626,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/6SDAyY4qCtrsTbXGklYJB4"
+    },
+    {
+      "album": {
+        "name": "Where My Wild Things Are",
+        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237781,
+      "name": "Where My Wild Things Are",
+      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
     },
     {
       "album": {

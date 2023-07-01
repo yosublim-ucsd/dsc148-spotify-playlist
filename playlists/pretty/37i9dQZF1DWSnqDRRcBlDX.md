@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,307 likes - 64 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,373 likes - 65 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
+| 1 | [Radiance](https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Radiance](https://open.spotify.com/album/4e7dw7ZW7rpfPxUfoLfDcu) | 5:38 |
 | 2 | [Reverse Psychology](https://open.spotify.com/track/4j6IGvQ60qnehb9apAN73W) | [Ahl Iver](https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV) | [Paradox EP](https://open.spotify.com/album/3Vj4c0xlQr0GEBUypiLaqA) | 6:58 |
 | 3 | [Creeper x Swamplyfe \- Nene H Remix](https://open.spotify.com/track/3O1ITBiIyA86GVLfSVNf2R) | [peachlyfe](https://open.spotify.com/artist/7z5jhhZFj3xUTxipinFogh), [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Swamplyfe](https://open.spotify.com/album/5xD5QYdp2mgQMtl0KDiXjq) | 5:10 |
 | 4 | [Money to Silence You](https://open.spotify.com/track/7o1lqHzZmnAMdTBezJt2ha) | [X\-Alox](https://open.spotify.com/artist/02bXKhV38LfhJraVsQ5qCc) | [Nether Region](https://open.spotify.com/album/0WjHEvhA3F5XfeapAP9vSJ) | 5:08 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 8 | [Lettre de Lacchesi et Mac Declos à Chlär](https://open.spotify.com/track/5hh2Vbq1AqwlZxTUb9WrVF) | [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs), [Mac Declos](https://open.spotify.com/artist/0e9hDO31D6ykXq2hDyjZgO) | [Lettre de Lacchesi et Mac Declos à Chlär](https://open.spotify.com/album/6eYKcGcp5aRyDX6q9z6rzO) | 6:07 |
 | 9 | [Age Of Fantasy](https://open.spotify.com/track/4VZVBZPDUBPWhYBkr79lAF) | [Matasism](https://open.spotify.com/artist/01dmfjE7RpzUe6DJSV5eKD) | [Can You Feel My Soul](https://open.spotify.com/album/29Ysub2qJPNzlAD0j7QLBr) | 5:29 |
 | 10 | [We Both Lost](https://open.spotify.com/track/2MVpbHw9fKYXi0hcYpjdUF) | [B2](https://open.spotify.com/artist/0vpOUJDr3cALJ5AiRFdv2S) | [Heavy Machine](https://open.spotify.com/album/10zEodY1CT4TKevzj78lm4) | 5:36 |
-| 11 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 |
+| 11 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 12 | [Lacoste](https://open.spotify.com/track/53iCpRBnZqy9ZtAhstsNB0) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [PLANÆT](https://open.spotify.com/album/6gkfs9xJ3wGlA8d2guoZdM) | 6:44 |
 | 13 | [Trance Wax 5 \- Ntbr Edit](https://open.spotify.com/track/5XbYkc5rn6a0EJCjYGs6xK) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR) | [Trance Wax 5 \(Ntbr Edit\)](https://open.spotify.com/album/02hz3ZsW7eAdrc1TbNg3K8) | 6:21 |
 | 14 | [Overdriver](https://open.spotify.com/track/0GF7dmw6Ru8PJZZqacGW9b) | [Jusai](https://open.spotify.com/artist/6MrL0meWSWEZf17trGIQmk) | [Inferno](https://open.spotify.com/album/6OYHtHtDE8E5SKTOKH6Jz5) | 6:23 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 18 | [I wanna see u move](https://open.spotify.com/track/3hfFbnhW13OFOoFn1fZxQP) | [Mac Declos](https://open.spotify.com/artist/0e9hDO31D6ykXq2hDyjZgO) | [Hard work always pays off](https://open.spotify.com/album/0kmYFHmlws7IgZyb2X9HSW) | 5:18 |
 | 19 | [Hear The Sound](https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rf1](https://open.spotify.com/album/1q6vPrcAmGbLFsYikTLGfG) | 6:13 |
 | 20 | [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 |
-| 21 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 |
-| 22 | [Paradox](https://open.spotify.com/track/3PmYsWb3qD6VpXY7B8GU3J) | [Ahl Iver](https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV) | [Paradox EP](https://open.spotify.com/album/3Vj4c0xlQr0GEBUypiLaqA) | 5:11 |
+| 21 | [Paradox](https://open.spotify.com/track/3PmYsWb3qD6VpXY7B8GU3J) | [Ahl Iver](https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV) | [Paradox EP](https://open.spotify.com/album/3Vj4c0xlQr0GEBUypiLaqA) | 5:11 |
+| 22 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 |
 | 23 | [Every Night](https://open.spotify.com/track/6aSdY2mKtkquVwPbotUnky) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR), [Jacidorex](https://open.spotify.com/artist/0XSNxwt21dxcFTxaYtQjwe) | [Intimacy](https://open.spotify.com/album/0mt67Q3HEy0q0mI4j7GmRr) | 5:34 |
 | 24 | [Techno Lust](https://open.spotify.com/track/6vrJmOsPKS6tusB8dsnsWI) | [Luca Maier](https://open.spotify.com/artist/0g0YEju2GfxHogh42aySl2), [Marco Leckbert](https://open.spotify.com/artist/49HgT3Jf89Xiw8lKvvemf5) | [Bud Sampler 10](https://open.spotify.com/album/6ccV50uWrOE8Tbopmg5m0B) | 5:48 |
 | 25 | [Croydon Girl](https://open.spotify.com/track/2jcypV3SSKwBjEluT65m8A) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SUF 100](https://open.spotify.com/album/2zcC67qTy18vVfW8Y7nySA) | 7:05 |
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 62 | [Inositol](https://open.spotify.com/track/6uzup75kP3rPi9RhXF8wvd) | [Onleash](https://open.spotify.com/artist/6FaEnx1x0qn1875tHsURM0) | [Tourist World](https://open.spotify.com/album/2DGfNichJs0peivAK6sGYd) | 6:03 |
 | 63 | [NRG](https://open.spotify.com/track/4OCAw0wZ9wDemyYdUIZKFv) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 3:41 |
 | 64 | [Mutant Future](https://open.spotify.com/track/5a5FOSEEq8NKxS9umr8S0q) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Mutant Future](https://open.spotify.com/album/4aCVRkj9c61qEsXlm0yR3o) | 5:36 |
+| 65 | [Smile You're On Acid](https://open.spotify.com/track/1ZrdzMcvmR1s1X0iBa8fxK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Smile You're on Acid](https://open.spotify.com/album/1jDKf465NUOHtFt8QH7hvN) | 3:54 |
 
-Snapshot ID: `MCw0OWVmNGY1OWZjMDhlZmIzYThjMzEzMGJiOTE1MWZlOTgyMzc2NGU2`
+Snapshot ID: `MCwyYTRkZTcxYWU5YmVhNDViZDU1NzM5MjUyMzkzOTViYTZiNjNkYzFk`

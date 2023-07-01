@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-259 songs - 15 hr 10 min
+260 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2022-07-19 | 2022-07-29 |
 | [A Mi Banda](https://open.spotify.com/track/7xVzPnsrUWNstMQ2t4Dcn5) | [Fulgura](https://open.spotify.com/artist/1i7SeHXbKSyxqiCh8e0Yg4) | [A Mi Banda](https://open.spotify.com/album/3IPTHuE3yxcAFzYDBosXhL) | 3:26 | 2022-06-29 | 2023-05-20 |
 | [A Tu Manera](https://open.spotify.com/track/23dQ2uqLfk4z8aJUwwfnms) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:16 | 2023-06-02 | 2023-06-09 |
-| [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-05-19 |  |
+| [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-05-19 | 2023-07-01 |
 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2023-05-30 | 2023-06-09 |
 | [Aclarecer](https://open.spotify.com/track/2eg0qx2CpIJWo8UV7Gee1N) | [Oliver 4](https://open.spotify.com/artist/5LErubZ0xtU7IsRVYTsqFD) | [Aclarecer](https://open.spotify.com/album/5ScRy86d80fQX9AA8mP1qN) | 3:23 | 2022-06-29 | 2022-08-13 |
 | [Adrenalina](https://open.spotify.com/track/1uH0MWiCQxPWA8zxGuq2Rv) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 3:39 | 2023-05-30 | 2023-06-09 |
@@ -244,6 +244,7 @@
 | [Tiempo](https://open.spotify.com/track/6MifdTQLwM8PQEzM9S2TRb) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Tiempo](https://open.spotify.com/album/7hdrzPuHfK4VbgQVpvP8lA) | 3:12 | 2022-06-29 | 2023-05-20 |
 | [TIKI](https://open.spotify.com/track/6Oi46ZScfwLecGdnfi3lB3) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [TIKI](https://open.spotify.com/album/706jigUnjkVzVflc3lDOls) | 1:53 | 2023-05-19 |  |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2022-10-28 | 2023-05-20 |
+| [Todas Esas Horas](https://open.spotify.com/track/3zw6zrVq38WqsxITYMEq5r) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Todas Esas Horas](https://open.spotify.com/album/0LY0umF9eeV9ZFhR9AKXPa) | 3:12 | 2023-06-30 |  |
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-06-29 | 2023-04-29 |
 | [Tus Asuntos](https://open.spotify.com/track/0tlQiM6xM6frP0jdYHT1Aw) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:19 | 2022-07-19 | 2023-05-20 |
 | [Un demonio](https://open.spotify.com/track/0NwKbZrsXH5FqFQMFKeeDg) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Un demonio](https://open.spotify.com/album/2ZSLCx4FVuCAb6R5df0zax) | 1:12 | 2022-06-29 | 2022-07-20 |

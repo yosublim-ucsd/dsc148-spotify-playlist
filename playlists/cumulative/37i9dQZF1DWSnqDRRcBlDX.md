@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-126 songs - 12 hr 23 min
+128 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Pure Vision \- Original Mix](https://open.spotify.com/track/2FcT6QZh4OWDHwt7eZ2oUR) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Pure Visions](https://open.spotify.com/album/4So1TYs7lW6JPi2yyn3Nax) | 5:49 | 2022-12-02 | 2023-01-28 |
 | [Queen Of Darkness](https://open.spotify.com/track/4triZ5u7p5jm2nfExElnlc) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 5:27 | 2023-01-27 |  |
 | [Race Against the Time \- MRD Remix](https://open.spotify.com/track/6GLMz67ulk9MjJRBLUxyMU) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [U R TRA$H!](https://open.spotify.com/album/4r874Sg4AEqjcqrRCIiAeq) | 7:56 | 2022-12-02 |  |
+| [Radiance](https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Radiance](https://open.spotify.com/album/4e7dw7ZW7rpfPxUfoLfDcu) | 5:38 | 2023-06-30 |  |
 | [Rave 2000](https://open.spotify.com/track/5n5Xbqn22mtMSPucxySxgz) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Obvious Intention](https://open.spotify.com/album/3CXQwErEMo6wKhmO7INRJf) | 5:36 | 2023-01-27 |  |
 | [Rave Stabba](https://open.spotify.com/track/1V0vWwpBldwfDnFMwkk3rH) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Rave Killa EP](https://open.spotify.com/album/6Ia4fFVK7Y84uShycxc4WE) | 5:24 | 2023-01-27 |  |
 | [Reality Bytes \- Felicie Remix](https://open.spotify.com/track/4Rlte7rOgMASHxLy9J87M8) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1), [Felicie](https://open.spotify.com/artist/1ioXGtrKnWiL9LpufDvlVt) | [Reality Bytes](https://open.spotify.com/album/45sj5tmyOmyF1zuaoQR03p) | 5:05 | 2022-12-02 | 2023-01-28 |
@@ -113,6 +114,7 @@
 | [Seraphin](https://open.spotify.com/track/5xJr20EuKMamebCzVjBNKn) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 4:55 | 2023-01-27 |  |
 | [Sex and Cocaine](https://open.spotify.com/track/2Aiev24bau2UBh6rdiX58o) | [Åre:gone](https://open.spotify.com/artist/0OGldyTNlaYb1RJbvB9CcD) | [PUBLIC HOSTILITY PT.1](https://open.spotify.com/album/5x4nqiIsndU4RxLQFSJVLM) | 6:00 | 2022-12-02 | 2023-01-28 |
 | [Shot \- Original Mix](https://open.spotify.com/track/14FIBGvZmcT7vIv9nfrMiv) | [Svetec](https://open.spotify.com/artist/2IOR06B1bFw3KTm2UADPY4), [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Mad Fusions Vol.01.](https://open.spotify.com/album/57GXqMa0yiNu4vgqqOQRgB) | 5:39 | 2022-12-02 | 2023-01-28 |
+| [Smile You're On Acid](https://open.spotify.com/track/1ZrdzMcvmR1s1X0iBa8fxK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Smile You're on Acid](https://open.spotify.com/album/1jDKf465NUOHtFt8QH7hvN) | 3:54 | 2023-06-30 |  |
 | [SOCIETY](https://open.spotify.com/track/6KmRMTjhOIgYotycAmNV01) | [Shadym](https://open.spotify.com/artist/2FAcowReyHGYZZ0MIkjjOA) | [SOCIETY](https://open.spotify.com/album/5cs7IJen5bTKsesBPMCJng) | 7:10 | 2022-12-02 | 2023-01-28 |
 | [Somewhen \- 437p](https://open.spotify.com/track/2hOgMqywNsliLHgcIFXCkt) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [HOME I](https://open.spotify.com/album/4oIxUf66to46M5IWpNbQdN) | 5:23 | 2023-01-27 | 2023-06-03 |
 | [Split Your Love](https://open.spotify.com/track/1DGKKwBknMdXB9kedNfbfq) | [Rudosa](https://open.spotify.com/artist/1a4cEeeD2n2cR5qA7ARsDZ), [Blicz](https://open.spotify.com/artist/3PnWOaMJ1XWctt7UBJuwz0) | [Split Your Love](https://open.spotify.com/album/0H88NpPzSVquaTui3c9Wct) | 5:59 | 2023-06-02 |  |
@@ -125,7 +127,7 @@
 | [The Future Is Matriarchy](https://open.spotify.com/track/4RQ5VbZ1SROn21PqFnyzJO) | [Chemtrailz](https://open.spotify.com/artist/2WpUJakJfh31nd57x81yjI) | [The Future Is Matriarchy](https://open.spotify.com/album/1hOHvQ9DUy8dFoJ808wanA) | 5:50 | 2023-06-02 |  |
 | [The Quantum Collision](https://open.spotify.com/track/4SY9giYIR4HotlfGs0EBzm) | [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [The Quantum Collision](https://open.spotify.com/album/2eg4btBVmtpayERKfJXnr2) | 6:18 | 2022-12-02 | 2023-01-28 |
 | [Trance Wax 5 \- Ntbr Edit](https://open.spotify.com/track/5XbYkc5rn6a0EJCjYGs6xK) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR) | [Trance Wax 5 \(Ntbr Edit\)](https://open.spotify.com/album/02hz3ZsW7eAdrc1TbNg3K8) | 6:21 | 2022-12-02 |  |
-| [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 | 2023-02-10 |  |
+| [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 | 2023-02-10 | 2023-07-01 |
 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/1zgkuQAjwHz9dpy1ty7bX7) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity \(Amelie Lens Remix\)](https://open.spotify.com/album/3bH5A96xSwh8C1Qb1Mn3qU) | 7:23 | 2023-02-10 | 2023-02-23 |
 | [Trippin'](https://open.spotify.com/track/3VXyb65hlabLcfaHYQm8j8) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [In My Mind EP](https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp) | 5:18 | 2022-12-02 | 2023-01-28 |
 | [UNDER THE VAULT](https://open.spotify.com/track/4ds0gcec443bVW4Uek3L5V) | [Sept](https://open.spotify.com/artist/1pteEYBBIJjSjZlgkvGjAz) | [SENTENCE THREE](https://open.spotify.com/album/1AKUhvXqaKlQvh6AbQbdAy) | 6:02 | 2022-12-02 | 2023-01-28 |

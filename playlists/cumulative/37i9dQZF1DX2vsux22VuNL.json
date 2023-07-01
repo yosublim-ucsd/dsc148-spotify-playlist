@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212000,
       "name": "Facilitei",
       "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
@@ -2010,6 +2010,28 @@
       "duration_ms": 141688,
       "name": "Fixa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6su9AZXjpyLYT9DptbsTE5"
+    },
+    {
+      "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "album": {
@@ -3130,7 +3152,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 154482,
       "name": "Mundo da lua",
       "url": "https://open.spotify.com/track/7f3uGk70qlfUrX1n3nvSRC"
@@ -4762,6 +4784,24 @@
       "duration_ms": 206181,
       "name": "Sem Filtro",
       "url": "https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz"
+    },
+    {
+      "album": {
+        "name": "SENHORA LUZ",
+        "url": "https://open.spotify.com/album/1GsIiBUbWvPe32iTlDsSLR"
+      },
+      "artists": [
+        {
+          "name": "Filipe Escandurras",
+          "url": "https://open.spotify.com/artist/0LzKJGPuCzCpzO1nzfasU4"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156300,
+      "name": "Senhora Luz",
+      "url": "https://open.spotify.com/track/4AM4zsEdvpxM6SInhjRFZF"
     },
     {
       "album": {

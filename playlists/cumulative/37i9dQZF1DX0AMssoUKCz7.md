@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-615 songs - 1 day 7 hr 32 min
+616 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 | 2022-04-01 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/2rY4Av7vaXEyw3yN8KIXPq) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX), [Adam Pickard](https://open.spotify.com/artist/2yuL9DInzOPj4hYt4oJy5s) | [BALANCE](https://open.spotify.com/album/2KfW7kNn56L8sgZDf3Izqw) | 3:22 | 2022-07-08 |  |
 | [Drifting Away](https://open.spotify.com/track/4rKqTKbRdrqIT4WOB0ZMxK) | [Sole Sole](https://open.spotify.com/artist/4yXtr3OVVcpDlFomRRVM7Z), [SLEO](https://open.spotify.com/artist/31hAyy3vaJnrYBCkWJdwHK) | [Drifting Away](https://open.spotify.com/album/2fAYU2d1yLcv1jm2aJVBk6) | 2:21 | 2022-04-01 |  |
-| [Drowning](https://open.spotify.com/track/4rZPXoHjYAaKqxaWE43KFW) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [Drowning](https://open.spotify.com/album/2CokScujjN2iZpccffiErq) | 2:46 | 2022-04-29 |  |
+| [Drowning](https://open.spotify.com/track/4rZPXoHjYAaKqxaWE43KFW) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [Drowning](https://open.spotify.com/album/2CokScujjN2iZpccffiErq) | 2:46 | 2022-04-29 | 2023-07-01 |
 | [Déjà Vu](https://open.spotify.com/track/2vajU8g5DJCuthr5pb7RVT) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:56 | 2022-01-14 | 2022-06-16 |
 | [Easy Love](https://open.spotify.com/track/6Sr8JkH7XRVk7Dnar9Xsr5) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Easy Love](https://open.spotify.com/album/1rMPJblLr89uOAzmmfr2Zp) | 3:47 | 2022-01-14 | 2022-04-21 |
 | [Easy On Me](https://open.spotify.com/track/3BLvU4zHD8w0g7wb12uY31) | [Beutos](https://open.spotify.com/artist/1KvbvotHOObSHbomrF8JVZ), [Lucha](https://open.spotify.com/artist/0jkgNCEAyUXUD4u8nO6olG) | [Easy On Me](https://open.spotify.com/album/0PSIoEb3n3fRhYdLUrMKsz) | 2:01 | 2022-04-15 | 2022-04-23 |
@@ -421,6 +421,7 @@
 | [Paradise](https://open.spotify.com/track/2iEmvSAgiDs88DSYjvNsa2) | [José Lucas](https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP) | [Paradise](https://open.spotify.com/album/2vWWCxY9skwNkBujtM0R2G) | 3:15 | 2022-12-23 |  |
 | [Paradise](https://open.spotify.com/track/6hmEfkBtsBnOGoXPS0AULw) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Paradise](https://open.spotify.com/album/6N396y1yfDrriAkUx1ESs3) | 3:05 | 2022-09-30 | 2023-06-14 |
 | [Part of Me](https://open.spotify.com/track/7i6bGz9lcLzT1TA7Oi6rCC) | [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Part of Me](https://open.spotify.com/album/1fqCw1wJoJltXN65GhcxZc) | 3:18 | 2022-04-01 | 2022-04-16 |
+| [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-06-26 |  |
 | [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-11-11 | 2023-06-18 |
 | [Perfect Strangers](https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p) | 3:16 | 2022-04-01 | 2022-04-19 |
 | [Photograph](https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Photograph](https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG) | 2:54 | 2022-09-23 | 2023-01-14 |

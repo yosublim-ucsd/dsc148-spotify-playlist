@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-213 songs - 16 hr 34 min
+215 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,10 +129,12 @@
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2023-05-11 |  |
 | [Lights Up \- Myd Remix](https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(Myd Remix\)](https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR) | 3:35 | 2023-04-13 |  |
 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 | 2023-04-13 |  |
+| [Lonely Raver](https://open.spotify.com/track/7cmnxZinUFs7jyjdHh9vY8) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Lonely Raver](https://open.spotify.com/album/7lCA9TtuM4nFdjsnpN1dBB) | 7:09 | 2023-06-30 |  |
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-06-29 |  |
 | [Love](https://open.spotify.com/track/5k8XGEzhljUnTorL5xN04x) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI) | [Love](https://open.spotify.com/album/4nxPGYSxjwQLmGob9jFHlR) | 5:47 | 2023-06-29 |  |
 | [Love Boat](https://open.spotify.com/track/5YncqodZTqrslQgBaRUUnb) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Love Boat](https://open.spotify.com/album/4D6DgqfNoWXq93g3MTKOyG) | 2:57 | 2023-05-25 |  |
 | [Lucky Luke](https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Lucky Luke](https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA) | 6:24 | 2023-06-22 |  |
+| [LVSCK](https://open.spotify.com/track/2LhasyAAL9Vhv0EtOgqY0v) | [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [MAXI SINGLE](https://open.spotify.com/album/2BQDyasLD7aSUZW2lbLIuP) | 4:19 | 2023-06-30 |  |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-04-13 |  |
 | [Magic \- Dave + Sam Remix](https://open.spotify.com/track/40ZMNSpiY0JvcdJZdqeY7f) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ), [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf) | [Magic \(Dave + Sam Remix\)](https://open.spotify.com/album/2xpxws9wbjWas9aXI0NPhT) | 4:21 | 2023-06-29 |  |
 | [Manifesto \(feat\. Jungle By Night\)](https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 7:23 | 2023-06-29 |  |

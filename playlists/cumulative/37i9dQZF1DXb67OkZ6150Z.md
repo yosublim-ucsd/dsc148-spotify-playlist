@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-402 songs - 1 day 0 hr 40 min
+404 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2021-10-08 | 2022-07-29 |
 | [Bad Romance](https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Bad Romance](https://open.spotify.com/album/3l9tsAiTVPtgkSEDBhGHUP) | 4:04 | 2021-03-12 | 2022-04-14 |
 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2021-08-27 |  |
-| [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 | 2021-03-19 |  |
+| [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 | 2021-03-19 | 2023-07-01 |
 | [Bette Davis Eyes](https://open.spotify.com/track/3l9rl836p8CTjT9y7CgUSC) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/6Wvbmfc8AHycLdjwMPG0Bu) | 3:30 | 2021-07-21 | 2022-11-20 |
 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 | 2022-11-11 |  |
 | [Betty](https://open.spotify.com/track/4a47EpkpPOGg385haAvIHD) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [The Version Suicides, Vol\. 1](https://open.spotify.com/album/7ei8Uc7c88OhGdEkbbpKbN) | 5:00 | 2021-03-12 | 2022-07-29 |
@@ -66,6 +66,7 @@
 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1uddOsj7TyRA13hnS2yDyk) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/2bMqAaEuEUDHBkdTNAUl1f) | 3:29 | 2021-03-12 | 2022-07-28 |
 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 | 2021-07-21 |  |
 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2021-03-12 |  |
+| [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 | 2023-06-30 |  |
 | [Cheers](https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Cheers](https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb) | 4:06 | 2021-07-21 | 2022-07-25 |
 | [Circles](https://open.spotify.com/track/0RGKuaNd2ZTNDzeNyeZtqx) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Circles](https://open.spotify.com/album/3zqjSHtecKFZw8CkOhr7qv) | 2:59 | 2021-03-12 | 2022-07-25 |
 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 | 2021-11-19 |  |
@@ -199,7 +200,7 @@
 | [It's You](https://open.spotify.com/track/6SkG8OCuHktTfEPBGB2uHL) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [It's You](https://open.spotify.com/album/0cZjs7bWRgLtzM9rih3Bsw) | 4:16 | 2022-02-25 | 2022-07-29 |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-03-12 | 2022-07-28 |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-17 |  |
-| [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 |  |
+| [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 | 2023-07-01 |
 | [Just the Two of Us](https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Just the Two of Us](https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC) | 2:44 | 2021-03-12 |  |
 | [keep your head up](https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [keep your head up](https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf) | 3:26 | 2023-05-26 |  |
 | [Kids](https://open.spotify.com/track/41KEwBsz0vFOMaSiujdfci) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Kids](https://open.spotify.com/album/4jyTfc5rR5SdTgGnlAdaCa) | 4:03 | 2022-02-25 | 2022-07-29 |
@@ -229,6 +230,7 @@
 | [Love On The Brain \- Los Feliz Blvd](https://open.spotify.com/track/135EP4qT9Eo0Uu0fMIln2c) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Love On The Brain \(Los Feliz Blvd\)](https://open.spotify.com/album/66ppJdnCXQSSapBecQaUhp) | 4:26 | 2021-03-12 | 2022-07-27 |
 | [Lovefool](https://open.spotify.com/track/7rCqnuoSNr25qTcl5WOgtl) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Lovefool](https://open.spotify.com/album/2wkMjAppwIgYT6dgQYGHNS) | 3:22 | 2021-07-21 | 2022-07-28 |
 | [Lovesong](https://open.spotify.com/track/2XzDu5t3n44Oa0aN7AHKv6) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Lovesong](https://open.spotify.com/album/19h1AG8vzVgAsbgPsx6wZW) | 4:02 | 2021-03-12 | 2022-04-14 |
+| [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 | 2023-06-30 |  |
 | [Maps \- Single Version](https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Maps](https://open.spotify.com/album/78mLW6X19S0jCuT8e6zZg0) | 2:29 | 2021-03-12 | 2022-04-14 |
 | [Maybe Tomorrow](https://open.spotify.com/track/719mBMKamIop3zjxSD0REL) | [BowLand](https://open.spotify.com/artist/6wP8Zgqr5XdEcCPn97OBFl) | [Maybe Tomorrow](https://open.spotify.com/album/1BWuQzuSlLtLRFSZjJANXX) | 2:46 | 2021-07-21 | 2022-04-18 |
 | [Me](https://open.spotify.com/track/3H3E7tsZCFSVRCs0bRcpEk) | [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Me](https://open.spotify.com/album/30YXmjBcBEPw5NlkmjXKif) | 3:14 | 2021-07-21 | 2022-06-16 |

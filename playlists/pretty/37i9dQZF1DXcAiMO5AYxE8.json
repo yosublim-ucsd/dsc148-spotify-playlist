@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 480857,
+  "num_followers": 480953,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmYwOGZiOTBhOTUwNTNjYzliMTM2ZDVlNzI4NmYzM2ZjNzJjMTNi",
+  "snapshot_id": "MCw1OTdjYWMzZjZiYjM3M2UxZWU4OTE2YWJmMmZhYmU3MWQ0N2I0MzM5",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "What Cha Gonna Do With My Lovin'",
-        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "What Cha Gonna Do With My Lovin'",
-      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "This Is It (Expanded Edition)",
         "url": "https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 211853,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "What Cha Gonna Do With My Lovin'",
+        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "What Cha Gonna Do With My Lovin'",
+      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB"
-      },
-      "artists": [
-        {
-          "name": "Angela Bofill",
-          "url": "https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Holdin' Out for Love",
-      "url": "https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Master of the Game (Expanded Edition)",
         "url": "https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 186306,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB"
+      },
+      "artists": [
+        {
+          "name": "Angela Bofill",
+          "url": "https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Holdin' Out for Love",
+      "url": "https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp"
     },
     {
       "added_at": "2020-04-14 18:41:41",

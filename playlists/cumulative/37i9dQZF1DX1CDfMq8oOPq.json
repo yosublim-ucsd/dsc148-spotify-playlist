@@ -116,7 +116,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 198000,
       "name": "A Cuca",
       "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
@@ -340,6 +340,28 @@
       "duration_ms": 110421,
       "name": "Betty Boop",
       "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
+    },
+    {
+      "album": {
+        "name": "Bitch Eu Sou Incrivel",
+        "url": "https://open.spotify.com/album/26LBXrEuj2MZgJ3FYnfcZ9"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121831,
+      "name": "Bitch Eu Sou Incrivel",
+      "url": "https://open.spotify.com/track/1rU4r9XgR7FUgDcJ5eyI2f"
     },
     {
       "album": {

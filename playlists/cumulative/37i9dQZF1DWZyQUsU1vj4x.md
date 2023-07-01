@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-174 songs - 10 hr 46 min
+175 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Big Sky](https://open.spotify.com/track/0np7TwbqUvlOAz2tgttt1q) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:32 | 2019-10-31 | 2022-07-29 |
 | [Big Sky](https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:32 | 2022-01-27 |  |
 | [Blackbird Song](https://open.spotify.com/track/685WYfzmOeDOF4laU8UuOv) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Blackbird Song](https://open.spotify.com/album/6oWLeB5L4v1aGIg3o13wTM) | 4:14 | 2019-10-31 |  |
+| [Brave Are the Waves](https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq) | [The Leisure Society](https://open.spotify.com/artist/6SzmRtk9EnP5q1rqfqbfSW), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brave Are the Waves](https://open.spotify.com/album/6upCEAEHiChDghpLuHXG0H) | 2:20 | 2023-06-30 |  |
 | [Bronze \(Desert Mix\)](https://open.spotify.com/track/3YcvFeJbnzDyWNxAFUhziH) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:48 | 2019-10-31 | 2022-07-29 |
 | [Bronze \- Desert Mix](https://open.spotify.com/track/1PxH2A4J8Br5uS9Z2S9CN8) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2vmKBrFef6FFwZtX1DBvcW) | 3:48 | 2022-01-27 |  |
 | [Bullet Proof Soul](https://open.spotify.com/track/0BwkrHVAVHdb2pSxL8yEMG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Stargazing](https://open.spotify.com/album/1h81fExuUWbFElcVHk5x9Q) | 4:38 | 2022-10-21 | 2022-11-13 |

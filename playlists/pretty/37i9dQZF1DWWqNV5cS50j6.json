@@ -1,13 +1,81 @@
 {
-  "description": "Sam Austins makes anti pop.",
-  "num_followers": 697610,
+  "description": "Yeek & Paris Texas make anti pop.",
+  "num_followers": 697637,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTM1N2MxMzgzMmNjYTQwMDNkY2I2NTIwYjQ1NDk4ZTVkZjU5NjRh",
+  "snapshot_id": "MCwwOTdmNGZkNTQ1MTc2YzczOGYwYzczZDU3ZGI1YjMxM2EyZjdmNTc1",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "ETA2 (feat. Paris Texas)",
+        "url": "https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "ETA2 (feat. Paris Texas)",
+      "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
+    },
+    {
+      "added_at": "2023-06-02 16:53:02",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "'Decent",
+        "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "internetboy",
+          "url": "https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW"
+        }
+      ],
+      "duration_ms": 261782,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm"
+    },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
@@ -41,6 +109,22 @@
       "url": "https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 100704,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7"
+    },
+    {
       "added_at": "2023-06-20 14:12:05",
       "album": {
         "name": "Outta My Mind",
@@ -71,6 +155,22 @@
       "duration_ms": 215067,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "HAN",
+        "url": "https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 264683,
+      "name": "G2g",
+      "url": "https://open.spotify.com/track/05dhhYqPer4fPD9Cwtu7NP"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -109,6 +209,58 @@
       "url": "https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Bad Sports",
+        "url": "https://open.spotify.com/album/6YJHZfZHLAuwCfBN5FbzPI"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 257684,
+      "name": "Bull Fighter",
+      "url": "https://open.spotify.com/track/4i9wgfnHp6dcEcYcwsQvVO"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2023-06-01 14:26:07",
+      "album": {
+        "name": "before the afters",
+        "url": "https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 116128,
+      "name": "ur the only one i'm talking to",
+      "url": "https://open.spotify.com/track/2mfOpCyCrtoI0SGDM45LxW"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Treading",
@@ -139,42 +291,6 @@
       "duration_ms": 127707,
       "name": "U SAID!",
       "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
-    },
-    {
-      "added_at": "2023-06-01 14:26:07",
-      "album": {
-        "name": "before the afters",
-        "url": "https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 116128,
-      "name": "ur the only one i'm talking to",
-      "url": "https://open.spotify.com/track/2mfOpCyCrtoI0SGDM45LxW"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4qzFpBw5XFOcy2a76DDwQK"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        },
-        {
-          "name": "FENGSEL",
-          "url": "https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq"
-        }
-      ],
-      "duration_ms": 153204,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -209,20 +325,40 @@
       "url": "https://open.spotify.com/track/6tfoSWteKyW43Cf0Usdywm"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
+        "name": "BIRDSONGS, Vol. 3",
+        "url": "https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
         }
       ],
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
+      "duration_ms": 135625,
+      "name": "Easy On Them Turns",
+      "url": "https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4qzFpBw5XFOcy2a76DDwQK"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "FENGSEL",
+          "url": "https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq"
+        }
+      ],
+      "duration_ms": 153204,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -241,6 +377,22 @@
       "url": "https://open.spotify.com/track/341gRwF2amC0B8Ow2K2ION"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Mama's Boy",
+        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
+    },
+    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Space Junk",
@@ -255,6 +407,22 @@
       "duration_ms": 129653,
       "name": "Space Junk",
       "url": "https://open.spotify.com/track/5FpKr3xHQuBCf8vf10047b"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 165989,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -393,6 +561,26 @@
       "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Toro Y Rome Vol. 1",
+        "url": "https://open.spotify.com/album/1W2fD7CSls8BSGAeUXUlPp"
+      },
+      "artists": [
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/1UcVVqUun6yljvpoXpfrLR"
+    },
+    {
       "added_at": "2023-06-06 14:11:28",
       "album": {
         "name": "heaven",
@@ -473,22 +661,6 @@
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
-      "added_at": "2023-06-02 16:53:02",
-      "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "SPEED RUN",
@@ -531,6 +703,34 @@
       "duration_ms": 227954,
       "name": "Send Me Off",
       "url": "https://open.spotify.com/track/0uCIbG0Dx6ACLTwtoTB6k1"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/5akoXt3vSCNWMeXupFFMJM"
+      },
+      "artists": [
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "TJOnline",
+          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "duration_ms": 210281,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/5lloTtcIATH7MXSx2BQSvC"
     },
     {
       "added_at": "2023-06-07 19:05:53",
@@ -863,22 +1063,6 @@
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
-        "name": "Made Your Mama Cry",
-        "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
-      },
-      "artists": [
-        {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
-        }
-      ],
-      "duration_ms": 158451,
-      "name": "Made Your Mama Cry",
-      "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
         "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
         "url": "https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne"
       },
@@ -935,22 +1119,6 @@
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
-        "name": "What Box?",
-        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
-      },
-      "artists": [
-        {
-          "name": "Terry Presume",
-          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
         "name": "Mamacita (feat. A$AP Rocky)",
         "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
       },
@@ -983,22 +1151,6 @@
       "duration_ms": 192592,
       "name": "I Did Drugs For You",
       "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -1095,22 +1247,6 @@
       "duration_ms": 202493,
       "name": "DOOLALLY",
       "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -1251,22 +1387,6 @@
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 126700,
-      "name": "Duo",
-      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
         "name": "fantasize",
         "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
@@ -1295,22 +1415,6 @@
       "duration_ms": 125090,
       "name": "lazy (haste)",
       "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "park city, utah",
-        "url": "https://open.spotify.com/album/6HxTjntl7YX5tk2qbnU2wt"
-      },
-      "artists": [
-        {
-          "name": "Buppy.",
-          "url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4"
-        }
-      ],
-      "duration_ms": 165690,
-      "name": "park city, utah",
-      "url": "https://open.spotify.com/track/2Q7GXRBEMvKhdRefjtmuaJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1553,26 +1657,6 @@
       "url": "https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ"
     },
     {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2cizw1XcPbsvih0hfJ8ydi"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159732,
-      "name": "Buzzed",
-      "url": "https://open.spotify.com/track/46vrZhwggdZuuZGwIQ80O3"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Change My Mind",
@@ -1655,54 +1739,6 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Don't Make Me Go Wrong",
-        "url": "https://open.spotify.com/album/3kSyH8xI2iecmqWLrUQN3T"
-      },
-      "artists": [
-        {
-          "name": "Moritz",
-          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
-        }
-      ],
-      "duration_ms": 199909,
-      "name": "Don't Make Me Go Wrong",
-      "url": "https://open.spotify.com/track/2zIDLsduXFSguKxHgzuq0A"
-    },
-    {
-      "added_at": "2023-06-02 16:04:00",
-      "album": {
-        "name": "Painless",
-        "url": "https://open.spotify.com/album/5srVsRgd3pNpsc8ccpAGL7"
-      },
-      "artists": [
-        {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
-        }
-      ],
-      "duration_ms": 194878,
-      "name": "Painless",
-      "url": "https://open.spotify.com/track/4hMjAmwoUCDCXHO0aAnshF"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Late Once Again",
-        "url": "https://open.spotify.com/album/710wHUIqceJOfMHq41VK1l"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 205901,
-      "name": "Late Once Again",
-      "url": "https://open.spotify.com/track/1H3VTQJPtdZ1pBJh467AuM"
     }
   ],
   "unique_name": "anti pop",

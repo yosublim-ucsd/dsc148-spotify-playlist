@@ -1,13 +1,45 @@
 {
-  "description": "All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO-Ls!",
-  "num_followers": 1103866,
-  "original_name": "This Is: EXO",
+  "description": "All the megahits by the South Korean boy band are right here! We are one! ",
+  "num_followers": 1104844,
+  "original_name": "This Is EXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGYwMGQ0MjE5YzM0ZTY1NTcwZTRiNTVjOGE4M2M4ZDdjNGNmOWI0",
+  "snapshot_id": "MCwzMmM5ZTA2ZTM5ODIwMmM3ZjRmNWQxYTc2N2E1NzA2NGUwNDdlYmRh",
   "tracks": [
+    {
+      "added_at": "2023-06-30 09:00:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
+    },
+    {
+      "added_at": "2023-06-30 09:00:00",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
+    },
     {
       "added_at": "2023-03-13 06:58:50",
       "album": {
@@ -1665,6 +1697,6 @@
       "url": "https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv"
     }
   ],
-  "unique_name": "This Is: EXO",
+  "unique_name": "This Is EXO",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf"
 }

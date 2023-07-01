@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZw4tssbbZmb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZw4tssbbZmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZw4tssbbZmb)
 
-### [Ambiente x Devendra Banhart & Noah Georgeson](https://open.spotify.com/playlist/37i9dQZF1DWZw4tssbbZmb)
+### [Ambient X Takeover: Devendra Banhart & Noah Georgeson](https://open.spotify.com/playlist/37i9dQZF1DWZw4tssbbZmb)
 
-> Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 26 songs - 2 hr 31 min
 

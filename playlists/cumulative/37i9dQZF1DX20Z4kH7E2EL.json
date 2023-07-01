@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 336716,
       "name": "Cloudy - Kelbin Remix",
       "url": "https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 630240,
       "name": "Everything Connected",
       "url": "https://open.spotify.com/track/3oWBMOzkjjkCmV6abncBUd"
@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221386,
+      "name": "Frontier",
+      "url": "https://open.spotify.com/track/10MxEAlZuBPiidcQ9cNyvx"
+    },
+    {
+      "album": {
         "name": "Came Here For Love EP",
         "url": "https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi"
       },
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 356190,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/6ZrkMngeMwqJBv7nZcT1bG"
@@ -1620,6 +1642,24 @@
       "duration_ms": 235121,
       "name": "Life Window",
       "url": "https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS"
+    },
+    {
+      "album": {
+        "name": "Debiasing EP",
+        "url": "https://open.spotify.com/album/7wKUtfY6wtS65qsA4RRAvq"
+      },
+      "artists": [
+        {
+          "name": "Barker",
+          "url": "https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316754,
+      "name": "Look How Hard I've Tried",
+      "url": "https://open.spotify.com/track/6GNXHie8d6aN0rxFMnj2tx"
     },
     {
       "album": {
@@ -2134,7 +2174,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 415200,
       "name": "Play by Play - Riva Starr Edit",
       "url": "https://open.spotify.com/track/6zdaywP9gc7EnPx9ZgLKN3"
@@ -2152,7 +2192,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 368075,
       "name": "Poignant Letters - Extended",
       "url": "https://open.spotify.com/track/4ETaeFSEd8sVzFUQQZ2hF0"
@@ -2290,7 +2330,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 274383,
       "name": "Regulate - Extended Mix",
       "url": "https://open.spotify.com/track/7Fy8OkPyJBxxkgvWfghyd2"
@@ -2576,7 +2616,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 208615,
       "name": "Still Dream About You",
       "url": "https://open.spotify.com/track/1kZGC1ZzN7Xo9YKcEGasnI"
@@ -2664,6 +2704,24 @@
       "duration_ms": 371405,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/22aoAzWBmrDlbDLNjTTJ6F"
+    },
+    {
+      "album": {
+        "name": "Anjunadeep 14",
+        "url": "https://open.spotify.com/album/7DMVHNNy2AsGEEbZvirQH1"
+      },
+      "artists": [
+        {
+          "name": "RE/BORN",
+          "url": "https://open.spotify.com/artist/2xj2NmN8lQZz1Sr57muqvy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256002,
+      "name": "Sweet Mistake - Mixed",
+      "url": "https://open.spotify.com/track/6gUH6KsSdqwnC4rvLfF7v1"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Your new favourite songs! Cover: G Flip",
-  "num_followers": 58241,
+  "num_followers": 58339,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzgwODQ3YzZkYTAyZjQ3YTVmMTQ0OTcyOGNjOTg4ZjQ0OTNjNjg3",
+  "snapshot_id": "MCwxMWJjMGIzMmU0NGY5Njc4ZThhOThmMDdmOTA0ZGVlYzBjYTFjMjM3",
   "tracks": [
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
     {
       "added_at": "2023-06-29 14:00:00",
       "album": {
@@ -163,7 +179,7 @@
     {
       "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "DO IT AGAIN (Official FIFA Women\u2019s World Cup \u201923 Song\u2122)",
+        "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
         "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
       },
       "artists": [
@@ -181,7 +197,7 @@
         }
       ],
       "duration_ms": 176730,
-      "name": "DO IT AGAIN - Official FIFA Women\u2019s World Cup \u201923 Song\u2122",
+      "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
@@ -224,7 +240,7 @@
       "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "LOLA",
-        "url": "https://open.spotify.com/album/7lIYRn9WwTCJhQjLyGY6wm"
+        "url": "https://open.spotify.com/album/6p8cW6vKfjkC9U1drMRipN"
       },
       "artists": [
         {
@@ -234,7 +250,7 @@
       ],
       "duration_ms": 170554,
       "name": "LOLA",
-      "url": "https://open.spotify.com/track/2hUuCNRnmb7ltv99gY3grK"
+      "url": "https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds"
     },
     {
       "added_at": "2023-06-29 14:00:00",

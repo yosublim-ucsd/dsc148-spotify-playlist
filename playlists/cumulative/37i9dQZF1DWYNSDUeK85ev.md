@@ -4,7 +4,7 @@
 
 > La música que prende la fiesta!
 
-386 songs - 22 hr 51 min
+387 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3 En 1](https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [3 En 1](https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP) | 3:05 | 2023-02-17 | 2023-06-08 |
 | [3G \(feat\. Jon Z, Don Chezina, Chencho Corleone & Myke Towers\) \- Remix](https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3G \(feat\. Jon Z, Don Chezina, Chencho Corleone & Myke Towers\) \[Remix\]](https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK) | 6:06 | 2022-05-13 | 2022-07-28 |
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2022-05-13 |  |
+| [6to Sentido \(Una Vuelta\)](https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi) | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr) | 2:09 | 2023-06-30 |  |
 | [911](https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:35 | 2022-07-14 | 2022-07-29 |
 | [A Ella](https://open.spotify.com/track/4N5qvaVICVIRxBXGW3FwGa) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [A Ella](https://open.spotify.com/album/7iaqLuLOgTXPaxEziNjbsu) | 3:18 | 2022-06-17 | 2022-07-29 |
 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 | 2022-05-13 |  |
@@ -393,6 +394,6 @@
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2022-07-22 | 2023-02-11 |
 | [Yo Soy de Barrio \- DJ Alex Remix](https://open.spotify.com/track/6rOK4drsEzdHHCX9Ofe0KG) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Yo Soy de Barrio \(DJ Alex Remix\)](https://open.spotify.com/album/6FfyhPx7MaTKr49aN0ERrU) | 3:08 | 2022-07-15 | 2022-07-17 |
 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 | 2022-06-17 |  |
-| [¿Y pa la Wacha Loca? \(con Salastkbron\) \- Remix](https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [¿Y pa la Wacha Loca? \(con Salastkbron\) \[Remix\]](https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J) | 3:49 | 2023-02-17 |  |
+| [¿Y pa la Wacha Loca? \(con Salastkbron\) \- Remix](https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [¿Y pa la Wacha Loca? \(con Salastkbron\) \[Remix\]](https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J) | 3:49 | 2023-02-17 | 2023-07-01 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -1481,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Fire Fall",
+        "url": "https://open.spotify.com/album/4qJ0oAgJeBxTbZQdYjEML1"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Fire Fall",
+      "url": "https://open.spotify.com/track/1pUOZEQfBrucbikddcJ00k"
+    },
+    {
+      "album": {
         "name": "Follow (Remix)",
         "url": "https://open.spotify.com/album/2czsZtZaUyPXnLTwCmW9Y3"
       },
@@ -2747,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Maranatha ( Lord Jesus Come)",
+        "url": "https://open.spotify.com/album/6yXzdPU0hJRuUQ9hpRVy7h"
+      },
+      "artists": [
+        {
+          "name": "Philip Adzale",
+          "url": "https://open.spotify.com/artist/1BOhh63lCnqKTuAJI0zezl"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Maranatha ( Lord Jesus Come)",
+      "url": "https://open.spotify.com/track/7AYTZmdNltt2YlELlXy4PO"
+    },
+    {
+      "album": {
         "name": "Marvellous Jesus",
         "url": "https://open.spotify.com/album/75B6IO1BrQbCTGU6kZZ8M3"
       },
@@ -3382,6 +3422,24 @@
       "duration_ms": 139655,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/1SLryXRbuk9wORWjz5Ld1M"
+    },
+    {
+      "album": {
+        "name": "Open up (Make Room)",
+        "url": "https://open.spotify.com/album/61UrYZ0mhPbBbAnITnq9l6"
+      },
+      "artists": [
+        {
+          "name": "Iryne Rock",
+          "url": "https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262268,
+      "name": "Open up (Make Room)",
+      "url": "https://open.spotify.com/track/6EX3wYHpk2patE6fpxPKsI"
     },
     {
       "album": {

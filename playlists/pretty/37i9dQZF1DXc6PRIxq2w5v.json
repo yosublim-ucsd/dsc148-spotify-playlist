@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos",
-  "num_followers": 128418,
+  "num_followers": 128621,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDQwMGJmYTU1NmM4ZTNlZTc4Y2JmNWE5MWY2ZmY3ODljOTYwODY1",
+  "snapshot_id": "MCxlMzYyNzk4ODUzNjQ2OGM3MjNiYzY4ODJiMGM0YmFiODMxNjJkYjQz",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Jesus Saves Bro",
-        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 169016,
-      "name": "Jesus Saves Bro",
-      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -703,18 +699,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+        "name": "Jesus Saves Bro",
+        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+      "duration_ms": 169016,
+      "name": "Jesus Saves Bro",
+      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Teste",
+        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Teste",
+      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Voc\u00ea Acredita?",
         "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Se P\u00e1",
+        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+      },
+      "artists": [
+        {
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+        }
+      ],
+      "duration_ms": 163794,
+      "name": "Se P\u00e1",
+      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Oh Senhor",
         "url": "https://open.spotify.com/album/5ktjzD0X0Qp29Ek2EtL493"
       },
@@ -871,24 +903,8 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Se P\u00e1",
-        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
-      },
-      "artists": [
-        {
-          "name": "Ney Moura",
-          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
-        }
-      ],
-      "duration_ms": 163794,
-      "name": "Se P\u00e1",
-      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Teste",
-        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
       },
       "artists": [
         {
@@ -896,9 +912,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Teste",
-      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
       },
@@ -971,6 +971,38 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Romanos 3: 24",
         "url": "https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq"
       },
@@ -983,22 +1015,6 @@
       "duration_ms": 126216,
       "name": "Romanos 3: 24",
       "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Aben\u00e7oado D+ / 0800",
-        "url": "https://open.spotify.com/album/4dnB84B6bKXyI4wjOGQNLj"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "Aben\u00e7oado D+ / 0800",
-      "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Doming\u00e3o",
         "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
       },
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+        "name": "Aben\u00e7oado D+ / 0800",
+        "url": "https://open.spotify.com/album/4dnB84B6bKXyI4wjOGQNLj"
       },
       "artists": [
         {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+      "duration_ms": 143641,
+      "name": "Aben\u00e7oado D+ / 0800",
+      "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         }
       ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1211,46 +1211,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Morada de Deus",
-        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 223134,
-      "name": "Morada de Deus",
-      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Deserto",
-        "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        },
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Christian Beaver",
-          "url": "https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Filho Pr\u00f3digo",
         "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
       },
@@ -1263,6 +1223,22 @@
       "duration_ms": 114580,
       "name": "Filho Pr\u00f3digo",
       "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Morada de Deus",
+        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 223134,
+      "name": "Morada de Deus",
+      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1311,6 +1287,30 @@
       "duration_ms": 226339,
       "name": "Repara",
       "url": "https://open.spotify.com/track/76EUcaCEhCkjeMI02Ahyki"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
+      },
+      "artists": [
+        {
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        },
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Christian Beaver",
+          "url": "https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Olho pro C\u00e9u",
-        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
-      },
-      "artists": [
-        {
-          "name": "WC12",
-          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
-        },
-        {
-          "name": "Gem\u00e3o",
-          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        }
-      ],
-      "duration_ms": 228668,
-      "name": "Olho pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Famoso: Gn 12",
         "url": "https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 149972,
       "name": "Famoso: Gn 12",
       "url": "https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Olho pro C\u00e9u",
+        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
+      },
+      "artists": [
+        {
+          "name": "WC12",
+          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
+        },
+        {
+          "name": "Gem\u00e3o",
+          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "duration_ms": 228668,
+      "name": "Olho pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
     },
     {
       "added_at": "2023-06-23 03:00:00",

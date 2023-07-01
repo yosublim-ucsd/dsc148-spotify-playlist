@@ -4779,6 +4779,28 @@
     },
     {
       "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/3Tg3AMkKFUjggIxQw43Bpk"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153369,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4wwXMosTHSbtFMoNjgictF"
+    },
+    {
+      "album": {
         "name": "Kool Aid (with Dave B.)",
         "url": "https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR"
       },
@@ -4794,7 +4816,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 153369,
       "name": "Kool Aid (with Dave B.)",
       "url": "https://open.spotify.com/track/1spizWhedqBEs55T7UQghA"
@@ -4914,6 +4936,32 @@
       "duration_ms": 272000,
       "name": "LADYBIRD",
       "url": "https://open.spotify.com/track/3mpexMDzp0UnOBKbW73hiM"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/7v0MAUldWD7QjUn0EcUAC3"
+      },
+      "artists": [
+        {
+          "name": "SANITY",
+          "url": "https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "MELONYX",
+          "url": "https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178793,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/1oDqQxCjKXJOjXaj8EtElC"
     },
     {
       "album": {
@@ -5216,7 +5264,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 240800,
       "name": "Love, Surround Me In Everything I Do",
       "url": "https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE"

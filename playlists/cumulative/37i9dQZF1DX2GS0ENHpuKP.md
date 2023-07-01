@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 5 hr 37 min
+67 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [The Time Is Come](https://open.spotify.com/track/67Ap9BKsZXan4gYWzCb3Pn) | [Effi Duke](https://open.spotify.com/artist/6TKG61vYDn0PmgoXUYkrOx), [The Love Family](https://open.spotify.com/artist/2PMQqmwNVSap6TxKMZRuMh) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:43 | 2022-07-19 |  |
 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 | 2022-07-19 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-07-19 |  |
-| [Use My Body](https://open.spotify.com/track/04mJG6sKQJyXBG4KgrCdES) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 4:27 | 2022-07-19 |  |
+| [Use My Body](https://open.spotify.com/track/4cvTdZKBSoOTve7vTe60ve) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Give Me the Funk! \(The Best Funky\-Flavored Music\) Vol\. 2](https://open.spotify.com/album/6NQHlqSolcYwfu029dCHi6) | 4:25 | 2023-05-24 |  |
+| [Use My Body](https://open.spotify.com/track/04mJG6sKQJyXBG4KgrCdES) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 4:27 | 2022-07-19 | 2023-07-01 |
 | [Vamonos](https://open.spotify.com/track/5EuXInpQgpeEBEcJ2yS97u) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Elkin & Nelson](https://open.spotify.com/album/1pK8v2GvaZlmRbwKfcdsDW) | 9:17 | 2022-07-19 |  |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-07-19 |  |
 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 | 2022-07-19 |  |

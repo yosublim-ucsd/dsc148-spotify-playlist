@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "(I Don't Need A) New Girl",
+        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273080,
+      "name": "(I Don't Need A) New Girl",
+      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
+    },
+    {
+      "album": {
         "name": "Welcome",
         "url": "https://open.spotify.com/album/66k2BD3Z2gtQt0UgXhZJSf"
       },
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 390880,
       "name": "Somethingood",
       "url": "https://open.spotify.com/track/29T6HQEYLAc8syLr3I4SRK"
@@ -2125,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "The Limit",
+        "url": "https://open.spotify.com/album/5P6N1ibaaDY8KYwJzthatT"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/1IPTC92TkaOIMj9Gohi8MF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214170,
+      "name": "The Limit",
+      "url": "https://open.spotify.com/track/5xZhh4ZLFnUltMJ5xVur6a"
+    },
+    {
+      "album": {
         "name": "The Night is Calling",
         "url": "https://open.spotify.com/album/7qDTP6pmqRSZJ03Qd8McKM"
       },
@@ -2194,6 +2234,28 @@
       "duration_ms": 192747,
       "name": "The Tuxedo Way",
       "url": "https://open.spotify.com/track/6oodcUa5wcH7TAMVUW196Y"
+    },
+    {
+      "album": {
+        "name": "Tie Me Up",
+        "url": "https://open.spotify.com/album/31HFBkKWLTp87WMpCQXOj6"
+      },
+      "artists": [
+        {
+          "name": "Zackey Force Funk",
+          "url": "https://open.spotify.com/artist/18CPbmxYOdkMCEkq3j9CBd"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "Tie Me Up",
+      "url": "https://open.spotify.com/track/0Ad3yGSw8Mqmad5XQQUOAu"
     },
     {
       "album": {

@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -8763,6 +8763,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05dc\u05e4\u05e0\u05d9\u05d9",
+        "url": "https://open.spotify.com/album/2ZP9V5GPyz93qSA2DaB1qO"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        },
+        {
+          "name": "Itay Galo",
+          "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177425,
+      "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05dc\u05e4\u05e0\u05d9\u05d9",
+      "url": "https://open.spotify.com/track/3XZrh1WNu0a7uzaJNYuHAQ"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d0\u05d7\u05e8\u05d9\u05da (\u200fProd. By Tamar Yahalomy & Yonatan Kalimi)",
         "url": "https://open.spotify.com/album/7kcDQOhUa1aPr9A7bRlg14"
       },
@@ -9718,7 +9740,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 130692,
       "name": "\u05d8\u05e8\u05e0\u05d8\u05d5\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4py8ddBPFRTYqL3vbh2FXq"
@@ -9754,7 +9776,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 176440,
       "name": "\u05d9'\u05d0 2",
       "url": "https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu"
@@ -12378,7 +12400,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 216809,
       "name": "\u05e1\u05ea\u05dc\u05d1\u05d8 \u05d1\u05e7\u05d9\u05d1\u05d5\u05e5",
       "url": "https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7"
@@ -12724,7 +12746,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 229411,
       "name": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
       "url": "https://open.spotify.com/track/6oTChqDVAXNxJrg57siTxB"

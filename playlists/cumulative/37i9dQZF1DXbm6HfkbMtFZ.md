@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-517 songs - 1 day 7 hr 10 min
+518 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 | 2022-09-26 |  |
 | [The Rain Song](https://open.spotify.com/track/4cpEjk1FaYNiv5jrUMQuaH) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [Midnight Movement / The Rain Song](https://open.spotify.com/album/7BG7bh5EW2SwKOyBkKd7ho) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2023-06-20 |  |
-| [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2021-12-16 |  |
+| [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2021-12-16 | 2023-07-01 |
 | [The Weight Is Gone](https://open.spotify.com/track/1wYlzUVWctxU8taZ5OjCzM) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [The Weight is Gone](https://open.spotify.com/album/6nrByBETfiav5wLAcUCybG) | 3:32 | 2022-03-30 | 2022-04-20 |
 | [Think I'm In Love](https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Information](https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF) | 3:19 | 2022-03-30 |  |
 | [This Is My Story](https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [This Is My Story](https://open.spotify.com/album/7FuvTyHDnLDuGWaVCWsjMx) | 2:12 | 2021-12-16 | 2022-07-29 |
@@ -487,6 +487,7 @@
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-03-30 | 2022-10-04 |
 | [Wait For the Moment](https://open.spotify.com/track/7qFexQbJ2Kjv9V5hMtK5Lh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [My First Car](https://open.spotify.com/album/1ZKMBF3dJmYqNnxtjexACq) | 3:50 | 2021-12-16 | 2022-07-27 |
 | [Wait for the Moment](https://open.spotify.com/track/48wH8bAxvBJO2l14GmNLz7) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [My First Car](https://open.spotify.com/album/66lLDYWrrbm8tsrBGNYC5E) | 3:50 | 2022-07-26 | 2022-10-04 |
+| [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 | 2023-06-26 |  |
 | [Waiting For Your Love](https://open.spotify.com/track/6dX5minlSh7q239EC1ycoZ) | [Usje Sukatma](https://open.spotify.com/artist/5ENvVuYziSYbmRtY23bCJt) | [Waiting For Your Love](https://open.spotify.com/album/6PNJ8tx8wYm9rrOmBCgHq7) | 4:28 | 2022-03-30 | 2022-04-17 |
 | [Wake Up](https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Wake Up](https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L) | 3:59 | 2022-03-30 | 2022-04-20 |
 | [Walk the Streets of Love](https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk the Streets of Love](https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD) | 3:29 | 2023-04-25 |  |

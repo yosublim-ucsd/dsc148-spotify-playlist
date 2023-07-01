@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Mayday Parade",
-  "num_followers": 288167,
+  "num_followers": 288217,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzlmYWYzMTMzYzNhYTU2ZTkyZTFkMTk3ODg2YTlkYjY0YjMzNTVl",
+  "snapshot_id": "MCwwYWI0Y2MwNWZiNWRkZGI5YTM3Y2FmNmQ3NGUzZjI1MzBkYjBkZDM3",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -155,6 +155,22 @@
       "duration_ms": 218265,
       "name": "Short Straw",
       "url": "https://open.spotify.com/track/3QJWvFiMtkl4B5bIc8RQRR"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "Catastrophic Metamorphic",
+        "url": "https://open.spotify.com/album/0yll3KhEFD5Surw9nSPVqB"
+      },
+      "artists": [
+        {
+          "name": "Deaf Charlie",
+          "url": "https://open.spotify.com/artist/2PW9udMnD3PeyX5hcXRyce"
+        }
+      ],
+      "duration_ms": 137733,
+      "name": "Ched Man",
+      "url": "https://open.spotify.com/track/6EEPiK1SwQ7ZqA2r5luaJQ"
     },
     {
       "added_at": "2023-06-29 23:00:00",

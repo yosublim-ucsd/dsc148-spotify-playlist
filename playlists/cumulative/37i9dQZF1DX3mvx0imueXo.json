@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 237865,
       "name": "Same Ole Song",
       "url": "https://open.spotify.com/track/7iCUiFVauafAFjY7EbBJsW"
@@ -1522,6 +1522,24 @@
       "duration_ms": 248780,
       "name": "The Wicked",
       "url": "https://open.spotify.com/track/31iUhP50kKWl2KJVep5Mzo"
+    },
+    {
+      "album": {
+        "name": "The Wicked",
+        "url": "https://open.spotify.com/album/3qIrGUcDT82m7xyHrcWlxf"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248780,
+      "name": "The Wicked",
+      "url": "https://open.spotify.com/track/552k5q1p86qfxEPgwJOqZd"
     },
     {
       "album": {

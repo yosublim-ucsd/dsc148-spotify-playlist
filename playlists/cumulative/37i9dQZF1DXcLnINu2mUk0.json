@@ -3123,6 +3123,28 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Sei",
+        "url": "https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1lculo",
+          "url": "https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI"
+        },
+        {
+          "name": "LEFT.",
+          "url": "https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144092,
+      "name": "J\u00e1 Sei",
+      "url": "https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR"
+    },
+    {
+      "album": {
         "name": "Ka nu komplika",
         "url": "https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW"
       },
@@ -5290,7 +5312,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 258260,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/4E2EMfWXxBUS9DjDphTsmS"

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-357 songs - 19 hr 37 min
+358 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [In The Middle](https://open.spotify.com/track/3IQQGIHWNK1ryHqoMtqUZg) | [SFISTIKATED](https://open.spotify.com/artist/2LkUD32emCfDhhfldggZ9T), [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [In The Middle](https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi) | 3:37 | 2023-03-01 | 2023-03-25 |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 | 2022-10-13 | 2022-11-11 |
+| [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 | 2023-06-29 |  |
 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 | 2022-10-27 | 2022-11-18 |
 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 | 2023-02-10 | 2023-03-02 |
 | [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 | 2022-08-06 |
@@ -271,7 +272,7 @@
 | [Quero Mais](https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Quero Mais](https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6) | 3:09 | 2023-06-08 | 2023-06-30 |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 | 2022-09-17 |
 | [Refúgio](https://open.spotify.com/track/3i8WqrMisc11UHB9Ja9cIW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [ELEVEM](https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw) | 4:18 | 2023-06-08 | 2023-06-27 |
-| [Refúgio](https://open.spotify.com/track/4E2EMfWXxBUS9DjDphTsmS) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [ELEVEM](https://open.spotify.com/album/1sM0eVGRoku4Du98P7wfTD) | 4:18 | 2023-06-29 |  |
+| [Refúgio](https://open.spotify.com/track/4E2EMfWXxBUS9DjDphTsmS) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [ELEVEM](https://open.spotify.com/album/1sM0eVGRoku4Du98P7wfTD) | 4:18 | 2023-06-29 | 2023-07-01 |
 | [REVOLVER](https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O) | [I THINK I THINK TOO MUCH](https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo) | 3:25 | 2022-09-22 | 2022-10-14 |
 | [Rewind](https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Rewind](https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh) | 2:39 | 2022-07-07 | 2022-08-11 |
 | [Ride](https://open.spotify.com/track/2cX342krU9l5k1eyHoUri9) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm), [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Ride](https://open.spotify.com/album/1QDmxoYyTBJGjZn97AIguC) | 2:04 | 2022-11-18 | 2022-12-24 |

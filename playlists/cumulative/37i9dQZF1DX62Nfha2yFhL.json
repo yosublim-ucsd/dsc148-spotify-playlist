@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "album": {
         "name": "Carrot Juice",
         "url": "https://open.spotify.com/album/45qI6qObAt7ocSH0ancfEQ"
       },
@@ -384,6 +406,32 @@
       "duration_ms": 289445,
       "name": "Carrot Juice",
       "url": "https://open.spotify.com/track/2cXlc9LWmg2N8t4KgVWZAl"
+    },
+    {
+      "album": {
+        "name": "Stuck With You But I Like It",
+        "url": "https://open.spotify.com/album/3zggNDtiAUq04EhX6gF3Vo"
+      },
+      "artists": [
+        {
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
+        },
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        },
+        {
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153629,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/6abNHaibTah9k7azRDKVRP"
     },
     {
       "album": {
@@ -494,6 +542,24 @@
       "duration_ms": 146334,
       "name": "Come And Get It",
       "url": "https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw"
+    },
+    {
+      "album": {
+        "name": "Come Around And Love Me",
+        "url": "https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Come Around and Love Me",
+      "url": "https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN"
     },
     {
       "album": {
@@ -1909,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Nothing We Can't Get Through",
+        "url": "https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142406,
+      "name": "Nothing We Can't Get Through",
+      "url": "https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD"
+    },
+    {
+      "album": {
         "name": "On My Shit (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/3W3oMpBoKd5sISjqByge4g"
       },
@@ -2234,6 +2318,24 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "album": {
+        "name": "SATURDAY",
+        "url": "https://open.spotify.com/album/3IGh2i915r40b1qHzWwx8m"
+      },
+      "artists": [
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159445,
+      "name": "SATURDAY",
+      "url": "https://open.spotify.com/track/0Vli1NhhK3d7XiM9VE1t4e"
     },
     {
       "album": {
@@ -2640,6 +2742,24 @@
       "duration_ms": 133210,
       "name": "try. (feat. JoJo)",
       "url": "https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9"
+    },
+    {
+      "album": {
+        "name": "U Got Me",
+        "url": "https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ"
+      },
+      "artists": [
+        {
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206367,
+      "name": "U Got Me",
+      "url": "https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh"
     },
     {
       "album": {

@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Son Of Sun",
+        "url": "https://open.spotify.com/album/60MgZ2KGa6lyju4IJxkTzz"
+      },
+      "artists": [
+        {
+          "name": "Iyaam Ibe",
+          "url": "https://open.spotify.com/artist/3wKXsp0WLtntFbx7mcaLWp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140132,
+      "name": "Son Of Sun",
+      "url": "https://open.spotify.com/track/5SDeAt9APL6sQ0mZSmtru9"
+    },
+    {
+      "album": {
         "name": "Spiritual Conquest",
         "url": "https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk"
       },

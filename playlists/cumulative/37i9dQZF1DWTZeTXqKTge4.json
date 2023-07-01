@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Yes Mccan",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rowjay",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 205479,
       "name": "Barri\u00e8res",
       "url": "https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K"
@@ -4517,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "LA VIE RAPIDE EARLY ACCESS",
+        "url": "https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "KENZO NIGO - Sur moi",
+      "url": "https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx"
+    },
+    {
+      "album": {
         "name": "Bienvenue \u00e0 Baveuse City",
         "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
       },
@@ -4924,7 +4942,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 164702,
       "name": "Love d'un voyou",
       "url": "https://open.spotify.com/track/5AxnOc77Zl6gA4UQWqhFVA"
@@ -4950,6 +4968,24 @@
       "duration_ms": 156766,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/545IggvcFgJ9hBYWdVYVdZ"
+    },
+    {
+      "album": {
+        "name": "MACHETE 2 (Masasi)",
+        "url": "https://open.spotify.com/album/4f4FVqHgcjS4VtL8IT5IAl"
+      },
+      "artists": [
+        {
+          "name": "Deuzeus",
+          "url": "https://open.spotify.com/artist/2KMthShLYbRTCpnEsGufqn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "MACHETE 2 (Masasi)",
+      "url": "https://open.spotify.com/track/3ZvAGglWF7RPO7V79GNOAE"
     },
     {
       "album": {
@@ -6242,6 +6278,24 @@
       "duration_ms": 172338,
       "name": "Patience",
       "url": "https://open.spotify.com/track/3B8pYyH1Kjho5BOXjtUA9o"
+    },
+    {
+      "album": {
+        "name": "patio / compte \u00e0 rebours",
+        "url": "https://open.spotify.com/album/6YXjiV0QLA95AuoUPB89uy"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "patio",
+      "url": "https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk"
     },
     {
       "album": {
@@ -8028,7 +8082,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 167921,
       "name": "Triomphal",
       "url": "https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5"

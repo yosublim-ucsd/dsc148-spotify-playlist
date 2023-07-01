@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nilipek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,412 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,408 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Sufle](https://open.spotify.com/track/0DsIKCV17WrO5qWff6oi9f) | [Seren Serdar](https://open.spotify.com/artist/4wU7vmDFAuLIPSYiqgM7Xb) | [Sufle](https://open.spotify.com/album/5IEf0ghCKhO7vYoJbJZRqk) | 3:18 |
 | 50 | [April Waltz](https://open.spotify.com/track/3WI0O1mbESmgv8TVHV86D7) | [Aysedeniz Gokcin](https://open.spotify.com/artist/0MhNojJNQsaW1KXqKTX2Y0) | [Patterns](https://open.spotify.com/album/1DufTsOWXSqJPpUGrRAg1C) | 3:20 |
 
-Snapshot ID: `MCwzMjdkZDQyZjNmMjRhMjMzNzY3YTQ0OGNkZDhmMDhlOTNmODRmYjQ0`
+Snapshot ID: `MCxmNWFiYjIxZWYzODE3OGE4NmFiMTg3YWE2OGViYmM4YmFkODc0ZGVj`

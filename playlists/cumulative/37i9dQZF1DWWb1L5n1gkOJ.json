@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Vision Dreamscape",
+        "url": "https://open.spotify.com/album/0fQ9nrYb4OjJt2MJ5PKnga"
+      },
+      "artists": [
+        {
+          "name": "Cognitivity",
+          "url": "https://open.spotify.com/artist/1M1SmUUUHhrSn1k8SEvBTV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Moving Towns",
+      "url": "https://open.spotify.com/track/2JiKbDaZcMTyzhEoDq2CUy"
+    },
+    {
+      "album": {
         "name": "Muna",
         "url": "https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S"
       },

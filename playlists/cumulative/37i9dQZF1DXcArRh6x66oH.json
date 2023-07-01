@@ -387,6 +387,42 @@
     },
     {
       "album": {
+        "name": "Bury Me In My Hometown",
+        "url": "https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215926,
+      "name": "Bury Me in My Hometown",
+      "url": "https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx"
+    },
+    {
+      "album": {
+        "name": "Chronically Cautious (Country Version)",
+        "url": "https://open.spotify.com/album/6MEZWd1dc8o5hvtmYP8M3s"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Chronically Cautious - Country Version",
+      "url": "https://open.spotify.com/track/6ZrmGXr5UhSw2ymL9Bhky7"
+    },
+    {
+      "album": {
         "name": "Coal River",
         "url": "https://open.spotify.com/album/2QZMDKgCHgI5QXiERup8FL"
       },
@@ -708,7 +744,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 211053,
       "name": "Even Jesus Got The Blues",
       "url": "https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy"
@@ -942,7 +978,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 208140,
       "name": "Goodbye World",
       "url": "https://open.spotify.com/track/2R1FGbXB0bELZvaP1hmOmz"
@@ -1170,6 +1206,24 @@
       "duration_ms": 242441,
       "name": "If I Were the Devil",
       "url": "https://open.spotify.com/track/3lsWwQnDg99gtni4g5V0UG"
+    },
+    {
+      "album": {
+        "name": "If Not for the Rain",
+        "url": "https://open.spotify.com/album/5vuJo51lWThirFEhqYQpVm"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330636,
+      "name": "If Not for the Rain",
+      "url": "https://open.spotify.com/track/09KLleKjGJXVYKlkRB548W"
     },
     {
       "album": {
@@ -2003,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Me and a Fiddle",
+        "url": "https://open.spotify.com/album/2D6Qii7ix3kbQ3IY964uzW"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206945,
+      "name": "Ranch Hand - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/51qkvWdztu2I4vBVgnfNAf"
+    },
+    {
+      "album": {
         "name": "White Buffalo",
         "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
       },
@@ -2014,7 +2086,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 191386,
       "name": "River Run",
       "url": "https://open.spotify.com/track/4cns2rtLADG9gaNlItD8mR"
@@ -2592,7 +2664,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 293862,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"

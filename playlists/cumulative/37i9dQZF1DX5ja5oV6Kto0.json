@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g\"> Lady Donli </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=WgAO-NgbQZSqV5y_aN46MA\">AYL\u00d8 </a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179200,
       "name": "234 (PRBLMS)",
       "url": "https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV"
@@ -1478,6 +1478,24 @@
       "duration_ms": 187714,
       "name": "Cash",
       "url": "https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV"
+    },
+    {
+      "album": {
+        "name": "Catch Up! // Lights",
+        "url": "https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157009,
+      "name": "Catch Up!",
+      "url": "https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC"
     },
     {
       "album": {
@@ -4469,6 +4487,32 @@
     },
     {
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "3kene",
+          "url": "https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy"
+    },
+    {
+      "album": {
         "name": "Lights go dim",
         "url": "https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH"
       },
@@ -5392,7 +5436,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 162031,
       "name": "Next Move",
       "url": "https://open.spotify.com/track/349xUXpwkSwnNif0xxECZR"
@@ -5620,7 +5664,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 192208,
       "name": "Not Worthy",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
@@ -6832,6 +6876,28 @@
       "duration_ms": 145471,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"
+    },
+    {
+      "album": {
+        "name": "Seek & Find (feat. Azanti)",
+        "url": "https://open.spotify.com/album/6ZIig4udjxAl6Zs27aHtpg"
+      },
+      "artists": [
+        {
+          "name": "SuperSmashBroz",
+          "url": "https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216699,
+      "name": "Seek & Find (feat. Azanti)",
+      "url": "https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf"
     },
     {
       "album": {

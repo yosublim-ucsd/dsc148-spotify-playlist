@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Tiera Kennedy",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Dipper",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -3391,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "One Thing Figured Out",
+        "url": "https://open.spotify.com/album/4gNkJ3etw5sNTT52YhsNek"
+      },
+      "artists": [
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "One Thing Figured Out",
+      "url": "https://open.spotify.com/track/1GQxXDTwzQ9mGr9JH7PO1o"
+    },
+    {
+      "album": {
         "name": "Out of That Memory",
         "url": "https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K"
       },
@@ -3896,6 +3914,24 @@
       "duration_ms": 194916,
       "name": "She's a Fire",
       "url": "https://open.spotify.com/track/6DUl9xe5xmSJsqu1XdyiJs"
+    },
+    {
+      "album": {
+        "name": "She's Got Wings",
+        "url": "https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT"
+      },
+      "artists": [
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206732,
+      "name": "She's Got Wings",
+      "url": "https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr"
     },
     {
       "album": {

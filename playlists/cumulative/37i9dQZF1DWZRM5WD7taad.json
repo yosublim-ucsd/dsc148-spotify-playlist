@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 201986,
       "name": "1977",
       "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 128600,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/5Cn1NLa4WThiegxtoaaxFp"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212783,
       "name": "Almac\u00e9n de Datos",
       "url": "https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 192840,
       "name": "Andamos Al Cien",
       "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 232871,
       "name": "Autodefensa",
       "url": "https://open.spotify.com/track/4VxzbMh8EGxb71o6n3gEvV"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 237473,
       "name": "Ayuda",
       "url": "https://open.spotify.com/track/409Adkufa9knwtBWhAJ1zT"
@@ -394,6 +394,28 @@
       "duration_ms": 145125,
       "name": "Bad Bitches Cry Too",
       "url": "https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc"
+    },
+    {
+      "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Erreflexx",
+          "url": "https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/3f4F947OK390ug1C4igSLp"
     },
     {
       "album": {
@@ -470,7 +492,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 190528,
       "name": "Bienvenidx",
       "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
@@ -506,7 +528,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 152794,
       "name": "BMW",
       "url": "https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK"
@@ -636,7 +658,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 174545,
       "name": "Brujas",
       "url": "https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar"
@@ -724,7 +746,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 217000,
       "name": "Chismecito",
       "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
@@ -742,7 +764,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 180801,
       "name": "Clean",
       "url": "https://open.spotify.com/track/4q9np9mNabLYcWcnl73Vfw"
@@ -796,7 +818,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 123840,
       "name": "Confleis (No Soy Santa)",
       "url": "https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU"
@@ -936,10 +958,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 201155,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pa\u00b4 All\u00e1",
+        "url": "https://open.spotify.com/album/5jchWqjRUngsTZGDv4iOqL"
+      },
+      "artists": [
+        {
+          "name": "Yaz Tarelo",
+          "url": "https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB"
+        },
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178700,
+      "name": "De Aqu\u00ed Pa\u00b4 All\u00e1",
+      "url": "https://open.spotify.com/track/1p0LGo2lFLfJV6j0CPGIQx"
     },
     {
       "album": {
@@ -980,7 +1024,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 161800,
       "name": "Desert Ni\u00f1as",
       "url": "https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh"
@@ -1100,7 +1144,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 213750,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04"
@@ -1184,7 +1228,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 181847,
       "name": "En el Aire",
       "url": "https://open.spotify.com/track/2XDj1sDCtz9eN9lotxlhQ8"
@@ -1220,7 +1264,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 207656,
       "name": "En Lo M\u00edo",
       "url": "https://open.spotify.com/track/2Zv5rpkUPPZgvuss69YWbG"
@@ -1256,7 +1300,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 259056,
       "name": "Entes",
       "url": "https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y"
@@ -1340,7 +1384,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 133799,
       "name": "Experiencia",
       "url": "https://open.spotify.com/track/2hJtIUSPDlqqCKDt5dSyYO"
@@ -1500,7 +1544,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 150771,
       "name": "FREAKY",
       "url": "https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl"
@@ -1616,7 +1660,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 211304,
       "name": "HOEHIPHOP",
       "url": "https://open.spotify.com/track/348NgnWNjXqG8vMO3KusxW"
@@ -1634,7 +1678,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 155675,
       "name": "ILY",
       "url": "https://open.spotify.com/track/2HgEL0xCio4msRsoyShotM"
@@ -1750,7 +1794,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185380,
       "name": "Jumanji",
       "url": "https://open.spotify.com/track/3pFAZVZyXw8gBmgrg3iJXl"
@@ -1794,7 +1838,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 206493,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/4oYrcsoNCmgKvj3R60IcoG"
@@ -1830,7 +1874,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 224000,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/5M5DaipN38XHlGQC4Tfa06"
@@ -1848,7 +1892,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 246791,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/24VM2sOz0yCR2feDyTehmA"
@@ -2074,10 +2118,40 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 256062,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p"
+    },
+    {
+      "album": {
+        "name": "M.A.D",
+        "url": "https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        },
+        {
+          "name": "P.Jaguar",
+          "url": "https://open.spotify.com/artist/18wFDmiW5C9u5Dq7DuA2eI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199322,
+      "name": "M.A.D",
+      "url": "https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4"
     },
     {
       "album": {
@@ -2193,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
+    },
+    {
+      "album": {
         "name": "Directo al Cora",
         "url": "https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81"
       },
@@ -2284,7 +2376,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 205500,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/5vx06yKyMpmgLfTeq7vv9K"
@@ -2310,7 +2402,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 155594,
       "name": "Merch",
       "url": "https://open.spotify.com/track/3eHQUipnS6lCIWRhKa8Fs3"
@@ -2368,7 +2460,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 194560,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k"
@@ -2484,7 +2576,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197777,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/5A4oXZIqEqTG77wq4B1Txh"
@@ -2582,7 +2674,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 238306,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK"
@@ -2662,7 +2754,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 216106,
       "name": "No Puedes Parar",
       "url": "https://open.spotify.com/track/0S6bK0SXy9NZxidqc2SERP"
@@ -2724,7 +2816,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 236000,
       "name": "Nunca Supiste",
       "url": "https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg"
@@ -2760,7 +2852,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 214048,
       "name": "Oveja Negra",
       "url": "https://open.spotify.com/track/21g1tdWEHKqsZj5OWfi4Pb"
@@ -2778,7 +2870,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 296360,
       "name": "Oye lo que traigo",
       "url": "https://open.spotify.com/track/3oIocMhyo5YBxp3xuMDrn6"
@@ -2796,7 +2888,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 193287,
       "name": "Pareparqu\u00e9",
       "url": "https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u"
@@ -2886,7 +2978,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 182000,
       "name": "Pueblo Chico",
       "url": "https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy"
@@ -3060,7 +3152,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 140475,
       "name": "Qu\u00e9 Pas\u00f3?",
       "url": "https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55"
@@ -3236,7 +3328,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179373,
       "name": "Rompiendo Esquemas",
       "url": "https://open.spotify.com/track/39AsaL5KiC1qW3OTrmEBnM"
@@ -3483,6 +3575,28 @@
     },
     {
       "album": {
+        "name": "Srry dawg",
+        "url": "https://open.spotify.com/album/1LZqsuLqs8JBF8tXAnurT6"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Srry dawg",
+      "url": "https://open.spotify.com/track/3ReODPTPbOTuAE7Eu2vp5j"
+    },
+    {
+      "album": {
         "name": "SUV",
         "url": "https://open.spotify.com/album/1TT4xXj8sX6vDWGkDO7nYj"
       },
@@ -3552,7 +3666,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 255640,
       "name": "Taxi Driver",
       "url": "https://open.spotify.com/track/4Ux9RV3vI4SAXaOIzVBJXc"
@@ -3588,7 +3702,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 266448,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ"
@@ -3730,7 +3844,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 118878,
       "name": "Traka Tra",
       "url": "https://open.spotify.com/track/2VENs7vBhbZqWYJiIzbr0y"
@@ -3836,7 +3950,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197000,
       "name": "Viernes 15 (Organic Remix)",
       "url": "https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt"
@@ -3858,7 +3972,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 165482,
       "name": "Wassap",
       "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
@@ -3894,7 +4008,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 171962,
       "name": "WOW",
       "url": "https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa"
@@ -3912,7 +4026,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 200937,
       "name": "YAS\u00c9",
       "url": "https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH"
@@ -3948,7 +4062,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 153812,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/66RGE8Et3bZadgVbSbJ0vX"

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-91 songs - 5 hr 7 min
+94 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 | 2023-06-24 |
 | [Chance Kedacha](https://open.spotify.com/track/7isPmXyAHlX7VSOsAqVdBg) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G), [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx) | [Chance Kedacha](https://open.spotify.com/album/2vliLICqA3XGHrLX7nPldg) | 2:16 | 2023-04-18 |  |
 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2023-03-21 | 2023-06-02 |
+| [Crushu Ponnu](https://open.spotify.com/track/6K9UX4O0gJDWB5WA2yKZ8F) | [Vithun Gopal](https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Crushu Ponnu](https://open.spotify.com/album/221xzfAS0aodo5AAkYo1RQ) | 3:37 | 2023-06-30 |  |
 | [Doctors' Anthem](https://open.spotify.com/track/0Sy8y9ebd9GZAZspvQEpOI) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Dr\. Nidarshana Pandian](https://open.spotify.com/artist/2kDp4tt7madJAjKX8jX0mv) | [Doctors' Anthem](https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy) | 3:01 | 2023-06-29 |  |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 |  |
 | [Endrum Unnodu](https://open.spotify.com/track/0UMp5xcRfGgqBqeqrj1uQ0) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Endrum Unnodu](https://open.spotify.com/album/7mkgAiq1Ux0OQLrPR0rEeX) | 3:12 | 2023-06-09 | 2023-06-27 |
@@ -55,6 +56,7 @@
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2023-03-21 |  |
 | [Love Meter](https://open.spotify.com/track/6IGhRREqgIPISI2PYWWoMT) | [NIlan Ratnarajah](https://open.spotify.com/artist/71omujW4dIU5qSEcDJWGYF), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Love Meter](https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X) | 3:13 | 2023-03-21 |  |
 | [Malarum Vazhvey](https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn) | 2:54 | 2023-03-21 |  |
+| [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 |  |
 | [Mannipaya](https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn) | [Andriyana Rajahselvam](https://open.spotify.com/artist/3YSjPoy0AbAnNLZriJLcP6), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll) | [Mannipaya](https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS) | 3:56 | 2023-03-21 |  |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-05-02 |  |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 | 2023-06-24 |
@@ -80,6 +82,7 @@
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-06-16 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 |  |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 | 2023-05-31 |
+| [Puppy Shame](https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs) | [Niranjan Babu](https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ) | [Puppy Shame](https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u) | 2:26 | 2023-06-30 |  |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-06-05 |  |
 | [Rawberry](https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Rawberry](https://open.spotify.com/album/3DBSRW3AKEmMarwen6zTg1) | 2:48 | 2023-04-24 |  |
 | [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-20 |  |

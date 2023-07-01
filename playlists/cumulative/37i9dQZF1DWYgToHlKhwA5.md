@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-430 songs - 19 hr 30 min
+431 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Big Storm, Rain and Close Lightnings](https://open.spotify.com/track/4egCKRMYciGmRMM4ze2Dkd) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Thunder Stories](https://open.spotify.com/album/4zHRIUbgKatKB8QhDPVK7c) | 2:18 | 2022-07-19 |  |
 | [Big Thunder](https://open.spotify.com/track/0TyW7t2bweA1BLsIOc2iah) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Sleep Thunder](https://open.spotify.com/album/2pxNQNv3wOvZDC7a4l43Tj) | 3:16 | 2022-07-19 |  |
 | [Black Bolt](https://open.spotify.com/track/0T4xlWzMyjoMW3GmiVzG07) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Black Bolt](https://open.spotify.com/album/1Bl4BdJ6YARVfhoV0tqKfe) | 2:00 | 2022-07-19 |  |
+| [Blasting Thunder](https://open.spotify.com/track/3V7l4IXEdUvESINTy0tXOX) | [Noise Matters](https://open.spotify.com/artist/4NZCehSaIGVPKa1nGQZqJA) | [Blasting Thunder](https://open.spotify.com/album/5kW90l42beD1GM4qBfv6WL) | 3:11 | 2023-06-15 |  |
 | [Blooming In Rain](https://open.spotify.com/track/5kKKlThKApoonAvm7tUFKm) | [Drophic](https://open.spotify.com/artist/3mboCTSEdeqTFJgRg6a9Fj) | [Mostly Just Rain](https://open.spotify.com/album/4O0P4IHgzILfzLay0jsbpY) | 2:21 | 2023-06-15 |  |
 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 | 2023-06-15 |  |
 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [Mother Nature Recordings](https://open.spotify.com/artist/2XVbrQz4APKq6tqZqGb2Gz) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 | 2022-07-19 |  |
@@ -90,7 +91,7 @@
 | [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-04-07 | 2023-06-16 |
 | [Eternal Storm](https://open.spotify.com/track/0QRdzBl9GDhegqN22xI0lz) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Eternal Storm](https://open.spotify.com/album/4AJCJmgWWXCmhkKvnJk24n) | 3:36 | 2022-07-19 |  |
 | [Evening Rain In Regent's Park \- Seamless](https://open.spotify.com/track/2mwS92jhBI0Sl32boe5RVL) | [Sounds Of The Royal Parks](https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX) | [Regent’s Park Rain](https://open.spotify.com/album/6wDf8enUlIGEpYekOvx0Ej) | 2:50 | 2023-04-07 |  |
-| [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 | 2023-06-15 |  |
+| [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 | 2023-06-15 | 2023-07-01 |
 | [Explora La Tormenta](https://open.spotify.com/track/7bpmnFWsi7XNV92QVJHzTL) | [Área De Baja Presión](https://open.spotify.com/artist/1P5aoBNUi8eZSyKfm1d24v) | [Tormenta Majestuosa](https://open.spotify.com/album/1WrbBlJ2ZLejILJD2rUYQ9) | 1:44 | 2022-07-19 | 2023-06-16 |
 | [Extra Wide Rain \- extra](https://open.spotify.com/track/5qRtu0bVNStywBkbWlF4TD) | [The Noisy Outdoors](https://open.spotify.com/artist/6ipASreqbHk6a7aR2xo9BW) | [Extra Wide Rain](https://open.spotify.com/album/2hAUDLSx2A4ALn0Py8P9kp) | 2:10 | 2022-07-19 |  |
 | [Eye Of The Storm](https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Episode One](https://open.spotify.com/album/0LmoB3rBXBGCdEDquHXKmA) | 3:46 | 2023-06-15 |  |

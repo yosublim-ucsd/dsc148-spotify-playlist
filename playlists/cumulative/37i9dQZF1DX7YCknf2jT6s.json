@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Reuben James",
+  "description": "New jazz for open minds. Cover: Terrace Martin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 191440,
       "name": "Apaches",
       "url": "https://open.spotify.com/track/57aLI6I1Ty7mJnkJm4sOhf"
@@ -1631,40 +1631,6 @@
     },
     {
       "album": {
-        "name": "NO(w) Beauty",
-        "url": "https://open.spotify.com/album/0On4JzkUwVI8n1kGEOMfga"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carniel",
-          "url": "https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk"
-        },
-        {
-          "name": "Hermon Mehari",
-          "url": "https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT"
-        },
-        {
-          "name": "NO(w) Beauty",
-          "url": "https://open.spotify.com/artist/36pbhMHDmMUotharAzC35Q"
-        },
-        {
-          "name": "Damien Varaillon",
-          "url": "https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M"
-        },
-        {
-          "name": "St\u00e9phane Adsuar",
-          "url": "https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2"
-        }
-      ],
-      "date_added": "2023-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 390840,
-      "name": "Atonia",
-      "url": "https://open.spotify.com/track/5A88MJd359EcsWqqkKgNan"
-    },
-    {
-      "album": {
         "name": "Atonia",
         "url": "https://open.spotify.com/album/106ogY9qPSKAove49shlB0"
       },
@@ -1696,6 +1662,40 @@
       "duration_ms": 390840,
       "name": "Atonia",
       "url": "https://open.spotify.com/track/5cFP5BvsKy1XHaKqqhkElb"
+    },
+    {
+      "album": {
+        "name": "NO(w) Beauty",
+        "url": "https://open.spotify.com/album/0On4JzkUwVI8n1kGEOMfga"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carniel",
+          "url": "https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk"
+        },
+        {
+          "name": "Hermon Mehari",
+          "url": "https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT"
+        },
+        {
+          "name": "St\u00e9phane Adsuar",
+          "url": "https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2"
+        },
+        {
+          "name": "NO(w) Beauty",
+          "url": "https://open.spotify.com/artist/36pbhMHDmMUotharAzC35Q"
+        },
+        {
+          "name": "Damien Varaillon",
+          "url": "https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390840,
+      "name": "Atonia",
+      "url": "https://open.spotify.com/track/5A88MJd359EcsWqqkKgNan"
     },
     {
       "album": {
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 357360,
       "name": "Back Meetings",
       "url": "https://open.spotify.com/track/1kEZTQQMBIo8ujXWdSLE2g"
@@ -2619,6 +2619,28 @@
     },
     {
       "album": {
+        "name": "Blood Calls Blood",
+        "url": "https://open.spotify.com/album/4DCZuJX3YAkJwsSirNLtbC"
+      },
+      "artists": [
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        },
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460254,
+      "name": "Blood Calls Blood",
+      "url": "https://open.spotify.com/track/2C9Uh8Pti9JzgZ65ihsVf0"
+    },
+    {
+      "album": {
         "name": "My Old Flame",
         "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
       },
@@ -3166,6 +3188,32 @@
       "duration_ms": 193813,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
+    },
+    {
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310107,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu"
     },
     {
       "album": {
@@ -4463,6 +4511,36 @@
     },
     {
       "album": {
+        "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
+        "url": "https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Dominique Sanders",
+          "url": "https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt"
+        },
+        {
+          "name": "Justin Tyson",
+          "url": "https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226905,
+      "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
+      "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
+    },
+    {
+      "album": {
         "name": "deliverenzo",
         "url": "https://open.spotify.com/album/64UPCPwy2q2ejDYs3TMCbt"
       },
@@ -4548,6 +4626,32 @@
       "duration_ms": 205334,
       "name": "Diamond Exchange",
       "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
+    },
+    {
+      "album": {
+        "name": "Did You Know",
+        "url": "https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        },
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        },
+        {
+          "name": "MettaShiba",
+          "url": "https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234906,
+      "name": "Did You Know",
+      "url": "https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE"
     },
     {
       "album": {
@@ -4646,7 +4750,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 282500,
       "name": "Dirtmouth",
       "url": "https://open.spotify.com/track/2IAnKNOU7SGlpmiTXMsqpX"
@@ -4912,7 +5016,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 369626,
       "name": "Dou",
       "url": "https://open.spotify.com/track/42F16X6WRCAFwPyRY4nH7O"
@@ -6338,6 +6442,36 @@
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/1IeyfKWkKBI83vE1p2DKe3"
+      },
+      "artists": [
+        {
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+        },
+        {
+          "name": "Hermon Mehari",
+          "url": "https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT"
+        },
+        {
+          "name": "Paola Gladys",
+          "url": "https://open.spotify.com/artist/5EAvaLMWNBz8UZnmiVp0zk"
+        },
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492813,
+      "name": "Freedom & Progress",
+      "url": "https://open.spotify.com/track/0bBksTjMnvGUORqrxcxBI3"
     },
     {
       "album": {
@@ -9251,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
+      },
+      "artists": [
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        },
+        {
+          "name": "Kennebec",
+          "url": "https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161283,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "album": {
         "name": "Just Coolin\u2019",
         "url": "https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa"
       },
@@ -9561,6 +9717,32 @@
     },
     {
       "album": {
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/2k7zyttiEceMFHaXAIWXP7"
+      },
+      "artists": [
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        },
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325375,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/3mEAznc6Vz2FhfQALcAzMT"
+    },
+    {
+      "album": {
         "name": "Lady (Ezra Collective Version)",
         "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
       },
@@ -9572,7 +9754,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 347266,
       "name": "Lady (Ezra Collective Version)",
       "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
@@ -10646,7 +10828,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 287513,
       "name": "Lviv",
       "url": "https://open.spotify.com/track/12KnKPcZ4LIqwAAwbgZYkC"
@@ -10714,6 +10896,40 @@
       "duration_ms": 281234,
       "name": "Madagascar - Single Edit",
       "url": "https://open.spotify.com/track/4M0SfdLxXiRWDDpjKYwiiH"
+    },
+    {
+      "album": {
+        "name": "Legnomadre",
+        "url": "https://open.spotify.com/album/1xTKPmFBkxblN9ixReOu2z"
+      },
+      "artists": [
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        },
+        {
+          "name": "Simone Padovani",
+          "url": "https://open.spotify.com/artist/2WQBdpTIq0YHEtW6hfleVn"
+        },
+        {
+          "name": "William Greco",
+          "url": "https://open.spotify.com/artist/2G3FvyJF3BeYs7apD0OyxD"
+        },
+        {
+          "name": "Dario Congedo",
+          "url": "https://open.spotify.com/artist/0yumxnOYueNNmiii3GGfec"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272079,
+      "name": "Madeira",
+      "url": "https://open.spotify.com/track/0YmBFqErkhQT4Jty0KBMUE"
     },
     {
       "album": {
@@ -11486,7 +11702,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 433493,
       "name": "Moradas",
       "url": "https://open.spotify.com/track/6setBDWQ0ErSwch2UG0pSS"
@@ -12844,6 +13060,24 @@
       "duration_ms": 510726,
       "name": "Ornette's Clockwork",
       "url": "https://open.spotify.com/track/48SSMsg9ArdZPkPrbUO2as"
+    },
+    {
+      "album": {
+        "name": "Oropendola",
+        "url": "https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255530,
+      "name": "Oropendola",
+      "url": "https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK"
     },
     {
       "album": {
@@ -15866,7 +16100,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 219860,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
@@ -16487,6 +16721,24 @@
     },
     {
       "album": {
+        "name": "Things Eternal",
+        "url": "https://open.spotify.com/album/3NJBPOhXOgzmVGuJx9HE5O"
+      },
+      "artists": [
+        {
+          "name": "Dan Wilson",
+          "url": "https://open.spotify.com/artist/1HJipEfSoTMkMV0pFggoJZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380066,
+      "name": "Sticology",
+      "url": "https://open.spotify.com/track/4bo5HMKLmnyq03pXcN4DFH"
+    },
+    {
+      "album": {
         "name": "Still Walking",
         "url": "https://open.spotify.com/album/3caHJ0e1544rSIUoG2MojO"
       },
@@ -16784,7 +17036,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 192933,
       "name": "Sun Go Down",
       "url": "https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x"
@@ -18289,6 +18541,24 @@
     },
     {
       "album": {
+        "name": "B'Sides",
+        "url": "https://open.spotify.com/album/7rfhuXkhKCcm929bBUYL1q"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/5kBRqIn6dDt5RlHL2OOFHz"
+    },
+    {
+      "album": {
         "name": "The Past Intact (Live at the Village Vanguard)",
         "url": "https://open.spotify.com/album/5rwaTR3829ZCSIeVO9Zbri"
       },
@@ -18620,7 +18890,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 348366,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/4aM1fae4TPuKOZO1DiJKZT"
@@ -19106,6 +19376,24 @@
       "duration_ms": 222937,
       "name": "Torino",
       "url": "https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc"
+    },
+    {
+      "album": {
+        "name": "Tour",
+        "url": "https://open.spotify.com/album/63ZDqhMWm5hta87ZRqBWoI"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/001jccceFxJe7zqBz0ZuG9"
     },
     {
       "album": {
@@ -19650,6 +19938,28 @@
       "duration_ms": 276588,
       "name": "Unforgotten, Unforgiven",
       "url": "https://open.spotify.com/track/1VzXzBWxpNqegHMDJ9p725"
+    },
+    {
+      "album": {
+        "name": "Unified Dakotas",
+        "url": "https://open.spotify.com/album/6LLfji7DxAWp6fcxEjEJDo"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Unified Dakotas",
+      "url": "https://open.spotify.com/track/1M2dpOarQIzq02DOSZrfCK"
     },
     {
       "album": {
@@ -20626,7 +20936,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 122181,
       "name": "Wild",
       "url": "https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct"
@@ -20752,7 +21062,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 410775,
       "name": "Wintry Mix",
       "url": "https://open.spotify.com/track/0AV8QoP3V7NxKRaYThhDHH"
@@ -20894,7 +21204,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 237522,
       "name": "Xodokan Iko - Hu Na Ney",
       "url": "https://open.spotify.com/track/1H1bWmRBgfc8qBvcyKMM7S"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Russ",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: The Alchemist",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -1155,6 +1155,32 @@
     },
     {
       "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Bless (feat. MIKE & Sideshow)",
+      "url": "https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW"
+    },
+    {
+      "album": {
         "name": "Blood Roses (feat. Jae Skeese)",
         "url": "https://open.spotify.com/album/4Ouk5ecSxkKmcVTzNfxQLj"
       },
@@ -1838,7 +1864,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 154902,
       "name": "Cocaine Spoon feat. Rick Ross",
       "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
@@ -2926,6 +2952,28 @@
       "duration_ms": 122733,
       "name": "Fire Proof",
       "url": "https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY"
+    },
+    {
+      "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Jennifair",
+          "url": "https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172721,
+      "name": "Fireplace (feat. Jennifair)",
+      "url": "https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o"
     },
     {
       "album": {
@@ -4853,6 +4901,32 @@
     },
     {
       "album": {
+        "name": "LALO (feat. 38 Spesh)",
+        "url": "https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280519,
+      "name": "LALO (feat. 38 Spesh)",
+      "url": "https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp"
+    },
+    {
+      "album": {
         "name": "Laps Around the Sun",
         "url": "https://open.spotify.com/album/7C1pWGjpYTmFBcQ2fp0mWw"
       },
@@ -5040,6 +5114,24 @@
       "duration_ms": 196420,
       "name": "Lemon (feat. Method Man)",
       "url": "https://open.spotify.com/track/6NYfMOaLFdYDv5dfAdrpsZ"
+    },
+    {
+      "album": {
+        "name": "LESSONS",
+        "url": "https://open.spotify.com/album/4gC7fICQukO8POmM2lWpOS"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "LESSONS",
+      "url": "https://open.spotify.com/track/3L8RoBe74IvH9jZkjjPrmc"
     },
     {
       "album": {
@@ -5320,6 +5412,24 @@
       "duration_ms": 138312,
       "name": "LUMBERJACK",
       "url": "https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b"
+    },
+    {
+      "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
     },
     {
       "album": {
@@ -5702,7 +5812,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 191353,
       "name": "More 4 Me",
       "url": "https://open.spotify.com/track/6d2vERL8LXbUATvWTA7KiT"
@@ -7281,6 +7391,32 @@
     },
     {
       "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218600,
+      "name": "RIP Tracy (feat. Earl Sweatshirt & billy woods)",
+      "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
+    },
+    {
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/41HAHC41ZuXwZsxXlYYK1G"
       },
@@ -7818,7 +7954,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204000,
       "name": "Since Elementary",
       "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
@@ -9114,7 +9250,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 236730,
       "name": "The Tide",
       "url": "https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN"
@@ -9638,7 +9774,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 178181,
       "name": "Wake Up (feat. Lucy Rose)",
       "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
@@ -9894,7 +10030,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 235554,
       "name": "Win",
       "url": "https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY"

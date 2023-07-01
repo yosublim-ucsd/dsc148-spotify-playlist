@@ -8918,6 +8918,24 @@
     {
       "album": {
         "name": "Archives",
+        "url": "https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177135,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp"
+    },
+    {
+      "album": {
+        "name": "Archives",
         "url": "https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq"
       },
       "artists": [
@@ -8932,7 +8950,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 177135,
       "name": "Move On",
       "url": "https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN"

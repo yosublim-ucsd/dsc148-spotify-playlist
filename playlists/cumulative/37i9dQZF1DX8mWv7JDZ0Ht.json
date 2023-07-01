@@ -387,6 +387,28 @@
     },
     {
       "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158861,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
+    },
+    {
+      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -646,6 +668,24 @@
       "duration_ms": 179517,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
+    },
+    {
+      "album": {
+        "name": "Ar da Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206864,
+      "name": "Ar da Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
     },
     {
       "album": {
@@ -940,7 +980,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185372,
       "name": "CAIXA POSTAL",
       "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
@@ -1099,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "album": {
         "name": "Coisa Luz",
         "url": "https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con"
       },
@@ -1150,6 +1212,24 @@
       "duration_ms": 178081,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "album": {
+        "name": "Friozinho",
+        "url": "https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Como c\u00ea t\u00e1?",
+      "url": "https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX"
     },
     {
       "album": {
@@ -2258,7 +2338,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 194805,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C"
@@ -2280,6 +2360,28 @@
       "duration_ms": 175000,
       "name": "Eu Vou Chorar Dan\u00e7ando",
       "url": "https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP"
+    },
+    {
+      "album": {
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "album": {
@@ -3246,7 +3348,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 228693,
       "name": "L\u00e1 Vem A Noite",
       "url": "https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN"
@@ -3466,7 +3568,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 174455,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/5qmLMvvMJm8nUAmqJOLB4h"
@@ -4314,7 +4416,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185552,
       "name": "Olhar Sereno",
       "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
@@ -4412,7 +4514,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 221724,
       "name": "Olimpo ou Raz\u00e3o",
       "url": "https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I"
@@ -4496,7 +4598,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
@@ -4554,7 +4656,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 176804,
       "name": "Passa",
       "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
@@ -4761,6 +4863,28 @@
     },
     {
       "album": {
+        "name": "Por Que Voc\u00ea N\u00e3o Vem?",
+        "url": "https://open.spotify.com/album/0aBrzFzgTN18yJdycI1NHh"
+      },
+      "artists": [
+        {
+          "name": "Zimbra",
+          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166542,
+      "name": "Por Que Voc\u00ea N\u00e3o Vem?",
+      "url": "https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx"
+    },
+    {
+      "album": {
         "name": "Por Voc\u00ea",
         "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
       },
@@ -4834,7 +4958,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 208663,
       "name": "pra onde vai o amor",
       "url": "https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX"
@@ -5070,7 +5194,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197883,
       "name": "Rara",
       "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
@@ -5128,7 +5252,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 247500,
       "name": "Retrato de Maria L\u00facia",
       "url": "https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF"
@@ -5244,6 +5368,24 @@
       "duration_ms": 119706,
       "name": "Sanidade Mental",
       "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/4cK5SEawAvb3fL5lPlhJiX"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159408,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/42gnV9JE50pObR1USs9v4b"
     },
     {
       "album": {
@@ -5624,7 +5766,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 141573,
       "name": "Sorria que Volta",
       "url": "https://open.spotify.com/track/3C7AFvzk3oWWUiKd6i8l2w"

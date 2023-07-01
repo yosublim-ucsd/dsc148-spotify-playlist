@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "WNTRS OUTCAST",
+        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 121130,
       "name": "Magic Potion",
       "url": "https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj"
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197281,
       "name": "No Love Shemix",
       "url": "https://open.spotify.com/track/3aSmunIOrv4HRHXeMYT2Ob"
@@ -4900,6 +4918,28 @@
       "duration_ms": 164415,
       "name": "Real",
       "url": "https://open.spotify.com/track/38ICQQxXLoifVUNkJcs7r6"
+    },
+    {
+      "album": {
+        "name": "Real Me Remix (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/4GNOfobbAX8StN9nHVKWDI"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183028,
+      "name": "Real Me Remix (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/3Gurkj61CO5WEBpp72tZpf"
     },
     {
       "album": {
@@ -5936,7 +5976,7 @@
           "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         },
         {
-          "name": "No Cap",
+          "name": "NoCap",
           "url": "https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ"
         }
       ],

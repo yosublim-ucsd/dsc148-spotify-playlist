@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Aditya Bhardwaj
 
-98 songs - 5 hr 18 min
+99 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Jahaan Pe Dil Hai](https://open.spotify.com/track/3YgM9XcsDUmCzOQIrsBWxS) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Aarifah](https://open.spotify.com/artist/6vzDLX1aBE4CGlYUcg90Lu) | [Jahaan Pe Dil Hai](https://open.spotify.com/album/7p8SMyYPHhlctJStFTIONG) | 3:09 | 2023-04-14 | 2023-05-20 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-06-30 |
 | [Kahaani](https://open.spotify.com/track/6I2s9QNUzGqokQPszHzve5) | [Rohit Nigam](https://open.spotify.com/artist/7qdScuZ6LcdSpnjMLwQd6x) | [Kahaani](https://open.spotify.com/album/4lxUkMMvdKwdM6Hlwkmwtg) | 3:19 | 2023-04-14 | 2023-06-17 |
+| [Kahaaniyaan](https://open.spotify.com/track/3BlCtzXDzZMORGaLwmFLdC) | [Yashraj Mukhate](https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI), [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Kahaaniyaan](https://open.spotify.com/album/5YsWtucp2MQgq8GWFnFbt0) | 2:42 | 2023-06-30 |  |
 | [Kahan](https://open.spotify.com/track/4VzcfqIfxSM4TcKEqlJWWT) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Kahan](https://open.spotify.com/album/2qE35FkmOscXTVvAGqaIhx) | 2:28 | 2023-04-14 | 2023-06-30 |
 | [Kahaniyaan](https://open.spotify.com/track/3K7LMKRmC4Dg6yLx9iw9Qg) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Kahaniyaan](https://open.spotify.com/album/2BLdrymcISPnxRzGCs2k28) | 3:36 | 2023-05-19 |  |
 | [Kahaniyan](https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Kahaniyan](https://open.spotify.com/album/6ljwWuYQh5fYq322ksxy2H) | 3:54 | 2023-05-05 |  |
@@ -80,7 +81,7 @@
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-04-14 | 2023-06-24 |
 | [SABAR](https://open.spotify.com/track/6H5pyPWWzFClcVYLSBi562) | [Shrey Jadav](https://open.spotify.com/artist/7FNrXfn1qGnTT5EB5pg8m0), [T\-Rex](https://open.spotify.com/artist/1a6V9zFa1uu6VAssycd5Tc), [Vanishree Sahu](https://open.spotify.com/artist/2HYdcG7Fp7B2xbgBQE9ncy) | [SABAR](https://open.spotify.com/album/4WtT9b9n5A4qAQJ87M5RSC) | 3:23 | 2023-06-30 |  |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-19 |  |
-| [Sahara](https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Sahara](https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu) | 3:14 | 2023-04-14 |  |
+| [Sahara](https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Sahara](https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu) | 3:14 | 2023-04-14 | 2023-07-01 |
 | [Saiban](https://open.spotify.com/track/3rn4PxnE3D75ViL4ATuHUd) | [Epic Stories](https://open.spotify.com/artist/2Oxbce0HTivMo5my8u8tAS), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Saiban](https://open.spotify.com/album/7weSTdjfhRpSbt5uS9C5TE) | 4:27 | 2023-04-14 | 2023-06-24 |
 | [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-19 |  |
 | [sayyāh](https://open.spotify.com/track/7rH093pT1fUvkFiIpPFGq4) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [sayyāh](https://open.spotify.com/album/2yxGzz9jhpWvMX8aietu2J) | 4:13 | 2023-06-16 |  |

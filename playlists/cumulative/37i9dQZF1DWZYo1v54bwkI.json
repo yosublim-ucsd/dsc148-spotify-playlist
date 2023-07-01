@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 193918,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x"
@@ -3448,6 +3448,24 @@
       "duration_ms": 154423,
       "name": "Southward Bound (432 Hz)",
       "url": "https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH"
+    },
+    {
+      "album": {
+        "name": "Spirit of Now",
+        "url": "https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199117,
+      "name": "Spirit of Now",
+      "url": "https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8"
     },
     {
       "album": {

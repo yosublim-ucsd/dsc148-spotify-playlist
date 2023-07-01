@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-120 songs - 11 hr 22 min
+121 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Just Off Wave](https://open.spotify.com/track/20bTVYNJ8KNoWmtD6CyIXs) | [CZ Wang](https://open.spotify.com/artist/4FeNSvYRtMNdMbCSVJox16), [Neo Image](https://open.spotify.com/artist/0ZVQmJLJs7TWVXFew0xp0z), [Separated At Birth](https://open.spotify.com/artist/1AzQkEA2oUyhk2XDogLOOI) | [Just Off Wave / Open Mic Beat](https://open.spotify.com/album/6TZBKEJW8DMFjbRhbERA8c) | 5:23 | 2022-09-16 |  |
 | [Kala](https://open.spotify.com/track/3g1jQEYJMHrJO9MWc6EBj9) | [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Kala](https://open.spotify.com/album/3h8H3XpHzkRNmxDdROHknP) | 8:33 | 2023-02-03 |  |
 | [Kunitamale](https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN) | [Kunitamale](https://open.spotify.com/album/5df09cDBAMKQ7rMKzZ1b0S) | 7:24 | 2022-09-16 | 2022-12-24 |
+| [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 |  |
 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/4xBgLDhsLY14YB2rKd87p2) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse](https://open.spotify.com/album/2TfI3C8cINRiaNTQxLN7Bu) | 3:27 | 2022-09-16 | 2022-11-20 |
 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse \(Edit\)](https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb) | 3:27 | 2022-09-16 | 2023-06-10 |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-09-16 | 2022-12-24 |

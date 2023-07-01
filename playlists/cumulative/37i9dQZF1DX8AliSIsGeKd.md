@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: BUNT.
 
-2,068 songs - 7 day 18 hr 46 min
+2,069 songs - 7 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,7 @@
 | [DUNYA \- Extended Version](https://open.spotify.com/track/3EoRtpapDB9EwZYT3iKUyj) | [IAM](https://open.spotify.com/artist/3c1lMwxxFOWKz9Dl7HFhtf) | [DUNYA \(Extended Version\)](https://open.spotify.com/album/1jhz9SB4rL45guWvJaSqiO) | 4:55 | 2022-04-28 | 2022-05-13 |
 | [Duplicate](https://open.spotify.com/track/0Vj5tDSoPC0ISTmQKbvoCm) | [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Duplicate](https://open.spotify.com/album/2Abwav2UASGK0o7bRgDgl9) | 6:19 | 2023-02-23 | 2023-03-10 |
 | [Duration](https://open.spotify.com/track/7lCWwzpzO9mi82MDVwq7Ss) | [Barnt](https://open.spotify.com/artist/5UwHHsEQqO6OiQCtYHDpn9), [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Speicher 125](https://open.spotify.com/album/0GHCGbjjcx6PgtGWV4fEwx) | 8:10 | 2023-05-12 | 2023-06-02 |
-| [Dusk](https://open.spotify.com/track/7Lroe0vEFrgBXyWrXqPpsD) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Dusk](https://open.spotify.com/album/6sbrlt7qH40VVqVN4awlzZ) | 7:55 | 2023-06-22 |  |
+| [Dusk](https://open.spotify.com/track/7Lroe0vEFrgBXyWrXqPpsD) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj), [Marius Samuelsen](https://open.spotify.com/artist/0DRWDpqOfIbafVX1Go6UVD) | [Dusk](https://open.spotify.com/album/6sbrlt7qH40VVqVN4awlzZ) | 7:55 | 2023-06-22 |  |
 | [Dusk](https://open.spotify.com/track/40jU9D52rViqfRjqvZ2F4L) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk), [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm) | [Dusk](https://open.spotify.com/album/27VgNuEGZnE0nTehmqJAoR) | 7:19 | 2022-09-16 | 2022-09-30 |
 | [Dust2](https://open.spotify.com/track/73TeOQxZq4VMxooPmZ4KEr) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Dust2](https://open.spotify.com/album/0JMayIqWFUZbGsNBPj3XvW) | 6:26 | 2022-06-02 | 2022-06-24 |
 | [Déjeuner Sur L'Herbe](https://open.spotify.com/track/75fNXgUCYlxTyRLGhIYW8j) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Déjeuner Sur L'Herbe](https://open.spotify.com/album/4siB4LvQcJCI4OlDLHXaRL) | 3:04 | 2023-06-22 |  |
@@ -625,7 +625,7 @@
 | [Fake Is Fashion](https://open.spotify.com/track/7sMzFIeVWD6GSdSXsMdQ8k) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Fake Is Fashion](https://open.spotify.com/album/59t2TQN7qnyKgLCOz5lLTJ) | 4:56 | 2022-07-14 | 2022-07-29 |
 | [Fall In Love](https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Fall In Love](https://open.spotify.com/album/4S5m723e0p5GYuRWMeo8GY) | 4:04 | 2023-04-27 | 2023-05-19 |
 | [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 | 2022-09-27 | 2022-10-14 |
-| [Fallen Leaf \- Edit](https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Fallen Leaf \(Edit\)](https://open.spotify.com/album/5S3LayPQLS2A9tCGxQDKgd) | 3:33 | 2023-06-30 |  |
+| [Fallen Leaf](https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Fallen Leaf](https://open.spotify.com/album/5S3LayPQLS2A9tCGxQDKgd) | 3:33 | 2023-06-30 |  |
 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 | 2022-09-08 | 2022-09-23 |
 | [Falling](https://open.spotify.com/track/1SKful9KuNbT6FJCWmJCXO) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Falling](https://open.spotify.com/album/1D6lNWWWhQDvBL7Qecso46) | 4:24 | 2023-06-16 | 2023-06-30 |
 | [FALLING \- Anja Schneider Remix](https://open.spotify.com/track/6hkYpH1vkkGolCxshXvTN3) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [SANT JORDI 02 \- Remixes](https://open.spotify.com/album/1ohwBEow2ArSPZWepHkQ1g) | 6:09 | 2023-03-24 | 2023-04-07 |
@@ -1716,6 +1716,7 @@
 | [Suffice to Predict](https://open.spotify.com/track/0EqcNEm7mOnTpTyB1N1hIt) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Fear of Programming](https://open.spotify.com/album/49b3cshXjZHfOzN3SfMWzr) | 5:54 | 2022-11-25 | 2022-12-09 |
 | [Summer Storm](https://open.spotify.com/track/7w1U6JsBZw8lSHJ3rODHcO) | [Alexander Kowalski](https://open.spotify.com/artist/3h6qziz3eTK8pNQ2JSzHPs) | [Rave the Planet: Supporter Series, Vol\. 012](https://open.spotify.com/album/0VXpUVJ4GW3lzVXjudgzKK) | 7:48 | 2022-11-03 | 2022-11-18 |
 | [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-01-05 | 2023-01-27 |
+| [Sun](https://open.spotify.com/track/3gJ3bAKKfTSLDfRhAxxjKS) | [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu) | [Sun](https://open.spotify.com/album/15t9R810ZFQPsBG2wESkqu) | 3:40 | 2023-06-30 |  |
 | [Sun Goes Down](https://open.spotify.com/track/3BMBgzRXl0blrs5Rdyclow) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Sun Goes Down](https://open.spotify.com/album/72owuahHXwJSpTPUdUUvow) | 3:17 | 2022-09-16 | 2022-10-07 |
 | [Sunfish](https://open.spotify.com/track/1eLsYYoiXcCVmtyeNci84B) | [Sebra Cruz](https://open.spotify.com/artist/2OaoLYNZqzNVMM4H7KL5ye) | [Don't Worry Psy Happy](https://open.spotify.com/album/34y4zkduoX2OL2t1qdL3gs) | 3:40 | 2023-04-20 | 2023-05-05 |
 | [Sunflower](https://open.spotify.com/track/5vJGXwfzpam9FJi5buWKed) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [C'mon](https://open.spotify.com/artist/6x4QkA6MiOZx0uWMOa8394), [Otistic](https://open.spotify.com/artist/6i6sCJwxvOeJWWivhbaRUd), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Sunflower](https://open.spotify.com/album/0hmNprXazlsuIpupWZNfdn) | 3:39 | 2022-08-04 | 2022-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,706 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,703 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
 | 37 | [Jingle Bells X Deck the Halls](https://open.spotify.com/track/4w1maTceOzURZYKqDzninf) | [Khalil Ramos](https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU), [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Jingle Bells X Deck the Halls](https://open.spotify.com/album/25UjFOoZbJOx0jg1QWXg8n) | 2:37 |
 
-Snapshot ID: `MCw2M2MwOTc3NTY3NjhjZWQ1N2VmOTU3OTA5NzU3MzJlODU5YTAzM2Qz`
+Snapshot ID: `MCwyYTY2ZTg4ZWRkMjEyYzcwNTZjYmE5MDBjM2M0Y2NmY2MyNDJlNmZm`

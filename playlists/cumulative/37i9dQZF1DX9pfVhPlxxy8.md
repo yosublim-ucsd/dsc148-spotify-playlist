@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9pfVhPlxxy8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9pfVhPlxxy8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9pfVhPlxxy8)
 
-### [Ambiente x Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DX9pfVhPlxxy8)
+### [Ambient X Takeover: Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DX9pfVhPlxxy8)
 
-> Brian Eno's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Brian Eno's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 21 songs - 2 hr 33 min
 

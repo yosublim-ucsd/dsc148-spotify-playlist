@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> The hottest songs from LGBTQIA+ artists\. Cover: Urias
+> The hottest songs from LGBTQIA+ artists\. Cover: Dana International
 
-793 songs - 1 day 19 hr 20 min
+794 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 | 2023-05-16 | 2023-06-02 |
 | [Playing Around](https://open.spotify.com/track/1u4dJb0Xnl6B2txgNk5P2c) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Playing Around](https://open.spotify.com/album/7zLdtN7TW0SGaasMU6cZFT) | 2:38 | 2023-01-24 | 2023-03-08 |
 | [Playing God](https://open.spotify.com/track/6ql1z5p5t2OXMxIxsRcYUu) | [Katie Buxton](https://open.spotify.com/artist/6HIvdxEp3DJ5IoiPcqIquO) | [Playing God](https://open.spotify.com/album/5kTZtPSbsQOIvVIjWz3FPb) | 3:43 | 2022-04-01 | 2022-07-27 |
+| [PLS DADDY](https://open.spotify.com/track/11LItHLzC70mIBzlifYCPU) | [Robin Solf](https://open.spotify.com/artist/0s2mgqgMuYfyB1c5rysyXL) | [PLS DADDY](https://open.spotify.com/album/1yMKq2OFt9PGa9e7fiBRCI) | 2:10 | 2023-06-30 |  |
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2021-12-17 | 2022-03-26 |
 | [Point Me Toward The Real](https://open.spotify.com/track/3l0EWOuGylX8eNrXJVDRrs) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Point Me Toward The Real](https://open.spotify.com/album/4s8642jMUumY3TCovwAh3m) | 4:55 | 2022-03-04 | 2022-04-13 |
 | [Poor Girl A Long Way From Heaven](https://open.spotify.com/track/4saON51OXJzq7dDhw9ge6R) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 3:41 | 2023-03-31 | 2023-04-14 |

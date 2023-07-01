@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5709,
+  "num_followers": 5713,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4",
+  "snapshot_id": "MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -91,8 +91,8 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -243,8 +243,8 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+        "name": "Death Wish Blues",
+        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+      "duration_ms": 261064,
+      "name": "Rippin' And Runnin'",
+      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
+      },
+      "artists": [
+        {
+          "name": "Danny Bryant",
+          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
+        }
+      ],
+      "duration_ms": 172520,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Eric (Long Live The King)",
         "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
-      },
-      "artists": [
-        {
-          "name": "Danny Bryant",
-          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
-        }
-      ],
-      "duration_ms": 172520,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
-      },
-      "artists": [
-        {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
-        }
-      ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "What Can I Do?",
         "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 186013,
       "name": "What Can I Do?",
       "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+      },
+      "artists": [
+        {
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+        }
+      ],
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Ain't Giving Up",
         "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 277904,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Rag Doll",
-        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Teator",
-          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Flood of 2019",
         "url": "https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+        "name": "Rag Doll",
+        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
       },
       "artists": [
         {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+          "name": "Jenny Teator",
+          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
         }
       ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+      "duration_ms": 169841,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Cassanova Kirk Daniel",
-        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
       "artists": [
         {
-          "name": "Mittch",
-          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
         }
       ],
-      "duration_ms": 203599,
-      "name": "Cassanova Kirk Daniel",
-      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     }
   ],
   "unique_name": "Blues BBQ",

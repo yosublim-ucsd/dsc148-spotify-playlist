@@ -1,12 +1,12 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 18060,
+  "num_followers": 18098,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDI3NWJjZDhhMzFjOGVkNTBhZTE5YjdlNzZmN2JjMGU3NzdkNTQx",
+  "snapshot_id": "MCxkNzY1OWI3ZjM1NWFhZjE2M2UwODFhNDdmZDFlNDYyYzg1YjZjNWY3",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/4fav1BF3LdS5yI4o7mKFrL"
     },
     {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "(I Don't Need A) New Girl",
+        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "(I Don't Need A) New Girl",
+      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "What Ever It May Be (Diamond Cut)",
@@ -45,6 +61,26 @@
       "url": "https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K"
     },
     {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "The Limit",
+        "url": "https://open.spotify.com/album/5P6N1ibaaDY8KYwJzthatT"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/1IPTC92TkaOIMj9Gohi8MF"
+        }
+      ],
+      "duration_ms": 214170,
+      "name": "The Limit",
+      "url": "https://open.spotify.com/track/5xZhh4ZLFnUltMJ5xVur6a"
+    },
+    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "Guitar for Robots",
@@ -59,6 +95,26 @@
       "duration_ms": 236666,
       "name": "Guitar for Robots",
       "url": "https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Tie Me Up",
+        "url": "https://open.spotify.com/album/31HFBkKWLTp87WMpCQXOj6"
+      },
+      "artists": [
+        {
+          "name": "Zackey Force Funk",
+          "url": "https://open.spotify.com/artist/18CPbmxYOdkMCEkq3j9CBd"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "duration_ms": 234125,
+      "name": "Tie Me Up",
+      "url": "https://open.spotify.com/track/0Ad3yGSw8Mqmad5XQQUOAu"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -995,22 +1051,6 @@
       "duration_ms": 188398,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "White Women",
-        "url": "https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 390880,
-      "name": "Somethingood",
-      "url": "https://open.spotify.com/track/29T6HQEYLAc8syLr3I4SRK"
     },
     {
       "added_at": "2021-07-26 17:42:45",

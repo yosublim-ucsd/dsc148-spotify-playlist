@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits!",
-  "num_followers": 1838,
+  "num_followers": 1937,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmI1NTM5NTk2MmZmZmM4MjVhNWY0YTI4NTE3MWY2MjExNDM5NDNj",
+  "snapshot_id": "MCwzZTQ5NzllNjEzY2UyNzFjMzkxYzYwYWIxMWU5MmI1ZTdjYzM1ZjU4",
   "tracks": [
+    {
+      "added_at": "2023-06-30 06:54:00",
+      "album": {
+        "name": "Lavender Haze",
+        "url": "https://open.spotify.com/album/0TGFhWP72ROBZvFbzTIXuq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 193501,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/1fXodpaymaMZ3vZKYvzUBn"
+    },
     {
       "added_at": "2023-06-23 01:33:00",
       "album": {

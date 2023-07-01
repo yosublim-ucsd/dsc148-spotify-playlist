@@ -4,11 +4,12 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-151 songs - 13 hr 56 min
+152 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2020](https://open.spotify.com/track/5chtaHyGuNkcj83hzae0Qk) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [2020](https://open.spotify.com/album/7hSvY3Hq0E1ZO5zSgeuwlL) | 8:03 | 2023-04-21 |  |
+| [Actual Proof](https://open.spotify.com/track/5DmEiepcrLcjGA2z0qfQ2w) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Actual Proof](https://open.spotify.com/album/2Xyo0fX4walkyM0ITbzZCw) | 5:41 | 2023-06-30 |  |
 | [African Shabtay](https://open.spotify.com/track/0KFqWGc2VNfpCbi6PuX218) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [African Shabtay](https://open.spotify.com/album/6Rj2gkyntZqABajRBksHMm) | 5:26 | 2021-10-08 |  |
 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 | 2021-10-01 |  |
 | [Amusement](https://open.spotify.com/track/5ddw4UiiqkdI8OoUOVhB6O) | [EIKO＋ERIKO](https://open.spotify.com/artist/6b7oAa2JOCrhHAxDCqb7sz) | [Amusement](https://open.spotify.com/album/7otfKoaJXSjnr8B2xdB2Wb) | 7:00 | 2021-08-13 |  |
@@ -21,7 +22,7 @@
 | [because](https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:24 | 2021-01-27 |  |
 | [Ben\-Hur](https://open.spotify.com/track/2SH0p99Dahs6J4cwRaSJqt) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:04 | 2022-04-29 |  |
 | [Ben\-Hur](https://open.spotify.com/track/39OjOfJbfFayl3V09Gv8xQ) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Ben\-Hur](https://open.spotify.com/album/5A7hiqtjAKhFtiTqFhVzS8) | 3:04 | 2022-04-15 | 2022-06-29 |
-| [Beyond Now](https://open.spotify.com/track/4p0pz1sMMFhB1gQ5OG93zm) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Beyond Now](https://open.spotify.com/album/1Rgh4m6yVvWXteM0isgfPe) | 7:52 | 2021-01-27 |  |
+| [Beyond Now](https://open.spotify.com/track/4p0pz1sMMFhB1gQ5OG93zm) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Beyond Now](https://open.spotify.com/album/1Rgh4m6yVvWXteM0isgfPe) | 7:52 | 2021-01-27 | 2023-07-01 |
 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 | 2021-01-27 |  |
 | [Caliber](https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Fredrik Thordendal](https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF) | [Caliber](https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La) | 3:13 | 2022-08-19 |  |
 | [Captain Señor Mouse](https://open.spotify.com/track/6z71qHoHjMRU3EbulmmNVq) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Return To The Seventh Galaxy](https://open.spotify.com/album/6C6zPgI6qcNZfGTWDeiHly) | 9:00 | 2021-01-27 |  |

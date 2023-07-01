@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "The Frontmen",
+        "url": "https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Amazed - The Frontmen Edition",
+      "url": "https://open.spotify.com/track/67A9iiDoQcU9ppgYSUTX12"
+    },
+    {
+      "album": {
         "name": "And Then Some",
         "url": "https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF"
       },
@@ -1055,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "Danny Boy",
+        "url": "https://open.spotify.com/album/3esNIvoeWE2j3jy8TNjKJk"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Paul Franklin",
+          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309880,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/1yerpD0kYWDGojzzTY1bCY"
+    },
+    {
+      "album": {
         "name": "Dear Miss Loretta",
         "url": "https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn"
       },
@@ -1546,6 +1586,24 @@
       "duration_ms": 187693,
       "name": "Grits",
       "url": "https://open.spotify.com/track/2ZgZwqFtcaKLYEayrYxL4N"
+    },
+    {
+      "album": {
+        "name": "Have We Forgotten",
+        "url": "https://open.spotify.com/album/06G018rLOJH3CHgWu1m3ew"
+      },
+      "artists": [
+        {
+          "name": "Darryl Worley",
+          "url": "https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245557,
+      "name": "Have We Forgotten",
+      "url": "https://open.spotify.com/track/5kJWyyYDsmZGvPq5kTqwJG"
     },
     {
       "album": {
@@ -2232,6 +2290,24 @@
       "duration_ms": 214506,
       "name": "Lead Me Home",
       "url": "https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK"
+    },
+    {
+      "album": {
+        "name": "The Frontmen",
+        "url": "https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Left Their Mark",
+      "url": "https://open.spotify.com/track/5zNj9vXUE6RDjknA2uTfFL"
     },
     {
       "album": {

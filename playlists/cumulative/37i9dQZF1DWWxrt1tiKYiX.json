@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Lovely, acoustic pop. Cover: Taylor Swift",
+  "description": "Lovely, acoustic pop. Cover: Dean Lewis & Julia Michaels",
   "name": "Acoustic Pop",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 218900,
       "name": "Before You Go - Guitar Acoustic",
       "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 210884,
       "name": "Better Days - Stripped",
       "url": "https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 205815,
       "name": "Holy - Acoustic",
       "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
@@ -1711,6 +1711,28 @@
     },
     {
       "album": {
+        "name": "In A Perfect World (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "In A Perfect World (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
+    },
+    {
+      "album": {
         "name": "In Your Arms (with X Ambassadors) - Stripped",
         "url": "https://open.spotify.com/album/1wXEZNc51l2gJSP3fm6Cni"
       },
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 249085,
       "name": "Let Somebody Go - Piano Version",
       "url": "https://open.spotify.com/track/2zVeRtqrrRXpCizKlywvvr"
@@ -2250,7 +2272,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 224487,
       "name": "Meltdown - Acoustic",
       "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
@@ -2558,6 +2580,50 @@
       "duration_ms": 222000,
       "name": "No One Dies From Love (Stripped in France)",
       "url": "https://open.spotify.com/track/27xRPKb5q7YmDIzOUSHOa9"
+    },
+    {
+      "album": {
+        "name": "Nobody Loves Me",
+        "url": "https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215247,
+      "name": "Nobody Loves Me",
+      "url": "https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau"
+    },
+    {
+      "album": {
+        "name": "Nobody's You",
+        "url": "https://open.spotify.com/album/09dtrFg01EKpw6oVMw6MI1"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156385,
+      "name": "Nobody's You",
+      "url": "https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh"
     },
     {
       "album": {
@@ -3215,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175986,
+      "name": "The Hardest Part - Acoustic",
+      "url": "https://open.spotify.com/track/2zcoAxkc0xxXa4SnQXyhYU"
+    },
+    {
+      "album": {
         "name": "There's No Way",
         "url": "https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2"
       },
@@ -3494,6 +3578,32 @@
       "duration_ms": 173652,
       "name": "Wonder - Acoustic",
       "url": "https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9"
+    },
+    {
+      "album": {
+        "name": "Worlds On Fire (with R3HAB & Au/Ra) (Acoustic)",
+        "url": "https://open.spotify.com/album/2WspulXhqZ7U6XQAInH2UU"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152974,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra) (Acoustic)",
+      "url": "https://open.spotify.com/track/1qMbwBNvXzhHg0nK2ciMUt"
     },
     {
       "album": {

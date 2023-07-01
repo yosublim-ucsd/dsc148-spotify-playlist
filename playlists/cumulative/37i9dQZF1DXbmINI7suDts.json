@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179439,
       "name": "Bamututte",
       "url": "https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 206117,
       "name": "Legeza",
       "url": "https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 241620,
       "name": "Machozi Machoni",
       "url": "https://open.spotify.com/track/7LmsBwJdArqh6HSpOwzpr9"
@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Mutima Gwange",
+        "url": "https://open.spotify.com/album/3FCIWqBEOuIKEzX791L8bk"
+      },
+      "artists": [
+        {
+          "name": "Hatim and Dokey",
+          "url": "https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Mutima Gwange",
+      "url": "https://open.spotify.com/track/4F5cEnK9Y1ug0SzkcpDmtg"
+    },
+    {
+      "album": {
         "name": "Muunda",
         "url": "https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG"
       },
@@ -1082,6 +1100,24 @@
       "duration_ms": 181000,
       "name": "Nkwegomba",
       "url": "https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA"
+    },
+    {
+      "album": {
+        "name": "Nzize",
+        "url": "https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C"
+      },
+      "artists": [
+        {
+          "name": "Bravo Lion",
+          "url": "https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262695,
+      "name": "Nzize",
+      "url": "https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl"
     },
     {
       "album": {
@@ -1298,6 +1334,24 @@
       "duration_ms": 177000,
       "name": "REALLY NEED",
       "url": "https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev"
+    },
+    {
+      "album": {
+        "name": "Maliki-Fy",
+        "url": "https://open.spotify.com/album/1uxXkx3peWh84WEVw149dF"
+      },
+      "artists": [
+        {
+          "name": "Eli Maliki",
+          "url": "https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279729,
+      "name": "Sema",
+      "url": "https://open.spotify.com/track/1YjgPU8BIH0COPwQa4HZFH"
     },
     {
       "album": {

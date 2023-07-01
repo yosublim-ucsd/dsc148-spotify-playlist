@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330880,
+      "name": "Alps",
+      "url": "https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC"
+    },
+    {
+      "album": {
         "name": "alter",
         "url": "https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC"
       },
@@ -1467,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "COME WITH ME",
+        "url": "https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154777,
+      "name": "COME WITH ME",
+      "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
+    },
+    {
+      "album": {
         "name": "Debris",
         "url": "https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS"
       },
@@ -2310,7 +2346,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 216222,
       "name": "Emerald Bells",
       "url": "https://open.spotify.com/track/3tnb5ow33RaHdKxus52XSq"
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 208450,
       "name": "For the Kill",
       "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
@@ -3895,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Life Waits For Nothing",
+        "url": "https://open.spotify.com/album/0d481wq1lt7lsE45B6eEja"
+      },
+      "artists": [
+        {
+          "name": "Phantom Youth",
+          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165171,
+      "name": "Life Waits For Nothing",
+      "url": "https://open.spotify.com/track/0nRmLHNJHEbKuGDXK6SnqE"
+    },
+    {
+      "album": {
         "name": "Dimensional Bleed",
         "url": "https://open.spotify.com/album/1P7aLqfoIPEfSO6GiOFI5z"
       },
@@ -4130,6 +4184,24 @@
       "duration_ms": 280243,
       "name": "means to an end (not enough)",
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
+    },
+    {
+      "album": {
+        "name": "Melody Experiment",
+        "url": "https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310094,
+      "name": "Melody Experiment",
+      "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
     },
     {
       "album": {
@@ -4642,7 +4714,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 236000,
       "name": "OUTLAW69",
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
@@ -5078,7 +5150,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 252320,
       "name": "Pulling Stitches",
       "url": "https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ"
@@ -5410,7 +5482,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 224026,
       "name": "SHOEGAZING (feat. No Rome)",
       "url": "https://open.spotify.com/track/5hXgfUWMLWpZjtSrDP0Efp"
@@ -5918,10 +5990,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 242439,
       "name": "Tears",
       "url": "https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS"
+    },
+    {
+      "album": {
+        "name": "That I",
+        "url": "https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP"
+      },
+      "artists": [
+        {
+          "name": "D.B.Inches",
+          "url": "https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222667,
+      "name": "That I",
+      "url": "https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV"
     },
     {
       "album": {
@@ -6654,7 +6744,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 181080,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/66JAiAww71cy0rv3c8567D"

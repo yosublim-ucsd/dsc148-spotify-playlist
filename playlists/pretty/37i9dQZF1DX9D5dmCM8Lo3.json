@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 154274,
+  "num_followers": 154530,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYThhNjU3Nzk5NTZjYTZhOWY2YTE4YWVlY2RhNjkzODcwMmViOTA3",
+  "snapshot_id": "MCwxYzI3YThmYzFkMzY1MmYzZDY5ZDRkY2YyMGYxZTdiODEyM2U0NGUw",
   "tracks": [
     {
       "added_at": "2023-02-07 20:36:12",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-07 20:36:12",
       "album": {
-        "name": "Soaring",
-        "url": "https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ"
-      },
-      "artists": [
-        {
-          "name": "Puzzle",
-          "url": "https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V"
-        }
-      ],
-      "duration_ms": 163514,
-      "name": "I Saw an Angel",
-      "url": "https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2"
-    },
-    {
-      "added_at": "2023-02-07 20:36:12",
-      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 228866,
       "name": "Fingerbib",
       "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
+    },
+    {
+      "added_at": "2023-02-07 20:36:12",
+      "album": {
+        "name": "Soaring",
+        "url": "https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ"
+      },
+      "artists": [
+        {
+          "name": "Puzzle",
+          "url": "https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "I Saw an Angel",
+      "url": "https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2"
     },
     {
       "added_at": "2023-02-07 20:36:12",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-02-07 20:36:12",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 67894,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
-    },
-    {
-      "added_at": "2023-02-07 20:36:12",
-      "album": {
         "name": "Somoku Hodo",
         "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 172080,
       "name": "Doku",
       "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
+    },
+    {
+      "added_at": "2023-02-07 20:36:12",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 67894,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
     },
     {
       "added_at": "2023-02-07 20:36:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-07 20:36:12",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2023-02-07 20:36:12",
-      "album": {
         "name": ".Temp",
         "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 96883,
       "name": "Eternal.Temp",
       "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
+    },
+    {
+      "added_at": "2023-02-07 20:36:12",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2023-02-07 20:36:12",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-07 20:36:12",
       "album": {
-        "name": "Missed Kiss",
-        "url": "https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8"
-      },
-      "artists": [
-        {
-          "name": "Digigurl",
-          "url": "https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Missed Kiss",
-      "url": "https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr"
-    },
-    {
-      "added_at": "2023-02-07 20:36:12",
-      "album": {
         "name": "Laptop !!",
         "url": "https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-02-07 20:36:12",
       "album": {
-        "name": "VOCALOID DYSTOPIA",
-        "url": "https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx"
+        "name": "Missed Kiss",
+        "url": "https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8"
       },
       "artists": [
         {
-          "name": "dennokop",
-          "url": "https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP"
+          "name": "Digigurl",
+          "url": "https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z"
         }
       ],
-      "duration_ms": 144875,
-      "name": "VOCALOID UTOPIA",
-      "url": "https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa"
+      "duration_ms": 202135,
+      "name": "Missed Kiss",
+      "url": "https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr"
     },
     {
       "added_at": "2023-06-12 19:09:38",
@@ -679,6 +663,22 @@
       "duration_ms": 84503,
       "name": "ultra",
       "url": "https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd"
+    },
+    {
+      "added_at": "2023-02-07 20:36:12",
+      "album": {
+        "name": "VOCALOID DYSTOPIA",
+        "url": "https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx"
+      },
+      "artists": [
+        {
+          "name": "dennokop",
+          "url": "https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP"
+        }
+      ],
+      "duration_ms": 144875,
+      "name": "VOCALOID UTOPIA",
+      "url": "https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa"
     },
     {
       "added_at": "2023-02-07 20:36:12",

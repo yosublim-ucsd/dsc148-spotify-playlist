@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Tyler Bryant & the Shakedown",
-  "num_followers": 169286,
+  "num_followers": 169487,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDExMDBiMzk2OWY1NGY3MWE4NzUzOWY3YTc3Y2MxOWZkODJkOTAz",
+  "snapshot_id": "MCxjNjIwMTExZGQ3MDRmMGIwOWI2MjRmZjhhYzVlOGMzYWM2ZTY1MWUy",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 249493,
       "name": "Bad Luck & The Blues",
       "url": "https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Broken Bones",
+        "url": "https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1951,22 +1967,6 @@
       "duration_ms": 288240,
       "name": "No More Fire",
       "url": "https://open.spotify.com/track/2yTZSzl6XflxCRU7NnnW8M"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0"
-      },
-      "artists": [
-        {
-          "name": "The Karma Effect",
-          "url": "https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1"
-        }
-      ],
-      "duration_ms": 205557,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk"
     },
     {
       "added_at": "2021-11-12 04:00:00",

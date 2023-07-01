@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,842 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,899 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 50 | [Goddamn \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4TCG827sk5fDEmUvcQlStk) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:31 |
 | 51 | [Faded](https://open.spotify.com/track/2NRUU0gP1d8Yif8CpsCW8l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/3KHamR7LZmFT0xqPA1Hyob) | 3:26 |
 
-Snapshot ID: `MjgxMzQwNTUsMDAwMDAwMDA5OGUxZjMxYjliZTQ3ODZiNmE1YWE3YmIyYTY4YTZhOA==`
+Snapshot ID: `MjgxMzU1MTEsMDAwMDAwMDA3MjNmNmFkYmFlZTNhNDE4ZDE4ZGJmYjBjNTYyNTllZA==`

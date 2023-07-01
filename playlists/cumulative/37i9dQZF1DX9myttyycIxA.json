@@ -5493,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "everything\u2019s been going so well",
+        "url": "https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173599,
+      "name": "everything\u2019s been going so well",
+      "url": "https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb"
+    },
+    {
+      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/030CZCgobrplhu5ddAGiMO"
       },
@@ -6998,6 +7016,28 @@
       "duration_ms": 192520,
       "name": "Graves",
       "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
+    },
+    {
+      "album": {
+        "name": "Great Big Warm House",
+        "url": "https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142651,
+      "name": "Great Big Warm House",
+      "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
     },
     {
       "album": {
@@ -8646,6 +8686,24 @@
       "duration_ms": 299000,
       "name": "I'll be your star",
       "url": "https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc"
+    },
+    {
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "album": {
@@ -11503,6 +11561,24 @@
     },
     {
       "album": {
+        "name": "Pool Kids // POOL",
+        "url": "https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX"
+      },
+      "artists": [
+        {
+          "name": "Pool Kids",
+          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "No Stranger",
+      "url": "https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj"
+    },
+    {
+      "album": {
         "name": "No Way",
         "url": "https://open.spotify.com/album/1pIWJMmWJUwCrpK23LkN2v"
       },
@@ -13397,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi"
+      },
+      "artists": [
+        {
+          "name": "marinelli",
+          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162176,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb"
+    },
+    {
+      "album": {
         "name": "Satan / Jacob Rose",
         "url": "https://open.spotify.com/album/5pryPQr48Emi38L8bGqsN6"
       },
@@ -14062,6 +14156,24 @@
       "duration_ms": 185813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a"
+    },
+    {
+      "album": {
+        "name": "Slugs",
+        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Slugs",
+      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
     },
     {
       "album": {
@@ -17560,7 +17672,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 122812,
       "name": "Where I Met U",
       "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"

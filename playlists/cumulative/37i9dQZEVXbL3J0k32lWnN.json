@@ -16560,7 +16560,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 113192,
       "name": "Puto Criminel (feat. ZUUZ)",
       "url": "https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu"
@@ -16814,6 +16814,36 @@
       "duration_ms": 167039,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/5jcsj5jqLoZoi8XKxe23Vh"
+    },
+    {
+      "album": {
+        "name": "Red Flags REMIX (feat. Alex Skrindo & Langhoff)",
+        "url": "https://open.spotify.com/album/2GhMngJbhYKaLvQYLtyAWi"
+      },
+      "artists": [
+        {
+          "name": "Balken",
+          "url": "https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF"
+        },
+        {
+          "name": "Englando",
+          "url": "https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA"
+        },
+        {
+          "name": "Alex Skrindo",
+          "url": "https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P"
+        },
+        {
+          "name": "Langhoff",
+          "url": "https://open.spotify.com/artist/4DwnFzvrHtEbmaD4dUTiKO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Red Flags (feat. Alex Skrindo & Langhoff) - REMIX",
+      "url": "https://open.spotify.com/track/0TcldAcP3ky3mx0dDiDsHL"
     },
     {
       "album": {

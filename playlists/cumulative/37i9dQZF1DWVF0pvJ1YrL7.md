@@ -4,7 +4,7 @@
 
 > Chaos in electronic form.
 
-187 songs - 12 hr 47 min
+188 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Marking Time](https://open.spotify.com/track/34ywBstvC6knYlFm5VbaaO) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Marking Time](https://open.spotify.com/album/4WzQyr5KR9JkD2ilK0hw1W) | 4:30 | 2021-10-06 | 2022-07-29 |
 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 | 2021-10-06 |  |
 | [Metropole](https://open.spotify.com/track/3ivRqCBGBzhe2QVt0ak5rR) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Metropole](https://open.spotify.com/album/5p9avziYMANqMyBM1jprUt) | 3:40 | 2021-10-06 | 2022-07-29 |
-| [Metropole](https://open.spotify.com/track/7dIq9c2T3JHZUZkUPaAfad) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/3Cbt36aq6cwrNCggqrRdw4) | 3:40 | 2021-10-06 |  |
+| [Metropole](https://open.spotify.com/track/4CuUaiTclsHkpsYTfS7g0J) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/5wQIX8UTy8aPbxUnen3324) | 3:40 | 2021-10-06 |  |
+| [Metropole](https://open.spotify.com/track/7dIq9c2T3JHZUZkUPaAfad) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/3Cbt36aq6cwrNCggqrRdw4) | 3:40 | 2021-10-06 | 2023-07-01 |
 | [Mist & Static](https://open.spotify.com/track/3fy1TdDdHihdwb6HIEnzZ2) | [Cremation Lily](https://open.spotify.com/artist/0cLSrHAGimBuxfOfgyRvPg), [Knifedoutofexistence](https://open.spotify.com/artist/1vvKPvo2R0GJL0lcSKsB5r) | [Mist & Static](https://open.spotify.com/album/41iiQLatGzY183RzJPkxvZ) | 4:44 | 2022-01-12 | 2023-04-16 |
 | [Mothra \- Edit](https://open.spotify.com/track/6bNA5yC5I0NPJBISlFZKcB) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Mothra / Ecce! Ego!](https://open.spotify.com/album/0ysBBynJhcoJWNaH1BgG9p) | 3:54 | 2021-10-06 | 2023-04-16 |
 | [Musica Nova](https://open.spotify.com/track/2AMlHXUBKSejFjfrh3MCmW) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [Musica Nova](https://open.spotify.com/album/0AsYF1UQ79By5c3wPHQVUX) | 5:13 | 2022-04-23 | 2022-11-13 |

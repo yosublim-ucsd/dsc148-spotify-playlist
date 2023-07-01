@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,420 likes - 74 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,458 likes - 76 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 | 72 | [Looking at the Clock](https://open.spotify.com/track/4ks74MQukyBUsPJphTEo8g) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Sawtooths](https://open.spotify.com/album/6B83958Cy542YGq5cX1lTw) | 3:19 |
 | 73 | [You Are Everything](https://open.spotify.com/track/1QMcZoJxMGvX7dv06wiiXn) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Freedom II](https://open.spotify.com/album/019A0dE0Oox1t0swxjFaoF) | 5:45 |
 | 74 | [One](https://open.spotify.com/track/4zap6P1HLUlnZzK1aArQlI) | [Rayo Z](https://open.spotify.com/artist/6iBDil4w5ORJJb9Rd8qjAS) | [One](https://open.spotify.com/album/6KhZNTWMquw6XbZfDFHFJ4) | 3:25 |
+| 75 | [Rituals](https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Hospital Mixtape: Lens](https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h) | 4:34 |
+| 76 | [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 |
 
-Snapshot ID: `MCw0YjIxM2M0NWUwMGI3MjMxMjk3YzgzYmRiZjc5NjlmYWYwZDBhZTI1`
+Snapshot ID: `MCw5NjI5Yjk0ODVhNjI1MjQ1NzdkN2JjZTU3ODBlZGE5YjVkMWI0MmRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,091 likes - 100 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,123 likes - 100 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Kondelelani](https://open.spotify.com/track/1qsflyGrjihmYDwEaTcdKz) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Kondelelani](https://open.spotify.com/album/0NckaNjRe6HWOLMUnW3GxZ) | 7:08 |
 | 100 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 |
 
-Snapshot ID: `MCw5NmY3OTU3MTBlZjE0ZTZmOGEzNjRjNDhkZDljOTM4OWY4Mjg3MmU0`
+Snapshot ID: `MCw1MjViNTk1Y2NhMGNkNzAxNWFiYzU0NDg1OTRlZTJmYzA0ODAwNTlj`

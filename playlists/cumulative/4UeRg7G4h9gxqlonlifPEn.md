@@ -2,9 +2,9 @@
 
 ### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Pre game Pregame
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Rich The Kid \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Pre game Pregame
 
-251 songs - 11 hr 45 min
+253 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-06-03 |  |
 | [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-31 |  |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-24 |  |
+| [Leave it at That](https://open.spotify.com/track/2px7QflhWF3UMeMXmtHO6e) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [Leave it at That](https://open.spotify.com/album/5qZE3FDaYGUsjhc9CYzXdl) | 2:36 | 2023-06-30 |  |
 | [Like a Genie](https://open.spotify.com/track/5M0511QXES7KtFcRhOz8bo) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [Like a Genie](https://open.spotify.com/album/6CPyP019sUyscChGc4HUed) | 2:33 | 2023-03-31 |  |
 | [Line 'Em Up \(feat\. Rob49\)](https://open.spotify.com/track/3DkIGKjZBE1tTXEczu59Vd) | [Huncho Bookie](https://open.spotify.com/artist/7tF1gR3pKTFaPUnHlXTwPq), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Line 'Em Up \(feat\. Rob49\)](https://open.spotify.com/album/4XA1kWhx65XYsQvRHIEWQ0) | 2:56 | 2023-01-27 |  |
 | [Lion Eyes](https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lion Eyes](https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3) | 1:52 | 2022-06-03 | 2022-08-13 |
@@ -166,6 +167,7 @@
 | [My Kind](https://open.spotify.com/track/1plHk1KHGjLoCjsH1UcsSL) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [My Kind](https://open.spotify.com/album/6l2LiKX9Y51YF9LsMxCaQ2) | 3:04 | 2023-03-03 | 2023-04-15 |
 | [My Real Dawgs \(feat\. Young Nudy\)](https://open.spotify.com/track/3TTjOi9gq94Vds4yXXkK33) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 3:13 | 2023-01-13 |  |
 | [Naked](https://open.spotify.com/track/4kI0jttAHHNohO8dRo4BNW) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M) | [Cousin Feeter](https://open.spotify.com/album/6jNHDprQUP9wxZD6SekkjJ) | 1:43 | 2022-06-03 | 2022-09-17 |
+| [Never Change](https://open.spotify.com/track/5XZGMdASCxJ4cdTgZjjWyi) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Never Change](https://open.spotify.com/album/1CUukHbbqPexgO3GrYMkLK) | 2:39 | 2023-06-30 |  |
 | [New Opp](https://open.spotify.com/track/2TeC1gKpfWDJYwFf6udy6k) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [New Opp Pack](https://open.spotify.com/album/4P0Nu4LQpdaxYeLeBRDR5Q) | 1:34 | 2023-05-31 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-06-03 | 2023-02-18 |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 |  |

@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed De Simple",
+        "url": "https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189133,
+      "name": "As\u00ed De Simple",
+      "url": "https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo"
+    },
+    {
+      "album": {
         "name": "Aunque Eso Est\u00e1 Mal",
         "url": "https://open.spotify.com/album/34akGcSedAxvJ5b9vFqkWN"
       },
@@ -1491,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "En Alguna Estrella",
+        "url": "https://open.spotify.com/album/4DTBKMVeLTfjfTZyBs7ZQO"
+      },
+      "artists": [
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "En Alguna Estrella",
+      "url": "https://open.spotify.com/track/0Bd3PDeGhd4wQK3oOxwq8z"
+    },
+    {
+      "album": {
         "name": "Lo Que Muere No Acaba",
         "url": "https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo"
       },
@@ -2024,7 +2064,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 186173,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4GFTSjFirhXwj2TS4E6Baf"
@@ -2672,6 +2712,24 @@
       "duration_ms": 101466,
       "name": "Malib\u00fa",
       "url": "https://open.spotify.com/track/2qOasu3wsh6kR5QW2YCXC4"
+    },
+    {
+      "album": {
+        "name": "Malos H\u00e1bitos",
+        "url": "https://open.spotify.com/album/4IRGxkMVptICkmno3FAb15"
+      },
+      "artists": [
+        {
+          "name": "br\u00a1!ou",
+          "url": "https://open.spotify.com/artist/1aeULpq2BfiDZV5eb97Swz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294193,
+      "name": "Malos H\u00e1bitos",
+      "url": "https://open.spotify.com/track/6fdkiOyxROSsavYjeTeMP6"
     },
     {
       "album": {
@@ -3472,7 +3530,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 150698,
       "name": "N\u00e9bula",
       "url": "https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm"
@@ -3498,6 +3556,28 @@
       "duration_ms": 274918,
       "name": "Odiame o Quiereme",
       "url": "https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddate de mi",
+        "url": "https://open.spotify.com/album/02U5XvAvtLyA3YgDMoRwI2"
+      },
+      "artists": [
+        {
+          "name": "Jv01",
+          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
+        },
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Olv\u00eddate de mi",
+      "url": "https://open.spotify.com/track/1FDTx9qFA8I5d7VsQdXNC3"
     },
     {
       "album": {
@@ -3764,7 +3844,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 136973,
       "name": "QCVH",
       "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
@@ -3884,7 +3964,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 248550,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"

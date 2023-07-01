@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 224998,
       "name": "Abantu",
       "url": "https://open.spotify.com/track/5xaAYWgBOeJ538Df8skcTR"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 325501,
       "name": "Imimoya",
       "url": "https://open.spotify.com/track/1UE3WUuHcq0kXeIikXmwjy"
@@ -3423,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Tiko Axi Etleli",
+        "url": "https://open.spotify.com/album/0jm5n6GSL7EhY9zL3Jp05T"
+      },
+      "artists": [
+        {
+          "name": "Oscar Makamu na Majuvani Sisters",
+          "url": "https://open.spotify.com/artist/6GvaI5MYfAq0tqYK1Ckkr0"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373999,
+      "name": "Kula Ku Nghena Mani",
+      "url": "https://open.spotify.com/track/70xrzHgJPZkobd8e64c8GW"
+    },
+    {
+      "album": {
         "name": "Kulakwe",
         "url": "https://open.spotify.com/album/5WQ2GfzPnf3YN6vfI4Bmrv"
       },
@@ -4088,6 +4106,32 @@
       "duration_ms": 217855,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/3NH3qeBksmipl5oPWWgAYt"
+    },
+    {
+      "album": {
+        "name": "Malume (Nta Swi Byela Mani Revisit)",
+        "url": "https://open.spotify.com/album/6lmPvjVFVe9K1Q3NMTNHkz"
+      },
+      "artists": [
+        {
+          "name": "Elvirgo",
+          "url": "https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
+        {
+          "name": "TallexQ",
+          "url": "https://open.spotify.com/artist/7dlrsjt50VftIVkYahlIio"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273640,
+      "name": "Malume (Nta Swi Byela Mani Revisit)",
+      "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
     },
     {
       "album": {
@@ -6210,7 +6254,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 227480,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5Dsuz6UsZyoWM3HOaRgQeC"
@@ -7757,6 +7801,32 @@
     },
     {
       "album": {
+        "name": "Umona (Jealousy)",
+        "url": "https://open.spotify.com/album/3tOwPvtl99yV6h1X1bkpQ0"
+      },
+      "artists": [
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        },
+        {
+          "name": "Troybeatz",
+          "url": "https://open.spotify.com/artist/6YU7KsHPq8xvXtKlZM9lDh"
+        },
+        {
+          "name": "Milo",
+          "url": "https://open.spotify.com/artist/2fDRY0U8oDoxhCnki3GeIa"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118439,
+      "name": "Umona (Jealousy)",
+      "url": "https://open.spotify.com/track/3RfEK3ubKYWa3wxjTRzhxv"
+    },
+    {
+      "album": {
         "name": "Platinumb Heart Open",
         "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
       },
@@ -8014,7 +8084,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 348577,
       "name": "Uyinkanyezi",
       "url": "https://open.spotify.com/track/4iJ75Zg7NeSo0FhXClZf4F"
@@ -8434,6 +8504,28 @@
       "duration_ms": 230000,
       "name": "Where's Your Key",
       "url": "https://open.spotify.com/track/4VQ9rwBCGRjR7OEl0XuPKn"
+    },
+    {
+      "album": {
+        "name": "Igazi, Iinyembezi Nombilo",
+        "url": "https://open.spotify.com/album/0OSKkWOh1BNpYGJJ0V11nl"
+      },
+      "artists": [
+        {
+          "name": "Bravo Le Roux",
+          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210308,
+      "name": "Which One?",
+      "url": "https://open.spotify.com/track/3HUyTrcgJM5NvM5JafLnpw"
     },
     {
       "album": {

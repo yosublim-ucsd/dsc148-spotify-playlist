@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-86 songs - 20 hr 33 min
+87 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Bairan](https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj) | [Shakir Khan](https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX), [Aarya Ambekar](https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm) | [Taurat](https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935) | 5:01 | 2021-12-07 | 2023-06-21 |
 | [Bheempalas\-Ek Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/6oSEq00mzuxI7FpRNc84qc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 12:15 | 2023-01-15 |  |
 | [Bindiya Ka Rang Uda Jaye \- Raga Bhairavi \- Tala Dadra](https://open.spotify.com/track/6sVEyEssNWWbX8eABiNfdN) | [Manjusha Patil](https://open.spotify.com/artist/3LDjhTMmzOTXWXcnteHHcU), [Chaitanya Kunte](https://open.spotify.com/artist/3eWmQr836d0WvH4Fid3oj6), [Prashant Pandav](https://open.spotify.com/artist/2lHCSPBPOfpetcA99KlhYR) | [Bindiya Ka Rang \- Dadra](https://open.spotify.com/album/6qaUTjlKmx2mkOz8drtklF) | 8:07 | 2023-04-16 | 2023-06-03 |
+| [Bolan Lagi Koyaliya](https://open.spotify.com/track/2BeI90bkNLv9ugKrl1YncS) | [Sunanda Sharma](https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW) | [Bolan Lagi Koyaliya](https://open.spotify.com/album/52UJqNwSjLQhiyfO3N51tR) | 12:29 | 2023-06-30 |  |
 | [Brochevarevarurar](https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 5:28 | 2021-12-07 | 2023-05-09 |
 | [Chaiti \- Raat Hum Dekhli Sapanwa](https://open.spotify.com/track/0AJJvNFYrXJIofnpguOOaS) | [Sunanda Sharma](https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 11:16 | 2023-05-08 |  |
 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 | 2021-12-07 |  |
@@ -86,7 +87,7 @@
 | [Talam: Mahalakshmi Tala \- 9 1/2 Beats \- Pancha Nadai Pallavi \(Ragam Tanam Pallavi\)](https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [T.H\. Vinayakram](https://open.spotify.com/artist/6kF3zpdpcHSckhA72oPCGd), [Caroline](https://open.spotify.com/artist/6AzTL1nWrksi2yfFMM6bAn) | [Pancha Nadai Pallavi](https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p) | 31:15 | 2021-12-07 |  |
 | [Thumri \- Raag Khambawati](https://open.spotify.com/track/4Yo0CJZIaezK8eAybLsx8l) | [Sunanda Sharma](https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 14:50 | 2023-05-08 |  |
 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 | 2021-12-07 | 2023-01-10 |
-| [Thunbam Nergayil](https://open.spotify.com/track/10G3lz19WDI0NZgXBniZZo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Bramhananadam](https://open.spotify.com/album/5jExejZsjI5bMUaXLvpgeJ) | 8:05 | 2021-12-07 |  |
+| [Thunbam Nergayil](https://open.spotify.com/track/10G3lz19WDI0NZgXBniZZo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Bramhananadam](https://open.spotify.com/album/5jExejZsjI5bMUaXLvpgeJ) | 8:05 | 2021-12-07 | 2023-07-01 |
 | [Uthata Baaje](https://open.spotify.com/track/7uiEEmbfllma51hGSxAixq) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Uthata Baaje](https://open.spotify.com/album/1MRCml52wp8JIvqYzftE97) | 4:16 | 2023-04-05 |  |
 | [Vatapi Ganapathim \(Raga: Hamsadwani; Tala: Adi\)](https://open.spotify.com/track/312UHYgXzJ6NzA2rFeyYSe) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 7:46 | 2021-12-07 | 2022-12-31 |
 | [Vatapiganapatim](https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1) | 11:19 | 2022-07-26 | 2023-01-16 |

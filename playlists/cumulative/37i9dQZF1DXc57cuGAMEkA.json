@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Akebono (2023)",
+        "url": "https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327253,
+      "name": "Akebono - 2023",
+      "url": "https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9"
+    },
+    {
+      "album": {
         "name": "Algorithms",
         "url": "https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0"
       },
@@ -6170,10 +6188,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 302268,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/3EfkwF8fQvjw9UDewxLJKE"
+    },
+    {
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt"
+      },
+      "artists": [
+        {
+          "name": "XY",
+          "url": "https://open.spotify.com/artist/4oACqll7U4lmHtoEQCYtYb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302268,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh"
     },
     {
       "album": {
@@ -7633,7 +7669,7 @@
     },
     {
       "album": {
-        "name": "DO IT AGAIN (Official FIFA Women\u2019s World Cup \u201923 Song\u2122)",
+        "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
         "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
       },
       "artists": [
@@ -7654,7 +7690,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176730,
-      "name": "DO IT AGAIN - Official FIFA Women\u2019s World Cup \u201923 Song\u2122",
+      "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
@@ -8970,6 +9006,28 @@
       "duration_ms": 183493,
       "name": "End Of Time",
       "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
+    },
+    {
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
     },
     {
       "album": {
@@ -13840,6 +13898,28 @@
     {
       "album": {
         "name": "MILLION",
+        "url": "https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm"
+      },
+      "artists": [
+        {
+          "name": "MUKADE",
+          "url": "https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR"
+        },
+        {
+          "name": "INMAN",
+          "url": "https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228111,
+      "name": "HIT MAKER !!!",
+      "url": "https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn"
+    },
+    {
+      "album": {
+        "name": "MILLION",
         "url": "https://open.spotify.com/album/7nNza5uCqkiD6UEeNiG8Sc"
       },
       "artists": [
@@ -13854,7 +13934,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 228111,
       "name": "HIT MAKER !!!",
       "url": "https://open.spotify.com/track/6GC01nQI3Vx3SDH9b0fY6Z"
@@ -15904,10 +15984,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 133333,
       "name": "IKIKI",
       "url": "https://open.spotify.com/track/0ygUfmfHKGEEbcK0egpBWH"
+    },
+    {
+      "album": {
+        "name": "IKIKI",
+        "url": "https://open.spotify.com/album/63icXKhTzSxnSYynAs3Kcx"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "IKIKI",
+      "url": "https://open.spotify.com/track/1kCXn5Yfln9ucSi4GqXY2x"
     },
     {
       "album": {
@@ -16876,6 +16974,24 @@
       "duration_ms": 184133,
       "name": "Justify",
       "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1CswX57JvZ6e8mZkfNTWFj"
+      },
+      "artists": [
+        {
+          "name": "Jua",
+          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kaketeru Love",
+      "url": "https://open.spotify.com/track/562Hikc0E1JpyrW9W4yLa3"
     },
     {
       "album": {
@@ -19197,6 +19313,24 @@
     },
     {
       "album": {
+        "name": "THE 8",
+        "url": "https://open.spotify.com/album/6a6mgnVqOGFdQ815gvM0oD"
+      },
+      "artists": [
+        {
+          "name": "MaisonDe",
+          "url": "https://open.spotify.com/artist/3iJc8ZDkeB2gV3gNSugy5P"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253118,
+      "name": "MaisonDe 2023 Cypher",
+      "url": "https://open.spotify.com/track/2iQVS9wKZL6Mc9VstqVifj"
+    },
+    {
+      "album": {
         "name": "MaisonDe 2023 Cypher",
         "url": "https://open.spotify.com/album/5KZ0nl1oPByCjcSe3HUypi"
       },
@@ -19208,7 +19342,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 253118,
       "name": "MaisonDe 2023 Cypher",
       "url": "https://open.spotify.com/track/7AaapukQPdC2CPul2H6J0i"
@@ -23414,6 +23548,24 @@
       "duration_ms": 174000,
       "name": "Outlook Feat. \u3055\u306a\u308a",
       "url": "https://open.spotify.com/track/1RRG80wMzC3B4NpsCD6EEk"
+    },
+    {
+      "album": {
+        "name": "outside of the house",
+        "url": "https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322886,
+      "name": "outside of the house",
+      "url": "https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2"
     },
     {
       "album": {
@@ -30761,6 +30913,28 @@
     },
     {
       "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187244,
+      "name": "The End (feat. BABYMETAL)",
+      "url": "https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe"
+    },
+    {
+      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -31974,10 +32148,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 260377,
       "name": "TOKYO DIESEL",
       "url": "https://open.spotify.com/track/3SoeUzqHOCqaWEi6ExcmnH"
+    },
+    {
+      "album": {
+        "name": "TOKYO DIESEL",
+        "url": "https://open.spotify.com/album/4t7hoTAbyEllEHeM7r2EJU"
+      },
+      "artists": [
+        {
+          "name": "GOMA",
+          "url": "https://open.spotify.com/artist/7zlicwAuT5pKn5ujNcyuuJ"
+        },
+        {
+          "name": "NORIKIYO",
+          "url": "https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL"
+        },
+        {
+          "name": "D.O",
+          "url": "https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260377,
+      "name": "TOKYO DIESEL",
+      "url": "https://open.spotify.com/track/6DmQLBMcBjERQNwvO5WXwn"
     },
     {
       "album": {
@@ -33330,6 +33530,24 @@
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "album": {
@@ -36000,10 +36218,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179076,
       "name": "You",
       "url": "https://open.spotify.com/track/2bCmcmtAnxZwKn5lG9YzWL"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2n2vp8VJki9RYhc0xVL5Ti"
+      },
+      "artists": [
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        },
+        {
+          "name": "Kouichi Arakawa",
+          "url": "https://open.spotify.com/artist/0jjsQnz7M1lFD3vFEWlwSw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6kEECECz1Gy0AYiLPOKm2G"
     },
     {
       "album": {
@@ -36483,6 +36723,24 @@
     },
     {
       "album": {
+        "name": "Yusha no Hata",
+        "url": "https://open.spotify.com/album/1fmuY1D0CJmLgw7ZSAh3AN"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kudo",
+          "url": "https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293986,
+      "name": "Yusha no Hata",
+      "url": "https://open.spotify.com/track/50hLVIQTgneTfdgoZNE9tK"
+    },
+    {
+      "album": {
         "name": "Life On The Edge Of You",
         "url": "https://open.spotify.com/album/74lo7hkHgNXQzebr3T1KvM"
       },
@@ -36592,7 +36850,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 327253,
       "name": "\u3042\u3051\u307c\u306e - 2023",
       "url": "https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr"
@@ -37990,7 +38248,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 293986,
       "name": "\u52c7\u8005\u306e\u65d7",
       "url": "https://open.spotify.com/track/5vYSPdND4HcviaZtgBLlHa"
@@ -38424,7 +38682,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 156000,
       "name": "\u6b20\u3051\u3066\u308bLove",
       "url": "https://open.spotify.com/track/2E3QnMVzIocFhJVMElK32Q"

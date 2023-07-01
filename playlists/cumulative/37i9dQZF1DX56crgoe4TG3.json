@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Come to Jesus",
+        "url": "https://open.spotify.com/album/7DplEfND4glcIW4679OkXU"
+      },
+      "artists": [
+        {
+          "name": "Danny Burns",
+          "url": "https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Come to Jesus",
+      "url": "https://open.spotify.com/track/3DNui82TrXtZMoXKuzdyuw"
+    },
+    {
+      "album": {
         "name": "Cotton Eyed Joe (feat. Carl Miner & Jamie Dick)",
         "url": "https://open.spotify.com/album/0trHLApfMaHMLxqw5771wT"
       },
@@ -1202,6 +1224,24 @@
       "duration_ms": 266960,
       "name": "For The Turnstiles",
       "url": "https://open.spotify.com/track/0ShbiDJGWaMyTimkimVohJ"
+    },
+    {
+      "album": {
+        "name": "Verry Garcia",
+        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302720,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
     },
     {
       "album": {

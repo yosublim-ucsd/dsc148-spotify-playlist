@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 100219,
       "name": "BEEN A MINUTE",
       "url": "https://open.spotify.com/track/1gW2jn81vi8PNrkOvhrV5f"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 138240,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n"
@@ -1994,6 +1994,28 @@
       "duration_ms": 158267,
       "name": "CITGO",
       "url": "https://open.spotify.com/track/5BuR2U9HrzaKkdSji56MFs"
+    },
+    {
+      "album": {
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
     },
     {
       "album": {
@@ -2224,6 +2246,32 @@
       "duration_ms": 144031,
       "name": "Cyber!",
       "url": "https://open.spotify.com/track/5TARkDTMoWBtyB5hJjx0j2"
+    },
+    {
+      "album": {
+        "name": "D.O.A",
+        "url": "https://open.spotify.com/album/2swBtiVdXKsTFcm2hWkN4D"
+      },
+      "artists": [
+        {
+          "name": "Warlord Colossus",
+          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
+        },
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        },
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124354,
+      "name": "D.O.A",
+      "url": "https://open.spotify.com/track/1emIl2ARLo3I2CXbh3EKz1"
     },
     {
       "album": {
@@ -3461,6 +3509,32 @@
     },
     {
       "album": {
+        "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+        "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157407,
+      "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+      "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
+    },
+    {
+      "album": {
         "name": "GHOST OF YOU",
         "url": "https://open.spotify.com/album/2BbYQhtFj6ZNmr7j8N0wBo"
       },
@@ -3538,7 +3612,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 136579,
       "name": "GILGAMESH",
       "url": "https://open.spotify.com/track/1COJYeChm37jTZWFAGfdcB"
@@ -3842,7 +3916,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 152250,
       "name": "GYOZA",
       "url": "https://open.spotify.com/track/6kXhGr5BFBPBcfdIE9rK1X"
@@ -4133,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "HOLD THE MONEY",
+        "url": "https://open.spotify.com/album/6tuhCrlbC6l80USBMAWhJO"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121966,
+      "name": "HOLD THE MONEY",
+      "url": "https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V"
+    },
+    {
+      "album": {
         "name": "HORRID",
         "url": "https://open.spotify.com/album/4MiHu92qJP8J5qkIYOyeCV"
       },
@@ -4250,10 +4342,32 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 155318,
       "name": "I Don't Fuck With Conversation",
       "url": "https://open.spotify.com/track/7aseZZASeyvzpV7ZY66W34"
+    },
+    {
+      "album": {
+        "name": "I Don't Fuck With Conversation",
+        "url": "https://open.spotify.com/album/2PLb5Xe7GYKFz9P3HnlHi6"
+      },
+      "artists": [
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155318,
+      "name": "I Don't Fuck With Conversation",
+      "url": "https://open.spotify.com/track/7lhOAIOOXqlAs3fwHhBtip"
     },
     {
       "album": {
@@ -4330,7 +4444,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 97560,
       "name": "I ONLY KNOW A FEW GOOD PEOPLE",
       "url": "https://open.spotify.com/track/4krgdfGN8fbJ0ERcUB8Czo"
@@ -4414,7 +4528,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 99866,
       "name": "I WON'T SAVE YOU",
       "url": "https://open.spotify.com/track/4Pg3azdQ1PdO2kPac2X6ks"
@@ -4646,7 +4760,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 81916,
       "name": "ISSUES!",
       "url": "https://open.spotify.com/track/1zoIBn6gwd73czAmmEQAsu"
@@ -5476,7 +5590,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 138196,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/2GduunsrcLCIwPsdXe86gP"
@@ -6054,7 +6168,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 94610,
       "name": "MOTHER OF ALL BOMBS",
       "url": "https://open.spotify.com/track/7GNJgPso8Kq6tG5teg30Lb"
@@ -6298,7 +6412,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 158848,
       "name": "NIGHT JACKALS",
       "url": "https://open.spotify.com/track/6aW0Z8j64oNQ3a5BdfoK7G"
@@ -6486,7 +6600,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 156476,
       "name": "OCTOPUS.LADY",
       "url": "https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8"
@@ -7807,6 +7921,28 @@
     },
     {
       "album": {
+        "name": "Soul Stealer",
+        "url": "https://open.spotify.com/album/6mmUNiogdOoskBRvMRIzi8"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Soul Stealer",
+      "url": "https://open.spotify.com/track/7cTsg8KzAYHPU5lRRvUlYG"
+    },
+    {
+      "album": {
         "name": "SPIDERBLOOD",
         "url": "https://open.spotify.com/album/4dmFTJ8TSyXxj7EyHf4Uee"
       },
@@ -8708,7 +8844,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 140502,
       "name": "V FOR VENDETTA",
       "url": "https://open.spotify.com/track/03TaF65kbqHY3sKRBUHQUm"
@@ -9162,7 +9298,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 67262,
       "name": "WICKED!",
       "url": "https://open.spotify.com/track/3zGXKyFESzcbenBMfOieOQ"

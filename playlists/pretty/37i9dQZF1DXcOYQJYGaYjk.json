@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 224071,
+  "num_followers": 224069,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzNiMTljNWJmNzRmNzU2MDFkNTJlYzRiODFkNWNjYmY1ZTQzZmVl",
+  "snapshot_id": "MCxlMzExZjFhNjIzYzZlNzkwYjFlYTkyZWMzNmMyM2I5ODM2YjNiZDlj",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
+        "name": "The Death of Me",
+        "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 247924,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 165891,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
-        "name": "The Death of Me",
-        "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 247924,
-      "name": "Masochist",
-      "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Body Bag",
-        "url": "https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN"
+        "name": "The Hollow",
+        "url": "https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 196979,
-      "name": "Body Bag",
-      "url": "https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S"
+      "duration_ms": 242066,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT"
     }
   ],
   "unique_name": "Heavy Gamers",

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Warren Hue
 
-447 songs - 1 day 0 hr 14 min
+449 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2023-01-26 | 2023-02-18 |
 | [G Love \(feat\. Nippa\)](https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [G Love \(feat\. Nippa\)](https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6) | 3:07 | 2022-06-09 | 2022-11-18 |
 | [Get It, Got It](https://open.spotify.com/track/7DX5KOLW9Ffp7O0lkIwmTU) | [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc) | [POV](https://open.spotify.com/album/05fkAxw8mh5IUlTbYgKBoq) | 3:07 | 2022-08-18 | 2022-09-09 |
+| [Get Loose](https://open.spotify.com/track/1aVqh51zVTaSSIeedX7cDI) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Get Loose](https://open.spotify.com/album/5PHV78hUbCsNj76Js7wtpe) | 2:27 | 2023-06-29 |  |
 | [Get Well Soon](https://open.spotify.com/track/18Ia5NxKnS3d0Aamr24SX0) | [KIRI](https://open.spotify.com/artist/14Zup84x4k8NXTTgrhqqAw) | [Get Well Soon](https://open.spotify.com/album/5kyZ5rI1l0mxBHpuV953dH) | 3:57 | 2022-10-07 | 2022-10-29 |
 | [ghosts](https://open.spotify.com/track/3sJrI1gdELlrExukUqce4O) | [Highvyn](https://open.spotify.com/artist/1HlyA7Fg1HymDUmG0xaB13) | [ghosts](https://open.spotify.com/album/7EOyM0yDjS2wSdZy1J2KvE) | 2:33 | 2023-06-01 | 2023-06-23 |
 | [GIMME](https://open.spotify.com/track/6NC5uGmxLwJi33P07eyxhk) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [GIMME](https://open.spotify.com/album/3PN3Y4XDUln8pXtRwSf4rq) | 3:22 | 2023-05-04 |  |
@@ -274,6 +275,7 @@
 | [Omw to forget you](https://open.spotify.com/track/5AchKNqa51odCW7GwKMyqV) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE) | [\-The End\-](https://open.spotify.com/album/3DwZz3gY1OI6COj0vbAVCO) | 2:44 | 2023-02-09 | 2023-02-18 |
 | [On Me](https://open.spotify.com/track/4Uy5ad1pgqpEn6kueATOom) | [EMIRI](https://open.spotify.com/artist/4OUaS7JvEZiUh0ZGfBYOef) | [On Me](https://open.spotify.com/album/6Cc4wEZx1uxQmCfw921zqy) | 3:24 | 2022-12-30 | 2023-01-20 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-15 |  |
+| [On Schedule](https://open.spotify.com/track/476FiK0Okp3ckCZAptFfDE) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [On Schedule](https://open.spotify.com/album/1RHMDirB2fnLlrHrraUQaO) | 2:35 | 2023-06-29 |  |
 | [On Sight](https://open.spotify.com/track/7HrGCco4XvgbbOmXOEE55i) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 2:12 | 2022-06-08 | 2022-09-23 |
 | [On These Days](https://open.spotify.com/track/50tg0MhVYLYLlUIRkZMtlr) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [On These Days](https://open.spotify.com/album/24daMuc7N7ATgrxs1ABsdt) | 3:30 | 2022-07-14 | 2022-10-21 |
 | [ONLY ONE](https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [ONLY ONE](https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO) | 3:03 | 2022-09-15 | 2022-09-17 |

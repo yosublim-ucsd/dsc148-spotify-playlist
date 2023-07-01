@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT?si=DYP4R9XuQUO3\-kYzJ77bvg">Moses Akoh</a>
 
-229 songs - 18 hr 23 min
+232 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Faraway](https://open.spotify.com/track/5tiqR6s5xXPAZRXmmJuAKh) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Faraway](https://open.spotify.com/album/2Vsa1OG52P17RJmin9iHW2) | 2:25 | 2023-05-26 | 2023-06-09 |
 | [Faraway \(Sped Up\)](https://open.spotify.com/track/31O2u6Ls4BmE8FmabmooFf) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Faraway \(Sound Pack\)](https://open.spotify.com/album/2TF29pXXxAAHfJrNXv0GCU) | 2:03 | 2023-06-30 |  |
 | [Farawe \- Live at KDB Studios](https://open.spotify.com/track/1ayjh8vDhZ3VgREcv05Rh1) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X) | [Farawe](https://open.spotify.com/album/2MzVwxkf2d4LHH9XbJGC2r) | 3:40 | 2023-05-19 | 2023-06-02 |
+| [Fire Fall](https://open.spotify.com/track/1pUOZEQfBrucbikddcJ00k) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [Fire Fall](https://open.spotify.com/album/4qJ0oAgJeBxTbZQdYjEML1) | 4:02 | 2023-06-30 |  |
 | [Follow \- Remix](https://open.spotify.com/track/3gSkKzZ7eCZn6xOjUBbGTx) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Follow \(Remix\)](https://open.spotify.com/album/2czsZtZaUyPXnLTwCmW9Y3) | 2:41 | 2023-06-02 | 2023-06-09 |
 | [For my good](https://open.spotify.com/track/5Rm7NeUXtHYJrfwNmHKg0s) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:59 | 2023-06-02 | 2023-06-16 |
 | [For my mind](https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [For my mind](https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm) | 2:33 | 2023-05-19 | 2023-06-02 |
@@ -139,6 +140,7 @@
 | [Loves](https://open.spotify.com/track/1y6KJhZ5LFKXcW9RcLILJL) | [Blessed Joseph](https://open.spotify.com/artist/1LIwdzPM43phmVUQpGMkAl) | [Loves](https://open.spotify.com/album/5OBBMikmXdesLnJvxN2SAk) | 3:54 | 2023-06-09 | 2023-06-30 |
 | [Mandisithele](https://open.spotify.com/track/2M4FfMNUar2NUEWFjKEhka) | [Lusanda Spiritual Group](https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz), [Betusile Mcinga](https://open.spotify.com/artist/75BZvMQ0SQYzoMAqxG3gcb) | [Ndiyabulela](https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit) | 4:34 | 2023-06-30 |  |
 | [Maombi Ina Lipaka](https://open.spotify.com/track/5nHaTH2TvdZJWjGzu92Bbq) | [Pst Jeremie Safari](https://open.spotify.com/artist/1uCN4qjVUjBFof4Fl6eoE1) | [Maombi Ina Lipaka](https://open.spotify.com/album/46RuxyBgpDRNwzb7HqgcS2) | 4:16 | 2023-06-23 | 2023-06-30 |
+| [Maranatha \( Lord Jesus Come\)](https://open.spotify.com/track/7AYTZmdNltt2YlELlXy4PO) | [Philip Adzale](https://open.spotify.com/artist/1BOhh63lCnqKTuAJI0zezl) | [Maranatha \( Lord Jesus Come\)](https://open.spotify.com/album/6yXzdPU0hJRuUQ9hpRVy7h) | 5:30 | 2023-06-30 |  |
 | [Marvellous Jesus](https://open.spotify.com/track/62Ea1TSOe6uDpileRx2rYl) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Marvellous Jesus](https://open.spotify.com/album/75B6IO1BrQbCTGU6kZZ8M3) | 2:49 | 2023-06-02 | 2023-06-16 |
 | [MELO](https://open.spotify.com/track/0ONL0RRpvKrLSg9MqXqPVP) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [MELO](https://open.spotify.com/album/6A4FArelWWTLnTsRJsqTjZ) | 2:43 | 2023-06-30 |  |
 | [Mercy](https://open.spotify.com/track/3KZyuwMDozHhJOb6PFOZgz) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Mercy](https://open.spotify.com/album/7h0FklDaZw0chKGik2hbgT) | 2:40 | 2023-06-09 | 2023-06-16 |
@@ -172,6 +174,7 @@
 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 | 2023-06-30 |
 | [One Man](https://open.spotify.com/track/5wkMqysuvJc5XKaMW2nAGx) | [Rayday Music](https://open.spotify.com/artist/2FQlATPKYegiO8ymEVuOl9) | [One Man](https://open.spotify.com/album/5VuQssebynhavqj4dNefr5) | 3:00 | 2023-06-30 |  |
 | [One Touch](https://open.spotify.com/track/1SLryXRbuk9wORWjz5Ld1M) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [One Touch](https://open.spotify.com/album/2CbnjHnWy6fZAZx3eyMtzU) | 2:19 | 2023-06-16 | 2023-06-30 |
+| [Open up \(Make Room\)](https://open.spotify.com/track/6EX3wYHpk2patE6fpxPKsI) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [Open up \(Make Room\)](https://open.spotify.com/album/61UrYZ0mhPbBbAnITnq9l6) | 4:22 | 2023-06-30 |  |
 | [OPEN UP YOUR BIBLE](https://open.spotify.com/track/3gWma2IFJpjBc2oqpImOIO) | [H4ZE](https://open.spotify.com/artist/7KTj22FQCwGE0ZtVhRmRsK) | [OPEN UP YOUR BIBLE](https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY) | 2:22 | 2023-05-26 | 2023-06-09 |
 | [Otuekong](https://open.spotify.com/track/4lzQbfxgryATPaKUKxK7c5) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW) | [Otuekong](https://open.spotify.com/album/5WC7MQ7twruvfZeLn0EoHg) | 5:42 | 2023-06-23 | 2023-06-30 |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-05-26 | 2023-06-09 |

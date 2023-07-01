@@ -1,13 +1,45 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 44390,
+  "num_followers": 44659,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzZlYmY3NzFjYmVjMjIyM2YzMDEwOTI1MDViZjAyMTNmYzNiMTU1",
+  "snapshot_id": "MCw5MTdlNzAwOTFkYTcyZjI0YjkxOTYwMzkzMGU2NzIxYTU2N2IzNzRj",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "You don't even know who I am",
+        "url": "https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 244022,
+      "name": "You don't even know who I am",
+      "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"
+    },
     {
       "added_at": "2023-06-13 18:34:22",
       "album": {
@@ -41,6 +73,38 @@
       "url": "https://open.spotify.com/track/1fckVDRsaql38b9GfMjZ6x"
     },
     {
+      "added_at": "2023-06-13 18:31:55",
+      "album": {
+        "name": "old songs",
+        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
+      },
+      "artists": [
+        {
+          "name": "mage tears",
+          "url": "https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc"
+        }
+      ],
+      "duration_ms": 63934,
+      "name": "i'm going to fail my class",
+      "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "fairies in our house",
+        "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
+      },
+      "artists": [
+        {
+          "name": "fairies in our house",
+          "url": "https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM"
+        }
+      ],
+      "duration_ms": 80966,
+      "name": "punch",
+      "url": "https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi"
+    },
+    {
       "added_at": "2023-06-23 16:49:39",
       "album": {
         "name": "From the bathroom floor",
@@ -57,36 +121,24 @@
       "url": "https://open.spotify.com/track/38PleSiXelEox4nUyO5apt"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+        "name": "canine teeth",
+        "url": "https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9"
       },
       "artists": [
         {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp"
-    },
-    {
-      "added_at": "2023-06-13 18:31:55",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
-      },
-      "artists": [
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
         {
-          "name": "Birth Day",
-          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/490lRD7SCOhDbPcmcgQF9s"
+      "duration_ms": 80000,
+      "name": "canine teeth",
+      "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -121,6 +173,38 @@
       "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
     },
     {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "duration_ms": 141698,
+      "name": "Suicide Cleanup",
+      "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Everything So Far",
@@ -135,6 +219,22 @@
       "duration_ms": 191796,
       "name": "Need 2",
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/70Z8jgEF6OctG5nojkCpVF"
+      },
+      "artists": [
+        {
+          "name": "sundots",
+          "url": "https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5"
+        }
+      ],
+      "duration_ms": 232007,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/3FvATEo4dW73WFpm61cp5z"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -155,22 +255,6 @@
     {
       "added_at": "2023-06-13 18:31:55",
       "album": {
-        "name": "old songs",
-        "url": "https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn"
-      },
-      "artists": [
-        {
-          "name": "mage tears",
-          "url": "https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc"
-        }
-      ],
-      "duration_ms": 63934,
-      "name": "i'm going to fail my class",
-      "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
-    },
-    {
-      "added_at": "2023-06-13 18:31:55",
-      "album": {
         "name": "Guard Dog",
         "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
@@ -185,20 +269,20 @@
       "url": "https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP"
     },
     {
-      "added_at": "2023-05-19 12:25:14",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+        "name": "Reject",
+        "url": "https://open.spotify.com/album/7IllZzTGFyEisKATxVvE4Z"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Take Care",
+          "url": "https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s"
         }
       ],
-      "duration_ms": 149324,
-      "name": "Don't Forget About Me",
-      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
+      "duration_ms": 124687,
+      "name": "This Feeling Will Pass",
+      "url": "https://open.spotify.com/track/6pLGnO6JyJdtp4WlX5ixkI"
     },
     {
       "added_at": "2023-06-13 18:31:55",
@@ -215,6 +299,22 @@
       "duration_ms": 93482,
       "name": "out",
       "url": "https://open.spotify.com/track/7fZkcPKxlkGkxyc1tbOt0g"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Flimsier",
+        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
     },
     {
       "added_at": "2023-05-19 12:25:14",
@@ -247,6 +347,22 @@
       "duration_ms": 142615,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0cH8U1daDLdpioFHXzbK3S"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -329,6 +445,22 @@
       "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lexapro",
+        "url": "https://open.spotify.com/album/6grs6YBSacgL6dZ53hg8bE"
+      },
+      "artists": [
+        {
+          "name": "Computerwife",
+          "url": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ"
+        }
+      ],
+      "duration_ms": 206919,
+      "name": "Lexapro",
+      "url": "https://open.spotify.com/track/3VS6b1tjl9b5rZ5rdHykfl"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Elizabethtown.",
@@ -359,38 +491,6 @@
       "duration_ms": 130742,
       "name": "How To Never Stop Being Sad",
       "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 265183,
-      "name": "Adderall (End of the Line)",
-      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
-    },
-    {
-      "added_at": "2023-05-16 18:43:35",
-      "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -489,6 +589,26 @@
       "url": "https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Great Big Warm House",
+        "url": "https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "duration_ms": 142651,
+      "name": "Great Big Warm House",
+      "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "PANDAMONIUM!",
@@ -583,6 +703,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "When Everything Was Lost",
+        "url": "https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 240058,
+      "name": "When Everything Was Lost",
+      "url": "https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -763,22 +899,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "comeonback",
-        "url": "https://open.spotify.com/album/5eecDPoRArTxgGgKBQ7MuV"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 171681,
-      "name": "comeonback",
-      "url": "https://open.spotify.com/track/1rOSQ490O5zO3LzlgWHemr"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -951,22 +1071,6 @@
       "duration_ms": 178271,
       "name": "Hey Bunny",
       "url": "https://open.spotify.com/track/6dkPmbwmIHvDXVG67ADlOj"
-    },
-    {
-      "added_at": "2023-04-14 17:25:10",
-      "album": {
-        "name": "I'M OK NO I'M NOT",
-        "url": "https://open.spotify.com/album/5UniBmaoxyjTUwBgOS165S"
-      },
-      "artists": [
-        {
-          "name": "Abby Holliday",
-          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
-        }
-      ],
-      "duration_ms": 233601,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ"
     },
     {
       "added_at": "2023-05-16 18:43:35",
@@ -1151,22 +1255,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "New Hell",
         "url": "https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3"
       },
@@ -1211,22 +1299,6 @@
       "duration_ms": 174914,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "fairies in our house",
-        "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
-      },
-      "artists": [
-        {
-          "name": "fairies in our house",
-          "url": "https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM"
-        }
-      ],
-      "duration_ms": 80966,
-      "name": "punch",
-      "url": "https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -1291,22 +1363,6 @@
       "duration_ms": 189424,
       "name": "See Through",
       "url": "https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Lo-Tide",
-        "url": "https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 188661,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -1391,22 +1447,6 @@
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Triptych",
-      "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -1515,22 +1555,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "1st2LeaveDaFunction",
-        "url": "https://open.spotify.com/album/1fSRmThh79T2yumpSXQbRS"
-      },
-      "artists": [
-        {
-          "name": "Marigold",
-          "url": "https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6"
-        }
-      ],
-      "duration_ms": 78648,
-      "name": "1st2LeaveDaFunction",
-      "url": "https://open.spotify.com/track/2zKGU7t1EE5Npxgf3Zo4qm"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "plunge deep golden knife",
         "url": "https://open.spotify.com/album/5IkfsCgOxmviOp3cKXlHiL"
       },
@@ -1563,22 +1587,6 @@
       "duration_ms": 151864,
       "name": "Scaredy's World",
       "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "King of the Basement",
-        "url": "https://open.spotify.com/album/6lxrzoYSxl7Nk7pAQkUe7i"
-      },
-      "artists": [
-        {
-          "name": "Ryan Woods",
-          "url": "https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY"
-        }
-      ],
-      "duration_ms": 361208,
-      "name": "Sorry / happysad",
-      "url": "https://open.spotify.com/track/27DoSJFpTdzs6lN0iurC5C"
     },
     {
       "added_at": "2023-04-11 14:48:39",

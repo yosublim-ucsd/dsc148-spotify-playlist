@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,033 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,035 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 125 | [El mil amores](https://open.spotify.com/track/4NHbX4msV8GH4smQZ9Cvf0) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Adios a Mis Chorreadas](https://open.spotify.com/album/5ne1zw6JDkeGtHVOWD60zm) | 2:20 |
 | 126 | [Kadia Blues](https://open.spotify.com/track/6W9zUJcakKsIBxw4yKfe2b) | [Orchestre de la Paillote](https://open.spotify.com/artist/1VOknf5hdVCEMuH9BoD2bF) | [Syliphone, 40ème anniversaire, Vol\. 2](https://open.spotify.com/album/70vnxeeitOd14Roe0MYFr0) | 4:46 |
 | 127 | [Vuelve A Mi](https://open.spotify.com/track/0dk4fgYe8UxXHuSMh3YWRt) | [Grupo La Rebelion](https://open.spotify.com/artist/6oDajwbQvFly5ExiuvFk7F) | [Pena De Mi Vida](https://open.spotify.com/album/1UyxS32vGRVyIhUY8soOhL) | 2:50 |
-| 128 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
+| 128 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 129 | [Summer Season](https://open.spotify.com/track/52dVbzRZgbTR44a2gcldSJ) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Amusement](https://open.spotify.com/album/22xk6sCvEVKlQbwY3Nv0pQ) | 1:59 |
 | 130 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
 | 131 | [Keep Holding On](https://open.spotify.com/track/5dl6djYHql8kq9Mu0qgOoT) | [Savoir Flair](https://open.spotify.com/artist/5YZ87wAB4nHRVrLnDFh81g) | [Savoir Flair](https://open.spotify.com/album/472oIYY56032dVUz8ngJOu) | 3:46 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw3NmU5Zjk4MmU0ZTVlOGU3YzE1ZWZhZTE1MmRkNmVmMTk2MzNjMGM1`
+Snapshot ID: `MCxhZTg1YWNiNTgxYjE0ODBmMWYxMjNiMDFkNDFjNzVmZWI3MTlmOGYz`

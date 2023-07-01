@@ -2,7 +2,7 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية🤩 الغلاف:  <a href="https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=bXmyTIiMRa63zfReyz9xCg"> احمد سعد </a>
+> أحدث الأغاني المصرية🤩 الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=b9CvGGw7SxqE65mfEWKF0Q"> حسين الجسمي </a>
 
 493 songs - 1 day 4 hr 16 min
 

@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-183 songs - 10 hr 16 min
+184 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Rose Garden](https://open.spotify.com/track/0lqUrUVpr7YTrpWbQk7U0G) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [THE ARTIST](https://open.spotify.com/album/5I4UXnGYkAaDenWYmApziK) | 2:45 | 2022-04-18 | 2022-04-21 |
 | [sad love song](https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [sad love song](https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw) | 3:01 | 2022-04-18 | 2022-10-03 |
 | [Sad Love Song \(feat\. slchld & Rheehab\)](https://open.spotify.com/track/3KQambacz4w7NX27MD0bxb) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 3:02 | 2023-02-28 | 2023-06-02 |
+| [Sad Love Song \(feat\. slchld & Rheehab\)](https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Seoul Vibes Pt.1](https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY) | 3:02 | 2023-06-20 |  |
 | [Scar \(feat\. Seol Ho Seung\)](https://open.spotify.com/track/2RkXFeLsiXAiiyPbqkhEC0) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [Seol Ho Seung](https://open.spotify.com/artist/6wEmGWWY1rih4ecitIVyDi) | [PINE](https://open.spotify.com/album/145mNPg9P6VsOxDeDzRs2c) | 3:36 | 2022-04-18 | 2022-07-16 |
 | [Silence](https://open.spotify.com/track/0CE4igtHymDL5Zc2y8jIWZ) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Five Senses](https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo) | 3:17 | 2022-04-18 | 2022-07-25 |
 | [Sinking Islands](https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2) | [Sinso](https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr) | [Sinking Islands](https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED) | 3:20 | 2022-12-07 | 2022-12-25 |
@@ -179,7 +180,7 @@
 | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj) | 4:00 | 2022-07-25 | 2023-05-08 |
 | [when i was your man \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6XKKfWOUqyx3HpEKvIF6Vy) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:33 | 2022-04-18 | 2022-07-16 |
 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 | 2022-04-18 | 2022-10-07 |
-| [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-04-18 |  |
+| [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-04-18 | 2023-07-01 |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 |  |
 | [Without Me](https://open.spotify.com/track/3MALtwqxvGyWSQCIrtWfRc) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 3:12 | 2022-04-18 | 2022-04-21 |
 | [Woo](https://open.spotify.com/track/13zoZIpAVnikzZgLPlcgnA) | [kanemochi](https://open.spotify.com/artist/2nG0yTmhewa8Ey0EhNTYqW) | [go back to XXXX](https://open.spotify.com/album/0v63SpXUJL8p8bIV9xGOU6) | 2:55 | 2022-04-18 | 2022-04-21 |

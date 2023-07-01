@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-112 songs - 10 hr 40 min
+114 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2022-12-20 |  |
 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Pi Pi \(Turbotito & Ragz Rework Radio Edit\)](https://open.spotify.com/album/7qe7sOPs1nRTgxjrhbvfQq) | 5:41 | 2022-12-20 |  |
 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-06-23 |  |
+| [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 |  |
 | [La disquette](https://open.spotify.com/track/0X8OzXCOAGldwWzl7lcd62) | [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR), [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu) | [La disquette](https://open.spotify.com/album/5ixTN6mFe4jAoiAX7WlNJR) | 5:07 | 2022-12-20 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-12-20 |  |
 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 | 2022-12-20 |  |
@@ -106,8 +107,9 @@
 | [The Light](https://open.spotify.com/track/12K1eNac6xyCYkKtvns2k4) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [The Light EP](https://open.spotify.com/album/5DMJxsJyyQLKKuwfW1FBeH) | 8:25 | 2022-12-20 |  |
 | [The Smooth Gardens](https://open.spotify.com/track/1kc63KSnLgfmMlTvdNq5vy) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/05agmHH1BbMfVv58c6z4FD) | 9:13 | 2022-12-20 | 2023-02-11 |
 | [The Smooth Gardens](https://open.spotify.com/track/3iX80Yl6jpfp1VqzOty3eU) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Abundance](https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB) | [The Smooth Gardens](https://open.spotify.com/album/2KuSDET8iLuZQJllCRQVTA) | 9:13 | 2023-02-10 |  |
+| [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-06-30 |  |
 | [This Must Be Home](https://open.spotify.com/track/0yFXCZj2fun1EMDI59bXCz) | [P Sol](https://open.spotify.com/artist/4oPPwY58aaLWGsreDEtL7P) | [Mixed Bag, Vol\. 2](https://open.spotify.com/album/3HpFST1edhuWgScQZcwqDD) | 7:36 | 2022-12-20 | 2023-06-21 |
-| [Through Your Love \(feat\. Mr.id & Kawtar Sadik\) \- Extended Mix](https://open.spotify.com/track/1QDTajtWBca20z4NQmACKy) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Mr.id](https://open.spotify.com/artist/6OEYeOGJNuHVhukFpLY49F) | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\)](https://open.spotify.com/album/47LbnqAz2CQ7fJ4NtBDvv7) | 7:21 | 2023-03-15 |  |
+| [Through Your Love \(feat\. Mr.id & Kawtar Sadik\) \- Extended Mix](https://open.spotify.com/track/1QDTajtWBca20z4NQmACKy) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Mr.id](https://open.spotify.com/artist/6OEYeOGJNuHVhukFpLY49F) | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\)](https://open.spotify.com/album/47LbnqAz2CQ7fJ4NtBDvv7) | 7:21 | 2023-03-15 | 2023-07-01 |
 | [Time](https://open.spotify.com/track/6J3aUG1y0zSJXOnsLhx41h) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Girlcatcher](https://open.spotify.com/album/66q0q162WOFuidbucN1Jdp) | 15:13 | 2022-12-20 |  |
 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 | 2022-12-20 |  |
 | [Trainmann \- Tensnake Franceman Mix](https://open.spotify.com/track/0HpHGti6doPOUBz66MAduf) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Trainmann \(Tensnake Remixes\)](https://open.spotify.com/album/5AVC3IUtdRi3sYyD3pft2f) | 7:36 | 2022-12-20 |  |

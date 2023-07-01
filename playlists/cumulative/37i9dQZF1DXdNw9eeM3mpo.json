@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197533,
       "name": "Estrella Roja",
       "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
@@ -1828,6 +1828,28 @@
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
+    },
+    {
+      "album": {
+        "name": "Head Over Heels (Esteban Descalzo 70's Remix)",
+        "url": "https://open.spotify.com/album/6XbMLQ1aKFth2jscwLOzky"
+      },
+      "artists": [
+        {
+          "name": "Ska Jazz Messengers",
+          "url": "https://open.spotify.com/artist/3wy5jh3AV798pcbJGDVHkj"
+        },
+        {
+          "name": "Esteban Descalzo",
+          "url": "https://open.spotify.com/artist/5XX1OvMtiKOmPAyj7Amwqx"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251157,
+      "name": "Head Over Heels (Esteban Descalzo 70's Remix)",
+      "url": "https://open.spotify.com/track/6bhYKH6vp4IyhiwBywUWng"
     },
     {
       "album": {
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 304986,
       "name": "Kil\u00f3metros - En Vivo",
       "url": "https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw"
@@ -2070,6 +2092,24 @@
       "duration_ms": 213263,
       "name": "La Banda Borracha",
       "url": "https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai"
+    },
+    {
+      "album": {
+        "name": "LA BESTIA",
+        "url": "https://open.spotify.com/album/4mnYASpvR57lHSg8iJwWeh"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "LA BESTIA",
+      "url": "https://open.spotify.com/track/0ruzjmHbo1rQzSzhTB3E97"
     },
     {
       "album": {

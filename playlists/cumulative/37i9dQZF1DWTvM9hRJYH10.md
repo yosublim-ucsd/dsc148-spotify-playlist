@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Tiera Kennedy
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Dipper
 
-284 songs - 15 hr 3 min
+286 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [One Percent](https://open.spotify.com/track/1AmZPFDDpDdtWRF2k6INmY) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:31 | 2022-08-12 | 2023-01-14 |
 | [One Percent](https://open.spotify.com/track/20PQQX3nfdCWPhGr92PUM3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/7cfezNu3BKU8aTdhz3vP4i) | 3:31 | 2022-08-01 | 2022-08-15 |
 | [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 | 2021-12-31 | 2022-08-10 |
+| [One Thing Figured Out](https://open.spotify.com/track/1GQxXDTwzQ9mGr9JH7PO1o) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [One Thing Figured Out](https://open.spotify.com/album/4gNkJ3etw5sNTT52YhsNek) | 3:37 | 2023-06-30 |  |
 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 | 2022-02-11 |  |
 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 | 2022-02-11 |  |
 | [Over the Weekend](https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Over the Weekend](https://open.spotify.com/album/4LZNKWl3QV2ByeYItaYaec) | 3:30 | 2023-02-03 |  |
@@ -223,6 +224,7 @@
 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 | 2021-12-31 |  |
 | [She Broke My Heart](https://open.spotify.com/track/5lyyBTTdB9tlNKvni9VwvZ) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [She Broke My Heart](https://open.spotify.com/album/2FP7BFxp5nnCf8dkkvTJ2k) | 3:00 | 2021-12-31 | 2022-02-12 |
 | [She's a Fire](https://open.spotify.com/track/6DUl9xe5xmSJsqu1XdyiJs) | [JT Harker](https://open.spotify.com/artist/32uxYRmt38L7lp9VyAn3bJ) | [She's a Fire](https://open.spotify.com/album/7sytcojuGjBcPv8C7AN7md) | 3:14 | 2021-12-31 | 2023-01-14 |
+| [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-06-30 |  |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-31 |  |
 | [Skip This Part](https://open.spotify.com/track/4vBRaWNRt12NOFFLmekoou) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Skip This Part](https://open.spotify.com/album/1fzHdD4hckwMiVn1YD6Q30) | 3:19 | 2023-02-24 |  |
 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2022-09-23 |  |

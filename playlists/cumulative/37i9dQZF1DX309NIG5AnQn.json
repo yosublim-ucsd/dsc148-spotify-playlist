@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Nuevo rock alternativo argentino. \n\ud83d\udcf7 La Piba Berreta",
+  "description": "Nuevo rock alternativo argentino. \n\ud83d\udcf7 Nina Su\u00e1rez",
   "name": "el under",
   "tracks": [
     {
@@ -452,6 +452,24 @@
       "duration_ms": 187500,
       "name": "Chica Gotika",
       "url": "https://open.spotify.com/track/68y3JRBvaHyXLt826P5mx7"
+    },
+    {
+      "album": {
+        "name": "Algo Para Decirte",
+        "url": "https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255593,
+      "name": "Chinos Ojos Rojos",
+      "url": "https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy"
     },
     {
       "album": {
@@ -948,6 +966,24 @@
       "duration_ms": 305899,
       "name": "El Canto De Las Ranas",
       "url": "https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6"
+    },
+    {
+      "album": {
+        "name": "El Deseo",
+        "url": "https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W"
+      },
+      "artists": [
+        {
+          "name": "Revistas",
+          "url": "https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164656,
+      "name": "El Deseo",
+      "url": "https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8"
     },
     {
       "album": {
@@ -2311,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Regalos",
+        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
+      },
+      "artists": [
+        {
+          "name": "Cometas",
+          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Regalos",
+      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
+    },
+    {
+      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
@@ -2348,6 +2402,24 @@
       "duration_ms": 316583,
       "name": "Santa Fe (feat. Marilina Bertoldi)",
       "url": "https://open.spotify.com/track/2Lpu0GIzpbiLj4W8ccW3i5"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/6U9FRsubNk9731WzZM2gLc"
+      },
+      "artists": [
+        {
+          "name": "montegrande",
+          "url": "https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Sierra de los Padres",
+      "url": "https://open.spotify.com/track/3AYvtJVj9RCAYsmFnzANKr"
     },
     {
       "album": {
@@ -2442,6 +2514,24 @@
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
+    },
+    {
+      "album": {
+        "name": "Todas las Nubes",
+        "url": "https://open.spotify.com/album/3M372tMWYHEr8m5rsIknB1"
+      },
+      "artists": [
+        {
+          "name": "almanaques",
+          "url": "https://open.spotify.com/artist/5s21kUHcl27S6FKsCEhskk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171149,
+      "name": "Todas las Nubes",
+      "url": "https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W"
     },
     {
       "album": {

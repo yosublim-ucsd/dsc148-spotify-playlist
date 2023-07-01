@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240670,
+  "num_followers": 240656,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDVhYTA4NzEyYjdiZTMzOGMxOWRkMDQ5MGFkYWM5N2QxNTI4ZjZm",
+  "snapshot_id": "MCw4ZjU4ODE4OTllYWJlN2Q4NGEzNTljM2JjMDUzNTUwMmNjYWY1ZmIz",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/0LKgEWhOvPszUBabtNTVGQ"
+      },
+      "artists": [
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "duration_ms": 124596,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/49NJppBKrOhxs5DSBSucSL"
+    },
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
@@ -1787,26 +1803,6 @@
       "duration_ms": 246680,
       "name": "Get it Got it",
       "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Motion (with Yot Club)",
-        "url": "https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        },
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 179695,
-      "name": "Motion (with Yot Club)",
-      "url": "https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U"
     },
     {
       "added_at": "2022-11-18 05:01:00",

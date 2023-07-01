@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Barras Sin Barreras (RR3)",
+        "url": "https://open.spotify.com/album/1blhcFm0HTKJfUXiZylbkY"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225023,
+      "name": "Barras Sin Barreras (RR3)",
+      "url": "https://open.spotify.com/track/1oQcJS0iZT20hbFrYaIbSA"
+    },
+    {
+      "album": {
         "name": "Be Alright (Remix)",
         "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
@@ -2084,6 +2102,28 @@
       "duration_ms": 488927,
       "name": "Danzando",
       "url": "https://open.spotify.com/track/07yd60JLsOIEIkQ13gpmRk"
+    },
+    {
+      "album": {
+        "name": "Danzando (Nadie Como T\u00fa) [Remix]",
+        "url": "https://open.spotify.com/album/2PyAxHzBsJP7olCNzMgXkH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227335,
+      "name": "Danzando (Nadie Como T\u00fa) - Remix",
+      "url": "https://open.spotify.com/track/4TpjViJZl39Yix9MkmZP2m"
     },
     {
       "album": {
@@ -3270,7 +3310,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 239063,
       "name": "Este Es Mi Tiempo",
       "url": "https://open.spotify.com/track/3Sge1EEIo3YeYa3SsgNXrw"
@@ -3650,7 +3690,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197015,
       "name": "Grasa",
       "url": "https://open.spotify.com/track/5I7mtkXK8m8hJgkbZD9a9C"

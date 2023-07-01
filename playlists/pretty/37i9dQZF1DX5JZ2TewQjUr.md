@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Rae Law
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,618 likes - 176 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,624 likes - 176 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 5 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 |
 | 6 | [風蝕崖岸](https://open.spotify.com/track/4LauCeUwpLm6Y2EP7s1HkA) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [Lo/o](https://open.spotify.com/artist/1OIQ6Mkl9nRMoqVjkB2CcO) | [風蝕崖岸](https://open.spotify.com/album/2PirBbywFmNVc6fxF2sc7E) | 3:46 |
 | 7 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 |
-| 8 | [LGBT \(Let’s Get Bread Today\)](https://open.spotify.com/track/4TftpYSPHXM73TxOXPpQc4) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [LGBT \(Let’s Get Bread Today\)](https://open.spotify.com/album/2u8qoaHrbNHrIANz84gb8J) | 3:00 |
+| 8 | [LGBT \(Let's Get Bread Today\)](https://open.spotify.com/track/3RSjsjxM9CDDd8P2qYEDrA) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [LGBT \(Let's Get Bread Today\)](https://open.spotify.com/album/6nirY2lofQ97Kk4lmPNg6G) | 3:00 |
 | 9 | [like this.](https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [like this.](https://open.spotify.com/album/3Ekhh7ssCTsnvLbAibEhXa) | 2:19 |
 | 10 | [人格面具 Alok Leung remix](https://open.spotify.com/track/0zeslRzGiRZUgx7knmlZdt) | [Eli](https://open.spotify.com/artist/3oYkROPQowrbb7bxbGWUVU), [Alok Leung](https://open.spotify.com/artist/63OH6lyisfqqI9loN2iv02) | [人格面具 Alok Leung remix](https://open.spotify.com/album/3BTPMIhjqataYDmhbwguSY) | 3:44 |
 | 11 | [Out!](https://open.spotify.com/track/6jMNZk7djhEVDl0RnHSi45) | [thisisgrant](https://open.spotify.com/artist/1kAFDd4QiDBpkhMB4O0rzZ) | [Out!](https://open.spotify.com/album/0DXk4E7ZE9v88B4MuWlgDZ) | 3:32 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 175 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 176 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxhN2RjZjliYzQ3N2Q5NWE0NzlhMWQwOGExMDIwYmQzZDNiM2E5NTZk`
+Snapshot ID: `MCwzZmEyZTZlNzQ2YmJiZjI2YTBhYzY1Y2EwMTIwZjQ2ZTFiZjRmMTU5`

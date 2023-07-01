@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Adelasia in cover di Rock Italia questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,733 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,761 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Fuori fuoco](https://open.spotify.com/track/05TFgA1DrBbcuL1JbK6zyR) | [Maggiorelli](https://open.spotify.com/artist/1fsJtiERJk1rOmcTR140mw), [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Fuori fuoco](https://open.spotify.com/album/2xThxvv3HnxmMUjfUtaY0S) | 3:17 |
 | 55 | [Frutta Fresca](https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Frutta Fresca](https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc) | 3:26 |
 
-Snapshot ID: `MCw1OWIyZTg2M2VlNDg2NDdmM2YxZDllYjE2ZDk2ODgwYTM4MjU3Mjc0`
+Snapshot ID: `MCw4N2RkYjg3MTI0NGNkZDkzN2I1MjIwMzc3MGQwYmM2ZmY1MDJmNjcx`

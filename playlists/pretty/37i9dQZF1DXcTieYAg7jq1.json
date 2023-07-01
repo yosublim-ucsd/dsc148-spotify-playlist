@@ -1,13 +1,45 @@
 {
-  "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 410446,
+  "description": "Featuring that new vintage. Cover: Jon Batiste",
+  "num_followers": 410538,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE0OTZmYzAxYTk5NTc5NDYzYjU1MDBkZjkwYjdlNjlhZjUxNTkz",
+  "snapshot_id": "MCwyMzk5MTk3OTJmNjM5ZTE4ZmZkMzdhYTZkMGE3NTlmMzE1MzEwNWYw",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Calling Your Name",
+        "url": "https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 116976,
+      "name": "Calling Your Name",
+      "url": "https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Love Don\u2019t Let Me Go",
+        "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
+      },
+      "artists": [
+        {
+          "name": "Angelina Jordan",
+          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
+        }
+      ],
+      "duration_ms": 177793,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+    },
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/2W890mW3ATTdVOVTSNfhsj"
     },
     {
-      "added_at": "2023-05-05 04:01:00",
+      "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Love Don\u2019t Let Me Go",
-        "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6"
       },
       "artists": [
         {
-          "name": "Angelina Jordan",
-          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
         }
       ],
-      "duration_ms": 177793,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+      "duration_ms": 179411,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -545,26 +577,6 @@
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Buddy's Rendezvous",
-        "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 301480,
-      "name": "Buddy's Rendezvous",
-      "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Do Re Mi",
@@ -795,26 +807,6 @@
       "duration_ms": 143386,
       "name": "Baby I'll Wait",
       "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Freewheelin' Woman",
-        "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        },
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "No More Tears",
-      "url": "https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w"
     },
     {
       "added_at": "2022-04-22 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 156112,
+  "num_followers": 156199,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTRjODQ0YjNjZWIxMDAwN2FiMzgyYTUzZWZkMWNiMjQyMTI0YWFh",
+  "snapshot_id": "MCwwMzExNDBjMDU1ZTk5NDRkYzNmNjk5MDU0MjQ2ZTRiYjI2YjFmN2Vl",
   "tracks": [
     {
       "added_at": "2023-05-30 10:21:10",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "El Album",
-        "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
-      },
-      "artists": [
-        {
-          "name": "Massar Egbari",
-          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "Fakra",
-      "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Romeo & Leila",
         "url": "https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 322760,
       "name": "Ya M'safer",
       "url": "https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "El Album",
+        "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
+      },
+      "artists": [
+        {
+          "name": "Massar Egbari",
+          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
+        }
+      ],
+      "duration_ms": 231177,
+      "name": "Fakra",
+      "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "A Sea Between Us",
-        "url": "https://open.spotify.com/album/6noo6zD7yYBk2tF9fzWrce"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 237127,
-      "name": "Fi Al Tariki Ilaik",
-      "url": "https://open.spotify.com/track/55syUs2h389vqBFEVL2kMM"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Promises of the Storm",
         "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 557466,
       "name": "My Mother",
       "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "A Sea Between Us",
+        "url": "https://open.spotify.com/album/6noo6zD7yYBk2tF9fzWrce"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 237127,
+      "name": "Fi Al Tariki Ilaik",
+      "url": "https://open.spotify.com/track/55syUs2h389vqBFEVL2kMM"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Ensanein",
-        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Erjaa Shoufak",
-      "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 224293,
       "name": "Mwashah",
       "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Ensanein",
+        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Erjaa Shoufak",
+      "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1147,18 +1147,26 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Eza",
-        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
+        "name": "R.I.M.I.X",
+        "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
       "artists": [
         {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+        },
+        {
+          "name": "Bruno Cruz",
+          "url": "https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW"
+        },
+        {
+          "name": "Ministry of Dub-Key",
+          "url": "https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT"
         }
       ],
-      "duration_ms": 272471,
-      "name": "Khallini Bel Jaw",
-      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
+      "duration_ms": 206226,
+      "name": "The Sun of Love - Remix",
+      "url": "https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1199,26 +1207,18 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "R.I.M.I.X",
-        "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
+        "name": "Eza",
+        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
       },
       "artists": [
         {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
-        },
-        {
-          "name": "Bruno Cruz",
-          "url": "https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW"
-        },
-        {
-          "name": "Ministry of Dub-Key",
-          "url": "https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT"
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
         }
       ],
-      "duration_ms": 206226,
-      "name": "The Sun of Love - Remix",
-      "url": "https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks"
+      "duration_ms": 272471,
+      "name": "Khallini Bel Jaw",
+      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "\u062f\u0628\u0631\u0647\u0627",
-        "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
-      },
-      "artists": [
-        {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "\u062f\u0628\u0631\u0647\u0627",
-      "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "A Wish",
         "url": "https://open.spotify.com/album/2IxwTQpM2n5tFm2hWaYZeM"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 464533,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/6muj0lvXBLEtDM2yw6H6ys"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "\u062f\u0628\u0631\u0647\u0627",
+        "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "\u062f\u0628\u0631\u0647\u0627",
+      "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
+        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
+        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
+      },
+      "artists": [
+        {
+          "name": "Lina Sleibi",
+          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
+        }
+      ],
+      "duration_ms": 204347,
+      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
+      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
         "name": "Ella Enta (Live Session)",
         "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 248952,
       "name": "Ella Enta (Live Session)",
       "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
-        "name": "Daba",
-        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Fasl",
-      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
-        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
+        "name": "Daba",
+        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
       },
       "artists": [
         {
-          "name": "Lina Sleibi",
-          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
         }
       ],
-      "duration_ms": 204347,
-      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
-      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
+      "duration_ms": 272333,
+      "name": "Fasl",
+      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
     },
     {
       "added_at": "2023-05-30 10:21:10",

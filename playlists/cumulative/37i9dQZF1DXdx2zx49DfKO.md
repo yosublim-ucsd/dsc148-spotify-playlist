@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-61 songs - 2 hr 23 min
+63 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [HELL DRIFT 2](https://open.spotify.com/track/0Ol5GwjRyQg1UrhWHFgPNW) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [HELL DRIFT 2](https://open.spotify.com/album/4m61NvWJFXbQGnpbvkv43j) | 2:51 | 2022-11-30 | 2023-06-14 |
 | [HELL DRIFT 2](https://open.spotify.com/track/2pXz6Lc3KhTifUsO91ykvx) | [trxmbolona](https://open.spotify.com/artist/2xHJwz7ybXbFiG6X8seXi5) | [HELL DRIFT 2](https://open.spotify.com/album/5baNyrf7DzcEvwOJrzPVDM) | 2:51 | 2022-11-30 | 2023-06-22 |
 | [Helldrift 2](https://open.spotify.com/track/2DfJniytXfa3L3N5TqSCYV) | [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Baljeed](https://open.spotify.com/artist/7hGdKzs5dxoCBSTldjK3og) | [Helldrift 2](https://open.spotify.com/album/4l3lvU8NrRG8gtzPUGeliK) | 2:51 | 2022-11-30 | 2023-06-27 |
+| [HELLDRIFT 2](https://open.spotify.com/track/6vy038bQd5LYWXMfPsvnKE) | [enesfx](https://open.spotify.com/artist/6J5m8RAxbj6zC2nvSLbk8B), [Master CC](https://open.spotify.com/artist/0hLvG56rSXh785IbjYpuRQ), [bugiversal](https://open.spotify.com/artist/67SLTXbIJZGEiGcP0TFvjH) | [HELLDRIFT 2](https://open.spotify.com/album/4tzSRYKOdVZ17qN5LokQvD) | 2:51 | 2022-11-30 |  |
 | [HELLDRIFT 2](https://open.spotify.com/track/2fA6syjvdiDZmXk8qyH8uM) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/4f3ZmtNorRUs1mB30FSVOs) | 2:51 | 2022-11-30 | 2023-05-13 |
-| [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-11-30 |  |
+| [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-11-30 | 2023-07-01 |
 | [HELLDRIFT 2](https://open.spotify.com/track/78jwadUWHHsIXYoZtL9kpK) | [Randee Campers](https://open.spotify.com/artist/3XrwocEZ2D4EkmynAMtw5y) | [HELLDRIFT 2](https://open.spotify.com/album/6AFcMCYJfdAI9vO3YJ6wn8) | 2:51 | 2022-11-30 | 2023-06-11 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-11-30 |  |
 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 | 2022-11-30 |  |
@@ -45,7 +46,8 @@
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-11-30 |  |
 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 | 2022-11-30 |  |
 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 | 2022-11-30 |  |
-| [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-11-30 |  |
+| [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-11-30 | 2023-07-01 |
+| [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 | 2022-11-30 |  |
 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2022-11-30 |  |
 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-11-30 |  |
 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 | 2022-11-30 |  |

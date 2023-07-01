@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 150824,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 85476,
       "name": "Beg For The Torture",
       "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 159880,
       "name": "BUMMER!",
       "url": "https://open.spotify.com/track/73phkrwQPTCg8UrlqEkSyj"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 218141,
       "name": "Gettin' In The Way",
       "url": "https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe"
@@ -3044,6 +3044,24 @@
       "duration_ms": 175240,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/1mSlZW1iN1faQz67l35sRb"
+    },
+    {
+      "album": {
+        "name": "Good Living Is Coming for You",
+        "url": "https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217104,
+      "name": "Good Living Is Coming for You",
+      "url": "https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4"
     },
     {
       "album": {
@@ -3510,6 +3528,24 @@
       "duration_ms": 166933,
       "name": "Hello, Hi",
       "url": "https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2"
+    },
+    {
+      "album": {
+        "name": "For Better For Worse",
+        "url": "https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Hennesy Brown",
+      "url": "https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM"
     },
     {
       "album": {
@@ -4800,6 +4836,24 @@
       "duration_ms": 239346,
       "name": "Lost Honor",
       "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "album": {
+        "name": "Love Is Fire",
+        "url": "https://open.spotify.com/album/5KW9VWfXcQ7rI9tAF5Og0h"
+      },
+      "artists": [
+        {
+          "name": "GRLwood",
+          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183128,
+      "name": "Love Is Fire",
+      "url": "https://open.spotify.com/track/2h2LCucFMULWhAhRAKJdNn"
     },
     {
       "album": {
@@ -6119,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D"
+      },
+      "artists": [
+        {
+          "name": "Speedy Ortiz",
+          "url": "https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196773,
+      "name": "Plus One",
+      "url": "https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq"
+    },
+    {
+      "album": {
         "name": "Pod",
         "url": "https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL"
       },
@@ -6678,7 +6750,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 171746,
       "name": "Scabs",
       "url": "https://open.spotify.com/track/2z1GAPr2vbVZv403DviPFb"
@@ -7294,6 +7366,24 @@
       "duration_ms": 181662,
       "name": "Spike The Punch",
       "url": "https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB"
+    },
+    {
+      "album": {
+        "name": "Sport of Form",
+        "url": "https://open.spotify.com/album/1T4LPltqYeJoJrr88P0NLq"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206983,
+      "name": "Sport of Form",
+      "url": "https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy"
     },
     {
       "album": {

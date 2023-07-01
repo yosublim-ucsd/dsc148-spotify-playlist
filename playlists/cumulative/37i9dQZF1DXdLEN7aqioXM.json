@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 99823,
       "name": "2000",
       "url": "https://open.spotify.com/track/7GFxCDuquGXbNdpMsbGtW2"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 176248,
       "name": "A Promise to Die",
       "url": "https://open.spotify.com/track/3IfWaFt0d01TPU3dsy5Yw9"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 220714,
       "name": "After Hours Run",
       "url": "https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB"
@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Athena",
+        "url": "https://open.spotify.com/album/3Xw2pZX3J0Ikx7r5ZBAzYm"
+      },
+      "artists": [
+        {
+          "name": "Turbo Knight",
+          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
+        },
+        {
+          "name": "Edictum",
+          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Athena",
+      "url": "https://open.spotify.com/track/1lLHIagfhBabAoaOowk6zv"
+    },
+    {
+      "album": {
         "name": "Mikrokozmos",
         "url": "https://open.spotify.com/album/3sinUlAK8IZ2TqCAmpmWpj"
       },
@@ -718,7 +740,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 316250,
       "name": "Bend & Break - Instrumental",
       "url": "https://open.spotify.com/track/0DvOD9MYBxtXywC54zLYtJ"
@@ -1070,7 +1092,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237783,
       "name": "Contact",
       "url": "https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z"
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 426176,
       "name": "Crockett's Theme - Original Mix",
       "url": "https://open.spotify.com/track/445YwSgIoXj8yJlK7i9oKo"
@@ -1312,6 +1334,24 @@
       "duration_ms": 262680,
       "name": "Cumulus",
       "url": "https://open.spotify.com/track/3P9XCHsK1MSdadVihWNrxU"
+    },
+    {
+      "album": {
+        "name": "Cloud Symphonies",
+        "url": "https://open.spotify.com/album/6fqYtdrZNm9nWU7ILgjnth"
+      },
+      "artists": [
+        {
+          "name": "Shook",
+          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262680,
+      "name": "Cumulus",
+      "url": "https://open.spotify.com/track/6cSCZIDvMUysb1RtXWOIrd"
     },
     {
       "album": {
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 228028,
       "name": "Dark Prince, Pt. 3",
       "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
@@ -1652,7 +1692,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 371750,
       "name": "Delusive Bunker - Live Version",
       "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 169988,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
@@ -2090,7 +2130,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 252824,
       "name": "Endless Lines",
       "url": "https://open.spotify.com/track/5VyjYh1xSRY08srq7TKQme"
@@ -2108,7 +2148,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 198545,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
@@ -2310,7 +2350,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 200389,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA"
@@ -2602,7 +2642,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 207468,
       "name": "Full Force",
       "url": "https://open.spotify.com/track/3SA3kgjY0RwgOMpuapcrte"
@@ -3405,6 +3445,24 @@
     },
     {
       "album": {
+        "name": "Unknown Memories",
+        "url": "https://open.spotify.com/album/7nFASYumUoZr10jLO1jald"
+      },
+      "artists": [
+        {
+          "name": "Damon Jee",
+          "url": "https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357600,
+      "name": "Intelli",
+      "url": "https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K"
+    },
+    {
+      "album": {
         "name": "The Legacy Collection, Vol. I",
         "url": "https://open.spotify.com/album/4VzabqOc5cLuD4G41aJ4c9"
       },
@@ -3630,6 +3688,24 @@
       "duration_ms": 265312,
       "name": "Keepin' on",
       "url": "https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m"
+    },
+    {
+      "album": {
+        "name": "Kingsland Road 2AM",
+        "url": "https://open.spotify.com/album/2dzdbPWrslaYLEYFShAu7a"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387374,
+      "name": "Kingsland Road 2AM",
+      "url": "https://open.spotify.com/track/6wBYUOgjXj1JuglBTYo4W7"
     },
     {
       "album": {
@@ -4246,7 +4322,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 209416,
       "name": "Memory Reboot",
       "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
@@ -4490,7 +4566,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 274285,
       "name": "Neon Escapism - Edit",
       "url": "https://open.spotify.com/track/42Xlg8cKifyHQ8sFgaUBmt"
@@ -4512,6 +4588,24 @@
       "duration_ms": 253220,
       "name": "Neon Medusa - Edit",
       "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
+    },
+    {
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/01BovJUFWTdWhO1ATNqrLm"
+      },
+      "artists": [
+        {
+          "name": "Hagen Feetly",
+          "url": "https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222437,
+      "name": "Neon Nights",
+      "url": "https://open.spotify.com/track/2IKVnkzVv38BL07y6J5Mqg"
     },
     {
       "album": {
@@ -4714,7 +4808,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 252121,
       "name": "Nightride - Revisited",
       "url": "https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y"
@@ -4978,7 +5072,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
@@ -5014,7 +5108,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 253714,
       "name": "Oort",
       "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
@@ -5112,7 +5206,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 206400,
       "name": "Outlines",
       "url": "https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ"
@@ -5278,6 +5372,28 @@
       "duration_ms": 260127,
       "name": "Party at Kitty & Stud's",
       "url": "https://open.spotify.com/track/3THa36K3k5UzEQREL9w9Xx"
+    },
+    {
+      "album": {
+        "name": "Party In Panama (Remixes)",
+        "url": "https://open.spotify.com/album/1Zm0ls2GAsMmZTKEUssQEi"
+      },
+      "artists": [
+        {
+          "name": "Sweet Tempest",
+          "url": "https://open.spotify.com/artist/3CHvSnSovfNQBCwGgGMy3s"
+        },
+        {
+          "name": "Julian Winding",
+          "url": "https://open.spotify.com/artist/2n73yy6NNrGAo8wMDzmRax"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324300,
+      "name": "Party in Panama (Julian Winding Remix)",
+      "url": "https://open.spotify.com/track/1QQcWkDHB1sVxu46jLt9gJ"
     },
     {
       "album": {
@@ -5708,7 +5824,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 344347,
       "name": "Remoteness",
       "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
@@ -5726,7 +5842,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 244744,
       "name": "Rivage",
       "url": "https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe"
@@ -5788,7 +5904,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 232846,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx"
@@ -5970,6 +6086,28 @@
       "duration_ms": 240000,
       "name": "Shimmer Isle",
       "url": "https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY"
+    },
+    {
+      "album": {
+        "name": "Shooting Star (Six Times)",
+        "url": "https://open.spotify.com/album/24XWPuK8FXeSpry58xB9Pp"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        },
+        {
+          "name": "Cormac",
+          "url": "https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342926,
+      "name": "Shooting Star (Six Times)",
+      "url": "https://open.spotify.com/track/0l3sZCqwb8QaoToHA7SPtF"
     },
     {
       "album": {
@@ -6356,7 +6494,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 234000,
       "name": "Stasis",
       "url": "https://open.spotify.com/track/2LfU1UULEXCJowBNN0JYBW"
@@ -6592,7 +6730,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 273472,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574"
@@ -6722,7 +6860,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 236216,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
@@ -6788,6 +6926,28 @@
       "duration_ms": 172109,
       "name": "The Arcane Arts",
       "url": "https://open.spotify.com/track/5sPkgogsCQFYKnYZMwkODz"
+    },
+    {
+      "album": {
+        "name": "The Dark, The Light",
+        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
+      },
+      "artists": [
+        {
+          "name": "Bozart",
+          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
+        },
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "The Dark, The Light (Edit)",
+      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
     },
     {
       "album": {
@@ -6986,7 +7146,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 181016,
       "name": "The Perfect Girl - The Motion Retrowave Remix",
       "url": "https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG"
@@ -7210,7 +7370,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 224001,
       "name": "Try",
       "url": "https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB"
@@ -7540,7 +7700,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 308210,
       "name": "White Crows",
       "url": "https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt"

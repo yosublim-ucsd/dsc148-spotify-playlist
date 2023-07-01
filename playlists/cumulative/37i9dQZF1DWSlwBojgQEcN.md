@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-327 songs - 20 hr 27 min
+328 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:01 | 2021-01-12 |  |
 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 | 2019-09-29\* | 2022-11-13 |
 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 | 2021-08-25 | 2022-07-29 |
-| [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 | 2021-01-12 |  |
+| [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 | 2021-01-12 | 2023-07-01 |
 | [What is Love](https://open.spotify.com/track/4nSsAi4HpOlPfvoQYwQNPR) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [What is Love](https://open.spotify.com/album/1ZwduEDO1HlDHhydPynT0H) | 3:14 | 2019-10-03 | 2021-10-11 |
 | [What Is Love ft\. Dylan LeBlanc](https://open.spotify.com/track/0lNiVU3MHSeFyrRVB0sz2R) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Plays Well With Others](https://open.spotify.com/album/4aHyH0AmCxSsB0ZYKIEcuk) | 3:14 | 2022-02-14 | 2022-11-13 |
 | [What You Said](https://open.spotify.com/track/2gczZHOwTQiRIEM4znvQZA) | [The Jepettos](https://open.spotify.com/artist/35o58Gfmj3W9t641sufYep) | [What You Said \- Single](https://open.spotify.com/album/3isBfJUe7dHywQNYM2ZdIC) | 3:20 | 2020-06-12 | 2021-01-15 |
@@ -333,6 +333,7 @@
 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 | 2019-10-03 | 2021-02-18 |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2019-09-29\* |  |
 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4mQdVD2eBGEJ93WbAeVGdu) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 3:05 | 2021-04-24 | 2021-10-14 |
+| [You and I \- Acoustic](https://open.spotify.com/track/2YVFDAZDou5A6UeTrYWmWX) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You and I \(Acoustic\)](https://open.spotify.com/album/1K15bUc42XXQWoBR8ZtiMi) | 3:13 | 2023-06-30 |  |
 | [You Come Down](https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [That Iron Taste](https://open.spotify.com/album/1HBTigeKszgy2KJPna3hND) | 2:54 | 2020-06-12 | 2021-01-12 |
 | [You My Love](https://open.spotify.com/track/1r6cXvd02dCxF2E78uSJ8J) | [Marcus Foster](https://open.spotify.com/artist/0jBTGpTyxmDIEBwtjXgEOC) | [Nameless Path](https://open.spotify.com/album/4CtVv2TK3nsPu1OJeg9Qeq) | 3:37 | 2020-06-12 | 2021-01-15 |
 

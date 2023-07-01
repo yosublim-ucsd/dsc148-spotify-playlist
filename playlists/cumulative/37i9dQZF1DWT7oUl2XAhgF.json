@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Lee Fields\n",
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Come Around And Love Me",
+        "url": "https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Come Around and Love Me",
+      "url": "https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN"
+    },
+    {
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS"
       },
@@ -995,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Don't Knock Upon My Door",
+        "url": "https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Explosion",
+          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Don't Knock Upon My Door",
+      "url": "https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r"
       },
@@ -1116,6 +1152,24 @@
       "duration_ms": 200686,
       "name": "Don\u2019t You Know",
       "url": "https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu"
+    },
+    {
+      "album": {
+        "name": "Dreaming In Slow Motion",
+        "url": "https://open.spotify.com/album/2t2e95aPXSWBFsaZnMVtir"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172869,
+      "name": "Dreaming In Slow Motion",
+      "url": "https://open.spotify.com/track/6Vdz3UiPla1jOIlVUmNa1x"
     },
     {
       "album": {
@@ -1950,7 +2004,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 175937,
       "name": "hey rose",
       "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
@@ -2148,6 +2202,28 @@
       "duration_ms": 180061,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez"
+    },
+    {
+      "album": {
+        "name": "i found a diamond",
+        "url": "https://open.spotify.com/album/2DtOE3ffS4sZakYgD3VMIm"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248354,
+      "name": "i found a diamond",
+      "url": "https://open.spotify.com/track/3oRbkpNDMAIfwaLgWg6yco"
     },
     {
       "album": {
@@ -2436,7 +2512,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 217906,
       "name": "In Your Corner",
       "url": "https://open.spotify.com/track/4IBg6ZjiS570apL3CJQhVk"
@@ -3006,7 +3082,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
@@ -3886,7 +3962,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 259183,
       "name": "Poppyseed",
       "url": "https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE"
@@ -4346,7 +4422,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 176876,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/2Nq1CHPEOt21w1ctEaV22j"
@@ -4480,6 +4556,28 @@
       "duration_ms": 185773,
       "name": "Sentimental Fool",
       "url": "https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z"
+    },
+    {
+      "album": {
+        "name": "Shake Shake",
+        "url": "https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B"
+      },
+      "artists": [
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        },
+        {
+          "name": "Voli Contra",
+          "url": "https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Shake Shake",
+      "url": "https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs"
     },
     {
       "album": {

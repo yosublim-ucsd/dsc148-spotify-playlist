@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Naturaleza",
+      "url": "https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K"
+    },
+    {
+      "album": {
         "name": "Alejandro Santamaria",
         "url": "https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by"
       },

@@ -3411,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Limes",
+        "url": "https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195382,
+      "name": "Limes",
+      "url": "https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR"
+    },
+    {
+      "album": {
         "name": "Revisited EP",
         "url": "https://open.spotify.com/album/0ImuV2pJHgEnsHhKAwLmmf"
       },
@@ -5482,7 +5500,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 187741,
       "name": "Saltillo - The Frenchies & Numa Lesage Remix Edit",
       "url": "https://open.spotify.com/track/3DQ3Bm7w1UagzKybe9X2PP"
@@ -5988,7 +6006,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 290652,
       "name": "Spectre - Theo Kottis Remix",
       "url": "https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg"
@@ -6274,6 +6292,24 @@
       "duration_ms": 231120,
       "name": "Sunrays",
       "url": "https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm"
+    },
+    {
+      "album": {
+        "name": "Sunrise Song",
+        "url": "https://open.spotify.com/album/6CAvmCLOQq9WxSxhsc5Ewk"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Sunrise Song",
+      "url": "https://open.spotify.com/track/30D2wqU8iuzaD653y938ip"
     },
     {
       "album": {
@@ -6688,7 +6724,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 402769,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5v09mpnFDvxtjgtKHDD5v0"
@@ -6988,6 +7024,28 @@
       "duration_ms": 387049,
       "name": "Unknown Neighbor",
       "url": "https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w"
+    },
+    {
+      "album": {
+        "name": "Verden",
+        "url": "https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2"
+      },
+      "artists": [
+        {
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+        },
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344893,
+      "name": "Verden",
+      "url": "https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj"
     },
     {
       "album": {

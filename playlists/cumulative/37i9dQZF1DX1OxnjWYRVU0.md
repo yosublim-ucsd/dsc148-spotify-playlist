@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-420 songs - 18 hr 38 min
+421 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Killing Me Softly \- Extended](https://open.spotify.com/track/2tvSMaaKNG8vOZcAOAlsQY) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/7MqYR3rW5zMzDzPRXbAipY) | 4:45 | 2022-10-11 | 2023-02-16 |
 | [Killing Me Softly \- Extended](https://open.spotify.com/track/3j6zKAjD2IU3M17yWDeHiJ) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/4EEOdUVTSZE4mKST4BiiRF) | 4:45 | 2022-01-13 | 2022-10-20 |
 | [Killing Me Softly \- Extended Version](https://open.spotify.com/track/4rUEDeURt4qNJUuyiffA10) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended Version\)](https://open.spotify.com/album/7K4Xm4XPKSx3oeM0mjSv7O) | 4:45 | 2022-10-27 |  |
-| [Kylie](https://open.spotify.com/track/4Tp5xH1a5sGHGvryrQ7ZIa) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/3cCW4JoslwfcrlaAWpWHFq) | 2:51 | 2023-06-29 |  |
+| [Kylie](https://open.spotify.com/track/4Tp5xH1a5sGHGvryrQ7ZIa) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/3cCW4JoslwfcrlaAWpWHFq) | 2:51 | 2023-06-29 | 2023-07-01 |
+| [Kylie](https://open.spotify.com/track/5Tvr4qyXcmggPVOxGE1ULS) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/4xW5897r9lZkK2oLAdM1QP) | 2:51 | 2023-06-29 |  |
 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 | 2022-04-14 | 2022-07-29 |
 | [L'Amour Toujours](https://open.spotify.com/track/7qq1J6TCW2Zw1A2ORoOIH2) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'Amour Toujours](https://open.spotify.com/album/6YRVf3VlMETzY7A5BUrEH9) | 2:21 | 2022-06-30 |  |
 | [La Di Die](https://open.spotify.com/track/19Domw29HCauiKk20oYZFB) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [La Di Die](https://open.spotify.com/album/1H9yZJQI2RRd0mBsv1rjMV) | 2:03 | 2022-01-13 | 2022-01-21 |

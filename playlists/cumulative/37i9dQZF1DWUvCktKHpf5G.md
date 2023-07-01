@@ -4,7 +4,7 @@
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-185 songs - 10 hr 14 min
+186 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 | 2023-06-02 |  |
 | [Intro Telefono Perreo](https://open.spotify.com/track/2plgCBmfVrKZyqcTJ2IQ45) | [Dam Dam](https://open.spotify.com/artist/2Tm2uw29i6VXLI2hcY4xpz) | [Intro Telefono Perreo](https://open.spotify.com/album/1Wit3JjhNiL16odHaquqyF) | 2:13 | 2022-01-04 | 2022-04-20 |
 | [Intro Teléfono Perreo Rkt \- feat\. Mister Remix](https://open.spotify.com/track/6wGH5DubI46XGN7JoSUOZ6) | [Luciano DJ](https://open.spotify.com/artist/0PPBzdjZJGxKLhKer2nmiP), [Mister Remix](https://open.spotify.com/artist/7kwQi4lExbo3Ycz1D9G7Xu) | [Intro Teléfono Perreo Rkt \(feat\. Mister Remix\)](https://open.spotify.com/album/3hGyZ1F387zeRYP1w7TwTN) | 3:44 | 2022-01-04 | 2022-07-27 |
+| [Juego](https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk) | [Nesty La Mente Maestra](https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Juego](https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m) | 2:31 | 2023-06-30 |  |
 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 | 2023-04-14 | 2023-05-06 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-19 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2022-01-04 |  |
@@ -126,7 +127,7 @@
 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 | 2022-01-04 |  |
 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-17 |  |
 | [No Triple Sexxx](https://open.spotify.com/track/1dcd44Th2C177XkYqEVrTQ) | [El Habano](https://open.spotify.com/artist/4P7n3KFYMtLMDkyPqtBBV7) | [Cumbiaton y Mas](https://open.spotify.com/album/0js1e72yEQVNR0WcLO1JOw) | 3:08 | 2022-03-25 | 2022-04-21 |
-| [NOCHE DE CRIMEN](https://open.spotify.com/track/5elEvXPHWnxlxEpxJkG1an) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [NOCHE DE CRIMEN](https://open.spotify.com/album/3YGFouN7jKcib5DSHWGIrm) | 2:23 | 2023-06-16 |  |
+| [NOCHE DE CRIMEN](https://open.spotify.com/track/5elEvXPHWnxlxEpxJkG1an) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [NOCHE DE CRIMEN](https://open.spotify.com/album/3YGFouN7jKcib5DSHWGIrm) | 2:23 | 2023-06-16 | 2023-07-01 |
 | [NOPALATELE](https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Nopalatele](https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC) | 4:17 | 2023-03-17 |  |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-15 | 2022-07-23 |
 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 | 2022-06-18 |  |

@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-73 songs - 4 hr 18 min
+74 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Shingeki Pf \- Medley 20130629 Kyojin](https://open.spotify.com/track/0ge9PBLpkfEiYv9qCE4TVY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 5:06 | 2022-11-25 |  |
 | [Skies of Song](https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:02 | 2022-03-25 |  |
 | [Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile \- Remastered](https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Beethoven: Piano Sonatas Nos\. 8\-10 \(Gould Remastered\)](https://open.spotify.com/album/0isMuQNesHMv674ps90zDj) | 4:45 | 2022-03-25 |  |
-| [The Legend of Ashitaka \(Ending\)](https://open.spotify.com/track/3CLgIwptrXVh7oYmuexqVD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 5:01 | 2022-03-25 |  |
+| [The Legend of Ashitaka \(Ending\)](https://open.spotify.com/track/3CLgIwptrXVh7oYmuexqVD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 5:01 | 2022-03-25 | 2023-07-01 |
+| [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 | 2023-06-30 |  |
 | [Theme of Violet Evergarden](https://open.spotify.com/track/0fsb37XCuEDiF1oPNq4arG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 2:17 | 2022-03-25 |  |
 | [Very little wishes](https://open.spotify.com/track/0dRub80H2d4W7FtuhBS2Qo) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 2:29 | 2022-03-25 | 2022-07-29 |
 | [Very little wishes](https://open.spotify.com/track/0sy481jsaYC1fNqGWgKTM2) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [MACROSS PLUS ORIGINAL SOUNDTRACK](https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8) | 2:29 | 2022-04-19 |  |

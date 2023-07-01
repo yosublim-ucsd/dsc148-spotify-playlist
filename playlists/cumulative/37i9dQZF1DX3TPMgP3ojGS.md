@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,714 songs - 3 day 4 hr 55 min
+1,716 songs - 3 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 | 2023-06-27 |  |
 | [Delicate](https://open.spotify.com/track/648uIXFNwQBgemMz1kk1Be) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [Delicate](https://open.spotify.com/album/56DezvcqC1Ar63BjQ5mqCJ) | 2:34 | 2022-05-03 | 2022-05-10 |
 | [Delicate Transitions](https://open.spotify.com/track/3WzXJhi5jtc29EoOwjPf2D) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Drifting Among Strangers](https://open.spotify.com/album/11tvEp8VByXTg3hOljnDBF) | 2:28 | 2021-04-21 | 2022-04-09 |
-| [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2022-12-22 |  |
+| [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2022-12-22 | 2023-07-01 |
 | [Dells Pond](https://open.spotify.com/track/5lefNG7G6OMsOTcwPX0Hfe) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [Dells Pond](https://open.spotify.com/album/1hp6OfvkiYWV9LaaJbEQLu) | 2:15 | 2022-04-12 | 2022-04-22 |
 | [Delori's theme](https://open.spotify.com/track/1Xr82vsXT5klIAzFmm42Pd) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Delori's theme](https://open.spotify.com/album/0vf2z4PZv8pCXYobzavgIh) | 1:25 | 2021-03-22 | 2021-05-17 |
 | [Deloris](https://open.spotify.com/track/5J715ZVsqt8q0mCB8T003B) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Deloris](https://open.spotify.com/album/6I7zX2BsEvl9V4eMgC3zWe) | 2:31 | 2021-09-06 | 2022-07-28 |
@@ -456,6 +456,7 @@
 | [Evening Light](https://open.spotify.com/track/5kIyIqnpZqBSrJNkvamp2a) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Evening Light](https://open.spotify.com/album/1i3XQYIf9H0E4dE0mSyKBu) | 4:10 | 2021-03-06\* | 2022-07-10 |
 | [Evening Mantra](https://open.spotify.com/track/3fNoCPT9lOOSHeIGxpVGEN) | [Wilma Harrods](https://open.spotify.com/artist/7C19iKkWUqBvofrBXX33CW) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:21 | 2021-03-14 | 2021-03-15 |
 | [Evening Message](https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 3:44 | 2021-06-04 | 2022-04-10 |
+| [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 | 2023-06-27 |  |
 | [Evenings](https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:52 | 2022-11-15 | 2023-04-16 |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2021-05-15 | 2022-06-24 |
 | [Ever Since](https://open.spotify.com/track/67mEEKBy1ViwbTybbiH2nF) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Ever Since](https://open.spotify.com/album/17K18rSIF0eXzAsjvbGwfs) | 3:04 | 2021-06-18 | 2022-07-29 |
@@ -776,7 +777,7 @@
 | [La Fille d’en Face](https://open.spotify.com/track/7wx4Pn5bcMQhZxZeplFOiF) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Rêveries](https://open.spotify.com/album/1JwQ0z2Rj9WX5FSzS9Z90M) | 3:14 | 2021-03-14 | 2021-03-15 |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2021-03-20 | 2022-07-29 |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2021-09-25 | 2021-09-26 |
-| [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-30 |  |
+| [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-30 | 2023-07-01 |
 | [La luce nel cuore](https://open.spotify.com/track/2WJGRRRZ35beKytyV9h476) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/0mSXDUjoKeXdbGYGMe3emC) | 2:57 | 2021-05-24 | 2021-05-25 |
 | [La Madonna](https://open.spotify.com/track/1nGVbaoELgntPagNcfx7RX) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [La Madonna](https://open.spotify.com/album/5aOlMWhVHnVnpMF9WaNvEI) | 3:20 | 2021-04-26 | 2022-04-19 |
 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 | 2021-04-22 | 2022-04-19 |
@@ -1339,6 +1340,7 @@
 | [Songe \(Debut\)](https://open.spotify.com/track/4wlotUQTBQRc005LhYpJkN) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK), [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [Songe](https://open.spotify.com/album/2Kq7643R4QZ1GN8VVJ5pfE) | 3:11 | 2021-05-08 | 2021-05-21 |
 | [Sono innamorato](https://open.spotify.com/track/3QrzFS2f3ARIKlZNAROUDB) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Sono innamorato](https://open.spotify.com/album/25UUV79Ir4jFcopJDYu20R) | 2:30 | 2021-12-09 | 2022-06-09 |
 | [Soothe](https://open.spotify.com/track/0TA4KpQK657wXKvW3X0Oxf) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:30 | 2021-04-23 | 2022-03-28 |
+| [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-27 |  |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2021-05-16 | 2022-04-21 |
 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 | 2021-05-03 | 2022-07-19 |
 | [Spanish Evening](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [Hilda Atkins](https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd) | [Spanish Evening](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 2:31 | 2021-04-30 | 2022-04-16 |

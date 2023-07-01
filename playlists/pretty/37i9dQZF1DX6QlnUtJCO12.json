@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 37167,
+  "num_followers": 37207,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjI2MjA3YmQ3NTM2OGQzMWYzYWZlZWVhOTNiYjJmMzI2NDUxYmE3",
+  "snapshot_id": "MCxkYWRhOTdhZjM3MTU3NTY5MGExZjQ4M2U0MDQxOWU1YzI3MDkwYmY3",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Cooks in Trinidad",
-        "url": "https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M"
-      },
-      "artists": [
-        {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
-        }
-      ],
-      "duration_ms": 153106,
-      "name": "Black but Sweet",
-      "url": "https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Atrocities",
         "url": "https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 187306,
       "name": "Me Ting Is Mine",
       "url": "https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Cooks in Trinidad",
+        "url": "https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M"
+      },
+      "artists": [
+        {
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "Black but Sweet",
+      "url": "https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Awakening from the Emory Cook Collection",
-        "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
-      },
-      "artists": [
-        {
-          "name": "Small Island Pride",
-          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
         "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 158458,
       "name": "Sausage",
       "url": "https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Awakening from the Emory Cook Collection",
+        "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
+      },
+      "artists": [
+        {
+          "name": "Small Island Pride",
+          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
     },
     {
       "added_at": "2021-04-23 15:05:50",

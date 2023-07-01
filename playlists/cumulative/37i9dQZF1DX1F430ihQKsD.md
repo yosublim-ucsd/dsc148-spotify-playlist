@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Helena Deland
+> La scène musicale montréalaise au premier plan\. Photo: Velours Velours
 
-331 songs - 19 hr 2 min
+334 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Douce répétition](https://open.spotify.com/track/0HMF4ha6tszLkLCDy6IZZ8) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Teinte](https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS) | 3:00 | 2023-04-14 |  |
 | [Douchebag](https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Douchebag](https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk) | 2:58 | 2022-03-25 | 2022-07-02 |
 | [Drama \- Isabella Lovestory and Chicken Remix](https://open.spotify.com/track/6OOgOELe0u3gDCxuYv36D9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Chicken](https://open.spotify.com/artist/7zpsE1zqt8cFqOPUNifkSv) | [Drama \(Isabella Lovestory and Chicken Remix\)](https://open.spotify.com/album/6bqT38ZCI151SgKJAfaQEr) | 2:54 | 2022-03-25 | 2022-06-04 |
+| [Duel](https://open.spotify.com/track/6Bop5sTWP6R5YfBFquPM0K) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Duel](https://open.spotify.com/album/0clKcVz5ZnpWticAtWhYCr) | 3:18 | 2023-06-30 |  |
 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 | 2022-04-15 | 2022-09-24 |
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2022-03-25 | 2023-02-04 |
 | [East Angus 1998](https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN) | [Lizzy & the Fanatics](https://open.spotify.com/artist/7l4sVkNSc4v6058rs4GnJr) | [East Angus 1998](https://open.spotify.com/album/7JsmNAXZRIncXqlvu1qkZx) | 3:54 | 2022-03-25 | 2022-07-16 |
@@ -234,15 +235,17 @@
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |
 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 | 2022-07-15 | 2022-08-27 |
 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 | 2022-10-21 |  |
-| [pas pire](https://open.spotify.com/track/6VW2pO4Yyw7rIM5PCDxEbE) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [pas pire](https://open.spotify.com/album/74NrtdHjuTCDazoA9AwK0K) | 3:35 | 2023-05-12 |  |
+| [pas pire](https://open.spotify.com/track/6VW2pO4Yyw7rIM5PCDxEbE) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [pas pire](https://open.spotify.com/album/74NrtdHjuTCDazoA9AwK0K) | 3:35 | 2023-05-12 | 2023-07-01 |
 | [Pas toi encore](https://open.spotify.com/track/1orTvHCML20Heg9tqVxkQN) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Pas toi encore](https://open.spotify.com/album/6UJNUpKI93lDjE3eOHFWaM) | 3:29 | 2023-01-20 |  |
 | [Pas un chat](https://open.spotify.com/track/6RVkA2vDxFm91KHtZud4Uq) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Pas un chat](https://open.spotify.com/album/42a33l9LCjFThsvlem9Rw6) | 4:02 | 2022-03-25 | 2022-05-20 |
 | [Patience](https://open.spotify.com/track/4hVUrQ9c3JalPh8f8BoFqW) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Saintclaire](https://open.spotify.com/album/0nvwynLe9yrkfDldt6pJYy) | 3:42 | 2022-03-25 | 2022-05-14 |
+| [patio](https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [patio / compte à rebours](https://open.spotify.com/album/6YXjiV0QLA95AuoUPB89uy) | 2:51 | 2023-06-30 |  |
 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [Suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 | 2023-02-03 |  |
 | [Pendant que tu dors](https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Pendant que tu dors](https://open.spotify.com/album/7ELXNkBU4VZCAqsGHJAv8O) | 3:50 | 2022-03-25 | 2022-09-17 |
 | [Perdue pour autrefois](https://open.spotify.com/track/6u57eMxEKEmCmnLfLps7QS) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Série II: Les heures innocentes](https://open.spotify.com/album/1M1E34ZQdcGc6B0RH8dojB) | 3:32 | 2023-05-12 |  |
 | [Perfected Steps](https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Perfected Steps](https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy) | 6:38 | 2022-04-15 | 2022-05-14 |
 | [Picture in Picture](https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Picture in Picture](https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk) | 4:01 | 2023-01-20 |  |
+| [Pinstripe](https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Pinstripe](https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2) | 3:22 | 2023-06-30 |  |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-22 | 2022-07-29 |
 | [Pissed Black Girl](https://open.spotify.com/track/5NBi6f7uxPrZNuF7WLPFRG) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/4NuEobCoQql8flhysav4Xs) | 3:25 | 2022-10-14 | 2023-05-27 |
 | [Pissed Black Girl](https://open.spotify.com/track/5SbFDvlgHmNcG8QkaZKG5I) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/0TaL8kqF5xhhA6XYcpqLOM) | 3:25 | 2022-07-22 | 2022-10-16 |
@@ -276,7 +279,7 @@
 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 | 2022-09-30 |  |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-10 |  |
 | [Seul au monde](https://open.spotify.com/track/0YgsjiXvHW1ipRDWWVnlSz) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Seul au monde](https://open.spotify.com/album/0tZyUZXG6JcABtk1wmpMFm) | 3:08 | 2023-02-17 |  |
-| [Sex & Candy](https://open.spotify.com/track/7M6HWJhPhHG4yICQGN5Bzi) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Sex & Candy](https://open.spotify.com/album/4ScRDKEIRM9HlNyZHIgpkm) | 3:22 | 2023-02-17 |  |
+| [Sex & Candy](https://open.spotify.com/track/7M6HWJhPhHG4yICQGN5Bzi) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Sex & Candy](https://open.spotify.com/album/4ScRDKEIRM9HlNyZHIgpkm) | 3:22 | 2023-02-17 | 2023-07-01 |
 | [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 | 2023-02-10 |  |
 | [Shelter of Mine](https://open.spotify.com/track/6SP0lrPi8dEXzqOQanWeBF) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Shelter of Mine](https://open.spotify.com/album/22NUiIGtPN0f6B3P0f8Elj) | 4:29 | 2022-08-26 |  |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-05-14 |
@@ -297,7 +300,7 @@
 | [Supermonkeyball](https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Supermonkeyball](https://open.spotify.com/album/39PXCIY1r6XFg6ia4DTdU3) | 3:48 | 2022-05-20 |  |
 | [Sur la mélodie \(feat\. Ichon\)](https://open.spotify.com/track/1FnJheHq9Q9rArgP5Oiq1w) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Sur la mélodie \(feat\. Ichon\)](https://open.spotify.com/album/7ufj76jBr16b9EoMAO8sab) | 2:15 | 2023-02-07 | 2023-04-22 |
 | [Sur la pointe des pieds](https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Sur la pointe des pieds](https://open.spotify.com/album/3I79ViJzvgFejiCj2UJVye) | 6:36 | 2022-04-29 | 2022-07-29 |
-| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2022-07-22 |  |
+| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2022-07-22 | 2023-07-01 |
 | [T'es beau](https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Montréal bagarre 2](https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk) | 3:05 | 2022-05-20 | 2022-06-11 |
 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 | 2022-09-02 |  |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-10 | 2022-08-06 |

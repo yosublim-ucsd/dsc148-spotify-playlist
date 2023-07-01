@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-206 songs - 13 hr 1 min
+207 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Drive](https://open.spotify.com/track/4zR1K26LJZ2ZqDOGtCyZRs) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Amity Isle](https://open.spotify.com/artist/2IfaZ7p5Q60P7VRW4dfHzl) | [Drive](https://open.spotify.com/album/3xaGSGkGREQw3MYRgOZGrd) | 3:31 | 2022-05-20 | 2023-04-09 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 | 2021-07-02 | 2022-11-19 |
 | [Entangle](https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Entangle](https://open.spotify.com/album/3FOcCZrrlOwVX52hOa5249) | 3:56 | 2022-09-09 |  |
+| [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 | 2023-06-30 |  |
 | [Faces](https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Cut Velvet](https://open.spotify.com/album/6d1QycrvQbPhpsWv4cBuiU) | 2:21 | 2022-03-11 |  |
 | [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 | 2022-10-18 |
 | [Faces](https://open.spotify.com/track/7xJXzykZkjJLdIjTws8Piu) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Comedown](https://open.spotify.com/album/6dMQpXeo2FcdgPEItBtbGp) | 2:21 | 2022-03-11 | 2022-11-13 |
@@ -155,7 +156,7 @@
 | [Real Love](https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA) | 3:02 | 2023-01-20 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-28 | 2022-12-17 |
 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 | 2022-04-15 |  |
-| [Riviera](https://open.spotify.com/track/6XCKim7nYMo1JeSn6RrE8j) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Riviera](https://open.spotify.com/album/2oOkCQpBeEPRwdsbU7ILa7) | 2:49 | 2023-03-10 |  |
+| [Riviera](https://open.spotify.com/track/6XCKim7nYMo1JeSn6RrE8j) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Riviera](https://open.spotify.com/album/2oOkCQpBeEPRwdsbU7ILa7) | 2:49 | 2023-03-10 | 2023-07-01 |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2022-07-08 |  |
 | [San Frandiscothèque](https://open.spotify.com/track/08ke1gT4ktBBYfOhjlyISp) | [Wu Am I](https://open.spotify.com/artist/4EDxGYZZDNlYg4z7Y5HfyV), [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [San Frandiscothèque](https://open.spotify.com/album/5yjijjmDH8REk56oT5WsCk) | 3:48 | 2021-07-30 | 2022-09-03 |
 | [Say Something \- Extended Mix](https://open.spotify.com/track/6W2ECdBNRoqVfHLRAPo71h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Extended Mixes\)](https://open.spotify.com/album/29SeXSOfJNZetqkzF7stl9) | 5:20 | 2021-12-10 | 2022-11-19 |

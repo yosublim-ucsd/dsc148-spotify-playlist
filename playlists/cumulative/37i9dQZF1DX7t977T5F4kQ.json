@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Love & Growth",
+        "url": "https://open.spotify.com/album/6d2qZ9ysiydjIEvxsQgIXG"
+      },
+      "artists": [
+        {
+          "name": "Star Tee",
+          "url": "https://open.spotify.com/artist/0DFAGq18Akz1h9ssTPPTt6"
+        },
+        {
+          "name": "Gallaxy",
+          "url": "https://open.spotify.com/artist/3eAkZTNnSW6vjLDhu0xKvE"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199067,
+      "name": "Body Bad",
+      "url": "https://open.spotify.com/track/5LthhUhjR5d4al42gKAB2Q"
+    },
+    {
+      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -690,6 +712,24 @@
       "duration_ms": 132413,
       "name": "Change Your Style (feat. st Lennon, KiDi & Kojo Manuel)",
       "url": "https://open.spotify.com/track/6RjeOjvhLRWaGvUracU23d"
+    },
+    {
+      "album": {
+        "name": "Check My Zingo",
+        "url": "https://open.spotify.com/album/38m3KXMGYqncMQj98b5Nwy"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Check My Zingo",
+      "url": "https://open.spotify.com/track/3ksujzQdErGpeHxWhI6UpN"
     },
     {
       "album": {
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179000,
       "name": "KPONKPO",
       "url": "https://open.spotify.com/track/4E0zFXFHtn5qwHHNSOkK1k"
@@ -2608,7 +2648,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 150624,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/67UP0bBhejSEwTqBbkzDc3"

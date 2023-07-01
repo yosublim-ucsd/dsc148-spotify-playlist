@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-997 songs - 1 day 23 hr 37 min
+999 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [1MADAME PT.2](https://open.spotify.com/track/5c1eleYgiHge9fG2KTrPH9) | [4nesca](https://open.spotify.com/artist/5sVL8H7X4Yxvrt8FVrajuP) | [1MADAME PT.2](https://open.spotify.com/album/6FdXiUfurrYA1Sj6LXiDSq) | 2:45 | 2023-04-17 | 2023-05-05 |
 | [2 AM](https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [2 AM](https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj) | 2:13 | 2022-10-20 | 2022-11-04 |
 | [2016](https://open.spotify.com/track/2pm9DcicKhfolnXZq4dUnk) | [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [2016](https://open.spotify.com/album/6KJFDu5yDuZeNTD7OGOWiU) | 2:38 | 2022-07-28 | 2022-10-21 |
-| [2020 est.](https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [2020 est.](https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU) | 2:08 | 2023-06-01 |  |
+| [2020 est.](https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [2020 est.](https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU) | 2:08 | 2023-06-01 | 2023-07-01 |
 | [21](https://open.spotify.com/track/6PpQ53BTPsLxmrCVDSTxng) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [21](https://open.spotify.com/album/0YMBkYxL3Kjdoja3QOOfgz) | 2:31 | 2022-06-09 | 2022-07-12 |
 | [24's \- German Remix](https://open.spotify.com/track/4K1dqp0VNjE2u9hB09NqoB) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [24's \(German Remix\)](https://open.spotify.com/album/2DkocVb8QF1YZEPns4qCyd) | 2:45 | 2022-12-01 | 2023-01-20 |
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2023-04-06 | 2023-06-16 |
@@ -265,6 +265,7 @@
 | [ELFBAR \(feat\. Skrt Cobain\)](https://open.spotify.com/track/0NmfatHH0v8U3uyvubURs0) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx), [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV) | [ELFBAR \(feat\. Skrt Cobain\)](https://open.spotify.com/album/7b8bCy1LmqmdFYJZ9mOGfw) | 2:04 | 2022-11-17 | 2022-12-09 |
 | [Elfbars](https://open.spotify.com/track/5ukfal4wrVoQSRZfSJBiVp) | [treason434](https://open.spotify.com/artist/0RriK0rVWI9tagJyIux3wF) | [Elfbars](https://open.spotify.com/album/1KM2h8nbbIIBCqdvfAlLf1) | 2:45 | 2022-09-01 | 2022-10-11 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-19 | 2023-01-27 |
+| [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-06-30 |  |
 | [Endlos\_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Endlos\_demo](https://open.spotify.com/album/1kMIcfGn8lMbLwrNAmpnEj) | 2:17 | 2023-01-23 | 2023-03-18 |
 | [Endorphine \- Fabian Farell Remix](https://open.spotify.com/track/169dLSgepMhGniBRWpw4KZ) | [TheDoDo](https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY) | [Endorphine \(Fabian Farell Remix\)](https://open.spotify.com/album/3CdThuxHSY3iM8Vj54Kig9) | 3:16 | 2023-06-22 |  |
 | [Engel](https://open.spotify.com/track/6ru74IGueZLufY6JHklJc9) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Marvin Game](https://open.spotify.com/artist/5Gi9FP1m5OCW7sYwetsUBd) | [Engel](https://open.spotify.com/album/3yiQLEvP0dvk7ittQK3Lya) | 2:53 | 2022-07-04 | 2022-07-12 |
@@ -898,6 +899,7 @@
 | [Up & Down](https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Up & Down](https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F) | 2:34 | 2023-04-20 |  |
 | [Ups & Downs](https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG) | [Theo Junior](https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO) | [Ups & Downs](https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8) | 2:39 | 2022-07-19 | 2022-09-02 |
 | [Upset](https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [Upset](https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk) | 2:32 | 2023-03-24 | 2023-03-31 |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 |  |
 | [Vatos Locos](https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL) | 2:43 | 2023-05-11 | 2023-06-09 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-13 | 2022-06-24 |
 | [venedig \(feat\. kid kapri\)](https://open.spotify.com/track/5JeMKCX14e6uwuiWxSs1jz) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:08 | 2023-03-02 | 2023-03-31 |

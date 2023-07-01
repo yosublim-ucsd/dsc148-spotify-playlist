@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\. Cover: Musiq Soulchild & Destin Conrad
+> The pulse of R&B music today\. Cover: Khamari
 
 326 songs - 18 hr 31 min
 

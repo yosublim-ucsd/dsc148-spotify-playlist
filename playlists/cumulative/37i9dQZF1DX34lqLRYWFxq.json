@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: JULES IS DEAD",
+  "description": "New adventures in rock start here. Cover: The Jins",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 216491,
       "name": "A Beautiful Darkness",
       "url": "https://open.spotify.com/track/06Z65ytAIPcSdlU8lgZyEO"
+    },
+    {
+      "album": {
+        "name": "It's a Life",
+        "url": "https://open.spotify.com/album/6dBoZUYZafPbImH9NeEFtT"
+      },
+      "artists": [
+        {
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234538,
+      "name": "A Clue",
+      "url": "https://open.spotify.com/track/36RfHeopjQ4kuPtNdf63yw"
     },
     {
       "album": {
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 194745,
       "name": "Carole'en",
       "url": "https://open.spotify.com/track/7pEVaUBM0jQKRUDN7BN4Bx"
@@ -1074,6 +1092,24 @@
       "duration_ms": 180528,
       "name": "Cold Turkey",
       "url": "https://open.spotify.com/track/4ZsIidihgiyDrMnNlaqeBT"
+    },
+    {
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/4VLKQ3Zcx1lpspJvxYHBqQ"
+      },
+      "artists": [
+        {
+          "name": "clay pigeon",
+          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231441,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/1oCaTfcU5Skx1H8ekIRxU2"
     },
     {
       "album": {
@@ -1511,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3yI9NW1y3Fy6RnGtxnKOCo"
+      },
+      "artists": [
+        {
+          "name": "The Man Who",
+          "url": "https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7azQ8ywcwrdupUojmscy2o"
+    },
+    {
+      "album": {
         "name": "Dress",
         "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
       },
@@ -1800,7 +1854,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 214088,
       "name": "Find You",
       "url": "https://open.spotify.com/track/4DQBwpxuR4Kj2NIzleqQrZ"
@@ -1822,6 +1876,24 @@
       "duration_ms": 146619,
       "name": "Fingers",
       "url": "https://open.spotify.com/track/0JEAbnqqBQDn6HxsaAX0UQ"
+    },
+    {
+      "album": {
+        "name": "Fire to the Dancefloor",
+        "url": "https://open.spotify.com/album/7A9JskczSN0ANrUMcjO9pZ"
+      },
+      "artists": [
+        {
+          "name": "Sam & The Terrible News",
+          "url": "https://open.spotify.com/artist/2p0fFBbp1chzaz8BtCbssQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Fire to the Dancefloor",
+      "url": "https://open.spotify.com/track/4Ld4w8FWzp6NNvoRvSFwxG"
     },
     {
       "album": {
@@ -2160,7 +2232,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 161323,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/1ryULElwveye7LHLbLQPeO"
@@ -2376,7 +2448,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 167764,
       "name": "Hollywood Ending",
       "url": "https://open.spotify.com/track/12YUVwIZP9ymCIka2EETxj"
@@ -2452,6 +2524,24 @@
       "duration_ms": 237184,
       "name": "I Dream Of You",
       "url": "https://open.spotify.com/track/1mvpuH8Z0DMYUQXBSGaWEW"
+    },
+    {
+      "album": {
+        "name": "I Wish That We Never Met",
+        "url": "https://open.spotify.com/album/6MU6xB8jUxdhEBviLAGOoS"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196318,
+      "name": "I Wish That We Never Met",
+      "url": "https://open.spotify.com/track/1w1RwMi0nKEpCy9nUeYitm"
     },
     {
       "album": {
@@ -2852,7 +2942,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 201114,
       "name": "Laundry Pile",
       "url": "https://open.spotify.com/track/1GBJZjpI8V0EBBcmWKsy1y"
@@ -2949,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/5V0B47aJIAlsWfYYacHyfv"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Lightning Bolt",
+      "url": "https://open.spotify.com/track/5Vgbt9Rt8n2tOANxP2mICc"
+    },
+    {
+      "album": {
         "name": "Lil Brat",
         "url": "https://open.spotify.com/album/2KsuVm0OUbg5NXvGn98Hff"
       },
@@ -2960,7 +3068,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 135013,
       "name": "Lil Brat",
       "url": "https://open.spotify.com/track/29nIr38zFCgB4rNMLONidb"
@@ -3180,7 +3288,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 246620,
       "name": "Man You Raised",
       "url": "https://open.spotify.com/track/6tqLthtnLxAhk7o9vdNJys"
@@ -3313,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Mercy Kill",
+        "url": "https://open.spotify.com/album/6Rg59mdFMLnKENtiaBVYZK"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Gonzales",
+          "url": "https://open.spotify.com/artist/4aOXTZ1hY3VhWkqnJhFn2u"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261971,
+      "name": "Mercy Kill",
+      "url": "https://open.spotify.com/track/718L54rVitFyw7KZQxLLe5"
+    },
+    {
+      "album": {
         "name": "Mercy Mercy",
         "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
       },
@@ -3324,7 +3450,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
@@ -3472,6 +3598,24 @@
       "duration_ms": 160021,
       "name": "Moon Rock Shawty",
       "url": "https://open.spotify.com/track/5QIhnElSIr6PY6bslsFDjf"
+    },
+    {
+      "album": {
+        "name": "My Old Mistakes",
+        "url": "https://open.spotify.com/album/0VcTfY9aDWf47UvhXvm7Sd"
+      },
+      "artists": [
+        {
+          "name": "Wide Mouth Mason",
+          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157328,
+      "name": "My Old Mistakes",
+      "url": "https://open.spotify.com/track/6aQfoEAHUAoOClvFQQFjcP"
     },
     {
       "album": {
@@ -3656,6 +3800,24 @@
       "duration_ms": 208047,
       "name": "Noise in the Forest",
       "url": "https://open.spotify.com/track/5jYpmSMc0KWcj8I2StBaNf"
+    },
+    {
+      "album": {
+        "name": "Normalize",
+        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259868,
+      "name": "Normalize",
+      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
     },
     {
       "album": {
@@ -4651,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
+    },
+    {
+      "album": {
         "name": "Sleepless in LA",
         "url": "https://open.spotify.com/album/6gHBSearYTlqsuXs6rP5M2"
       },
@@ -4680,7 +4860,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 180655,
       "name": "So Mad",
       "url": "https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY"
@@ -4860,7 +5040,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 221293,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/1L2AtASJngCKtTgYE91N0G"
@@ -5749,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2uERL4jIMLn3RPEmR071GO"
+      },
+      "artists": [
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136946,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/70haIg7OWunnGk67oY5UcN"
+    },
+    {
+      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -5994,7 +6192,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 201933,
       "name": "You Pushed Me",
       "url": "https://open.spotify.com/track/01tmrXbE6UPvMLpxMBlmiY"

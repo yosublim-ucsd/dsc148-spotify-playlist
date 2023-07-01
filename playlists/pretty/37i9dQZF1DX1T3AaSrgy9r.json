@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 97138,
+  "num_followers": 97219,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmQ2ZGE4Njc3NmM0MWIzMzA1NjFlZTFmNjE1ZTJiNGUzMzk3NzFh",
+  "snapshot_id": "MCxlM2M2ZjIwNGQwMzUxMjhiZWE4OTdjOWE0ZjFmMDhhNzdkN2UxODkw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 242533,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Metropol",
         "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 192640,
       "name": "Leave You Far Behind",
       "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Decksandrumsandrockandroll 20th anniversary",
-        "url": "https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV"
-      },
-      "artists": [
-        {
-          "name": "Propellerheads",
-          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
-        }
-      ],
-      "duration_ms": 441760,
-      "name": "Take California",
-      "url": "https://open.spotify.com/track/6po71PeJnTDHZdqYcFfAY1"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "New Forms (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 543546,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Decksandrumsandrockandroll 20th anniversary",
+        "url": "https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV"
+      },
+      "artists": [
+        {
+          "name": "Propellerheads",
+          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
+        }
+      ],
+      "duration_ms": 441760,
+      "name": "Take California",
+      "url": "https://open.spotify.com/track/6po71PeJnTDHZdqYcFfAY1"
     },
     {
       "added_at": "2021-07-14 17:36:34",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Faye Webster",
+  "description": "Home to all the latest indie jams. Cover: L'Imp\u00e9ratrice, Cuco",
   "name": "Indie All Stars",
   "tracks": [
+    {
+      "album": {
+        "name": "(I Don't Need A) New Girl",
+        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273080,
+      "name": "(I Don't Need A) New Girl",
+      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
+    },
     {
       "album": {
         "name": "(You) On My Arm",
@@ -304,7 +322,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 166013,
       "name": "A Child's Question, August",
       "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
@@ -915,6 +933,24 @@
     },
     {
       "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "album": {
         "name": "All You Do",
         "url": "https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd"
       },
@@ -1399,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/79qhXBZUFvDZ90kj5svopV"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214131,
+      "name": "Baby Teeth",
+      "url": "https://open.spotify.com/track/5DZQx7Dty5uqJQV9L05rOg"
+    },
+    {
+      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/58fzuYGvgMaZ0TrZsi7P5e"
       },
@@ -1486,7 +1540,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 182184,
       "name": "Bad Actor",
       "url": "https://open.spotify.com/track/5SM5gBWs6VCChdtDUR8Prr"
@@ -2030,7 +2084,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 199948,
       "name": "Block Of Wood",
       "url": "https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16"
@@ -4068,7 +4122,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185500,
       "name": "Cut the Kite String",
       "url": "https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv"
@@ -8059,6 +8113,28 @@
     },
     {
       "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "album": {
         "name": "Heat Lightning",
         "url": "https://open.spotify.com/album/45wp7GoaC2IVvTC8w70Hwx"
       },
@@ -10758,7 +10834,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -11918,7 +11994,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 227744,
       "name": "Matchmaker",
       "url": "https://open.spotify.com/track/2JtbeKqIexKBZXu4zu1siA"
@@ -14510,7 +14586,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 195253,
       "name": "PLACES",
       "url": "https://open.spotify.com/track/5A8XewiUqtsTde9gsLfdLY"
@@ -16125,6 +16201,24 @@
     },
     {
       "album": {
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
+    },
+    {
+      "album": {
         "name": "Sheets of Grey",
         "url": "https://open.spotify.com/album/2i2nkoVKaQ8jfszpG8RJBs"
       },
@@ -16426,6 +16520,24 @@
       "duration_ms": 296591,
       "name": "Skicinuwihkuk",
       "url": "https://open.spotify.com/track/1iD6gepGwhlj6hWLnneXCs"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
     },
     {
       "album": {
@@ -16898,7 +17010,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212851,
       "name": "Sorcery",
       "url": "https://open.spotify.com/track/3HdPQvs6SmerSFSweuwgJk"
@@ -17118,7 +17230,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 189283,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI"
@@ -17234,6 +17346,24 @@
       "duration_ms": 179642,
       "name": "still",
       "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
+    },
+    {
+      "album": {
+        "name": "Still Stained",
+        "url": "https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181676,
+      "name": "Still Stained",
+      "url": "https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa"
     },
     {
       "album": {
@@ -19054,7 +19184,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 137187,
       "name": "Top Dog",
       "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
@@ -19094,6 +19224,24 @@
       "duration_ms": 256620,
       "name": "Touch Back Down",
       "url": "https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V"
+    },
+    {
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
       "album": {
@@ -20509,6 +20657,24 @@
     },
     {
       "album": {
+        "name": "Why Wait",
+        "url": "https://open.spotify.com/album/4xjR1ciLyC1Ickd4lfBkBG"
+      },
+      "artists": [
+        {
+          "name": "Yehra",
+          "url": "https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Why Wait",
+      "url": "https://open.spotify.com/track/6ywwvPKHlkPu1DiXb7sG3F"
+    },
+    {
+      "album": {
         "name": "wide eyed",
         "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
       },
@@ -21162,6 +21328,24 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "album": {
+        "name": "Your Melody",
+        "url": "https://open.spotify.com/album/2oZuZh1ZlbSr6ZVxnRsm6m"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "Your Melody",
+      "url": "https://open.spotify.com/track/6J1EaYbbmuV1G3IDyL7oPL"
     },
     {
       "album": {

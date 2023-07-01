@@ -295,6 +295,32 @@
     },
     {
       "album": {
+        "name": "Crushu Ponnu",
+        "url": "https://open.spotify.com/album/221xzfAS0aodo5AAkYo1RQ"
+      },
+      "artists": [
+        {
+          "name": "Vithun Gopal",
+          "url": "https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217269,
+      "name": "Crushu Ponnu",
+      "url": "https://open.spotify.com/track/6K9UX4O0gJDWB5WA2yKZ8F"
+    },
+    {
+      "album": {
         "name": "Doctors' Anthem",
         "url": "https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy"
       },
@@ -1051,6 +1077,32 @@
     },
     {
       "album": {
+        "name": "Manidha",
+        "url": "https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB"
+      },
+      "artists": [
+        {
+          "name": "Manoj Krishna",
+          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
+        },
+        {
+          "name": "Kalyani Nair",
+          "url": "https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds"
+        },
+        {
+          "name": "Gana Balamurugan",
+          "url": "https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Manidha",
+      "url": "https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV"
+    },
+    {
+      "album": {
         "name": "Mannipaya",
         "url": "https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS"
       },
@@ -1590,6 +1642,24 @@
       "duration_ms": 169411,
       "name": "Pongal Puliyodharai",
       "url": "https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1"
+    },
+    {
+      "album": {
+        "name": "Puppy Shame",
+        "url": "https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u"
+      },
+      "artists": [
+        {
+          "name": "Niranjan Babu",
+          "url": "https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Puppy Shame",
+      "url": "https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs"
     },
     {
       "album": {

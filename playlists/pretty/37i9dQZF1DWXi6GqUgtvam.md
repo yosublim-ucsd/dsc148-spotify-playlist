@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,108 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,211 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 9 | [Prélude en ré mineur](https://open.spotify.com/track/0fw41LXX7qiXgeMi6GSGCX) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh) | [La Mascarade \- Music For Solo Baroque Guitar And Theorbo](https://open.spotify.com/album/1vWEJTnxqM5uVcOmvB69Rp) | 1:15 |
 | 10 | [Ciaccona \(I\)](https://open.spotify.com/track/7jOnhe335cbTJyTiZoPkxg) | [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...](https://open.spotify.com/album/1djXV7bpisc7lSeZWK9Y8e) | 3:52 |
 | 11 | [Frogg Galliard](https://open.spotify.com/track/4uswqnBI5LjRIcTr3LgFcF) | [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy), [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk) | [Dowland \- A Dream](https://open.spotify.com/album/03DIodWT7tCGMsNEUsTi5M) | 2:44 |
-| 12 | [Codex Calixtinus \(Jacobus\) Polyphony, plainchant and instrumental collection\. \(12/13th c\): Dum pater familias](https://open.spotify.com/track/2x9KrrpRjrCGIco8oQ3yJg) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [New London Consort](https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB), [Philip Pickett](https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt) | [Sinners & Saints: The Ultimate Medieval & Renaissance Music Collection](https://open.spotify.com/album/2wKoQ2Nc9BUos73FII4B7o) | 5:29 |
+| 12 | [Codex Calixtinus \(Jacobus\) Polyphony, plainchant and instrumental collection\. \(12/13th c\): Dum pater familias \- Version 1](https://open.spotify.com/track/2x9KrrpRjrCGIco8oQ3yJg) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [New London Consort](https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB), [Philip Pickett](https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt) | [Sinners & Saints: The Ultimate Medieval & Renaissance Music Collection](https://open.spotify.com/album/2wKoQ2Nc9BUos73FII4B7o) | 5:29 |
 | 13 | [The First Part of Ayres, French, Pollish and others together … with Pavines, Galliards, and Almaines \(1605\): I\. A Galiard](https://open.spotify.com/track/5RfAoa1gKK9IK6ld25FaDj) | [Tobias Hume](https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe), [Matteo Cicchitti](https://open.spotify.com/artist/20GMDtM8hUo9RG5GGaUH5y), [Musica Elegentia](https://open.spotify.com/artist/69Repx4UdPmARORAxg5OGN) | [Ricercare E Canzoni](https://open.spotify.com/album/5uquiT1PSQzhxkkTgB2U1Z) | 1:10 |
 | 14 | [Lamento Di Tristano And La Rotta](https://open.spotify.com/track/2hxdofcXRRprDttD4INEyr) | [Cheryl Ann Fulton](https://open.spotify.com/artist/4WZQjddfkBTqhMxJ3LJM8K) | [The Once & Future Harp](https://open.spotify.com/album/6zNObFuUkAdowWx7ZY5kH2) | 5:39 |
 | 15 | [The Dancing Master: Drive the Cold Winter Away](https://open.spotify.com/track/1U29vvxf87m0zcz6GN78dm) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [PRISMA](https://open.spotify.com/artist/1kT9uIlaSJT4OwxMXsXx4I) | [In the Streets of London: A 17th Century Musical Pub Tour](https://open.spotify.com/album/6oHYqLToZU2c7gCrzeaYlc) | 1:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 50 | [The Master Chef of Gastrobury](https://open.spotify.com/track/0aycbYuLLKP00Vxk8nLXtB) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 2](https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD) | 2:08 |
 | 51 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 
-Snapshot ID: `MCwyOTc3NjUzYzE4YjkyMDQ3YTdmNDk5MGU0OWVkYTVkZjdlOTQ3NGUy`
+Snapshot ID: `MCw4NWFhNjIyOTRlMjM2ZDA0YTUxOGIyMDhkNTM5Njc5NGExYzJlYzQ1`

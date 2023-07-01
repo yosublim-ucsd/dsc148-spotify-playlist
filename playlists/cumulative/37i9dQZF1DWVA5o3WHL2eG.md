@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: My Ugly Clementine
 
-932 songs - 2 day 0 hr 58 min
+933 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [In My Darkness](https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04) | [Stella Sommer](https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob) | [In My Darkness](https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2) | 2:41 | 2022-10-04 | 2022-11-08 |
 | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/3t4CxOo3uiixiMpZR5XsaV) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/5S4jylXijHKHNujMW9pQzv) | 2:11 | 2022-11-07 | 2022-11-09 |
 | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps) | 2:11 | 2022-11-07 | 2022-12-01 |
-| [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 | 2023-06-06 |  |
+| [In Theory Depression](https://open.spotify.com/track/5KDqKsWZzi1B3onTrubOZB) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Easy Out](https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY) | 3:09 | 2023-06-06 |  |
+| [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 | 2023-06-06 | 2023-07-01 |
 | [Indigo](https://open.spotify.com/track/4lD0cG6PVz75ls72cr1746) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Indigo](https://open.spotify.com/album/7MtTMjim0m7cA8d5jC51fd) | 2:17 | 2023-01-31 | 2023-03-01 |
 | [Innig](https://open.spotify.com/track/7jbQIpN7nz84Z7ptY6b2ak) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Innig](https://open.spotify.com/album/73E0At64aluYFZ5BFk0V9M) | 4:45 | 2023-04-04 | 2023-05-03 |
 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 | 2023-01-03 | 2023-02-01 |

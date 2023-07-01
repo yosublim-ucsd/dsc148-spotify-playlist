@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: Lee Fields\n",
-  "num_followers": 194572,
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "num_followers": 194688,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmNmZmJhYzU1MWYwOWU1ZDU1NzQ3YTFhY2E1NjAwMjI4NGQ5MGNl",
+  "snapshot_id": "MCwxMGQxN2YzYjA2MjRiZGJjNDM0NmI3YjM5ZThhNDAyMDBlMGY1ZjIz",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Come Around And Love Me",
+        "url": "https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Come Around and Love Me",
+      "url": "https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN"
+    },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
@@ -59,6 +75,22 @@
       "duration_ms": 196250,
       "name": "Slippin",
       "url": "https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Dreaming In Slow Motion",
+        "url": "https://open.spotify.com/album/2t2e95aPXSWBFsaZnMVtir"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 172869,
+      "name": "Dreaming In Slow Motion",
+      "url": "https://open.spotify.com/track/6Vdz3UiPla1jOIlVUmNa1x"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -149,20 +181,24 @@
       "url": "https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW"
     },
     {
-      "added_at": "2023-06-02 04:01:00",
+      "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "In Your Corner",
-        "url": "https://open.spotify.com/album/7EJxq8Zz1Hzn8AtCyHbFsa"
+        "name": "Shake Shake",
+        "url": "https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        },
+        {
+          "name": "Voli Contra",
+          "url": "https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM"
         }
       ],
-      "duration_ms": 217906,
-      "name": "In Your Corner",
-      "url": "https://open.spotify.com/track/4IBg6ZjiS570apL3CJQhVk"
+      "duration_ms": 145714,
+      "name": "Shake Shake",
+      "url": "https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -211,6 +247,22 @@
       "duration_ms": 139506,
       "name": "No Rewrites",
       "url": "https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Don't Knock Upon My Door",
+        "url": "https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Explosion",
+          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Don't Knock Upon My Door",
+      "url": "https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -319,6 +371,26 @@
       "duration_ms": 243720,
       "name": "Waiting on the Sidelines",
       "url": "https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "i found a diamond",
+        "url": "https://open.spotify.com/album/2DtOE3ffS4sZakYgD3VMIm"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 248354,
+      "name": "i found a diamond",
+      "url": "https://open.spotify.com/track/3oRbkpNDMAIfwaLgWg6yco"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -493,22 +565,6 @@
       "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Sadie",
-        "url": "https://open.spotify.com/album/7nXFbaFq3Z9gGPZnE8wew8"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/2Nq1CHPEOt21w1ctEaV22j"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Woman",
@@ -543,22 +599,6 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -989,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy"
     },
     {
-      "added_at": "2021-12-07 15:05:42",
-      "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "hey rose",
-      "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
-    },
-    {
       "added_at": "2022-02-15 17:48:45",
       "album": {
         "name": "Jean Leon",
@@ -1335,22 +1359,6 @@
       "duration_ms": 155120,
       "name": "Always",
       "url": "https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Poppyseed",
-        "url": "https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn"
-      },
-      "artists": [
-        {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
-        }
-      ],
-      "duration_ms": 259183,
-      "name": "Poppyseed",
-      "url": "https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE"
     },
     {
       "added_at": "2022-03-11 05:02:00",

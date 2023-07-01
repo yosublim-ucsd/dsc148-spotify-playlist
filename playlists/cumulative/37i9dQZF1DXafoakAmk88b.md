@@ -2,7 +2,7 @@
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New indie driving the current\. Cover: hemlocke springs
+> New indie driving the current\. Cover: Joy Oladokun
 
 343 songs - 18 hr 4 min
 

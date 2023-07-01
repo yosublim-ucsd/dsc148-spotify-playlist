@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 61754,
+  "num_followers": 61796,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FjMTU3ZjdiNzk1Y2EyZTM1MjAxNTVmODNiMDg3ZTE0ZTlhNzk1",
+  "snapshot_id": "MCw2ZTkzZmU3YTMwZDA4Mzg0NGY1NjJlY2NkYTg4ZDJhOWVhMzA5YTI1",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Chapter One",
-        "url": "https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        }
-      ],
-      "duration_ms": 210016,
-      "name": "Time To Realize",
-      "url": "https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "ROMBORAMA",
         "url": "https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 253000,
       "name": "Cornelius",
       "url": "https://open.spotify.com/track/4LnYDT25GCV0za9cuzhzOI"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        }
+      ],
+      "duration_ms": 210016,
+      "name": "Time To Realize",
+      "url": "https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Al\u00e9sia",
-        "url": "https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km"
-      },
-      "artists": [
-        {
-          "name": "Housse de Racket",
-          "url": "https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Roman",
-      "url": "https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Soundboy Rock",
         "url": "https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 275080,
       "name": "Love Sweet Sound",
       "url": "https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Al\u00e9sia",
+        "url": "https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km"
+      },
+      "artists": [
+        {
+          "name": "Housse de Racket",
+          "url": "https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Roman",
+      "url": "https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9"
     },
     {
       "added_at": "2022-08-24 22:29:13",

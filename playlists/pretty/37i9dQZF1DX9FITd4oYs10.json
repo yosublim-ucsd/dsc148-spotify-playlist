@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16426,
+  "num_followers": 16432,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl",
+  "snapshot_id": "MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Convoque Seu Buda",
+        "url": "https://open.spotify.com/album/1ULzlYxHYd9oyAXqvZ7Afz"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Convoque Seu Buda",
+      "url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Convoque Seu Buda",
-        "url": "https://open.spotify.com/album/1ULzlYxHYd9oyAXqvZ7Afz"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Convoque Seu Buda",
-      "url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Cacife Gold, Vol. 1",
         "url": "https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
-        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Santzu",
-          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 294913,
-      "name": "Vem Tranquilo",
-      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Nao Sei Mais",
         "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
       },
@@ -1271,34 +1247,26 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
+        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
+        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
       },
       "artists": [
         {
-          "name": "Entre Linhas",
-          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Kuririn",
-          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+          "name": "Santzu",
+          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
         },
         {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         }
       ],
-      "duration_ms": 217392,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
+      "duration_ms": 294913,
+      "name": "Vem Tranquilo",
+      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1331,6 +1299,38 @@
       "duration_ms": 186666,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
+      },
+      "artists": [
+        {
+          "name": "Entre Linhas",
+          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
+        },
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
     },
     {
       "added_at": "2023-03-10 03:01:00",

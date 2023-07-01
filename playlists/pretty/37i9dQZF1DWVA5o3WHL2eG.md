@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,252 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,264 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [Can't Choose \(feat\. Kiara Nelson\)](https://open.spotify.com/track/6LAlZuA1IhylVnInqNWo2j) | [LARI LUKE](https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Can't Choose \(feat\. Kiara Nelson\)](https://open.spotify.com/album/0XKxoMgjpIgS7drq1OI0yZ) | 2:31 |
 | 6 | [powerpuff girl](https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ) | [powerpuff girl](https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv) | 1:54 |
 | 7 | [BTS](https://open.spotify.com/track/0PeWtgdkQU1cRhbKuxL0sq) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [BTS](https://open.spotify.com/album/3iL80PElX9RqZdXZ5kui1W) | 2:08 |
-| 8 | [ANTI](https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [ANTI](https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL) | 2:24 |
-| 9 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
+| 8 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
+| 9 | [ANTI](https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [ANTI](https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL) | 2:24 |
 | 10 | [Bitte Bitte](https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Bitte Bitte](https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf) | 3:42 |
 | 11 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 |
 | 12 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Is it weird?](https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Is it weird?](https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z) | 3:01 |
 | 38 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
 | 39 | [Sie reden so laut](https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Ein fragiles System](https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF) | 2:27 |
-| 40 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
-| 41 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
-| 42 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
-| 43 | [Lose My Mind \- Original Mix](https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Lose My Mind EP](https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9) | 6:21 |
-| 44 | [Lichter](https://open.spotify.com/track/3j59l8ANGh5Ze7DJodeWuP) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Rauschgift](https://open.spotify.com/album/22E0iIjFU6XHJYtxg3ztFV) | 3:15 |
-| 45 | [Downtown](https://open.spotify.com/track/5f4UxtW0BHmIXXgZfART7J) | [LUNYA](https://open.spotify.com/artist/42NbfguO5qr3hJSahHb8kL) | [if everything could stay this way](https://open.spotify.com/album/6SdpW7UBLOh6NsukshgM4h) | 2:42 |
-| 46 | [Made For This](https://open.spotify.com/track/6QH11lJR1WmF7fcsNehgm9) | [Maria Basel](https://open.spotify.com/artist/7bG0R0A7ysGORFgSyyuWfR) | [Made For This](https://open.spotify.com/album/0NaoFudz9gsW1T2zrbOTSe) | 3:50 |
-| 47 | [Nothing At All](https://open.spotify.com/track/5Iv1gAJNpxBX0KpfoAhAnK) | [Louisa Laos](https://open.spotify.com/artist/0D6kOkvNWkdwl7NLHOFF8W) | [INTRO](https://open.spotify.com/album/4eRX0RliGlT4HkZxcTkbiG) | 2:58 |
-| 48 | [Eyelash](https://open.spotify.com/track/2GRgFq6vsynTtzLkIl4fE5) | [Zylva](https://open.spotify.com/artist/0qLyc7ekSn9O9tQviQObWM) | [Poems from the Dark](https://open.spotify.com/album/4k5x5VzL0ubLA5emMHUtib) | 2:59 |
-| 49 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
+| 40 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
+| 41 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
+| 42 | [Lose My Mind \- Original Mix](https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Lose My Mind EP](https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9) | 6:21 |
+| 43 | [Lichter](https://open.spotify.com/track/3j59l8ANGh5Ze7DJodeWuP) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Rauschgift](https://open.spotify.com/album/22E0iIjFU6XHJYtxg3ztFV) | 3:15 |
+| 44 | [Downtown](https://open.spotify.com/track/5f4UxtW0BHmIXXgZfART7J) | [LUNYA](https://open.spotify.com/artist/42NbfguO5qr3hJSahHb8kL) | [if everything could stay this way](https://open.spotify.com/album/6SdpW7UBLOh6NsukshgM4h) | 2:42 |
+| 45 | [Made For This](https://open.spotify.com/track/6QH11lJR1WmF7fcsNehgm9) | [Maria Basel](https://open.spotify.com/artist/7bG0R0A7ysGORFgSyyuWfR) | [Made For This](https://open.spotify.com/album/0NaoFudz9gsW1T2zrbOTSe) | 3:50 |
+| 46 | [Nothing At All](https://open.spotify.com/track/5Iv1gAJNpxBX0KpfoAhAnK) | [Louisa Laos](https://open.spotify.com/artist/0D6kOkvNWkdwl7NLHOFF8W) | [INTRO](https://open.spotify.com/album/4eRX0RliGlT4HkZxcTkbiG) | 2:58 |
+| 47 | [Eyelash](https://open.spotify.com/track/2GRgFq6vsynTtzLkIl4fE5) | [Zylva](https://open.spotify.com/artist/0qLyc7ekSn9O9tQviQObWM) | [Poems from the Dark](https://open.spotify.com/album/4k5x5VzL0ubLA5emMHUtib) | 2:59 |
+| 48 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
+| 49 | [In Theory Depression](https://open.spotify.com/track/5KDqKsWZzi1B3onTrubOZB) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Easy Out](https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY) | 3:09 |
 | 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl`
+Snapshot ID: `MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy`

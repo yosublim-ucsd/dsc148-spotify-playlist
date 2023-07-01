@@ -498,7 +498,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185177,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/769RG4z159DPXlwi45fiU8"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 155510,
       "name": "Completa",
       "url": "https://open.spotify.com/track/5NZME2xyp0vbOA3HdIWfWb"
@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Me Pede Mais",
+        "url": "https://open.spotify.com/album/2fiATUugLNGtP0GOx3nnuI"
+      },
+      "artists": [
+        {
+          "name": "Wilker",
+          "url": "https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144264,
+      "name": "Me Pede Mais",
+      "url": "https://open.spotify.com/track/0eksm4vKtCSSlC9WyzI1ea"
+    },
+    {
+      "album": {
         "name": "Meia Volta",
         "url": "https://open.spotify.com/album/0RNzuKlwKrZvU7xwPgEgGP"
       },
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 158644,
       "name": "Oriental",
       "url": "https://open.spotify.com/track/2p84551ijesweM1w0xQsd8"
@@ -2723,6 +2745,28 @@
     },
     {
       "album": {
+        "name": "Sextape",
+        "url": "https://open.spotify.com/album/1Kqlth2PZKbMgAh6WfysZT"
+      },
+      "artists": [
+        {
+          "name": "Debbys",
+          "url": "https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183589,
+      "name": "Sextape",
+      "url": "https://open.spotify.com/track/7LZ5es6x2fPQ6Jo36hZh6G"
+    },
+    {
+      "album": {
         "name": "Trilogia Triunfo",
         "url": "https://open.spotify.com/album/3Jnl5a8gRGO8omxruOlqmY"
       },
@@ -2888,6 +2932,40 @@
       "duration_ms": 152009,
       "name": "Tira Roupa",
       "url": "https://open.spotify.com/track/0woJpVZkFHMhJNdJ0OupYP"
+    },
+    {
+      "album": {
+        "name": "Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7wdJveXfB0dVqbbPdR5zUD"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klauss",
+          "url": "https://open.spotify.com/artist/0bZivyTNoMgVXGCFgiWCUY"
+        },
+        {
+          "name": "Lucas Chief",
+          "url": "https://open.spotify.com/artist/2Z5T5UanKvhyUyKuUv3hFe"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Topless",
+      "url": "https://open.spotify.com/track/5wJcBm3R1DgaU42b7EpcJd"
     },
     {
       "album": {

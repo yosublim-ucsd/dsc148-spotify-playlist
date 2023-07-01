@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-283 songs - 17 hr 48 min
+284 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Riverbottom](https://open.spotify.com/track/7iHqJkRnL9sRKpcFzgfVl1) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Holy Smokes](https://open.spotify.com/album/2S3ONL0LSb05Xjh7CzIaZZ) | 3:29 | 2021-12-17 | 2022-07-29 |
 | [Sallisaw Blue](https://open.spotify.com/track/7Blrv4fr8DwRcytz8qrvtW) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Big Bad Luv](https://open.spotify.com/album/4pxeXBb1UCiK6P38Cvg9Hw) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [Sallisaw Blue](https://open.spotify.com/track/7jwSBQRGaNUaxtXWqM2Tr3) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Big Bad Luv](https://open.spotify.com/album/4mPaLhuZ8kBeUab4oTAXyE) | 3:57 | 2022-07-22 |  |
+| [Scared Money](https://open.spotify.com/track/77mszRgKKwWtTj5DvJrt85) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Scared Money](https://open.spotify.com/album/6aVoRUTwojtJp3dGw5PjEi) | 2:57 | 2023-06-30 |  |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 | 2022-07-22 |  |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-12-17 | 2022-07-29 |
 | [Shape Shifter](https://open.spotify.com/track/0BB7n43s5Wx7DiGWwMDT1t) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Shape Shifter](https://open.spotify.com/album/5pitP0omHnLnrIB0lKiNjH) | 3:51 | 2021-12-17 | 2022-07-29 |

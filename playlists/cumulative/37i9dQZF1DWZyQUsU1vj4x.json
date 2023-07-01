@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "Brave Are the Waves",
+        "url": "https://open.spotify.com/album/6upCEAEHiChDghpLuHXG0H"
+      },
+      "artists": [
+        {
+          "name": "The Leisure Society",
+          "url": "https://open.spotify.com/artist/6SzmRtk9EnP5q1rqfqbfSW"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Brave Are the Waves",
+      "url": "https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq"
+    },
+    {
+      "album": {
         "name": "Parallels, Vol. II",
         "url": "https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu"
       },

@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 199093,
       "name": "No Pinches Mames",
       "url": "https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg"
@@ -2472,6 +2472,24 @@
       "duration_ms": 215746,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
+    },
+    {
+      "album": {
+        "name": "Vuelo Cancelado",
+        "url": "https://open.spotify.com/album/5Gkt9dt7a1WViQGPD6W42m"
+      },
+      "artists": [
+        {
+          "name": "Juan Cirerol",
+          "url": "https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203479,
+      "name": "Vuelo Cancelado",
+      "url": "https://open.spotify.com/track/2uN4vdPlM8Lac0DlY1hpQl"
     },
     {
       "album": {

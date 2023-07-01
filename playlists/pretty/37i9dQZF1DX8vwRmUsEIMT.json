@@ -1,13 +1,29 @@
 {
   "description": "All the new music you need to hear right now. Cover: Olivia Dean",
-  "num_followers": 545008,
+  "num_followers": 545024,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmJlNWFiZjBiMWFiZDk4NjcwZjMxNjkwOWM1M2FhYzRiYzZhMjg4",
+  "snapshot_id": "MCwxYmNmMjIwYjI3ZmViMGRkOTc1MDg5OWFmMDE5ZWU1YTNjZmJjZjQ1",
   "tracks": [
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {

@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "American Pastoral",
+        "url": "https://open.spotify.com/album/03g2OhvmhKFrK6uZ5ZJ3SV"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "American Pastoral",
+      "url": "https://open.spotify.com/track/2MbRWtul1s1LOn8AGsj8iC"
+    },
+    {
+      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1377,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Shaken By A Low Sound (Deluxe)",
+        "url": "https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221016,
+      "name": "Ecstasy (Instrumental Edit)",
+      "url": "https://open.spotify.com/track/4Eh0EzmssbxXKjPBKXd0EB"
+    },
+    {
+      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212975,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp"
@@ -5244,6 +5280,24 @@
       "duration_ms": 315309,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
+    },
+    {
+      "album": {
+        "name": "Wild Dream",
+        "url": "https://open.spotify.com/album/18bJkaCpi9l63q4vaLFps7"
+      },
+      "artists": [
+        {
+          "name": "Two Runner",
+          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192714,
+      "name": "Wild Dream",
+      "url": "https://open.spotify.com/track/4QFYqi5f8HLeBtZjU6QXWO"
     },
     {
       "album": {

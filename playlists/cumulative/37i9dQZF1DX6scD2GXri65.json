@@ -49,6 +49,54 @@
     },
     {
       "album": {
+        "name": "ARCEUS",
+        "url": "https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Overdrive",
+          "url": "https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp"
+        },
+        {
+          "name": "Und3rsound",
+          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "ARCEUS",
+      "url": "https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd"
+    },
+    {
+      "album": {
+        "name": "Bassline Rampage",
+        "url": "https://open.spotify.com/album/5XANwJKyvXOc3kAktvhyZG"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        },
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Bassline Rampage",
+      "url": "https://open.spotify.com/track/75zBDtdf6l36bKNP6cCuR4"
+    },
+    {
+      "album": {
         "name": "Before I Wake",
         "url": "https://open.spotify.com/album/03shY44GfauTzF4uVsDZiV"
       },
@@ -104,6 +152,32 @@
       "duration_ms": 190503,
       "name": "Bonkerz",
       "url": "https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM"
+    },
+    {
+      "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196576,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
     },
     {
       "album": {
@@ -249,6 +323,24 @@
     },
     {
       "album": {
+        "name": "CHAINSAW",
+        "url": "https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl"
+    },
+    {
+      "album": {
         "name": "Chase The Sun (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
       },
@@ -282,7 +374,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 216000,
       "name": "CLUB BANGER",
       "url": "https://open.spotify.com/track/72j7y7nVfhi69H8X8oRbye"
@@ -330,7 +422,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
@@ -492,6 +584,24 @@
       "duration_ms": 176516,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/6AWeDqvevggPd0FITDYshW"
+    },
+    {
+      "album": {
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/1GYyPR5JjoWHuJtCpHC6Kq"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "Disruption",
+      "url": "https://open.spotify.com/track/7llaEU5vkPVjkHE3DaRVb4"
     },
     {
       "album": {
@@ -2680,7 +2790,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 182168,
       "name": "Trip To Mars (Astronauts)",
       "url": "https://open.spotify.com/track/7kUBocchlTtTZVNplR9ZJI"
@@ -2818,7 +2928,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 241556,
       "name": "Unleash The Fire",
       "url": "https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT"
@@ -2936,7 +3046,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 267870,
       "name": "Vault Hunter",
       "url": "https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L"

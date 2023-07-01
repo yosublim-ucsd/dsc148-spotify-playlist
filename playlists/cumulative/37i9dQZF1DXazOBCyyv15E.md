@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: The Last Dinner Party
 
-1,600 songs - 3 day 23 hr 8 min
+1,601 songs - 3 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [All These Dreams](https://open.spotify.com/track/28eC3Q6LQeP7ZJ4VYtpvMN) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [All These Dreams](https://open.spotify.com/album/6wIUAvOBQ6riiRHElALRGN) | 3:03 | 2022-03-18 | 2022-04-08 |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-25 | 2022-09-23 |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2020-11-27 | 2021-03-06 |
-| [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 | 2023-06-29 |  |
+| [Alps](https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl) | 5:30 | 2023-06-29 |  |
+| [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 | 2023-06-29 | 2023-07-01 |
 | [Already Falling](https://open.spotify.com/track/2wuY9q7HFYnOYUHy7QHz2d) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Already Falling](https://open.spotify.com/album/0hmQO6qgPmxqL4kzszSl4C) | 4:15 | 2021-02-06 | 2021-04-23 |
 | [am i being followed...?](https://open.spotify.com/track/1PZkbVuUhcQssLceCG7lLD) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [sick to my stomach](https://open.spotify.com/album/24jDeh08le3LGpOAb6SXXu) | 3:33 | 2023-02-24 | 2023-05-19 |
 | [Amateur](https://open.spotify.com/track/39MzfwZjkbGSbnccjf5E5j) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Amateur](https://open.spotify.com/album/2ZSTag8VupMhvtzBg2R4aP) | 4:39 | 2021-03-14 | 2021-05-28 |

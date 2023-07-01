@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Drillionaire, Lazza, BLANCO, Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,482 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,033 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [CHIARA](https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CHIARA](https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1) | 2:54 |
 | 50 | [FRAGILE](https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/01ZdL53MnBydytqMj22cIH) | 3:32 |
 
-Snapshot ID: `MCw1MzI2YTM0NzBmMTMwN2JmNmEyZmY3NTI3MGJkZWZjM2M2N2Y5NmIy`
+Snapshot ID: `MCxkMzIwMjkyOGNmZjM3YjUzZTViYzM3M2E4ZTViYWRlM2Q1OGQyY2Iy`

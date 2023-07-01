@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:I.M\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:YUNHWAY\)
 
-918 songs - 2 day 2 hr 47 min
+919 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Call Me Up \(Feat\. Claire Hau\)](https://open.spotify.com/track/7kbNPLs7bvIkywVodFz3g5) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:22 | 2022-07-14 | 2022-10-15 |
 | [CAME](https://open.spotify.com/track/0ggujxroa3Llaye8P9jXP1) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f) | [CAME](https://open.spotify.com/album/6wbc7OeyMOtJhQhYgjjxNE) | 3:04 | 2022-01-24 | 2022-05-06 |
 | [Can't Stop](https://open.spotify.com/track/1lT1g1DGPZTRCexN8IQU3Y) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Can't Stop](https://open.spotify.com/album/0cVojoCmTL5yCISn9QetGv) | 1:59 | 2022-12-09 | 2022-12-20 |
+| [Carpe Diem \(feat\. SILKYBOIS\)](https://open.spotify.com/track/4B8F8POgJcQBlAxX4WePJF) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy), [SILKYBOIS](https://open.spotify.com/artist/19e5d7VkNQCFklPG8Iqdy5) | [YUNHWAY](https://open.spotify.com/album/0BcZ5qFXpawQWUXSElCEC8) | 4:09 | 2023-06-30 |  |
 | [Cassie \($\) \(prod\. PEEJAY\)](https://open.spotify.com/track/5WpbLx20bl49MQkgIZPDRr) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Cassie \($\)](https://open.spotify.com/album/15koRgGCVhinzEUlcMGGaG) | 3:00 | 2022-09-19 | 2022-10-27 |
 | [Catch \(Feat\. Hwa Sa\)](https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:44 | 2023-02-01 |  |
 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 | 2022-03-18 | 2022-05-06 |

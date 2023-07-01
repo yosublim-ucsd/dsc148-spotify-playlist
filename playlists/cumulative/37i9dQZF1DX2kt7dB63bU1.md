@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-616 songs - 1 day 19 hr 17 min
+617 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [If This Was](https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [If This Was](https://open.spotify.com/album/7Ed4UdAZsXXVqeDAE1xI4t) | 4:11 | 2020-10-09 | 2022-02-19 |
 | [If You Believe](https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Parallel Motion](https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I) | 4:48 | 2022-08-26 |  |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2020-10-23 | 2022-02-19 |
-| [In a Mellow Tone](https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG), [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [In a Mellow Tone](https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK) | 5:41 | 2022-10-28 |  |
+| [In a Mellow Tone](https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG), [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [In a Mellow Tone](https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK) | 5:41 | 2022-10-28 | 2023-07-01 |
 | [In France they kiss on main street](https://open.spotify.com/track/17Ck9L9rEHlugzfZqF5mfH) | [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [In France they kiss on main street](https://open.spotify.com/album/6EN1IxzMj7MYji81Mt18Hq) | 3:48 | 2022-02-18 | 2022-07-01 |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6dLMJre4euytKiy4llaKw4) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6QxYtpGQeOnOpD99IWH0vQ) | 3:00 | 2021-02-19 | 2022-07-29 |
 | [In the Wee Small Hours of the Morning \(feat\. Jacob Collier\)](https://open.spotify.com/track/7xSWHCMlpRJHCGakzH8TYc) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [In the Wee Small Hours of the Morning \(feat\. Jacob Collier\)](https://open.spotify.com/album/0TXFSxrFzaxgwn5Fke3WWq) | 3:52 | 2023-06-23 |  |
@@ -543,6 +543,7 @@
 | [They Can't Take That Away From Me](https://open.spotify.com/track/0V3RUFrfJ71hezlZOgEXTI) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [They Can't Take That Away From Me](https://open.spotify.com/album/1O6o4OW0vfLS6sGV1VA5dz) | 2:38 | 2022-05-13 | 2023-03-18 |
 | [They Say It's Spring](https://open.spotify.com/track/18UXGACErp6VwySRavPglK) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 4:48 | 2023-03-24 |  |
 | [They Say It's Spring](https://open.spotify.com/track/6i5utOAbdSFJL88NeaKTmD) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [They Say It's Spring](https://open.spotify.com/album/6kshTowa1Ikhg1rLcHDhPX) | 4:48 | 2023-03-24 | 2023-06-24 |
+| [Third Time's the Charm](https://open.spotify.com/track/6tisjXGvkpnLQua7CO1R6E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:21 | 2023-06-30 |  |
 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 | 2022-03-04 | 2023-02-25 |
 | [Thoughts and Prayers](https://open.spotify.com/track/51g81iRcQSaOKfgEHl8qwu) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Thoughts and Prayers](https://open.spotify.com/album/6WpH55pVliCD9gGVrXfYJ8) | 4:06 | 2020-10-09 | 2022-02-06 |
 | [Three Cigarettes in an Ashtray](https://open.spotify.com/track/6nlynVbgwm6bavyuQw39Yo) | [Lisa Bassenge](https://open.spotify.com/artist/2Tu3n9U5KukRqEgdruLGWg) | [Three Cigarettes in an Ashtray](https://open.spotify.com/album/2aDIAQHC0mqfwxjbWOlIjR) | 3:07 | 2020-10-09 | 2022-02-19 |

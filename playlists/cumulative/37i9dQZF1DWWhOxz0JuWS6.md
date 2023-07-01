@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-521 songs - 1 day 13 hr 40 min
+522 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Ceremony](https://open.spotify.com/track/2x3QOPnAfn57SFG8EOafDm) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:58 | 2022-01-05 | 2022-05-25 |
 | [Chain Lightnin'](https://open.spotify.com/track/7j9PEQdO46RhXWpEUWwIlZ) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Special Forces](https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW) | 5:06 | 2020-12-08 | 2022-07-29 |
 | [Charlie Don't Surf \- Remastered](https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:54 | 2020-12-08 |  |
-| [Cherokee](https://open.spotify.com/track/2Gah9qQMVdxCZJllU9HmnZ) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:12 | 2020-12-08 |  |
+| [Cherokee](https://open.spotify.com/track/2Gah9qQMVdxCZJllU9HmnZ) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:12 | 2020-12-08 | 2023-07-01 |
 | [Chilly Down](https://open.spotify.com/track/33cnHvf25gRxFkKI9LaSbA) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Labyrinth \(From The Original Soundtrack Of The Jim Henson Film\)](https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74) | 3:45 | 2020-12-08 | 2022-07-21 |
 | [China Girl](https://open.spotify.com/track/228eUJ7kzAROZJjERsd6Ef) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:34 | 2020-12-08 | 2022-07-13 |
 | [China White \- 2015 Remaster](https://open.spotify.com/track/6WrEVf2zlhQH2e6yvKCviG) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 6:59 | 2020-12-08 | 2022-07-22 |
@@ -347,6 +347,7 @@
 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 | 2020-12-08 |  |
 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 | 2020-12-08 |  |
 | [Rock and Roll Girls](https://open.spotify.com/track/5DeuAlTIDflXOomztXYM5D) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:26 | 2020-12-08 |  |
+| [Rock Me](https://open.spotify.com/track/0OhusLY3xIViFynFjTi4EA) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/3mdyS3MKYPnMopSlMlqFUc) | 7:19 | 2022-11-17 |  |
 | [Rock Me](https://open.spotify.com/track/0u6toDywZABXlUBq76iPKW) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/7L3JfVjB7PpYEqDkWeJkAz) | 7:19 | 2020-12-08 | 2023-05-13 |
 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 | 2020-12-08 |  |
 | [Rocket Queen](https://open.spotify.com/track/0xaNdYwK8ZF3cHSjraQGC0) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:13 | 2020-12-08 |  |

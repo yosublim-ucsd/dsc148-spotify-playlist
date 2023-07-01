@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 371880,
       "name": "Mamu Remix - Remix",
       "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 187988,
       "name": "Mume Wa Mtu Ni Sumu",
       "url": "https://open.spotify.com/track/6rOlkX2X20z6XecgN6jIMm"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 211371,
       "name": "Niwataje",
       "url": "https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP"
@@ -1114,6 +1114,28 @@
       "duration_ms": 289640,
       "name": "Shemeji",
       "url": "https://open.spotify.com/track/7iipqXuExfDhxf9DCxASFx"
+    },
+    {
+      "album": {
+        "name": "Simu Yangu (Remix)",
+        "url": "https://open.spotify.com/album/1lQ6mMdnmZ44RFxY3y6EgH"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Mbrasil",
+          "url": "https://open.spotify.com/artist/2y4fe1JlBfqMTvScV2lYu6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224440,
+      "name": "Simu Yangu - Remix",
+      "url": "https://open.spotify.com/track/0a7roGzPErbKY6NLCZPSq4"
     },
     {
       "album": {

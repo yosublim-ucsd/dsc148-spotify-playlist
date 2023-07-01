@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: J. Cole",
+  "description": "Chillout hip-hop vibes. Cover: Cordae",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -558,6 +558,28 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/1zsvNxaSnNY0jp0lW6NeLw"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "All Night Long (feat. Topaz Jones)",
+      "url": "https://open.spotify.com/track/0fxRDt2MBXFPJSScpgrzSC"
     },
     {
       "album": {
@@ -1884,7 +1906,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 150361,
       "name": "CHICAGO MOTORSPORTS (featuring Vic Mensa & KAMI)",
       "url": "https://open.spotify.com/track/55Vb135dWiga1TKfJzhxum"
@@ -2729,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "HOW MUCH DOES A PEACE OF MIND COST?",
+        "url": "https://open.spotify.com/album/3GLkzBAaCGXEpvOT8aMUr5"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Lucas Quinn",
+          "url": "https://open.spotify.com/artist/0yL7jHvJY3Pe3li1PuGI9f"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Depreciating Assets",
+      "url": "https://open.spotify.com/track/5mMWiIX6vTufOLB1WJIlux"
+    },
+    {
+      "album": {
         "name": "Peace \"Fly\" God",
         "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
       },
@@ -3271,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "THE BADDEST MAN ON THE PLANET",
+        "url": "https://open.spotify.com/album/2xYTXmvbGCgSb4WPbddetX"
+      },
+      "artists": [
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136119,
+      "name": "ebt",
+      "url": "https://open.spotify.com/track/0OV7Rv2qX4Rc7fMl9kywGu"
+    },
+    {
+      "album": {
         "name": "Eee Zee",
         "url": "https://open.spotify.com/album/07osvOkL07RkoPMQDvqYqQ"
       },
@@ -3716,6 +3778,28 @@
       "duration_ms": 208962,
       "name": "Find Hope",
       "url": "https://open.spotify.com/track/4qZmVQw7vABIHChMfaUeZ6"
+    },
+    {
+      "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Jennifair",
+          "url": "https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172721,
+      "name": "Fireplace (feat. Jennifair)",
+      "url": "https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o"
     },
     {
       "album": {
@@ -4344,7 +4428,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 149495,
       "name": "God Send",
       "url": "https://open.spotify.com/track/2PMVWZLddY4ARiHSBWOx8b"
@@ -4885,6 +4969,28 @@
     },
     {
       "album": {
+        "name": "'Decent",
+        "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0lI6bcLOGESsL1nW4VSVre"
+    },
+    {
+      "album": {
         "name": "Get Used To It",
         "url": "https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO"
       },
@@ -5168,7 +5274,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 150000,
       "name": "I Still Don't Cry",
       "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
@@ -6000,7 +6106,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204106,
       "name": "Let It Breathe",
       "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
@@ -6370,7 +6476,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 157729,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/0H6VN4bvzy7mJ4Jx5T90vO"
@@ -6509,6 +6615,32 @@
     },
     {
       "album": {
+        "name": "VICES",
+        "url": "https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Marble Columns (feat. Larry June)",
+      "url": "https://open.spotify.com/track/3IPSBSVqnwlWu2wsexdHqo"
+    },
+    {
+      "album": {
         "name": "Dollar Menu",
         "url": "https://open.spotify.com/album/3aQjgylGN3kd7rTPsi6gaK"
       },
@@ -6603,6 +6735,28 @@
     },
     {
       "album": {
+        "name": "'Decent",
+        "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193381,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/4GVR6ByANiD9OuirszuC8A"
+    },
+    {
+      "album": {
         "name": "Middle School",
         "url": "https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O"
       },
@@ -6618,6 +6772,32 @@
       "duration_ms": 148498,
       "name": "Middle School",
       "url": "https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN"
+    },
+    {
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Midnight Oil (feat. Larry June & Jay Worthy)",
+      "url": "https://open.spotify.com/track/0xkeObNA3vzp5tzpXNwbbF"
     },
     {
       "album": {
@@ -8056,7 +8236,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 180881,
       "name": "Proud Of Us",
       "url": "https://open.spotify.com/track/1SOeWfNaJr9uVicmERzQJD"
@@ -8407,6 +8587,36 @@
     },
     {
       "album": {
+        "name": "Rolling (Threemix)",
+        "url": "https://open.spotify.com/album/18NFwNV2mpZUXZ3qoyCR8U"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Tony",
+          "url": "https://open.spotify.com/artist/79zeGKHGTZWbnfpT91Lpj4"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260513,
+      "name": "Rolling (Threemix)",
+      "url": "https://open.spotify.com/track/5pwAfC5BQqboCSoYqwIfLA"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6S2IDBMVq7CfAozkN9zio5"
       },
@@ -8648,7 +8858,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197485,
       "name": "See You Win",
       "url": "https://open.spotify.com/track/7KNSbjZpp0CmyCcrbT70bA"
@@ -8943,6 +9153,24 @@
     },
     {
       "album": {
+        "name": "Red Corolla",
+        "url": "https://open.spotify.com/album/1itymckvdfBSADSU1JvBE4"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141613,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5LRcRagKoBPGbbmkxFJ35p"
+    },
+    {
+      "album": {
         "name": "Smoke With Me",
         "url": "https://open.spotify.com/album/74YOfhzsCMqjqs9hOpZoTk"
       },
@@ -8962,7 +9190,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 196040,
       "name": "Smoke With Me",
       "url": "https://open.spotify.com/track/0lnzQfYP1jdfkEeP47FJb0"
@@ -9559,6 +9787,28 @@
     },
     {
       "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200775,
+      "name": "Super Rare (feat. Hello O'Shay)",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "album": {
         "name": "ME YOU & GOD",
         "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
       },
@@ -9946,7 +10196,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 218692,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/7zhfWs9c97sn0mEP4x8xFi"
@@ -10510,7 +10760,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 219789,
       "name": "TRAFFIC",
       "url": "https://open.spotify.com/track/1f0rnWKT57iyWzlgxiZxq9"
@@ -10762,7 +11012,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 143434,
       "name": "T\u00e9l\u00e9 Couleur",
       "url": "https://open.spotify.com/track/6uNa9YhkIlugSGnxHv36UB"
@@ -10824,7 +11074,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 201951,
       "name": "Valleys",
       "url": "https://open.spotify.com/track/060HXWUHaYpSUuBNCR59Z6"
@@ -11098,6 +11348,24 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "album": {
+        "name": "Red Corolla",
+        "url": "https://open.spotify.com/album/1itymckvdfBSADSU1JvBE4"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "What It Means",
+      "url": "https://open.spotify.com/track/65MExqGNcIuM6D4cjFxxvC"
     },
     {
       "album": {

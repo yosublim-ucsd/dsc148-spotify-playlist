@@ -1,12 +1,12 @@
 {
   "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: D.O.D",
-  "num_followers": 285360,
+  "num_followers": 285348,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "NTI3OTgsYzYzM2M3OTQ4ODYyMWJmOTVlODVkOWYxN2M3YTY2ZmQzYWY4MDFhZQ==",
+  "snapshot_id": "NTI4MTYsZDliODU4MjBhMmMyNGE5YzQ1NTUwYWRiOGRhOTNlOWNiNmM1MWZlMg==",
   "tracks": [
     {
       "added_at": "2023-06-29 22:06:02",
@@ -23,6 +23,22 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 132380,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
     },
     {
       "added_at": "2023-06-29 22:06:02",
@@ -51,18 +67,22 @@
     {
       "added_at": "2023-06-29 22:06:02",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/1Sllk89KwnDugKZOCNT5Rx"
+        "name": "Keep On Rising",
+        "url": "https://open.spotify.com/album/5LXHDaiNMusVY8vhsuvZjx"
       },
       "artists": [
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+          "name": "Gasparian",
+          "url": "https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1"
+        },
+        {
+          "name": "Tasita D\u2019Mour",
+          "url": "https://open.spotify.com/artist/3kvf1VAuxdCnX1YWdhhZMV"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/0JVn39lvpRCe0EZi6RMtj0"
+      "duration_ms": 179679,
+      "name": "Keep On Rising - Radio Edit",
+      "url": "https://open.spotify.com/track/5GaqFTvzMYJv0HWoJAGK69"
     },
     {
       "added_at": "2023-06-29 22:06:02",
@@ -87,18 +107,202 @@
     {
       "added_at": "2023-06-29 22:06:02",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/1Sllk89KwnDugKZOCNT5Rx"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/0JVn39lvpRCe0EZi6RMtj0"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Shatterproof",
+        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 149320,
+      "name": "Shatterproof",
+      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1iZUbdfSbIgfTXamBgZ8Q8"
+      },
+      "artists": [
+        {
+          "name": "Supermassive",
+          "url": "https://open.spotify.com/artist/7FDiLldYsjt7Y3rwNQkIIQ"
+        },
+        {
+          "name": "Ben Boas",
+          "url": "https://open.spotify.com/artist/7BtYYvgHW1nRpoohmxKp3N"
+        }
+      ],
+      "duration_ms": 159024,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3c4Z9DLI0lOpoUuUJI6Nx4"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 201016,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Ducati",
+        "url": "https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Ducati",
+      "url": "https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235"
+    },
+    {
+      "added_at": "2023-06-30 13:05:31",
+      "album": {
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 216257,
+      "name": "So Good To Me",
+      "url": "https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "California Child",
+        "url": "https://open.spotify.com/album/1sPO8E1aQCOc3rOl2KTgB9"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "The Palms",
+          "url": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X"
+        },
+        {
+          "name": "Hi-Def",
+          "url": "https://open.spotify.com/artist/6DXQR420AWaTcwoQH8aODg"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "California Child",
+      "url": "https://open.spotify.com/track/7iMevAfaNM9t6WqRLMW6lV"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
       "artists": [
         {
           "name": "Armin van Buuren",
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
         }
       ],
-      "duration_ms": 132380,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "Most Precious Love (Remix)",
+        "url": "https://open.spotify.com/album/4Bjw68lPxhErtwsZqH9NXp"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "UDAUFL",
+          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 222652,
+      "name": "Most Precious Love - DF\u2019S Future 3000 Mix Edit",
+      "url": "https://open.spotify.com/track/5CyGfjX3WHMsCg9zSbXIpu"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
+        "name": "The Eye Of Ra",
+        "url": "https://open.spotify.com/album/5QDKaZpb11BDryDPytX1gB"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 224032,
+      "name": "The Eye Of Ra",
+      "url": "https://open.spotify.com/track/66z0LXGjm2tZGYopB3JCqy"
     },
     {
       "added_at": "2023-06-29 22:06:02",
@@ -139,106 +343,6 @@
     {
       "added_at": "2023-06-29 22:06:02",
       "album": {
-        "name": "California Child",
-        "url": "https://open.spotify.com/album/1sPO8E1aQCOc3rOl2KTgB9"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "The Palms",
-          "url": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X"
-        },
-        {
-          "name": "Hi-Def",
-          "url": "https://open.spotify.com/artist/6DXQR420AWaTcwoQH8aODg"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "California Child",
-      "url": "https://open.spotify.com/track/7iMevAfaNM9t6WqRLMW6lV"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/1iZUbdfSbIgfTXamBgZ8Q8"
-      },
-      "artists": [
-        {
-          "name": "Supermassive",
-          "url": "https://open.spotify.com/artist/7FDiLldYsjt7Y3rwNQkIIQ"
-        },
-        {
-          "name": "Ben Boas",
-          "url": "https://open.spotify.com/artist/7BtYYvgHW1nRpoohmxKp3N"
-        }
-      ],
-      "duration_ms": 159024,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3c4Z9DLI0lOpoUuUJI6Nx4"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Ducati",
-        "url": "https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF"
-      },
-      "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Ducati",
-      "url": "https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Shatterproof",
-        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
-      },
-      "artists": [
-        {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
-        }
-      ],
-      "duration_ms": 149320,
-      "name": "Shatterproof",
-      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Stimulate",
-        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Jessy Lanza",
-          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Keep It Secret",
-      "url": "https://open.spotify.com/track/2BmoUqxBd0allDvLmnB6iN"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
         "name": "Aslan",
         "url": "https://open.spotify.com/album/4sIF6Yd0SCPGrKSssaw85p"
       },
@@ -251,66 +355,6 @@
       "duration_ms": 214588,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/7kAYdRXMipZJUD4NCxDd4L"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "The Eye Of Ra",
-        "url": "https://open.spotify.com/album/5QDKaZpb11BDryDPytX1gB"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        }
-      ],
-      "duration_ms": 224032,
-      "name": "The Eye Of Ra",
-      "url": "https://open.spotify.com/track/66z0LXGjm2tZGYopB3JCqy"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 201016,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK"
     },
     {
       "added_at": "2023-06-29 22:06:02",
@@ -355,6 +399,26 @@
     {
       "added_at": "2023-06-29 22:06:02",
       "album": {
+        "name": "Stimulate",
+        "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Keep It Secret",
+      "url": "https://open.spotify.com/track/2BmoUqxBd0allDvLmnB6iN"
+    },
+    {
+      "added_at": "2023-06-29 22:06:02",
+      "album": {
         "name": "The Jumper ([IVY] Remix)",
         "url": "https://open.spotify.com/album/11n7anBebd0w5kqDvPdkRF"
       },
@@ -395,26 +459,6 @@
       "duration_ms": 181171,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/5VnGJtAQzFITIT9l7k6YlI"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Keep On Rising",
-        "url": "https://open.spotify.com/album/5LXHDaiNMusVY8vhsuvZjx"
-      },
-      "artists": [
-        {
-          "name": "Gasparian",
-          "url": "https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1"
-        },
-        {
-          "name": "Tasita D\u2019Mour",
-          "url": "https://open.spotify.com/artist/3kvf1VAuxdCnX1YWdhhZMV"
-        }
-      ],
-      "duration_ms": 179679,
-      "name": "Keep On Rising - Radio Edit",
-      "url": "https://open.spotify.com/track/5GaqFTvzMYJv0HWoJAGK69"
     },
     {
       "added_at": "2023-06-29 22:06:02",
@@ -471,34 +515,6 @@
       "duration_ms": 201070,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3KaOuwuIuZYfR1VhAENRXG"
-    },
-    {
-      "added_at": "2023-06-29 22:06:02",
-      "album": {
-        "name": "Most Precious Love (Remix)",
-        "url": "https://open.spotify.com/album/4Bjw68lPxhErtwsZqH9NXp"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "UDAUFL",
-          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
-        },
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 222652,
-      "name": "Most Precious Love - DF\u2019S Future 3000 Mix Edit",
-      "url": "https://open.spotify.com/track/5CyGfjX3WHMsCg9zSbXIpu"
     },
     {
       "added_at": "2023-06-29 22:06:02",

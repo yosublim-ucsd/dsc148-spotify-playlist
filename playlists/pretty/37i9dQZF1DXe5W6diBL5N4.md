@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: HanSeungWoo\(한승우\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,439 likes - 688 songs - 1 day 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,630 likes - 688 songs - 1 day 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,7 +221,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 211 | [To You](https://open.spotify.com/track/2V0Rr5qfC2Tx3bv5mEi5I0) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/4jAKv0TrDi4ki5cJbMVsIN) | 3:12 |
 | 212 | [Natural History Museum](https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Natural History Museum](https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t) | 3:13 |
 | 213 | [I'm Not Your Cat Feat.b!ni](https://open.spotify.com/track/3DllqL0wBXYC9WRE5cPIms) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [I'm Not Your Cat](https://open.spotify.com/album/0DA2jdBnt7GvEvyFN7UtXy) | 2:46 |
-| 214 | [Fading seasons \(Prod\. by O.WHEN\)](https://open.spotify.com/track/77NwAK7ivUb4LnozET6PRO) | [SOOHYUN](https://open.spotify.com/artist/4cYFhgAfVfdeAy40A7pyO8) | [Fading seasons \(Prod\. by O.WHEN\)](https://open.spotify.com/album/1wp6kP2U4a9RVft4uYRKYo) | 3:45 |
+| 214 | [Fading seasons \(Prod\. by O.WHEN\)](https://open.spotify.com/track/77NwAK7ivUb4LnozET6PRO) | [Soohyun\(UKISS\)](https://open.spotify.com/artist/4cYFhgAfVfdeAy40A7pyO8) | [Fading seasons \(Prod\. by O.WHEN\)](https://open.spotify.com/album/1wp6kP2U4a9RVft4uYRKYo) | 3:45 |
 | 215 | [Wind Song](https://open.spotify.com/track/1SHozMlsPJKL6XJM5Uami7) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3ftcuflXLP4SaSoUb1GwM5) | 4:11 |
 | 216 | [No Answer](https://open.spotify.com/track/6EviXGl9V6dWOK5ZjENc8A) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [No Answer](https://open.spotify.com/album/3sFj7PxBudxK5C1jcgl70v) | 3:28 |
 | 217 | [Dear\. Lover](https://open.spotify.com/track/1RwrqJ7EZ04tmZF9OwuTAu) | [Eun ga eun](https://open.spotify.com/artist/1JPXmbnND19OQQSPUKTUh5) | [Dear\. Lover](https://open.spotify.com/album/3P5YCSyOES0GGx3mAmRoif) | 4:19 |
@@ -697,4 +697,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 687 | [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 |
 | 688 | [Hug Me](https://open.spotify.com/track/7wWGayXaXNhJoqGXKpZx8B) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Hug Me](https://open.spotify.com/album/6oCJH0FVr840WLbNeWgpaO) | 2:17 |
 
-Snapshot ID: `MCwyZTUwMmFmYWNkOTgyMTUzYjI5NWYxYTIzNTg5OGIzMTRlYjhkZDdm`
+Snapshot ID: `MCw4NjY4ZTc3N2JlYTE4M2RjMDM3ZjkyOTU2OGVjNGE3MGQwZjMyNWVj`

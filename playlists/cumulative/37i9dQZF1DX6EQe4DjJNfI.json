@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "A Noite Toda",
+        "url": "https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5"
+      },
+      "artists": [
+        {
+          "name": "Charm Mone",
+          "url": "https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "A Noite Toda",
+      "url": "https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn"
+    },
+    {
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
@@ -1785,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "album": {
         "name": "Pe\u00e7a \u00danica",
         "url": "https://open.spotify.com/album/6WsYX7kscbYVpcu3h07Grk"
       },
@@ -2220,7 +2264,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 171500,
       "name": "Sensual",
       "url": "https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70"
@@ -2554,7 +2598,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204444,
       "name": "Tomboy",
       "url": "https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8"

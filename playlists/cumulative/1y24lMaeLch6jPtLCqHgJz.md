@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-153 songs - 7 hr 59 min
+154 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All We Needed](https://open.spotify.com/track/7iUsaptyO0uLIcQYGL0MQw) | [West Collins](https://open.spotify.com/artist/4m0eQpwwsV0XZITCzWOnfm) | [All We Needed](https://open.spotify.com/album/1c7dFeOERHYJa1aEyWzFql) | 3:05 | 2023-04-21 |  |
 | [Angel](https://open.spotify.com/track/6qOEp7oSe2OpZQRdWfPB4B) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Deloops](https://open.spotify.com/artist/0lNPLzLP80TvoV6XWo9lD1), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Angel](https://open.spotify.com/album/0uqrF98KAjy8eBqqACL6wH) | 3:01 | 2023-06-23 |  |
 | [Antidote](https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Antidote](https://open.spotify.com/album/2eBWEtVvAtX1Ajoh0VKogz) | 3:08 | 2023-02-24 | 2023-06-03 |
+| [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 | 2023-06-30 |  |
 | [Apart Together](https://open.spotify.com/track/0X7YZdWOn5deNtx5WUJZGV) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [\#aparttogether](https://open.spotify.com/album/69gjrVGn8OAOGfCz5jAuLC) | 3:33 | 2022-07-29 | 2023-04-14 |
 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/03PgbAWbsMhzaJc8uK3AyU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/4Pn9DreQQj0WtcNqDeBc7S) | 3:33 | 2022-07-29 |  |
 | [Back To You](https://open.spotify.com/track/4j94DHbP7qELZIltB7VI8K) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD) | [Back To You](https://open.spotify.com/album/1QJO7W9Wm3GHqL5hNU5fFT) | 3:14 | 2022-09-19 | 2023-01-28 |

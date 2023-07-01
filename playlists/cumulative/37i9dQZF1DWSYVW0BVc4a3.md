@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-562 songs - 1 day 20 hr 32 min
+563 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Control \- PARADIGM X Remix](https://open.spotify.com/track/46cSkpinCuJKOHBjxObfrs) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [PARADIGM X](https://open.spotify.com/artist/49yfjpc294s6qhsyzRqGc2) | [DAYS like NIGHTS 2022](https://open.spotify.com/album/1qyFHzWiDsy9t6z1q0tdm3) | 4:12 | 2023-01-19 | 2023-03-10 |
 | [Criseide](https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Criseide](https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE) | 6:23 | 2023-06-08 |  |
 | [Cyberpunk](https://open.spotify.com/track/1wKOcup3YmRBk6XKBOVLk7) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Cyberpunk](https://open.spotify.com/album/7ArVfEgFqpr1z3SFr1eTsZ) | 3:47 | 2023-05-11 | 2023-05-26 |
-| [Daka \- Original Mix](https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Daka](https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V) | 6:30 | 2023-02-23 |  |
+| [Daka \- Original Mix](https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Daka](https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V) | 6:30 | 2023-02-23 | 2023-07-01 |
 | [Dance Again](https://open.spotify.com/track/1I1tcgZx6J1IHeZqWa3611) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Dance Again](https://open.spotify.com/album/0lS5SKk97UhNQHA6c33wIJ) | 6:17 | 2023-03-23 | 2023-04-21 |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-09-08 |  |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-01 | 2022-12-02 |
@@ -237,6 +237,7 @@
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-08-19 | 2022-09-23 |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-09-22 | 2023-01-27 |
 | [In The Yuma \(feat\. Aatig\) \[Four Tet Remix\]](https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [In The Yuma \(feat\. Aatig\) \[Four Tet Remix\]](https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa) | 4:49 | 2023-06-08 |  |
+| [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-29 |  |
 | [In2u](https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [In2u](https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud) | 3:21 | 2023-05-25 | 2023-06-23 |
 | [Incrust](https://open.spotify.com/track/4XViI4grwDAWiQkrnwTewH) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Incrust EP](https://open.spotify.com/album/1uDVMDsoNX0wOOgEjNDfEF) | 3:48 | 2022-12-27 | 2023-01-02 |
 | [Ingern](https://open.spotify.com/track/23WSd4TMp2ar1GRxa0WZQG) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:49 | 2022-12-08 | 2023-03-25 |

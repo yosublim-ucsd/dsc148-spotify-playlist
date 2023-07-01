@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX24ftkC3R4l9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24ftkC3R4l9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24ftkC3R4l9)
 
-### [Ambiente x Max Richter](https://open.spotify.com/playlist/37i9dQZF1DX24ftkC3R4l9)
+### [Ambient X Takeover: Max Richter](https://open.spotify.com/playlist/37i9dQZF1DX24ftkC3R4l9)
 
-> Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 24 songs - 2 hr 2 min
 

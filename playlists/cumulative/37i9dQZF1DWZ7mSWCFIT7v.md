@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-326 songs - 1 day 2 hr 33 min
+327 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 | 2022-07-29 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-06 |  |
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 | 2022-08-05 |
+| [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 | 2022-04-09 |  |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2023-04-01 |
 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 | 2021-10-06 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 |  |
@@ -122,7 +123,7 @@
 | [Fog](https://open.spotify.com/track/1KBddz4B293HkDtfFnRbJQ) | [Flame 1](https://open.spotify.com/artist/5XHpF80rFg0bBBA6vq1sj4) | [Fog / Shrine](https://open.spotify.com/album/5VmAI2tGjo2OKDXwN2RVhT) | 5:13 | 2021-10-06 | 2022-07-06 |
 | [Footprints In Solid Rock \- Beatrice Dillon Remix](https://open.spotify.com/track/0pxLDHQqDqPhlnd7tAGIWj) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN), [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97) | [Remixes \- 2](https://open.spotify.com/album/4JY2xSBqgCapi5p6LDIJfV) | 5:38 | 2021-10-06 | 2022-07-14 |
 | [Ganbare](https://open.spotify.com/track/22kCwGTTD5j4vJOzTCVNp2) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Ganbare](https://open.spotify.com/album/1E6NFhurNt4TuYNAfCZzLX) | 6:37 | 2021-10-06 | 2022-07-28 |
-| [Give It Your Choir \- Instrumental](https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 4:30 | 2021-10-06 |  |
+| [Give It Your Choir \- Instrumental](https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 4:30 | 2021-10-06 | 2023-07-01 |
 | [Give It Your Choir \- Instrumental](https://open.spotify.com/track/4spkJG5cndAWgMH1ESF1iQ) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/4ugcKztCoyHLs0eJGb5uVw) | 4:30 | 2021-10-06 | 2022-07-19 |
 | [Grauer Sand](https://open.spotify.com/track/3EiZaX03fYdPKhsoji5p96) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Tempus](https://open.spotify.com/album/2cq6vTpNKi4LJFXAwlwckm) | 4:06 | 2022-08-17 | 2022-12-13 |
 | [Grauer Sand](https://open.spotify.com/track/66IbIrMufglj4589q8126r) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Grauer Sand](https://open.spotify.com/album/1MZLj3NxYCPy13TO5s5hj1) | 4:06 | 2022-08-17 | 2022-10-16 |

@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-104 songs - 7 hr 11 min
+105 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Clear](https://open.spotify.com/track/5VRDbvm8OaLHqMu7D9lvw5) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:44 | 2023-01-09 |  |
 | [All Clear](https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [All Clear](https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R) | 3:44 | 2022-02-04 | 2022-07-29 |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 |  |
+| [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-06-30 |  |
 | [Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/track/3pQCRKRbApGrjEpj1r4BKA) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Filarmonica della Scala](https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Respighi: Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/album/2nC71ZQwT1MZx3lNNy4UPq) | 3:14 | 2022-02-04 |  |
 | [Appalachian Spring \- 1945 Suite: 1\. Very slowly](https://open.spotify.com/track/3g98x0UrsfWzpiRR2gmLtR) | [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU), [Zubin Mehta](https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x) | [Copland: Appalachian Spring; Lincoln Portrait; Fanfare; Rodeo, etc.](https://open.spotify.com/album/5zvghsnDtzK4CVC4blFo9T) | 2:54 | 2022-02-04 |  |
 | [At Dawn](https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:00 | 2022-05-03 |  |

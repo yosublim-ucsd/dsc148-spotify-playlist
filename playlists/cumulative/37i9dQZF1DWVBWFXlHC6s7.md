@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-52 songs - 3 hr 14 min
+53 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 | 2023-01-20 |  |
 | [Chega Mais](https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 3:54 | 2023-01-20 |  |
 | [Chega Mais \(Imaginei Você Dançando\)](https://open.spotify.com/track/6GavAPHYA7OdbJP7EQOFxI) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 2:51 | 2023-01-20 |  |
-| [Côco do Macaco](https://open.spotify.com/track/063q4X3EdUKyLVfGo4PSF0) | [Sócrates E As Garotas](https://open.spotify.com/artist/4816McLygy1Or3arIFVN5u) | [Côco do Macaco](https://open.spotify.com/album/5lfewZ1HFVHwm6yQbZmErN) | 3:29 | 2023-01-20 |  |
+| [Côco do Macaco](https://open.spotify.com/track/063q4X3EdUKyLVfGo4PSF0) | [Sócrates E As Garotas](https://open.spotify.com/artist/4816McLygy1Or3arIFVN5u) | [Côco do Macaco](https://open.spotify.com/album/5lfewZ1HFVHwm6yQbZmErN) | 3:29 | 2023-01-20 | 2023-07-01 |
 | [De alegria raiou o dia](https://open.spotify.com/track/7IFwTykJguQpyDoAu9hj5a) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ) | [Pra que vou recordar](https://open.spotify.com/album/0kwhUml3QMwRaA2LsWN0my) | 3:38 | 2023-01-20 |  |
 | [E O Espetáculo Continua](https://open.spotify.com/track/0mNK2GQOs0Y8TFFQo4Fr1q) | [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS) | [Roupa Nova \(1981\)](https://open.spotify.com/album/4fB4jcW0KgBhVsO1l8lJ8P) | 3:20 | 2023-01-20 |  |
 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2023-01-20 |  |
@@ -54,6 +54,7 @@
 | [Se você for a salvador](https://open.spotify.com/track/4SC06muayGtoMEpQjRFUs0) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:45 | 2023-01-20 |  |
 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 | 2023-01-20 |  |
 | [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 | 2023-01-20 |  |
+| [Suspira](https://open.spotify.com/track/1qNxA7OrDL6goGPUHJQSzD) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Suspira](https://open.spotify.com/album/0eVReGkyVanuKovMwN9lve) | 5:38 | 2023-06-30 |  |
 | [Toque de cuica](https://open.spotify.com/track/2Su9jcqo1pzOOr2pdhoDPn) | [Airto Moreira](https://open.spotify.com/artist/3poGT6mQeOlXOdJwvXz5T1) | [Touching You, Touching Me](https://open.spotify.com/album/4mi30bHSnw8wexBoEi2VNM) | 3:55 | 2023-01-20 |  |
 | [Trem da Central](https://open.spotify.com/track/3eqcjoJ8mZIu8wbLwmQedl) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/2tHPCtLKccEl3VYmQxq6Cp) | 4:02 | 2023-01-20 |  |
 | [Tudo Em cima](https://open.spotify.com/track/20fkpeajZFYKUnXZsWuldU) | [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Leila Pinheiro](https://open.spotify.com/album/61LAWCyFzyJfqigeCacb6G) | 2:58 | 2023-01-20 |  |

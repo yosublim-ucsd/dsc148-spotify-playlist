@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY?si=FhcYxpbIR\_queG81h0uNcw"> King Dareal</a>
 
-248 songs - 15 hr 1 min
+249 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Faraway](https://open.spotify.com/track/5tiqR6s5xXPAZRXmmJuAKh) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Faraway](https://open.spotify.com/album/2Vsa1OG52P17RJmin9iHW2) | 2:25 | 2023-05-26 | 2023-06-02 |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2023-02-02 | 2023-03-04 |
 | [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2023-02-02 | 2023-02-11 |
+| [Fire Fall](https://open.spotify.com/track/1pUOZEQfBrucbikddcJ00k) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [Fire Fall](https://open.spotify.com/album/4qJ0oAgJeBxTbZQdYjEML1) | 4:02 | 2023-06-30 |  |
 | [FOLLOW](https://open.spotify.com/track/0wWkzxVjrltvSo6t0ndMnK) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/6ZXC5VlTFKAB51PtNyWl1M) | 3:43 | 2023-02-10 | 2023-02-13 |
 | [FOLLOW](https://open.spotify.com/track/5iP9wtauchW9tyyBUQfNQg) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [FOLLOW](https://open.spotify.com/album/1e87ScTOtmWOynxRrc8sjL) | 3:43 | 2023-02-10 | 2023-04-21 |
 | [Follow \- Remix](https://open.spotify.com/track/3gSkKzZ7eCZn6xOjUBbGTx) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Follow \(Remix\)](https://open.spotify.com/album/2czsZtZaUyPXnLTwCmW9Y3) | 2:41 | 2023-06-02 |  |

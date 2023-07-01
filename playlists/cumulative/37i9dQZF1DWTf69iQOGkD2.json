@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Knust",
+  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Knust, Cesar MC, Xam\u00e3, Chris MC",
   "name": "Rap Ac\u00fastico",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204000,
       "name": "Golpe Baixo",
       "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
@@ -4186,7 +4186,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 238451,
       "name": "Sede de N\u00f3s Dois",
       "url": "https://open.spotify.com/track/0b7kdourmYOUtPHCSLQAgV"
@@ -4398,6 +4398,24 @@
       "duration_ms": 202561,
       "name": "Tava aqui pensando em n\u00f3s",
       "url": "https://open.spotify.com/track/4k3ttE8Xpuxq0v0krwgU7x"
+    },
+    {
+      "album": {
+        "name": "Te Amei",
+        "url": "https://open.spotify.com/album/2H7oUtArAZgZZ88taXpUcV"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Te Amei",
+      "url": "https://open.spotify.com/track/4r403mUhhM9ovKSuHbGrhl"
     },
     {
       "album": {
@@ -4818,6 +4836,44 @@
       "duration_ms": 300000,
       "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 2",
       "url": "https://open.spotify.com/track/1luax01sYxCLiM5uVk0oBj"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 3",
+        "url": "https://open.spotify.com/album/3lcotBig7d3eKn3cQo5BwE"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 3",
+      "url": "https://open.spotify.com/track/6hfek8BveIwDtAtZuIVFij"
     },
     {
       "album": {

@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Elliott Smith: Expanded 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180120,
+      "name": "St. Ides Heaven - 25th Anniversary Remaster",
+      "url": "https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },

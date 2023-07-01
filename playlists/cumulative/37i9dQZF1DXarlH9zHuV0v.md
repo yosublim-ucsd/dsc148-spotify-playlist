@@ -4,7 +4,7 @@
 
 > A playlist of spooky songs to get you ready for fright night!
 
-127 songs - 8 hr 9 min
+128 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 | 2019-10-09 |  |
 | [Scary Monsters \(And Super Creeps\) \- 1999 Remaster](https://open.spotify.com/track/4UrRkV1HqJkp4MCjB8RgM1) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters](https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe) | 5:12 | 2019-10-09 | 2022-07-29 |
 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 | 2019-10-09 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ!80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2019-10-09 |  |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2019-10-09 | 2022-11-07 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2019-10-09 | 2022-11-13 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2019-10-09 | 2022-07-29 |
@@ -112,7 +113,7 @@
 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 | 2019-10-09 |  |
 | [The Addams Family](https://open.spotify.com/track/3BkFCWaLPDrkf7HWQdSyQe) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest TV Themes](https://open.spotify.com/album/7D31xIneotn8D1JGWB0bKB) | 2:19 | 2019-10-09 | 2022-07-29 |
 | [The Addams Family](https://open.spotify.com/track/4rzBn7FbXAel09UcinvyOA) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest TV Themes](https://open.spotify.com/album/0afkOxN5LzmMr3slmUhi6F) | 2:21 | 2019-10-09 | 2022-12-04 |
-| [The Addams Family](https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Battlestar Galactica: The A to Z of Fantasy TV](https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ) | 2:22 | 2019-10-09 |  |
+| [The Addams Family](https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Battlestar Galactica: The A to Z of Fantasy TV](https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ) | 2:22 | 2019-10-09 | 2023-07-01 |
 | [The Addams Family](https://open.spotify.com/track/7BOED8Z0Mu9tsivXSPGGk1) | [Vic Mizzy](https://open.spotify.com/artist/4qJMdTpIuAWD8rOq0mBgHx) | [Dark Orchestral Music](https://open.spotify.com/album/7f3ts8v116LNesJLAvnM4K) | 1:59 | 2019-10-09 | 2022-11-13 |
 | [The Addams Family Theme](https://open.spotify.com/track/5QIVtapQoKCkzUiCLavP9l) | [Vic Mizzy & His Orchestra](https://open.spotify.com/artist/6a8HATOQDGF1wciECYb6vl) | [The Addams Family](https://open.spotify.com/album/5qSCwxD0bKiqmiD9hQXaAS) | 1:59 | 2019-10-09 | 2022-07-28 |
 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 | 2019-10-09 |  |

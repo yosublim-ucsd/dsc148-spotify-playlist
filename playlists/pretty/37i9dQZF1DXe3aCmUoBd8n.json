@@ -1,12 +1,12 @@
 {
   "description": "Top Sharqi hits right now. Cover: Nassif Zeytoun.",
-  "num_followers": 52366,
+  "num_followers": 52406,
   "original_name": "Top Sharqi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzljMmY4MTQwYmQ2ZTJhMzI4MjU0YjBhYjQ1YjU5NzMxMTZhYjll",
+  "snapshot_id": "MCxiYTBhNjBkNGFiMTliOTUwNDZiMmY2OWYzMTdjY2VmM2Q4NWFhMWU0",
   "tracks": [
     {
       "added_at": "2023-06-28 00:19:07",
@@ -27,22 +27,50 @@
     {
       "added_at": "2023-06-28 00:19:07",
       "album": {
-        "name": "Shou Badi 3ed Bzalat",
-        "url": "https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5"
+        "name": "Befdiki",
+        "url": "https://open.spotify.com/album/6r1mLrD5uhYoWTDFexOGDa"
       },
       "artists": [
-        {
-          "name": "Mohanad Zaiter",
-          "url": "https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq"
-        },
         {
           "name": "AL SHAMI",
           "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Shou Badi 3ed Bzalat",
-      "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"
+      "duration_ms": 214956,
+      "name": "Befdiki",
+      "url": "https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN"
+    },
+    {
+      "added_at": "2023-06-28 00:19:07",
+      "album": {
+        "name": "Yeslamli Li Bighar",
+        "url": "https://open.spotify.com/album/1NaMPHJ5yC9DJujOEobE8S"
+      },
+      "artists": [
+        {
+          "name": "Marwan Khoury",
+          "url": "https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "Yeslamli Li Bighar",
+      "url": "https://open.spotify.com/track/5toZZOQ35XeknrIrn2KcmM"
+    },
+    {
+      "added_at": "2023-06-28 00:19:07",
+      "album": {
+        "name": "Arbi Aalay",
+        "url": "https://open.spotify.com/album/7cZ2lXO2x0odXvcd5EcAcn"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "duration_ms": 180849,
+      "name": "Arbi Aalay",
+      "url": "https://open.spotify.com/track/3GJTOLmsbqTpuQ1sLSxaYX"
     },
     {
       "added_at": "2023-06-28 00:19:07",
@@ -91,22 +119,6 @@
       "duration_ms": 193859,
       "name": "Eftahli Albak",
       "url": "https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ"
-    },
-    {
-      "added_at": "2023-06-28 00:19:07",
-      "album": {
-        "name": "Arbi Aalay",
-        "url": "https://open.spotify.com/album/7cZ2lXO2x0odXvcd5EcAcn"
-      },
-      "artists": [
-        {
-          "name": "siilawy",
-          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
-        }
-      ],
-      "duration_ms": 180849,
-      "name": "Arbi Aalay",
-      "url": "https://open.spotify.com/track/3GJTOLmsbqTpuQ1sLSxaYX"
     },
     {
       "added_at": "2023-06-28 00:19:07",
@@ -179,22 +191,6 @@
     {
       "added_at": "2023-06-28 00:19:07",
       "album": {
-        "name": "Yeslamli Li Bighar",
-        "url": "https://open.spotify.com/album/1NaMPHJ5yC9DJujOEobE8S"
-      },
-      "artists": [
-        {
-          "name": "Marwan Khoury",
-          "url": "https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "Yeslamli Li Bighar",
-      "url": "https://open.spotify.com/track/5toZZOQ35XeknrIrn2KcmM"
-    },
-    {
-      "added_at": "2023-06-28 00:19:07",
-      "album": {
         "name": "Baadni Bhebak",
         "url": "https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ"
       },
@@ -207,6 +203,26 @@
       "duration_ms": 178562,
       "name": "Baadni Bhebak",
       "url": "https://open.spotify.com/track/2LYvBpvjJXaLS3AzHhKCDK"
+    },
+    {
+      "added_at": "2023-06-28 00:19:07",
+      "album": {
+        "name": "Shou Badi 3ed Bzalat",
+        "url": "https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5"
+      },
+      "artists": [
+        {
+          "name": "Mohanad Zaiter",
+          "url": "https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq"
+        },
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Shou Badi 3ed Bzalat",
+      "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"
     },
     {
       "added_at": "2023-06-28 00:19:07",
@@ -239,22 +255,6 @@
       "duration_ms": 190184,
       "name": "Nsitik Walla",
       "url": "https://open.spotify.com/track/4IQnD9cH2EYCLfW4xzENAz"
-    },
-    {
-      "added_at": "2023-06-28 00:19:07",
-      "album": {
-        "name": "Befdiki",
-        "url": "https://open.spotify.com/album/6r1mLrD5uhYoWTDFexOGDa"
-      },
-      "artists": [
-        {
-          "name": "AL SHAMI",
-          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "Befdiki",
-      "url": "https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN"
     },
     {
       "added_at": "2023-06-28 00:19:07",

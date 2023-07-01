@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain](/playlists/plain/37i9dQZF1DX3q5r5YC7NjT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3q5r5YC7NjT)
 
-### [Ambiente x Jon Hopkins](https://open.spotify.com/playlist/37i9dQZF1DX3q5r5YC7NjT)
+### [Ambient X Takeover: Jon Hopkins](https://open.spotify.com/playlist/37i9dQZF1DX3q5r5YC7NjT)
 
-> Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,509 likes - 20 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,544 likes - 20 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain]
 | 19 | [Sit Around The Fire](https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Sit Around The Fire](https://open.spotify.com/album/6yr4d6TDbPpsUklbsLUz6x) | 8:22 |
 | 20 | [Loch Raven](https://open.spotify.com/track/2c72qfxXOJUlPoJimDcI20) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Feels](https://open.spotify.com/album/21LZ1OSKbxSU5I7QBUalW8) | 4:59 |
 
-Snapshot ID: `MCw5MzUwMjY3NTk5ZTA2OGQ0OWU1MWQ0ODI1MDgxMWI5NmFhYzE5M2Qw`
+Snapshot ID: `MCw2MTc0MzY0ZGNlZTY2NDk1MDkzNGRhNjU3NWFjMjA5OWYxNmNjMmM4`

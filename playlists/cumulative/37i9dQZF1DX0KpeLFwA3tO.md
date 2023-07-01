@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Mayday Parade
 
-1,164 songs - 2 day 10 hr 0 min
+1,165 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Chaos](https://open.spotify.com/track/7iAue4sPIFYxbWLsPLyHqO) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Chaos](https://open.spotify.com/album/0flAFOXNfYloq2KK4mQn0m) | 3:06 | 2022-02-25 | 2022-03-25 |
 | [CHASING DAYLIGHT](https://open.spotify.com/track/0GbR5S3hwd82Bk34FhjtQQ) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [CHASING DAYLIGHT](https://open.spotify.com/album/39sPvZlY3dkNblSzDgeMVp) | 2:43 | 2022-05-12 | 2022-06-24 |
 | [Checking In](https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Checking In](https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ) | 2:59 | 2023-05-11 |  |
+| [Ched Man](https://open.spotify.com/track/6EEPiK1SwQ7ZqA2r5luaJQ) | [Deaf Charlie](https://open.spotify.com/artist/2PW9udMnD3PeyX5hcXRyce) | [Catastrophic Metamorphic](https://open.spotify.com/album/0yll3KhEFD5Surw9nSPVqB) | 2:17 | 2023-06-29 |  |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-20 | 2023-03-25 |
 | [Cherry Red Rage](https://open.spotify.com/track/51ftpjRx4Kw7FLgnAl3X0R) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Cherry Red Rage](https://open.spotify.com/album/2F314L6DLTaWt1BlO9JTdi) | 2:51 | 2023-04-07 | 2023-06-09 |
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-01 |  |

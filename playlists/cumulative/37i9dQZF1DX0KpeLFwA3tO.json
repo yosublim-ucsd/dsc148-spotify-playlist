@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Catastrophic Metamorphic",
+        "url": "https://open.spotify.com/album/0yll3KhEFD5Surw9nSPVqB"
+      },
+      "artists": [
+        {
+          "name": "Deaf Charlie",
+          "url": "https://open.spotify.com/artist/2PW9udMnD3PeyX5hcXRyce"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137733,
+      "name": "Ched Man",
+      "url": "https://open.spotify.com/track/6EEPiK1SwQ7ZqA2r5luaJQ"
+    },
+    {
+      "album": {
         "name": "cherry cigarettes",
         "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
       },

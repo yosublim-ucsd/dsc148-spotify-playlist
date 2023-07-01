@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Cassiane, Bruna Karla",
-  "num_followers": 294730,
+  "num_followers": 294861,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGVkNTUwM2U2ZjY5NDg2MmQyYjQyNGQ2M2MyOWVjNjEwMTU1M2Ey",
+  "snapshot_id": "MCw5ZjczODMxMGQ1YjdkNzEwMWZiZWIxNzYyNDQ2ZTcxZjk5YmY0NDAy",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Voc\u00ea N\u00e3o Vai Parar",
+        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 340411,
+      "name": "Voc\u00ea N\u00e3o Vai Parar",
+      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 312497,
       "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar",
-        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        }
-      ],
-      "duration_ms": 340411,
-      "name": "Voc\u00ea N\u00e3o Vai Parar",
-      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Rei do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "At\u00e9 Te Encontrar",
         "url": "https://open.spotify.com/album/3sDRaA4K56lczDWAi9HYuH"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 283589,
       "name": "At\u00e9 Te Encontrar",
       "url": "https://open.spotify.com/track/2WFp3pIKEfdvjhzqGjwbgy"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "A Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 449646,
+      "name": "A Honra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -787,22 +803,6 @@
       "duration_ms": 299560,
       "name": "Deus Faz - Ao Vivo",
       "url": "https://open.spotify.com/track/0xSWHqgzWf2bTDE4wVlKqa"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "A Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 449646,
-      "name": "A Honra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Enxugue as L\u00e1grimas",
         "url": "https://open.spotify.com/album/6ntIB0HOTb7euDmDbsOKJy"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 278517,
       "name": "Ora Um Pouco Mais",
       "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Gratid\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 239156,
-      "name": "Fiel A Mim",
-      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "O Teu Favor (Ao Vivo)",
         "url": "https://open.spotify.com/album/069vZm7DckaKiJtNa9n4Qy"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 244786,
       "name": "O Teu Favor - Ao Vivo",
       "url": "https://open.spotify.com/track/3saXjGFqljTgmiwqLnkyT7"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 239156,
+      "name": "Fiel A Mim",
+      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 323119,
-      "name": "Grande \u00e9 o Nosso Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
         "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },
@@ -1111,22 +1095,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Abra os Meus Olhos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT"
+        "name": "Grande \u00e9 o Nosso Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 345698,
-      "name": "Abra os Meus Olhos (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3q7jxvZC9t2FZfOSh1Tvv1"
+      "duration_ms": 323119,
+      "name": "Grande \u00e9 o Nosso Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1147,6 +1127,26 @@
       "duration_ms": 459720,
       "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
       "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Abra os Meus Olhos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Abra os Meus Olhos (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3q7jxvZC9t2FZfOSh1Tvv1"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Drive In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 298388,
       "name": "Deus da Gra\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
     },
     {
       "added_at": "2023-06-23 03:00:00",

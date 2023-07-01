@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 183400,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae"
@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 214838,
       "name": "Neverita",
       "url": "https://open.spotify.com/track/2xms7bVgVIszeNtYCV9LVm"
@@ -3443,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "Papi De Azucar (feat. Ilmato)",
+        "url": "https://open.spotify.com/album/2cDQ3AsftUmiuJklofF2Vd"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        },
+        {
+          "name": "Ilmato",
+          "url": "https://open.spotify.com/artist/1HhwVZkxG8aou7IY3CbBLz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200137,
+      "name": "Papi De Azucar (feat. Ilmato)",
+      "url": "https://open.spotify.com/track/4kDuyk86lSyaFI934do4rU"
+    },
+    {
+      "album": {
         "name": "Patilla (feat. El Chima En La Casa & JoeyTheGawd)",
         "url": "https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf"
       },
@@ -3616,6 +3638,32 @@
       "duration_ms": 144827,
       "name": "Pierdete",
       "url": "https://open.spotify.com/track/2KqYLGLtzbyjR2MSRdxMT8"
+    },
+    {
+      "album": {
+        "name": "Pin Pan",
+        "url": "https://open.spotify.com/album/7cY7EHWnbjDcphrqnMPF2k"
+      },
+      "artists": [
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        },
+        {
+          "name": "Matta (COL)",
+          "url": "https://open.spotify.com/artist/5HmfPodhYUR4Js09zzeg2Z"
+        },
+        {
+          "name": "JUANPORDIOS!",
+          "url": "https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217968,
+      "name": "Pin Pan",
+      "url": "https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9"
     },
     {
       "album": {
@@ -4752,7 +4800,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212459,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/6I4keV6yQc4LHUNR7LwokK"
@@ -4818,6 +4866,36 @@
       "duration_ms": 303626,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
     },
     {
       "album": {

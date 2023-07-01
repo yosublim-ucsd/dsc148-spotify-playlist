@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5JcPJgYjGcf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5JcPJgYjGcf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5JcPJgYjGcf)
 
-### [This Is: EXO](https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf)
+### [This Is EXO](https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf)
 
-> All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
+> All the megahits by the South Korean boy band are right here! We are one!
 
-132 songs - 7 hr 38 min
+134 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Growl](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:27 | 2021-07-26 |  |
 | [happy](https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST Part.11](https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ) | 3:52 | 2021-07-26 | 2022-11-03 |
 | [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 | 2021-07-26 |  |
+| [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-06-30 |  |
 | [Heaven](https://open.spotify.com/track/64wBH2x7lTYxhwUzoS5gvt) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:45 | 2021-07-26 |  |
 | [Heaven](https://open.spotify.com/track/7wlPyCWaTMfkYyalMq5jU2) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT \- The 3rd Album](https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD) | 3:45 | 2021-07-26 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2021-07-26 |  |
@@ -59,6 +60,7 @@
 | [Joker](https://open.spotify.com/track/7yVsn705mElzqZfuxoZSjv) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [PRODUCER](https://open.spotify.com/album/7KVVfotZYLbM4rYaSGLrMX) | 2:18 | 2021-07-26 |  |
 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-07-26 |  |
 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 | 2021-07-26 |  |
+| [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-30 |  |
 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2021-07-26 |  |
 | [LIGHTSABER](https://open.spotify.com/track/0WgIKcomgCpfSvTHRT43aW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LIGHTSABER](https://open.spotify.com/album/7bNW8A8tZ2ogSQmKxSnZsV) | 3:04 | 2021-07-26 |  |
 | [LIGHTSABER \- Bonus Track](https://open.spotify.com/track/06SGUlo2pYQLmg8h2CsTzO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [SING FOR YOU \- Winter Special Album, 2015](https://open.spotify.com/album/5gdBIiSdnlQ4VFrJQ2eAym) | 3:04 | 2021-07-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-184 songs - 4 hr 38 min
+185 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Eureka! Main Title Theme \- From "Disney Junior Music: Eureka!"](https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ) | [Eureka! \- Cast](https://open.spotify.com/artist/2At0wMt22hR14ksbCvSSmA), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Eureka! Main Title Theme \(From "Disney Junior Music: Eureka!"\)](https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr) | 1:01 | 2022-05-26 |  |
 | [Every Dog Deserves a Home](https://open.spotify.com/track/2Ikw69fobr4cbjV6cCFT6t) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad](https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8) | 1:31 | 2022-03-18 |  |
 | [Everybody Wash Your Hands](https://open.spotify.com/track/6Aa2f5khjAv0xj3FMRHHGt) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 1](https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o) | 1:25 | 2022-03-18 |  |
+| [Feelin' Good](https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Feelin' Good](https://open.spotify.com/album/33ucCfGMl6jd9tp0jvTtlc) | 3:03 | 2023-06-30 |  |
 | [Find Your Courage!](https://open.spotify.com/track/5t2JdKWoUwNIPU6GLrFc0w) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:27 | 2022-03-18 |  |
 | [Firebuds Let's Roll \(Firebuds Theme\) \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Firebuds Let's Roll \(Firebuds Theme\) \[From "Disney Junior Music: Firebuds"\]](https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE) | 1:00 | 2023-05-16 |  |
 | [Fit to Be Queen](https://open.spotify.com/track/7x7m6iqsgznDDJSRbRuGPz) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music: Elena of Avalor \- A Royal Celebration](https://open.spotify.com/album/1KIyVsSMujyeSL8CROmi9I) | 2:12 | 2022-03-18 |  |

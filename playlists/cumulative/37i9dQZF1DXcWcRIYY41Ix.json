@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Acantilado",
+        "url": "https://open.spotify.com/album/1c9zckSeWZnt4SOQgCPMJ3"
+      },
+      "artists": [
+        {
+          "name": "Cala",
+          "url": "https://open.spotify.com/artist/6g6FL64oqvd0338u2g7vZt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233312,
+      "name": "Acantilado",
+      "url": "https://open.spotify.com/track/2hTKVVpy3eZen3OVgfeIOR"
+    },
+    {
+      "album": {
         "name": "Acepto",
         "url": "https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK"
       },
@@ -252,7 +270,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 207168,
       "name": "Bicicletas",
       "url": "https://open.spotify.com/track/1IGVsu5iKXsgQHjpUaxynk"
@@ -900,6 +918,24 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/7wTVJmebsW20R69dbg4Vp1"
+    },
+    {
+      "album": {
+        "name": "Boedo",
+        "url": "https://open.spotify.com/album/4nOuV5OMkUmbusb5QBwCUU"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Natal\u00ed",
+          "url": "https://open.spotify.com/artist/6aK82vwwv1SmDa5tmWVt2m"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Boedo",
+      "url": "https://open.spotify.com/track/294fC5z8w22R90Doc2jZsf"
     },
     {
       "album": {
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 122136,
       "name": "Canci\u00f3n para morir",
       "url": "https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H"
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 170400,
       "name": "Che Sy",
       "url": "https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb"
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 122821,
       "name": "Despi\u00e9rtame Cuando Llegues",
       "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
@@ -2581,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "El Incendio",
+        "url": "https://open.spotify.com/album/416M3NiP0nm7feY21N6xZv"
+      },
+      "artists": [
+        {
+          "name": "Gato e' Monte",
+          "url": "https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233685,
+      "name": "El Incendio",
+      "url": "https://open.spotify.com/track/3zS5XBRjrShQHdNEm1VBbi"
+    },
+    {
+      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo"
       },
@@ -2788,7 +2846,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 188405,
       "name": "En el r\u00edo",
       "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
@@ -2904,7 +2962,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 183712,
       "name": "Espirales",
       "url": "https://open.spotify.com/track/5B0h0OeIJHKYWQn63U9mgS"
@@ -3474,7 +3532,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 170640,
       "name": "Infinitivamente",
       "url": "https://open.spotify.com/track/4owOlsSrsHFywNTJwuEAZJ"
@@ -3656,6 +3714,24 @@
       "duration_ms": 188769,
       "name": "La Aguja (Feat. El Kanka)",
       "url": "https://open.spotify.com/track/6pDeZzUTvwAms7AA5haRK4"
+    },
+    {
+      "album": {
+        "name": "La balada de G. Clark",
+        "url": "https://open.spotify.com/album/55RufPnuWd7lDX59tmPS6X"
+      },
+      "artists": [
+        {
+          "name": "Delgado",
+          "url": "https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355062,
+      "name": "La balada de G. Clark",
+      "url": "https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq"
     },
     {
       "album": {
@@ -4612,7 +4688,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 154000,
       "name": "mar\u00eda",
       "url": "https://open.spotify.com/track/6FyKN7OBp8EH7D01shfmjM"
@@ -5523,6 +5599,24 @@
     },
     {
       "album": {
+        "name": "Ojitos M\u00edos",
+        "url": "https://open.spotify.com/album/0V8a2v7Qq4CDgUoDPKQsSq"
+      },
+      "artists": [
+        {
+          "name": "Gonzalete",
+          "url": "https://open.spotify.com/artist/4SCQ36ne7NXrwaR1bX9yWl"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192416,
+      "name": "Ojitos Grises",
+      "url": "https://open.spotify.com/track/3Yd31UDuYwCMU5OFraFcS8"
+    },
+    {
+      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -6252,7 +6346,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 203007,
       "name": "Quererme",
       "url": "https://open.spotify.com/track/1WIH59WSHPSg9TIpPNmmaO"
@@ -7086,7 +7180,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 287517,
       "name": "Sombra y Animal",
       "url": "https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg"
@@ -7148,6 +7242,28 @@
       "duration_ms": 232357,
       "name": "Tabaibas",
       "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
+    },
+    {
+      "album": {
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+      },
+      "artists": [
+        {
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     },
     {
       "album": {
@@ -7722,7 +7838,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 210235,
       "name": "Un Ayayay",
       "url": "https://open.spotify.com/track/4JmpAALgKd05VHMI0FHeGX"
@@ -7846,7 +7962,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 165750,
       "name": "Un Rinconcito",
       "url": "https://open.spotify.com/track/2DLY1Kww0RbhqgjKeuLsLo"
@@ -8315,6 +8431,24 @@
     },
     {
       "album": {
+        "name": "Principios de Declaraci\u00f3n",
+        "url": "https://open.spotify.com/album/1hJOCZEm6DEwoxI6027gxq"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247295,
+      "name": "Volver al Bosque",
+      "url": "https://open.spotify.com/track/2LyOGPRRJgWYBxfn7JFnzM"
+    },
+    {
+      "album": {
         "name": "Vidas",
         "url": "https://open.spotify.com/album/18hCohjBmXY0XoQDZNZOB4"
       },
@@ -8446,6 +8580,24 @@
       "duration_ms": 232719,
       "name": "\u00c1mbar y el Mar",
       "url": "https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9"
+    },
+    {
+      "album": {
+        "name": "\u00cd\u00f1igo",
+        "url": "https://open.spotify.com/album/1j3vaKt2UO7QLAHDJGCK6K"
+      },
+      "artists": [
+        {
+          "name": "Andrea Buenavista",
+          "url": "https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62892,
+      "name": "\u00cd\u00f1igo",
+      "url": "https://open.spotify.com/track/0Pscsul02roXTyhTEbQO6K"
     },
     {
       "album": {

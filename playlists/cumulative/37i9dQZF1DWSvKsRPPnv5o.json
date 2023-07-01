@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: DaBoii",
+  "description": "Holdin' it down for the westside. Cover: YG & Tyga",
   "name": "Westside Story",
   "tracks": [
     {
@@ -2717,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Eastside (with Kal Banx)",
+        "url": "https://open.spotify.com/album/0yk03fA2es65VDIcd5NSXe"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Eastside (with Kal Banx)",
+      "url": "https://open.spotify.com/track/6v5zJME9hOIkxQgd3v18Yj"
+    },
+    {
+      "album": {
         "name": "Eat It Up",
         "url": "https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w"
       },
@@ -3097,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Like a Million",
+        "url": "https://open.spotify.com/album/20ObfUmpMM4gnndb3pKgFQ"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139248,
+      "name": "Feelin' Like a Million",
+      "url": "https://open.spotify.com/track/5tvhE7Z3MJA5vACGpHDubE"
+    },
+    {
+      "album": {
         "name": "Fenix Flexin, Vol. 2 Intro",
         "url": "https://open.spotify.com/album/7s2SykVkoLSomIfdvbn9tC"
       },
@@ -3270,6 +3310,24 @@
       "duration_ms": 231683,
       "name": "Free Game",
       "url": "https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ"
+    },
+    {
+      "album": {
+        "name": "Free My Dawgs",
+        "url": "https://open.spotify.com/album/6p1vAfv5WEsu2yNjn1lclB"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162148,
+      "name": "Free My Dawgs",
+      "url": "https://open.spotify.com/track/3evZ0KZGKFEVaYpYxw28Wa"
     },
     {
       "album": {
@@ -3970,6 +4028,24 @@
       "duration_ms": 248700,
       "name": "Happy Hour (feat. T-Pain)",
       "url": "https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu"
+    },
+    {
+      "album": {
+        "name": "Hard Headed",
+        "url": "https://open.spotify.com/album/67nUdwCrIPZUJiaqAsn2Sj"
+      },
+      "artists": [
+        {
+          "name": "Yatta Bandz",
+          "url": "https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175410,
+      "name": "Hard Headed",
+      "url": "https://open.spotify.com/track/5O6Ec9WvYxysLcESvDmz9N"
     },
     {
       "album": {
@@ -5819,6 +5895,28 @@
     },
     {
       "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/6Ss7AxCRysRhYll4SdCrHX"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316535,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/1NZsaTXHZ8OrNoHavqQHjx"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/1MKtfOtZkLq6oIL6IG569c"
       },
@@ -6080,7 +6178,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 114840,
       "name": "My Favorite",
       "url": "https://open.spotify.com/track/0nv0sX8vTFOYCxW1V6l5Nh"
@@ -9890,6 +9988,24 @@
       "duration_ms": 127346,
       "name": "WTF",
       "url": "https://open.spotify.com/track/2ejZLWVTTr39e67FWxfWig"
+    },
+    {
+      "album": {
+        "name": "Yo Baby Mama Ugly",
+        "url": "https://open.spotify.com/album/6qg6VgcHj5aQIQIMF9TJNP"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125733,
+      "name": "Yo Baby Mama Ugly",
+      "url": "https://open.spotify.com/track/41LpHD55TiX85sDovbsgsK"
     },
     {
       "album": {

@@ -1,17 +1,17 @@
 {
   "description": "A happy place.",
-  "num_followers": 68683,
+  "num_followers": 68830,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2I5OTU1ZTY0ZDFkZWRiNTZmMDNiODc0MDU3OTA1Y2VjNGI0Njc4",
+  "snapshot_id": "MCwwMWZhNTEwOTUxMTZjNmMxYzBmMGJjOThlY2Y4NDgxZGY4NTc1NDQ2",
   "tracks": [
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
-        "name": "Substitution",
+        "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
@@ -22,10 +22,14 @@
         {
           "name": "Kungs",
           "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
       "duration_ms": 181477,
-      "name": "Substitution",
+      "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
@@ -259,18 +263,18 @@
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
-        "name": "Techno Disco Tool (Radio Edit)",
-        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC"
       },
       "artists": [
         {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
         }
       ],
-      "duration_ms": 194307,
-      "name": "Techno Disco Tool - Radio Edit",
-      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
+      "duration_ms": 149508,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
     },
     {
       "added_at": "2023-06-26 16:00:00",
@@ -291,18 +295,18 @@
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
-        "name": "Oh Honey",
-        "url": "https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC"
+        "name": "Techno Disco Tool (Radio Edit)",
+        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
       },
       "artists": [
         {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
+      "duration_ms": 194307,
+      "name": "Techno Disco Tool - Radio Edit",
+      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
     },
     {
       "added_at": "2023-06-26 16:00:00",
@@ -523,6 +527,22 @@
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
+    },
+    {
+      "added_at": "2023-06-26 16:00:00",
+      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
       },
@@ -539,22 +559,6 @@
       "duration_ms": 189003,
       "name": "Summer Lovin' - Edit",
       "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
-    },
-    {
-      "added_at": "2023-06-26 16:00:00",
-      "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-06-26 16:00:00",
@@ -635,30 +639,6 @@
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
-        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
-      },
-      "artists": [
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Josh Barry",
-          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
-    },
-    {
-      "added_at": "2023-06-26 16:00:00",
-      "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN"
       },
@@ -683,6 +663,30 @@
       "duration_ms": 298416,
       "name": "Heaven (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw"
+    },
+    {
+      "added_at": "2023-06-26 16:00:00",
+      "album": {
+        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
     },
     {
       "added_at": "2023-06-26 16:00:00",
@@ -743,6 +747,22 @@
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Je Vulesse",
+      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
+    },
+    {
+      "added_at": "2023-06-26 16:00:00",
+      "album": {
         "name": "Must Be Love (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
       },
@@ -759,22 +779,6 @@
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
-    },
-    {
-      "added_at": "2023-06-26 16:00:00",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Je Vulesse",
-      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
     },
     {
       "added_at": "2023-06-26 16:00:00",
@@ -871,22 +875,6 @@
     {
       "added_at": "2023-06-26 16:00:00",
       "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
-      },
-      "artists": [
-        {
-          "name": "Picard Brothers",
-          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
-    },
-    {
-      "added_at": "2023-06-26 16:00:00",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -899,6 +887,22 @@
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2023-06-26 16:00:00",
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
+      },
+      "artists": [
+        {
+          "name": "Picard Brothers",
+          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
     },
     {
       "added_at": "2023-06-26 16:00:00",

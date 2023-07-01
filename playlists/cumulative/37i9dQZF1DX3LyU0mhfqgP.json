@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: Urias",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: Dana International",
   "name": "GLOW",
   "tracks": [
     {
@@ -10476,6 +10476,24 @@
       "duration_ms": 223158,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/6ql1z5p5t2OXMxIxsRcYUu"
+    },
+    {
+      "album": {
+        "name": "PLS DADDY",
+        "url": "https://open.spotify.com/album/1yMKq2OFt9PGa9e7fiBRCI"
+      },
+      "artists": [
+        {
+          "name": "Robin Solf",
+          "url": "https://open.spotify.com/artist/0s2mgqgMuYfyB1c5rysyXL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130432,
+      "name": "PLS DADDY",
+      "url": "https://open.spotify.com/track/11LItHLzC70mIBzlifYCPU"
     },
     {
       "album": {

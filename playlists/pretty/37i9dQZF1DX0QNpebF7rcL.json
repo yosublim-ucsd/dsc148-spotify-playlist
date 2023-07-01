@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 48729,
+  "num_followers": 48799,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODgxNDBjZGY4ODBjMGE4OWNjZTI3NWVhZWE0ZGNmMThmMWM2ZjY0",
+  "snapshot_id": "MCw0MGU1MjQwMDZmNDgzZDdlN2ZkODIyNDI1ZWU3ZDMxM2QwOWJlNjFl",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "I'm Free",
+        "url": "https://open.spotify.com/album/3IW3DJaCMBengGSULp86w8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 252811,
+      "name": "I'm Free",
+      "url": "https://open.spotify.com/track/7CD17NlIJRHmDRfl3oUa1a"
+    },
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO"
     },
     {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+    },
+    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "LaVette!",
@@ -59,22 +107,6 @@
       "duration_ms": 311013,
       "name": "Don't Get Me Started",
       "url": "https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/3plZvUdCRuc5h5PzzoEs7S"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 232654,
-      "name": "I'm The One",
-      "url": "https://open.spotify.com/track/74uqmsTpust7vhkIuyt1kl"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -199,22 +231,6 @@
       "duration_ms": 280040,
       "name": "Hard To Be A Human",
       "url": "https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Tell Everybody",
-        "url": "https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "Tell Everybody",
-      "url": "https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 192484,
       "name": "She Calls Me Kingfish",
       "url": "https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Pinky's Blues",
-        "url": "https://open.spotify.com/album/7g9Y9WfxLZuswzgCy4Pwpq"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 224151,
-      "name": "Two Bit Texas Town",
-      "url": "https://open.spotify.com/track/48WPGpuRXtUYWa353MFFtU"
     },
     {
       "added_at": "2021-11-05 04:00:00",

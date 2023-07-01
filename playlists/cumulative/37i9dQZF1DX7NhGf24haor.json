@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 175874,
       "name": "Activation",
       "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 199500,
       "name": "ARCEUS",
       "url": "https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 196576,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
@@ -900,6 +900,28 @@
       "duration_ms": 211200,
       "name": "Bowy (The World Is Yours)",
       "url": "https://open.spotify.com/track/14sNEXdQWD74CkF5GTLd8l"
+    },
+    {
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231157,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
     },
     {
       "album": {
@@ -1399,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "DAMAGE",
+        "url": "https://open.spotify.com/album/02Ps7gwhBl9dnOEWIG8UEF"
+      },
+      "artists": [
+        {
+          "name": "Riot Shift",
+          "url": "https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY"
+        },
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/4D2zwRijiqYlyNwpDjkr1T"
+    },
+    {
+      "album": {
         "name": "Dare To Dream (feat. Handed)",
         "url": "https://open.spotify.com/album/5lGXsOG0YhfvRLx9WHoQ4M"
       },
@@ -1620,6 +1664,28 @@
       "duration_ms": 192000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4aSEXxxd8fXP5nw1e8cFOr"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/1hbNdwhhlWA1Pbb56nWoK0"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221439,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/18oM3wT3P9tFxWC3Opzs18"
     },
     {
       "album": {
@@ -2201,6 +2267,28 @@
     },
     {
       "album": {
+        "name": "Face Of Chaos (Luminite Remix)",
+        "url": "https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Luminite",
+          "url": "https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Face Of Chaos - Luminite Remix",
+      "url": "https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
       },
@@ -2242,7 +2330,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 156000,
       "name": "Fantasy (Tricky Disco)",
       "url": "https://open.spotify.com/track/7KxiqXmrEikGonyuxz50Qk"
@@ -3016,6 +3104,28 @@
       "duration_ms": 115818,
       "name": "Hardcore Feelings",
       "url": "https://open.spotify.com/track/454EZ9uClmM1ntuZHgsDdR"
+    },
+    {
+      "album": {
+        "name": "Haters Gonna Hate",
+        "url": "https://open.spotify.com/album/6YdXmE0Y7rdRTcsuyRvdgJ"
+      },
+      "artists": [
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        },
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204987,
+      "name": "Haters Gonna Hate",
+      "url": "https://open.spotify.com/track/23iuOKtuHud27plhvvmUNy"
     },
     {
       "album": {
@@ -3835,6 +3945,32 @@
     },
     {
       "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Marc Blou",
+          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
+    },
+    {
+      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/4VEqCPPDZMrMgnDvvXD3IZ"
       },
@@ -3872,7 +4008,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 235294,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/0w9Ycu6AN8kuN5LyIskWJD"
@@ -4194,7 +4330,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 168812,
       "name": "Ladada (Mes Derniers Mots) - Sound Rush Remix",
       "url": "https://open.spotify.com/track/5ysw24SsAfqTqpdQjOFqmc"
@@ -4992,7 +5128,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 225290,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5EmCgQS7FJM4IcXla6IqDb"
@@ -5380,7 +5516,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 208451,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo"
@@ -5468,6 +5604,24 @@
       "duration_ms": 227991,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g"
+    },
+    {
+      "album": {
+        "name": "Nothing About You",
+        "url": "https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196307,
+      "name": "Nothing About You",
+      "url": "https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz"
     },
     {
       "album": {
@@ -5870,7 +6024,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 208101,
       "name": "Out Of The Frame",
       "url": "https://open.spotify.com/track/1gXIL1SScEEYv9MxlRN9hj"
@@ -6702,6 +6856,28 @@
       "duration_ms": 205935,
       "name": "Riders Of The Storm",
       "url": "https://open.spotify.com/track/7yuse8hjUyQ1nzbuUJ7OxC"
+    },
+    {
+      "album": {
+        "name": "TOO FAST",
+        "url": "https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/03yCWOsdgVJyww4SB5unJs"
     },
     {
       "album": {
@@ -7645,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "Take It All",
+        "url": "https://open.spotify.com/album/63RJgFld599uqPCSzdwUr1"
+      },
+      "artists": [
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173177,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/14mhMrKK9PcgLfWWiOnG9e"
+    },
+    {
+      "album": {
         "name": "Take you Higher",
         "url": "https://open.spotify.com/album/352EHY2AyJpLbHNbzcemKB"
       },
@@ -7748,6 +7942,24 @@
       "duration_ms": 233805,
       "name": "The Air I Breathe - Adaro Remix",
       "url": "https://open.spotify.com/track/5BAkAaLOznKvM8kRNkxOUM"
+    },
+    {
+      "album": {
+        "name": "The Bomb",
+        "url": "https://open.spotify.com/album/4S37Wgik5n4lzYjndOYFIO"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198470,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/6iqCjwtQvYIeRGc4pabc9K"
     },
     {
       "album": {
@@ -8564,7 +8776,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 128516,
       "name": "Trommels",
       "url": "https://open.spotify.com/track/6aDqCxxfcz2d9Rxbjdg8DB"
@@ -8882,7 +9094,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 188820,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/5Cv53NmsFDpg0KWjaU5dCf"
@@ -9295,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/71CTdv5nat1oqQG80GDA4K"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213322,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/1nHyRJeXwM0gngZiqEhblw"
+    },
+    {
+      "album": {
         "name": "Where is the Beat?",
         "url": "https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8"
       },
@@ -9415,6 +9645,24 @@
     },
     {
       "album": {
+        "name": "Work My Body",
+        "url": "https://open.spotify.com/album/5hXObVDSKOYxhs3KHmpFXr"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233806,
+      "name": "Work My Body",
+      "url": "https://open.spotify.com/track/7qo3ijgvEpDGZgGaqPID0X"
+    },
+    {
+      "album": {
         "name": "XTC",
         "url": "https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj"
       },
@@ -9430,7 +9678,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 159843,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"

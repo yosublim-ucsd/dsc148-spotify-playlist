@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
+> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
 
-731 songs - 2 day 6 hr 21 min
+733 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Bring It On](https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Bring It On](https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8) | 3:08 | 2021-12-17 | 2022-07-02 |
 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 | 2022-07-08 | 2023-02-11 |
 | [Bring The Rain](https://open.spotify.com/track/0YnWl0ibjnyZFN164rkDLX) | [Surrender The Crown](https://open.spotify.com/artist/4sJsIehq82zwyZXrE4ItMR) | [Ready For A War EP](https://open.spotify.com/album/14DNHX332nSwQFg2hyCPBQ) | 3:26 | 2022-03-22 | 2022-04-18 |
-| [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 | 2022-07-08 |  |
+| [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 | 2022-07-08 | 2023-07-01 |
 | [Broken Cog](https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/1AS4JyVjjOgILIZ7TyhOKZ) | 5:35 | 2022-04-01 | 2022-07-13 |
 | [Brother of the Storm](https://open.spotify.com/track/16xgTpD2IK6HNxnYOhuAGn) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Brother of the Storm](https://open.spotify.com/album/3lLA3FMglcgPttcLCUEUuU) | 3:15 | 2021-12-17 | 2022-07-25 |
 | [Brotherhood](https://open.spotify.com/track/5jlIi8hFU2xie0fDS3i4dJ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Brotherhood](https://open.spotify.com/album/6pidMKylucHBLtF47zixqa) | 4:40 | 2022-03-02 | 2022-07-29 |
@@ -141,6 +141,7 @@
 | [Cyberhex](https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Cyberhex](https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA) | 4:35 | 2022-04-01 | 2022-11-07 |
 | [Cybernetic Overload](https://open.spotify.com/track/4Hs6DfCznvZ6wVjfmt0Rbz) | [Kambrium](https://open.spotify.com/artist/0rrHjjV4E5FY90raLsXUyh) | [Cybernetic Overload](https://open.spotify.com/album/0JAJvtzHGsXelq34uUcj8R) | 5:19 | 2021-12-17 | 2022-06-05 |
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-06-09 |  |
+| [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 | 2023-06-30 |  |
 | [Dance with the Devil](https://open.spotify.com/track/0x4rHQ1Syor8YChasHuRJg) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Dance with the Devil](https://open.spotify.com/album/0prKZd93okYXYYIxrYTtzQ) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Dangerous Ground](https://open.spotify.com/track/0eeH8SFeeaIv0lQz61cyL2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Dangerous Ground](https://open.spotify.com/album/5ghPmOARm9W1mA04erYQfW) | 4:06 | 2021-12-17 | 2022-07-29 |
 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 | 2022-07-08 | 2022-09-24 |
@@ -158,7 +159,7 @@
 | [Defence of Moscow](https://open.spotify.com/track/27q9ZWmSFwCqq7B2unoHRG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Defence of Moscow](https://open.spotify.com/album/6sJEfwnTIxQZC1boBo2aqY) | 4:08 | 2021-12-17 | 2022-01-08 |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-09-09 | 2023-03-20 |
 | [Deliver Us From Evil](https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Deliver Us From Evil](https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO) | 5:21 | 2021-12-17 | 2022-08-20 |
-| [Delivering The Goods](https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Delivering The Goods](https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0) | 4:27 | 2023-03-03 |  |
+| [Delivering The Goods](https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Delivering The Goods](https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0) | 4:27 | 2023-03-03 | 2023-07-01 |
 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 | 2022-07-08 | 2023-03-18 |
 | [Demons Are A Girl's Best Friend](https://open.spotify.com/track/2JwQ5NZzqLYyKEKJhfsItN) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Demons Are A Girl's Best Friend](https://open.spotify.com/album/3KOXlAYb8ESt7oHM9mUK9R) | 3:38 | 2021-12-17 | 2022-07-28 |
 | [Demons Are A Girl's Best Friend](https://open.spotify.com/track/12frB4w7ukdn1hzfBiWRjq) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Demons Are A Girl's Best Friend](https://open.spotify.com/album/6SFftjmYjvGAvRa2k8WHWC) | 3:37 | 2021-12-17 | 2022-07-29 |
@@ -575,6 +576,7 @@
 | [Still Alive](https://open.spotify.com/track/09OnB8xeghs8FRnu4dJKmU) | [Nocturnal Rites](https://open.spotify.com/artist/0dSoaJ8iEP3aid30p18O2g) | [Grand Illusion](https://open.spotify.com/album/4QMOKIrJCvPTwbimx6uB26) | 4:02 | 2022-03-22 | 2022-04-21 |
 | [Stinkfist](https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 5:12 | 2022-08-19 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 | 2022-07-13 | 2022-08-31 |
+| [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2023-06-30 |  |
 | [Straight to the Heart](https://open.spotify.com/track/5CgFJ4mJ22XGN3JRj3XAg2) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Bringer of Pain](https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS) | 3:31 | 2022-07-08 | 2023-03-11 |
 | [Straight to the Heart](https://open.spotify.com/track/1YzpldeqIg9ajimliORKzK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Bringer of Pain](https://open.spotify.com/album/5MdrTymhBb1Zt5LJHGlDL9) | 3:31 | 2021-12-17 | 2022-07-27 |
 | [Stratego](https://open.spotify.com/track/6zctLQjQkNI0agikPLbO9N) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Stratego](https://open.spotify.com/album/28iyzL4zTcWLhKVoKXMlR2) | 4:59 | 2021-12-17 | 2022-06-19 |

@@ -1533,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "Azaadi (From \"Spy\")",
+        "url": "https://open.spotify.com/album/5IG1wSmwCfZfTB581k0bzM"
+      },
+      "artists": [
+        {
+          "name": "Velu",
+          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
+        },
+        {
+          "name": "Sricharan Pakala",
+          "url": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
+        },
+        {
+          "name": "D.Mohan Kumar",
+          "url": "https://open.spotify.com/artist/1ZNjvrF2WSxwtLYrPIPfQQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Azaadi (From \"Spy\")",
+      "url": "https://open.spotify.com/track/6vDw59DizsyaP4eFhZrztQ"
+    },
+    {
+      "album": {
         "name": "Azha Thonudhe (From \"Kaathuvaakula Rendu Kaadhal\")",
         "url": "https://open.spotify.com/album/2Hb0K7naIGma7VYHVQ5DYp"
       },
@@ -3594,7 +3620,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 144375,
       "name": "Enadhuyir Enge",
       "url": "https://open.spotify.com/track/4nwqDDhyEPnUnJopAVEYQX"
@@ -8833,6 +8859,24 @@
     },
     {
       "album": {
+        "name": "Muththa Pichchai",
+        "url": "https://open.spotify.com/album/5UQlS7Pw1cfoZpS5RK0GWM"
+      },
+      "artists": [
+        {
+          "name": "Gautham Vasudev Menon",
+          "url": "https://open.spotify.com/artist/2Fl0BwBH1KNwkrinajN5dI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295292,
+      "name": "Muththa Pichchai",
+      "url": "https://open.spotify.com/track/1kVLbqrZsMFcy7qomNFquV"
+    },
+    {
+      "album": {
         "name": "Muthuvel Pandian Theme (From \"Jailer\")",
         "url": "https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS"
       },
@@ -11482,7 +11526,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 252334,
       "name": "Ponniyamma - From \"Harkara\"",
       "url": "https://open.spotify.com/track/1wI39iEEvoUBWOTum1RQKD"
@@ -12220,6 +12264,24 @@
       "duration_ms": 289942,
       "name": "Ratchasa Maamaney (From \"Ponniyin Selvan Part-1\")",
       "url": "https://open.spotify.com/track/6aNiR1YsERzcABil2gYQ1b"
+    },
+    {
+      "album": {
+        "name": "Rattakka Rattakka (From \"Kadapuraa Kalaikuzhu\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6jenXL4hG8H4NzSTygX4DF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226070,
+      "name": "Rattakka Rattakka (From Kadapuraa Kalaikuzhu)",
+      "url": "https://open.spotify.com/track/0WjlhGRpHpDQ7uqKJvc3wn"
     },
     {
       "album": {
@@ -14538,7 +14600,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 259199,
       "name": "Theeye Dhaagamo",
       "url": "https://open.spotify.com/track/4PpflB9CYa3q3wPRGXneMa"
@@ -15550,7 +15612,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 194307,
       "name": "Uravu",
       "url": "https://open.spotify.com/track/3bXhstkcy4TU5ZuOuJWOwy"
@@ -15662,7 +15724,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 299843,
       "name": "Utchanthala",
       "url": "https://open.spotify.com/track/79zseHP5VW088jC26gaobE"

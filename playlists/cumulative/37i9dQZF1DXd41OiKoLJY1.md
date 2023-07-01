@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Owfuck Artwork: Isu Kim
 
-1,386 songs - 3 day 10 hr 39 min
+1,389 songs - 3 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Close](https://open.spotify.com/track/1nkRgNbqNCvKulQ7yTqnIB) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Close](https://open.spotify.com/album/5BFQewIV56VFleSse4Ldeq) | 2:46 | 2023-05-25 | 2023-06-16 |
 | [Close 2 U](https://open.spotify.com/track/1I4tKbHSbjrIe5Ab0vn9WR) | [BEY](https://open.spotify.com/artist/6MYSHBS05JhG9w72ZONg9r) | [Close 2 U](https://open.spotify.com/album/7HjtHBurQJVHiKK6YwVWu7) | 3:32 | 2022-11-24 | 2022-12-01 |
 | [Close 2 U](https://open.spotify.com/track/33ENc4gz8QUU5Ob7OGeWqF) | [BEY](https://open.spotify.com/artist/6MYSHBS05JhG9w72ZONg9r) | [Close 2 U](https://open.spotify.com/album/5fSUB6XkKUpNVUjQKqTGbQ) | 3:32 | 2023-01-12 | 2023-02-10 |
+| [Close To Me](https://open.spotify.com/track/7JfUm940NkOmCqRHLptcdY) | [98alwayslate](https://open.spotify.com/artist/7gf9yX6HAWmBR1eieaZPqB) | [Close To Me](https://open.spotify.com/album/32xk9WhWfTektWCFQPM8Xo) | 2:43 | 2023-06-29 |  |
 | [Close To Me](https://open.spotify.com/track/5WDItQyAeyqWt2xvqZW3dn) | [Francis DP](https://open.spotify.com/artist/4HmY02cUKsU92u2dNQkPzX) | [Close To Me](https://open.spotify.com/album/43E1cAFHFlO86tsJMfnT6M) | 3:42 | 2023-05-18 | 2023-06-02 |
 | [Close To You](https://open.spotify.com/track/1tYdOwAOIzWhdrnK4g9QCc) | [Cydel](https://open.spotify.com/artist/17BHZBOCKQZpUISW5h1qiU) | [Close To You](https://open.spotify.com/album/5LGToTo7blflqj5FOx4DXf) | 2:54 | 2022-08-19 | 2022-09-23 |
 | [CLOSE2YOU](https://open.spotify.com/track/4kox6M6KjrSQoQzeuKckwu) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL) | [CLOSE2YOU](https://open.spotify.com/album/3JgQebKq3Gwp0QL28U8vMF) | 2:25 | 2022-10-13 | 2023-02-03 |
@@ -418,7 +419,7 @@
 | [Free](https://open.spotify.com/track/4jZwbDeSM6sfCTnozmEIXz) | [Saving Sunday](https://open.spotify.com/artist/35lbEQN5UygV5hkQAzZJk6) | [Free](https://open.spotify.com/album/146g2naab3Anbq5JHUr2FG) | 4:52 | 2023-06-22 |  |
 | [Friend Song](https://open.spotify.com/track/3kkS9BGEwzAT9YLOL5AFRi) | [alpha yang](https://open.spotify.com/artist/09QqZsgEmhAkYA99qe6QrE) | [Friend Song](https://open.spotify.com/album/4l8wGIJhuQFdzweVXKKzqQ) | 1:31 | 2023-02-16 | 2023-03-03 |
 | [Friends](https://open.spotify.com/track/302X6GkmSnEs7IqG5xu5jz) | [AceeTheAce](https://open.spotify.com/artist/3plVtkzeZ9hmYGAU318qiP), [kenzaid](https://open.spotify.com/artist/5uEHNaX6dTrkuTzul7PTTj) | [Friends](https://open.spotify.com/album/0BAdJkgSyamgvp5KXk46TU) | 3:13 | 2022-06-16 | 2022-07-29 |
-| [Friendzone \(Di Daw Tayo Bagay\)](https://open.spotify.com/track/4GgeByozUlRZ5baJNKdSwZ) | [Japo Vs the French Girl](https://open.spotify.com/artist/14I96EEjQFjMejE629gJZ7) | [Friendzone \(Di Daw Tayo Bagay\)](https://open.spotify.com/album/0rMBRIeBHOwmA7wR9BlRaK) | 4:13 | 2023-06-29 |  |
+| [Friendzone \(Di Daw Tayo Bagay\)](https://open.spotify.com/track/4GgeByozUlRZ5baJNKdSwZ) | [Japo Vs the French Girl](https://open.spotify.com/artist/14I96EEjQFjMejE629gJZ7) | [Friendzone \(Di Daw Tayo Bagay\)](https://open.spotify.com/album/0rMBRIeBHOwmA7wR9BlRaK) | 4:13 | 2023-06-29 | 2023-07-01 |
 | [Friendzoned](https://open.spotify.com/track/3lKwkiojQKLMPg6I7IrNt2) | [Michaella Torres](https://open.spotify.com/artist/3fox8TOWKVvrnMy7yOG1OP) | [Friendzoned](https://open.spotify.com/album/3l3uSVRRzRCf6BaUFZdAsd) | 4:05 | 2022-04-07 | 2022-06-17 |
 | [Fry Day](https://open.spotify.com/track/27bfs3LzacEI11kQybp6Hz) | [Hash One](https://open.spotify.com/artist/6YHnjMf6McOCgAUK0VNVGC) | [The Shiznitz](https://open.spotify.com/album/6jeFZm0wWxoFLTQirpp8G9) | 1:52 | 2023-02-09 | 2023-02-24 |
 | [fxck love](https://open.spotify.com/track/24trgBSwAcGfnTxSapXR93) | [Th1rt3en Yuzora](https://open.spotify.com/artist/0ZsV5LjbQKkSE6zkQbGQgc) | [fxck love](https://open.spotify.com/album/0DardX4EnbupGzpvfOZSy1) | 2:04 | 2023-04-20 | 2023-05-05 |
@@ -485,6 +486,7 @@
 | [Halaga \(1553\)](https://open.spotify.com/track/5NLuEozQdasSn9Pu5PnW4r) | [nikko](https://open.spotify.com/artist/4iTGD1IiSfm4z0PPeULqnK) | [Halaga \(1553\)](https://open.spotify.com/album/2w5GmPK4SpI0hiMCoa1ypv) | 4:10 | 2022-02-10 | 2023-01-13 |
 | [Half Love](https://open.spotify.com/track/4Oy1lxi9HUox4E81EWPqln) | [Kayla Rivera](https://open.spotify.com/artist/2RIwZQX2wtee7rC9HuAniF) | [Half Love](https://open.spotify.com/album/6Nz6bQZN8Mgjs4xdZSQgxk) | 4:14 | 2022-08-11 | 2022-09-23 |
 | [halfway](https://open.spotify.com/track/1TsRJY9Z73ziHCNNyKwsGG) | [Renzo Sy](https://open.spotify.com/artist/4rfbCfMiXIqYNOII8JJFbB) | [halfway](https://open.spotify.com/album/7dTZLOLJKm2VHacEKHct9B) | 3:27 | 2023-05-18 | 2023-06-02 |
+| [Halika](https://open.spotify.com/track/1GHhEzFU4P5hm0ur1y3cA5) | [Ghicelle](https://open.spotify.com/artist/7flbvBCpxbRZ9eE9pJqp3a) | [Halika](https://open.spotify.com/album/7iRws3jj8928CDg0bc99qF) | 3:08 | 2023-06-29 |  |
 | [Halika](https://open.spotify.com/track/51LSh1Er9ctc6UjwVqp3K4) | [Kaela](https://open.spotify.com/artist/1ks6J6i6qliulO0UGJLK0V) | [Halika](https://open.spotify.com/album/6X5SuRmpIvvHpjp32M8ga6) | 3:48 | 2022-09-08 | 2022-12-01 |
 | [Halimuyak](https://open.spotify.com/track/4dFnQg8ZoWwr24r9sjeZKO) | [IMELDA](https://open.spotify.com/artist/4oEhLoaLoDM2VWNAmiwV6J) | [Halimuyak](https://open.spotify.com/album/5nYUmI8JvUTQ8curieFak5) | 3:14 | 2023-02-23 | 2023-03-10 |
 | [Hanap](https://open.spotify.com/track/3XBPisw6xLwUPOYHGFQXz7) | [Pastel Sky PH](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Hanap](https://open.spotify.com/album/6fzxkTzGyT5fCneIdFCahB) | 4:18 | 2023-06-01 | 2023-06-16 |
@@ -1345,6 +1347,7 @@
 | [WAZE](https://open.spotify.com/track/6bB0C0j9lRaF9p9nV5itGj) | [Lyrus Lee](https://open.spotify.com/artist/6TApVvDDtb3qrJUWxII8VM), [Alab mac](https://open.spotify.com/artist/5tPerQ6K0RMIcjXWZRLeN2) | [WAZE](https://open.spotify.com/album/45GdlWFKQJEQUVn2rfaAeW) | 3:01 | 2023-03-09 | 2023-03-31 |
 | [We Should've Walked But We Ran](https://open.spotify.com/track/3bcaxHusFgkxfDXxhWb4lc) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [We Should've Walked But We Ran](https://open.spotify.com/album/3ZNBUMaJmn4butHAE0XFl4) | 4:14 | 2022-09-08 | 2022-11-25 |
 | [We'll Make It](https://open.spotify.com/track/5BQkDSq0Ede8OXMiDFbAPW) | [Ruuu](https://open.spotify.com/artist/0h8CTim59fwR1EVwYl5TbX) | [PLASMA](https://open.spotify.com/album/6Y29nbRz6o8Pl1wgaYZYUG) | 3:30 | 2023-06-01 | 2023-06-23 |
+| [Welcome](https://open.spotify.com/track/6VzfvM4PUX4MAbqX9UYXBk) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Welcome](https://open.spotify.com/album/1ddVz6ywCVmMR1oO9uj9Lc) | 2:47 | 2023-06-29 |  |
 | [What A Life](https://open.spotify.com/track/0qv88kgrqpFRuYluNcmeuU) | [Boy Graduate](https://open.spotify.com/artist/439SsPuTNabVbIb3eDAV0v) | [Own Advice](https://open.spotify.com/album/6u4WLD6JrcUYSlnto8byXM) | 2:32 | 2022-05-19 | 2022-07-29 |
 | [What Happened Yesterday?](https://open.spotify.com/track/52wD58jYmY4nzhTRTH6lzB) | [HTTM](https://open.spotify.com/artist/236B9UfvqdK09GmJyuzJaF) | [What Happened Yesterday?](https://open.spotify.com/album/7woOXyiKavmRKN6KKS7VC0) | 3:42 | 2022-03-31 | 2022-04-08 |
 | [What I Need](https://open.spotify.com/track/5hQpWTlhMd42XdUFLNxFJf) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C), [Teddy Travis](https://open.spotify.com/artist/5sl54zMTjTVCOYbqwlJkLQ) | [What I Need](https://open.spotify.com/album/0RT7bBJdRtzlVMZDhglJRs) | 2:47 | 2023-05-18 | 2023-06-02 |

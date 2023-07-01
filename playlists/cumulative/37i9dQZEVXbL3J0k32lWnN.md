@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,132 songs - 2 day 10 hr 59 min
+1,133 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,7 @@
 | [Push it to the limit](https://open.spotify.com/track/0WeXi2KCJCzy8DE7jVdxle) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Push it to the limit](https://open.spotify.com/album/4npKlBAOvFmtjzlfmhgxr0) | 2:28 | 2021-09-19 | 2022-01-08 |
 | [Push It To The Limit](https://open.spotify.com/track/7ptYtPLqF0GPIFYqLdgr1P) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [FORZA](https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi) | 2:28 | 2022-03-11 | 2022-03-15 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-05 | 2022-11-14 |
-| [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 | 2023-05-18 |  |
+| [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 | 2023-05-18 | 2023-07-01 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-15 | 2023-05-21 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-24 | 2022-10-29 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-05 | 2021-09-06 |
@@ -852,6 +852,7 @@
 | [Re\-sepp\-ten \- VM\-sang 1986](https://open.spotify.com/track/6UPcylAJnEKnRanHyL64Qb) | [VM Holdet](https://open.spotify.com/artist/6zY5uObMbO0Snvp5jBYIdL), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX), [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf) | [Re\-Sepp\-Ten](https://open.spotify.com/album/1HHi8g9utUPTiy3vsOnAgF) | 5:23 | 2021-06-13 | 2022-11-29 |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-10-10 | 2021-10-11 |
 | [Red Flags](https://open.spotify.com/track/5jcsj5jqLoZoi8XKxe23Vh) | [Englando](https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA) | [Red Flags](https://open.spotify.com/album/5dNPbpIVH021rkby8i4i52) | 2:47 | 2023-04-15 | 2023-06-11 |
+| [Red Flags \(feat\. Alex Skrindo & Langhoff\) \- REMIX](https://open.spotify.com/track/0TcldAcP3ky3mx0dDiDsHL) | [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF), [Englando](https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA), [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Langhoff](https://open.spotify.com/artist/4DwnFzvrHtEbmaD4dUTiKO) | [Red Flags REMIX \(feat\. Alex Skrindo & Langhoff\)](https://open.spotify.com/album/2GhMngJbhYKaLvQYLtyAWi) | 2:52 | 2023-06-30 |  |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-04 |
 | [Renæssance \(feat\. Jimilian\)](https://open.spotify.com/track/287uPxWhUGvBwy5e9qi1jK) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:37 | 2023-02-11 | 2023-02-18 |
 | [Rewind](https://open.spotify.com/track/1Ra5pMInPLGAHsyWSRKl5Y) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:09 | 2022-02-19 | 2022-02-21 |

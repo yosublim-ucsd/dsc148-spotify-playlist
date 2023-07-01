@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6BZXL2Ayjmp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6BZXL2Ayjmp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6BZXL2Ayjmp)
 
-### [Ambiente x Kaitlyn Aurelia Smith](https://open.spotify.com/playlist/37i9dQZF1DX6BZXL2Ayjmp)
+### [Ambient X Takeover: Kaitlyn Aurelia Smith](https://open.spotify.com/playlist/37i9dQZF1DX6BZXL2Ayjmp)
 
-> Kaitlyn Aurelia Smith's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Kaitlyn Aurelia Smith's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 21 songs - 1 hr 54 min
 

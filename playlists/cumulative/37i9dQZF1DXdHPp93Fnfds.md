@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Abril Olivera
 
-511 songs - 1 day 5 hr 18 min
+513 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2022-07-21 |
 | [Antes](https://open.spotify.com/track/1pnE4Unmn63LONQ52SEmHe) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Antes \(de florecer\)](https://open.spotify.com/album/3sj339uXFqdnEWUiTb96nE) | 3:20 | 2022-02-11 | 2022-04-21 |
 | [Aprendí](https://open.spotify.com/track/6dmkQyR2K1ACuKCpi9XeLq) | [Cata Torres](https://open.spotify.com/artist/1i4RvIEPT6l7f6gzmwi1QH) | [Aprendí](https://open.spotify.com/album/5OXtmT402TOZVx9zFtwDje) | 3:06 | 2022-04-01 | 2022-04-17 |
-| [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-30 |  |
+| [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-30 | 2023-07-01 |
 | [Aquiles](https://open.spotify.com/track/2y2qqW1F0SqIpdXy9lV2Xy) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH) | [Aquiles](https://open.spotify.com/album/4aM9vvvIr65K0m1C9PPKai) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 | 2022-04-01 | 2022-04-29 |
 | [Arquitecturas Extrañas](https://open.spotify.com/track/29wftzCXRFo2NLspyl5Ykg) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:10 | 2022-01-21 | 2022-07-03 |
@@ -108,6 +108,7 @@
 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 | 2022-05-20 | 2022-06-29 |
 | [Cosas Moradas](https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ya Dormiré Cuando Me Muera](https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w) | 2:39 | 2022-01-21 | 2023-06-10 |
 | [Costa Brava](https://open.spotify.com/track/1v8BGid2yEnnb7rBEf1qoc) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Sector Apagado](https://open.spotify.com/album/5M1wEgLPmIX6d15YolKaie) | 2:54 | 2022-01-21 | 2022-07-13 |
+| [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-06-30 |  |
 | [Cuando](https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:10 | 2022-01-21 | 2022-10-13 |
 | [Cuando](https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:10 | 2022-12-09 | 2023-04-16 |
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-01-21 | 2022-07-17 |
@@ -261,6 +262,7 @@
 | [Luna de Valencia](https://open.spotify.com/track/6Yr9dye7jD65QDW3DRXSDD) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Luna de Valencia](https://open.spotify.com/album/3fuKGTuuYBRvVxaulGq2Mx) | 2:49 | 2022-01-21 | 2022-07-18 |
 | [Lágrimas](https://open.spotify.com/track/0B5OGKU6OD2IKQBb3k84vk) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Lágrimas](https://open.spotify.com/album/1IXegWF19PGkqmkaL1xQwh) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [M2](https://open.spotify.com/track/45JFy1hrbnfTzS18foQ5yZ) | [Maia Basso](https://open.spotify.com/artist/7zNrkkdNEcYNogDpjZMAEI) | [La Pregunta Última](https://open.spotify.com/album/2DFkYtvFtgBHYoGeUZjkrR) | 4:53 | 2022-02-11 | 2022-07-18 |
+| [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-06-30 |  |
 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 | 2022-04-01 |  |
 | [Manantial](https://open.spotify.com/track/7uzWKaLX90ejqe8Ha71Mhh) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Manantial](https://open.spotify.com/album/0YeDa0ObnnbZhCZXf5oaBS) | 2:50 | 2022-06-03 | 2022-07-25 |
 | [Mandolin](https://open.spotify.com/track/7zv9v808xkSHwSnVsE3j14) | [Barbi Bloom](https://open.spotify.com/artist/6kKUt2inJruJEL9jZ89lJ5) | [Mandolin](https://open.spotify.com/album/1n2BooIWT74yPWEfRY6XRh) | 2:52 | 2022-07-08 | 2022-07-28 |
@@ -337,7 +339,7 @@
 | [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 |  |
 | [Otro Café](https://open.spotify.com/track/11nOwkwi4fCSbSowdrMhBi) | [Jimena Gonik](https://open.spotify.com/artist/0zzqP0G1PR5B9Em78h6ibv) | [Otro Café](https://open.spotify.com/album/6OuR0BZ2t5csQsCotYUQaD) | 3:03 | 2022-04-01 | 2022-07-28 |
 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 | 2022-01-14 | 2023-06-10 |
-| [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-05-12 |  |
+| [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-05-12 | 2023-07-01 |
 | [Otro Universo](https://open.spotify.com/track/20n1iiiZDUEyrqTlwtJZjT) | [Luli Interllige](https://open.spotify.com/artist/6JRnOrJxnwXfS8kldJL2OO), [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9) | [Otro Universo](https://open.spotify.com/album/2l4IOiFLNwGrtVtXkL27AV) | 3:37 | 2022-02-11 | 2022-04-17 |
 | [Pa Lante](https://open.spotify.com/track/11fxEn95S7K4c2kXx8cmDM) | [Fabiana Brenner](https://open.spotify.com/artist/3FzRkXZD5SfQXxkjcQYJpo) | [Curare](https://open.spotify.com/album/1kIpUZy0fqsKoafJTrtrRa) | 4:15 | 2022-01-21 | 2022-07-12 |
 | [Paco y Carmela](https://open.spotify.com/track/4oBr8ZsmTTvgdcqsaUic3e) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Paco y Carmela](https://open.spotify.com/album/3AaoWRJ1xTHtyqvzOWvMRH) | 3:06 | 2022-01-21 | 2022-07-18 |

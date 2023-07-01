@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,313 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,951 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/track/1Jt78L7jNVLD3hNo674jww) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/album/7perMKYhcKMnjPNqUx9Bfk) | 2:28 |
 | 50 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 |
 
-Snapshot ID: `MCwwN2Y2NjZiMGU0ZTNjZjBkMjViOTVmYzU0ZGYyNDRjMzI1MDU2ZjQx`
+Snapshot ID: `MCxlYTZkNjU5YTBmMzcwMDdiOTUyZTUwNDkwYTk2NDg5YjliNTMwYWY1`

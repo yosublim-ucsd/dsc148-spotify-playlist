@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-134 songs - 6 hr 16 min
+135 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Happiness Is Simple](https://open.spotify.com/track/7DaPyur46lgI5csRDosSPE) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 3:23 | 2022-04-15 |  |
 | [Happy](https://open.spotify.com/track/5V3T4m5Ak4wjfON9SekdYE) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 3:02 | 2022-04-15 |  |
 | [Happy](https://open.spotify.com/track/4eIcJB2WLB3zO9DQhFfPMi) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy](https://open.spotify.com/album/5189p9yylbMmBdzbMUtH09) | 2:03 | 2022-04-15 |  |
+| [Heart Family](https://open.spotify.com/track/0idER1QATNUULVtm4CrAR2) | [Slumberkins](https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Heart Family](https://open.spotify.com/album/79pXLUhGHVsf9fswJt40dB) | 3:46 | 2023-06-30 |  |
 | [Hello World \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Hello World \(from "Back to the Outback" soundtrack\)](https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91) | 2:36 | 2022-04-15 |  |
 | [Help You Do The Work](https://open.spotify.com/track/4odnaqDDzJuQPTQ69AC7wJ) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Jarrett Johnson](https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 2:48 | 2023-06-02 |  |
 | [Hey Little Heart](https://open.spotify.com/track/2ZJVZ8DSgcyz5qAqpkhmJv) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/18p9FPbUlOrXgquY9xucjs) | 2:41 | 2022-04-15 | 2022-07-29 |

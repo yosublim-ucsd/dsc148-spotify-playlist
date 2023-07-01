@@ -1538,7 +1538,7 @@
     {
       "album": {
         "name": "Punkrocker",
-        "url": "https://open.spotify.com/album/04BARFshyYTNncSibK06s8"
+        "url": "https://open.spotify.com/album/3uOz88mNxvGFA6CBrwWIQh"
       },
       "artists": [
         {
@@ -1553,6 +1553,28 @@
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144143,
+      "name": "Punkrocker",
+      "url": "https://open.spotify.com/track/5IcDrdNSx9SPvM5cdjQKSg"
+    },
+    {
+      "album": {
+        "name": "Punkrocker",
+        "url": "https://open.spotify.com/album/04BARFshyYTNncSibK06s8"
+      },
+      "artists": [
+        {
+          "name": "Harpoon",
+          "url": "https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP"
+        },
+        {
+          "name": "Sandi Thom",
+          "url": "https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
       "duration_ms": 144143,
       "name": "Punkrocker",
       "url": "https://open.spotify.com/track/7v6wE4wmpMPRzq0QLQUi5U"

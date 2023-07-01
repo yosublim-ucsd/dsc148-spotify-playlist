@@ -1,12 +1,12 @@
 {
   "description": "Dance hits in 2023. Cover: Swedish House Mafia",
-  "num_followers": 116289,
+  "num_followers": 116282,
   "original_name": "Dance Hits 2023",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NDYzMyw3MGY1ZTFhMWY3NzEyMjE5M2YyNGE1MDdhMTBiYTg4NzU4YWZiZTFj",
+  "snapshot_id": "NDYzNCwwNDg2NjQ4Y2IxY2U5ZWM1OTMxMmNiZGY4MDA3ODc3OGU4NGVkZjY0",
   "tracks": [
     {
       "added_at": "2023-06-25 19:46:57",
@@ -471,6 +471,30 @@
       "duration_ms": 179306,
       "name": "Older ft Jimmie Allen & Dixie D'Amelio",
       "url": "https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU"
+    },
+    {
+      "added_at": "2023-06-30 15:29:37",
+      "album": {
+        "name": "Love 2 U",
+        "url": "https://open.spotify.com/album/19ytKTcMUtwlIwThQWELyB"
+      },
+      "artists": [
+        {
+          "name": "Emdey",
+          "url": "https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J"
+        },
+        {
+          "name": "Cr3on",
+          "url": "https://open.spotify.com/artist/2kARXKmAASddORKnpXif8j"
+        },
+        {
+          "name": "Aidan O\u2019Brien",
+          "url": "https://open.spotify.com/artist/4nEshNcStqpI3Fk6TYQP7b"
+        }
+      ],
+      "duration_ms": 156788,
+      "name": "Love 2 U",
+      "url": "https://open.spotify.com/track/5IdjonofmOR2iPNjAeQ0PW"
     },
     {
       "added_at": "2023-06-25 19:46:57",

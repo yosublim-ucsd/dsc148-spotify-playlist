@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-74 songs - 5 hr 4 min
+75 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 Pieces for Piano 6 Hands: No\. 2, Romance](https://open.spotify.com/track/6tJgHvmQ1KP3ctd1sdV3lB) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Marco Sollini](https://open.spotify.com/artist/0Cij0PQCvea3siPuyIKvuV), [Salvatore Barbatano](https://open.spotify.com/artist/7fLHHhJkd30hfQReJeeQI3), [François\-Joël Thiollier](https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM) | [Rachmaninov: Piano works for 4 & 6 hands](https://open.spotify.com/album/6VqHE55Czh4i0D8z2uvpHV) | 3:41 | 2022-01-24 | 2022-07-29 |
 | [24 Preludes & Fugues, Op\. 87: Prelude no.13 in F sharp minor\. Moderato con moto](https://open.spotify.com/track/069SOoG7uHJ2JY1QHpQFJR) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Alexander Melnikov](https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta) | [Shostakovich: 24 Preludes & Fugues](https://open.spotify.com/album/6T3UPmEEZWfrsLFfEaoMsQ) | 2:27 | 2022-01-25 |  |
 | [3 Gymnopédies: No\. 1 Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 | 2021-12-06 |  |
+| [3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/track/3c58ZVEbMUjWsmy4N84kPv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV) | 4:50 | 2023-06-30 |  |
 | [3 Preludes and Fugues, Op\. 16: No\. 2\. Prelude and Fugue in B\-Flat Major](https://open.spotify.com/track/1u7z1dbU39nz7LysjwU5uF) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Jozef De Beenhouwer](https://open.spotify.com/artist/7JI0OWkSm3v9MtPqBemMHQ) | [Schumann, C.: Complete Piano Works](https://open.spotify.com/album/1D4iJ2Q5GDju4kVykTvbwE) | 3:43 | 2022-01-25 |  |
 | [3 Romances, Op\. 11: No\. 1, Andante](https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 3:02 | 2021-12-06 |  |
 | [4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio](https://open.spotify.com/track/3OqFVW82OYx3AvC2hO4Orz) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Brahms: 4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio \(Musical Moments\)](https://open.spotify.com/album/4vIC0euPV2pHGe1bHjPwze) | 4:05 | 2022-09-09 |  |

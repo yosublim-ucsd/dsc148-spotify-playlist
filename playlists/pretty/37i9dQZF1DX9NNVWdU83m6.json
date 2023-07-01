@@ -1,13 +1,33 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 40244,
+  "num_followers": 40278,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTQyZTJkNzIyMDAzOGU1OTg4MmRlOTM2ODUxZGU2ZTYwYWNmODFh",
+  "snapshot_id": "MCw2NzY0NDIwMjY0YWY0ZjhkNjgxMjRlZWVhZDFlNzI0ODNmNGRkMDY3",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Actual Proof",
+        "url": "https://open.spotify.com/album/2Xyo0fX4walkyM0ITbzZCw"
+      },
+      "artists": [
+        {
+          "name": "Electric Kif",
+          "url": "https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        }
+      ],
+      "duration_ms": 341137,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/5DmEiepcrLcjGA2z0qfQ2w"
+    },
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
@@ -691,22 +711,6 @@
       "duration_ms": 421892,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/7f19Dv5jmpxYGaUrvDIphq"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Beyond Now",
-        "url": "https://open.spotify.com/album/1Rgh4m6yVvWXteM0isgfPe"
-      },
-      "artists": [
-        {
-          "name": "Donny McCaslin",
-          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
-        }
-      ],
-      "duration_ms": 472933,
-      "name": "Beyond Now",
-      "url": "https://open.spotify.com/track/4p0pz1sMMFhB1gQ5OG93zm"
     },
     {
       "added_at": "2021-01-27 19:39:49",

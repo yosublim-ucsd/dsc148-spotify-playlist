@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,472 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,701 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 175 | [Armed and Dangerous](https://open.spotify.com/track/3nnTHWsNfEsfutPELQHADA) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E) | [Armed and Dangerous](https://open.spotify.com/album/2oCtIujPC7fBd2qNSqvyU7) | 3:24 |
 | 176 | [Confetti](https://open.spotify.com/track/3LazyuEk6gqTiY1xUZQPoX) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Confetti \- Single](https://open.spotify.com/album/6eVtjdXdZRMgL7sZOoD6Y3) | 3:10 |
 | 177 | [Get Loud](https://open.spotify.com/track/1DGBpebtKnV5VMjFCHqlvU) | [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2), [Redwood](https://open.spotify.com/artist/1b5YY39752Emp5AHkBqhrO) | [Operation \- EP](https://open.spotify.com/album/3EcEzBLZfw31bcYne9lC2A) | 2:53 |
-| 178 | [Wild](https://open.spotify.com/track/7JUhDKFsJlvmz08ZYDSp5b) | [Monogem](https://open.spotify.com/artist/49FJCPIZ20Bgfvn5hcQ1uO) | [100%](https://open.spotify.com/album/4NHty5cHW6KZtSI961U5sW) | 3:35 |
+| 178 | [Wild](https://open.spotify.com/track/7JUhDKFsJlvmz08ZYDSp5b) | [Monogem](https://open.spotify.com/artist/3bqdKhKa1qDPkfQarnEgTB) | [100%](https://open.spotify.com/album/4NHty5cHW6KZtSI961U5sW) | 3:35 |
 | 179 | [Found](https://open.spotify.com/track/7HpZqH8EK6KDNuvNrDXPVw) | [Selebrities](https://open.spotify.com/artist/3NSZ43GhHj5pP7XKfOgpws) | [Lovely Things](https://open.spotify.com/album/1HTY7ia4sEHKKCTYMIgX2D) | 3:57 |
 | 180 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 181 | [Neon Dream](https://open.spotify.com/track/6AApuc7pH6ITwKZqkiQyHj) | [Nectar Twins](https://open.spotify.com/artist/6DIjSTHbHdgCA3vapU9Lqd) | [Neon Dream](https://open.spotify.com/album/4YhC97IiIsIPiVrtxHNqKe) | 4:07 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCxjYmE2N2EzNmIwODI3OWI5ZjEyNDVmY2NjNGFhMzQyZTg4YTYyNTQ3`
+Snapshot ID: `MCw5MzhhMjVhMWM4MTkzY2Y2MzJmNjUxNTQ5YmFkYzZkOTVmMjgzNGUy`

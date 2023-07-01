@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 748425,
+  "num_followers": 748756,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2JlMmU0NjgxMDU0ZDlmYzc0NDQ3NGRlYjlhYThmNzc2ZmVlMWE1",
+  "snapshot_id": "MCwwOTY2YzA5MTY2OTY4MDQxZTJjN2U0MGJjNDQxYWVkNTM3ODQ2NDA5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Noonday Dream",
-        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 394320,
-      "name": "Nica Libres At Dusk",
-      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Agape",
         "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 285677,
       "name": "When You Break",
       "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Noonday Dream",
+        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 394320,
+      "name": "Nica Libres At Dusk",
+      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Crush (Stripped)",
-        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Crush - Stripped",
-      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Repave",
         "url": "https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 262533,
       "name": "Byegone",
       "url": "https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Theatrics",
-        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
-      },
-      "artists": [
-        {
-          "name": "Puzzle Muteson",
-          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Rescue My Heart",
         "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 205614,
       "name": "Rescue My Heart",
       "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Theatrics",
+        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
+      },
+      "artists": [
+        {
+          "name": "Puzzle Muteson",
+          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Animalia",
-        "url": "https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2"
-      },
-      "artists": [
-        {
-          "name": "Mammals",
-          "url": "https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3"
-        }
-      ],
-      "duration_ms": 233635,
-      "name": "Depraved",
-      "url": "https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 223655,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Animalia",
+        "url": "https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2"
+      },
+      "artists": [
+        {
+          "name": "Mammals",
+          "url": "https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3"
+        }
+      ],
+      "duration_ms": 233635,
+      "name": "Depraved",
+      "url": "https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 180067,
-      "name": "Sleep Baby Sleep",
-      "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Before We Forgot How To Dream",
         "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 288140,
       "name": "B a noBody",
       "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 180067,
+      "name": "Sleep Baby Sleep",
+      "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
     },
     {
       "added_at": "2023-05-26 04:01:00",

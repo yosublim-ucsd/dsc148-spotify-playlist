@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-143 songs - 13 hr 45 min
+146 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Breathless](https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP) | [Shambala](https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8) | [Breathless](https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy) | 3:19 | 2023-06-02 |  |
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
 | [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 |  |
+| [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 |  |
 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 | 2022-06-23 | 2023-04-29 |
 | [Colorado](https://open.spotify.com/track/5UgymKh4hQH97G0m7sJeYl) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/3pCxaR5TAlOmGAZQ7TLtwI) | 5:06 | 2022-07-01 |  |
 | [Comes In Waves \- Live at EastWest Studios](https://open.spotify.com/track/6y4xSKfYeOjof39UciTQGz) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller \(Deluxe\)](https://open.spotify.com/album/7KiWpWWSK7VCN5zzi0rb0U) | 5:48 | 2023-02-17 |  |
@@ -35,17 +36,19 @@
 | [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 | 2022-06-23 |  |
 | [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 | 2023-04-07 |  |
 | [Duck Farm](https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 7:36 | 2022-06-23 |  |
+| [Décharge](https://open.spotify.com/track/4RtJLZeu4b7PJb2RZN6O9r) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH) | [Décharge](https://open.spotify.com/album/0u172cwRjrAKd9Us5lPC1u) | 3:27 | 2023-06-30 |  |
 | [East West \- Tchad Blake Remix](https://open.spotify.com/track/4EfV0VgqqgSyoXx0LaGT1H) | [The Third Mind](https://open.spotify.com/artist/1LkLIVstA1IoipK1nx0RAD), [Tchad Blake](https://open.spotify.com/artist/0CL5kQ3kBjgge3GQtIJAyp) | [East West \(Tchad Blake Remix\)](https://open.spotify.com/album/2yyye28bQHerBTQIw0c44D) | 17:03 | 2023-06-23 |  |
 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 | 2022-06-23 |  |
 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 | 2022-06-23 |  |
+| [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 | 2023-06-30 |  |
 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 |  |
 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 | 2022-06-23 | 2023-04-22 |
 | [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 | 2023-06-16 |  |
-| [Figure It Out](https://open.spotify.com/track/4z64nIlAoBSrZ60M8FbgnE) | [Eggy](https://open.spotify.com/artist/3gcJMFyZwSnYr9ChgnPpYj) | [Watercolor Days](https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV) | 5:38 | 2022-06-23 |  |
+| [Figure It Out](https://open.spotify.com/track/4z64nIlAoBSrZ60M8FbgnE) | [Eggy](https://open.spotify.com/artist/3gcJMFyZwSnYr9ChgnPpYj) | [Watercolor Days](https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV) | 5:38 | 2022-06-23 | 2023-07-01 |
 | [Find a Better Way](https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Find a Better Way](https://open.spotify.com/album/2irQCliXejenCG99G8Z2od) | 4:35 | 2022-09-30 |  |
 | [Fire And Brimstone](https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Fire And Brimstone](https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S) | 4:29 | 2023-05-05 |  |
 | [Foggy Days](https://open.spotify.com/track/1JAJSf52angUw88cDf4KOP) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Foggy Days](https://open.spotify.com/album/0u3fsoByiOKsHSqaBoqpeG) | 4:17 | 2023-04-21 | 2023-06-03 |
-| [Fossilize](https://open.spotify.com/track/24jLSXJDqYx0TIqaYWIWSY) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Fossilize](https://open.spotify.com/album/3nXD82sZiTjesVEhO3MO0D) | 4:02 | 2023-06-02 |  |
+| [Fossilize](https://open.spotify.com/track/24jLSXJDqYx0TIqaYWIWSY) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Fossilize](https://open.spotify.com/album/3nXD82sZiTjesVEhO3MO0D) | 4:02 | 2023-06-02 | 2023-07-01 |
 | [Frog Rock](https://open.spotify.com/track/5Gbm1ipybjf63mU439XcrC) | [Road Waves](https://open.spotify.com/artist/0v5yDE94Tf7agKSVwqSwau) | [Frog Rock](https://open.spotify.com/album/5yAKhXWdnSINL6HH87aKpK) | 9:35 | 2023-06-16 |  |
 | [Fuzzy Ride](https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Fuzzy Ride](https://open.spotify.com/album/4JJYkBEnl3bt2unZyICxHe) | 4:48 | 2023-01-27 |  |
 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 | 2022-06-23 | 2023-05-20 |
@@ -150,6 +153,6 @@
 | [Wishing Well](https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Dreams](https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S) | 4:50 | 2022-11-11 |  |
 | [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 |  |
 | [You’re a Catman](https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [You're a Catman](https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF) | 5:42 | 2022-12-09 | 2023-06-03 |
-| [Zoom Out](https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Zoom Out](https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC) | 4:22 | 2022-10-21 |  |
+| [Zoom Out](https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Zoom Out](https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC) | 4:22 | 2022-10-21 | 2023-07-01 |
 
 \*This playlist was first scraped on 2022-06-28. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [el nuevo urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
-> Descubre lo más nuevo del movimiento\. Cover: Bad Gyal, Tokischa & Young Miko
+> Descubre lo más nuevo del movimiento\. Cover: Ovy On The Drums & Blessd
 
-650 songs - 1 day 10 hr 59 min
+651 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Bichotes Con Clase](https://open.spotify.com/track/6iOf4LH1POCgTQV3Goiguj) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Bichotes Con Clase](https://open.spotify.com/album/5yrkTFNrYbaKZOFqCNbPvd) | 3:13 | 2022-09-06 | 2022-12-03 |
 | [Bien Activá](https://open.spotify.com/track/4ifdRYvEu2iyrQ9P7PvN4V) | [Chris Andrew](https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd) | [Bien Activá](https://open.spotify.com/album/7MmzWZ5m9oISkKrYIT8j99) | 2:48 | 2022-10-28 | 2023-01-21 |
 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 | 2023-02-03 | 2023-04-29 |
+| [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 | 2023-06-30 |  |
 | [Bipolar](https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Bipolar](https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i) | 3:01 | 2022-06-03 | 2022-06-29 |
 | [BOLERO \(feat\. iZaak\)](https://open.spotify.com/track/5oawg1kPoXIQTm5TpFa37W) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [BOLERO \(feat\. iZaak\)](https://open.spotify.com/album/6l72DpJ5dlU92YeaHaDkC8) | 2:57 | 2022-10-28 | 2023-01-28 |
 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 | 2022-12-09 | 2023-02-18 |
@@ -366,7 +367,7 @@
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-03-25 | 2023-05-13 |
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-08-19 | 2022-11-12 |
 | [Mi Vicio \- Remix](https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Mi Vicio \(Remix\)](https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr) | 4:44 | 2023-04-28 |  |
-| [Miami Beach](https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ) | [R1 La Esencia](https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Miami Beach](https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF) | 3:05 | 2023-06-02 |  |
+| [Miami Beach](https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ) | [R1 La Esencia](https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Miami Beach](https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF) | 3:05 | 2023-06-02 | 2023-07-01 |
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-03-10 | 2023-04-09 |
 | [Missionsuicida](https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Missionsuicida](https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ) | 1:28 | 2023-04-21 | 2023-05-13 |
 | [MMM](https://open.spotify.com/track/2lv9KJdfFVZN9voT6zwSEj) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [MMM](https://open.spotify.com/album/0G3vkCth2P8SOIytPw1e5P) | 3:31 | 2022-10-28 | 2023-01-28 |

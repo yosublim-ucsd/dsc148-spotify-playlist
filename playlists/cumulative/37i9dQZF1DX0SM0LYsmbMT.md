@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,553 songs - 5 day 16 hr 22 min
+3,554 songs - 5 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Better Times](https://open.spotify.com/track/1Ku09oZae2A0jmznumSKWN) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Better Times](https://open.spotify.com/album/2cxoKTF3fhtaIl6clGW3B1) | 1:50 | 2021-06-25 | 2021-07-23 |
 | [Between Waves](https://open.spotify.com/track/7BlRx52vRmpTUXYLRiNZsR) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Between Waves](https://open.spotify.com/album/2MGgUdBvYITe0PU5kQB43M) | 2:37 | 2020-05-30 | 2020-08-07 |
 | [Beyond](https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Beyond](https://open.spotify.com/album/3QCEvkw9ddTF5WOyL3nPkl) | 1:46 | 2022-07-21 | 2022-12-26 |
-| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 | 2023-06-19 |
+| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 |  |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-03-31 |  |
 | [Big City Vibe](https://open.spotify.com/track/6q04BcK0qYeu9XOHgVsPxV) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Big City Vibe](https://open.spotify.com/album/3fspqodqLIiUQceni8iSKN) | 2:56 | 2022-05-12 | 2022-05-26 |
 | [Big Time](https://open.spotify.com/track/6uEyAx80fBHRDPkVySJSZe) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [Big Time](https://open.spotify.com/album/2zpgBfbNMzSE3l0XCbcAPy) | 2:03 | 2021-02-06 | 2021-02-20 |
@@ -385,6 +385,7 @@
 | [Bossa Nights](https://open.spotify.com/track/6FCk3QptG5PFXfIzE5eF5G) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Bossa Nights](https://open.spotify.com/album/3kTZxtJ2MG7ksab8BS55dp) | 2:06 | 2023-02-09 | 2023-03-10 |
 | [Bossa Sportiva](https://open.spotify.com/track/6CxvXUtRMMHKX19t1PyBD9) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Bossa Sportiva](https://open.spotify.com/album/63WOuJ8v84T98OC1W2ZgLE) | 2:06 | 2021-03-02 | 2021-04-23 |
 | [Botanical](https://open.spotify.com/track/2rZ14aekxVEwR7Cb15bj4w) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Botanical](https://open.spotify.com/album/4UvossbAy9opmhXvCTArKn) | 2:42 | 2022-02-17 | 2022-03-10 |
+| [Botanical Garden](https://open.spotify.com/track/5OzofsDlQAh3MvV0JyzeAj) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Botanical Garden](https://open.spotify.com/album/74WLKOwEzZxmwdek1hjjto) | 1:36 | 2023-06-29 |  |
 | [Both of Us](https://open.spotify.com/track/4hnhSZTKf77tZjOBjzL5BM) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Raw Cuts 2](https://open.spotify.com/album/1FxqDi3bJ8tL1nyQz1MHY1) | 1:53 | 2019-05-26\* | 2019-08-13 |
 | [Bouncin Bags](https://open.spotify.com/track/4K3Xt5x3yNHe7hbkCfYG3K) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Bouncin Bags](https://open.spotify.com/album/2yM6ix5NsiK1Mb1wq72CsQ) | 1:50 | 2022-02-11 | 2022-09-23 |
 | [Bouncing Lemons](https://open.spotify.com/track/604c3bQGYjDmDbiYeR8aeK) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Bouncing Lemons](https://open.spotify.com/album/3SC9A5yN3tBc4KGENuXoRw) | 2:06 | 2022-01-20 | 2022-03-11 |
@@ -1930,7 +1931,7 @@
 | [Mirage](https://open.spotify.com/track/3aYQEKJvytz1b34QtQ6XH8) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Mirage](https://open.spotify.com/album/0p6FstpHZCKM2E7zyJmqz8) | 2:14 | 2022-09-22 | 2022-10-07 |
 | [Mirage](https://open.spotify.com/track/7xTxhDp6t1DjxBSpIgsdkK) | [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Mirage](https://open.spotify.com/album/34bsf0GTJ98Sw2N4QsVY5t) | 2:07 | 2022-12-08 | 2023-01-20 |
 | [Mirage](https://open.spotify.com/track/75lkVw6YrP9JhVqL02gAFN) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Calm Sea](https://open.spotify.com/album/0YyuU4cAxsuhb03KXhAfsH) | 1:46 | 2022-12-15 | 2023-01-20 |
-| [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 |  |
+| [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 | 2023-07-01 |
 | [Mirror Universe](https://open.spotify.com/track/1BqWKidiIXJCUBrZCuZKW2) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Mirror Universe](https://open.spotify.com/album/7u8bP4ULhdE0MxfaeLfXQe) | 2:36 | 2020-09-25 | 2020-12-04 |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2021-05-07 | 2021-07-23 |
 | [Miss Understood](https://open.spotify.com/track/3VtKZZGhJoMFRYqMdHritC) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Miss Understood](https://open.spotify.com/album/1rxnkmiOU7kNzjxXiUFzw5) | 1:40 | 2020-04-03 | 2020-05-29 |
@@ -2403,7 +2404,7 @@
 | [Profesor](https://open.spotify.com/track/70A2dr0LJoFAmplOmYqdkn) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Profesor](https://open.spotify.com/album/5bsY0eNhMXQfwCumMfSyXq) | 2:48 | 2021-11-12 | 2021-12-17 |
 | [Progression](https://open.spotify.com/track/3NMCX9pCmIsCFeGsl4Eonw) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Progression](https://open.spotify.com/album/1vgU0ibAkjI5fbPaIg6pEh) | 2:49 | 2021-10-09 | 2021-11-19 |
 | [Promenade](https://open.spotify.com/track/3PUloauDtCoOfSuIxCYi8N) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Promenade](https://open.spotify.com/album/3pucfH8tHWjVENvZk3CRCi) | 1:38 | 2020-04-07 | 2020-06-16 |
-| [Promenade Walk](https://open.spotify.com/track/07yGA4qy5p5g9Linlhg5Bf) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Promenade Walk](https://open.spotify.com/album/69Acx9fVN3B82xWTUHM2EN) | 2:05 | 2023-06-22 |  |
+| [Promenade Walk](https://open.spotify.com/track/07yGA4qy5p5g9Linlhg5Bf) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Promenade Walk](https://open.spotify.com/album/69Acx9fVN3B82xWTUHM2EN) | 2:05 | 2023-06-22 | 2023-07-01 |
 | [Promises](https://open.spotify.com/track/672hkrNA8Nj70nmXh94Ry3) | [TRIBEZ.](https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8) | [Promises](https://open.spotify.com/album/2s52BSLCpV1xEGiJ0KayOn) | 2:32 | 2022-03-24 | 2022-04-01 |
 | [Promises \- Instrumental](https://open.spotify.com/track/0aB6XBZY6mkuGVtqkN0zCX) | [DUHAN](https://open.spotify.com/artist/5oRsYGo1n7poJ4NH4K7t16) | [Promises \(Instrumental\)](https://open.spotify.com/album/6wLz57HjjpVaApSqxAKGHC) | 2:18 | 2019-08-02 | 2019-10-26 |
 | [providence](https://open.spotify.com/track/7KhnhH3l6Dvc4m92et1NTu) | [b l o o p r](https://open.spotify.com/artist/3AtwKVMbgWCFvDsJRcN04A) | [providence](https://open.spotify.com/album/5na8f86Gi6qMnvxcYYURIT) | 1:55 | 2019-08-02 | 2020-02-01 |

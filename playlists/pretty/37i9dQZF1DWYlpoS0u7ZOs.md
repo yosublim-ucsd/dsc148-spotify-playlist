@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Dead Pony
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,256 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,262 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 |
 | 85 | [MOTION SICKNESS!!](https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt) | 2:17 |
 
-Snapshot ID: `MCw5YjA1YTZhN2M0MzA5OTEwMzhjNzNhMmJlOTM1Zjk5MGE3ZjZmYjQ2`
+Snapshot ID: `MCwxOTlkYThkN2Y5MWQ2NWI0ZGQ4YmY2ZGMyNjNkYjU1MjMwM2ZkZTU1`

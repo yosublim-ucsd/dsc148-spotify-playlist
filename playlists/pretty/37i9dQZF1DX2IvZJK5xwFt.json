@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: Linkin Park",
-  "num_followers": 150783,
+  "num_followers": 150900,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjQ1MjNlZjk5NGRhYjZiMGFlZGJmODZhZWU3MjgzZTBhZmMxZGU3",
+  "snapshot_id": "MCxjZjM2MGM3YTk1NGVhOGIwMzBjMDgxMGI0OTdjYTFhNDFjOGM1ZTY2",
   "tracks": [
     {
       "added_at": "2023-06-29 17:00:00",
@@ -231,6 +231,26 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
+    },
+    {
+      "added_at": "2023-06-30 04:24:58",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
     },
     {
       "added_at": "2023-06-29 17:00:00",
@@ -1163,26 +1183,6 @@
       "duration_ms": 290338,
       "name": "Run All Night",
       "url": "https://open.spotify.com/track/3NpnBHI6qEyauHYfrQqg1w"
-    },
-    {
-      "added_at": "2023-06-29 17:00:00",
-      "album": {
-        "name": "SABOTAGE//",
-        "url": "https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 200792,
-      "name": "SABOTAGE//",
-      "url": "https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd"
     },
     {
       "added_at": "2023-06-29 17:00:00",

@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 138260,
       "name": "Andan Diciendo",
       "url": "https://open.spotify.com/track/22HipbfvqRqh2tEwJKJeLS"
@@ -2125,6 +2125,36 @@
     },
     {
       "album": {
+        "name": "Me Miro al Espejo",
+        "url": "https://open.spotify.com/album/2NG83vZ1Oi4rTiXXKdd7AQ"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Chamaco",
+          "url": "https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Me Miro al Espejo",
+      "url": "https://open.spotify.com/track/0An5626diqxDb9EDLQyYHp"
+    },
+    {
+      "album": {
         "name": "Always Dream",
         "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
       },
@@ -2470,6 +2500,24 @@
       "duration_ms": 200306,
       "name": "Nos Miran (feat. Eiby, Verzatyl & Italian Somali)",
       "url": "https://open.spotify.com/track/3hF4uVG0Ne4sqYd3gmreQq"
+    },
+    {
+      "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/5f57PowSjW4DzJWMnAtpA9"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/4OyLbALQ4WoUHIOfrkJ6uT"
     },
     {
       "album": {
@@ -3188,7 +3236,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204906,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
@@ -3844,7 +3892,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 256000,
       "name": "VIRAL",
       "url": "https://open.spotify.com/track/0oCbJ7Ap6RYWtQM1JK3YXC"
@@ -3906,6 +3954,32 @@
       "duration_ms": 275349,
       "name": "XOXO (Piso 33)",
       "url": "https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG"
+    },
+    {
+      "album": {
+        "name": "Ya Ni Se",
+        "url": "https://open.spotify.com/album/2D9M8jbjcqjeovyTzDBPt9"
+      },
+      "artists": [
+        {
+          "name": "DJ Ledezz",
+          "url": "https://open.spotify.com/artist/2C4pKlrYpSurcTknihyLhN"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Ya Ni Se",
+      "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"
     },
     {
       "album": {

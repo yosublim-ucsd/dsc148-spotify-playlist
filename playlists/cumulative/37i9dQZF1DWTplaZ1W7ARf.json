@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190452,
+      "name": "End of the Road",
+      "url": "https://open.spotify.com/track/7lYdjmBDdJWmtkIUJAjQs9"
+    },
+    {
+      "album": {
         "name": "Evil",
         "url": "https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0"
       },
@@ -928,6 +946,24 @@
       "duration_ms": 151340,
       "name": "Federal Nightmares",
       "url": "https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl"
+    },
+    {
+      "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/0YIBIawpHrHSaZEhy4MDNB"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162147,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/0jYpNETYGOMvFvEIhXgmhA"
     },
     {
       "album": {
@@ -1346,6 +1382,24 @@
       "duration_ms": 174545,
       "name": "Gunsmoke Town",
       "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "album": {
+        "name": "Hard Headed",
+        "url": "https://open.spotify.com/album/67nUdwCrIPZUJiaqAsn2Sj"
+      },
+      "artists": [
+        {
+          "name": "Yatta Bandz",
+          "url": "https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175410,
+      "name": "Hard Headed",
+      "url": "https://open.spotify.com/track/5O6Ec9WvYxysLcESvDmz9N"
     },
     {
       "album": {
@@ -2752,7 +2806,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 153018,
       "name": "Rich How I'm Dyin",
       "url": "https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m"
@@ -2884,6 +2938,32 @@
       "duration_ms": 131428,
       "name": "Rollin",
       "url": "https://open.spotify.com/track/6PnLDjMT0PtVIZ1kLNcZYv"
+    },
+    {
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286159,
+      "name": "Room Comfort (feat. Fridayy and Lil Durk)",
+      "url": "https://open.spotify.com/track/2pog8j1Dq6rzyWrkA3F6Zt"
     },
     {
       "album": {
@@ -3266,7 +3346,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 131882,
       "name": "Strong (EST Gee, Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh"
@@ -3358,7 +3438,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 176191,
       "name": "Tell Me Bout It",
       "url": "https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS"

@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-285 songs - 15 hr 50 min
+286 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Single](https://open.spotify.com/track/7p9l6t6m540j6V3VcXnXER) | [Orlando Octave](https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L) | [Single](https://open.spotify.com/album/74XLhRpz8nCdscl76Bgy8x) | 3:00 | 2021-08-26 | 2022-02-25 |
 | [So Long](https://open.spotify.com/track/2WmNARSzCch3nzifLfn05K) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/0lE3XJtV1vvNwtyypqPymW) | 3:03 | 2022-08-18 | 2023-02-22 |
 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 | 2022-08-18 | 2022-10-05 |
-| [So Sweet](https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q) | 3:04 | 2023-05-15 |  |
+| [So Sweet](https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q) | 3:04 | 2023-05-15 | 2023-07-01 |
 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/0bw66x6M9FioHJ9WeasFme) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/150tSOyXlQDI9RFFafG2yO) | 3:07 | 2022-08-18 | 2022-12-19 |
 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/62OmybvtwwtPpJz9mH8FU9) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/5RhgPFNM7pl517LFHdft5Z) | 3:07 | 2022-08-18 | 2023-02-22 |
 | [Soca Kingdom](https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/4jYKa0xNVHhdJwBD9Vtpjv) | 3:22 | 2023-02-21 | 2023-05-16 |
@@ -253,6 +253,7 @@
 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/6PVJT1HLoXJ1czT0699lfX) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 | 2022-02-24 |  |
 | [Tempted To Touch](https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:32 | 2023-02-21 |  |
 | [Tender](https://open.spotify.com/track/15ZCVWArG1AjHG51AfjeHU) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Tender Touch Riddim](https://open.spotify.com/album/1FbJ7I3RlQUMiZ91Vq16G0) | 3:05 | 2022-02-24 | 2022-08-19 |
+| [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 | 2023-05-15 |  |
 | [The Best](https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs) | [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [Kan Kan Riddim](https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx) | 3:08 | 2023-05-15 |  |
 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 | 2023-05-15 |  |
 | [Tilt](https://open.spotify.com/track/4boWnSLvtMns64y7Ns6fYx) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Tilt Riddim, Pt\. 1](https://open.spotify.com/album/2uJ638CIojgWY2CA1hFbEi) | 2:59 | 2022-02-24 | 2022-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Meg Smith",
-  "num_followers": 83868,
+  "num_followers": 83890,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTFjMzk3OTQ5N2Y3MTgxMjI2ZTgyZmVmZjczMDNmZDgzZTZiMDA4",
+  "snapshot_id": "MCxjZWQwZTU3MjJkYWE3ZWRmODJhYmYwMzA4NGQ1MjMzMDBlMmIxOThi",
   "tracks": [
     {
       "added_at": "2023-06-23 04:53:57",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O"
     },
     {
+      "added_at": "2023-06-30 04:36:37",
+      "album": {
+        "name": "Boy From Carolina",
+        "url": "https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 242872,
+      "name": "Boy from Carolina",
+      "url": "https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca"
+    },
+    {
       "added_at": "2023-06-12 16:15:12",
       "album": {
         "name": "Snow Angel",
@@ -107,6 +123,22 @@
       "duration_ms": 184133,
       "name": "Justify",
       "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
+    },
+    {
+      "added_at": "2023-06-30 04:36:37",
+      "album": {
+        "name": "we were girls together",
+        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "we were girls together",
+      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -157,6 +189,22 @@
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
     },
     {
+      "added_at": "2023-06-30 04:36:37",
+      "album": {
+        "name": "Crying Over You",
+        "url": "https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS"
+      },
+      "artists": [
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "duration_ms": 163123,
+      "name": "Crying Over You",
+      "url": "https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Big Dumb Heart, Chapter 1",
@@ -187,6 +235,22 @@
       "duration_ms": 177313,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy"
+    },
+    {
+      "added_at": "2023-06-30 04:36:37",
+      "album": {
+        "name": "Friday Night Thriller",
+        "url": "https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 190043,
+      "name": "Friday Night Thriller",
+      "url": "https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1023,22 +1087,6 @@
       "duration_ms": 178077,
       "name": "Call U After Rehab",
       "url": "https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Beach Zombies",
-        "url": "https://open.spotify.com/album/4OI0wbuC4u0WhjpKttX4ym"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 157105,
-      "name": "Beach Zombies",
-      "url": "https://open.spotify.com/track/5h1cU6XlKTEoiyCIAh2nbF"
     },
     {
       "added_at": "2023-06-02 04:00:00",

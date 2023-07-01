@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> pode me chamar de 44, é o bonde da luanna
+> chega pra cremosa e fala: se eu te dissesse que...
 
 198 songs - 11 hr 25 min
 

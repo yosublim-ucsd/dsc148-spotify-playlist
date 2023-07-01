@@ -1182,10 +1182,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 217893,
       "name": "G no Senko",
       "url": "https://open.spotify.com/track/2cm1reUN9O5P6aFmykVLkx"
+    },
+    {
+      "album": {
+        "name": "G no Senkou",
+        "url": "https://open.spotify.com/album/2tPzjsitz5lUOHohXo2FxT"
+      },
+      "artists": [
+        {
+          "name": "Daisuke Hasegawa",
+          "url": "https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "G no Senkou",
+      "url": "https://open.spotify.com/track/1xpnMMf8rS1ySRcp9iolup"
     },
     {
       "album": {
@@ -1551,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "It's Just Love!",
+        "url": "https://open.spotify.com/album/02MQbrGo7J9wUzIavyyMNP"
+      },
+      "artists": [
+        {
+          "name": "Rumi Ohishi",
+          "url": "https://open.spotify.com/artist/0jhJcinlYTtXpMvgqBhO7L"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "It's Just Love!",
+      "url": "https://open.spotify.com/track/78jURUkHQSxcbcZcZgVUQ9"
+    },
+    {
+      "album": {
         "name": "MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack - Operation 1",
         "url": "https://open.spotify.com/album/52jysQJHAiBXHRY01vrgt6"
       },
@@ -1562,7 +1598,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 236266,
       "name": "It's Just Love!",
       "url": "https://open.spotify.com/track/3LZwJYaUyRRGzV55kRFvfu"

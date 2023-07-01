@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3q5r5YC7NjT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3q5r5YC7NjT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3q5r5YC7NjT)
 
-### [Ambiente x Jon Hopkins](https://open.spotify.com/playlist/37i9dQZF1DX3q5r5YC7NjT)
+### [Ambient X Takeover: Jon Hopkins](https://open.spotify.com/playlist/37i9dQZF1DX3q5r5YC7NjT)
 
-> Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
+> Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
 22 songs - 2 hr 31 min
 

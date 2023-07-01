@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Amor Bonito",
+        "url": "https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188974,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC"
+    },
+    {
+      "album": {
         "name": "Amor Secreto",
         "url": "https://open.spotify.com/album/1Sqa2b8ViiX4nusB4FpNKG"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 233929,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn"
@@ -2065,6 +2083,28 @@
     },
     {
       "album": {
+        "name": "Soltar",
+        "url": "https://open.spotify.com/album/6cjPFGtVkGI1KwJM2AQc3C"
+      },
+      "artists": [
+        {
+          "name": "Wamba",
+          "url": "https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB"
+        },
+        {
+          "name": "Andy G",
+          "url": "https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195843,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/5iKm6jYs4eJIQROWw69Faf"
+    },
+    {
+      "album": {
         "name": "Tabaco y Chanel (Re-Recorded)",
         "url": "https://open.spotify.com/album/5icBj9TnIae7ihDILXJfW9"
       },
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 229082,
       "name": "Una Y Otra Vez",
       "url": "https://open.spotify.com/track/0jsFD6MLc7yZ2FqHvArjaW"

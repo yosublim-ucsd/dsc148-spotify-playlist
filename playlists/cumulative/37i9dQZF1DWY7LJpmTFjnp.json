@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 225240,
       "name": "A la luz de las farolas",
       "url": "https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 249078,
       "name": "Ama a Quien Llora por Ti",
       "url": "https://open.spotify.com/track/7dx5nsXhkbc53tUhszjTP3"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 231635,
       "name": "Antes de Que Nos Olviden",
       "url": "https://open.spotify.com/track/0LRZqcKCnNoPtDBUkVPDYp"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 284062,
       "name": "Beber De Tu Sangre XXX",
       "url": "https://open.spotify.com/track/3o1PVyasePBLSdU2uqlHvY"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4xtRNng8YVgDS8gTEFy1Sz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Feral",
+          "url": "https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158198,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/6FNI6bzYyUhzWJ3OZwXsP7"
+    },
+    {
+      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 220826,
       "name": "Cuando No Estoy Contigo",
       "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 190093,
       "name": "Dama De Los Callejones",
       "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 244714,
       "name": "El Santuario",
       "url": "https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 170500,
       "name": "Explorador - Remaster 2022",
       "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 196212,
       "name": "Memoria Futuro (Cap. 10)",
       "url": "https://open.spotify.com/track/4QgFrf9Giqv3NLUSGaVeMk"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 252694,
       "name": "Mexicale\u00f1o Swing",
       "url": "https://open.spotify.com/track/3jgnK3xfhSf0bev5VhgdZQ"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 234416,
       "name": "Money In The Bank",
       "url": "https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP"
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 339887,
       "name": "Mu\u00e9rete de Todo, Pero No de las Ganas",
       "url": "https://open.spotify.com/track/1c19s4ViatoiRxcfyd1NIY"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 142988,
       "name": "Noticia Punk",
       "url": "https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh"
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 267122,
       "name": "Pistolero",
       "url": "https://open.spotify.com/track/1vF20zbofrrIChbnFM0DwT"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 196517,
       "name": "Revoluci\u00f3n turra - En directo Razzmatazz",
       "url": "https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa"
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 259573,
       "name": "Santa Luc\u00eda - En directo 2023",
       "url": "https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 111913,
       "name": "St James Infirmary Blues",
       "url": "https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir"
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 196280,
       "name": "Tengo un mes con el mismo pantal\u00f3n",
       "url": "https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv"
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185237,
       "name": "Trenes Y Gatos",
       "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 311200,
       "name": "Vivo - Pastel - En Vivo",
       "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 235786,
       "name": "Voy a Volver",
       "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 325032,
       "name": "\u00bfQu\u00e9 Pas\u00f3?",
       "url": "https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA"

@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-166 songs - 10 hr 22 min
+167 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Break My Fall](https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL) | 4:25 | 2020-08-11 |  |
 | [Break My Fall](https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/2rSZBqwYTxFHA9yXxxdXxs) | 4:25 | 2020-08-11 | 2022-07-29 |
 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 | 2021-03-12 |  |
-| [Bumble Bee \(Live\)](https://open.spotify.com/track/3qbUXMhOaadA7pSyrjbI4p) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/70hokf3NOWBHAq6tzJV0Do) | 3:40 | 2020-08-11 |  |
+| [Bumble Bee \(Live\)](https://open.spotify.com/track/3qbUXMhOaadA7pSyrjbI4p) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/70hokf3NOWBHAq6tzJV0Do) | 3:40 | 2020-08-11 | 2023-07-01 |
 | [Bumble Bee \(Live\)](https://open.spotify.com/track/4eSv18SwAXoQJF6tPqFIyw) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/4rATgGVN4pPWsmDOFMGywb) | 3:40 | 2020-08-11 | 2022-07-29 |
 | [Bumble Bee \(Live\)](https://open.spotify.com/track/4iS4vGzh365Wg0KutUiWoy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/35HfrF3OsVgByxsWYalUmC) | 3:40 | 2020-08-11 | 2023-04-29 |
 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 | 2020-08-11 |  |
@@ -73,6 +73,7 @@
 | [Heavy Load](https://open.spotify.com/track/0QLhmYdldYoRRSn5qQbwTZ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 7:18 | 2021-09-10 | 2022-11-13 |
 | [Heavy Load](https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load](https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1) | 7:18 | 2021-09-10 | 2022-07-29 |
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2021-09-10 |  |
+| [I Know the Blues](https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX) | [Marco Descontus](https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ), [The Italian Connection](https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn) | [I Know the Blues](https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw) | 4:04 | 2023-06-30 |  |
 | [I Won't Bitch](https://open.spotify.com/track/3KD3sURRyU5R5ofgj491qZ) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Welcome to My Nightmare](https://open.spotify.com/album/2cDa70BDjpfp2jJn9E4v2U) | 3:26 | 2020-11-06 |  |
 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 | 2021-04-16 |  |
 | [I'm Ready](https://open.spotify.com/track/2v7vMQGFva7ePcl4BiBF2K) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [I'm Ready](https://open.spotify.com/album/5gvcJLqMU4GFtCSFrHifY0) | 2:17 | 2021-04-16 | 2022-10-15 |

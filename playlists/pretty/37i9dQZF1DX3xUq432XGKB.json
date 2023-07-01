@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!",
-  "num_followers": 53004,
+  "num_followers": 53147,
   "original_name": "Splash House Guest List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzRlZGMyZTRmMDQwNmM2YTgxMzJlYzUyMWE4MWY3NmU4NmQwZDI2",
+  "snapshot_id": "MCw5Yzg1ZmMyZjUwNjc2ZTA3MzQ5ZGI0NDIyNzNiZWY5YmQ3MzBhMTMy",
   "tracks": [
     {
       "added_at": "2023-05-03 19:00:00",
@@ -159,7 +159,7 @@
     {
       "added_at": "2023-05-03 19:00:00",
       "album": {
-        "name": "Substitution",
+        "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
@@ -170,10 +170,14 @@
         {
           "name": "Kungs",
           "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
       "duration_ms": 181477,
-      "name": "Substitution",
+      "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {

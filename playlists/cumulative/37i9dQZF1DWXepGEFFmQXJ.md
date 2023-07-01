@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Brooke McClymont & Adam Eckersley
 
-387 songs - 21 hr 11 min
+388 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Livin' The Dream](https://open.spotify.com/track/7wzBIZ2654ZJK8iu6bPolW) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Livin' The Dream](https://open.spotify.com/album/34W2QQF9MntXEY5VK6HM8r) | 3:33 | 2022-11-17 | 2023-05-26 |
 | [Living For The Highlights](https://open.spotify.com/track/7hlZQf6RvZytRuAH1EugJS) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg), [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Living for the Highlights](https://open.spotify.com/album/4wCuBfk4L6tw93a76j2v3s) | 3:13 | 2022-07-21 | 2022-09-30 |
 | [Living Free](https://open.spotify.com/track/0oMa11SpEDdjmYvEkOg4Pa) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Living Free](https://open.spotify.com/album/5FpWd9Y9csfi4xYhCcvbVh) | 3:05 | 2021-12-30 | 2022-04-09 |
+| [Long Run](https://open.spotify.com/track/71XhsP1CqrnVAKMvqvZMh2) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Long Run](https://open.spotify.com/album/7cRfddmLD8j0fTDPCNM5Ud) | 3:04 | 2023-06-29 |  |
 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-05-12 | 2022-08-27 |
 | [Lost If I Lost You](https://open.spotify.com/track/2QMdzGCMeQF2FqolyMGza0) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Lost If I Lost You](https://open.spotify.com/album/0y2xrykKdjqmotsShtB2mK) | 3:37 | 2023-04-20 | 2023-06-16 |
 | [Loud](https://open.spotify.com/track/6HbprKptNBhCN1LhN9LGdR) | [Lucy Parle](https://open.spotify.com/artist/27eKSN85oq2n22CKV7grqb) | [Loud](https://open.spotify.com/album/4eELjZmKciGnP1Au7KPw0V) | 3:27 | 2022-05-12 | 2022-07-08 |

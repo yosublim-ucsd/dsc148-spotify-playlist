@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-386 songs - 21 hr 45 min
+387 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/0uHu5YqMcuILdSqBz8MaKo) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4) | 3:05 | 2022-04-22 |  |
 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/1VH022oAHuKvKWcXCrQgH7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Chill Out Sunday Beer Garden](https://open.spotify.com/album/7oXEaoiMPxx72LEbWyKHX0) | 3:05 | 2022-04-22 | 2022-11-13 |
 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/3P2I45r2nyahA9vZS6SQGT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/0kFojclwKS2epbuzKVKx6s) | 3:05 | 2021-03-12 | 2022-07-29 |
+| [Happy \- Live Acoustic From Space](https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order \(Live Acoustic EP From Space\)](https://open.spotify.com/album/4tEMiCZRt2oKtEWOurF1Ht) | 4:45 | 2023-06-30 |  |
 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 | 2021-03-12 |  |
 | [Heartbeats](https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG) | 2:40 | 2021-03-12 | 2022-07-29 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-04-22 |  |

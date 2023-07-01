@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。6月28日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,530 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,610 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [希望の轍](https://open.spotify.com/track/1PxSiKj0jedCGmOo4fvqPn) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [海のYeah!!](https://open.spotify.com/album/7jgjFck3NyzARjBImnDqxE) | 4:15 |
 | 50 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
 
-Snapshot ID: `MCwwNmMzODE3ZmJiNDY5MWQ3M2VhODA2ZWViNGI1M2YwMjQ4MDRjMWFj`
+Snapshot ID: `MCw3M2E5MGFhMTUyZWI4YTM2YmY0ODVjZjI1YjBmNTQ2NzFmMGRmM2Vl`

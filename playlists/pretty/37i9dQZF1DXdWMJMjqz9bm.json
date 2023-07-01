@@ -1,13 +1,37 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 195689,
+  "num_followers": 195885,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzdjOWU5MGUxODBjZDNhY2Y5OWE0MDE2ZGY1YjkxYWEyMWQ2Njlk",
+  "snapshot_id": "MCxhNmYxNjlkZTZiMmVjMmNhYWNmZTNlZTlmZTk5NTUyYzI4ZmQwMjI0",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Flooding the Gates",
+        "url": "https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ouse",
+          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 145503,
+      "name": "welcome to my world",
+      "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
+    },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
@@ -113,6 +137,22 @@
       "url": "https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "High More Often",
+        "url": "https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb"
+      },
+      "artists": [
+        {
+          "name": "Jon Wiilde",
+          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Not Another Summer Jam",
+      "url": "https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q"
+    },
+    {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "strings attached",
@@ -201,6 +241,22 @@
       "url": "https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Touristy Places",
+        "url": "https://open.spotify.com/album/6egT3yssUm6XR99QLGiNQ7"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 159682,
+      "name": "Touristy Places",
+      "url": "https://open.spotify.com/track/1ADdTIO8N6I03vxzr0BDji"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "harvey dent",
@@ -209,7 +265,7 @@
       "artists": [
         {
           "name": "PmBata",
-          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
+          "url": "https://open.spotify.com/artist/2W3cIsz1VPtiBEIH66TXO4"
         },
         {
           "name": "Rxseboy",
@@ -275,6 +331,22 @@
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1s3ZqCn09SrfSsqshOtZaj"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3h7umTnD1Z8h2p42sYk2te"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -351,6 +423,22 @@
       "duration_ms": 178745,
       "name": "Nothing Last Forever",
       "url": "https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 174834,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -621,22 +709,6 @@
       "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Adeline",
-        "url": "https://open.spotify.com/album/35YQgaw6o5f2tjJH7GoIRk"
-      },
-      "artists": [
-        {
-          "name": "Brennan",
-          "url": "https://open.spotify.com/artist/7oHCZXKjXXta7qCFc0BAIX"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/4jb639rOE1s5Ov8bTEUiiT"
-    },
-    {
       "added_at": "2023-04-17 16:20:33",
       "album": {
         "name": "Who's Taking You Home",
@@ -759,22 +831,6 @@
       "duration_ms": 199740,
       "name": "tangled cables",
       "url": "https://open.spotify.com/track/6NUBZgZzZNag4j0v9Tt4qS"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "DRUGS",
-      "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
     },
     {
       "added_at": "2023-04-26 17:59:01",
@@ -1199,22 +1255,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "High 4 U",
-        "url": "https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 162793,
-      "name": "High 4 U",
-      "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Are You Entertained (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
       },
@@ -1231,22 +1271,6 @@
       "duration_ms": 156083,
       "name": "Are You Entertained (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Cigarettes On Patios",
-        "url": "https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw"
-      },
-      "artists": [
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Cigarettes On Patios",
-      "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1439,22 +1463,6 @@
       "duration_ms": 180555,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/5QuoJpaWSzbjnIF5ESnQfg"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": "2023-01-27 05:00:00",

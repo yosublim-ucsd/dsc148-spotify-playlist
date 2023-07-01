@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 78648,
       "name": "1st2LeaveDaFunction",
       "url": "https://open.spotify.com/track/2zKGU7t1EE5Npxgf3Zo4qm"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 265183,
       "name": "Adderall (End of the Line)",
       "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 158181,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/490lRD7SCOhDbPcmcgQF9s"
@@ -416,6 +416,28 @@
       "duration_ms": 147066,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La"
+    },
+    {
+      "album": {
+        "name": "canine teeth",
+        "url": "https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "canine teeth",
+      "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
     },
     {
       "album": {
@@ -502,7 +524,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 171681,
       "name": "comeonback",
       "url": "https://open.spotify.com/track/1rOSQ490O5zO3LzlgWHemr"
@@ -628,7 +650,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
@@ -690,7 +712,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 188661,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY"
@@ -931,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Flimsier",
+        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
+    },
+    {
+      "album": {
         "name": "Fred's Song",
         "url": "https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2"
       },
@@ -982,6 +1022,46 @@
       "duration_ms": 199183,
       "name": "get out",
       "url": "https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys"
+    },
+    {
+      "album": {
+        "name": "Great Big Warm House",
+        "url": "https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142651,
+      "name": "Great Big Warm House",
+      "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/70Z8jgEF6OctG5nojkCpVF"
+      },
+      "artists": [
+        {
+          "name": "sundots",
+          "url": "https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232007,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/3FvATEo4dW73WFpm61cp5z"
     },
     {
       "album": {
@@ -1144,6 +1224,24 @@
       "duration_ms": 218181,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
+    },
+    {
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "album": {
@@ -1450,7 +1548,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 186706,
       "name": "Killer",
       "url": "https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6"
@@ -1526,6 +1624,24 @@
       "duration_ms": 142615,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
+      "album": {
+        "name": "Lexapro",
+        "url": "https://open.spotify.com/album/6grs6YBSacgL6dZ53hg8bE"
+      },
+      "artists": [
+        {
+          "name": "Computerwife",
+          "url": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206919,
+      "name": "Lexapro",
+      "url": "https://open.spotify.com/track/3VS6b1tjl9b5rZ5rdHykfl"
     },
     {
       "album": {
@@ -1810,7 +1926,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 233601,
       "name": "Noise",
       "url": "https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ"
@@ -2280,7 +2396,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 361208,
       "name": "Sorry / happysad",
       "url": "https://open.spotify.com/track/27DoSJFpTdzs6lN0iurC5C"
@@ -2334,7 +2450,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 141698,
       "name": "Suicide Cleanup",
       "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
@@ -2601,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Reject",
+        "url": "https://open.spotify.com/album/7IllZzTGFyEisKATxVvE4Z"
+      },
+      "artists": [
+        {
+          "name": "Take Care",
+          "url": "https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124687,
+      "name": "This Feeling Will Pass",
+      "url": "https://open.spotify.com/track/6pLGnO6JyJdtp4WlX5ixkI"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd"
       },
@@ -2706,7 +2840,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 186346,
       "name": "Triptych",
       "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
@@ -2915,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "When Everything Was Lost",
+        "url": "https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240058,
+      "name": "When Everything Was Lost",
+      "url": "https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi"
+    },
+    {
+      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -3038,6 +3190,24 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
+    },
+    {
+      "album": {
+        "name": "You don't even know who I am",
+        "url": "https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244022,
+      "name": "You don't even know who I am",
+      "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,883 songs - 3 day 20 hr 24 min
+1,884 songs - 3 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Fuck Love](https://open.spotify.com/track/0HhifV2v8vcNC4I3gpnwf3) | [Samo104](https://open.spotify.com/artist/6Cw4b0HJcYPaG1ik1tpdZa) | [Fuck Love](https://open.spotify.com/album/1ZbqHSFH6cBmvKZ707GEmX) | 3:01 | 2021-04-21 | 2021-05-30 |
 | [Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K) | [Alligatoah](https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb) | [Rotz & Wasser](https://open.spotify.com/album/3mebR1rG8L34EOFaw3zRCz) | 3:39 | 2022-03-26 | 2022-03-28 |
 | [Fucked Up](https://open.spotify.com/track/349o7cebT6iNIYDVHfg10T) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Fucked Up](https://open.spotify.com/album/0i0KbZzoiajsNSolXz4NF6) | 2:53 | 2022-02-05 | 2022-02-11 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-06-30 |  |
 | [FYM](https://open.spotify.com/track/0e5N4nfdmFiPvdXuEIqxx5) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [FYM](https://open.spotify.com/album/3h69wjI19Os00LI5Lb7NMj) | 2:35 | 2021-10-23 | 2021-10-31 |
 | [Fühlst du das auch](https://open.spotify.com/track/2MYXbdNTkOmjOr9sVQ288m) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Fühlst du das auch](https://open.spotify.com/album/0A8vmyMvWNTNKVXCCkP4Hf) | 3:03 | 2022-10-09 | 2023-02-01 |
 | [Für den Himmel durch die Hölle](https://open.spotify.com/track/0aR0Appf7lsVGExDPnbuVT) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle](https://open.spotify.com/album/1d0A8xILJOmcPPyLztAZwF) | 3:00 | 2022-03-20 | 2022-04-03 |
@@ -1048,7 +1049,7 @@
 | [mailbox \(feat\. Hava\)](https://open.spotify.com/track/7AuMPJMHY3TYeZEZsEy0CF) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [MISTER DARDY](https://open.spotify.com/album/1nnVnDvJNyBSqZf73Lxrl6) | 2:54 | 2023-02-09 | 2023-03-12 |
 | [Majestic](https://open.spotify.com/track/1Y2zqkMEu3mJPBBMBdkIsD) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/4CZgcx76lE1b3VIVLiZjCG) | 3:26 | 2022-03-20 | 2022-04-04 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
-| [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-26 |  |
+| [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-26 | 2023-07-01 |
 | [Mama war der Mann im Haus \(Rheingold Soundtrack\)](https://open.spotify.com/track/4wjEJULVdwTFlSDPlhdkRa) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8), [SAMY](https://open.spotify.com/artist/3m785bWzNnoLuIJP88DUN1) | [Mama war der Mann im Haus \(Rheingold Soundtrack\)](https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or) | 4:03 | 2022-10-31 | 2022-12-04 |
 | [Mami Freestyle](https://open.spotify.com/track/0xdTwXMHYli9KaAvGtw9fA) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [Mami Freestyle](https://open.spotify.com/album/5ChgMD1RdTdXZjB664PwXU) | 2:20 | 2022-08-20 | 2022-08-29 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-11 |
@@ -1585,7 +1586,7 @@
 | [Stups, der kleine Osterhase](https://open.spotify.com/track/1O2sdZviza9fQgHuRIXkYY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Radio Lollipop](https://open.spotify.com/album/7fRHiKDTXZe772cYMPkIaf) | 2:12 | 2023-04-10 | 2023-04-12 |
 | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/track/473iuBry5Y4SSx9AGw9LLw) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/album/4tSoKS8d26eyigOHVNvtZy) | 2:26 | 2023-02-11 | 2023-03-12 |
 | [Su lang mer noch am Lääve sin](https://open.spotify.com/track/25lkWy6ZVqWJjKdwRmrig7) | [Brings](https://open.spotify.com/artist/5uRfU4LuGDkxzZ86uCXQY8) | [Silberhochzeit \(Best Of\)](https://open.spotify.com/album/6mw2coNbKV7OJ3DS7zqdta) | 3:42 | 2023-02-17 | 2023-02-19 |
-| [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-29 |  |
+| [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-29 |  |
 | [Suche nach mehr](https://open.spotify.com/track/2CHoaNtGw6Bkqh5AyxfnPD) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Suche nach mehr](https://open.spotify.com/album/7gLtjaD2I3CDMa9HfUZ3zA) | 2:36 | 2021-07-18 | 2021-07-19 |
 | [sucht](https://open.spotify.com/track/2CHiLa0obXZOzUd8BzUmhI) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sucht](https://open.spotify.com/album/2FiytmCp7Ewv6FDcyGxzQf) | 2:33 | 2023-06-03 | 2023-06-05 |
 | [Summertime Sadness](https://open.spotify.com/track/3Z3fwItPiuHHDH94cYClNf) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB) | [Summertime Sadness](https://open.spotify.com/album/3I9xHWvg9Yk2F6eFys2d7N) | 2:24 | 2022-07-23 | 2022-07-25 |

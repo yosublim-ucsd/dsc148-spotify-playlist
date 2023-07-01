@@ -1221,6 +1221,28 @@
     },
     {
       "album": {
+        "name": "Girls Like You (NIIKO X SWAE Remix)",
+        "url": "https://open.spotify.com/album/4qKnK4YNxMhtFNryIjkCzl"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Girls Like You (NIIKO X SWAE Remix)",
+      "url": "https://open.spotify.com/track/4aEKQNctFCimUjzJpmMhIK"
+    },
+    {
+      "album": {
         "name": "Good as You",
         "url": "https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps"
       },

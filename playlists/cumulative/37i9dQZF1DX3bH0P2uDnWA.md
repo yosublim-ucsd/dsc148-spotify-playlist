@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-293 songs - 17 hr 6 min
+294 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Loco](https://open.spotify.com/track/6C2oVz4VVcK8LJTWKhEfFn) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Loco](https://open.spotify.com/album/7B5WriVLhr9U53qfxVUcX6) | 2:58 | 2021-04-23 |  |
 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 | 2020-10-30 |  |
 | [Lone Digger](https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5DtzT44o6tGZbVA0xmsz4V) | 3:49 | 2020-10-30 | 2022-07-29 |
+| [Long Train Runnin' \- Electro Swing Mix](https://open.spotify.com/track/17DPEy1HfgZuhDA2iW1H96) | [Lil Mishka Band](https://open.spotify.com/artist/5nSNecGsD1jB5a7lETGzGd), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Long Train Runnin' \(Electro Swing Mix\)](https://open.spotify.com/album/1QHnsqed9WOZs151kHV2Ed) | 2:52 | 2023-06-30 |  |
 | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 | 2023-06-09 |  |
 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 | 2022-11-25 | 2023-02-04 |
 | [Love Us a Ruckus](https://open.spotify.com/track/6AUwEemrg6TQjYkGTr3det) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Bad Manners](https://open.spotify.com/album/2ChFqWOdeu5Wyppaaxfy51) | 4:04 | 2022-12-09 |  |

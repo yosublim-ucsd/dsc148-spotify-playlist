@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd?si=WJ19v7c4SZWPkIPaLo636Q\">El Mukuka</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N?si=6golvDYHSlOgSNIDogcBWQ\">Cornelius SA</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 214500,
       "name": "Back to the Days",
       "url": "https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh"
@@ -2100,6 +2100,36 @@
       "duration_ms": 330468,
       "name": "Bakone",
       "url": "https://open.spotify.com/track/0kjQA48pDYTLcsvJiBoaPH"
+    },
+    {
+      "album": {
+        "name": "Bambelela",
+        "url": "https://open.spotify.com/album/7IWJhqfX5zNmTRp26VGohY"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        },
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455780,
+      "name": "Bambelela",
+      "url": "https://open.spotify.com/track/3RKPSF709OU43ZKAK1vXfo"
     },
     {
       "album": {
@@ -5294,7 +5324,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 264687,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1SKful9KuNbT6FJCWmJCXO"
@@ -7652,7 +7682,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 269508,
       "name": "Indulgence",
       "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
@@ -7903,6 +7933,28 @@
     },
     {
       "album": {
+        "name": "Invisible (feat. Rona Ray)",
+        "url": "https://open.spotify.com/album/48GDFRqrBhNh91e1H2wrhu"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268965,
+      "name": "Invisible (feat. Rona Ray)",
+      "url": "https://open.spotify.com/track/7dAC0Nc52G16tVvkmYFvrA"
+    },
+    {
+      "album": {
         "name": "Invisible Friend",
         "url": "https://open.spotify.com/album/0nKmdbDYUd5riTKzCZu39M"
       },
@@ -7918,6 +7970,32 @@
       "duration_ms": 336622,
       "name": "Invisible Friend",
       "url": "https://open.spotify.com/track/37hXPeT8x9exVWsaT8WxtQ"
+    },
+    {
+      "album": {
+        "name": "Iphathi (Kususa Remix)",
+        "url": "https://open.spotify.com/album/1INlcN0T43IDZ7nXLOCSIx"
+      },
+      "artists": [
+        {
+          "name": "Aytiwan",
+          "url": "https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401316,
+      "name": "Iphathi - Kususa Remix",
+      "url": "https://open.spotify.com/track/5z8O1miIlA7AyxjEV0YpR6"
     },
     {
       "album": {
@@ -8712,7 +8790,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 156639,
       "name": "King Of My Castle (feat. Kali Mija)",
       "url": "https://open.spotify.com/track/1djI1wvVtBVpUZeVPAyVZG"
@@ -8978,6 +9056,28 @@
       "duration_ms": 228440,
       "name": "Kwamnandi",
       "url": "https://open.spotify.com/track/4s7KLVfcdAakcWGXjZQKXC"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "album": {
@@ -10126,7 +10226,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 456585,
       "name": "Mandalorian",
       "url": "https://open.spotify.com/track/7DN3XdkOBIOHJHp8zTdsQj"
@@ -10744,7 +10844,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 377503,
       "name": "Mngani",
       "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
@@ -11248,6 +11348,32 @@
       "duration_ms": 379354,
       "name": "My Way - Cornelius SA Remix",
       "url": "https://open.spotify.com/track/3J99PGVrKDNuH3JinKmxP4"
+    },
+    {
+      "album": {
+        "name": "Mystic Sands",
+        "url": "https://open.spotify.com/album/3dzTDaqwcDTVqt0joXFq0f"
+      },
+      "artists": [
+        {
+          "name": "Marley Hughes",
+          "url": "https://open.spotify.com/artist/7m4h36wTAteEZseTsKFecQ"
+        },
+        {
+          "name": "Alley SA",
+          "url": "https://open.spotify.com/artist/1ScHe3PMvTSjbH6A0XYxoy"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413119,
+      "name": "Mystic Sands",
+      "url": "https://open.spotify.com/track/141eC3RlYjSLC3Rmz73S0A"
     },
     {
       "album": {
@@ -15880,6 +16006,24 @@
       "duration_ms": 204761,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
     },
     {
       "album": {

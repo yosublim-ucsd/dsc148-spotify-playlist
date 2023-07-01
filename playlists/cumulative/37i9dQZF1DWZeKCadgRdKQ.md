@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-593 songs - 1 day 8 hr 30 min
+594 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Silver Lining](https://open.spotify.com/track/1f5neDqYLk7K0ocvlbbbWF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:15 | 2019-05-26\* | 2020-08-07 |
 | [Abroad and Overseas](https://open.spotify.com/track/23sRVWvfwWdagkqC95eS6n) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Abroad and Overseas](https://open.spotify.com/album/6Uss56kCc3voa6CLeOQ2Dh) | 2:48 | 2022-12-19 |  |
 | [Adjustments](https://open.spotify.com/track/6w0vhPaZBYjhrDobs3QE14) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Adjustments](https://open.spotify.com/album/1YzQ1qTia4TW6Xs0gXuVgw) | 3:02 | 2020-04-13 | 2021-10-21 |
-| [Adrift](https://open.spotify.com/track/3TNNGjgOQ7O8vwAlvlD9Fg) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Adrift](https://open.spotify.com/album/3izDC00ayirR9iY92O5UUX) | 2:38 | 2019-06-19\* |  |
+| [Adrift](https://open.spotify.com/track/3TNNGjgOQ7O8vwAlvlD9Fg) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Adrift](https://open.spotify.com/album/3izDC00ayirR9iY92O5UUX) | 2:38 | 2019-06-19\* | 2023-07-01 |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 |  |
 | [Alluvium](https://open.spotify.com/track/5II0aPh5uu5wL7MOt6z5VO) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Alluvium](https://open.spotify.com/album/5M4J7f0PV8AtDrYVkyPkV6) | 2:04 | 2019-06-27 | 2021-09-14 |
 | [alpha waves](https://open.spotify.com/track/5ZCW5CDwhfXJGL2MzxGwhx) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [alpha waves](https://open.spotify.com/album/1Qbsw57Avkq9ClGT3iUGqc) | 3:25 | 2019-12-31 | 2022-03-05 |
@@ -433,6 +433,7 @@
 | [Sharing is Caring](https://open.spotify.com/track/09o3Sp5xVj63YQIoMmPHad) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Sharing is Caring](https://open.spotify.com/album/6mxT3VfuMlWpvg2vryCBLI) | 2:11 | 2023-03-17 |  |
 | [Shifts Of Light](https://open.spotify.com/track/0KN1zd8K3MTPQyix892mCf) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 4:21 | 2019-06-27 | 2022-03-05 |
 | [Shimmer](https://open.spotify.com/track/2q9NIEbISG7bz75Ofb3FWE) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Third Place](https://open.spotify.com/album/5ch7UKRAKaXctfrbyYGVDD) | 3:32 | 2019-05-26\* | 2020-01-09 |
+| [Sightings](https://open.spotify.com/track/0cUTNAkzhEjrAmSnp79aIE) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Sightings](https://open.spotify.com/album/2eFYrjiNHYBvkz1DPa2ffx) | 2:45 | 2023-06-30 |  |
 | [Signaling Through The Flames](https://open.spotify.com/track/2GS6isvr1UVSIhvjBLX925) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The Best of The American Dollar](https://open.spotify.com/album/5x69rnsPKmHQopn2sDM5OX) | 5:18 | 2019-05-26\* | 2019-06-19 |
 | [Silence of Siberia](https://open.spotify.com/track/21cUwlOjOehy98jgn29cTv) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [This Is for Our Sins](https://open.spotify.com/album/0INFpTEPQIavLrDaePgKXW) | 7:26 | 2019-05-26\* | 2019-06-19 |
 | [Silk And Honey](https://open.spotify.com/track/1SPPEq7HfS9W1wwGOptNdD) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Silk And Honey](https://open.spotify.com/album/09wtqj1m6Wc3VDkUurll52) | 3:20 | 2019-06-19\* | 2021-09-14 |

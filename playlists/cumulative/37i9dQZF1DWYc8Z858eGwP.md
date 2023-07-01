@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=aTq65UEUTQOcsNZbdk8qaw">Baaba J </a>
 
-224 songs - 12 hr 1 min
+225 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [Lotto](https://open.spotify.com/track/380AIR4IYW4Ni3O3shTXa2) | [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Yithi Sonke](https://open.spotify.com/artist/06v0EvPeHN47AOUwK6oX7v), [The Alpha Boyz](https://open.spotify.com/artist/01PpFoPwMJfNTM5DJCAfb3), [ilovelethu](https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107), [PD Jokes](https://open.spotify.com/artist/6sV9pBi3guVOWBgoT85qS1) | [Yithi Sonke](https://open.spotify.com/album/1lKKprGwnEwYdDschpWkR1) | 5:55 | 2023-05-04 | 2023-06-17 |
 | [LOVA](https://open.spotify.com/track/1ZZhWm9pxFnpwZtPyOnKg9) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Merchant Of Melodies](https://open.spotify.com/album/7pbyEdE5mpVy02yxKLpEUl) | 2:55 | 2022-11-25 | 2022-12-09 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-05-05 | 2023-05-05 |
+| [Love isn't a Game](https://open.spotify.com/track/4FYcqOoJJnGYgQLGgDYzYx) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Reality](https://open.spotify.com/album/3LX5MjfipFhKnOVDMBCmS2) | 2:54 | 2023-06-30 |  |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-25 |  |
 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 | 2021-10-08 | 2022-05-06 |
-| [Lovin 21](https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Lovin 21](https://open.spotify.com/album/25uPeqo8AAB9Hp46oYquY5) | 3:15 | 2023-05-04 |  |
+| [Lovin 21](https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Lovin 21](https://open.spotify.com/album/25uPeqo8AAB9Hp46oYquY5) | 3:15 | 2023-05-04 | 2023-07-01 |
 | [Loving you](https://open.spotify.com/track/1ovB353KrNbmTaEL303k3Y) | [Tembipowers](https://open.spotify.com/artist/4SQ0j97pz30NcGfWAUmTMg), [Berny](https://open.spotify.com/artist/0cBJhAZtsIhcRuWSoXCLcE) | [Loving you](https://open.spotify.com/album/2E6HlQE1rhLSjsHNiv5cpv) | 2:41 | 2021-05-03 | 2022-05-06 |
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-05-05 | 2023-05-05 |
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-06-08 |  |

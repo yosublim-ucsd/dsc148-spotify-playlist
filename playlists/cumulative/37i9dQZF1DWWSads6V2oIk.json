@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Rustic Nature Respite",
+        "url": "https://open.spotify.com/album/5mTIFIySaSW6phm8Ud5ftQ"
+      },
+      "artists": [
+        {
+          "name": "The Rainforest Collective",
+          "url": "https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245713,
+      "name": "Melodic Forest Hymn",
+      "url": "https://open.spotify.com/track/59caZIowoRcopdTBzJt6ut"
+    },
+    {
+      "album": {
         "name": "Thunder & Rain Relaxation",
         "url": "https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am"
       },
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212000,
       "name": "What Does The Bird Say?",
       "url": "https://open.spotify.com/track/1reaGaSxvi0wjAjKyzvDfX"

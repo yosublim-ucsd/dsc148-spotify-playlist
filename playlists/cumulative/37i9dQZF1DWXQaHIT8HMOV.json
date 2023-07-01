@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184950,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
+    },
+    {
+      "album": {
         "name": "Bailando refix",
         "url": "https://open.spotify.com/album/667qgTdLh8R0dmOTAtp6Qx"
       },
@@ -184,7 +202,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 181211,
       "name": "Bailando refix",
       "url": "https://open.spotify.com/track/27mM80dzHBPzfCmsIbVDeb"
@@ -1252,6 +1270,24 @@
       "duration_ms": 216058,
       "name": "Kikole",
       "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+    },
+    {
+      "album": {
+        "name": "Kimugunyu",
+        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180781,
+      "name": "Kimugunyu",
+      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
     },
     {
       "album": {
@@ -2443,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Sam Wange",
+        "url": "https://open.spotify.com/album/7DrWFE1PLDlV6LKavisV20"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220632,
+      "name": "Sam Wange",
+      "url": "https://open.spotify.com/track/1jYqTG4ARaCyfFoy9bgpH8"
+    },
+    {
+      "album": {
         "name": "Saving My Love",
         "url": "https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg"
       },
@@ -2702,7 +2760,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 202666,
       "name": "Ten Over 10",
       "url": "https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt"
@@ -2724,7 +2782,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 166666,
       "name": "Tewekweka | An Xpressions UG Session",
       "url": "https://open.spotify.com/track/6GtnIoNdSZFiBQ9RfTBYGl"

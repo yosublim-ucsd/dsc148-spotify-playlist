@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Dil Lagta Hi Nahi",
+        "url": "https://open.spotify.com/album/3zW2rhHAI9vwmL8VPQaIv3"
+      },
+      "artists": [
+        {
+          "name": "AASHI TITORIA",
+          "url": "https://open.spotify.com/artist/0ZgI3wn1xsCsYxVLofMu5q"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Dil Lagta Hi Nahi",
+      "url": "https://open.spotify.com/track/5TyvTWaL4SPH3jkCnBAIcL"
+    },
+    {
+      "album": {
         "name": "Gulmohar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87"
       },
@@ -1035,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Koi Umeed",
+        "url": "https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD"
+      },
+      "artists": [
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        },
+        {
+          "name": "Paras Nath",
+          "url": "https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328909,
+      "name": "Koi Umeed",
+      "url": "https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW"
+    },
+    {
+      "album": {
         "name": "Arth (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF"
       },
@@ -1184,7 +1224,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 308275,
       "name": "Na Kajare Ki Dhar (Duet Version) - With Heart Beats",
       "url": "https://open.spotify.com/track/5Lfsdm1eKTsUxEdqwmbBLb"
@@ -1444,7 +1484,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 329863,
       "name": "Sham Ye Dhalte Dhalte",
       "url": "https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq"

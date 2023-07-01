@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 260016,
+  "num_followers": 260086,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODc4YTkxN2M1ODk5ZDhlZTNkZGU1NDllNDU3NjIxNDMzYjA5NDA3",
+  "snapshot_id": "MCxjNWE0MWU3ZmUxYzg2NWJlZWM0NzE2NDhiZmJlMDI0MGZlMDQ0ZWZl",
   "tracks": [
     {
       "added_at": "2023-06-27 20:52:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-27 20:52:42",
       "album": {
-        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
-        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Devil in Your Heart",
-      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
-    },
-    {
-      "added_at": "2023-06-27 20:52:42",
-      "album": {
         "name": "All That We Have Now",
         "url": "https://open.spotify.com/album/5a8NyykjKg0IDUKHslgNgm"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 218573,
       "name": "Just Awake",
       "url": "https://open.spotify.com/track/1Gqpa08T7eBAvPQj9O9L2Q"
+    },
+    {
+      "added_at": "2023-06-27 20:52:42",
+      "album": {
+        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
+        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Devil in Your Heart",
+      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
     },
     {
       "added_at": "2023-06-27 20:52:42",

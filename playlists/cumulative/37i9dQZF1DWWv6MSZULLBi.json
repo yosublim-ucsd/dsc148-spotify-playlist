@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Elisapie",
+  "description": "A laid-back trip in the folk scene. Cover: The Franklin Electric",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -882,6 +882,24 @@
       "duration_ms": 241600,
       "name": "Bird Without Wings",
       "url": "https://open.spotify.com/track/04anQtHIm8VdSINRrpijHq"
+    },
+    {
+      "album": {
+        "name": "Black & Thunder",
+        "url": "https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301346,
+      "name": "Black & Thunder",
+      "url": "https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN"
     },
     {
       "album": {
@@ -2201,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196775,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU"
+    },
+    {
+      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/3pc1ooj1ZnJ6dBxTK7hSN3"
       },
@@ -2654,7 +2690,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 284720,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 250680,
       "name": "I Don't Talk to My Mother",
       "url": "https://open.spotify.com/track/5VJcJbymsRHM2ws3rUeC54"
@@ -3666,6 +3702,24 @@
       "duration_ms": 296840,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb"
+    },
+    {
+      "album": {
+        "name": "If Nothing Changes",
+        "url": "https://open.spotify.com/album/3nXHu0E3uVVGf2MyUNQJqG"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "I Give Up",
+      "url": "https://open.spotify.com/track/0SwDAICvoyzFT8Q20ubjSo"
     },
     {
       "album": {
@@ -4001,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Oh Brother",
+        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275506,
+      "name": "Its A Winding Road",
+      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
+    },
+    {
+      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -4034,6 +4106,24 @@
       "duration_ms": 216938,
       "name": "Jean Jackets",
       "url": "https://open.spotify.com/track/7scjbEORM6rWarLNN8fKbX"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/1NgTFS7qGNpDq3XmnLk8MC"
+      },
+      "artists": [
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3SLfONUr1O6vT50WSMRyWQ"
     },
     {
       "album": {
@@ -4396,7 +4486,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -4987,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "Toil and Trouble",
+        "url": "https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241552,
+      "name": "Memory Palace",
+      "url": "https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7"
+    },
+    {
+      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/0gILM2JR7Hx68yyU2SWSGm"
       },
@@ -5524,7 +5632,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 157781,
       "name": "Nothing Really Changes",
       "url": "https://open.spotify.com/track/64W1kfl7LElmefBwllY9T0"
@@ -5546,6 +5654,24 @@
       "duration_ms": 181568,
       "name": "October Birds",
       "url": "https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt"
     },
     {
       "album": {
@@ -5694,6 +5820,24 @@
       "duration_ms": 135730,
       "name": "One Bird Calling",
       "url": "https://open.spotify.com/track/4GzJ0pIpiIl3lkVVEL4ZLq"
+    },
+    {
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/4R8AVU5NAVYV8ACgxL7zPC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223036,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/0HTAW7MuoTKLzLKoQdI3i3"
     },
     {
       "album": {
@@ -6108,10 +6252,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 264690,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd"
+    },
+    {
+      "album": {
+        "name": "Place To Be",
+        "url": "https://open.spotify.com/album/06jxHqRQSl3X6e2Sq4m1KG"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163468,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/1jNVZmVkhhIcmnmj8Y1RNb"
     },
     {
       "album": {
@@ -7372,7 +7534,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 147121,
       "name": "Ten Hands",
       "url": "https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc"
@@ -7412,7 +7574,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 196755,
       "name": "The Ballad of Betty and Barney Hill",
       "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
@@ -7722,7 +7884,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 296678,
       "name": "This",
       "url": "https://open.spotify.com/track/21M73RYOXZw9QaI9u6b7bj"
@@ -8350,7 +8512,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 212440,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/6G5BZd8IB5qYCAg6zNSASp"
@@ -9039,6 +9201,28 @@
     },
     {
       "album": {
+        "name": "yeti",
+        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252152,
+      "name": "yeti",
+      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6NSPHXtgNOP1nUiSP5d9NS"
       },
@@ -9108,7 +9292,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 243623,
       "name": "You Got a Hold on Me",
       "url": "https://open.spotify.com/track/69VKlOVP8NBMnKcnqB3jdX"

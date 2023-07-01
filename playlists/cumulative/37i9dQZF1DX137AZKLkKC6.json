@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 225657,
       "name": "La Cita (feat. Jessi Uribe)",
       "url": "https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE"
@@ -1658,6 +1658,24 @@
       "duration_ms": 152023,
       "name": "MAM\u00c1 PERD\u00d3N",
       "url": "https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
     },
     {
       "album": {

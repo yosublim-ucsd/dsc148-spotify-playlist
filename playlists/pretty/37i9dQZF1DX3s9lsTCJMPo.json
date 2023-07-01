@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 57525,
+  "num_followers": 57581,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2I2MGU0YTkwOTM5NTg5NzRiMGEyNGI5NTg2NmM5ZTcxYjNkNWMx",
+  "snapshot_id": "MCwzYTg5Y2NlMWU1MjQxYjY1NGM5ZDNjZTk2NGJmNjc2MzBmNWQzNmY2",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Crazy",
-          "url": "https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5"
-        }
-      ],
-      "duration_ms": 432666,
-      "name": "Nani Wine",
-      "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Caribbean Road March 2001 and More",
         "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 273693,
       "name": "Tay Lay Lay",
       "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Crazy",
+          "url": "https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5"
+        }
+      ],
+      "duration_ms": 432666,
+      "name": "Nani Wine",
+      "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Heavy Duty",
-        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Sparrow's Dance Party",
         "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 395866,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Heavy Duty",
+        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Sparrow's Dance Party",
+        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
+        }
+      ],
+      "duration_ms": 595866,
+      "name": "Miss Mary Medley: Jane / Royal Jail / Benwood Dick / Sa-Sa-Yea",
+      "url": "https://open.spotify.com/track/1QjQrEMVt10aOm57zavRb3"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Wining Season",
         "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 255093,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Sparrow's Dance Party",
-        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
-        }
-      ],
-      "duration_ms": 595866,
-      "name": "Miss Mary Medley: Jane / Royal Jail / Benwood Dick / Sa-Sa-Yea",
-      "url": "https://open.spotify.com/track/1QjQrEMVt10aOm57zavRb3"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Arrow!!!",
-          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
-        }
-      ],
-      "duration_ms": 410573,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Carnival Party",
         "url": "https://open.spotify.com/album/0n6T2zpvjPLpxQraa8o1Cr"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Arrow!!!",
+          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
+        }
+      ],
+      "duration_ms": 410573,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca Gold 1998",
         "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 256826,
       "name": "In The Mean Time",
       "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Roy Cape: A Calypso and Soca Anthology",
+        "url": "https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy"
+      },
+      "artists": [
+        {
+          "name": "Roy Cape All Stars",
+          "url": "https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Tremble It",
+      "url": "https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1187,26 +1207,6 @@
       "duration_ms": 274173,
       "name": "Craziness",
       "url": "https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Roy Cape: A Calypso and Soca Anthology",
-        "url": "https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy"
-      },
-      "artists": [
-        {
-          "name": "Roy Cape All Stars",
-          "url": "https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Tremble It",
-      "url": "https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "The Very Best of Super Blue",
-        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
       "artists": [
         {
-          "name": "Super Blue",
-          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
         }
       ],
-      "duration_ms": 348706,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG"
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1339,6 +1323,22 @@
       "duration_ms": 191440,
       "name": "Party Start",
       "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "The Very Best of Super Blue",
+        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+      },
+      "artists": [
+        {
+          "name": "Super Blue",
+          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+        }
+      ],
+      "duration_ms": 348706,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG"
     },
     {
       "added_at": "2023-05-15 08:13:13",

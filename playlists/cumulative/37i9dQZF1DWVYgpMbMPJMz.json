@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8?si=974d0a44e99f4072\">Jesus Culture<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed?si=eda0dd0b1708488b\">Chris Daveport<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 291057,
       "name": "Hosanna! (Will You Rise?)",
       "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
@@ -5414,7 +5414,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 310586,
       "name": "Plead The Blood (with Brandon Lake and Cody Carnes)",
       "url": "https://open.spotify.com/track/3O0KjuEzvCEZc3e7byO2sv"
@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 356962,
       "name": "pure",
       "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
@@ -7223,6 +7223,28 @@
     },
     {
       "album": {
+        "name": "Moments: 011 (Live)",
+        "url": "https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696887,
+      "name": "This Is My Shepherd - Live",
+      "url": "https://open.spotify.com/track/1PTVHxjA9dsK0z4O2XXwTl"
+    },
+    {
+      "album": {
         "name": "This Is My Song",
         "url": "https://open.spotify.com/album/1vUHCTy5ywgCj13uSg4AFr"
       },
@@ -7334,6 +7356,24 @@
       "duration_ms": 315492,
       "name": "Through & Through",
       "url": "https://open.spotify.com/track/7MjnE6xhodvoOoxZCDeQCF"
+    },
+    {
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
+      },
+      "artists": [
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310226,
+      "name": "Thunder In The Desert",
+      "url": "https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um"
     },
     {
       "album": {

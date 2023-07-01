@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-224 songs - 14 hr 17 min
+226 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Centuries](https://open.spotify.com/track/42zrLbtRnhMwVN6T43fRRp) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2015](https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3) | 3:57 | 2021-08-20 | 2023-05-14 |
 | [Clocks](https://open.spotify.com/track/3oVRuQY34aspcdgEWbL0lD) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Fantastic Pickin' on Series Bluegrass Sampler, Vol\. 2](https://open.spotify.com/album/2ZfxUmkKvMQ6qHdBmA2sOx) | 7:35 | 2021-08-20 |  |
 | [Come On In My Kitchen](https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 4:59 | 2021-12-10 |  |
+| [Come to Jesus](https://open.spotify.com/track/3DNui82TrXtZMoXKuzdyuw) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Come to Jesus](https://open.spotify.com/album/7DplEfND4glcIW4679OkXU) | 3:41 | 2023-06-30 |  |
 | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/track/7mrdHjkfEFTXCniqDTOYHM) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b), [Carl Miner](https://open.spotify.com/artist/6EG8uorDPhIW5CA471W5Di), [Jamie Dick](https://open.spotify.com/artist/7xzCJRaY7nlG6rG0vAVK9s) | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/album/0trHLApfMaHMLxqw5771wT) | 2:04 | 2021-08-20 | 2022-12-03 |
 | [Counting Stars](https://open.spotify.com/track/0QRywzlUdSlC8qtayAEpkD) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/6jn2ods9b838kQ5oQh7WtF) | 1:36 | 2022-05-27 |  |
 | [Counting Stars](https://open.spotify.com/track/4TdQmsHwJQbCaVSen5W9Zv) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/74f1fnKDMj0JGuD1eliXQ9) | 1:36 | 2021-08-20 | 2022-07-29 |
@@ -72,6 +73,7 @@
 | [Float On](https://open.spotify.com/track/3mGB1bpKzXqFAELigaTBxk) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [John Tucker Must Die \(Music From The Motion Picture\)](https://open.spotify.com/album/7BjfZEpQGqsFcDnlH8n4lr) | 4:01 | 2022-05-27 |  |
 | [For The Turnstiles](https://open.spotify.com/track/7kpGyXljXAINZnybcsNRkn) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/7vmiUDLIp6w1s4NYDAWjej) | 4:26 | 2022-05-27 |  |
 | [For The Turnstiles](https://open.spotify.com/track/0ShbiDJGWaMyTimkimVohJ) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/1JKxrLcm3e2T9AiWMA18c2) | 4:26 | 2021-08-20 | 2022-07-29 |
+| [Friend of the Devil](https://open.spotify.com/track/3dATBi29oygrDF033WG1pH) | [Chicken Wire Empire](https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm) | [Verry Garcia](https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt) | 5:02 | 2023-06-30 |  |
 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 | 2022-05-27 |  |
 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/6L5QcgxgdqWAh9fknzChJH) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/0jOngT2EDPHf2mIrYz3US5) | 5:01 | 2021-08-20 | 2022-07-29 |
 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 | 2023-04-14 |  |

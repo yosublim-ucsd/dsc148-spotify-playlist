@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 63489,
+  "num_followers": 63539,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdjNjc5OTk2NGNmNDNlYjNmMjQ3MzY4M2UyOTJjMmY0OTk1YjA1",
+  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
   "tracks": [
     {
       "added_at": "2023-05-29 10:26:29",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 349693,
-      "name": "oh baby",
-      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Han Jan",
         "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 242982,
       "name": "Han Jan - Edit",
       "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 349693,
+      "name": "oh baby",
+      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Solitary Daze",
-        "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
-      },
-      "artists": [
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        },
-        {
-          "name": "Gabriel Ananda",
-          "url": "https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX"
-        }
-      ],
-      "duration_ms": 463405,
-      "name": "Solitary Daze",
-      "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 410880,
       "name": "I Go - Soulwax Remix",
       "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Solitary Daze",
+        "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Gabriel Ananda",
+          "url": "https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX"
+        }
+      ],
+      "duration_ms": 463405,
+      "name": "Solitary Daze",
+      "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Premiers \u00e9mois",
         "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
       "artists": [
         {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
         }
       ],
-      "duration_ms": 397266,
-      "name": "Famous Monsters",
-      "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1255,6 +1239,22 @@
       "duration_ms": 432266,
       "name": "Return to Oz",
       "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 397266,
+      "name": "Famous Monsters",
+      "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Scacco Matto",
-        "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Senni",
-          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
-        }
-      ],
-      "duration_ms": 452853,
-      "name": "Dance Tonight Revolution Tomorrow",
-      "url": "https://open.spotify.com/track/0KHo3W3RCz6t4BmOlZv8yh"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Sol De Mi Vida",
         "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 187593,
       "name": "Sol",
       "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "Scacco Matto",
+        "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
+        }
+      ],
+      "duration_ms": 452853,
+      "name": "Dance Tonight Revolution Tomorrow",
+      "url": "https://open.spotify.com/track/0KHo3W3RCz6t4BmOlZv8yh"
     }
   ],
   "unique_name": "Runway",

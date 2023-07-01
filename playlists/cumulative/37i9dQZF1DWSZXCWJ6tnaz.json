@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Debussy: Arabesque No. 1 - slowed + reverb",
+        "url": "https://open.spotify.com/album/4xmNlanjcv8mYGGaSdeOUP"
+      },
+      "artists": [
+        {
+          "name": "Classical Slowed + Reverb",
+          "url": "https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408360,
+      "name": "Debussy: Arabesque No. 1 - slowed + reverb",
+      "url": "https://open.spotify.com/track/6kw1GNYsTt1Tq0GZNT7KhR"
+    },
+    {
+      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },

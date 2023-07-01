@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=34d2682b8bf54b0c\">Pharrell</a> and Bishop Ezekiel Williams of <a href=\"https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH?si=e7a56d3fbfb54cdc\">Voices of Fire</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY?si=b5drYWvkSAqDrsnFlCcGKg\">Mali Music</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 202838,
       "name": "Adulting - Live",
       "url": "https://open.spotify.com/track/42ilVo7uiw5VjsgmJ58O1c"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/0W0NCHeJfCkst8buyacLxG"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234874,
+      "name": "Age To Age",
+      "url": "https://open.spotify.com/track/4hz9JIeosKjU79sR9M8Xsh"
     },
     {
       "album": {
@@ -166,7 +188,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
@@ -3224,7 +3246,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 284838,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine) - Radio Version",
       "url": "https://open.spotify.com/track/0f123s4v9Azuv3jT8ZMCAU"
@@ -4066,6 +4088,24 @@
       "duration_ms": 250987,
       "name": "My Portion",
       "url": "https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx"
+    },
+    {
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "album": {

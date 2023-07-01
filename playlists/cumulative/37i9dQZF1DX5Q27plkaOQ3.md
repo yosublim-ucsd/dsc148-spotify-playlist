@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-369 songs - 21 hr 1 min
+370 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-12-17 | 2022-10-29 |
 | [No Rules](https://open.spotify.com/track/0j78Fsqk81u0NeqbmSiBQQ) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [No Rules](https://open.spotify.com/album/18gaoo9LqVkmmsvFszPVKf) | 2:10 | 2023-03-31 |  |
 | [No Rules](https://open.spotify.com/track/6HYx52WlKFIQxiOJg1eY2n) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [No Rules](https://open.spotify.com/album/5LSfpXKFTSWKBMLWmgWN25) | 2:10 | 2022-10-14 | 2023-02-26 |
+| [No Rules](https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [No Rules](https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx) | 9:07 | 2023-06-30 |  |
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2021-12-17 | 2023-03-11 |
 | [NOW U KNOW](https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [VRG](https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh) | [NOW U KNOW](https://open.spotify.com/album/2iSUn42TWOutaxagug7Syb) | 2:43 | 2023-01-13 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-03 | 2022-11-12 |
@@ -243,7 +244,7 @@
 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 | 2023-02-24 |  |
 | [Oldskool](https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Mechanized Mayhem Vol\. 2](https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr) | 3:39 | 2022-01-21 | 2023-01-27 |
 | [Ominous](https://open.spotify.com/track/0bmmFj68HfhxsBoPbuSU1q) | [GUERRO](https://open.spotify.com/artist/6zgXDX1gGCrq6U8RXKGn0h) | [Ominous](https://open.spotify.com/album/4ZyuhMJtWSoh1mc9vTvtSu) | 3:29 | 2022-05-06 | 2022-07-23 |
-| [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-22 |  |
+| [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-22 | 2023-07-01 |
 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 | 2022-01-14 | 2023-04-01 |
 | [Out Of My Head](https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Thrashout](https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy) | [Out Of My Head](https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ) | 2:43 | 2022-06-24 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 | 2023-04-01 |

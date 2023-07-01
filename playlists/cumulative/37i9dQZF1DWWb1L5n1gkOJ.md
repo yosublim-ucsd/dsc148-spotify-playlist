@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-141 songs - 6 hr 41 min
+142 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Mindful Soul](https://open.spotify.com/track/1lfuL7h3owfL3hCiWE2EZK) | [Aaron Lynn](https://open.spotify.com/artist/1kEuEpTf7gKcy26IEL9Cw0) | [Mindful Soul](https://open.spotify.com/album/7xVsT3GMGgakHk9xbtjDzC) | 2:39 | 2022-10-12 | 2022-11-23 |
 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 | 2022-11-22 |  |
 | [Morning Lights](https://open.spotify.com/track/2r9QArmF6Z30UzUvDBgCy4) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Morning Lights](https://open.spotify.com/album/7JAleYk8JNdXN9ihY9Gy86) | 2:54 | 2022-10-12 |  |
+| [Moving Towns](https://open.spotify.com/track/2JiKbDaZcMTyzhEoDq2CUy) | [Cognitivity](https://open.spotify.com/artist/1M1SmUUUHhrSn1k8SEvBTV) | [Vision Dreamscape](https://open.spotify.com/album/0fQ9nrYb4OjJt2MJ5PKnga) | 2:59 | 2023-06-30 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-10-12 |  |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2022-10-12 |  |
 | [Nightsong](https://open.spotify.com/track/2C9K86QpeEP3d6eXIgkdEe) | [Hwerna](https://open.spotify.com/artist/3UC102aeEAt0cbnucl3qjT) | [Nightsong](https://open.spotify.com/album/1CATANReaF9hPVAhmdjr2A) | 3:09 | 2022-10-12 |  |

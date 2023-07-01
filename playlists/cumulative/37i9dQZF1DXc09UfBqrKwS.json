@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/4qm5Gh0BzhDGJ3dt4dTIvW"
+      },
+      "artists": [
+        {
+          "name": "Miesha Berens",
+          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/6dklA8QKFaS9iYIshadCPR"
+    },
+    {
+      "album": {
         "name": "Deep Healing Sessions Vol 2",
         "url": "https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva"
       },

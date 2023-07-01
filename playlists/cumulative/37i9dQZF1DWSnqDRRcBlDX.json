@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/4e7dw7ZW7rpfPxUfoLfDcu"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338165,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY"
+    },
+    {
+      "album": {
         "name": "Obvious Intention",
         "url": "https://open.spotify.com/album/3CXQwErEMo6wKhmO7INRJf"
       },
@@ -2003,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Smile You're on Acid",
+        "url": "https://open.spotify.com/album/1jDKf465NUOHtFt8QH7hvN"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234471,
+      "name": "Smile You're On Acid",
+      "url": "https://open.spotify.com/track/1ZrdzMcvmR1s1X0iBa8fxK"
+    },
+    {
+      "album": {
         "name": "SOCIETY",
         "url": "https://open.spotify.com/album/5cs7IJen5bTKsesBPMCJng"
       },
@@ -2242,7 +2278,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 443026,
       "name": "Trinity - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"

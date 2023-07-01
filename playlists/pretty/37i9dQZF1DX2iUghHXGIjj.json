@@ -1,12 +1,12 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 732903,
+  "num_followers": 732884,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmE2YTdmNzU5ODM0Nzk4NTMzODk1NWIyODgyYTcxZWU5ZDZlMDg2",
+  "snapshot_id": "MCw5MjA1Mzk2N2FiOGU4MjQ0NTMzZjNiYmJhN2M3ZDRlMDA0Njc1YmU0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -95,6 +95,26 @@
       "duration_ms": 170353,
       "name": "Profit - Acoustic",
       "url": "https://open.spotify.com/track/6zZWw2nK4OgfPH7G03tovl"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "I Know the Blues",
+        "url": "https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw"
+      },
+      "artists": [
+        {
+          "name": "Marco Descontus",
+          "url": "https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ"
+        },
+        {
+          "name": "The Italian Connection",
+          "url": "https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "I Know the Blues",
+      "url": "https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -619,22 +639,6 @@
       "duration_ms": 206186,
       "name": "I Won't Bitch",
       "url": "https://open.spotify.com/track/3KD3sURRyU5R5ofgj491qZ"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Live at Brighton Road",
-        "url": "https://open.spotify.com/album/70hokf3NOWBHAq6tzJV0Do"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Bumble Bee (Live)",
-      "url": "https://open.spotify.com/track/3qbUXMhOaadA7pSyrjbI4p"
     },
     {
       "added_at": "2021-02-05 05:01:00",

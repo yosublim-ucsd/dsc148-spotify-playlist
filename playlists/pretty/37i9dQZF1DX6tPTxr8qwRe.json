@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: salem ilese",
-  "num_followers": 370453,
+  "description": "Dark, hard hitting pop. Cover: SNOW WIFE",
+  "num_followers": 370627,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmU5ZTRlMzlmMTlkZWU0OGJlNDBjYjFiOWZjMDgzNWE1ZjMzOGU0",
+  "snapshot_id": "MCwzNDQ2NzMxZjBkMDJlYzQ2OGFjMTk5YWU4ZDQzY2VkZDE2MzE5NDdh",
   "tracks": [
+    {
+      "added_at": "2023-06-30 14:09:13",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
     {
       "added_at": "2023-06-23 04:11:58",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 156160,
       "name": "Team Sport",
       "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Super Over",
+        "url": "https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 164998,
+      "name": "Super Over",
+      "url": "https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/5Okndjg5uas9PGvm8SIRAl"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "duration_ms": 167542,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi"
     },
     {
       "added_at": "2023-06-23 04:21:04",
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/1Mt02bzaETcvNe5psmpdzh"
+      },
+      "artists": [
+        {
+          "name": "Sadye",
+          "url": "https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
@@ -57,36 +137,40 @@
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "RENT FREE",
-        "url": "https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb"
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ"
       },
       "artists": [
         {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 171199,
-      "name": "RENT FREE",
-      "url": "https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3"
+      "duration_ms": 187773,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr"
     },
     {
-      "added_at": "2023-04-28 04:04:49",
+      "added_at": "2023-06-23 04:11:58",
       "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+        "name": "Pretty In The Dark",
+        "url": "https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw"
       },
       "artists": [
         {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        },
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
         }
       ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+      "duration_ms": 176423,
+      "name": "Pretty In The Dark",
+      "url": "https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -107,6 +191,38 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "heartless",
+        "url": "https://open.spotify.com/album/3ZrblKKFAH9jahmgdqMR1g"
+      },
+      "artists": [
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "heartless",
+      "url": "https://open.spotify.com/track/4tmcCFi4mCUlGFyeedR8vN"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "RENT FREE",
+        "url": "https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        }
+      ],
+      "duration_ms": 171199,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -139,26 +255,6 @@
       "duration_ms": 171603,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH"
-    },
-    {
-      "added_at": "2023-06-23 04:11:58",
-      "album": {
-        "name": "Pretty In The Dark",
-        "url": "https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw"
-      },
-      "artists": [
-        {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
-        },
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 176423,
-      "name": "Pretty In The Dark",
-      "url": "https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-384 songs - 21 hr 43 min
+385 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Change For Me \(With Samm Henshaw\)](https://open.spotify.com/track/7mEfwGs3l9NQSllJfKQlKY) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Change For Me \(With Samm Henshaw\)](https://open.spotify.com/album/6xQvCrikkzeOUdABXbN6Ub) | 4:09 | 2020-11-13 | 2022-03-23 |
 | [Check Your DMs](https://open.spotify.com/track/2yT3iJdv7WakLKU5akN1eu) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Check Your DMs](https://open.spotify.com/album/5249Jvjz41Hnzb0oErH15Z) | 3:17 | 2022-02-18 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Chemicals](https://open.spotify.com/album/57VWVqpSTU1u7fuOEeS20p) | 3:02 | 2021-09-03 | 2022-07-27 |
+| [Cherry Pie](https://open.spotify.com/track/49NJppBKrOhxs5DSBSucSL) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Cherry Pie](https://open.spotify.com/album/0LKgEWhOvPszUBabtNTVGQ) | 2:04 | 2023-06-30 |  |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-21 | 2022-10-13 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 | 2022-01-21 |  |
 | [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 | 2023-05-26 |  |
@@ -212,7 +213,7 @@
 | [More](https://open.spotify.com/track/5fkAuH8tIC537wT67dwrDn) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 3:16 | 2020-11-13 | 2022-03-23 |
 | [More](https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/6vt5eZTbyId7w8pBNtDBuY) | 3:03 | 2021-09-21 | 2022-07-25 |
 | [Morning Coffee](https://open.spotify.com/track/4g32SGaFLUyj0TgwoIt1OX) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Morning Coffee](https://open.spotify.com/album/63xB8Wz2IS1gO76vh74yDq) | 4:34 | 2020-12-18 | 2022-03-26 |
-| [Motion \(with Yot Club\)](https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Motion \(with Yot Club\)](https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR) | 2:59 | 2022-11-04 |  |
+| [Motion \(with Yot Club\)](https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Motion \(with Yot Club\)](https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR) | 2:59 | 2022-11-04 | 2023-07-01 |
 | [Move Along](https://open.spotify.com/track/7ePI88B6EPUq9IpCn76LYT) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Move Along](https://open.spotify.com/album/3Ufb6V4uYXB6HG7wmIVSMT) | 3:59 | 2020-11-13 | 2022-03-26 |
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2022-07-29 |
 | [Musta Been a Ghost](https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [Kind Reminder](https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc) | 3:40 | 2022-12-16 | 2023-03-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Casper
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,726 likes - 74 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,874 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 70 | [Bothmer Schloss](https://open.spotify.com/track/44kwjttT281ppk7hKBqXvV) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Bothmer Schloss](https://open.spotify.com/album/5uzWUjRAUuHKiVjl3IUKxc) | 2:26 |
 | 71 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 |
 | 72 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
-| 73 | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We) | 2:16 |
-| 74 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
+| 73 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 |
+| 74 | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We) | 2:16 |
+| 75 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 
-Snapshot ID: `MCwxMjRmNDhlY2RmZTIxZWQxMmQ5MDYwOWQ0MTVjZDFhYzBjM2YzZmVm`
+Snapshot ID: `MCxmNGIyYzY0OGQ5MGVkN2NiMWZmOTcxM2ZjZTZiNWU5MGQzZTFkYTk4`

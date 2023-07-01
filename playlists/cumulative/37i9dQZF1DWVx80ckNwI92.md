@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-96 songs - 4 hr 49 min
+97 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-03-30 | 2023-04-07 |
 | [Time In Our Lives](https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Time In Our Lives](https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK) | 2:38 | 2023-03-30 | 2023-06-09 |
 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 | 2023-03-30 | 2023-05-12 |
-| [Tony, Tony!](https://open.spotify.com/track/7sSfjIQ4BxCJ0gqiOCRE8x) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Tony, Tony!](https://open.spotify.com/album/6vclSwfuI40dJXhoxbR52m) | 2:57 | 2023-03-30 |  |
+| [Tony, Tony!](https://open.spotify.com/track/7sSfjIQ4BxCJ0gqiOCRE8x) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Tony, Tony!](https://open.spotify.com/album/6vclSwfuI40dJXhoxbR52m) | 2:57 | 2023-03-30 | 2023-07-01 |
+| [Too Late To Party](https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Too Late To Party](https://open.spotify.com/album/5DMDU4qd94FEgJlpKr7rZs) | 3:04 | 2023-06-30 |  |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2023-03-30 |  |
 | [Uber](https://open.spotify.com/track/2F9I0GeAKSJLS50LUlnFVd) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Sightseeing](https://open.spotify.com/album/1Ba3fPgZiNn2r1kkxs0Rje) | 3:47 | 2023-03-30 | 2023-05-19 |
 | [Vanity](https://open.spotify.com/track/4CiNVnqNQX05t0e4IWwVO1) | [Kade Spear](https://open.spotify.com/artist/6yyrDjt9pJEIWsIamkw60i) | [Vanity](https://open.spotify.com/album/1svaG1pydrkav2LDzMiFzb) | 2:47 | 2023-04-06 | 2023-04-28 |

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 232801,
+  "num_followers": 232781,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjZiN2Y3Y2FmZmZmNzNiZGMxZjlhOTY4YjI0YjAwMzNiOTc4OGJm",
+  "snapshot_id": "MCwwNzFjMzVhZTg2MjBjZDZkZTkzMzUyYjVhZjBhYzU5MTFiMWE2ZWZl",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -899,6 +899,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "The Addams Family (Original Music From The T.V. Show)",
         "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 228866,
       "name": "Killing Game",
       "url": "https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
-        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
-      },
-      "artists": [
-        {
-          "name": "The City of Prague Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "The Addams Family",
-      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
     }
   ],
   "unique_name": "Ultimate Halloween",

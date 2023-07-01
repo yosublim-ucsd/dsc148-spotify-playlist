@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Focuses",
+        "url": "https://open.spotify.com/album/0f8yANLtuGimQ18mzOKJUG"
+      },
+      "artists": [
+        {
+          "name": "Plaice Commes",
+          "url": "https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164255,
+      "name": "A Memory of Sunday",
+      "url": "https://open.spotify.com/track/6qmfW6vNga0M3yV9hoCGsf"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e"
       },
@@ -1476,6 +1494,24 @@
       "duration_ms": 129789,
       "name": "Klar\u00e4lven",
       "url": "https://open.spotify.com/track/6wnqcyatMNMyK2mQSVjMfv"
+    },
+    {
+      "album": {
+        "name": "Knowledge",
+        "url": "https://open.spotify.com/album/1Fl3JnASxezylSjI0YZgVt"
+      },
+      "artists": [
+        {
+          "name": "Endless Voyager",
+          "url": "https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157605,
+      "name": "Knowledge",
+      "url": "https://open.spotify.com/track/32jPQvbPz02F2jhlDdM3SU"
     },
     {
       "album": {

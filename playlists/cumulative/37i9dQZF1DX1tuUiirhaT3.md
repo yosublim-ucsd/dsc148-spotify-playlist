@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-268 songs - 14 hr 15 min
+269 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,13 +87,14 @@
 | [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2021-12-17 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2022-09-30 |  |
 | [Flow](https://open.spotify.com/track/4u6b51YsNscUjljuiy9JzU) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Flow](https://open.spotify.com/album/0udfQBmswmEv3Noa7E976j) | 3:17 | 2022-05-06 | 2023-01-14 |
+| [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 | 2023-06-30 |  |
 | [Forensia](https://open.spotify.com/track/2WtgSzDE0rAjr5T4bZT3Yz) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Forensia](https://open.spotify.com/album/4GvUzLdBV8aLCHTiU0iC9x) | 2:56 | 2021-12-17 |  |
 | [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2022-12-02 |  |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2021-12-17 | 2023-03-10 |
 | [Friendly Fall](https://open.spotify.com/track/5h2vwZOiGeBXbV1FwiZKaQ) | [New Orange](https://open.spotify.com/artist/2r2zkeCT8RoBKJw25mYnUL) | [Silhouette Stone](https://open.spotify.com/album/2I7EznUk8JyuJMsozVKVlu) | 3:05 | 2021-12-17 |  |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2022-03-04 |  |
 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 | 2021-12-17 |  |
-| [Genetic Waves](https://open.spotify.com/track/67dgZaF5Jw38my0ch6npwA) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Wake Me Softly](https://open.spotify.com/album/6ARc0MH301kItHchIEZJST) | 6:04 | 2021-12-17 |  |
+| [Genetic Waves](https://open.spotify.com/track/67dgZaF5Jw38my0ch6npwA) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Wake Me Softly](https://open.spotify.com/album/6ARc0MH301kItHchIEZJST) | 6:04 | 2021-12-17 | 2023-07-01 |
 | [Gentle Forest Rain](https://open.spotify.com/track/3aSqeNxCjNPKFZOXrfl4li) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Gentle Forest Rain](https://open.spotify.com/album/70rRnKDxihveW1rKMzbGsk) | 3:27 | 2021-12-17 |  |
 | [Gentle Sail](https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim) | [Highland Falls](https://open.spotify.com/artist/52WuJ5gqkSx8o5QIeJBMWl) | [Gentle Sail](https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD) | 2:57 | 2021-12-17 |  |
 | [gentle sunlight \- Meditation Edit](https://open.spotify.com/track/6wkYV8Um7G2YSS6mtfeOFc) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [gentle sunlight](https://open.spotify.com/album/6oMEig7UL6H6h8J2qXZwuF) | 2:53 | 2021-12-17 |  |

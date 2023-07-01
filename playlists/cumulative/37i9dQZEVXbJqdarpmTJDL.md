@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,212 songs - 2 day 16 hr 53 min
+1,213 songs - 2 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-02-14 |
 | [Esco](https://open.spotify.com/track/0wWWHQPEO2lSrtMTszyNhz) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Musah](https://open.spotify.com/artist/2AWgf4OSoExCcIuwIbZClh) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:00 | 2021-04-18 | 2021-04-21 |
 | [ESTTIA](https://open.spotify.com/track/2sPLO3nfkjxOZIb3KLe1nC) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 2:04 | 2022-11-12 | 2022-11-26 |
+| [Esy](https://open.spotify.com/track/3bgNoBwhxYYQXWnGJc40V1) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Esy](https://open.spotify.com/album/0mg9yK52pDk0ESRgSe9dz8) | 3:34 | 2023-06-30 |  |
 | [Esy & Egw](https://open.spotify.com/track/0MBDgJ38dFiGsh3qwY7vRu) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [DJ Kas](https://open.spotify.com/artist/4L8CheDFALlOzgUygvWblJ) | [STATUS](https://open.spotify.com/album/3o4jrfejp2xzBi41YSwMrP) | 2:49 | 2022-06-25 | 2022-06-27 |
 | [Etsi](https://open.spotify.com/track/73d7q3kVVIgfCUK07bVIVH) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [Etsi](https://open.spotify.com/album/08RD51cNQQmrnMqZzkDQlT) | 2:28 | 2021-03-27\* | 2022-01-17 |
 | [ETSI EIMAI EGW](https://open.spotify.com/track/35J3oXYrkLk7WoW748XmtH) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Foxy Lee](https://open.spotify.com/artist/1TMRlzzQQpXLTPF77gB22i) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 2:44 | 2023-05-13 | 2023-05-19 |
@@ -910,7 +911,7 @@
 | [Protevousa](https://open.spotify.com/track/7nkPt2fzmlQzXcZGSoTAnh) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997) | [Protevousa](https://open.spotify.com/album/5KXmZAgsa67mKaUNHBJTFg) | 3:35 | 2021-06-25 | 2021-06-26 |
 | [Proti Thesi](https://open.spotify.com/track/5Ag6ggLk5bdlJNvD88FZAV) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Proti Thesi](https://open.spotify.com/album/6n1BdVRl12hU1VDGncyloK) | 3:37 | 2021-06-13 | 2021-06-16 |
 | [PROVLIMATA](https://open.spotify.com/track/3mFp9xedXeyDrvnEW3CAiC) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [RACKATTACK 2](https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8) | 3:27 | 2022-07-16 | 2022-07-21 |
-| [PSEMA](https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 2:42 | 2022-11-12 |  |
+| [PSEMA](https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 2:42 | 2022-11-12 | 2023-07-01 |
 | [PULL UP](https://open.spotify.com/track/1pVRN4ppqzn4sQ1jwX451z) | [Diablo](https://open.spotify.com/artist/6zlmpdTPJuoUoZzasQ4cGb), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Niku Bossi](https://open.spotify.com/artist/1sMZlq43h0wt6TBQZYQmXS) | [PULL UP](https://open.spotify.com/album/764wuci2T1E24TKz1zo0Lk) | 2:46 | 2022-03-20 | 2022-04-24 |
 | [Pure](https://open.spotify.com/track/7makDOAs66DPSP8s9CZ5rd) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Jessy Blue](https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 1:13 | 2022-12-17 | 2022-12-22 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-02-01 | 2022-02-12 |

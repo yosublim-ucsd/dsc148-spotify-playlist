@@ -2,7 +2,7 @@
 
 ### [Ganda Cena](https://open.spotify.com/playlist/37i9dQZF1DX59I2hjkhLtN)
 
-> Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
+> Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
 522 songs - 1 day 2 hr 28 min
 

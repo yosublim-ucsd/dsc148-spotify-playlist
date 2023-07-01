@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "MAXI SINGLE",
+        "url": "https://open.spotify.com/album/2BQDyasLD7aSUZW2lbLIuP"
+      },
+      "artists": [
+        {
+          "name": "Afriqua",
+          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202868,
+      "name": "OBJCT FNTSY",
+      "url": "https://open.spotify.com/track/30AUtHMmswYDB4l9HWbE3p"
+    },
+    {
+      "album": {
         "name": "Off My Mind",
         "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
       },
@@ -4504,6 +4522,24 @@
       "duration_ms": 198956,
       "name": "Spinning (feat. Sam Sparro)",
       "url": "https://open.spotify.com/track/0cjsZZukZLF6XqnptSSeA6"
+    },
+    {
+      "album": {
+        "name": "Spirit 2.0",
+        "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289962,
+      "name": "Spirit 2.0",
+      "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
     },
     {
       "album": {

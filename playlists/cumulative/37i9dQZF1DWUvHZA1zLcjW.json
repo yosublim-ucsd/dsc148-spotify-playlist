@@ -867,6 +867,36 @@
     },
     {
       "album": {
+        "name": "Jean Baur: Chamber Music",
+        "url": "https://open.spotify.com/album/1apcFKYEqQ3PoYlO3yaQ3u"
+      },
+      "artists": [
+        {
+          "name": "Jean Baur",
+          "url": "https://open.spotify.com/artist/26Fl5asNoaIS31eFNKGHGF"
+        },
+        {
+          "name": "Elinor Frey",
+          "url": "https://open.spotify.com/artist/2EA4i9ga0PUhJ3wnAZ0EeI"
+        },
+        {
+          "name": "Octavie Dostaler-Lalonde",
+          "url": "https://open.spotify.com/artist/2Jqv8da28IHWyBUlryRpev"
+        },
+        {
+          "name": "M\u00e9lisande Mcnabney",
+          "url": "https://open.spotify.com/artist/7yRJeGlEBwQwQhs6Rxp4Vn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182480,
+      "name": "Cello Sonata in B-Flat Major, Op. 2 No. 2 \"La Duple\u00efx\": II. Adagio amoroso",
+      "url": "https://open.spotify.com/track/4z8JCKV7yZPAE2FZXRWenY"
+    },
+    {
+      "album": {
         "name": "Reger & Strauss: Cello Sonatas",
         "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
       },
@@ -1338,6 +1368,28 @@
       "duration_ms": 248692,
       "name": "Flj\u00f3tav\u00edk",
       "url": "https://open.spotify.com/track/6hkOAdgduiWe3jCV3PjPKJ"
+    },
+    {
+      "album": {
+        "name": "Flute Sonata in E Minor BWV 1034 (Arr. For Piano by Irene Cantos)",
+        "url": "https://open.spotify.com/album/0kz3RAPraMJwYT4lz8UngA"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Irene Cantos",
+          "url": "https://open.spotify.com/artist/5ha9AFbBAUk78wpLtgnfhT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Flute Sonata in E Minor, BWV 1034: III. Andante (Arr. For Piano by Irene Cantos)",
+      "url": "https://open.spotify.com/track/3qyJC7Z09qlY8ag19H9nD0"
     },
     {
       "album": {
@@ -3753,6 +3805,28 @@
     },
     {
       "album": {
+        "name": "Sonatine, M. 40 II. Mouvement de Menuet",
+        "url": "https://open.spotify.com/album/4fEu8NRbzg2C2ZUE8SehFw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Judith Cohen",
+          "url": "https://open.spotify.com/artist/7kw0Vr8rXvL3E4fGWXItbu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Sonatine, M. 40 II. Mouvement de Menuet",
+      "url": "https://open.spotify.com/track/5SjC85F2Wm3AN9bS6gI7QM"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Portrait",
         "url": "https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH"
       },
@@ -3820,6 +3894,32 @@
       "duration_ms": 294960,
       "name": "Suite bergamasque, L. 75: III. Clair de lune",
       "url": "https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx"
+    },
+    {
+      "album": {
+        "name": "J\u00f3hannsson: Suite from The Theory of Everything: I. A Model of the Universe",
+        "url": "https://open.spotify.com/album/14iWMkGR0g0lLGRKDQS13s"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+        },
+        {
+          "name": "Dan\u00edel Bjarnason",
+          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90053,
+      "name": "Suite from The Theory of Everything: I. A Model of the Universe",
+      "url": "https://open.spotify.com/track/0iiTQYE1uhTDxQIwugbZMc"
     },
     {
       "album": {

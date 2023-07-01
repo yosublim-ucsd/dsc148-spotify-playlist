@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Systematic Error",
+        "url": "https://open.spotify.com/album/5QfyKIygTW2mqUT5GZnyvb"
+      },
+      "artists": [
+        {
+          "name": "Sleeper",
+          "url": "https://open.spotify.com/artist/4EtCpNKcQ3JXXm5essTfPE"
+        },
+        {
+          "name": "Youngsta",
+          "url": "https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250497,
+      "name": "Iridescence",
+      "url": "https://open.spotify.com/track/4BEXZPaK0706p5tPy1UR3l"
+    },
+    {
+      "album": {
         "name": "Koshi",
         "url": "https://open.spotify.com/album/2SwzlOLKcWmN9NCrsWU8GO"
       },

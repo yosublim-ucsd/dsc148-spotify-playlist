@@ -1,13 +1,29 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Kim Petras",
-  "num_followers": 99350,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Charli XCX",
+  "num_followers": 99603,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjZiZGE2OGU3ZGMzMmI3NTA1ZGRjZGIwZWU5NWY1OWZkODc1MTg4",
+  "snapshot_id": "MCwyMGEwY2Y2Y2M1YTk5YjMzMDJkZmU2OTY3ZWRmM2FlOThmMzAxYmEz",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 171080,
       "name": "King of Hearts",
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
+    },
+    {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-06-23 04:29:46",
@@ -73,6 +109,38 @@
       "url": "https://open.spotify.com/track/2stGSXmjqk9f74aUsozVEK"
     },
     {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/1Mt02bzaETcvNe5psmpdzh"
+      },
+      "artists": [
+        {
+          "name": "Sadye",
+          "url": "https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl"
+    },
+    {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "Hot One",
+        "url": "https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 110403,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko"
+    },
+    {
       "added_at": "2023-06-23 04:29:46",
       "album": {
         "name": "Out Of Time",
@@ -111,6 +179,22 @@
       "duration_ms": 183439,
       "name": "Static Body",
       "url": "https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs"
+    },
+    {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "Don't Think Twice",
+        "url": "https://open.spotify.com/album/2IdMh8hq88MtWZ9ZKNkqoa"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169253,
+      "name": "Don't Think Twice - Edit",
+      "url": "https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec"
     },
     {
       "added_at": "2023-06-23 04:29:46",
@@ -167,6 +251,22 @@
       "duration_ms": 111971,
       "name": "Head Bitch",
       "url": "https://open.spotify.com/track/2mpoeNUPzUvp1wIsT0I4Qu"
+    },
+    {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "added_at": "2023-06-23 04:29:46",
@@ -239,6 +339,22 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2023-06-23 04:29:46",
+      "album": {
         "name": "Any Other Day",
         "url": "https://open.spotify.com/album/7zC2HMYIxT3o5L2vaEbW8i"
       },
@@ -289,6 +405,22 @@
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
     },
     {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo"
+      },
+      "artists": [
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb"
+    },
+    {
       "added_at": "2023-06-23 04:29:46",
       "album": {
         "name": "Feed The Beast",
@@ -335,6 +467,22 @@
       "duration_ms": 209429,
       "name": "Shy Boy",
       "url": "https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV"
+    },
+    {
+      "added_at": "2023-06-30 04:02:04",
+      "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 219464,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak"
     },
     {
       "added_at": "2023-06-23 04:29:46",
@@ -479,22 +627,6 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
         "name": "Sodom & Gomorrah",
         "url": "https://open.spotify.com/album/6fGdCPc7IIJwoJM5wrWpFU"
       },
@@ -619,22 +751,6 @@
       "duration_ms": 219669,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/2vVeBAHVpohT92j4mfz9C9"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
-        "name": "favorite kind of high",
-        "url": "https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 175247,
-      "name": "favorite kind of high",
-      "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
     },
     {
       "added_at": "2023-06-23 04:29:46",
@@ -883,22 +999,6 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
-        "name": "Biblical",
-        "url": "https://open.spotify.com/album/6kZkJxmZFEh8rtIYQQnvkQ"
-      },
-      "artists": [
-        {
-          "name": "Sadye",
-          "url": "https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf"
-        }
-      ],
-      "duration_ms": 165924,
-      "name": "Biblical",
-      "url": "https://open.spotify.com/track/5CGFCCgW9mOXxWiNNIPBeG"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
         "name": "GOOD PUSS",
         "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
       },
@@ -963,26 +1063,6 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
-        "name": "Praising You (feat. Fatboy Slim)",
-        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
         "name": "Summer Really Hurt Us",
         "url": "https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD"
       },
@@ -1043,22 +1123,6 @@
       "duration_ms": 208280,
       "name": "Freak Me Now",
       "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY"
-      },
-      "artists": [
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
     },
     {
       "added_at": "2023-06-23 04:29:46",
@@ -1287,22 +1351,6 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
-        "name": "Higher Than Heaven (Deluxe)",
-        "url": "https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192349,
-      "name": "Tastes Like You",
-      "url": "https://open.spotify.com/track/4HLcj0MD2tg91flaBCIJHJ"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
         "name": "I Wrote A Song",
         "url": "https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB"
       },
@@ -1451,22 +1499,6 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
-        "name": "PSYCHO FREAK",
-        "url": "https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ"
-      },
-      "artists": [
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        }
-      ],
-      "duration_ms": 165373,
-      "name": "PSYCHO FREAK",
-      "url": "https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
         "name": "BOYTOY",
         "url": "https://open.spotify.com/album/1k4YvboPSkWRViqD1Jc4mI"
       },
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2023-06-23 04:29:46",
       "album": {
-        "name": "I Don't Cry (I Dance)",
-        "url": "https://open.spotify.com/album/0Uz5uSQ1Q2akBMfpUWjM8P"
-      },
-      "artists": [
-        {
-          "name": "Rosse",
-          "url": "https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i"
-        }
-      ],
-      "duration_ms": 152247,
-      "name": "I Don't Cry (I Dance)",
-      "url": "https://open.spotify.com/track/2tFCXCtEWcWCXIPpgjqdfg"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
         "name": "Why Is She Calling?",
         "url": "https://open.spotify.com/album/4XhHHcPjfMsdvuVBGBtOi8"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 176652,
       "name": "Why Is She Calling?",
       "url": "https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv"
-    },
-    {
-      "added_at": "2023-06-23 04:29:46",
-      "album": {
-        "name": "TECHNICOLOR: The Full Spectrum",
-        "url": "https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX"
     },
     {
       "added_at": "2023-06-23 04:29:46",

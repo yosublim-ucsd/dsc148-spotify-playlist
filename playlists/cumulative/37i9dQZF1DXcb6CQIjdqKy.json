@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh?si=65df3e65fb4349e1\">Natalie Grant</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE?si=qjqD-NRYT4eaxEweZjO3QA\">Jason Gray</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2512,6 +2512,24 @@
       "duration_ms": 632469,
       "name": "Glory",
       "url": "https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "album": {
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 169921,
       "name": "Love Me Like I Am (R3HAB Remix)",
       "url": "https://open.spotify.com/track/0tsQVVq4TVZzcHWU6T634g"
@@ -7075,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "Place For Me",
+        "url": "https://open.spotify.com/album/7LaeZvJR9oC9zqhfJ1vd23"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171834,
+      "name": "Place For Me",
+      "url": "https://open.spotify.com/track/14ZwtJEQKZfIxV7fNXfWcI"
+    },
+    {
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
       },
@@ -8002,7 +8038,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
@@ -9492,7 +9528,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 322262,
       "name": "The Narrow Way",
       "url": "https://open.spotify.com/track/3ERoa5DS0byy2NxrO26GYv"
@@ -9698,6 +9734,24 @@
       "duration_ms": 222428,
       "name": "This I Know (Jesus Loves Me)",
       "url": "https://open.spotify.com/track/71gmThHplhegRGnswUTD2O"
+    },
+    {
+      "album": {
+        "name": "This I Know (Jesus Loves Me) [Radio Version]",
+        "url": "https://open.spotify.com/album/48In9IfMFdGsp26MUjT1ZE"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220718,
+      "name": "This I Know (Jesus Loves Me) - Radio Version",
+      "url": "https://open.spotify.com/track/1db90ivgGa6T7yqCoHhAZe"
     },
     {
       "album": {
@@ -10186,6 +10240,24 @@
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
+    },
+    {
+      "album": {
+        "name": "What Are We Waiting For? (The Single)",
+        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194580,
+      "name": "What Are We Waiting For? (The Single)",
+      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
     },
     {
       "album": {
@@ -10980,7 +11052,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"

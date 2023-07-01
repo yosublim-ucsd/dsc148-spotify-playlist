@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Bron Bron",
+        "url": "https://open.spotify.com/album/0RarRuW8t6Q3oRPZYFapDt"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157439,
+      "name": "Bron Bron",
+      "url": "https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu"
+    },
+    {
+      "album": {
         "name": "Bubbalicious",
         "url": "https://open.spotify.com/album/5ZVI3iLLLBUscQRvesFWoj"
       },
@@ -867,6 +885,28 @@
     },
     {
       "album": {
+        "name": "Down (Illusionize, Viot Rework)",
+        "url": "https://open.spotify.com/album/4es3qre14ZUWofRzMdbpvI"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290629,
+      "name": "Down - Illusionize, Viot Rework",
+      "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
+    },
+    {
+      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -900,7 +940,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 262177,
       "name": "Expression - Original Mix",
       "url": "https://open.spotify.com/track/58xbGEktCH3q4LGYDqycZR"
@@ -948,7 +988,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 140280,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x"
@@ -1018,7 +1058,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 182950,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI"
@@ -1048,6 +1088,28 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "album": {
+        "name": "Focus (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Focus (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT"
     },
     {
       "album": {
@@ -1436,7 +1498,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 159360,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0iZDUCkSEzzBllavstdPsd"
@@ -1594,7 +1656,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 155714,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"

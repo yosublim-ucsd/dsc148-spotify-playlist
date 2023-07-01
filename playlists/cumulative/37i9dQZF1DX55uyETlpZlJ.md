@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-120 songs - 6 hr 43 min
+122 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Idhe Idhe Bengaluru](https://open.spotify.com/track/6igjJBcoQ98ZSfVs3fK0zb) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Prithviraj Naik](https://open.spotify.com/artist/31vmekSUvxse1Dr6BlKj1Z) | [Nachinavadu](https://open.spotify.com/album/1gDxZdntEMN96fR8kTga2p) | 2:22 | 2023-05-02 |  |
 | [Idu Nammadu Gaali Neeru Usiru](https://open.spotify.com/track/3ggvwpKSmgktFC9uc3Rzs3) | [Sunitha Chandrakumar](https://open.spotify.com/artist/0Nl5DcjUiuMURUhE8S5Rox), [Rajnikanth C](https://open.spotify.com/artist/4rCX1ZhjKo8XtUbRAYxwcu), [Students of Raghuleela School of Music](https://open.spotify.com/artist/6gyUsrc1TQndjVOpHjTGY7), [Rashmi Rao](https://open.spotify.com/artist/1i3f3nB8Hhnyr8UsseEeXZ) | [Idu Nammadu Gaali Neeru Usiru](https://open.spotify.com/album/75ZlN6z9Hs5NQBAHLyOXHT) | 2:26 | 2023-06-19 |  |
 | [Innastu Bekenna](https://open.spotify.com/track/7j4GNqlnygN7gXTun7CRdo) | [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21) | [Innastu Bekenna](https://open.spotify.com/album/4gHIhq2qAc7gHTeZqK6ihU) | 4:01 | 2023-06-29 |  |
+| [Innu Yaaka Baralilla](https://open.spotify.com/track/4XxsJ4oRg0cUxPq81b6akQ) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Innu Yaaka Baralilla](https://open.spotify.com/album/6KlTzhCkk50M4ow5sCMWaA) | 3:33 | 2023-06-30 |  |
 | [Insane](https://open.spotify.com/track/2lpDO8UTGW6CPEZE4y7vir) | [Sachin Suri](https://open.spotify.com/artist/6YY1ho1om7CaoKvvYc9Sw5) | [Insane](https://open.spotify.com/album/53V4IN0tZJE74Cxt3CIsOv) | 2:39 | 2023-04-12 | 2023-06-09 |
 | [Jagatthu](https://open.spotify.com/track/5ubqj7xBDKK8J9uAr9bs30) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/54X5dZUsZQTj6bJxFs4lg1), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Jagatthu](https://open.spotify.com/album/31GY7jUvoTbSneAchHuuMR) | 3:25 | 2023-01-12 |  |
 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 | 2022-06-13 | 2023-06-10 |
@@ -74,6 +75,7 @@
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 |  |
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
+| [Naguve](https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Naguve](https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ) | 4:04 | 2023-06-30 |  |
 | [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 | 2023-06-15 |
 | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR) | 4:11 | 2023-03-06 |  |
 | [Nanna Hrudaya](https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU), [Harshavardan HJ](https://open.spotify.com/artist/5TXJcIQdOZI3wyfcTxmXlX) | [Nanna Hrudaya \- Single](https://open.spotify.com/album/2aoIHWyOsoWZLgpOEREUM3) | 3:37 | 2023-06-29 |  |

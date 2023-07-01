@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20752,
+  "num_followers": 20758,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
+  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Como Rei Ayanami",
-        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
-      },
-      "artists": [
-        {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
-        }
-      ],
-      "duration_ms": 177354,
-      "name": "Como Rei Ayanami",
-      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 215287,
       "name": "Qu\u00e9date Cerca",
       "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Corte Superior",
-        "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Trujillo",
-          "url": "https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Corte Superior",
-      "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Puede Ser Mortal",
         "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Se Parece A",
-        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+        "name": "Corte Superior",
+        "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Pablo Trujillo",
+          "url": "https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb"
         }
       ],
-      "duration_ms": 228574,
-      "name": "Alguien Detra\u0301s de Mi",
-      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
+      "duration_ms": 236000,
+      "name": "Corte Superior",
+      "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 305940,
       "name": "Semana Sata\u0301n",
       "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Se Parece A",
+        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 228574,
+      "name": "Alguien Detra\u0301s de Mi",
+      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",

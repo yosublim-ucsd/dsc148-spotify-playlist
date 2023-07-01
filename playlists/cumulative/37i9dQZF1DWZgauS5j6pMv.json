@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 153000,
       "name": "Glory",
       "url": "https://open.spotify.com/track/61ZLT78FfbZr3nTqqFUq93"
@@ -4699,6 +4699,36 @@
     },
     {
       "album": {
+        "name": "Pipe Dream",
+        "url": "https://open.spotify.com/album/2wbdNXoe1bTA66vkblLPiS"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Pipe Dream",
+      "url": "https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM"
+    },
+    {
+      "album": {
         "name": "Pocket",
         "url": "https://open.spotify.com/album/4wwpEMqsM5iiNcvAi3kVZi"
       },
@@ -6104,6 +6134,32 @@
       "duration_ms": 157963,
       "name": "twofaces",
       "url": "https://open.spotify.com/track/75BzES3PZtvAw3R09DpcCg"
+    },
+    {
+      "album": {
+        "name": "U R Freak",
+        "url": "https://open.spotify.com/album/4FUwC2onCU2MWwtSRPqSXW"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186034,
+      "name": "U R Freak - Jafunk Remix",
+      "url": "https://open.spotify.com/track/2acq8EiIi5PH3ukPiYIdDB"
     },
     {
       "album": {

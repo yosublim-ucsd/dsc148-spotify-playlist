@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: OPEN TILL L8
 
-930 songs - 2 day 3 hr 23 min
+932 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Protocol](https://open.spotify.com/track/02owX0PUSKGXw4tMPaUw56) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8) | [Protocol](https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m) | 4:15 | 2023-03-31 | 2023-04-21 |
 | [Proxy](https://open.spotify.com/track/50Ey3cTjasOfwAvWuIhIZZ) | [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [Tim Light](https://open.spotify.com/artist/3B7gh63KbpVYSWUHRH3f1W) | [Proxy](https://open.spotify.com/album/5rjqvg4Xbn1Z0ILcv3GEDn) | 2:59 | 2023-04-27 | 2023-05-19 |
 | [Pub Marge](https://open.spotify.com/track/140EwvWqRdWL3CO3Kt7W4l) | [Cut Snake](https://open.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236) | [Pub Marge EP](https://open.spotify.com/album/5wyl0e0xiszpoYxxI2faQG) | 4:50 | 2023-05-18 | 2023-06-16 |
+| [Punkrocker](https://open.spotify.com/track/5IcDrdNSx9SPvM5cdjQKSg) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP), [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Punkrocker](https://open.spotify.com/album/3uOz88mNxvGFA6CBrwWIQh) | 2:24 | 2023-06-30 |  |
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2023-02-23 | 2023-03-18 |
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-01-23 | 2023-02-10 |
 | [Que Dolor](https://open.spotify.com/track/3MaJDRWkvX2SxNF1v8DoUR) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH2](https://open.spotify.com/album/5a4impdkoCNcyhc42qervc) | 2:24 | 2023-04-13 | 2023-05-05 |
@@ -777,7 +778,8 @@
 | [Sympathy](https://open.spotify.com/track/62dxlbvRDq6HuvRCFGAjS5) | [Jord \(AUS\)](https://open.spotify.com/artist/69CgY6OjQsfqWzhAgX0D4y) | [Sympathy](https://open.spotify.com/album/3fQoZbynqX807tjNn4nVvJ) | 4:00 | 2023-05-11 | 2023-05-26 |
 | [Symptoms Of You \- Original Mix](https://open.spotify.com/track/1xSdx7LwjbkfbDppRUI5df) | [Orkestrated](https://open.spotify.com/artist/52VqIv9iDcmGRrg9tzsEF0) | [Symptoms Of You](https://open.spotify.com/album/3Hcoxcf9I2nUbOatRLxCeO) | 3:37 | 2023-06-29 |  |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-13 | 2023-05-12 |
-| [SYNTHESIZER](https://open.spotify.com/track/12cTzdrO15PKk1Zez7M06W) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Open Till L8](https://open.spotify.com/album/2JVcsMJJSKFlrrYTpySvTx) | 2:30 | 2023-06-29 |  |
+| [SYNTHESIZER](https://open.spotify.com/track/12cTzdrO15PKk1Zez7M06W) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Open Till L8](https://open.spotify.com/album/2JVcsMJJSKFlrrYTpySvTx) | 2:30 | 2023-06-29 | 2023-07-01 |
+| [SYNTHESIZER](https://open.spotify.com/track/6kFrBLbiujuNoQJqLko8Op) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Open Till L8](https://open.spotify.com/album/6NrQoc5O4aFPMT2S4EewlQ) | 2:30 | 2023-06-30 |  |
 | [Take It Back](https://open.spotify.com/track/5BRftg5GOpzN7Fse7VfMTs) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Take It Back](https://open.spotify.com/album/4MjxcAxrsFXIhwGGw4QsJ3) | 2:43 | 2023-05-04 | 2023-05-26 |
 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-08 |  |
 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 | 2022-12-08 | 2023-01-20 |

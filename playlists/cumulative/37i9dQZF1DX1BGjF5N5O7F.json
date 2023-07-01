@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 182853,
       "name": "Torture",
       "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
@@ -1648,6 +1648,24 @@
       "duration_ms": 226320,
       "name": "Uncuff Me",
       "url": "https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ"
+    },
+    {
+      "album": {
+        "name": "Unknown / Nth",
+        "url": "https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
     },
     {
       "album": {

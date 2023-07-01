@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=rfsvUIWiSsCr07QamtLuQA\">Nkosazana Daughter</a> ",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym?si=RO4byieERv-eSnVJiN-KuA\">Busta 929</a> ",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 361061,
       "name": "Abadala",
       "url": "https://open.spotify.com/track/5mo4SKeOSaKWUSWs9kl8Kq"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 344665,
       "name": "AK47",
       "url": "https://open.spotify.com/track/2aMgpuAt78KDQP9VYTuRyF"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 402857,
       "name": "Amachukuku (feat. TXPMD, Tweestgottahalla & Wonder Flawz)",
       "url": "https://open.spotify.com/track/4MqkT3t0tmSHXdsRCBNPuS"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 271875,
       "name": "Amandla",
       "url": "https://open.spotify.com/track/4SHBNhM1S8QZgsx8pCdthw"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 376242,
       "name": "Amaphutha (feat. Master KG, Lowsheen & Murumba Pitch)",
       "url": "https://open.spotify.com/track/0RTIcLHr6k9PWX7lizdyxM"
@@ -3209,6 +3209,28 @@
     },
     {
       "album": {
+        "name": "Bayangzonda",
+        "url": "https://open.spotify.com/album/5dSWt7tKQ8pjeuv56unqNR"
+      },
+      "artists": [
+        {
+          "name": "Mac lopez",
+          "url": "https://open.spotify.com/artist/5pgbTIhgrcYCoj6OxvHXju"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407865,
+      "name": "Bayangzonda",
+      "url": "https://open.spotify.com/track/1obt5KT1RPNFqmt71bSoLG"
+    },
+    {
+      "album": {
         "name": "Bayede (Boarding School Piano Edition)",
         "url": "https://open.spotify.com/album/3RipvteBX5b8s6mAXJAmVs"
       },
@@ -4722,7 +4744,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 416310,
       "name": "Cowboy VIII (Rekere)",
       "url": "https://open.spotify.com/track/0Yc5Tw4PLwlhkry24rhMM2"
@@ -7044,6 +7066,36 @@
       "duration_ms": 272000,
       "name": "Find Me Now",
       "url": "https://open.spotify.com/track/6L10afputsSSBq42wmq3VM"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4Ainz1RlNrLd1Scu3DlXkt"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/251z6QpVo6UxJ8SBg8wSri"
     },
     {
       "album": {
@@ -11036,7 +11088,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 397223,
       "name": "Jig Saw",
       "url": "https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn"
@@ -12469,6 +12521,32 @@
     },
     {
       "album": {
+        "name": "Kuzeka (feat. Konke)",
+        "url": "https://open.spotify.com/album/4drIcNxCaXDlUAfPhDjQ3C"
+      },
+      "artists": [
+        {
+          "name": "Lebza TheVillain",
+          "url": "https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3"
+        },
+        {
+          "name": "Moflava",
+          "url": "https://open.spotify.com/artist/1pUCRMd2RZmAXCgz9IrU4x"
+        },
+        {
+          "name": "Konke",
+          "url": "https://open.spotify.com/artist/6y5EP3L2WblCQsc8iuGeP9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380193,
+      "name": "Kuzeka (feat. Konke)",
+      "url": "https://open.spotify.com/track/6zlGGTnN9OHGFxziFAMaIs"
+    },
+    {
+      "album": {
         "name": "Kwalula",
         "url": "https://open.spotify.com/album/4hzFndyQNNHjVFahIgx7wj"
       },
@@ -13382,7 +13460,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 209464,
       "name": "Majo",
       "url": "https://open.spotify.com/track/3b3bC9PL21scD8cyqEgHuK"
@@ -13611,6 +13689,32 @@
     },
     {
       "album": {
+        "name": "Malume (Nta Swi Byela Mani Revisit)",
+        "url": "https://open.spotify.com/album/6lmPvjVFVe9K1Q3NMTNHkz"
+      },
+      "artists": [
+        {
+          "name": "Elvirgo",
+          "url": "https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
+        {
+          "name": "TallexQ",
+          "url": "https://open.spotify.com/artist/7dlrsjt50VftIVkYahlIio"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273640,
+      "name": "Malume (Nta Swi Byela Mani Revisit)",
+      "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
+    },
+    {
+      "album": {
         "name": "Malunde",
         "url": "https://open.spotify.com/album/2TK1air4eHlL7cIhPmgiAA"
       },
@@ -13674,7 +13778,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 450304,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6"
@@ -14396,6 +14500,32 @@
     {
       "album": {
         "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2LFlIIDIeIiaI8ofb0TSgV"
+      },
+      "artists": [
+        {
+          "name": "DJ THE MXO",
+          "url": "https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw"
+        },
+        {
+          "name": "Tj Mengus",
+          "url": "https://open.spotify.com/artist/3H9bXuntn41sNyZkXaot4N"
+        },
+        {
+          "name": "DE ROSE",
+          "url": "https://open.spotify.com/artist/7zewXpoMplw1vBAaBDWRtJ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312862,
+      "name": "Mina Nawe",
+      "url": "https://open.spotify.com/track/2bDGFhi17nU21YEZOsOwBz"
+    },
+    {
+      "album": {
+        "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/6vzPgfVVWTRHPCDfBWekGY"
       },
       "artists": [
@@ -14682,6 +14812,36 @@
       "duration_ms": 437000,
       "name": "Monate Ke Monate",
       "url": "https://open.spotify.com/track/2zpcKVM91HRvbz4k4fysVR"
+    },
+    {
+      "album": {
+        "name": "Sgubhu Se Monate, Vol. 2",
+        "url": "https://open.spotify.com/album/5215kGbiBk8Xl8DaMSdufL"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        },
+        {
+          "name": "20ty Soundz",
+          "url": "https://open.spotify.com/artist/5803cw4KZi2vLtcKxRJV8F"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382039,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/13O2tE5Z6l24mcAR5OdsGk"
     },
     {
       "album": {
@@ -15618,6 +15778,36 @@
       "duration_ms": 542278,
       "name": "Ndaba Zay Izolo",
       "url": "https://open.spotify.com/track/56MI7htxUcLHAoEcOHFOLA"
+    },
+    {
+      "album": {
+        "name": "Ndandatho (feat. Leenathi & Happy JazzMan)",
+        "url": "https://open.spotify.com/album/3IKcB1jHenutYpTUV8wlXW"
+      },
+      "artists": [
+        {
+          "name": "Seemah",
+          "url": "https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF"
+        },
+        {
+          "name": "De Soul",
+          "url": "https://open.spotify.com/artist/7MC6QpkwcMnPCBfyaF1vBW"
+        },
+        {
+          "name": "Leenathi",
+          "url": "https://open.spotify.com/artist/5H6UiK4neehUOYdhpDkad9"
+        },
+        {
+          "name": "Happy Jazzman",
+          "url": "https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348357,
+      "name": "Ndandatho (feat. Leenathi & Happy JazzMan)",
+      "url": "https://open.spotify.com/track/3srj8lwhlABg62I6wqrdPG"
     },
     {
       "album": {
@@ -18972,6 +19162,44 @@
       "duration_ms": 414581,
       "name": "Sendivile (feat. LeeMcKrazy, Stash Da Groovyest, Kera SA & Mzweshper_sa)",
       "url": "https://open.spotify.com/track/6bkzvnUkrmaRGdcLSODmnL"
+    },
+    {
+      "album": {
+        "name": "Seng'shilo",
+        "url": "https://open.spotify.com/album/1WUf8AzqPCb6kv4B38oQZ4"
+      },
+      "artists": [
+        {
+          "name": "Vyno Keys",
+          "url": "https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/4USfWz5p5xNATSfHURgBYC"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Muziqal Tone",
+          "url": "https://open.spotify.com/artist/0dswN69mvtfnBkONPK7ZkK"
+        },
+        {
+          "name": "Stady K",
+          "url": "https://open.spotify.com/artist/6mNM33QXrWDSPE1VDlN6ze"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345379,
+      "name": "Seng'shilo",
+      "url": "https://open.spotify.com/track/2i75Fvk3QL4NolosdHcEba"
     },
     {
       "album": {
@@ -24686,6 +24914,36 @@
       "duration_ms": 465475,
       "name": "Uthando Lujulile",
       "url": "https://open.spotify.com/track/4cK1uJ0brh0ep8wQvO5YWt"
+    },
+    {
+      "album": {
+        "name": "uWeeeh 2.0",
+        "url": "https://open.spotify.com/album/5pS9bZviMcmM5oOu2VK1i8"
+      },
+      "artists": [
+        {
+          "name": "PRVIS3",
+          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
+        },
+        {
+          "name": "Xola TSM",
+          "url": "https://open.spotify.com/artist/5qOPrfr0e9rJgYpQRUz04v"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431464,
+      "name": "uWeeeh 2.0",
+      "url": "https://open.spotify.com/track/5edhx25VjIxX98TpNx4kRW"
     },
     {
       "album": {

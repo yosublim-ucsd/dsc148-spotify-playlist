@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Innu Yaaka Baralilla",
+        "url": "https://open.spotify.com/album/6KlTzhCkk50M4ow5sCMWaA"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Rajeev",
+          "url": "https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Innu Yaaka Baralilla",
+      "url": "https://open.spotify.com/track/4XxsJ4oRg0cUxPq81b6akQ"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/53V4IN0tZJE74Cxt3CIsOv"
       },
@@ -1442,6 +1460,24 @@
       "duration_ms": 200210,
       "name": "Naanu Ninna Kandaaga",
       "url": "https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7"
+    },
+    {
+      "album": {
+        "name": "Naguve",
+        "url": "https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ"
+      },
+      "artists": [
+        {
+          "name": "Chetan Pavate",
+          "url": "https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244528,
+      "name": "Naguve",
+      "url": "https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD"
     },
     {
       "album": {

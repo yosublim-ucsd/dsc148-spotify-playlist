@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of Au & NZ at full volume! Cover: Vv Pete",
+  "description": "Listen to the women of Au & NZ at full volume! Cover: Blusher",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 164369,
       "name": "1975",
       "url": "https://open.spotify.com/track/12HJOH8NQ1l7U6eRJ8LKj5"
+    },
+    {
+      "album": {
+        "name": "7 Minutes In Heaven",
+        "url": "https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216572,
+      "name": "7 Minutes In Heaven",
+      "url": "https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj"
     },
     {
       "album": {
@@ -146,7 +164,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 179104,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2"
@@ -301,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Analogue/ I Heard",
+        "url": "https://open.spotify.com/album/1EwoZdizHLkjrRoxiu9B2x"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226164,
+      "name": "Analogue",
+      "url": "https://open.spotify.com/track/6G03vyXV3PPZCHE2hNmcTi"
+    },
+    {
+      "album": {
         "name": "Anybody",
         "url": "https://open.spotify.com/album/5LbpQsW13ZCWFczcG2t7nX"
       },
@@ -406,6 +442,24 @@
       "duration_ms": 214069,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt"
+    },
+    {
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW"
     },
     {
       "album": {
@@ -802,10 +856,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 256836,
       "name": "By The Sea",
       "url": "https://open.spotify.com/track/0MT743d5eAbybSc1Sl0stR"
+    },
+    {
+      "album": {
+        "name": "Can I Shower At Yours",
+        "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114004,
+      "name": "Can I Shower At Yours",
+      "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
     },
     {
       "album": {
@@ -950,6 +1022,28 @@
       "duration_ms": 208535,
       "name": "Central Station",
       "url": "https://open.spotify.com/track/4kFjX9QnXdM37PSpRuOoDS"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK"
+      },
+      "artists": [
+        {
+          "name": "Amila",
+          "url": "https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh"
+        },
+        {
+          "name": "Rhys Rich",
+          "url": "https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187994,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n"
     },
     {
       "album": {
@@ -1415,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/0nRdaI0gknu4q5hkSFREa5"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/0Q5SGz9fuoiLSF4oDKHZRh"
+    },
+    {
+      "album": {
         "name": "DANGEROUS",
         "url": "https://open.spotify.com/album/4qZllZG4IyMW08PJihIyrt"
       },
@@ -1462,7 +1574,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 178458,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
@@ -1520,6 +1632,32 @@
       "duration_ms": 189188,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/0oCe1F2Wgsx6dr2uAyW0uW"
+    },
+    {
+      "album": {
+        "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
+        "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176730,
+      "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
+      "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
       "album": {
@@ -2266,7 +2404,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204914,
       "name": "Fuchsia",
       "url": "https://open.spotify.com/track/7ajZkDJdNaSW1sUfKw5eqs"
@@ -2518,7 +2656,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 166981,
       "name": "Green Honda",
       "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
@@ -2598,6 +2736,24 @@
       "duration_ms": 201642,
       "name": "Happy Person",
       "url": "https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA"
+    },
+    {
+      "album": {
+        "name": "Hard 4 You",
+        "url": "https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5"
+      },
+      "artists": [
+        {
+          "name": "Chela",
+          "url": "https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179691,
+      "name": "Hard 4 You",
+      "url": "https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG"
     },
     {
       "album": {
@@ -2706,6 +2862,24 @@
       "duration_ms": 235099,
       "name": "Headroom",
       "url": "https://open.spotify.com/track/60H0HIt7mIPD3dZnlOCc97"
+    },
+    {
+      "album": {
+        "name": "Healed",
+        "url": "https://open.spotify.com/album/3qRbOKBRvy4YhOW4aemjTk"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199415,
+      "name": "Healed",
+      "url": "https://open.spotify.com/track/25aXkVesKv9EZKHfZQ29PZ"
     },
     {
       "album": {
@@ -3563,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "It's Cool to Be in Love",
+        "url": "https://open.spotify.com/album/0wsStkZbTmr1yWSZe9HBU8"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213062,
+      "name": "It's Cool to Be in Love",
+      "url": "https://open.spotify.com/track/69kSUKvY0IHyRNcLNY0DNe"
+    },
+    {
+      "album": {
         "name": "it's not how it used to be",
         "url": "https://open.spotify.com/album/2aU13brsy2XVN8YKlrgrLn"
       },
@@ -3903,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "King of Disappointment",
+        "url": "https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251265,
+      "name": "King of Disappointment",
+      "url": "https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse"
+    },
+    {
+      "album": {
         "name": "Happy, Sad",
         "url": "https://open.spotify.com/album/3hwWU4b9A75bvwG67Sv8lY"
       },
@@ -4099,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "LOLA",
+        "url": "https://open.spotify.com/album/6p8cW6vKfjkC9U1drMRipN"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170554,
+      "name": "LOLA",
+      "url": "https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds"
+    },
+    {
+      "album": {
         "name": "Look Me In The Eyes",
         "url": "https://open.spotify.com/album/7jdepYJ7EiTGVtrwtqz1mb"
       },
@@ -4218,7 +4446,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 164756,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/1iHZqqJyKH1O8pFrU7yFFY"
@@ -4669,6 +4897,24 @@
     },
     {
       "album": {
+        "name": "Never Saw It Coming",
+        "url": "https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188745,
+      "name": "Never Saw It Coming",
+      "url": "https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96"
+    },
+    {
+      "album": {
         "name": "new ground",
         "url": "https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV"
       },
@@ -4774,6 +5020,24 @@
       "duration_ms": 209986,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1"
+    },
+    {
+      "album": {
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183924,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT"
     },
     {
       "album": {
@@ -5148,7 +5412,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 190651,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
@@ -5332,7 +5596,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 207110,
       "name": "Queen",
       "url": "https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS"
@@ -5668,7 +5932,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 167154,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/6CBnRbjwQaivJFtOP8giTg"
@@ -6064,7 +6328,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
@@ -6813,6 +7077,24 @@
     },
     {
       "album": {
+        "name": "TIMEBOMBS",
+        "url": "https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP"
+      },
+      "artists": [
+        {
+          "name": "Charley",
+          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171473,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E"
+    },
+    {
+      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN"
       },
@@ -6842,7 +7124,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
@@ -6918,6 +7200,24 @@
       "duration_ms": 168741,
       "name": "T\u014d Aroha",
       "url": "https://open.spotify.com/track/6cppVm5dbOngC7VSHJJy28"
+    },
+    {
+      "album": {
+        "name": "BETTER LEFT UNSAID",
+        "url": "https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL"
+      },
+      "artists": [
+        {
+          "name": "Billymaree",
+          "url": "https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177368,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR"
     },
     {
       "album": {
@@ -7282,7 +7582,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 174581,
       "name": "When Summer Rolls Around",
       "url": "https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN"
@@ -7372,7 +7672,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 138778,
       "name": "World of You",
       "url": "https://open.spotify.com/track/3bQzbPfA6SB4hxtkSEvLBm"
@@ -7390,7 +7690,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 176604,
       "name": "Worst Taste In Girls",
       "url": "https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq"

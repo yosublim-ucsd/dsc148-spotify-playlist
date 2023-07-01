@@ -967,6 +967,28 @@
     },
     {
       "album": {
+        "name": "Heart Family",
+        "url": "https://open.spotify.com/album/79pXLUhGHVsf9fswJt40dB"
+      },
+      "artists": [
+        {
+          "name": "Slumberkins",
+          "url": "https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi"
+        },
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226545,
+      "name": "Heart Family",
+      "url": "https://open.spotify.com/track/0idER1QATNUULVtm4CrAR2"
+    },
+    {
+      "album": {
         "name": "Hello World (from \"Back to the Outback\" soundtrack)",
         "url": "https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91"
       },

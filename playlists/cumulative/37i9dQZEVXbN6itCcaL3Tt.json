@@ -9666,7 +9666,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -21972,7 +21972,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 144489,
       "name": "Sniffing Gas",
       "url": "https://open.spotify.com/track/2am1FCiMS6X3XzmMuFGcRx"
@@ -22487,7 +22487,7 @@
     },
     {
       "album": {
-        "name": "Substitution",
+        "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
@@ -22498,13 +22498,17 @@
         {
           "name": "Kungs",
           "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181477,
-      "name": "Substitution",
+      "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
@@ -24074,6 +24078,48 @@
       "duration_ms": 141773,
       "name": "Trapczan",
       "url": "https://open.spotify.com/track/62pq3YoAVXxbHCrrG9kse4"
+    },
+    {
+      "album": {
+        "name": "TRAPI$ZON",
+        "url": "https://open.spotify.com/album/0wJYXKmC2zDF5ftfT5l1mb"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Wygu\u015b",
+          "url": "https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ"
+        },
+        {
+          "name": "Szaran",
+          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
+        },
+        {
+          "name": "Nypel",
+          "url": "https://open.spotify.com/artist/4RkS90Z6Q6eZLmEIYbBtWX"
+        },
+        {
+          "name": "Szczepan",
+          "url": "https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7"
+        },
+        {
+          "name": "WoLa",
+          "url": "https://open.spotify.com/artist/1yHuIobOmFg6Fjo9OosOip"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141098,
+      "name": "TRAPI$ZON",
+      "url": "https://open.spotify.com/track/3fpWdF7Gpuu27D9QqCYWQ6"
     },
     {
       "album": {
@@ -26120,6 +26166,36 @@
       "duration_ms": 133090,
       "name": "WWA Melan\u017c",
       "url": "https://open.spotify.com/track/72AaW2CC5fAaqftCMCHMEp"
+    },
+    {
+      "album": {
+        "name": "WWA NA KXKSIE",
+        "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        },
+        {
+          "name": "Gottastral",
+          "url": "https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9"
+        },
+        {
+          "name": "Tosiek",
+          "url": "https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205925,
+      "name": "WWA NA KXKSIE",
+      "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
     },
     {
       "album": {

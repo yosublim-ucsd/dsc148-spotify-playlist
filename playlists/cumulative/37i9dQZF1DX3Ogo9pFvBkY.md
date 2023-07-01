@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-749 songs - 1 day 15 hr 20 min
+751 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-21 |  |
 | [Epsilon](https://open.spotify.com/track/5ts2iiEVxJJOz0WOCBR9GK) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Epsilon](https://open.spotify.com/album/2W03my6wDJdhrIoqiZXXnD) | 3:31 | 2021-07-23 | 2022-04-08 |
 | [Equinox](https://open.spotify.com/track/0ZzaDwLtsBeHilR13PMFcZ) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:29 | 2020-07-11 | 2021-09-14 |
+| [Essence](https://open.spotify.com/track/6dklA8QKFaS9iYIshadCPR) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Essence](https://open.spotify.com/album/4qm5Gh0BzhDGJ3dt4dTIvW) | 2:57 | 2023-06-30 |  |
 | [Essentials](https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk) | [River Hall](https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag) | [Essentials](https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48) | 3:00 | 2021-11-26 |  |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2021-06-16 |  |
 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2019-12-07 | 2022-12-21 |
@@ -508,6 +509,7 @@
 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2019-07-11 | 2022-09-15 |
 | [Pines](https://open.spotify.com/track/64y6Sje1cgvOg83Z9JGiCc) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:45 | 2019-05-26\* | 2020-07-11 |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2020-01-03 | 2023-05-03 |
+| [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 | 2023-06-30 |  |
 | [Poetica](https://open.spotify.com/track/5cNTgIYnVw6EqnUtP9LRh3) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Poetica](https://open.spotify.com/album/6tY2cnaWuNe8NGNqVC5rpU) | 2:51 | 2023-05-05 |  |
 | [Polar Drone](https://open.spotify.com/track/6SxcRJNPDlwiciVkzxu0oC) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Drones](https://open.spotify.com/album/0aB0sdg1xr6Yr8K2AVhaYy) | 3:35 | 2019-05-26\* | 2022-08-24 |
 | [Polaris](https://open.spotify.com/track/15Q4tq0gvEelMr40CeBClA) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Polaris](https://open.spotify.com/album/1O4hCDZOcxLITrYIocKgdt) | 3:28 | 2020-10-27 |  |

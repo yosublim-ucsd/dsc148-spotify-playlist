@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 ### [Ganda Cena](https://open.spotify.com/playlist/37i9dQZF1DX59I2hjkhLtN)
 
-> Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
+> Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,416 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,426 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jack Daniel’s](https://open.spotify.com/track/5enUgwLHANOSzhbsLKpFq7) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Jack Daniel’s](https://open.spotify.com/album/3vFlmRAKD5ngTX24gNyxDn) | 2:23 |
-| 2 | [MARIPOSA](https://open.spotify.com/track/7iXvDTsQSHA88hLA0j29QX) | [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Icaro](https://open.spotify.com/artist/7qQEuTCea0daGR9iutPPNS), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [MARIPOSA](https://open.spotify.com/album/1Ue8MJN201kQAwuPCLY26g) | 2:51 |
-| 3 | [VROOM](https://open.spotify.com/track/1ZOyOWkGCBAN2U9ZmAppxb) | [Pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [VROOM](https://open.spotify.com/album/6H18k544VuI9Fkev41Vypn) | 2:17 |
-| 4 | [Vida Vivida](https://open.spotify.com/track/1vynj2WxtQpsYr2JdVlGKC) | [Maze](https://open.spotify.com/artist/0aXlYUf8r4oBNV8RG6eJQ6) | [Vida Vivida](https://open.spotify.com/album/2JnjIL8xN0uFML6oY9cqL2) | 3:13 |
-| 5 | [Cartel](https://open.spotify.com/track/5R7wL9yxS2ScG28eIP2ZXw) | [Nico La Famy](https://open.spotify.com/artist/6OiYd1OPsZnLedI7cdmX6O), [Jair Mc](https://open.spotify.com/artist/5GkADCcSp6mQFWJ8mpRpkz), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Cartel](https://open.spotify.com/album/0IjCF7n7QwquA8rjZZMffB) | 3:54 |
-| 6 | [Toma](https://open.spotify.com/track/6vlgxZGsjQ5KkjGiVpkyjk) | [B3L2](https://open.spotify.com/artist/6KUYblbSpjuGjZvTXpUUEn) | [Toma](https://open.spotify.com/album/6EN7a3ganJcwxov2NHyypD) | 3:34 |
+| 1 | [Toma](https://open.spotify.com/track/6vlgxZGsjQ5KkjGiVpkyjk) | [B3L2](https://open.spotify.com/artist/6KUYblbSpjuGjZvTXpUUEn) | [Toma](https://open.spotify.com/album/6EN7a3ganJcwxov2NHyypD) | 3:34 |
+| 2 | [Jack Daniel’s](https://open.spotify.com/track/5enUgwLHANOSzhbsLKpFq7) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Jack Daniel’s](https://open.spotify.com/album/3vFlmRAKD5ngTX24gNyxDn) | 2:23 |
+| 3 | [MARIPOSA](https://open.spotify.com/track/7iXvDTsQSHA88hLA0j29QX) | [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Icaro](https://open.spotify.com/artist/7qQEuTCea0daGR9iutPPNS), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [MARIPOSA](https://open.spotify.com/album/1Ue8MJN201kQAwuPCLY26g) | 2:51 |
+| 4 | [VROOM](https://open.spotify.com/track/1ZOyOWkGCBAN2U9ZmAppxb) | [Pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [VROOM](https://open.spotify.com/album/6H18k544VuI9Fkev41Vypn) | 2:17 |
+| 5 | [Vida Vivida](https://open.spotify.com/track/1vynj2WxtQpsYr2JdVlGKC) | [Maze](https://open.spotify.com/artist/0aXlYUf8r4oBNV8RG6eJQ6) | [Vida Vivida](https://open.spotify.com/album/2JnjIL8xN0uFML6oY9cqL2) | 3:13 |
+| 6 | [Cartel](https://open.spotify.com/track/5R7wL9yxS2ScG28eIP2ZXw) | [Nico La Famy](https://open.spotify.com/artist/6OiYd1OPsZnLedI7cdmX6O), [Jair Mc](https://open.spotify.com/artist/5GkADCcSp6mQFWJ8mpRpkz), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Cartel](https://open.spotify.com/album/0IjCF7n7QwquA8rjZZMffB) | 3:54 |
 | 7 | [High](https://open.spotify.com/track/5PCHVwmeiKZ98CyeDkoVcT) | [Vaskiiito](https://open.spotify.com/artist/2vtb8iFvO1QXcAcLIeYyDS), [quintasz](https://open.spotify.com/artist/5rL8nsDdA5x4gJpZS40uvc) | [High](https://open.spotify.com/album/61q95mSJEuiAakeYvUGwks) | 3:26 |
 | 8 | [Drugs](https://open.spotify.com/track/7xoSCR3FEC1fSRiC3wVBMQ) | [eurafaaw](https://open.spotify.com/artist/5RzQ3CAa5RTJjr4SnktYpe) | [Drugs](https://open.spotify.com/album/2UkHXE23igIopPp23iuGcf) | 2:26 |
 | 9 | [Isso é complicado](https://open.spotify.com/track/77QCFDDm2UyibUY8lpKeOm) | [yury keiny raff](https://open.spotify.com/artist/6AGMSwFsRdLYYwhZJBiwRt) | [Isso é complicado](https://open.spotify.com/album/51AGOW8Mq7OVgizH5lrarJ) | 3:07 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Bagagem](https://open.spotify.com/track/1L0E92ZXvTuV4c22fe1eoi) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Ricardo Ribeiro](https://open.spotify.com/artist/3MBRBHfVbEyQB1FqByWR7B) | [Bagagem](https://open.spotify.com/album/4UzVhNv7CG3u4sxwF0bA7m) | 3:03 |
 | 99 | [Perder](https://open.spotify.com/track/0YIK0ULri5o6sdXo5N3duR) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Perder](https://open.spotify.com/album/3D4GrroGK00DL5svXt5jUq) | 3:42 |
 
-Snapshot ID: `MCxkNDNhMjgxZGIwZTEyMzA0ZmEyMWU4ZWEyYjM5YWUxOTZkZjc2ZWYz`
+Snapshot ID: `MCxhMjNiMzI5NDEyOTBiOWZhYWM4MzRhYjk1ZjJjOTdhZThmNjlmNjRi`

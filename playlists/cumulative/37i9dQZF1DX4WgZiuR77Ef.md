@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-204 songs - 14 hr 18 min
+205 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baby Get Down](https://open.spotify.com/track/6qJkfU8aHK5NGmpAL6Nfq3) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Baby Get Down](https://open.spotify.com/album/6S4OFrzckKTRRWg6T6vgUv) | 3:52 | 2021-07-23 |  |
 | [Bad Mother](https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe) | [The Gold Setting](https://open.spotify.com/artist/75Vs0ljvN9S4DAvNTfwSoH), [Liza Colby](https://open.spotify.com/artist/5bTibFXwZmP1FhKiHcX5iX), [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Bad Mother](https://open.spotify.com/album/4sdGVLaafBIyRwceP96FnR) | 2:54 | 2021-04-09 |  |
 | [Bay B\. MoMa](https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Bay B\. MoMa](https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc) | 4:02 | 2022-07-01 |  |
+| [Beautiful Dreams](https://open.spotify.com/track/3lClFv9E9nNuq5fcbCmjIT) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:06 | 2023-06-30 |  |
 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/4HGyzxbytL3DHMt7b2ZdDt) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Electric Cowboy: Born In Carolina Mud](https://open.spotify.com/album/7uMzDIJ4UbE8aCKZCTareh) | 4:09 | 2021-11-19 |  |
 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/578IWecGEFe6XkbAd6iDis) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Better Off Dead](https://open.spotify.com/album/6LrcNG6dzsOjFB1gctkn7Z) | 4:09 | 2021-11-19 | 2022-07-29 |
 | [Bewise](https://open.spotify.com/track/0F95zronVQU2C77EN15kny) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Bewise](https://open.spotify.com/album/1EeQWZK8nAfOHHXe95DlTc) | 3:43 | 2021-07-30 |  |
@@ -158,7 +159,7 @@
 | [Scream!](https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Scream!](https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq) | 4:34 | 2022-07-15 | 2023-06-13 |
 | [Scream!](https://open.spotify.com/track/35PUAa9vqiMdVhhzakNdaZ) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:34 | 2022-07-15 |  |
 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 | 2020-10-30 | 2022-04-09 |
-| [Shake It \- 45](https://open.spotify.com/track/5qenhYD4ynkEEHDDwqBiEG) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 2:56 | 2020-10-30 |  |
+| [Shake It \- 45](https://open.spotify.com/track/5qenhYD4ynkEEHDDwqBiEG) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 2:56 | 2020-10-30 | 2023-07-01 |
 | [Show Me](https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 4:13 | 2021-05-21 |  |
 | [Show Me](https://open.spotify.com/track/2k0omPPfQU1clxnAVaUdO6) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Show Me](https://open.spotify.com/album/5I2q3XVg8rKwCLkQ0Tr4dE) | 4:13 | 2021-05-21 | 2022-07-29 |
 | [Something To Do](https://open.spotify.com/track/6ZFuCHvdJbiuPrc5FTQ4Kz) | [IGBO](https://open.spotify.com/artist/7IPimpFl8df3dGRlhuKKpm) | [Something To Do](https://open.spotify.com/album/55upOKzoEcsGP1HTHD3uqF) | 4:48 | 2020-10-30 | 2022-04-09 |

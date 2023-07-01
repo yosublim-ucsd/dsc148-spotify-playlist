@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 234281,
+  "num_followers": 234331,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTU5ZWM5NjE4MjJmNmM4ZGI1NTA2NmMwMmQ3OTdkNmI0ZjFiYzA3",
+  "snapshot_id": "MCw1Yzk0ODFmOTNhNzdhYjI1NWI1YjczOWU3MDMwNTA2NTUyYTZkMTBk",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 337753,
       "name": "Balada para un Loco",
       "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
+        "name": "Organito De La Tarde",
+        "url": "https://open.spotify.com/album/73yoYxiqBoQD6XeLDq2ZIr"
       },
       "artists": [
         {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+          "name": "Carlos Di Sarli",
+          "url": "https://open.spotify.com/artist/0gAbrqBahiaTF69TmVb9fQ"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
+      "duration_ms": 170733,
+      "name": "Bah\u00eda Blanca",
+      "url": "https://open.spotify.com/track/3xJnQEKKxW7QSKoAnNLJcU"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Organito De La Tarde",
-        "url": "https://open.spotify.com/album/73yoYxiqBoQD6XeLDq2ZIr"
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
       },
       "artists": [
         {
-          "name": "Carlos Di Sarli",
-          "url": "https://open.spotify.com/artist/0gAbrqBahiaTF69TmVb9fQ"
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
         }
       ],
-      "duration_ms": 170733,
-      "name": "Bah\u00eda Blanca",
-      "url": "https://open.spotify.com/track/3xJnQEKKxW7QSKoAnNLJcU"
+      "duration_ms": 154293,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Una Guitarra Para Gardel",
-        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
-      },
-      "artists": [
-        {
-          "name": "An\u00edbal Arias",
-          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
-        }
-      ],
-      "duration_ms": 132426,
-      "name": "Silbando",
-      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "A Pedido",
         "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 211613,
       "name": "Flor de lino - Live",
       "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Una Guitarra Para Gardel",
+        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
+      },
+      "artists": [
+        {
+          "name": "An\u00edbal Arias",
+          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
+        }
+      ],
+      "duration_ms": 132426,
+      "name": "Silbando",
+      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Tango Collection",
-        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
-      },
-      "artists": [
-        {
-          "name": "Juan D'Arienzo",
-          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
-        }
-      ],
-      "duration_ms": 140503,
-      "name": "Valsecito Criollo",
-      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 154951,
       "name": "Ser\u00eda Facil Decir",
       "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Tango Collection",
+        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
+      },
+      "artists": [
+        {
+          "name": "Juan D'Arienzo",
+          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+        }
+      ],
+      "duration_ms": 140503,
+      "name": "Valsecito Criollo",
+      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Un Gui\u00f1o",
-        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Un Gui\u00f1o",
-      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Viejo Zen del Alma",
         "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 199598,
       "name": "A Don Agustin Bardi",
       "url": "https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Un Gui\u00f1o",
+        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Un Gui\u00f1o",
+      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -907,6 +907,22 @@
       "duration_ms": 276093,
       "name": "Las Ciudades",
       "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Celebridades",
+        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Adi\u00f3s Muchachos",
+      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -939,18 +955,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Celebridades",
-        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
       },
       "artists": [
         {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
         }
       ],
-      "duration_ms": 148093,
-      "name": "Adi\u00f3s Muchachos",
-      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -971,26 +991,6 @@
       "duration_ms": 241546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
-        }
-      ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
         "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 204714,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2023-06-09 03:00:00",

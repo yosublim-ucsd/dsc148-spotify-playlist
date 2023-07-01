@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 34250,
+  "num_followers": 34288,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmU4ZDVhNTRkNTdmNDE4ZDkxOWZiZmViZjJiZGRkNTNhMTQzNjc4",
+  "snapshot_id": "MCxiNTIzZTg5OWRlNTI4ZTJiZTg2MmQ4MTZiNjIzZjhkZGNjZDBhZDIz",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Jubel (Radio Edit)",
-        "url": "https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "21 Seconds",
         "url": "https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe"
       },
@@ -1483,6 +1467,26 @@
       "duration_ms": 215476,
       "name": "Young - Radio Edit",
       "url": "https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Jubel - Radio Edit",
+        "url": "https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ"
+      },
+      "artists": [
+        {
+          "name": "Shawkie",
+          "url": "https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy"
+        },
+        {
+          "name": "3ario",
+          "url": "https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil"
+        }
+      ],
+      "duration_ms": 148352,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en"
     }
   ],
   "unique_name": "Summer: The Greatest Hits",

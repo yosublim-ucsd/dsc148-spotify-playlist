@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 79445,
+  "num_followers": 79476,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQxNDU5Zjc3OGNkZmUwYjQ1MzNmNTUyM2RlZDM0ZjdiYzdhNWIy",
+  "snapshot_id": "MCw0OTYwNGNhZmRmOTIyN2Y4YjU3ZTAxOGNlZmJhMjVhZjU0ZTMzN2Zj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 151150,
       "name": "Rain",
       "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "I Like What I Like",
+        "url": "https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT"
+      },
+      "artists": [
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        }
+      ],
+      "duration_ms": 147685,
+      "name": "I Like What I Like",
+      "url": "https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "I Like What I Like",
-        "url": "https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT"
-      },
-      "artists": [
-        {
-          "name": "Maliibu Miitch",
-          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
-        }
-      ],
-      "duration_ms": 147685,
-      "name": "I Like What I Like",
-      "url": "https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD"
     },
     {
       "added_at": "2023-05-26 04:00:00",

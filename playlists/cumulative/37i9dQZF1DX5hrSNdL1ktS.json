@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "El Bellako",
+        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "A la pared",
+      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+    },
+    {
+      "album": {
         "name": "Adicta",
         "url": "https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv"
       },
@@ -190,7 +212,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 204897,
       "name": "AMIGA",
       "url": "https://open.spotify.com/track/37Q98j1xECmF8FDH8NHVlx"
@@ -759,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Coca",
+        "url": "https://open.spotify.com/album/2nUNuWgE7XdFNocY3KG9N4"
+      },
+      "artists": [
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99692,
+      "name": "Coca",
+      "url": "https://open.spotify.com/track/2hLAVhXhe5O6rPyHfUfH3C"
+    },
+    {
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
       },
@@ -824,7 +864,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 184000,
       "name": "Como Ni\u00f1os",
       "url": "https://open.spotify.com/track/33t8RT6FkLmDqR0XhdtSfE"
@@ -1216,6 +1256,28 @@
       "duration_ms": 186122,
       "name": "DOCE",
       "url": "https://open.spotify.com/track/09700e3oszBufdrwLsqvz7"
+    },
+    {
+      "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/0FCRnLWbqtfOqoy6NE83vM"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "KarloH",
+          "url": "https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167748,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD"
     },
     {
       "album": {
@@ -1678,7 +1740,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
@@ -1740,6 +1802,36 @@
       "duration_ms": 174000,
       "name": "GYAL",
       "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+    },
+    {
+      "album": {
+        "name": "Hablame Claro",
+        "url": "https://open.spotify.com/album/3nAMyoZg2fzN63FHvr3ftE"
+      },
+      "artists": [
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        },
+        {
+          "name": "Nova7siete",
+          "url": "https://open.spotify.com/artist/1nfCvF6DEzRQaHckJosWkq"
+        },
+        {
+          "name": "Chris Redd",
+          "url": "https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217047,
+      "name": "Hablame Claro",
+      "url": "https://open.spotify.com/track/7cMKfsG0BufVxBWHuSR6nQ"
     },
     {
       "album": {
@@ -2370,7 +2462,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 162186,
       "name": "La \u00daltima Noche",
       "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
@@ -2530,7 +2622,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 185000,
       "name": "Locura Contigo",
       "url": "https://open.spotify.com/track/6EJhvB66HavCJYtVDuS5yo"
@@ -2710,7 +2802,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 192006,
       "name": "MALA",
       "url": "https://open.spotify.com/track/3X9oUSuyz0xL0OXTFc2Th0"
@@ -3214,6 +3306,50 @@
       "duration_ms": 163626,
       "name": "Morena M\u00eda",
       "url": "https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG"
+    },
+    {
+      "album": {
+        "name": "Morrita",
+        "url": "https://open.spotify.com/album/5sKePlosokIdWtO99vYKLA"
+      },
+      "artists": [
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        },
+        {
+          "name": "Manni Martinez",
+          "url": "https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK"
+        },
+        {
+          "name": "Ryan Vuitton",
+          "url": "https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201235,
+      "name": "Morrita",
+      "url": "https://open.spotify.com/track/5Pzzu7TwNaML451aIPrBAJ"
+    },
+    {
+      "album": {
+        "name": "MUAY THAI",
+        "url": "https://open.spotify.com/album/4Fb83Vq6urEz8svWD7bCmQ"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167295,
+      "name": "MUAY THAI",
+      "url": "https://open.spotify.com/track/3wrmv73k3sruc9rvSlR5Eb"
     },
     {
       "album": {
@@ -4815,6 +4951,28 @@
     },
     {
       "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/7gdfur3vyRpknjEw7GRQUT"
+      },
+      "artists": [
+        {
+          "name": "Raudy MX",
+          "url": "https://open.spotify.com/artist/41khBUYhTGidTrVIJ1nRsP"
+        },
+        {
+          "name": "Aurx",
+          "url": "https://open.spotify.com/artist/6xJLC0TLwToocsg9iWrCOf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184702,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/4P1L0DqPzy2eE0pY5DNVhk"
+    },
+    {
+      "album": {
         "name": "Solteras",
         "url": "https://open.spotify.com/album/2JKecMPRulCP3h0Xn42P8N"
       },
@@ -4948,10 +5106,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 220065,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD"
+    },
+    {
+      "album": {
+        "name": "SUPER MARIO",
+        "url": "https://open.spotify.com/album/7Dy3TAnq8hYhvyq8b7j3P8"
+      },
+      "artists": [
+        {
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        },
+        {
+          "name": "Dj Jhonaz",
+          "url": "https://open.spotify.com/artist/0k3gcRoLTbJsvg51icp6V4"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221700,
+      "name": "SUPER MARIO",
+      "url": "https://open.spotify.com/track/77mZ5UwXW6dwRExgrj2C7Y"
     },
     {
       "album": {
@@ -4974,7 +5154,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 228292,
       "name": "SU\u00c9LTATE",
       "url": "https://open.spotify.com/track/5nufaDKoPcE2A6P9aQG48Y"
@@ -5408,7 +5588,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 181276,
       "name": "U Know",
       "url": "https://open.spotify.com/track/01jQHuLuBgtJvD0lMIgb4F"
@@ -5848,6 +6028,24 @@
       "duration_ms": 165386,
       "name": "\u00daltima Cena",
       "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
+    },
+    {
+      "album": {
+        "name": "\u00daltima V :'(",
+        "url": "https://open.spotify.com/album/62gJWMIoPeMJQf4mmpljsP"
+      },
+      "artists": [
+        {
+          "name": "Valeria Canavati",
+          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "\u00daltima V :'(",
+      "url": "https://open.spotify.com/track/0PKx9TJIhKWs1H3i2jtAxL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS"

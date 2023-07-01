@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Stormzy\)
 
-1,364 songs - 2 day 21 hr 20 min
+1,365 songs - 2 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [El Niño \(feat\. Lil Wayne & Boyfriend\)](https://open.spotify.com/track/7niCz3hixgqnEBnO2mEHhI) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Boyfriend](https://open.spotify.com/artist/1d0nvifbTEmCbO8BlRKjod) | [El Niño \(feat\. Lil Wayne & Boyfriend\)](https://open.spotify.com/album/5OpTiJ83Wd6EXlz0mUaLt3) | 3:05 | 2023-06-22 |  |
 | [Embarrassed \(feat\. Travis Scott\)](https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:12 | 2023-03-02 | 2023-04-28 |
 | [EMPIRE](https://open.spotify.com/track/1fx1UBaIhS3EHg3bjhb7K0) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [SZN](https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [EMPIRE](https://open.spotify.com/album/7jOpeL5oc6afi8PpkgAWoF) | 4:49 | 2022-11-17 | 2023-01-13 |
+| [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-06-30 |  |
 | [Energy \- Latto Remix](https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Energy \(Latto Remix\)](https://open.spotify.com/album/3xMIHLADVU0vpIe2d8U1U1) | 3:10 | 2023-04-27 | 2023-06-02 |
 | [Essence Fest](https://open.spotify.com/track/3BGcnN2i4Lm98vNrUcM37j) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Essence Fest](https://open.spotify.com/album/1FF2B85Tz9BP4GP5nnz6fr) | 3:01 | 2023-03-17 | 2023-04-28 |
 | [ETISÜ](https://open.spotify.com/track/1N4jZQZgvZMNMmZgYyUHJK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ETISÜ](https://open.spotify.com/album/67hOhiiOu0snIYLmU8GjW4) | 2:44 | 2022-07-21 | 2022-08-26 |

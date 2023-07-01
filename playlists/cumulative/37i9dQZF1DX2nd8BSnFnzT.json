@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Hevo 84",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Supla, Os Punks de Boutique",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 116378,
       "name": "Desculpa te Ligar",
       "url": "https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP"
@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Est\u00e1 na Hora de Mudar!",
+        "url": "https://open.spotify.com/album/5z4HmQEvLbheG9GlfzsJYR"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3lera",
+          "url": "https://open.spotify.com/artist/6S6ll1Wa6FYvAgThEBX6qJ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183270,
+      "name": "Jovem Desertor",
+      "url": "https://open.spotify.com/track/5yHy3T3Zqrabh6tRF9VeAm"
+    },
+    {
+      "album": {
         "name": "A \u00d3pera do Cafajeste",
         "url": "https://open.spotify.com/album/5V9eqVMJmdwb7lsV1gejyv"
       },
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 187500,
       "name": "Me Abra\u00e7a",
       "url": "https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd"
@@ -3504,7 +3522,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 206062,
       "name": "M\u00e3e",
       "url": "https://open.spotify.com/track/4p7tg4WcsnDWxl4IGIBxKR"
@@ -3584,7 +3602,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 221663,
       "name": "Nada Voltar\u00e1 a Ser",
       "url": "https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y"
@@ -4599,6 +4617,32 @@
     },
     {
       "album": {
+        "name": "Persistir",
+        "url": "https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok"
+      },
+      "artists": [
+        {
+          "name": "Decifrada",
+          "url": "https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z"
+        },
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Mika Jaxx",
+          "url": "https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246449,
+      "name": "Persistir",
+      "url": "https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM"
+    },
+    {
+      "album": {
         "name": "Supercombo Ao Vivo no Studio F",
         "url": "https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp"
       },
@@ -5489,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Sinceric\u00eddio",
+        "url": "https://open.spotify.com/album/1tB9s9Mk0K1TzW5LqeTYD5"
+      },
+      "artists": [
+        {
+          "name": "Skarno",
+          "url": "https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "Sinceric\u00eddio",
+      "url": "https://open.spotify.com/track/5e2pnLh6Lr62ELJrQunBvP"
+    },
+    {
+      "album": {
         "name": "Bar\u00e3o 40 (De Luxe)",
         "url": "https://open.spotify.com/album/3CXJqomBAVSchsGaa2bwzO"
       },
@@ -5928,6 +5990,24 @@
       "duration_ms": 192047,
       "name": "Todo Mundo Quer Pirar",
       "url": "https://open.spotify.com/track/1XW7bclMViizNKpTaCEN8V"
+    },
+    {
+      "album": {
+        "name": "Supla e os Punks de Boutique",
+        "url": "https://open.spotify.com/album/655eN18FDXJhTEghMeVFZP"
+      },
+      "artists": [
+        {
+          "name": "Supla",
+          "url": "https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150304,
+      "name": "Transa Amarrada",
+      "url": "https://open.spotify.com/track/0qUF7pBT4G2KU9OmUgbBWV"
     },
     {
       "album": {

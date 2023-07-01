@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-127 songs - 6 hr 47 min
+129 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Deep Sleep Delta Waves 82 Hz \- 84 Hz](https://open.spotify.com/track/6L3R4jp8mpFt3Cs8ufY06v) | [Binaural Odyssey](https://open.spotify.com/artist/78S7eBwwMnjzkzATY2vGO6) | [Mind Exploration](https://open.spotify.com/album/2gin8S8bLJjVwlcHd0w0f3) | 2:59 | 2022-08-22 |  |
 | [Delta 4 Hz Drone](https://open.spotify.com/track/4frZaw0LM9m8OpE9wbs8O3) | [Source Dimension](https://open.spotify.com/artist/3z3CegfPYP7ql4oU0pfCWf) | [Sinus Drones](https://open.spotify.com/album/6GleEVvhpKS2K8ftr68BIF) | 3:18 | 2021-12-22 |  |
 | [Delta 73.9 Hz \- 76 Hz](https://open.spotify.com/track/72u4bNSbSYVmnxSD64U4ML) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Binaural Bliss](https://open.spotify.com/album/76tMa9BWw3Ps71go8XdbYs) | 4:00 | 2022-07-11 |  |
-| [Delta 78.3\-80.8Hz](https://open.spotify.com/track/18lxuqcr3Dho1EZidOZeX4) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 3:56 | 2021-12-22 |  |
+| [Delta 78.3\-80.8Hz](https://open.spotify.com/track/18lxuqcr3Dho1EZidOZeX4) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 3:56 | 2021-12-22 | 2023-07-01 |
 | [Delta 98.7\-99.6Hz](https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 4:09 | 2021-12-22 |  |
 | [Delta Air 2 Hz](https://open.spotify.com/track/1zK3i6SOS8jVVkSPbX1ZYI) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 3:04 | 2022-09-06 |  |
 | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Deep Sleep](https://open.spotify.com/track/0VMnVCV7JffUcVkVluWTdG) | [Sleepville](https://open.spotify.com/artist/5db5qIk2KmZR5tWyTx6XHo) | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Deep Sleep](https://open.spotify.com/album/7x2SHxOdLaJC8CfKHx5HXM) | 3:14 | 2023-02-24 |  |
@@ -97,6 +97,7 @@
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2021-12-22 |  |
 | [Finally Reaching \(3 Hz Delta Wave\)](https://open.spotify.com/track/7LMGjCEVFqPsHCeRHu1YNV) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binarual Beats for Deep Sleep](https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up) | 4:57 | 2021-12-22 | 2022-12-24 |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2021-12-22 |  |
+| [Halting Thoughts \(Delta 145 Hz \- 147 Hz\)](https://open.spotify.com/track/4Q7K5DZAg2YrZyQXfVCeol) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Halting Thoughts & Navigating Skies \(Delta Binaural\)](https://open.spotify.com/album/7tcygRzqxjnbDDv6r76s1K) | 3:09 | 2023-06-30 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2021-12-22 |  |
 | [Horizons \(Delta Brainwave Version\)](https://open.spotify.com/track/4BRqrr3nlJet7LjcK9gbxW) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 3:12 | 2021-12-22 | 2023-01-14 |
 | [In Control \(Delta Relax Waves\)](https://open.spotify.com/track/4vJGL9X3d3dFymERTqxHTL) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Delta Force](https://open.spotify.com/album/4fmpqaIzIfbK9JABdeSzB9) | 3:26 | 2021-12-22 |  |
@@ -105,6 +106,7 @@
 | [Maximum Focus Delta \(1.7Hz\)](https://open.spotify.com/track/29Hn90Qbo0E3lwf97pJOHg) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 |  |
 | [Meditative Delta \(L\-98Hz R\-99.7Hz\)](https://open.spotify.com/track/53B0QMB3fQVFxt93wVjHuk) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 4:52 | 2021-12-22 | 2022-12-10 |
 | [Miramare Delta Sinus 81\-83 Hz](https://open.spotify.com/track/1hOi2RvvEOiCWTassf1Kuv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Miramare Delta](https://open.spotify.com/album/1y4EyBDQ2kfF81c6XRnKED) | 2:52 | 2022-08-22 |  |
+| [Navigating Skies \(Delta 166 Hz \- 165 Hz\)](https://open.spotify.com/track/3R3W2ox7HzrVQRGgz8TUJz) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Halting Thoughts & Navigating Skies \(Delta Binaural\)](https://open.spotify.com/album/7tcygRzqxjnbDDv6r76s1K) | 3:31 | 2023-06-30 |  |
 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 | 2021-12-22 |  |
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2021-12-22 |  |
 | [REM Ember \(Delta Waves\)](https://open.spotify.com/track/5nRbt0FEu7g8Zm1oApiKhe) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [REM Ember](https://open.spotify.com/album/7FDCVL0FDr0lgZ0duzkkfO) | 3:26 | 2021-12-22 |  |

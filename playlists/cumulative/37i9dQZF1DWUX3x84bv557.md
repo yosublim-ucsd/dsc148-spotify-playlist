@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Sleeq
 
-249 songs - 12 hr 1 min
+250 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dit Moet Verliefd Zijn](https://open.spotify.com/track/64ArZjpQr4pTH9SuMYjm6b) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Dit Moet Verliefd Zijn](https://open.spotify.com/album/3QAnfcAmeRXDJibQrfUJZq) | 3:27 | 2023-03-30 | 2023-06-30 |
 | [Doe Het Licht Maar Uit](https://open.spotify.com/track/4VW5IbDYlGoMf4lmYC5r9B) | [Dominique](https://open.spotify.com/artist/1ZsK3mltVHS1cjtIghy0UT) | [Doe Het Licht Maar Uit](https://open.spotify.com/album/0ZYY3EH6Kap7PhFg8gKPwC) | 2:38 | 2023-06-15 | 2023-06-30 |
 | [Doodsbang](https://open.spotify.com/track/5CLWh2VzaJwNyfxNBMYEb7) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [FLEMMING](https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy) | 3:02 | 2023-02-23 | 2023-03-18 |
+| [Down Met Jou](https://open.spotify.com/track/7zWceawn2oJgmlnSSXPxlm) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY), [Djé\-Rimo](https://open.spotify.com/artist/5a35K4Lx6ee2QY11vj7cGO) | [Down Met Jou](https://open.spotify.com/album/51UpNHvjjcnP1JhF0qj51M) | 2:58 | 2023-06-30 |  |
 | [Drijfzand](https://open.spotify.com/track/52idFfxIoylObbiWLQvpMq) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Drijfzand](https://open.spotify.com/album/4oaAZaecrX7QU4o2JYzcCr) | 2:44 | 2023-02-23 | 2023-04-07 |
 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 | 2023-06-22 |  |
 | [Echt Verliefd Zijn](https://open.spotify.com/track/13FOKNJGRyqZljne7ejBa2) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Echt Verliefd Zijn](https://open.spotify.com/album/1TC2yKrKlrhmNV0BOguMfH) | 2:53 | 2023-05-18 |  |
@@ -123,7 +124,7 @@
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-02-23 | 2023-03-10 |
 | [Ik Moet Het Weten](https://open.spotify.com/track/54eIgty1xpe9hkYreB8MnM) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Aan Het Einde Van De Rit](https://open.spotify.com/album/3s0PNpeMUTYOr0kWXoX40l) | 2:18 | 2023-06-15 |  |
 | [Ik Space](https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Fabienne Bergmans](https://open.spotify.com/artist/6ipBn3QaHmCnlaDetcvgRl) | [Ik Space](https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB) | 2:37 | 2023-02-23 | 2023-05-19 |
-| [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 | 2023-03-09 |  |
+| [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 | 2023-03-09 | 2023-07-01 |
 | [Ik Wacht Op Jou \(Je T'attends\)](https://open.spotify.com/track/6UoS8duz559g2V25wHv9VO) | [Suzet Lichel](https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW), [Langesjaak](https://open.spotify.com/artist/16GFcI0Sl34ETwdcVuM0Mj) | [Ik Wacht Op Jou \(Je T'attends\)](https://open.spotify.com/album/7zgdKK2FHqwiq1HmAT0KMb) | 3:18 | 2023-06-08 |  |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-04-06 | 2023-06-30 |
 | [Jij Bent Het](https://open.spotify.com/track/4WSbSPMqpwoYFWk9H9jY2v) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Bart en Robin](https://open.spotify.com/album/1D2kBgIwNIMiVoeSZdf284) | 2:24 | 2023-02-23 | 2023-05-27 |

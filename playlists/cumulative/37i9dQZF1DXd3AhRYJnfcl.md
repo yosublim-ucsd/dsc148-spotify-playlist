@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7?si=Y2MD7VxxSWO\-YUyBY\-DseQ">راغب علامة </a>
+> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href=https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=t4VxeMQpSOW8fsPH9NrwnQ> احمد سعد </a>
 
 200 songs - 11 hr 40 min
 

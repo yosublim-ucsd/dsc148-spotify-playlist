@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The best side! Cover: Snoop Dogg",
+  "description": "The best side! Cover: Nate Dogg",
   "name": "I Love My West Coast Classics",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 288800,
       "name": "Bitches Ain't Shit",
       "url": "https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Jackin' For Beats",
       "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 218186,
       "name": "Murder Was The Case",
       "url": "https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu"
@@ -1716,6 +1716,28 @@
       "duration_ms": 313546,
       "name": "No Vaseline",
       "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
+    },
+    {
+      "album": {
+        "name": "G Funk Classics, Vols. 1 & 2",
+        "url": "https://open.spotify.com/album/65VsPlhdWF5PH1CViFskY5"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Nobody Does It Better",
+      "url": "https://open.spotify.com/track/7miy73aP7NFhj8PL7V4VqM"
     },
     {
       "album": {
@@ -2165,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "album": {
         "name": "AmeriKKKa's Most Wanted",
         "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
       },
@@ -2278,7 +2322,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-01",
       "duration_ms": 323266,
       "name": "Tonite",
       "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
