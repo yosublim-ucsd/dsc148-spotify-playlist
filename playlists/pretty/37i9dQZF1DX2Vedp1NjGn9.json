@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 95252,
+  "num_followers": 95364,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzkxMTJjZTQwMGZlM2FiNWY4OTdlZGYyMjVmN2IwNzc1M2QyMzRj",
+  "snapshot_id": "MCw1N2ExMWU2ODA1ZWYzMDJhMWI2MjhjNDZkOWFmODc2NDNhYjVhOGUy",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "On the Water",
-        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 257786,
       "name": "Colours",
       "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "On the Water",
+        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Year of Hibernation",
-        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Shake! Shake! Shake!",
         "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The Year of Hibernation",
+        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Amor Fati",
-      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Moonwater (Deluxe Edition)",
         "url": "https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 207920,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Amor Fati",
+      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 235374,
-      "name": "Reunion",
-      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 214986,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 235374,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
     },
     {
       "added_at": "2021-09-02 08:15:11",

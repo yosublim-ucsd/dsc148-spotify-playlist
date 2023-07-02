@@ -400,8 +400,8 @@
       },
       "artists": [
         {
-          "name": "121Selah",
-          "url": "https://open.spotify.com/artist/05T7ma4oJR1JVTApXcRJ2P"
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
         },
         {
           "name": "Aidee Ime",
@@ -2270,6 +2270,24 @@
       "duration_ms": 96847,
       "name": "If No Be God - Speed up",
       "url": "https://open.spotify.com/track/2fKL4EV6M8x8RXOfykbGHI"
+    },
+    {
+      "album": {
+        "name": "Ifunanya",
+        "url": "https://open.spotify.com/album/2ZUHXyxWTS1FLDiwCBQQQx"
+      },
+      "artists": [
+        {
+          "name": "Mr Frosh",
+          "url": "https://open.spotify.com/artist/55cO96ETKwijsDp0aM5oGb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Ifunanya",
+      "url": "https://open.spotify.com/track/6QtGh9hHsj8mtu2Hpgmbxd"
     },
     {
       "album": {

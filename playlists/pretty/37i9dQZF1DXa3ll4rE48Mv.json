@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 152523,
+  "num_followers": 152666,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDI1YjZhNjY5MGNkOWRjMWU5MDRlYmE4NTExOGMwYWQ5MzA1M2I3",
+  "snapshot_id": "MCxkNjU0ZjgxNzI1MTkzMTgwNmIxZDUxMzZkNzFkYjUyMGU0ZmZlMGI2",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 156986,
-      "name": "I Wanna Be Your Joey Ramone",
-      "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Pity Boy",
         "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 151473,
       "name": "Things Still Left to Say",
       "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 156986,
+      "name": "I Wanna Be Your Joey Ramone",
+      "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
-      },
-      "artists": [
-        {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 183610,
       "name": "Brighter Days (Are Before Us)",
       "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Sorry, Mom",
         "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 369213,
       "name": "Word Salad",
       "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Friends. Lovers. Favorites",
-        "url": "https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv"
-      },
-      "artists": [
-        {
-          "name": "The Hirs Collective",
-          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
-        }
-      ],
-      "duration_ms": 63466,
-      "name": "It's Ok to Be Sick",
-      "url": "https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Queen Zee",
         "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 143853,
       "name": "Sissy Fists",
       "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Friends. Lovers. Favorites",
+        "url": "https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        }
+      ],
+      "duration_ms": 63466,
+      "name": "It's Ok to Be Sick",
+      "url": "https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
       },
       "artists": [
         {
-          "name": "LIINES",
-          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
         }
       ],
-      "duration_ms": 144170,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
     }
   ],
   "unique_name": "Queercore",

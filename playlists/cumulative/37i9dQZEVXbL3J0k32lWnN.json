@@ -4012,7 +4012,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -9398,7 +9398,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 178183,
       "name": "Hvad Skal Der Ske (feat. ICEKIID)",
       "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
@@ -21035,6 +21035,24 @@
     },
     {
       "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY"
       },
@@ -22478,6 +22496,28 @@
       "duration_ms": 199624,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/4osCG0whKGmnEe7SZfHGA1"
+    },
+    {
+      "album": {
+        "name": "Zoo (feat. Branco)",
+        "url": "https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA"
+      },
+      "artists": [
+        {
+          "name": "Mowgli",
+          "url": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150526,
+      "name": "Zoo (feat. Branco)",
+      "url": "https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ"
     },
     {
       "album": {

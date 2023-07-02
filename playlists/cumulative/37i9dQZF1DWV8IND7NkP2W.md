@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-616 songs - 1 day 3 hr 50 min
+617 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
-| [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 |  |
+| [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-07-02 |
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 |  |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |
@@ -365,6 +365,7 @@
 | [Nana](https://open.spotify.com/track/7nTmGCR2pedGovwy8ZypfV) | [Isaz](https://open.spotify.com/artist/2QKgJH2C0AY4KGrmn7bczD) | [La.France](https://open.spotify.com/album/4Che72J1szm9Zb5yARRUuP) | 0:58 | 2022-03-24 | 2022-04-19 |
 | [Napping](https://open.spotify.com/track/5e0nvHXmmeEmnVROIEZBYY) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/4kgwJLW4TbdV2SikpBhltZ) | 1:55 | 2022-04-28 | 2022-07-29 |
 | [Napping](https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL) | 1:55 | 2022-07-28 | 2023-06-28 |
+| [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 | 2023-06-29 |  |
 | [naptime](https://open.spotify.com/track/0A3wdC4h8kdZRK7fqjdlJ5) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [naptime](https://open.spotify.com/album/7HiIGoWkuhEvupPkWrnlVk) | 2:31 | 2021-12-23 | 2022-07-29 |
 | [Nearby](https://open.spotify.com/track/4FV9Rqeiu6eq67rXjzwZYU) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Nature City](https://open.spotify.com/album/0hMp6doJxKWUzdMvyg6Gvu) | 1:30 | 2021-12-23 | 2022-07-29 |
 | [Need You](https://open.spotify.com/track/5YzAkB0MayEenthmDRSB58) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [NOTE](https://open.spotify.com/album/568d5HDFBQzaujPEu9hFsb) | 3:42 | 2021-12-23 | 2022-07-29 |

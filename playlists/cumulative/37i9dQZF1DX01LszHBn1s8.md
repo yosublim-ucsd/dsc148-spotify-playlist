@@ -4,7 +4,7 @@
 
 > you know what happens after two 🍸🍋
 
-1,139 songs - 2 day 11 hr 47 min
+1,140 songs - 2 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,8 @@
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-09-29 | 2023-01-06 |
 | [NOT A BREAKUP](https://open.spotify.com/track/2wO2DRtVj18dromHOc4JvQ) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [NOT A BREAKUP](https://open.spotify.com/album/1LOd11FMtc1MOo3W2rOSOz) | 3:38 | 2022-09-15 | 2022-09-21 |
 | [NOT A BREAKUP](https://open.spotify.com/track/4mZ9qpvKX9oq08TVFpI8PP) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [NOT A BREAKUP](https://open.spotify.com/album/1k94h397LZMqDH0pAQxN4F) | 3:38 | 2022-09-15 |  |
-| [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-05-19 |  |
+| [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 | 2023-06-30 |  |
+| [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-05-19 | 2023-07-02 |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-19 | 2022-07-29 |
 | [Not Into You](https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX) | 2:37 | 2022-05-19 | 2022-10-29 |
 | [Not Into You](https://open.spotify.com/track/4ZJwt3yb5gVCufioOQHBKS) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/0XXB3NjTAInL9dSZkMBVHI) | 2:37 | 2022-05-19 | 2022-07-29 |

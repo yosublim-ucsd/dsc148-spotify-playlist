@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 2 | [Now I'm All Messed Up](https://open.spotify.com/track/2MtybE4np9hXIRNFBi9K4q) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 4:07 |
 | 3 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
 | 4 | [Olly Alexander from Years & Years on Inspiration](https://open.spotify.com/track/0pi6mPEX2JZT9zO1tg7ESW) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Years & Years \- Spotify Pride](https://open.spotify.com/album/3IthvRoQiLefWpF76B1nmG) | 0:55 |
-| 5 | [Shelter](https://open.spotify.com/track/13F3T2TWkVW6oVZNnFc69e) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 4:30 |
+| 5 | [Shelter](https://open.spotify.com/track/13F3T2TWkVW6oVZNnFc69e) | [XX](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 4:30 |
 | 6 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
 | 7 | [Love Me Or Hate Me](https://open.spotify.com/track/4OikxHAgM14El0wQIyyhP8) | [Lady Sovereign](https://open.spotify.com/artist/36ikBJX6oQWWlgrXCock30) | [Public Warning](https://open.spotify.com/album/4hYpyDcWxBQQPVlTaljf4o) | 3:29 |
 | 8 | [Restless Year](https://open.spotify.com/track/3aOqxUnZ6LI5dxQ3iqAQ6C) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Perpetual Motion People](https://open.spotify.com/album/0R8prza80qnGSvS4XdQGc3) | 2:25 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 25 | [Worship](https://open.spotify.com/track/4LSaXsi2dyhdKGF6wPsHst) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:41 |
 | 26 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 
-Snapshot ID: `MCw0NmE1MGY5OWQzZjI0Mjc2MTQ2NGQzY2MyYWQ4YmQ1NzU4Y2M0NTdi`
+Snapshot ID: `MCxmMTFiMzM3Y2ZkYzU5ODE1MmFkMWI4ZTI4ZTFkMDBiOGViNTFiNDgx`

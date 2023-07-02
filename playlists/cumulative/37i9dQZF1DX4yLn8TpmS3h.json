@@ -450,24 +450,6 @@
     {
       "album": {
         "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270240,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/13F3T2TWkVW6oVZNnFc69e"
-    },
-    {
-      "album": {
-        "name": "xx",
         "url": "https://open.spotify.com/album/2rmMeEq5D1Bg7YFRwtHBDr"
       },
       "artists": [
@@ -482,6 +464,24 @@
       "duration_ms": 270240,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5YeF3yVKzbxW1KI4kPcSVo"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "XX",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270240,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/13F3T2TWkVW6oVZNnFc69e"
     },
     {
       "album": {

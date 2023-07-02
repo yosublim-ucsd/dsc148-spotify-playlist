@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,504 songs - 3 day 7 hr 35 min
+1,505 songs - 3 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [I Wouldn't Know](https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [I Wouldn't Know](https://open.spotify.com/album/7johj2E7I1HA3cD7Rxvz0j) | 2:28 | 2021-08-18 | 2023-06-10 |
 | [I'd Love To Change The World \- Matstubs Remix](https://open.spotify.com/track/41oWiFvBdeS6srKVl20hmt) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Matstubs](https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d) | [I'd Love To Change The World \(Matstubs Remix\)](https://open.spotify.com/album/703OySirU43mehhI6e1VvS) | 3:09 | 2023-03-22 | 2023-06-07 |
 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 | 2020-05-27 | 2023-01-25 |
+| [I'm Coming Home](https://open.spotify.com/track/42vH69GV9nOnivrHPDEWtr) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [I'm Coming Home](https://open.spotify.com/album/775tSWlNSJImTlHKf6f6gm) | 2:25 | 2023-06-30 |  |
 | [I'm Feeling It \(In the Air\)](https://open.spotify.com/track/0SZJ7HnPHg4bBHtoJdgAkI) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [I'm Feeling It \(In the Air\)](https://open.spotify.com/album/3duCTMYIchKFO0IwlWcFsD) | 3:13 | 2020-10-05 | 2021-01-29 |
 | [I'm In Love](https://open.spotify.com/track/2Rfy50UpGrTN43GmSpn5A1) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I’m In Love](https://open.spotify.com/album/77EjizQATJlww83ORKd9RJ) | 3:12 | 2021-07-24 | 2021-08-28 |
 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 | 2020-05-27 | 2021-10-21 |
@@ -1086,7 +1087,7 @@
 | [Rollerblade](https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm) | [Trial & Error](https://open.spotify.com/artist/6W4qhJWqjWK8x6oo4oKMwK), [HENDRICK LANE](https://open.spotify.com/artist/0eJYjGNZFypo9g9QH5JaGL) | [Rollerblade](https://open.spotify.com/album/0xewukHzbfXN0oIR9GUJoi) | 2:50 | 2019-09-29\* | 2023-06-13 |
 | [Rollercoaster](https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Rollercoaster](https://open.spotify.com/album/4lC9pLz0vfNZQe7xcpqjKg) | 2:59 | 2021-09-29 | 2021-09-30 |
 | [Rooftops](https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime II](https://open.spotify.com/album/0xi4cOWPUHjctyYU8ypCOB) | 2:57 | 2020-05-26 | 2023-03-10 |
-| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 |  |
+| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 | 2023-07-02 |
 | [Roses \(Imanbek Remix\)](https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt) | 2:56 | 2020-05-27 | 2023-05-24 |
 | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2020-12-10 | 2020-12-17 |
 | [Rumors](https://open.spotify.com/track/0ibEbPyMI2JbYgzFYNJlwh) | [TYMEN](https://open.spotify.com/artist/38dICdGB6bl9UKmQx3lt2R), [MYXE](https://open.spotify.com/artist/3og6e24muubWOaYriWZsPc) | [Rumors](https://open.spotify.com/album/6LyEg0JrkaYHXqhyeg96bl) | 3:05 | 2023-01-11 | 2023-03-09 |

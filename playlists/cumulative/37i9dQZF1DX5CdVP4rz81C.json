@@ -6281,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Dear Ella,",
+        "url": "https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161210,
+      "name": "Elephant In The Room",
+      "url": "https://open.spotify.com/track/3WZyXUHTqffITfNniSJyKD"
+    },
+    {
+      "album": {
         "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
       },
@@ -6292,7 +6310,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 161210,
       "name": "Elephant In The Room",
       "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
@@ -9495,6 +9513,24 @@
     },
     {
       "album": {
+        "name": "Dear Ella,",
+        "url": "https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148822,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4yY4TWNCBmvv3K6ZCSFA0T"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/2QxbmA39RnXXBUR4jNXnpP"
       },
@@ -9506,7 +9542,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 148822,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7IZayFpRYZ3htkcotaigL2"
@@ -17257,6 +17293,24 @@
     },
     {
       "album": {
+        "name": "Dear Ella,",
+        "url": "https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172195,
+      "name": "Part of You",
+      "url": "https://open.spotify.com/track/002dsIzVHh30tytpfqZT85"
+    },
+    {
+      "album": {
         "name": "Part of You",
         "url": "https://open.spotify.com/album/6k18d9mKQDsliMMeQoM0Rc"
       },
@@ -17268,7 +17322,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 172195,
       "name": "Part of You",
       "url": "https://open.spotify.com/track/0teEiAGyAfnOiZ2KwbvZYZ"

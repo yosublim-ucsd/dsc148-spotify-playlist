@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-831 songs - 1 day 19 hr 8 min
+832 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-07 | 2023-01-03 |
 | [Theme song](https://open.spotify.com/track/0x1QaeA03bvi0NYutEKxWt) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [Legendás Ribancok Nyomában](https://open.spotify.com/album/0OM7ZtnoaSSI5vBIgVqwLT) | 1:52 | 2021-03-29 | 2021-03-30 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-07 |
-| [Tilidin](https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:04 | 2023-02-19 |  |
+| [Tilidin](https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:04 | 2023-02-19 | 2023-07-02 |
 | [Tilidin](https://open.spotify.com/track/3kmBT0nbeNoaRlFMZbAOfb) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Tilidin](https://open.spotify.com/album/7oMwpsDSP4TKlzVg6gj7uO) | 2:04 | 2022-12-20 | 2023-02-20 |
 | [TISZALÖK](https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28), [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:36 | 2022-09-03 |  |
 | [Tisztelet](https://open.spotify.com/track/5oJGbOPrIJpb0JRA9MYjJs) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:40 | 2023-02-24 | 2023-03-05 |
@@ -769,6 +769,7 @@
 | [Utolsó dal](https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 2:02 | 2023-03-07 | 2023-04-07 |
 | [Utolsó dal](https://open.spotify.com/track/6aINWu0V4uW9fggLqPq9xO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:02 | 2023-02-03 | 2023-03-08 |
 | [VAKMELEG](https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [VAKMELEG](https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5) | 2:52 | 2022-08-03 | 2023-02-04 |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 |  |
 | [Vezetői Engedély](https://open.spotify.com/track/0fY8YdsEhwdE2VdYc8tRlN) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:10 | 2022-03-12 | 2022-03-15 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-27 |
 | [Vigyázz](https://open.spotify.com/track/7hIjPLEhARePR07iBlXnCv) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 3:20 | 2023-03-07 | 2023-03-10 |

@@ -310,10 +310,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 253288,
       "name": "Love in Outer Space",
       "url": "https://open.spotify.com/track/6elz4mq14CoLctixaxEs9J"
+    },
+    {
+      "album": {
+        "name": "Haverford College, Jan. 25th, 1980 (Solo Rhodes Piano)",
+        "url": "https://open.spotify.com/album/0jVth1ufo1rI9gD7yCIQQQ"
+      },
+      "artists": [
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Love In Outerspace",
+      "url": "https://open.spotify.com/track/2DQJgjvLmHlmnnm9oiUszK"
     },
     {
       "album": {

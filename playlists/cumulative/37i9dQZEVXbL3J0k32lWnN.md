@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,133 songs - 2 day 11 hr 2 min
+1,135 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-10 | 2022-01-12 |
 | [Daydate \(feat\. Abcitoo\)](https://open.spotify.com/track/4HQZqXCDny7EECn458ez55) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 2:43 | 2023-03-11 | 2023-03-13 |
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-05-21 | 2022-05-30 |
-| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 | 2023-07-02 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-21 | 2022-06-05 |
 | [De Ensommes Gade](https://open.spotify.com/track/022JJHCzq3gBv39NpWxtOb) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 5:08 | 2023-02-11 | 2023-02-13 |
 | [DEEBO](https://open.spotify.com/track/1tOj7aLUbjd38vA616WmJj) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DEEBO](https://open.spotify.com/album/4wkNRCRELb8fa76bEykY2B) | 2:18 | 2022-10-29 | 2022-11-14 |
@@ -479,7 +479,7 @@
 | [Hva Så \(feat\. Artigeardit\)](https://open.spotify.com/track/1ehdHfMnt1HJlxB6kduTT8) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:08 | 2022-06-18 | 2022-07-03 |
 | [Hva' Du Værd \(feat\. Smiley\)](https://open.spotify.com/track/4pCB7A8b8ERNaZ1p7SJHoF) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc), [Smiley](https://open.spotify.com/artist/0VAbWUQfLnhk5rggicyL8f) | [FUCK L.O.C.](https://open.spotify.com/album/5qOL134OE6hHtsPBoIOhBg) | 2:49 | 2021-05-16 | 2021-05-18 |
 | [Hvad For Noget](https://open.spotify.com/track/68b470gtdGLB9SmxO64T4P) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Hvad For Noget](https://open.spotify.com/album/4MtuQgVBlF4IFWlYDi9P9J) | 3:04 | 2022-02-12 | 2022-04-05 |
-| [Hvad Skal Der Ske \(feat\. ICEKIID\)](https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:58 | 2022-09-03 |  |
+| [Hvad Skal Der Ske \(feat\. ICEKIID\)](https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:58 | 2022-09-03 | 2023-07-02 |
 | [hvad skal verden med sådan en som mig?](https://open.spotify.com/track/3lt2vb4iuIJrvIccs2IlBU) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hvad skal verden med sådan en som mig?](https://open.spotify.com/album/0xzd8eDk9uNa8VoqecuEHz) | 2:46 | 2022-08-20 | 2023-05-10 |
 | [HVEM ER DE!? \(Basim x Jimilian\)](https://open.spotify.com/track/0RocmqZFer8TeLvoeQzGc6) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [HVEM ER DE!? \(Basim x Jimilian\)](https://open.spotify.com/album/4MmWrtsL0agBUXc5qwN9P7) | 2:53 | 2022-11-19 | 2022-11-25 |
 | [Hver Gang](https://open.spotify.com/track/444QL7u04SrHw1ioOj95zr) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:21 | 2022-02-19 | 2022-02-25 |
@@ -1065,6 +1065,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-06 | 2023-01-14 |
 | [Ups N Downs](https://open.spotify.com/track/40aJycGoNUQO8sD8iHsIEb) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Ups N Downs](https://open.spotify.com/album/4y0VgN6ptUlRDm187hdLks) | 2:47 | 2021-05-14 | 2021-05-23 |
 | [Urørlig](https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:59 | 2022-01-15 | 2022-02-13 |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 |  |
 | [Varmeste Herinde](https://open.spotify.com/track/7a6n5faijC27CAPbh4H7So) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 3:08 | 2022-10-15 | 2022-10-19 |
 | [Varmeste Herinde](https://open.spotify.com/track/7reYvNCilCtNLPQoT6aASR) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 3:08 | 2022-10-18 | 2022-10-23 |
 | [Vendetta](https://open.spotify.com/track/1yD45ue5YXqkWIv4YI0B7e) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Vendetta](https://open.spotify.com/album/1s7bRiwQ9gs8U9sOGgnnzk) | 3:28 | 2021-10-31 | 2021-11-14 |
@@ -1136,6 +1137,7 @@
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-30 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-27 |
 | [Zombie](https://open.spotify.com/track/4osCG0whKGmnEe7SZfHGA1) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [4 Til Gulvet](https://open.spotify.com/album/251r5Jv5psSP10WVu4eSyD) | 3:19 | 2022-08-20 | 2022-08-28 |
+| [Zoo \(feat\. Branco\)](https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Zoo \(feat\. Branco\)](https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA) | 2:30 | 2023-07-01 |  |
 | [Årstider](https://open.spotify.com/track/21h80Cfo35Foa17LFp6O0A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 3:23 | 2022-10-03 | 2022-10-13 |
 | [Æstetisk](https://open.spotify.com/track/4PCcN37jm4tDj8RPZuvC1H) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Æstetisk](https://open.spotify.com/album/6wV9sbuZnumfF8mRnzODZn) | 2:31 | 2022-03-12 | 2022-03-14 |
 | [Øjne Som Dine](https://open.spotify.com/track/7hQltyI2tgXb4lRNFncJdk) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Øjne Som Dine](https://open.spotify.com/album/7t5XWRm0jDYuKnuHlB50SQ) | 2:39 | 2021-10-23 | 2021-11-27 |

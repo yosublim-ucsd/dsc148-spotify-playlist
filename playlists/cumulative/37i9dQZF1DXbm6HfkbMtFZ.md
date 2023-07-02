@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-518 songs - 1 day 7 hr 12 min
+519 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [I'm About Loving You](https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4) | [Al Hudson](https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS), [Soul Partners](https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY) | [Playlist: The ATCO Singles](https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG) | 2:54 | 2022-03-30 | 2022-04-21 |
 | [I've Never Found A Girl \(To Love Me Like You Do\)](https://open.spotify.com/track/6qUKvwwXss4ACF4bwXPujP) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [The Very Best Of Eddie Floyd](https://open.spotify.com/album/7oCLGE1xcu1vCRLPBJ0XTd) | 2:45 | 2022-03-30 | 2022-04-21 |
 | [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 | 2022-06-21 |  |
+| [If I Ever Was a Child](https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1) | 2:55 | 2023-06-26 |  |
 | [If I Ever Was a Child](https://open.spotify.com/track/1tZ5ctX3Q1P6QZJ1bR25sd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/2s037WsNDbSTIEb7OJjT0a) | 2:55 | 2022-03-30 | 2022-04-16 |
 | [If I Ever Was a Child](https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Schmilco](https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL) | 2:55 | 2022-07-26 | 2023-06-24 |
 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/3cx4K9v7RwDEXX6OGPNLNy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/album/3habIVRUhTf6wzwR4O1dBI) | 3:14 | 2021-12-16 | 2022-07-29 |
@@ -426,7 +427,7 @@
 | [Switch](https://open.spotify.com/track/42VpxSdGQgnV1UJkWeGYkA) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 | 2022-03-30 | 2022-04-21 |
 | [Take It Easy](https://open.spotify.com/track/2GcMJZuPiou4qvPlxE2CIr) | [Archie James Cavanaugh](https://open.spotify.com/artist/4iKkIkbDSAiPibQW4PxQFE) | [Black And White Raven](https://open.spotify.com/album/6drlBqAE7vyuPnAPOMEZml) | 3:26 | 2022-03-30 | 2022-04-17 |
 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 | 2022-03-30 | 2022-04-20 |
-| [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 | 2021-12-16 |  |
+| [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 | 2021-12-16 | 2023-07-02 |
 | [Talk It Out](https://open.spotify.com/track/5sDxIlinyY5NL7HIt1XJ1j) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/6NYqCTdy9xH6p1n4wSR98x) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 | 2022-07-26 |  |
 | [Talk to Em \(Moods Remix\) \[feat\. Efe\]](https://open.spotify.com/track/148do5V5lrRv3mcJdEJiBJ) | [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ), [Efe](https://open.spotify.com/artist/5oCyvi3weIhGuqTxcTuZ85) | [Technicolor Hi\-Fi Remixes](https://open.spotify.com/album/4qwcUkHCvSLUXI2vrZ6rTQ) | 4:06 | 2022-03-30 | 2022-04-20 |

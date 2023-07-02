@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Filth Is Eternal",
-  "num_followers": 7856,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: The Armed",
+  "num_followers": 7855,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjcyNiw0MTQyYmRiNjE3MzYzNTc5MzBiYTc0MzMwYmUxMmY1YmM4OTc4MzM0",
+  "snapshot_id": "MjczNSwwMDMzNTRlMGM1MDE3OTI5MDI1ZDE4NWYyMTBlZDE0NDU5ZDNlMjY3",
   "tracks": [
+    {
+      "added_at": "2023-06-30 19:05:18",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1JxF9qHTv5atiG43b7xkYe"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        }
+      ],
+      "duration_ms": 214697,
+      "name": "Scorpion",
+      "url": "https://open.spotify.com/track/2JxlxDssmAHyRigZik38Fy"
+    },
+    {
+      "added_at": "2023-06-30 19:05:28",
+      "album": {
+        "name": "Land Of The Sun",
+        "url": "https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "Land Of The Sun",
+      "url": "https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2"
+    },
+    {
+      "added_at": "2023-06-30 19:05:38",
+      "album": {
+        "name": "Soaking Nerves",
+        "url": "https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn"
+      },
+      "artists": [
+        {
+          "name": "Orthodox",
+          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Soaking Nerves",
+      "url": "https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX"
+    },
+    {
+      "added_at": "2023-06-30 19:05:48",
+      "album": {
+        "name": "Sport of Form",
+        "url": "https://open.spotify.com/album/1T4LPltqYeJoJrr88P0NLq"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 206983,
+      "name": "Sport of Form",
+      "url": "https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy"
+    },
+    {
+      "added_at": "2023-06-30 19:06:05",
+      "album": {
+        "name": "Rectify",
+        "url": "https://open.spotify.com/album/2zRWYRjljmAV7OAUoaWhZs"
+      },
+      "artists": [
+        {
+          "name": "Magnitude",
+          "url": "https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ"
+        }
+      ],
+      "duration_ms": 144420,
+      "name": "Rectify",
+      "url": "https://open.spotify.com/track/7p8H7I0yG05MWgtgHFSzpa"
+    },
+    {
+      "added_at": "2023-06-30 19:06:11",
+      "album": {
+        "name": "Summer's Beginning",
+        "url": "https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm"
+      },
+      "artists": [
+        {
+          "name": "Adrienne",
+          "url": "https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw"
+        }
+      ],
+      "duration_ms": 249886,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/6H7gfGV4wZuQDdjzh5yA4j"
+    },
     {
       "added_at": "2023-06-23 19:32:27",
       "album": {

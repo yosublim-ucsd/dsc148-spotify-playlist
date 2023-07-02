@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 41100,
+  "num_followers": 41161,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzYzNTBmMTg0YzVjMmM3OWE0ZTlhODk4MGFmMmVkNDI4MDJjNTI1",
+  "snapshot_id": "MCxkMDgwNWQ0MDQ5MmNkZGI3NTczMjI0MTQ5YjlmY2FlNzA0ODJmNGQ5",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 171360,
       "name": "A Veces Tu, A Veces Yo",
       "url": "https://open.spotify.com/track/0EOhH2L1RVEvssIltBES3E"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
-      },
-      "artists": [
-        {
-          "name": "Basilio",
-          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Cisne Cuello Negro",
-      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 176560,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
+      },
+      "artists": [
+        {
+          "name": "Basilio",
+          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Cisne Cuello Negro",
+      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
     },
     {
       "added_at": "2023-02-17 20:59:31",

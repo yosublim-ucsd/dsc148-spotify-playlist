@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-392 songs - 1 day 10 hr 43 min
+393 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Remember](https://open.spotify.com/track/4QIhWFO2vfdJtDKRpyD9DP) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/1Qw6kCV9HPby6Pt8nkOiFR) | 5:02 | 2022-05-03 | 2022-10-14 |
 | [Remember](https://open.spotify.com/track/5pRH7tcR0X86sU1wAsY5fA) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Remember](https://open.spotify.com/album/12Qmk2p1qBQvqqwnvNb10K) | 5:02 | 2022-05-03 |  |
 | [Remember to Love \- Extended Mix](https://open.spotify.com/track/6cyzz6IwvfjbPiNreeMhZ0) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Remember to Love](https://open.spotify.com/album/7yEq7FYgBKTzdGAkc6l45b) | 5:04 | 2021-12-08 | 2022-11-17 |
-| [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 |  |
+| [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 | 2023-07-02 |
 | [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 |  |
 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 | 2021-12-08 | 2023-01-06 |
 | [Resurface](https://open.spotify.com/track/4ztZ2DZsuwUbaeQdvpY78Z) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Resurface](https://open.spotify.com/album/3M73zMomIlYvJfsqoIPmOl) | 7:33 | 2021-12-08 | 2022-02-22 |
@@ -293,6 +293,7 @@
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |
 | [SBCNCSLY](https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [SBCNCSLY](https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp) | 6:24 | 2021-12-08 | 2022-02-22 |
 | [She's A Replicant \- Afriqua Remix](https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [The Replicant EP](https://open.spotify.com/album/3oQWq2N3ZHTLTHZATQorQU) | 8:23 | 2021-12-08 | 2022-07-27 |
+| [Sherwood Forest](https://open.spotify.com/track/4PweJp1SbwGcCtUWGUKHbw) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sherwood Forest](https://open.spotify.com/album/0yhqyTd1ulAT8kADrHfRiu) | 2:55 | 2023-06-30 |  |
 | [Shine \- Original Mix](https://open.spotify.com/track/3VJaqeaWFRZYoGeDKJbkqu) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Alex Hook](https://open.spotify.com/artist/5crDtS0zvUv8JInPEHiige), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Shine](https://open.spotify.com/album/7vNzxzPntk22ND2FtukCls) | 5:44 | 2021-12-08 | 2022-11-17 |
 | [Silhouette](https://open.spotify.com/track/0OHMCa0Rkui2VLkQxgVpVs) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Sebee](https://open.spotify.com/artist/15eS4ELao0UYSVtHMLlxcq) | [Anjunadeep Explorations 18](https://open.spotify.com/album/5o2l23PO9MXRLLe6Y602CP) | 3:49 | 2021-12-08 | 2023-05-06 |
 | [Simply Put](https://open.spotify.com/track/5F8ZtPUBSVjNygbxNfp4vR) | [Bakai](https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA), [Orah](https://open.spotify.com/artist/4t0cROlLdti1op48QSOHmn) | [Kiwi Daze](https://open.spotify.com/album/2Knyl8PMxuUU2vHI0h9lgx) | 3:24 | 2021-12-08 |  |

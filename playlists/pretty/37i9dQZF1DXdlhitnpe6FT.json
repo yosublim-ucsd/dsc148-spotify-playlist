@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 172178,
+  "num_followers": 172450,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy",
+  "snapshot_id": "MCwyYzI0YmE5NjAwYjQ2YTVjZDFiZDRjNGYxN2RlMTFjMDE1Yzk1MWIx",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Paul Mauriat. Grandes Exitos",
-        "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "Love is Blue",
-      "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "!!Going Places!!",
         "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 126893,
       "name": "Spanish Flea",
       "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Paul Mauriat. Grandes Exitos",
+        "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "Love is Blue",
+      "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Gold Series - Latin Romance",
-        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
-      },
-      "artists": [
-        {
-          "name": "Francis Goya",
-          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
-        }
-      ],
-      "duration_ms": 234962,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Orange Blossom Special And Wheels",
         "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 128785,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Gold Series - Latin Romance",
+        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
+      },
+      "artists": [
+        {
+          "name": "Francis Goya",
+          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
+        }
+      ],
+      "duration_ms": 234962,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 145680,
       "name": "Love In Every Room",
       "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol. 4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Bonanza - 50 Fabulous Guitar Favourites",
         "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
-        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
       },
       "artists": [
         {
-          "name": "Pablo Beltran Ruiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 135613,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1343,6 +1327,22 @@
       "duration_ms": 383933,
       "name": "Piano",
       "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
+        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+      },
+      "artists": [
+        {
+          "name": "Pablo Beltran Ruiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
     },
     {
-      "added_at": "2021-12-23 15:47:25",
-      "album": {
-        "name": "The Ultimate John Barry",
-        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
-      },
-      "artists": [
-        {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Midnight Cowboy",
-      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
-    },
-    {
       "added_at": "2020-12-08 19:02:01",
       "album": {
         "name": "Rain Forest",
@@ -1423,6 +1407,22 @@
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
+    },
+    {
+      "added_at": "2021-12-23 15:47:25",
+      "album": {
+        "name": "The Ultimate John Barry",
+        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Norwegian Rain",
         "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1815,38 +1815,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Danke Schoen - Helmut Zacharias",
-        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -1859,6 +1827,22 @@
       "duration_ms": 180373,
       "name": "Saute-Mouton",
       "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Danke Schoen - Helmut Zacharias",
+        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1891,6 +1875,22 @@
       "duration_ms": 160826,
       "name": "Beer Barrel Polka",
       "url": "https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Siempre en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA"
     }
   ],
   "unique_name": "Golden Instrumentals",

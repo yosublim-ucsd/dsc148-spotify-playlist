@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 350261,
+  "num_followers": 350374,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDNjYTdkYThkZTIwYjMwNThiYWUwNDU4ZDhkZDQ4MjU4NTE4MzZj",
+  "snapshot_id": "MCw0NzM4YThlNTIyNDA1YWU3MjcwNjlkN2JiYTRmYzQ0ZDRlZTQxMDk4",
   "tracks": [
     {
       "added_at": "2023-06-22 14:21:46",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 431800,
       "name": "The Message (feat. Melle Mel & Duke Bootee)",
       "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Hold It Now, Hit It",
-      "url": "https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "8th Wonder",
         "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 373293,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Hold It Now, Hit It",
+      "url": "https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
+      },
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "Rhyme Pays",
         "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 257223,
       "name": "9mm Goes Bang",
       "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-06-22 14:21:46",

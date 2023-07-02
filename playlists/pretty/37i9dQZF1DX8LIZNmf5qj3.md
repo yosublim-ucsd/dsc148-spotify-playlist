@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Pink Sweat$
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,380 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,390 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [YOU GOTTA MAN](https://open.spotify.com/track/0pA0yHZ8gMyyoZwDKsOHs4) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [YOU GOTTA MAN](https://open.spotify.com/album/34dGsJB1Nv7hxUu724pUEt) | 3:17 |
 | 50 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 |
 
-Snapshot ID: `MCwzZTY1NjNiODZjMTE1YzIwZTYwMTVjYzE5NmY3OGIzZWM1ZDg4Y2Ni`
+Snapshot ID: `MCwyN2RiNmViYjNlMzU4YjZjNzYwNTk4ZGYzMjg1MTQ2ODMyMWRkNTY4`

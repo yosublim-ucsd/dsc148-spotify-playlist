@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 4491,
+  "num_followers": 4509,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
+  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 158680,
       "name": "Low Sudden",
       "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Atomos",
-        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
+        "name": "S\u00f3laris",
+        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
       },
       "artists": [
         {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        },
+        {
+          "name": "Dan\u00edel Bjarnason",
+          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
         }
       ],
-      "duration_ms": 469213,
-      "name": "Atomos VII",
-      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
+      "duration_ms": 158992,
+      "name": "You Mean More to Me Than Any Scientific Truth",
+      "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -883,26 +887,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "S\u00f3laris",
-        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
-      },
-      "artists": [
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        },
-        {
-          "name": "Dan\u00edel Bjarnason",
-          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
-        }
-      ],
-      "duration_ms": 158992,
-      "name": "You Mean More to Me Than Any Scientific Truth",
-      "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 422613,
       "name": "Convex",
       "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Atomos",
+        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 469213,
+      "name": "Atomos VII",
+      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Second Lens",
-      "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 239351,
       "name": "Equal Ourselves",
       "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Second Lens",
+      "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
     },
     {
       "added_at": "2023-06-07 15:21:34",

@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-85 songs - 6 hr 0 min
+86 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Koji Koji Ginza](https://open.spotify.com/track/5z2rcCuJHYYXVXcCDmzFkJ) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [Koji Koji Ginza](https://open.spotify.com/album/2erDr9VtpkJjEOgTZoXYRm) | 5:02 | 2022-05-27 |  |
 | [Moonlight Legend](https://open.spotify.com/track/3qxu3FK4b4zgPB3gpp1wiR) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 2:55 | 2022-12-24 |  |
 | [Princess Mononoke Theme Song \(Vocal\)](https://open.spotify.com/track/3vhkYEfMVAsTfr9T1Q2Ulc) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 3:32 | 2022-05-27 |  |
-| [Resolution](https://open.spotify.com/track/6am0ME0Kyvvqny8dob1TUv) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [AFTER WAR GUNDAM X Original Motion Picture Soundtrack \- Side 3](https://open.spotify.com/album/7Kltco1FEmTyi2P2Z6R5qN) | 5:00 | 2022-12-24 |  |
+| [Resolution](https://open.spotify.com/track/6am0ME0Kyvvqny8dob1TUv) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [AFTER WAR GUNDAM X Original Motion Picture Soundtrack \- Side 3](https://open.spotify.com/album/7Kltco1FEmTyi2P2Z6R5qN) | 5:00 | 2022-12-24 | 2023-07-02 |
 | [Resolution](https://open.spotify.com/track/4p0yL3juQ7x95COvWGpGcw) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [Resolution](https://open.spotify.com/album/67EuyVPgcrrW1V67NFuMZz) | 5:02 | 2022-04-10 | 2023-06-30 |
+| [Resolution](https://open.spotify.com/track/6lCRVtDhfxCvKfIbHf9Y7P) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [Resolution](https://open.spotify.com/album/1MehbKDBw7rqv8UOjcP457) | 5:02 | 2022-12-24 |  |
 | [SEVENTH MOON](https://open.spotify.com/track/2fr0y91m0KzMkIpkOAOCtL) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [「マクロス7」ULTRA FIRE!! Fire Bomber Best Album](https://open.spotify.com/album/3AaxqZ3d4vCWRyJuR40yHr) | 5:24 | 2022-04-10 | 2022-07-29 |
 | [SEVENTH MOON](https://open.spotify.com/track/72n1TrXlJUz1Lq4xHnjWYd) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [SEVENTH MOON](https://open.spotify.com/album/1lEZO1OI2yk5gYC1chPCxx) | 5:24 | 2022-05-27 |  |
 | [SEVENTH MOON](https://open.spotify.com/track/3b5YhvCHQV5glWLVwd0O9A) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [MACROSS7 MUSIC SELECTION FROM GALAXY NETWORK CHART](https://open.spotify.com/album/7ihWqb997nbzJTjjVqSjdL) | 5:25 | 2022-08-30 | 2022-11-14 |

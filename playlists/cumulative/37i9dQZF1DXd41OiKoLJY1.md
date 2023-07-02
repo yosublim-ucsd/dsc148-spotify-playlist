@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Owfuck Artwork: Isu Kim
 
-1,389 songs - 3 day 10 hr 48 min
+1,390 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [DTP!](https://open.spotify.com/track/5gWslMCX1KPAYA2To5JHoN) | [$aint J](https://open.spotify.com/artist/5SOAFsbL3P4KptBCszftvR), [$aucepekt](https://open.spotify.com/artist/3cvXSs5bZ9sEOGsPhm7LFd) | [DTP!](https://open.spotify.com/album/16ehXqfUhYIaPe9NpHDxEn) | 2:42 | 2023-05-11 | 2023-05-26 |
 | [DTTAH \(Don't Try This At Home\)](https://open.spotify.com/track/356kwvPmuDbyimgfCkA08f) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p), [Aliyah](https://open.spotify.com/artist/7tGX31ddtpQ1uplK16M5yn), [Carlisle](https://open.spotify.com/artist/7yP5gq4AbyeZsscf1hX3UA) | [DTTAH \(Don't Try This At Home\)](https://open.spotify.com/album/3IzNsnK6RUl5IOYz9iEy4D) | 3:47 | 2023-06-08 | 2023-06-23 |
 | [Dynamite](https://open.spotify.com/track/6OcSpQwGPsZTE38sCgUMZ4) | [Vrainy](https://open.spotify.com/artist/3ukdkvsqpDsMh2b0Td8f4r) | [Dynamite](https://open.spotify.com/album/5pWDjdLNZ437o3kAcmSV6k) | 3:36 | 2023-06-22 |  |
+| [EARTH C\-137](https://open.spotify.com/track/05kmRqJnBBft8UmuUvUEeC) | [LuckyChan](https://open.spotify.com/artist/6wVI7vgz3JJKAHz6JJ3Vwi) | [EARTH C\-137](https://open.spotify.com/album/3VDWsEg2BLtXvgKMOeeiYu) | 3:03 | 2023-06-29 |  |
 | [Easy](https://open.spotify.com/track/0t4yopXQW1ObWhhT5FQGzZ) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Easy](https://open.spotify.com/album/65AJ7ZXJPSq18I0mTud0Cj) | 3:44 | 2023-06-08 | 2023-06-30 |
 | [EASY](https://open.spotify.com/track/34MHxygBNOVdgo1oYFj57m) | [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [EASY](https://open.spotify.com/album/4JPq6wRNRWOy5P54TKBC1F) | 4:51 | 2022-06-16 | 2022-08-27 |
 | [Easy to Want](https://open.spotify.com/track/5Gs2VVALSuyIn8Ng6lgBvx) | [AZKAL](https://open.spotify.com/artist/11bDEn3Ys2jFXV397dA4Bz) | [Easy to Want](https://open.spotify.com/album/36zoGLp8JyrylzbIZWJfYo) | 3:58 | 2023-05-25 | 2023-06-09 |

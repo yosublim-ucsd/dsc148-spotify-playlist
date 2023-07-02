@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > these equations aren&\#x27;t adding up.
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 190 songs - 11 hr 14 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 191 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 129 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 130 | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ) | 2:32 |
 | 131 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
-| 132 | [Sweet Love](https://open.spotify.com/track/5WTCHYg9G27e9e5HFKGdd1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [THE BEST SONGS of JUNKO OHASHI](https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI) | 4:49 |
+| 132 | [Sweet Love](https://open.spotify.com/track/5WTCHYg9G27e9e5HFKGdd1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [THE BEST SONGS OF JUNKO OHASHI](https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI) | 4:49 |
 | 133 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 |
 | 134 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
 | 135 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
@@ -198,5 +198,6 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 188 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
 | 189 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
 | 190 | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/album/3qLQdJWPOyV49WdLfuyVDV) | 2:13 |
+| 191 | [pacman](https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [medicated insomnia](https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z) | 1:33 |
 
-Snapshot ID: `MjkyLGFkMDE2N2JlZjk1MWFmZjlhOWE5OTNlYjQ0ZDNkNzQ1MjFlOGYxYjI=`
+Snapshot ID: `MjkzLDE4ZTg4ZDViYjg4NGZlOWY0M2VkNGU4MDhiMjI4YWM5MjNmMzgyMjU=`

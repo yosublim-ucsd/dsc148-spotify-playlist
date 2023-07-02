@@ -4,7 +4,7 @@
 
 > 
 
-461 songs - 20 hr 32 min
+462 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 | 2023-05-09 |
 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 | 2023-03-22 |  |
+| [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-06-30 |  |
 | [Fly as Hell](https://open.spotify.com/track/47qTVdjyUwVHRhc0qXKaPE) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Fly as Hell](https://open.spotify.com/album/5DvcMxy9ECEqMxcdO0zvFo) | 2:16 | 2022-11-23 | 2023-04-12 |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 |  |
 | [Free Young Thug](https://open.spotify.com/track/7LFvmOPOmBMMIb57swvhQm) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:29 | 2023-01-07 | 2023-05-09 |

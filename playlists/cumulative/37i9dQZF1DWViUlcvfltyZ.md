@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Adelasia in cover di Rock Italia questa settimana!
 
-489 songs - 1 day 3 hr 6 min
+490 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Noi, i cani, le pere](https://open.spotify.com/track/7aTvnIzo5nzneTH8fZbv1F) | [Ascy](https://open.spotify.com/artist/55FuhpZgR650FmWWqAzDAa) | [Noi, i cani, le pere](https://open.spotify.com/album/25LLFZqjmY176uqqjcDlCe) | 3:20 | 2022-11-17 | 2022-12-24 |
 | [Noia](https://open.spotify.com/track/58U67g9ULmIfNxZn5WoKzT) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Noia](https://open.spotify.com/album/0qpN3bryoImwQnTZ3SX2b4) | 3:01 | 2023-05-04 | 2023-06-16 |
 | [Non ci avranno mai](https://open.spotify.com/track/69rYYzgRz9STrOZ7aARRLY) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p), [Uolfgang](https://open.spotify.com/artist/2XltGObUBQdNTkAFIR0Av4) | [Non ci avranno mai](https://open.spotify.com/album/2uaDhcy5ty67ZrISRt3cFr) | 2:30 | 2022-10-20 | 2022-12-24 |
-| [NON LA VEDO BENE](https://open.spotify.com/track/5eMoAisITn5iWhfZcSwDlc) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/4oX0npmfoZDVSyTbvQec4h) | 3:50 | 2023-06-22 |  |
+| [NON LA VEDO BENE](https://open.spotify.com/track/5eMoAisITn5iWhfZcSwDlc) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/4oX0npmfoZDVSyTbvQec4h) | 3:50 | 2023-06-22 | 2023-07-02 |
+| [NON LA VEDO BENE](https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/2GEwcmYNfa9pjCY4J5Lg51) | 3:50 | 2023-06-29 |  |
 | [Non lasciarmi andare](https://open.spotify.com/track/0ITzCELsdsvIX4h366BcAf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Non lasciarmi andare](https://open.spotify.com/album/7kBpgxXddJr60AJF1EP5A1) | 4:02 | 2022-11-10 | 2023-02-03 |
 | [Non moriremo mai](https://open.spotify.com/track/6FNoHN4QzgqM5FVISnhplF) | [Bouganville](https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI) | [La Grande Evasione](https://open.spotify.com/album/5Rl0BkcT5nNOqijZycnzXk) | 3:23 | 2022-05-09 | 2022-05-13 |
 | [Non piangere](https://open.spotify.com/track/5SPQJsSBOJ4Y99MJRvVjAj) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT), [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [Non piangere](https://open.spotify.com/album/3T7XAGUrGzV3WINM5DknLK) | 3:33 | 2023-06-22 |  |

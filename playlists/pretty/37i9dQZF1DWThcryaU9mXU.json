@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 42645,
+  "num_followers": 42696,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZhMDE3MGY4MTIyOGQ5YWQ4NjEzMzk3NmU3ZTc1YjdkZDVmNTMx",
+  "snapshot_id": "MCw3YjcwZWI0MzNjYzY4ODViOGE0MjM3M2U2YWRiOTVmMzAxMmNiM2Ji",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 255226,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "The Chicago Way",
         "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
         }
       ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Jackie Sings The Blues",
         "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Nothing But the Blues (Live)",
-        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 430106,
-      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
-      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Nothing But the Blues (Live)",
+        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 430106,
+      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
+      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Roll and Tumble",
-        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Sometimes I Worry",
-      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Down On My Knees",
         "url": "https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 213000,
       "name": "Down On My Knees",
       "url": "https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Rare Oldies Jazz: Eddy Boyd",
-        "url": "https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6"
+        "name": "Wrong Kind of Lovin",
+        "url": "https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX"
       },
       "artists": [
         {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+          "name": "Dan Kearney",
+          "url": "https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6"
         }
       ],
-      "duration_ms": 183226,
-      "name": "Unfair Lovers",
-      "url": "https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4"
+      "duration_ms": 320133,
+      "name": "Wrong Kind of Lovin",
+      "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
     }
   ],
   "unique_name": "Just Me and the Blues",

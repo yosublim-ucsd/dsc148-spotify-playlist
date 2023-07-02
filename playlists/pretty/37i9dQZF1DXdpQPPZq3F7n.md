@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,166 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,992 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 44 | [Dhoom Dhaam](https://open.spotify.com/track/0psCx44WZkduuxQYQnabSW) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Action Jackson \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Nh9OY7iBve5ZylPf9HtXZ) | 4:36 |
 | 45 | [Khamoshiyan](https://open.spotify.com/track/6zCQF5tu7HVwU9shhKqiuF) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Khamoshiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6mJIpY6r2SzZbLN3ClYCbb) | 5:35 |
 | 46 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 |
-| 47 | [Jeena Jeena \- From "Badlapur"](https://open.spotify.com/track/4BmGQpWGWZiA17dMehRW6Y) | [regex](https://open.spotify.com/artist/30kALL3cl5FlnEBgAc2DVA), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Drizzy.exe](https://open.spotify.com/artist/6xRrQTvAOFB5Ie71lI8oj2) | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/album/5fvdrxlluGsJknrawCBpjf) | 3:48 |
+| 47 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 |
 | 48 | [Khairiyat \(Bonus Track\)](https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:30 |
 | 49 | [Daryaa](https://open.spotify.com/track/5voGwQrvBz8ZlhU05NZvw4) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Manmarziyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47zyV91BpSsanQWK8RXiCk) | 4:21 |
 | 50 | [Jag Ghoomeya](https://open.spotify.com/track/4KCbZcshgibfJSCAkg87Lv) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Sanu Ek Pal Chain](https://open.spotify.com/track/0qilTtN718ldWzIFc37zAl) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Raid](https://open.spotify.com/album/6t1dUvow3HRU7M87oHiX4Z) | 3:30 |
 | 75 | [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 |
 
-Snapshot ID: `MCxkNThkZGY0YjhlZTYyMDZhZjA1MzAyN2JkNTE0YjQxYThiYWQxMDQ4`
+Snapshot ID: `MCwyN2NkY2ZmMTU5ZjlkMGU2Yzg1NzdkNzI5M2IyZGNlZTVjZmVhOWQy`

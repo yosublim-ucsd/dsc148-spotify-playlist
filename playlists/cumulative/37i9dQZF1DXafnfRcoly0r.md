@@ -4,7 +4,7 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-88 songs - 3 hr 10 min
+89 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Let's Get a Dog](https://open.spotify.com/track/2ZFpV9jF2rISyhuet57NDz) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Let's Get a Dog](https://open.spotify.com/album/0N6mgffw51aY5ObIlWCHWL) | 3:17 | 2022-01-14 |  |
 | [Louie the Dog](https://open.spotify.com/track/1VB0NAjXv24fVwyh4VxG9D) | [Nay Nay](https://open.spotify.com/artist/71a3J9zMxFclkoV020pkHT) | [Hey Hey, Let's Play](https://open.spotify.com/album/4pYtiJ2oO4Vf8QmlsqdYia) | 1:59 | 2022-01-14 |  |
 | [My Dog](https://open.spotify.com/track/4PAuqJS80UxHg6e36wrvb8) | [Charlie Hope](https://open.spotify.com/artist/6sI7SYupv4f5Jh6RD2nJlw) | [Songs, Stories and Friends: Let's Go Play!](https://open.spotify.com/album/47YjKnwgGaKqjuOoUDpSaj) | 2:10 | 2022-01-14 |  |
-| [My Dog](https://open.spotify.com/track/0AlXGTyhJCZXH2KsKGQcct) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy to Be Here](https://open.spotify.com/album/7eBWLwnJ1ZzJyzpIl4Lcs6) | 4:31 | 2022-01-14 |  |
+| [My Dog](https://open.spotify.com/track/0AlXGTyhJCZXH2KsKGQcct) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy to Be Here](https://open.spotify.com/album/7eBWLwnJ1ZzJyzpIl4Lcs6) | 4:31 | 2022-01-14 | 2023-07-02 |
+| [My Dog](https://open.spotify.com/track/16OlMT8q54vXv5ArCvi212) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy To Be Here](https://open.spotify.com/album/5ryBpO4WnX4pjdU6rA8xdX) | 4:31 | 2022-07-25 |  |
 | [My Dog](https://open.spotify.com/track/1GAZvNFMpO7wxbFZ0eSmfz) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [My Dog](https://open.spotify.com/album/6qKoCtBwejKKqRr5GJF5xM) | 2:13 | 2022-01-14 |  |
 | [My Dog Has Fleas](https://open.spotify.com/track/3ivL4fpSKSNppaEk4YCdqa) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [This is Rhythm](https://open.spotify.com/album/0zMFNLEu8O1D2IaSntvYBj) | 1:01 | 2022-01-14 |  |
 | [My Dog Romeo](https://open.spotify.com/track/0aqNJErGSLOGazYZsmWqlf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [More Family Time \(Deluxe\)](https://open.spotify.com/album/6KK9YPnvyF328BIj9mdqJq) | 2:48 | 2022-07-25 | 2022-11-14 |

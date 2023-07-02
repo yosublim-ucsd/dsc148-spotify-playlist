@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Maina Doe\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,291 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,344 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 |
 | 100 | [Bright](https://open.spotify.com/track/0oT1nQ9nyOhwr7bkoTcu6L) | [Marmalade](https://open.spotify.com/artist/7h4USmNx57jSrYkO8sRgLg) | [Bright](https://open.spotify.com/album/3yyb0XXgUCoXMUr8V4MlLS) | 2:46 |
 
-Snapshot ID: `MCw0MWFkMDAxMTk2ZTBmZTRiNjkyMTdhMmUwMTBmZDlkYjhkYjExM2Nj`
+Snapshot ID: `MCwwYjI4ZDJlMmJmNGVhN2JlYWJiMzM1ZTg4OWY3NTUxM2QyY2IzNjhj`

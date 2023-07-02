@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Filth Is Eternal
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: The Armed
 
-441 songs - 1 day 4 hr 20 min
+447 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 | 2022-10-07 |  |
 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-02-24 |  |
 | [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-13 |  |
+| [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 | 2023-06-30 |  |
 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-23 |  |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 |  |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 |  |
@@ -306,7 +307,9 @@
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-18 |  |
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-05-20 |  |
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 |  |
+| [Rebirth](https://open.spotify.com/track/6H7gfGV4wZuQDdjzh5yA4j) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Summer's Beginning](https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm) | 4:09 | 2023-06-30 |  |
 | [Reckoning](https://open.spotify.com/track/4xcfmHe5mRVzPA0tdKJltA) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Reckoning](https://open.spotify.com/album/5SfCfODkHePAgQaLMgnmWs) | 7:52 | 2023-02-24 |  |
+| [Rectify](https://open.spotify.com/track/7p8H7I0yG05MWgtgHFSzpa) | [Magnitude](https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ) | [Rectify](https://open.spotify.com/album/2zRWYRjljmAV7OAUoaWhZs) | 2:24 | 2023-06-30 |  |
 | [Red Alert \(Boss Metal Zone\) \- Radio Edit](https://open.spotify.com/track/6FXYoyFDm9zyQgB9joMKzo) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Red Alert \(Boss Metal Zone\) \[Radio Edit\]](https://open.spotify.com/album/3GwYm0B8pulL0laUMZftc9) | 2:25 | 2022-04-08 |  |
 | [Reek of Burning Freedom](https://open.spotify.com/track/6i6eisMKB7qL9RdveoJTlu) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Reek of Burning Freedom](https://open.spotify.com/album/56CIHVqbyY0CX1GHyD0Mp1) | 4:14 | 2022-08-19 |  |
 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 | 2022-07-22 |  |
@@ -319,6 +322,7 @@
 | [Rubedo](https://open.spotify.com/track/3I2N7BXukhilSgt3THdbnl) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [Rubedo](https://open.spotify.com/album/2qo2oHqL7irjoKL6kQokDC) | 6:41 | 2022-02-18 |  |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 |  |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 |  |
+| [Scorpion](https://open.spotify.com/track/2JxlxDssmAHyRigZik38Fy) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Scorpion](https://open.spotify.com/album/1JxF9qHTv5atiG43b7xkYe) | 3:34 | 2023-06-30 |  |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 |  |
 | [Self Check\-Out](https://open.spotify.com/track/07NtmrCdDHYhAM57sfRKo2) | [American Nightmare](https://open.spotify.com/artist/5FBzEnwXCKl3GoZCeXGMNy) | [Self Check\-Out](https://open.spotify.com/album/6kbNUX5Xr2pr2FDNFAyKMI) | 1:13 | 2023-01-27 |  |
 | [Selfish Hearts](https://open.spotify.com/track/0smmYlU6Y8aYAxMxoF13gC) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Selfish Hearts](https://open.spotify.com/album/3O1wud1esviXgsvwkzBK5p) | 2:50 | 2022-05-27 |  |
@@ -332,12 +336,14 @@
 | [Siren Song](https://open.spotify.com/track/0HCHJZ0inruYnyCDC0PtPN) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Siren Song](https://open.spotify.com/album/13eHcKjVc3pMv0LeMPZW03) | 3:33 | 2023-06-16 |  |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
 | [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 |  |
+| [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-06-30 |  |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 |  |
 | [Spectral Forge](https://open.spotify.com/track/0nf5AK5juSdYHzeShAHKT5) | [Spinebreaker](https://open.spotify.com/artist/7riHR2ykMbIJW94DD69wAq) | [Spectral Forge](https://open.spotify.com/album/3KCmt7Caefq1d6KncnG4ex) | 4:44 | 2023-04-07 |  |
 | [Spirit Liberation](https://open.spotify.com/track/4fnNlOmWOoLJtwETdf38bC) | [Mutually Assured Destruction](https://open.spotify.com/artist/674hXtod8wUNvAUKUvElhf), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Spirit Liberation](https://open.spotify.com/album/0QVaj5KVMxrrDg4KAnCWBK) | 2:30 | 2022-04-15 |  |
 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 |  |
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-05-05 |  |
+| [Sport of Form](https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Sport of Form](https://open.spotify.com/album/1T4LPltqYeJoJrr88P0NLq) | 3:26 | 2023-06-30 |  |
 | [Starve](https://open.spotify.com/track/1tV2sOs3uIJrEdvpfblAqJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Starve](https://open.spotify.com/album/1NFAlXfwkDbedNfC2rek74) | 3:41 | 2023-03-31 |  |
 | [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 |  |
 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-10 |  |

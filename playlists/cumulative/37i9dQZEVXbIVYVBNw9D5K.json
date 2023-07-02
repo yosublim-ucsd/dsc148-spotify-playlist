@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
@@ -5176,6 +5176,28 @@
       "duration_ms": 302769,
       "name": "Glock 2.0",
       "url": "https://open.spotify.com/track/7erewxPiw8aRERq1sQunA4"
+    },
+    {
+      "album": {
+        "name": "GMER",
+        "url": "https://open.spotify.com/album/04wjsDb4okF2gKvPmSACvm"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112105,
+      "name": "GMER",
+      "url": "https://open.spotify.com/track/7fHqY4uBehhGc4e5oapLme"
     },
     {
       "album": {

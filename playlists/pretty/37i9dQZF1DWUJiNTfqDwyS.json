@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 278705,
+  "num_followers": 279064,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTFhYmJlNDRmMzI5YmQxYzRkMDgzZjFkODYxY2RmZjEzMTM0YWE5",
+  "snapshot_id": "MCw3Zjg1NTk3M2RmOGI4NDhmNTk5NDcyOTlhYzdmMmU2NTFhZGZjMzkx",
   "tracks": [
     {
       "added_at": "2023-06-22 11:25:49",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 232548,
-      "name": "When Doves Cry - Radio Edit",
-      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "Skeletons in the Closet (Japan Edition)",
         "url": "https://open.spotify.com/album/24kO281Ejj7HwIJKibKwpd"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 200173,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/06wKZYu5dpve2WRS5O34MI"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 232548,
+      "name": "When Doves Cry - Radio Edit",
+      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Obsolete (Special Edition)",
-        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Cars - Remix",
-      "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "Greatest Lovesongs Vol. 666",
         "url": "https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+        "name": "Obsolete (Special Edition)",
+        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 211973,
-      "name": "Message in a Bottle",
-      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
+      "duration_ms": 218333,
+      "name": "Cars - Remix",
+      "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -699,6 +683,22 @@
       "duration_ms": 246857,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Chamber Music",
-        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Shock the Monkey",
-      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Shock the Monkey",
+      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
     },
     {
       "added_at": "2023-06-22 11:25:49",

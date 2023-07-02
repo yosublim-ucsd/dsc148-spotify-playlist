@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 205823,
       "name": "Latin Boogie",
       "url": "https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn"
@@ -1312,6 +1312,28 @@
       "duration_ms": 202080,
       "name": "Ritmo Natural",
       "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+    },
+    {
+      "album": {
+        "name": "Ritmo y Poes\u00eda",
+        "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
+      },
+      "artists": [
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        },
+        {
+          "name": "iQlover",
+          "url": "https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218580,
+      "name": "Ritmo y Poes\u00eda",
+      "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
     },
     {
       "album": {

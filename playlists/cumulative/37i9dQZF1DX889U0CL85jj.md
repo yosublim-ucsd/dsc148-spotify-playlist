@@ -4,7 +4,7 @@
 
 > Just chill.
 
-527 songs - 1 day 6 hr 18 min
+528 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,8 @@
 | [Supalonely \(Lownely\)](https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Supalonely \(Lownely\)](https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E) | 3:19 | 2020-05-08 | 2022-08-20 |
 | [Supermoon](https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Supermoon](https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0) | 4:12 | 2023-03-31 | 2023-05-21 |
 | [Supermoon](https://open.spotify.com/track/0jydPpKYApxg7ZkUfYARVH) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 4:12 | 2023-04-28 |  |
-| [supernatural thing](https://open.spotify.com/track/0Jp7KkwghEAMIWFGsyDv4A) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [supernatural thing](https://open.spotify.com/album/3VTTw5I1Fkfyn1xFlldFBP) | 3:10 | 2023-05-05 |  |
+| [supernatural thing](https://open.spotify.com/track/0Jp7KkwghEAMIWFGsyDv4A) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [supernatural thing](https://open.spotify.com/album/3VTTw5I1Fkfyn1xFlldFBP) | 3:10 | 2023-05-05 | 2023-07-02 |
+| [supernatural thing](https://open.spotify.com/track/60gyTbwT5xl0gMRu5B82eA) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 3:10 | 2023-05-12 |  |
 | [Surf's Up, I'm Drowning](https://open.spotify.com/track/3hsBnnID20GgUjgY2nqkue) | [Jesse Aicher](https://open.spotify.com/artist/4fpOVrO6DmQdxQJSqiGIqQ), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [Surf's Up, I'm Drowning](https://open.spotify.com/album/0SxR5giaDLkKsmFLYTSXgP) | 2:45 | 2020-02-28 | 2022-01-22 |
 | [Table for Two](https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa) | 3:22 | 2022-04-29 | 2022-10-14 |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2022-08-19 |  |

@@ -6525,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "EARTH C-137",
+        "url": "https://open.spotify.com/album/3VDWsEg2BLtXvgKMOeeiYu"
+      },
+      "artists": [
+        {
+          "name": "LuckyChan",
+          "url": "https://open.spotify.com/artist/6wVI7vgz3JJKAHz6JJ3Vwi"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "EARTH C-137",
+      "url": "https://open.spotify.com/track/05kmRqJnBBft8UmuUvUEeC"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/65AJ7ZXJPSq18I0mTud0Cj"
       },

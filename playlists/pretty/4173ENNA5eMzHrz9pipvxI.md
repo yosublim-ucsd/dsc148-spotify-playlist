@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Saffron Stone &amp; MISS DRE
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,327 likes - 36 songs - 1 hr 50 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,334 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 12 | [Who Are You](https://open.spotify.com/track/3jMDNYL3ZhiBWIOIIVqbf1) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Who Are You](https://open.spotify.com/album/0be51mT6qzL6TYtXZMXVMe) | 4:03 |
 | 13 | [Safe & Sound](https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Safe & Sound](https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z) | 2:42 |
 | 14 | [1995](https://open.spotify.com/track/17w2wuWpKr9iTr6cH2AFlT) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [1995](https://open.spotify.com/album/0aFwFwf7V1cXqefElALhJu) | 3:04 |
-| 15 | [Bring The Fire](https://open.spotify.com/track/1sNsnt3mx7yPHDrKcV2OYh) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Bring The Fire](https://open.spotify.com/album/5H4L4Ohb5AxBdAidVFC1MP) | 2:31 |
+| 15 | [Bring The Fire](https://open.spotify.com/track/1sNsnt3mx7yPHDrKcV2OYh) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Bring The Fire](https://open.spotify.com/album/5H4L4Ohb5AxBdAidVFC1MP) | 2:37 |
 | 16 | [Ricky Bobby](https://open.spotify.com/track/7jXnm5I7MaFuxj950O9mef) | [Vinny Vibe](https://open.spotify.com/artist/1Wk9TyI8QKcivUVkgcbjyo), [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Ricky Bobby](https://open.spotify.com/album/4JygUUCoqcOHC0ElNHqEFy) | 2:39 |
 | 17 | [Just Dancing](https://open.spotify.com/track/54NKZVHQAqofe3Dase2P0j) | [Driver Of The Future](https://open.spotify.com/artist/3y5uzjGTjtD3lMW6v25tCM) | [Just Dancing](https://open.spotify.com/album/6lgjDEfHY0yWS4PqjarG4t) | 4:00 |
 | 18 | [Drunk](https://open.spotify.com/track/13TklxzA1yxtGHY5LDWWLx) | [G DOM](https://open.spotify.com/artist/4FkGuVMlxKYBXdjf62EB8G) | [Drunk](https://open.spotify.com/album/12JmsnVygqZZg898SZVeQj) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,571 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,688 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
 | 32 | [EXquecEU \- Ao Vivo](https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo\)](https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX) | 3:05 |
 | 33 | [Namoro De Merd4 \- Ao Vivo](https://open.spotify.com/track/7AziDpL8ZyoLZbYbQ4xHNo) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:41 |
-| 34 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
-| 35 | [Mulher Foda](https://open.spotify.com/track/2uZchTQjYyHRD9Z1boEOzI) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Seresta da Klessinha \(2023\)](https://open.spotify.com/album/4tDnquhRaj7xJ9wDRz4kDN) | 2:47 |
-| 36 | [Foi Tudo Culpa do Amor \- Ao Vivo](https://open.spotify.com/track/3kFMkI7bAGwRQrgIA7hODi) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Priscila Em Cena, Pt.3 \(Ao Vivo\)](https://open.spotify.com/album/14kvQIhkbIaBvhcv4gRWuq) | 2:42 |
-| 37 | [Banho De Água Fria \- Ao Vivo](https://open.spotify.com/track/6CxdFvd4nYkE84XWIFOYqz) | [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [De Pé No Chão EP1 \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4b9UmzDaH8sEiUTDsnzAK2) | 3:02 |
+| 34 | [Mulher Foda](https://open.spotify.com/track/2uZchTQjYyHRD9Z1boEOzI) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Seresta da Klessinha \(2023\)](https://open.spotify.com/album/4tDnquhRaj7xJ9wDRz4kDN) | 2:47 |
+| 35 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
+| 36 | [Banho De Água Fria \- Ao Vivo](https://open.spotify.com/track/6CxdFvd4nYkE84XWIFOYqz) | [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [De Pé No Chão EP1 \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4b9UmzDaH8sEiUTDsnzAK2) | 3:02 |
+| 37 | [Foi Tudo Culpa do Amor \- Ao Vivo](https://open.spotify.com/track/3kFMkI7bAGwRQrgIA7hODi) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Priscila Em Cena, Pt.3 \(Ao Vivo\)](https://open.spotify.com/album/14kvQIhkbIaBvhcv4gRWuq) | 2:42 |
 | 38 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
 | 39 | [Fio de cabelo](https://open.spotify.com/track/02WgpFP2084l3r6HoH1y7h) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Fio de cabelo](https://open.spotify.com/album/5B267dbtdjO40vjv4Nwfdm) | 2:56 |
 | 40 | [Mulher Feia](https://open.spotify.com/track/7h7PS0rDRau7mIZBAY6jSc) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Mulher Feia](https://open.spotify.com/album/5kMX8zHva5DbmG0KWMuiKx) | 3:12 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 42 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
 | 43 | [Basta](https://open.spotify.com/track/3gs0Pn6FKhwAfsf4fOYkGY) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9) | [Basta](https://open.spotify.com/album/5dISg5YCW7cDiEosyLk6Fv) | 2:21 |
 | 44 | [Aguenta o Sofrimento](https://open.spotify.com/track/1fGQYggHxscWV3LZDdoOcZ) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Aguenta o Sofrimento](https://open.spotify.com/album/6UR3uayIt7lSK0o1hAP9kE) | 2:17 |
-| 45 | [Mentir Pra Que \- Ao Vivo](https://open.spotify.com/track/0HTvCeTBhY5TJqupRLm7Ef) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 2:41 |
-| 46 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
+| 45 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
+| 46 | [Mentir Pra Que \- Ao Vivo](https://open.spotify.com/track/0HTvCeTBhY5TJqupRLm7Ef) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 2:41 |
 | 47 | [Meu Vazio \- Ao Vivo](https://open.spotify.com/track/7eSARTuHtifSgMlxPMJhfG) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3) | [Todas As Letras \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/5z9tSlU0kfkqLtN3t0VT81) | 2:29 |
 | 48 | [Pior Amigo \- Ao Vivo](https://open.spotify.com/track/4NpiCwNv59ikKyLVZjJ0um) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Sem Tê Dó \(Ao Vivo\)](https://open.spotify.com/album/4K4quM3riqdCBMcaUb3eOs) | 2:57 |
 | 49 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
 | 50 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 
-Snapshot ID: `MCwwMjE4MDQzZTJkMDJhNGNlYTRjMjAyYTMyOWI4NGMwYjhkNTFkYjE1`
+Snapshot ID: `MCxhNzM5ZTU5ZTM0YmU5NDlkYzgwNjJjODJhYThlY2Q1NDU0MjY3MGU1`

@@ -4,7 +4,7 @@
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-215 songs - 14 hr 28 min
+216 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ) | 4:22 | 2022-03-28 |  |
 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/3CVmxY7u7woQmibPrMy8Nw) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/08CiaMsdsokkeJ3lhJ15sB) | 4:22 | 2022-03-28 | 2022-07-29 |
 | [MORE & MORE](https://open.spotify.com/track/7BVI8rAPOBjCxSBPrVYrZa) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of TWICE](https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr) | 3:53 | 2022-03-28 | 2022-07-27 |
-| [More Than Words \- Instrumental](https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF) | 3:15 | 2022-03-28 |  |
+| [More Than Words \- Instrumental](https://open.spotify.com/track/0Vf8C6i7OSDzpLCzHycRkK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/3wqQxZqOdOs2pNpyvBUQwD) | 3:15 | 2022-11-02 |  |
+| [More Than Words \- Instrumental](https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF) | 3:15 | 2022-03-28 | 2023-07-02 |
 | [MR \- Piano Version](https://open.spotify.com/track/09j03gGhfEEN1DKmokreoT) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 4:54 | 2022-03-28 |  |
 | [My Day Is Full Of You \- Instrumental](https://open.spotify.com/track/0w1ZwPdBO4O9DYbH0IrYcE) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-03-28 | 2022-07-29 |
 | [My Day Is Full Of You \- Instrumental](https://open.spotify.com/track/5CWn4CsR7PgVnVyReNvBlM) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 | 2022-03-28 |  |

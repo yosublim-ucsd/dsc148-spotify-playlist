@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sen Morimoto Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,822 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,847 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Sebat](https://open.spotify.com/track/2FA4IGSPKrF8y8j7HJmaNJ) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Ethio Meditations / Drama Al Dente](https://open.spotify.com/album/3aJ6WC88KrPsCyP4xfIRQq) | 2:02 |
 | 75 | [Virginia](https://open.spotify.com/track/5lgoMrd7B6pusfMlwzGcYO) | [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [Move Your feet](https://open.spotify.com/album/1mn5we144aTJIGloiqqHom) | 5:29 |
 
-Snapshot ID: `MCwwODZmMDhkMWRiYTEyNDY5OTllYTkxODIxYzg5NzgwMTQwYmE0NDBm`
+Snapshot ID: `MCxhOWE3ZDc3OTAyZDNjOTFlMzg5MTJjYmY1NjA3OTUwZjAyMDdkNTU4`

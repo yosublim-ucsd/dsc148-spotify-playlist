@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 9191,
+  "num_followers": 9194,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGMxMjdjNzg5MTlkMmY1ZDAzMmI2ZTNiMTE1MDUyYTI4NzdjZTk0",
+  "snapshot_id": "MCw4MjQxZWZhNDZlNGFkNWViMzY0ODFjMWFlNThiZDU3N2MwOGMwMTQy",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 224746,
-      "name": "Tower Of Song",
-      "url": "https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Hymns of the 49th Parallel",
         "url": "https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 268733,
       "name": "Bird on a Wire",
       "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 224746,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -339,38 +339,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Thompson",
-          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
-        }
-      ],
-      "duration_ms": 409333,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Be for Real",
-      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Granada",
         "url": "https://open.spotify.com/album/27DidY2aLP9MtEcQ1EWA6Z"
       },
@@ -391,18 +359,34 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Be for Real",
+      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
       "artists": [
         {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+          "name": "Teddy Thompson",
+          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
         }
       ],
-      "duration_ms": 284973,
-      "name": "The Traitor",
-      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+      "duration_ms": 409333,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -435,6 +419,22 @@
       "duration_ms": 183213,
       "name": "Hey, That's No Way to Say Goodbye (with Chilly Gonzales on Piano) - Piano by Chilly Gonzales in Paris",
       "url": "https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 284973,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Songs I Love Vol.1",
-        "url": "https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF"
+        "name": "Ron Sexsmith",
+        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
       },
       "artists": [
         {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
         }
       ],
-      "duration_ms": 180106,
-      "name": "Who By Fire",
-      "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
+      "duration_ms": 189840,
+      "name": "Heart With No Companion",
+      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -607,18 +607,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Ron Sexsmith",
-        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
+        "name": "Songs I Love Vol.1",
+        "url": "https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF"
       },
       "artists": [
         {
-          "name": "Ron Sexsmith",
-          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Heart With No Companion",
-      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
+      "duration_ms": 180106,
+      "name": "Who By Fire",
+      "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
     },
     {
       "added_at": "2018-12-06 19:29:22",

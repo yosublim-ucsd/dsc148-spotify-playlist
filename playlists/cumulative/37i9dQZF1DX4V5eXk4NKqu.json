@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202586,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
+    },
+    {
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
       },
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 224580,
       "name": "Vas",
       "url": "https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c"

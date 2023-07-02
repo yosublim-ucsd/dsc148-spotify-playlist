@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 6467,
+  "num_followers": 6482,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRhYzkxMzQxZDI3OWViYmJkMzlkZDEwNDc2ZWI3ZDE0OWEzNTcy",
+  "snapshot_id": "MCw5MWNhNzBmNDk4MDMxYzg1OTNhY2JmZjAwZjVmYWUwZDAzZThjY2Nm",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Heavy Oceans",
-      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
+      "duration_ms": 181067,
+      "name": "Soft Waves",
+      "url": "https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
         }
       ],
-      "duration_ms": 181067,
-      "name": "Soft Waves",
-      "url": "https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp"
+      "duration_ms": 156000,
+      "name": "Heavy Oceans",
+      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
+      },
+      "artists": [
+        {
+          "name": "Exotic Wave Sounds",
+          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Powerful Waves",
+      "url": "https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
         "name": "Luscious Waves",
         "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Ocean Waves Volume 2",
-        "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
-      },
-      "artists": [
-        {
-          "name": "Surrounded by Sound",
-          "url": "https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i"
-        }
-      ],
-      "duration_ms": 158830,
-      "name": "Windy Beach 3",
-      "url": "https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Thunderous Ocean",
         "url": "https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX"
       },
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Part One",
-        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
+        "name": "Ocean Waves Volume 2",
+        "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
       },
       "artists": [
         {
-          "name": "Exotic Wave Sounds",
-          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
+          "name": "Surrounded by Sound",
+          "url": "https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Powerful Waves",
-      "url": "https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv"
+      "duration_ms": 158830,
+      "name": "Windy Beach 3",
+      "url": "https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U"
     }
   ],
   "unique_name": "White Waves",

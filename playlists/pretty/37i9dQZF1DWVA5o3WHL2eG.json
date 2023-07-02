@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 27264,
+  "num_followers": 27265,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy",
+  "snapshot_id": "MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "BTS",
-        "url": "https://open.spotify.com/album/3iL80PElX9RqZdXZ5kui1W"
-      },
-      "artists": [
-        {
-          "name": "Verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 128813,
-      "name": "BTS",
-      "url": "https://open.spotify.com/track/0PeWtgdkQU1cRhbKuxL0sq"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 140597,
       "name": "Chardonnay",
       "url": "https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "BTS",
+        "url": "https://open.spotify.com/album/3iL80PElX9RqZdXZ5kui1W"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 128813,
+      "name": "BTS",
+      "url": "https://open.spotify.com/track/0PeWtgdkQU1cRhbKuxL0sq"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 158032,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "FEMINEM",
         "url": "https://open.spotify.com/album/6enWLI4qjGpJek4Q2HBtcN"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 222631,
       "name": "FEMINEM",
       "url": "https://open.spotify.com/track/1CFMvvYaeRTM3EjnBgNUUj"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 158032,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Al\u00f3",
-        "url": "https://open.spotify.com/album/6kO0ndhbVxaSo9CvvSGVr7"
-      },
-      "artists": [
-        {
-          "name": "Terry Joe",
-          "url": "https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Al\u00f3",
-      "url": "https://open.spotify.com/track/5X05GodF8j6g6Zx35bQP0B"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "So bin ich halt / blablabla",
         "url": "https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 130720,
       "name": "So bin ich halt / blablabla",
       "url": "https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Al\u00f3",
+        "url": "https://open.spotify.com/album/6kO0ndhbVxaSo9CvvSGVr7"
+      },
+      "artists": [
+        {
+          "name": "Terry Joe",
+          "url": "https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/5X05GodF8j6g6Zx35bQP0B"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Lieber f\u00fcr mich",
-        "url": "https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV"
-      },
-      "artists": [
-        {
-          "name": "ela.",
-          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Lieber f\u00fcr mich",
-      "url": "https://open.spotify.com/track/671auplSl17WIJSefMXsjN"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "SOAMI",
         "url": "https://open.spotify.com/album/0mTbr4UVWZVZ06SldpT0ZL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 205032,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/1Fj3PeeNmoLHaYLJcDTO5d"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Lieber f\u00fcr mich",
+        "url": "https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV"
+      },
+      "artists": [
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Lieber f\u00fcr mich",
+      "url": "https://open.spotify.com/track/671auplSl17WIJSefMXsjN"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "lovin myself",
-        "url": "https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 167188,
-      "name": "lovin myself",
-      "url": "https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Risiko",
         "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 155942,
       "name": "Killer",
       "url": "https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "lovin myself",
+        "url": "https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun"
+      },
+      "artists": [
+        {
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
+        }
+      ],
+      "duration_ms": 167188,
+      "name": "lovin myself",
+      "url": "https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i"
     },
     {
       "added_at": "2023-06-06 22:00:00",

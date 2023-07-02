@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Rodrigo \(pictured\), D\-Block Europe, Holly Humberstone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,257 likes - 145 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,301 likes - 145 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 110 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 |
 | 111 | [Green Grass](https://open.spotify.com/track/5XHLHL747QGGemajjt2fIu) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Green Grass](https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o) | 3:45 |
 | 112 | [Woman](https://open.spotify.com/track/3IdSC8Pl2cX2bHQsyAIl7L) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Woman](https://open.spotify.com/album/7zKk3dvJ6Y82aTvRW3Qerw) | 3:21 |
-| 113 | [Hennesy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 |
+| 113 | [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 |
 | 114 | [Ride 2 Nowhere](https://open.spotify.com/track/4oliRMhHzwBDGV4Vb6KuPo) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [Ride 2 Nowhere](https://open.spotify.com/album/2xgF4z1m6rpzNyrI8WHZVI) | 3:08 |
 | 115 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:14 |
 | 116 | [Dance \(With That Groove\)](https://open.spotify.com/track/1YWu1NVT1coA5QUPay0EpX) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG) | [Dance \(With That Groove\)](https://open.spotify.com/album/2ZPIZ0TCDluBdm8KN5pTGZ) | 2:23 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Have You Seen This Queen](https://open.spotify.com/track/0iYMXQSe4SsPqIcnM7hVYl) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd), [Roella Oloro](https://open.spotify.com/artist/3W4gAVUv2yhldRba1vE8Hu) | [Have You Seen This Queen](https://open.spotify.com/album/6l7P1b0pigacSs533pF5Zr) | 5:42 |
 | 145 | [Yellow Square](https://open.spotify.com/track/2AZJICwKB7MhdD6y99Mt8J) | [Elijah](https://open.spotify.com/artist/09ub5MJMcOlgG7WFbszSuf), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0), [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ) | [Make The Ting](https://open.spotify.com/album/1SLwF9yhLUHwsJDuG9Tmar) | 2:24 |
 
-Snapshot ID: `MCw0NDM1YjEwODkxZjBiYmViNmYyOTkzZjQ5OTU1OGE0YzY3YzNiZGZk`
+Snapshot ID: `MCxkMDk5YTdhNjZhMjJhYTdlZmFkNDllNGIxMjI3MTMyNDFlYmQ2MWE3`

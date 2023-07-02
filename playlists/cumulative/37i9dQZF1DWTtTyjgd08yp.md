@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-206 songs - 13 hr 58 min
+207 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 | 2021-10-08 |  |
 | [Tonight](https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:26 | 2023-03-03 |  |
 | [Too In Love To Die](https://open.spotify.com/track/1Yk97MXlFwbEGkXhGzeLbE) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 3:35 | 2023-03-03 |  |
-| [too young to die](https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [too young to die](https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU) | 4:34 | 2023-06-23 |  |
+| [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 | 2023-06-23 |  |
+| [too young to die](https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [too young to die](https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU) | 4:34 | 2023-06-23 | 2023-07-02 |
 | [Toronto](https://open.spotify.com/track/3NS9B2TU1iFAMNjMBJNGSX) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/5tUZyUSA53FpV0BGsAlDIT) | 3:19 | 2021-10-08 | 2022-11-14 |
 | [Toronto](https://open.spotify.com/track/5UdYQovSJqzvExosGyX2Ss) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Dissolve](https://open.spotify.com/album/343TgZDe4XHXNBNO1RWiT6) | 3:19 | 2021-10-08 |  |
 | [Toronto](https://open.spotify.com/track/1MsL6JYYuh9CCxD53zbrfV) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/0Lc5iXOUviqJeRMtCAAlbK) | 3:20 | 2021-10-08 | 2022-07-29 |

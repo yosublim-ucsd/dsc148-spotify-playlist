@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
+    },
+    {
+      "album": {
         "name": "Pandora's Box",
         "url": "https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6"
       },
@@ -9756,7 +9774,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 332133,
       "name": "The a Team - Live at the Tabernacle",
       "url": "https://open.spotify.com/track/0qSSbcZ2bvjJuB3Wy5lzK5"

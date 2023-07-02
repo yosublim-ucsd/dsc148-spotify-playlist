@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Mother Mother, Olivia Rodrigo, Shakira & Manuel Turizo and BABY GRAVY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,450 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,484 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Fake Friends \(Iró Òre\)](https://open.spotify.com/track/38taP6j04eJMJu6dM3feot) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fake Friends \(Iró Òre\)](https://open.spotify.com/album/2YdB6Hh9Xq555Bhyy7u5Kg) | 2:59 |
 | 100 | [We Are African](https://open.spotify.com/track/1i6D4eYlOpLpeHGLW0R5bN) | [Paso Doble](https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp), [Kamau Abayomi](https://open.spotify.com/artist/4wHtwVZQyHHHb8FmCegyEf) | [We Are African](https://open.spotify.com/album/53SCirdQVRCaivnxgO2w3m) | 7:29 |
 
-Snapshot ID: `MCwwYmUxNzQxOTUxMmRkNjhiZmQzYzhhNGE3MmEzODkwMTBlZDE3Zjkw`
+Snapshot ID: `MCxjZmE0ZjM1ZjRlMDQyY2E4ZDdiZjBhOTVjYWZkYmJmZmEzM2I5OWY5`

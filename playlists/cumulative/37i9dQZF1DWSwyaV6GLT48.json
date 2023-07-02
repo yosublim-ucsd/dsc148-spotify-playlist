@@ -850,10 +850,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 148440,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
+    },
+    {
+      "album": {
+        "name": "Jubel - Radio Edit",
+        "url": "https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ"
+      },
+      "artists": [
+        {
+          "name": "Shawkie",
+          "url": "https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy"
+        },
+        {
+          "name": "3ario",
+          "url": "https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148352,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en"
     },
     {
       "album": {

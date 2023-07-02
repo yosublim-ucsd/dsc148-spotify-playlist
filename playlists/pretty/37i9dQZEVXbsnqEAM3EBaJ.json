@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMzQ5NjAsMDAwMDAwMDBhYjczMTliNmNlNWQ0Yjc3MDdkZmIwNDc3ODJhYmI1OA==",
+  "snapshot_id": "MjgxMzQ5NjAsMDAwMDAwMDA1M2UyY2ZkZDY3NzE1OThkNDY3MThmZWM2YzgxNTViNQ==",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 247181,
       "name": "People Around Me",
       "url": "https://open.spotify.com/track/2HA6CdEuci6hDvzHXEmjY0"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Nuit Noire (Live)",
+        "url": "https://open.spotify.com/album/7xzLCBOOea4LfGiO1KA0hj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 328977,
+      "name": "N.I.B. - Live",
+      "url": "https://open.spotify.com/track/0bEe7YyeotUdveMd6g5fCW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -947,54 +963,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "I Inside the Old I Dying",
-        "url": "https://open.spotify.com/album/46ItYQNVmibRsjkzXIDKFs"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "I Inside the Old I Dying",
-      "url": "https://open.spotify.com/track/5l1fhxvwZBIlMqY1ZsbnNd"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Unleashed (Live At The AFAS Live)",
-        "url": "https://open.spotify.com/album/3qVoBrfrnckLER6pzeVlfk"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 361934,
-      "name": "Unleashed - Live At The AFAS Live",
-      "url": "https://open.spotify.com/track/2gaiyrkOh1h6ZGLgQzHdEC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Dawn Of The Dolls (2023 Re-Mastered)",
-        "url": "https://open.spotify.com/album/5WdHcTcTULdKFBHP2y988h"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 311362,
-      "name": "Jet Boy - 2023 Re-Mastered [Studio Demo]",
-      "url": "https://open.spotify.com/track/0rbnkpMM9srEXScCqYsLBf"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "SIX",
         "url": "https://open.spotify.com/album/481waoZXsOJUES7KpHOF5G"
       },
@@ -1027,114 +995,6 @@
       "duration_ms": 164825,
       "name": "La Hora del T\u00e9",
       "url": "https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Baby, You Wouldn't Last A Minute On The Creek",
-        "url": "https://open.spotify.com/album/1YWCnoSKXxmCg1s76sJhYO"
-      },
-      "artists": [
-        {
-          "name": "Craig Owens",
-          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
-        },
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 266534,
-      "name": "Baby, You Wouldn't Last A Minute On The Creek",
-      "url": "https://open.spotify.com/track/3IDwBKrMKtXg3nMhxQZPLL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "El Sur Es Hardcore (La Venganza de los Mc's, Pt. 2)",
-        "url": "https://open.spotify.com/album/5W2QrG6W9QMYig4chAyMbU"
-      },
-      "artists": [
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        },
-        {
-          "name": "El Bruto Chr",
-          "url": "https://open.spotify.com/artist/6DclygN22D15ndBly02ejl"
-        },
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Estrellas del Porno",
-          "url": "https://open.spotify.com/artist/71Wh74AX7GvBUWVf7qJUux"
-        },
-        {
-          "name": "Jonas Sanche",
-          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        },
-        {
-          "name": "Borderline",
-          "url": "https://open.spotify.com/artist/64wBsAEPuXAjuZilVsvar3"
-        },
-        {
-          "name": "Liricistas",
-          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
-        },
-        {
-          "name": "De Killtros",
-          "url": "https://open.spotify.com/artist/0dUHLXev6YWtI22rtU4TSV"
-        },
-        {
-          "name": "Big Seiko",
-          "url": "https://open.spotify.com/artist/1czm96pj8RpBGKN0BGIpst"
-        },
-        {
-          "name": "Promaabro",
-          "url": "https://open.spotify.com/artist/2uVpjcYgFjZ5egVdf8LEL1"
-        },
-        {
-          "name": "Excelencia Prehispana",
-          "url": "https://open.spotify.com/artist/0l35vP0Pl9zkdVYVoYasmQ"
-        },
-        {
-          "name": "Jotaose Lagos",
-          "url": "https://open.spotify.com/artist/04jF7S23aoFQs6rpjK4a8v"
-        },
-        {
-          "name": "Sadika",
-          "url": "https://open.spotify.com/artist/1A9IMolQsjvQpR5FrmimHn"
-        },
-        {
-          "name": "Mente Sabia Cr\u00fa",
-          "url": "https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ"
-        }
-      ],
-      "duration_ms": 396069,
-      "name": "El Sur Es Hardcore (La Venganza de los Mc's, Pt. 2)",
-      "url": "https://open.spotify.com/track/70eTVy4QG1GKENmNqrRYJo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1255,214 +1115,6 @@
       "duration_ms": 613253,
       "name": "Hard Times / Love Action - Single Version / Remastered 2021",
       "url": "https://open.spotify.com/track/551Mr9INSzPxxTJsM7NmUZ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 167993,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Live Evil (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2eWjV3Vrs1BYJyJtvOdRhy"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 275687,
-      "name": "Neon Knights (Live in Seattle, April 24, 1982) - 2023 Remix",
-      "url": "https://open.spotify.com/track/7F4pLdbUWrLWUj0XJFHump"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Shadow Kingdom",
-        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 195386,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 157643,
-      "name": "New American",
-      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Atomic Punk",
-        "url": "https://open.spotify.com/album/3MkqtonMItMQnix7BxI3U1"
-      },
-      "artists": [
-        {
-          "name": "David Lee Roth",
-          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
-        }
-      ],
-      "duration_ms": 180190,
-      "name": "Atomic Punk",
-      "url": "https://open.spotify.com/track/1s9XjQrapQl5JhEjVhAKXS"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Louie Louie",
-        "url": "https://open.spotify.com/album/1AoiNcmFsAfTp0UiPne3JF"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 274014,
-      "name": "Wild Love - 2023 Mix",
-      "url": "https://open.spotify.com/track/7hwFJ4XTiVOrk12z7SvQUT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Council Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/21ipCVloXSTC5VTc63terW"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        }
-      ],
-      "duration_ms": 269715,
-      "name": "Love Is A Rich Man",
-      "url": "https://open.spotify.com/track/02ghUGm0JJ0SPVFLVBi6Th"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Bruce Springsteen & The E Street Band - The Darkness Tour '78",
-        "url": "https://open.spotify.com/album/09rNh6weVS43LVc4sRt5WV"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Badlands - Live at Capitol Theatre, Passaic, NJ - 9/19/1978",
-      "url": "https://open.spotify.com/track/3ATwNopieLhHvem7FEW7C4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 143440,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

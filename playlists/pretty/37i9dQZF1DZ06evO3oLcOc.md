@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,899 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,959 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 47 | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ) | 2:17 |
 | 48 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
 | 49 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
-| 50 | [Goddamn \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4TCG827sk5fDEmUvcQlStk) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:31 |
-| 51 | [Faded](https://open.spotify.com/track/2NRUU0gP1d8Yif8CpsCW8l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/3KHamR7LZmFT0xqPA1Hyob) | 3:26 |
+| 50 | [Waterfall \(feat\. Tyga\)](https://open.spotify.com/track/5qNA3Re6vphN6xF9imbKAM) | [Coca Vango](https://open.spotify.com/artist/3GeZ2hxlimcfZ7v3qxf5UT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Waterfall \(feat\. Tyga\)](https://open.spotify.com/album/5j6J7k3QxNGrvJdKUYly5s) | 2:32 |
+| 51 | [Goddamn \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4TCG827sk5fDEmUvcQlStk) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:31 |
 
-Snapshot ID: `MjgxMzU1MTEsMDAwMDAwMDA3MjNmNmFkYmFlZTNhNDE4ZDE4ZGJmYjBjNTYyNTllZA==`
+Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDA0ZGY0ODNkZWJlYjMwYWQ2MGFmZTdmMzNiNzdmOTQ0OQ==`

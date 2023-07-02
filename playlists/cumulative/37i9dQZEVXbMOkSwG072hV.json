@@ -1319,6 +1319,32 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+    },
+    {
+      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd"
       },
@@ -10588,7 +10614,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 177960,
       "name": "Festa na ro\u00e7a",
       "url": "https://open.spotify.com/track/4BrOEKSjChv6XW0mgxmZBt"
@@ -11316,7 +11342,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 112008,
       "name": "Garota Absurda",
       "url": "https://open.spotify.com/track/23Dssnc0RVjsICs9JNGRZX"
@@ -13760,7 +13786,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 145345,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/5TQZ7WNIZCQVynxAViYNhh"
@@ -17743,6 +17769,32 @@
     },
     {
       "album": {
+        "name": "MTG - PISTA TOMA",
+        "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
+      },
+      "artists": [
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "John Bis.T",
+          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "MTG - PISTA TOMA",
+      "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+    },
+    {
+      "album": {
         "name": "Mtg Beat Fino Dan\u00e7a do Pombo",
         "url": "https://open.spotify.com/album/3kddxToI1XUeGv8mUEyVK6"
       },
@@ -19792,7 +19844,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 143040,
       "name": "O Sanfoneiro S\u00f3 Tocava Isso",
       "url": "https://open.spotify.com/track/3des19G6oUIrbMOCkfiHhy"
@@ -22932,7 +22984,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
@@ -24108,7 +24160,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 214733,
       "name": "Se Tu Quiser / Quando Tu Ficar Cheirosa (Poema Incidental)",
       "url": "https://open.spotify.com/track/5nLBO2AfaqbD978cz62oa6"

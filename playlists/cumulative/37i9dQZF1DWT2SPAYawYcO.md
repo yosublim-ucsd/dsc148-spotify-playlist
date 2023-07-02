@@ -4,7 +4,7 @@
 
 > The best new songs of the week!  Cover: Olivia Rodrigo
 
-283 songs - 15 hr 13 min
+284 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 | 2023-06-23 | 2023-06-30 |
 | [Kool\-Aid](https://open.spotify.com/track/6RZseaq0Avcn1rFXFvw5G5) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Kool\-Aid](https://open.spotify.com/album/6nox35DswydstEnDGj0FFA) | 3:12 | 2023-06-23 | 2023-06-30 |
 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2023-06-15 | 2023-06-23 |
-| [Land of the Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land of the Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 | 2023-06-29 |  |
+| [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 | 2023-06-29 |  |
 | [Late Text](https://open.spotify.com/track/6UVpxasQu9dysGViSFHokF) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Late Text](https://open.spotify.com/album/4dD8hbFYxawq3mE6sCluGC) | 4:00 | 2023-06-23 | 2023-06-30 |
 | [Leaning](https://open.spotify.com/track/2YQl8BZrG25dDF8apJzYjH) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Leaning](https://open.spotify.com/album/4QkneJgdy2EFWlLKrfLadc) | 4:16 | 2023-06-23 | 2023-06-30 |
 | [Let Me](https://open.spotify.com/track/56fLFZWpYO0EqSZmiVhW94) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Let Me](https://open.spotify.com/album/1vTZS5DZT4jslmHu5hWic2) | 3:04 | 2023-06-29 |  |
@@ -264,7 +264,8 @@
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-06-30 |
 | [True Babe](https://open.spotify.com/track/696gO5dO34MHhmZlL9Mh19) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [True Babe](https://open.spotify.com/album/61dpINnbtGk1FcOR3VtQYh) | 3:07 | 2023-06-23 | 2023-06-30 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-23 | 2023-06-30 |
-| [Tuned In](https://open.spotify.com/track/6o8gvOohMxEhiUD8FPbvdt) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/7IvscbpWjhklzgKySKueZy) | 3:13 | 2023-06-29 |  |
+| [Tuned In](https://open.spotify.com/track/6o8gvOohMxEhiUD8FPbvdt) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/7IvscbpWjhklzgKySKueZy) | 3:13 | 2023-06-29 | 2023-07-02 |
+| [Tuned In](https://open.spotify.com/track/0xM9w2EI5meB4T0tHYJIOD) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/1FxIIPrjELjY7jrrLPGmMv) | 3:23 | 2023-06-29 |  |
 | [U&ME](https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:57 | 2023-06-23 | 2023-06-30 |
 | [Uber](https://open.spotify.com/track/2fm15ut0qhkUAG9FUBvfvb) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Uber](https://open.spotify.com/album/7eC8I7wtscoNuasRjbLsEc) | 3:47 | 2023-06-23 | 2023-06-30 |
 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-23 | 2023-06-30 |

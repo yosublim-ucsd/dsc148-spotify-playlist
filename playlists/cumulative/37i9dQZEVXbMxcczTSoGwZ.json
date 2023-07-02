@@ -5738,7 +5738,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 165070,
       "name": "Ensi-ilta (feat. Aliisa Syrj\u00e4)",
       "url": "https://open.spotify.com/track/7eD54tHF8xDxUKsAeCm9DE"
@@ -5981,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/0YmXsxNobUAYohMk3qFSea"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169699,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/0ywzYbY0bayTTwL8Ldg7WD"
+    },
+    {
+      "album": {
         "name": "Everything Beautiful",
         "url": "https://open.spotify.com/album/45QLNSxcsMm59D8KHDjj00"
       },
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 209677,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
@@ -15729,6 +15747,24 @@
     },
     {
       "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/7lYFSt38dTxG8HnJuiYBNj"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172319,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/5HNCbOWhhPNHzZIPyNx1GN"
+    },
+    {
+      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -18800,6 +18836,28 @@
       "duration_ms": 174526,
       "name": "OnlyFans (feat. ibe)",
       "url": "https://open.spotify.com/track/04ajBAZ4nicx6flU5D6PdB"
+    },
+    {
+      "album": {
+        "name": "Onnellinen",
+        "url": "https://open.spotify.com/album/69WNFlAX1YidDaMfZcAYUh"
+      },
+      "artists": [
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        },
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150420,
+      "name": "Onnellinen",
+      "url": "https://open.spotify.com/track/6ijRGBGzjwl5pyBVUIfXWL"
     },
     {
       "album": {
@@ -22642,7 +22700,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 141735,
       "name": "Skaala",
       "url": "https://open.spotify.com/track/3oGV3fvu4Lf7O1hKsvbtvE"
@@ -24430,7 +24488,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 187700,
       "name": "Tapoit mut (feat. Yks Kaisa)",
       "url": "https://open.spotify.com/track/3fzEUmPYVpPyn42fQxLQEc"
@@ -26594,6 +26652,24 @@
       "duration_ms": 201600,
       "name": "Vamos - Remix",
       "url": "https://open.spotify.com/track/6yZuWA0iFPnk7OlGuCPwQj"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "album": {

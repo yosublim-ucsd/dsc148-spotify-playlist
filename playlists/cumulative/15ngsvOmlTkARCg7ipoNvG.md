@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-998 songs - 22 hr 28 min
+1,002 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,8 @@
 | [Morning Comforts](https://open.spotify.com/track/65Wq2DcxRLal3DUZEeQfQj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 |  |
 | [Mountain Dreaming Arr\. For Cello](https://open.spotify.com/track/5ICw6zequAvVp3wiEu1APj) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Mountain Dreaming](https://open.spotify.com/album/4MHw4NrRyNQVlFIUgN6PKU) | 1:01 | 2023-04-19 |  |
+| [Mountain Walk Arr\. For Piano](https://open.spotify.com/track/3p8ywA1wFev1fUsbyu6nt3) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:01 | 2023-07-01 |  |
+| [Mountain Walk Lullaby](https://open.spotify.com/track/6JiHMgnq24HAoZf1uyVqFM) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Three Soft Piano Lullabies](https://open.spotify.com/album/3rQoLYUaODWodjY4mksraY) | 1:00 | 2023-07-01 |  |
 | [Much Appreciation](https://open.spotify.com/track/6GrymcnkkdfZZhEOhEKu61) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:01 | 2023-04-08 |  |
 | [Much Awaits For Us](https://open.spotify.com/track/1oMFrEKCvGKhd3Lx0E3DJR) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Simple Beauty](https://open.spotify.com/album/4QdKwwK6GK3RDguqX13o9J) | 1:03 | 2022-02-15 |  |
 | [Much Awaits Tomorrow](https://open.spotify.com/track/1JIufmtQyQ4rQh4d7WpmRq) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Much Awaits Tomorrow](https://open.spotify.com/album/120jdDyASusRSQf2BCaK6M) | 1:02 | 2022-02-24 |  |
@@ -580,6 +582,7 @@
 | [Never Quite Alone](https://open.spotify.com/track/0AfkFIotwL0lptGYLMR4kN) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
 | [New Again](https://open.spotify.com/track/62mkqiz3ECsZDvjaHHNHih) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:32 | 2022-01-12 |  |
 | [New Again \- Strings Version](https://open.spotify.com/track/40VW8cKaj9rOyNzESdBAmW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New Again](https://open.spotify.com/album/1SntDBEMCCmITgSzub9DCJ) | 1:29 | 2022-01-12 |  |
+| [New Home Lullaby](https://open.spotify.com/track/7uTwtcj6fffHnbDzzWOraJ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Three Soft Piano Lullabies](https://open.spotify.com/album/3rQoLYUaODWodjY4mksraY) | 1:00 | 2023-07-01 |  |
 | [New Life](https://open.spotify.com/track/2jwqiLJRXd5XZgWtwAoyJp) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [New Life](https://open.spotify.com/album/0bBM72Hu2XsZikGisnTizd) | 1:01 | 2022-10-21 |  |
 | [New Perspectives](https://open.spotify.com/track/2IetmvmHpsj4sJmhPREUqf) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:05 | 2022-01-27 |  |
 | [Night Arr\. For Cello And Felt Piano](https://open.spotify.com/track/4rrPxD6u2Zxn8B5fyb4qdr) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Night Arr\. For Cello And Felt Piano](https://open.spotify.com/album/1AG0XSja4iLG0JRDaesFt1) | 1:01 | 2023-04-19 |  |
@@ -971,6 +974,7 @@
 | [Weekend Daydreams](https://open.spotify.com/track/7qq9Xj7msfxaWODL4iGqbz) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Lullabies by the Seaside](https://open.spotify.com/album/6pC7SbPTtjxRdWfEJqu14G) | 1:37 | 2022-01-20 |  |
 | [Weekend Daylight](https://open.spotify.com/track/6yGSMxrC8MB5mmsaKH3QaY) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sublime Peace](https://open.spotify.com/album/7tSYyxx3MVNrafguhlTTMB) | 1:02 | 2022-03-24 |  |
 | [Weight](https://open.spotify.com/track/4ZOYz0RMX3BTzflq5hFRJj) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Weight](https://open.spotify.com/album/4RHBdV3HfWKMQFFHMx20EH) | 2:06 | 2022-01-12 | 2023-04-09 |
+| [Welcome Lullaby](https://open.spotify.com/track/3qeYgdOk6VOPtv3696xhB2) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Three Soft Piano Lullabies](https://open.spotify.com/album/3rQoLYUaODWodjY4mksraY) | 1:00 | 2023-07-01 |  |
 | [What Awaits Tomorrow](https://open.spotify.com/track/0pEFRrkJ0LokYfMG23oBYG) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:00 | 2022-06-01 |  |
 | [What Lies Before Us](https://open.spotify.com/track/4hwDwNp5SthHpj3Btkv7Uf) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:02 | 2022-03-02 |  |
 | [When the Time Has Come](https://open.spotify.com/track/4nrGwZh2b9YxeQFiEhX8qP) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:34 | 2022-01-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 
 > The fastest growing genre in 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,813 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,830 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 32 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 33 | [LAST ONE](https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe) | [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz) | [LAST ONE](https://open.spotify.com/album/20fCMIeYP46IRXINaR7wq5) | 2:30 |
 | 34 | [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 |
-| 35 | [HELLDRIFT 2](https://open.spotify.com/track/6vy038bQd5LYWXMfPsvnKE) | [enesfx](https://open.spotify.com/artist/6J5m8RAxbj6zC2nvSLbk8B), [Master CC](https://open.spotify.com/artist/0hLvG56rSXh785IbjYpuRQ), [bugiversal](https://open.spotify.com/artist/67SLTXbIJZGEiGcP0TFvjH) | [HELLDRIFT 2](https://open.spotify.com/album/4tzSRYKOdVZ17qN5LokQvD) | 2:51 |
+| 35 | [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 |
 | 36 | [Swaggin' At The Partment](https://open.spotify.com/track/7ITCyjmVcBWKAe38V8epGU) | [Çağoflex](https://open.spotify.com/artist/1NyMcjsNqYyEheSdBUGjqX), [Greekgods](https://open.spotify.com/artist/485pS8dHVx4I3x7OSoiOuZ), [Mirin Brah](https://open.spotify.com/artist/3zRntkZATrw8kMT6rWGeyN) | [Swaggin' At The Partment](https://open.spotify.com/album/3kSQ0XnUYVSwg4muMAQi85) | 2:04 |
 | 37 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 | 38 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 49 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 |
 | 50 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 |
 
-Snapshot ID: `MCw5OWIzMjhkOTNkOTA2MjkxYmYwOTZmY2NmM2FlOWVhNDlmMzM1MDNk`
+Snapshot ID: `MCxiZjhhYjUzNjQ3NjRmNGI3ODlkNGFjZTE1NzVjNTZhM2M3NTcwYmYy`

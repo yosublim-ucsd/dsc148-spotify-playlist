@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,120 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,152 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 64 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 65 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 66 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
-| 67 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 |
-| 68 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 |
+| 67 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
+| 68 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 |
 | 69 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
-| 70 | [Mais ninguém](https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI) | [Mr\. Soulja](https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Mais ninguém](https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy) | 2:59 |
-| 71 | [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 |
-| 72 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 |
-| 73 | [Foca Em Mim](https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV) | [Aciara](https://open.spotify.com/artist/2YTyLANKeASYcBm1wJadNI), [South](https://open.spotify.com/artist/4iIARK2uospivls7spnIw9) | [Foca Em Mim](https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb) | 2:56 |
-| 74 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
-| 75 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
+| 70 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 |
+| 71 | [Mais ninguém](https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI) | [Mr\. Soulja](https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Mais ninguém](https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy) | 2:59 |
+| 72 | [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 |
+| 73 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 |
+| 74 | [Foca Em Mim](https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV) | [Aciara](https://open.spotify.com/artist/2YTyLANKeASYcBm1wJadNI), [South](https://open.spotify.com/artist/4iIARK2uospivls7spnIw9) | [Foca Em Mim](https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb) | 2:56 |
+| 75 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
 
-Snapshot ID: `MCw5NzUwZTYzZWFkMDZlYzBlNzdiYWM4ZGFmNDZiZjY3MjIxYTk0NjNh`
+Snapshot ID: `MCwyZGE0NDZlMGI2NTUwNzhjZGM3NDA5Y2UwZDIxMGMyYWNlYWYzMDBi`

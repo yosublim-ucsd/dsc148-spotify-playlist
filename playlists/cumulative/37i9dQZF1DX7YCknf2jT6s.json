@@ -4239,6 +4239,28 @@
     },
     {
       "album": {
+        "name": "Darkness, Darkness / No Services",
+        "url": "https://open.spotify.com/album/00FDYOFov2bt3WsLrRE5uY"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607922,
+      "name": "Darkness, Darkness",
+      "url": "https://open.spotify.com/track/2ih7916Ch16x9n75yhc3Ok"
+    },
+    {
+      "album": {
         "name": "Darkness, Darkness",
         "url": "https://open.spotify.com/album/0EXkV7DLamr6pDl9Wp3A9Z"
       },
@@ -4254,7 +4276,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 607922,
       "name": "Darkness, Darkness",
       "url": "https://open.spotify.com/track/3rXe6esv9eL9zRe38tyAHD"
@@ -6588,10 +6610,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 251888,
       "name": "Funky",
       "url": "https://open.spotify.com/track/7iZg6mxGxIu9X9F3iK39ZK"
+    },
+    {
+      "album": {
+        "name": "Mal Du Pays",
+        "url": "https://open.spotify.com/album/3op0FtRorOmmYyVq1vqJsk"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251888,
+      "name": "Funky",
+      "url": "https://open.spotify.com/track/7pN5j3DyZ9IohLdCkX5cGM"
     },
     {
       "album": {

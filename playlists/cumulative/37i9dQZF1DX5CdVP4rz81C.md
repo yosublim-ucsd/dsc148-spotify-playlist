@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Oliva Dean
 
-1,349 songs - 2 day 22 hr 43 min
+1,352 songs - 2 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [East End Coast](https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy) | 3:46 | 2022-07-15 | 2022-07-30 |
 | [Easy](https://open.spotify.com/track/3nyRWdbLh6gSembPFBvovm) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Easy](https://open.spotify.com/album/1JvToB7yIkLMk4Fw6ARPgK) | 3:11 | 2021-02-06 | 2021-04-24 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 | 2023-05-27 |
-| [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-02-01 |  |
+| [Elephant In The Room](https://open.spotify.com/track/3WZyXUHTqffITfNniSJyKD) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 2:41 | 2023-06-23 |  |
+| [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-02-01 | 2023-07-02 |
 | [Elk Grove](https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Elk Grove](https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I) | 3:35 | 2023-03-17 | 2023-04-01 |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2021-08-28 | 2021-09-25 |
 | [Emergency Contact](https://open.spotify.com/track/4VSI8YfjcRIIHXSsef7I6K) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Emergency Contact](https://open.spotify.com/album/27FswUtwH8a5lg1xLlqdBE) | 3:00 | 2020-10-13\* | 2021-01-15 |
@@ -517,7 +518,8 @@
 | [heart won't let me](https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:19 | 2020-10-13\* | 2020-12-04 |
 | [heartbeat](https://open.spotify.com/track/3E0boyDQIzNbLyL6o3tsV1) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [heartbeat](https://open.spotify.com/album/597OlqBiIUMZhpJibzzWxH) | 2:33 | 2022-07-22 | 2022-09-24 |
 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2022-12-02 | 2023-01-06 |
-| [Heartbeat](https://open.spotify.com/track/7IZayFpRYZ3htkcotaigL2) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Heartbeat](https://open.spotify.com/album/2QxbmA39RnXXBUR4jNXnpP) | 2:28 | 2023-05-12 |  |
+| [Heartbeat](https://open.spotify.com/track/4yY4TWNCBmvv3K6ZCSFA0T) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 2:28 | 2023-06-23 |  |
+| [Heartbeat](https://open.spotify.com/track/7IZayFpRYZ3htkcotaigL2) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Heartbeat](https://open.spotify.com/album/2QxbmA39RnXXBUR4jNXnpP) | 2:28 | 2023-05-12 | 2023-07-02 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-02-03 | 2021-05-15 |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2020-11-13 | 2021-02-19 |
 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 | 2020-10-13\* | 2020-12-04 |
@@ -934,7 +936,8 @@
 | [Paradise Found](https://open.spotify.com/track/2VDR6C4c3uUz8qXUsGDHSJ) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/4BTX1JU3AvBrmCn1rC6TED) | 3:42 | 2020-10-13\* | 2020-10-15 |
 | [parasite](https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr) | 3:15 | 2023-02-24 | 2023-04-09 |
 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2021-05-15 | 2021-09-11 |
-| [Part of You](https://open.spotify.com/track/0teEiAGyAfnOiZ2KwbvZYZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Part of You](https://open.spotify.com/album/6k18d9mKQDsliMMeQoM0Rc) | 2:52 | 2023-04-14 |  |
+| [Part of You](https://open.spotify.com/track/002dsIzVHh30tytpfqZT85) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 2:52 | 2023-06-23 |  |
+| [Part of You](https://open.spotify.com/track/0teEiAGyAfnOiZ2KwbvZYZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Part of You](https://open.spotify.com/album/6k18d9mKQDsliMMeQoM0Rc) | 2:52 | 2023-04-14 | 2023-07-02 |
 | [Passive Aggressive](https://open.spotify.com/track/167HWbEImETmEG2oiNTwWj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Passive Aggressive](https://open.spotify.com/album/0cn84wdzrRfoheO2AD1p1j) | 3:08 | 2020-10-13\* | 2020-11-12 |
 | [Patience](https://open.spotify.com/track/32vpm7Lx0g4MCYk7hIBfSc) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Patience](https://open.spotify.com/album/4hLp6YLEPXhSqnKiSpCwCK) | 2:48 | 2020-10-30 | 2021-02-06 |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-25 | 2021-10-07 |

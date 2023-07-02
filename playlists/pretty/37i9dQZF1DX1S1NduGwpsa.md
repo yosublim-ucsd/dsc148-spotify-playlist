@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,969 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,011 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 5 | [The Soul Messenger](https://open.spotify.com/track/7DvsxgUckGgZFdX1MKXVmp) | [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9), [Julian Lee](https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH), [Philip Norris](https://open.spotify.com/artist/3vunyQ01vJAXMhlCpvXJ5L), [TJ Reddick](https://open.spotify.com/artist/7J7UUIycoDm4QvQ2Dov5QC) | [The Power of the Spirit](https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN) | 10:13 |
 | 6 | [Old Devil Moon](https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:19 |
 | 7 | [Outta the Blue with You](https://open.spotify.com/track/1Un6Xe3Ojn48KPWohouhWj) | [Mathieu Najean](https://open.spotify.com/artist/0uepTu7VvA1dURIYOUGUGx), [Cait Jones](https://open.spotify.com/artist/3wbVZ5KI6HVOWsoV78ECfI), [David Paycha](https://open.spotify.com/artist/4nodgfX2Ns8tPZq6OgHy9W), [Noé Codjia](https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2), [Edouard Wallyn](https://open.spotify.com/artist/6oKU1P03f4vPJeSDvCFI44), [Zoot Collectif](https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90) | [Outta the Blue with You](https://open.spotify.com/album/0tVdsxVw1acnmeCIexDSNN) | 3:32 |
-| 8 | [Funky](https://open.spotify.com/track/7iZg6mxGxIu9X9F3iK39ZK) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Funky](https://open.spotify.com/album/7xy8M1KIrImO3Z01v3CEYL) | 4:11 |
+| 8 | [Funky](https://open.spotify.com/track/7pN5j3DyZ9IohLdCkX5cGM) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Mal Du Pays](https://open.spotify.com/album/3op0FtRorOmmYyVq1vqJsk) | 4:11 |
 | 9 | [When You Wish Upon a Star](https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Composure](https://open.spotify.com/album/5XuYdAL3b6oZIkDUiyciiu) | 4:45 |
 | 10 | [Nobody's fault but mine](https://open.spotify.com/track/07dvfTvxCzgQEf5jYRUqfX) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 2:39 |
 | 11 | [RAINING](https://open.spotify.com/track/4zvt5pYtfUZbeClDMqHYPB) | [Edouard Ferlet](https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni) | [RAINING](https://open.spotify.com/album/2nAlWuzLmG2bsmqskOQOC6) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Nature Boy](https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ) | [Anne Bisson](https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF) | [Be My Lover](https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf) | 3:54 |
 | 50 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 
-Snapshot ID: `MCwwMTQxY2Y0N2IyMDQ0NTUyYmI4NGE4NzI3MzhiNjEyM2ZjODNjNjIw`
+Snapshot ID: `MCw3NzBhZTE4YTAwZjlkZDhmMmVmZmUyZmY0YzBlMTYwYjM2YzExZmMz`

@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "Backwards (feat. Knox)",
+        "url": "https://open.spotify.com/album/2WjAg7qrEs39TCmltinppH"
+      },
+      "artists": [
+        {
+          "name": "Alexa Cappelli",
+          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190291,
+      "name": "Backwards (feat. Knox)",
+      "url": "https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA"
+    },
+    {
+      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/11aetBBCE5y8wzFs8S8qmb"
       },
@@ -1617,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5pvr0eVCCJainwXBc6XwnA"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226157,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2wZhh84WylENwS23foVHkF"
+    },
+    {
+      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/6LJPmzvzGp8p8CXNIf5dBX"
       },
@@ -2142,6 +2182,28 @@
       "duration_ms": 155418,
       "name": "Home",
       "url": "https://open.spotify.com/track/7JpcU2DaQuvsCWlHmnpvpY"
+    },
+    {
+      "album": {
+        "name": "Home To Another One (Timbaland Remix)",
+        "url": "https://open.spotify.com/album/78xZ4lXCK9YVBoWNju8cu1"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178658,
+      "name": "Home To Another One - Timbaland Remix",
+      "url": "https://open.spotify.com/track/5k6tiuCYo6wgoNZAlSDJCs"
     },
     {
       "album": {

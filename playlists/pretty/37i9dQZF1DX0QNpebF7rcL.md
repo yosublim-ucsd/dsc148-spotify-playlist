@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,799 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,834 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Miss Information](https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Miss Information](https://open.spotify.com/album/7lRTdwCjqb6i22watL4REp) | 3:47 |
 | 100 | [Solid Ground](https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 2:34 |
 
-Snapshot ID: `MCw0MGU1MjQwMDZmNDgzZDdlN2ZkODIyNDI1ZWU3ZDMxM2QwOWJlNjFl`
+Snapshot ID: `MCxhZWQyYjkyYjU5Zjg2ODdhZjU0MjI0NTg4MDJlZDY4OTMwOTFkZWU0`

@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "medicated insomnia",
+        "url": "https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93520,
+      "name": "pacman",
+      "url": "https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6NsZCEmTqHL2z7wOu1LQ9L"
       },
@@ -2863,7 +2881,7 @@
     },
     {
       "album": {
-        "name": "THE BEST SONGS of JUNKO OHASHI",
+        "name": "THE BEST SONGS OF JUNKO OHASHI",
         "url": "https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI"
       },
       "artists": [

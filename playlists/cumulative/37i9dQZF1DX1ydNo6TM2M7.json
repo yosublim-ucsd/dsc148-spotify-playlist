@@ -1176,10 +1176,36 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 239083,
       "name": "Rave - Remix",
       "url": "https://open.spotify.com/track/1kMObCQiYe5opqybH7ZNPD"
+    },
+    {
+      "album": {
+        "name": "Rave (Remix)",
+        "url": "https://open.spotify.com/album/6PyxW7J95s2e5ZuzoZcG0H"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239083,
+      "name": "Rave - Remix",
+      "url": "https://open.spotify.com/track/1xcxd5hIP1hkU3IOebJkuo"
     },
     {
       "album": {

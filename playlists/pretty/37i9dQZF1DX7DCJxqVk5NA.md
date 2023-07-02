@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,333 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,345 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/3FUXVbi9ugVUqJ3rPrfd2G) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/4tyEy1BUd2ZMgT3qP70T3F) | 4:00 |
+| 1 | [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 |
 | 2 | [The Nasty Song](https://open.spotify.com/track/2OEKdLpIhPT11FR746kOoQ) | [Lil Ru](https://open.spotify.com/artist/2li1Vgd8pkYdLOwhod6kEG) | [21 & Up](https://open.spotify.com/album/4oFeSyCaGfCJQFZpzBMgS1) | 3:27 |
 | 3 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
 | 4 | [Warning](https://open.spotify.com/track/7F3ugiaOXAjICskrb2yJbo) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:34 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 61 | [Okay \(feat\. Lil Jon & YoungBloodZ\)](https://open.spotify.com/track/1e5ayf28RKanXy0NNJVANp) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 4:43 |
 | 62 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 |
 
-Snapshot ID: `MCw2YTA2OTQxOTk0NjViN2VlM2M0ZjU3MGJhZGMzZDJkZGIwYWZhODQ5`
+Snapshot ID: `MCw0NmE1NmZmYjA2ZjI2OGY2MDViZGRkYTE1YzMwOWI0ZDYxYTg4YTk2`

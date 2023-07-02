@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO?si=1chhxZkaRgeCena7M9AEcA">Ruan Josh
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,720 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,859 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Vergeet My Hier](https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds), [Henri Alant](https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4) | [Vergeet My Hier](https://open.spotify.com/album/45KsVqzl4HaaNrXOSaVHkN) | 3:17 |
 | 50 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 
-Snapshot ID: `MCw2ZTRkNjVjZTEzYjgwNzBlYzMyMzUwZDFhNjkxYjYwOTU2ODFlYzEw`
+Snapshot ID: `MCw2NTk2OGEzZGE4NGM5NDdiNDc4NzU5N2I3ODUzYjE1MzA2ODE0ZWQ3`

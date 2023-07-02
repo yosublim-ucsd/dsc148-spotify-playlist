@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,421 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,439 likes - 94 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 6 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 | 7 | [Plaatje](https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Plaatje](https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q) | 2:32 |
 | 8 | [Mon Ami \(feat\. Henkie T & D\-Double\)](https://open.spotify.com/track/36Yj7rDYJRtTwN5Nrso5UH) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Mon Ami \(feat\. Henkie T & D\-Double\)](https://open.spotify.com/album/3r4A4JMc8vRfuuotF1t9AD) | 2:54 |
-| 9 | [Sowieso](https://open.spotify.com/track/4BZgEjxAyvF2VqxDyyu0E6) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [WillyBeatsz](https://open.spotify.com/artist/1AEaWI0WgpJLdSnjefWYkA) | [Sowieso](https://open.spotify.com/album/0DtopEDpya0gUSYbMVejwy) | 2:44 |
+| 9 | [Sowieso](https://open.spotify.com/track/4BZgEjxAyvF2VqxDyyu0E6) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Willybeatsz](https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p) | [Sowieso](https://open.spotify.com/album/0DtopEDpya0gUSYbMVejwy) | 2:44 |
 | 10 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 11 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 12 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 86 | [Never Look Back](https://open.spotify.com/track/1oR5Ow17MqtjNoAYAIvNOy) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Never Look Back](https://open.spotify.com/album/1PK34jg3257ZFhCjXqbvVe) | 2:49 |
 | 87 | [Sympathy](https://open.spotify.com/track/7GthjrvgDaw6TyaFJlayFR) | [Berget Lewis](https://open.spotify.com/artist/56EYDRc4IlffrNZyE5vtOx) | [We Are One](https://open.spotify.com/album/5tdr0pHQpbd7Vr7LNKR24K) | 3:22 |
 | 88 | [Feeling Alright](https://open.spotify.com/track/1O4jnAcK94eYtd9z7GOUnN) | [Ruud Houweling](https://open.spotify.com/artist/2IONeTGcpMPwB3v6CCyLQ8) | [Feeling Alright](https://open.spotify.com/album/2seQvDlWDr2cc5E8y5FX8c) | 4:18 |
-| 89 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/5WOiy2Aa0YEg17qu30Rg7k) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
+| 89 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
 | 90 | [T.O.M.L.](https://open.spotify.com/track/1xEV1IkGP459XC4O8B3YxB) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4), [Ro Will](https://open.spotify.com/artist/22fIz1vTVPpWWXSHZ636CR) | [No Energy](https://open.spotify.com/album/0dwmVAG2ezHDxCqPHRyeuQ) | 3:20 |
 | 91 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 |
-| 92 | [Ik Weiger](https://open.spotify.com/track/5olck2evblr8c3a8Avky6Z) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2gqyTNQcnXa7tkUiArmI8D) | 4:06 |
+| 92 | [Ik Weiger](https://open.spotify.com/track/3o0MvXQlFyY07F8r9M7FzL) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2Oa3ovQflK45RsMhudj6wc) | 3:22 |
 | 93 | [Etienne](https://open.spotify.com/track/3uhaVDabBBFXHcdKVm57aR) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa) | [Etienne](https://open.spotify.com/album/1mReRklqd4z6MYzngDnjMP) | 3:09 |
 | 94 | [Rien à perdre](https://open.spotify.com/track/2kBXCPcBoyn6FRwjdjjSAF) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Rien à perdre](https://open.spotify.com/album/2wTbK1Gte1OvYowsrFhkJs) | 3:40 |
 
-Snapshot ID: `MCxjZDUwMTMzOTNkNzNlNWQ4M2ViM2U1Y2MxYTFiMDY3MDRiNzBlY2Jm`
+Snapshot ID: `MCxiMTI1NzllODdlMzZiYzc4NmVhNzEwZDQ1MWI3N2FkMGY1MDI2NTIx`

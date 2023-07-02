@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,547 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,619 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 2 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 3 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 |
 | 4 | [Topless](https://open.spotify.com/track/5wJcBm3R1DgaU42b7EpcJd) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klauss](https://open.spotify.com/artist/0bZivyTNoMgVXGCFgiWCUY), [Lucas Chief](https://open.spotify.com/artist/2Z5T5UanKvhyUyKuUv3hFe) | [Intenção](https://open.spotify.com/album/7wdJveXfB0dVqbbPdR5zUD) | 2:49 |
-| 5 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
+| 5 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
 | 6 | [Malvadona](https://open.spotify.com/track/4GST2I05FoZuNVpYliZYvK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:09 |
 | 7 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
 | 8 | [Me Pede Mais](https://open.spotify.com/track/0eksm4vKtCSSlC9WyzI1ea) | [Wilker](https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Me Pede Mais](https://open.spotify.com/album/2fiATUugLNGtP0GOx3nnuI) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 75 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MCxmNDgzZjJhYmY0NWU1OGEzNGE4NzVhMmRkMTgwZTU0ZWRjY2E1MjA5`
+Snapshot ID: `MCxiMmFjNzAwYzJkNjk0ZTA2ZmRkYjM0Y2FhMjAwZDk4ZmU3NTI1ODI0`

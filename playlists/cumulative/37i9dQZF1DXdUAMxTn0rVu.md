@@ -2,9 +2,9 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Common
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Dilated Peoples
 
-136 songs - 9 hr 8 min
+137 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 | 2021-07-29 |  |
 | [Hater's Anthem](https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6) | [The Bootleg of the Bootleg \(Deluxe Version\)](https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh) | 5:13 | 2020-09-25 | 2022-07-16 |
 | [He Comes \(feat\. Ghostface\)](https://open.spotify.com/track/4l6SxtkpHebFGpKH2xPnAU) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Ghostface](https://open.spotify.com/artist/3t5QLYg3fqvohxXt7q1niX) | [The Grind Date](https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA) | 3:44 | 2022-02-08 | 2023-05-02 |
-| [High Expectations](https://open.spotify.com/track/546IPb3Ibo63aXZgHTO00C) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Soul in the Hole \(Original Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/14HG4eN496ABqibDVn3pZc) | 4:14 | 2023-06-02 |  |
+| [High Expectations](https://open.spotify.com/track/546IPb3Ibo63aXZgHTO00C) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Soul in the Hole \(Original Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/14HG4eN496ABqibDVn3pZc) | 4:14 | 2023-06-02 | 2023-07-02 |
 | [Hip Hop Essentials](https://open.spotify.com/track/4gBwvgP9zhEv6S0QkIsreH) | [Rasco](https://open.spotify.com/artist/3W9SDpMLYOSVYn5zIqr90j) | [Time Waits For No Man](https://open.spotify.com/album/2TlXbfIjSLPBvhs6jUmhJW) | 4:14 | 2022-02-08 | 2022-07-20 |
 | [I Declare War](https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V) | [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Won](https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH) | 2:37 | 2020-09-25 | 2023-02-04 |
 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 | 2020-09-25 |  |
@@ -122,6 +122,7 @@
 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 | 2020-09-25 | 2023-06-03 |
 | [Thick](https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ) | 3:42 | 2020-09-25 | 2022-07-29 |
 | [Thieves In The Night](https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:11 | 2022-02-08 |  |
+| [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 | 2023-07-01 |  |
 | [Threats](https://open.spotify.com/track/5R8J6WCnV1E2lDJgVoaA4P) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Chen Lo](https://open.spotify.com/artist/2J4NQiYiPyeo4sTDTeORP8) | [Jean Grae: The Evil Jeanius](https://open.spotify.com/album/0BqCQwGFcPXkdNqajk18yS) | 4:06 | 2023-03-03 | 2023-04-19 |
 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 | 2022-02-08 |  |
 | [Trippin](https://open.spotify.com/track/2Y12QeVNn7Gx894J9Pt29w) | [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Mind Over Matter](https://open.spotify.com/album/13O12KqGuOuDzTnQgoDdBq) | 5:08 | 2022-02-08 | 2022-07-15 |

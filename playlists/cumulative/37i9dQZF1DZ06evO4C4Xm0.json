@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "77 Million Paintings",
+        "url": "https://open.spotify.com/album/5ofQI6GLCrm23yTSztozgJ"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347834,
+      "name": "77 Million Paintings 2",
+      "url": "https://open.spotify.com/track/7xgsqwDblTsGURFI4vuHIw"
+    },
+    {
+      "album": {
         "name": "Ambient 4: On Land (Remastered 2004)",
         "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
       },

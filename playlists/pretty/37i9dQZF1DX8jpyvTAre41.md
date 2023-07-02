@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: TALK
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,826 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,866 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Ottawa Rockstar](https://open.spotify.com/track/3R6ABzln5suhxazLLOJu2G) | [WHALES•TALK](https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT) | [Ottawa Rockstar](https://open.spotify.com/album/4Km0JH97S5mne9WygnBWSh) | 2:16 |
 | 100 | [Foregone, Pt\. 2](https://open.spotify.com/track/3Cp3wi1w6wPwYGgDPrBu6q) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Meet Your Maker](https://open.spotify.com/album/4MULWYM7gQyBiJ2KeJ2PrY) | 4:30 |
 
-Snapshot ID: `MCxiYzViZmQ5ZDNiMDcyNDNiYTI2NjhmZGM1NjE2MThkZDFiNzJhM2Y5`
+Snapshot ID: `MCw2ZThhYWQ3OTMwMjU0NDkzNjA3MDUxNjdkM2FkMzZmZWVlZjQ2YWE2`

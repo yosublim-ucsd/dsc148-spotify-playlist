@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,818 likes - 93 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,945 likes - 93 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 83 | [Never Alone \(ft\. Dix\_On The Phone\)](https://open.spotify.com/track/3nvbuSK7WPDwpyXNAv5sYO) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 4:08 |
 | 84 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 | 85 | [Claire](https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Claire](https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34) | 4:47 |
-| 86 | [Galactic Highways](https://open.spotify.com/track/6dEgGWYfEhcoHhR5zfeNN3) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Galactic Highways](https://open.spotify.com/album/3IlDESZPdk0kEjBM72O90E) | 5:57 |
+| 86 | [Galactic Highways](https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Galactic Highways](https://open.spotify.com/album/59XJByKOEnmxePXKvKfTmY) | 5:57 |
 | 87 | [Freedom \- Original Mix](https://open.spotify.com/track/6wVaytq9Ssa01nMhKJELWO) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/4gyiwaMaa84mwDuDbTLEPi) | 4:43 |
 | 88 | [Monomono](https://open.spotify.com/track/2eS5Q1hbmRM3cNOSplrQuY) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Monomono](https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ) | 6:19 |
 | 89 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 92 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 |
 | 93 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 
-Snapshot ID: `MCw1YzcyZDdiYjA1YTQwOTk3NmNmZWQyYmU5MWExMTVhMzU4YzYyNDI2`
+Snapshot ID: `MCwwY2UxZDY2OTI2MTY5ZWUyNDAyMzJlNzBmODk1ODRhNzM2N2ZhM2E3`

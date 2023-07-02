@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: PARTYNEXTDOOR \u2013 celebrating 10 years of PND1 \ud83c\udf89 ",
-  "num_followers": 4732,
+  "num_followers": 4774,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjNmZTFkNDU5NzJmMzc1ZjdjZmI0NWUzN2E4YmZjODcxNDQ5NWJi",
+  "snapshot_id": "MCwwNzM4YWJiNDcxYmM2OWU5ZTcwMDg5MzVjNDAwOWQ0YjRlODk4Mjkx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Some Kinda Love",
+        "url": "https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Some Kinda Love",
+      "url": "https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 262466,
       "name": "Compassion (feat. Chiiild)",
       "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Some Kinda Love",
-        "url": "https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Some Kinda Love",
-      "url": "https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj"
     },
     {
       "added_at": "2023-06-30 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,476 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,507 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Messed Up \(feat\. Kwame\)](https://open.spotify.com/track/3nfHCaUgUFZaixJfUYcZVy) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Messed Up \(feat\. Kwame\)](https://open.spotify.com/album/44Z5RinSwYhu6EDylcXB1W) | 3:25 |
 | 80 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
 
-Snapshot ID: `MCxlNzI1N2I4Mzg4Y2U1ZWExM2UzYTM0N2Y2MzE4MTQ4ZmE0NWY0NTBl`
+Snapshot ID: `MCwzZWFiNTA5MThkZjcwNzAxMWZkOTMzN2M1Nzk4Mjk4ZDUxYTBlNDQz`

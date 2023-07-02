@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 171769,
       "name": "Aber sie",
       "url": "https://open.spotify.com/track/3DvPDYdU1EjLooP8EYFoV2"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 177000,
       "name": "ABTURN",
       "url": "https://open.spotify.com/track/0TXWnH8g2AfZEJB8yiqgrE"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 150992,
       "name": "Alles nur kein Star",
       "url": "https://open.spotify.com/track/2D0sOCo1zDMmt2dgFeqBs4"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3200,6 +3200,28 @@
       "duration_ms": 162500,
       "name": "Awimbawe (feat. Capo)",
       "url": "https://open.spotify.com/track/1CeqWLMh3P8Gf6zLlZRzPX"
+    },
+    {
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207835,
+      "name": "Aye (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
     },
     {
       "album": {
@@ -7265,6 +7287,32 @@
     },
     {
       "album": {
+        "name": "Copyright",
+        "url": "https://open.spotify.com/album/6ZeIKinsHbrY3v8SkyH0Uw"
+      },
+      "artists": [
+        {
+          "name": "Anonym",
+          "url": "https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Alpa Gun",
+          "url": "https://open.spotify.com/artist/6nHDuiu6PIpfWt6DswQHvL"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174586,
+      "name": "Copyright",
+      "url": "https://open.spotify.com/track/0qaimr3Ia5Kn4cZyX19wOB"
+    },
+    {
+      "album": {
         "name": "All I Know So Far: Setlist",
         "url": "https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn"
       },
@@ -8915,6 +8963,36 @@
     },
     {
       "album": {
+        "name": "Doktor",
+        "url": "https://open.spotify.com/album/4z0FsaVskibeMuAeS9i76g"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Alies",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198158,
+      "name": "Doktor",
+      "url": "https://open.spotify.com/track/0Qm60nnOL9TSu2bn0UZSZt"
+    },
+    {
+      "album": {
         "name": "SCORPION TO SOCIETY",
         "url": "https://open.spotify.com/album/3Q3PWpM63pNPJjhp2l4Crg"
       },
@@ -9576,6 +9654,28 @@
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "album": {
+        "name": "Droptop (feat. Azet)",
+        "url": "https://open.spotify.com/album/5lVx2ed6AHYshmQmpZ8Lte"
+      },
+      "artists": [
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122866,
+      "name": "Droptop (feat. Azet)",
+      "url": "https://open.spotify.com/track/149M6CFknupPh3F7DGEoEO"
     },
     {
       "album": {
@@ -11762,7 +11862,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 213655,
       "name": "Fieber",
       "url": "https://open.spotify.com/track/0SyQZaHDKeKscmd0x21nej"
@@ -12316,7 +12416,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 290666,
       "name": "FREE SPIRIT",
       "url": "https://open.spotify.com/track/4cnazgimJ8PWOWDUHWEMfH"
@@ -12356,6 +12456,28 @@
       "duration_ms": 210933,
       "name": "FREIHEIT",
       "url": "https://open.spotify.com/track/4nAxLl9fbnEEmYdSOHCQMt"
+    },
+    {
+      "album": {
+        "name": "Freitags",
+        "url": "https://open.spotify.com/album/2xQz18HZ4kuhZjhKspdgEd"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159590,
+      "name": "Freitags",
+      "url": "https://open.spotify.com/track/5WEHaoijxBUK9ghUnVtKQO"
     },
     {
       "album": {
@@ -12640,7 +12762,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -13237,6 +13359,28 @@
     },
     {
       "album": {
+        "name": "Genauso",
+        "url": "https://open.spotify.com/album/34Ava7glubUON4KbLM8EOh"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201711,
+      "name": "Genauso",
+      "url": "https://open.spotify.com/track/2qtOiHsh9FYFStwBf5GJVU"
+    },
+    {
+      "album": {
         "name": "Zukunft",
         "url": "https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6"
       },
@@ -13660,6 +13804,28 @@
       "duration_ms": 221979,
       "name": "Girls Want Girls (with Lil Baby)",
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "album": {
+        "name": "Giuseppe Zanotti",
+        "url": "https://open.spotify.com/album/35sQ0YREzhkU06k0Z2DNyJ"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Pano",
+          "url": "https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178577,
+      "name": "Giuseppe Zanotti",
+      "url": "https://open.spotify.com/track/1GNsE70TpX09EmrcdjOxf4"
     },
     {
       "album": {
@@ -14138,7 +14304,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 138349,
       "name": "Gramm f\u00fcr Gramm",
       "url": "https://open.spotify.com/track/4vEs6qII13M2TjDsuJ82UB"
@@ -21986,7 +22152,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 133435,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/55UV0fGoHXF749CYfEgRRv"
@@ -25442,7 +25608,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
@@ -28719,6 +28885,28 @@
     },
     {
       "album": {
+        "name": "REIN GEHEN",
+        "url": "https://open.spotify.com/album/3hG7yeaG6Jwnfzpsh7kf7Z"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "REIN GEHEN",
+      "url": "https://open.spotify.com/track/3BzqMLJnK8bHmlnKssixn5"
+    },
+    {
+      "album": {
         "name": "Reise",
         "url": "https://open.spotify.com/album/2iMzg50zTLzLx7brzDvGdW"
       },
@@ -31074,7 +31262,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 151319,
       "name": "Sie wei\u00df (feat. Mero)",
       "url": "https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc"
@@ -32620,7 +32808,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -32952,6 +33140,24 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Superstars",
+        "url": "https://open.spotify.com/album/1DxDAh1Qxro1JxWY3TS7PR"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139234,
+      "name": "Superstars",
+      "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
     },
     {
       "album": {
@@ -33560,6 +33766,24 @@
       "duration_ms": 187306,
       "name": "Teil von mir",
       "url": "https://open.spotify.com/track/6kezdAUvjvgZJcxrSH5c2W"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131122,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
     },
     {
       "album": {
@@ -35408,6 +35632,24 @@
       "duration_ms": 203000,
       "name": "Vamos a Marte (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/06sSAsjNx4eJawyXY3SXgB"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "album": {
@@ -38023,6 +38265,24 @@
     },
     {
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/5HGmgFxSvSCXtQaFwMXXm9"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168647,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/3lvIumDK6YAUZftpyZ13sG"
+    },
+    {
+      "album": {
         "name": "WRAITH",
         "url": "https://open.spotify.com/album/2hwxS7sxpiJc4XYqDHWBKV"
       },
@@ -38096,6 +38356,24 @@
       "duration_ms": 169720,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/3BqKiQiU88lXb9UdKWAEFi"
+    },
+    {
+      "album": {
+        "name": "YAMAMOTO",
+        "url": "https://open.spotify.com/album/2CvWD9teRHkBBhmSiJybeX"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109205,
+      "name": "YAMAMOTO",
+      "url": "https://open.spotify.com/track/7lVr6sKGIFECZmZpGDFFLI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。OP/ED曲、<a href="spotify:show:24s1gq2QNlYGwGLpGYYDuS">「呪術廻戦 じゅじゅとーく＋オーディオコメンタリー」</a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,437 likes - 54 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,514 likes - 54 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 4 | [Avant](https://open.spotify.com/track/4tscsbUMuX7EUZE2m97C6d) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 3:24 |
 | 5 | [LOST IN PARADISE](https://open.spotify.com/track/145wBbokDZTFZLFHOtZrzG) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:28 |
 | 6 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 |
-| 7 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
+| 7 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 8 | [The Cursed Child](https://open.spotify.com/track/7mIHaZ6pBBkIHDD1d3t9Az) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 2:07 |
 | 9 | [Greatest Strength](https://open.spotify.com/track/0qLRYyADLptZlBy1WAW1lG) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ), [Toft Willingham](https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr), [Chez](https://open.spotify.com/artist/3QPkiE4U7jN0j6oAy1QJLo), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 3:12 |
 | 10 | [Transfer Student](https://open.spotify.com/track/0Hh6onGWGbNb91vv9t61m8) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 1:00 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 53 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 |
 | 54 | [Hurt](https://open.spotify.com/track/6QGA2ZzFliSA1Dsg7rBoJJ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 1:46 |
 
-Snapshot ID: `MCxkZWQ5NjRiODQyZDYxNTkzYWVkMWEwYmVhYzVjNGViMzQzNmQ4ZTRk`
+Snapshot ID: `MCxkZWU0ZjU2ZTMyYmZiYzM4MjU0ZmJkNjdhODMyZTM1ZDkzODE0ODcx`

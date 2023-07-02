@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=p8zAWjqTRHiIp01hyVN\_TQ">Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,796 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,847 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 4 | [Peace of Mind](https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peace of Mind](https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01) | 2:51 |
 | 5 | [Bayangzonda](https://open.spotify.com/track/1obt5KT1RPNFqmt71bSoLG) | [Mac lopez](https://open.spotify.com/artist/5pgbTIhgrcYCoj6OxvHXju), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Bayangzonda](https://open.spotify.com/album/5dSWt7tKQ8pjeuv56unqNR) | 6:47 |
 | 6 | [uWeeeh 2.0](https://open.spotify.com/track/5edhx25VjIxX98TpNx4kRW) | [PRVIS3](https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz), [Xola TSM](https://open.spotify.com/artist/5qOPrfr0e9rJgYpQRUz04v), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [uWeeeh 2.0](https://open.spotify.com/album/5pS9bZviMcmM5oOu2VK1i8) | 7:11 |
-| 7 | [Umona \(Jealousy\)](https://open.spotify.com/track/3RfEK3ubKYWa3wxjTRzhxv) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Troybeatz](https://open.spotify.com/artist/6YU7KsHPq8xvXtKlZM9lDh), [Milo](https://open.spotify.com/artist/2fDRY0U8oDoxhCnki3GeIa) | [Umona \(Jealousy\)](https://open.spotify.com/album/3tOwPvtl99yV6h1X1bkpQ0) | 1:58 |
+| 7 | [Umona \(Jealousy\)](https://open.spotify.com/track/3RfEK3ubKYWa3wxjTRzhxv) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Troybeatz](https://open.spotify.com/artist/6YU7KsHPq8xvXtKlZM9lDh), [Milo](https://open.spotify.com/artist/2fDRY0U8oDoxhCnki3GeIa) | [Umona \(Jealousy\)](https://open.spotify.com/album/3tOwPvtl99yV6h1X1bkpQ0) | 2:24 |
 | 8 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 9 | [Fire](https://open.spotify.com/track/251z6QpVo6UxJ8SBg8wSri) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Fire](https://open.spotify.com/album/4Ainz1RlNrLd1Scu3DlXkt) | 3:25 |
 | 10 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 50 | [NO CARDIO](https://open.spotify.com/track/1qxr12k25ciFrYPKNf2Zt7) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK) | [NO CARDIO](https://open.spotify.com/album/7nxBXK21loevtxWZQeVDHr) | 2:18 |
 | 51 | [What We Lost](https://open.spotify.com/track/4LpU4wJa7CfnoXPLzMYZgz) | [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv), [Bonj](https://open.spotify.com/artist/69SzBlSnGFv8Fuz8JHBHfT) | [What We Lost](https://open.spotify.com/album/6rxlhCwC6jUk3wpoSXeH0i) | 3:44 |
 
-Snapshot ID: `MCwxYzIzYTljM2I2ODg4YTdhNDU3MTc4MzA1ZGMxNzgzZTViYjJhZjk0`
+Snapshot ID: `MCw2NzMxZDZkM2JmMTM3MGNkYzk3OTMyY2FmNDNjYTI5MTBlZmIxMjkw`

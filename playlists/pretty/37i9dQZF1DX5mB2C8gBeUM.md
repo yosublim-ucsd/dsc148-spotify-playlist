@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,800 likes - 137 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,015 likes - 137 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 126 | [Heartland](https://open.spotify.com/track/634zF9K8obrdbKddcf5eK8) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [HUSH](https://open.spotify.com/artist/7iV99HXQMpTCGrtcVn6jAi) | [Heartland](https://open.spotify.com/album/3nNAaz73wIfNSdyAjlcWCD) | 3:15 |
 | 127 | [No Limits \(feat\. Jimmie Allen\)](https://open.spotify.com/track/305Y0rejNFVeHkmyO5I57R) | [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Limits \(feat\. Jimmie Allen\)](https://open.spotify.com/album/5lbMOKVS0bMuHe9su657Co) | 3:29 |
 | 128 | [Bottled Up](https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Bottled Up](https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu) | 2:37 |
-| 129 | [Tequila Talkin'](https://open.spotify.com/track/3LjZIJQCRx5wh7yYOpYNFB) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:18 |
+| 129 | [Tequila Talkin'](https://open.spotify.com/track/2fr7A7d2eg1j2NcteyXz9B) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:18 |
 | 130 | [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 |
 | 131 | [Say It Again](https://open.spotify.com/track/3QP4KQ74RjP3ziiAkeLqcO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Say It Again](https://open.spotify.com/album/30JoxMW7toDvE90C2nyCtv) | 3:07 |
 | 132 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 136 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 |
 | 137 | [Country Love Song](https://open.spotify.com/track/5vELSiqWSrJTOLuj4lTiPS) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Country Love Song](https://open.spotify.com/album/56zZX11mnTd4gJwcHR2aQl) | 3:12 |
 
-Snapshot ID: `MCwwZTM2YjBmNjcxMmYyNTU2MTAxNjI5NGMyMzNiODU1NmYxMjIxZTVi`
+Snapshot ID: `MCw3MjUwZGM5MGQzNTc4N2MzYzIzZmMyODYzZDcyNzdiMDZjYzFkZWI2`

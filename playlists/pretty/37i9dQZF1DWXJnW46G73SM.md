@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية🤩 الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=b9CvGGw7SxqE65mfEWKF0Q"> حسين الجسمي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,168 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,296 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [3an Albi](https://open.spotify.com/track/1Kp8xfjcjQLOBj4BxpV6m0) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [3an Albi](https://open.spotify.com/album/4qZZPJFD3Y5y0cnn3Ol7EN) | 2:35 |
 | 50 | [W Salam](https://open.spotify.com/track/1Drqj4zr00olmRv1wCxMMF) | [Islam Farouk](https://open.spotify.com/artist/0jlFw8aeyMYHCmvxwNFOpS), [Karim Heraje](https://open.spotify.com/artist/24PZ8fjUktJhu10XJ7PphZ) | [W Salam](https://open.spotify.com/album/6lyIuHI9vEHxNRexISseEP) | 3:09 |
 
-Snapshot ID: `MCxkMWRhMjQ3YzFkODVmZmRkYmNkYzlhZGEwYWFjOGIwZGE2Njg0OTNj`
+Snapshot ID: `MCxlMjY2ZWU2OGQ3NmRhZGYxZDcwYWMyODliY2NlZDIzYjQ0MDg4NDVl`

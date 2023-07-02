@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+    },
+    {
+      "album": {
         "name": "GOOD GIRL (Episode 3)",
         "url": "https://open.spotify.com/album/2bKpgH4MLl6pRfl6ZzuOkj"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 190889,
       "name": "Boogie Woogie",
       "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
@@ -3685,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo"
+    },
+    {
+      "album": {
         "name": "The W",
         "url": "https://open.spotify.com/album/6XqSbtKtmWkEAYbXfzFkV6"
       },
@@ -4354,7 +4394,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 188720,
       "name": "Sea of Moonlight",
       "url": "https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE"

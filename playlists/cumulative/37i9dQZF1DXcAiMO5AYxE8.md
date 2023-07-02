@@ -4,7 +4,7 @@
 
 > All the best soul disco sounds for getting down.
 
-122 songs - 8 hr 38 min
+123 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Never Too Much](https://open.spotify.com/track/5XKAAymi0ro0SO9JaXeuhQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:50 | 2020-04-14 | 2022-11-14 |
 | [Never Too Much](https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Collections](https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz) | 3:51 | 2020-04-14 | 2022-07-29 |
 | [Night Fever \- 2009 Remastered Version](https://open.spotify.com/track/0ZFJpY6hELA21Y5d5YmdlR) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 3:32 | 2020-04-14 | 2022-07-29 |
-| [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:32 | 2020-04-14 |  |
+| [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 | 2020-04-14 |  |
+| [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:32 | 2020-04-14 | 2023-07-02 |
 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2pt3z57ZtiDh6sF9ZDMhiQ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best of Disco Dance \- Classics](https://open.spotify.com/album/739cwYvfuR4EtHP6R4dZtn) | 3:32 | 2020-04-14 | 2022-11-13 |
 | [Now That We Found Love](https://open.spotify.com/track/4HfY87hxvIVCCLhNlQ59M9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Collections](https://open.spotify.com/album/0mImd05G3t8DkjQdDdPEoI) | 4:39 | 2020-04-14 | 2022-07-29 |
 | [Now That We Found Love](https://open.spotify.com/track/7JlAWDT2SF5dVtCOahqrdF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 4:41 | 2020-04-14 | 2022-11-13 |

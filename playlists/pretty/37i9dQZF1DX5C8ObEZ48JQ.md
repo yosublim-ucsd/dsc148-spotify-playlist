@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV?si=vmyg8\-p7QOGOeEt9OPygIQ"> Rukmani </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,041 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,048 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 2 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 |
 | 3 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 |
 | 4 | [Echo](https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Echo](https://open.spotify.com/album/0FvnSxzhdYUeHwOHCnC5H1) | 3:04 |
-| 5 | [The other side](https://open.spotify.com/track/1fWpvqKirCgXUsSLT8DLC2) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 3:37 |
+| 5 | [The Other Side](https://open.spotify.com/track/1fWpvqKirCgXUsSLT8DLC2) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 3:37 |
 | 6 | [+254](https://open.spotify.com/track/3fuSCqDF30WnkGwZBZ5wbC) | [Baraka](https://open.spotify.com/artist/5iTrKbFqjyrwQBi5dLBsHz), [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [East African Baby 4 Life](https://open.spotify.com/album/5CTJsXbPgRNTm2uKEWFzi2) | 2:26 |
 | 7 | [Vibration](https://open.spotify.com/track/69N20fDZagMeAx5dWi4zRE) | [Basiil](https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV) | [Vibration](https://open.spotify.com/album/6JYkMYw3zNBTuNHsBnlVA8) | 2:50 |
 | 8 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 48 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 |
 | 49 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 |
 
-Snapshot ID: `MCw3NTc2MDVkNTIzMjc0MDNjZjI3NTZhYzk4NzM2YTA5MzFlMWEyZTk4`
+Snapshot ID: `MCw0OWNjMmY3YzdmOTFiNjU1YTJjOWUzZGY2NmIyMGRjMWVlODU0NmIy`

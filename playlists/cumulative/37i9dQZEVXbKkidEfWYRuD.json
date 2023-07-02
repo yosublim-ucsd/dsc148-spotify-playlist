@@ -4416,7 +4416,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 121296,
       "name": "i dont wna cry (haste)",
       "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
@@ -6740,7 +6740,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 268434,
       "name": "Murder on My Mind",
       "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
@@ -10629,6 +10629,28 @@
     },
     {
       "album": {
+        "name": "MEDIV Ultimate Victim",
+        "url": "https://open.spotify.com/album/7LNeDJea66ehJsmzVC4i3e"
+      },
+      "artists": [
+        {
+          "name": "Clonnex",
+          "url": "https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L"
+        },
+        {
+          "name": "LIL MORTY",
+          "url": "https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Vaginoman",
+      "url": "https://open.spotify.com/track/7KkFsNwsnMdhRs6gFk7rc7"
+    },
+    {
+      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -11092,6 +11114,24 @@
       "duration_ms": 242916,
       "name": "XXX (feat. J. ROUH)",
       "url": "https://open.spotify.com/track/4B35L6jk3VHtVM6bC28fgN"
+    },
+    {
+      "album": {
+        "name": "MEDIV Ultimate Victim",
+        "url": "https://open.spotify.com/album/7LNeDJea66ehJsmzVC4i3e"
+      },
+      "artists": [
+        {
+          "name": "Clonnex",
+          "url": "https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119069,
+      "name": "Y2K",
+      "url": "https://open.spotify.com/track/2RGpWRipboewLmXIEs6kPk"
     },
     {
       "album": {
@@ -12781,6 +12821,28 @@
     },
     {
       "album": {
+        "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
+        "url": "https://open.spotify.com/album/6ilHfO6yd6iTUrgB0jrmdg"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133541,
+      "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
+      "url": "https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc"
+    },
+    {
+      "album": {
         "name": "\u0412\u043e\u0432\u0430, \u0457\u0431\u0430\u0448 \u0457\u0445 \u0431\u043b\u044f\u0442\u044c",
         "url": "https://open.spotify.com/album/6dG164KSddFfZI6VirzCjB"
       },
@@ -12908,7 +12970,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 169586,
       "name": "\u0432\u043e\u0442\u0441\u0430\u043f",
       "url": "https://open.spotify.com/track/7iGdK8FeeKfWiLR3Ax6phw"
@@ -14196,7 +14258,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "\u0414\u043e\u0434\u043e\u043c\u0443 (feat. Skofka)",
       "url": "https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD"
@@ -14840,7 +14902,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 112384,
       "name": "\u0417\u0430\u043d\u043e\u0432\u043e \u0437\u0430\u0432\u043e\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/7FbLIFBTQiSu1bHP3BQoWl"
@@ -18630,7 +18692,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"
@@ -18930,7 +18992,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -20520,6 +20582,24 @@
       "duration_ms": 131506,
       "name": "\u0422\u0420\u042d\u041f \u0414\u0412\u0418\u0416\u0415\u041d\u0418\u042f",
       "url": "https://open.spotify.com/track/0IwVRC9ENR0FmcFeTXBgi8"
+    },
+    {
+      "album": {
+        "name": "High Speed",
+        "url": "https://open.spotify.com/album/0Z7sTgycrwXlZ7phRdDShI"
+      },
+      "artists": [
+        {
+          "name": "Alex Ricellow",
+          "url": "https://open.spotify.com/artist/2U6Xrq3PvZiQaSVS22FJPo"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108218,
+      "name": "\u0422\u0443\u0434\u0430 \u0441\u044e\u0434\u0430",
+      "url": "https://open.spotify.com/track/7lmlqoqCS8NvzRSX3Wf2zr"
     },
     {
       "album": {

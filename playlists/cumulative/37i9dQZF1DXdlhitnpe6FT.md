@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-195 songs - 10 hr 45 min
+196 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Servizio fotografico](https://open.spotify.com/track/1UbsI84khPCr2SlJQBkwOX) | [Bruno Nicolai](https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl) | [La dama rossa uccide sette volte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68M4f2IyrzuzYg1jAMoLVg) | 2:02 | 2020-12-08 | 2023-06-10 |
 | [Servizio fotografico](https://open.spotify.com/track/2DQp49OSbORnQT0Imeo61H) | [Bruno Nicolai](https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl) | [La dama rossa uccide sette volte \(Soundtrack\)](https://open.spotify.com/album/7I6i2zWhhTC09CttcH2lY8) | 2:02 | 2020-12-08 | 2022-06-21 |
 | [Siempre en mi corazon](https://open.spotify.com/track/5Al2fsmsCmUSVnBvM1FJDv) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [30 melodías de guitarra](https://open.spotify.com/album/2XhP4QnzXDlfFlmHTXkjOW) | 2:29 | 2020-12-08 | 2022-11-13 |
+| [Siempre en Mi Corazón](https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:30 | 2020-12-08 |  |
 | [Sleep Walk](https://open.spotify.com/track/0yK8sWD6cfrc7pGfaPIcZH) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Canadian American Greatest Hits 50th Anniversary Collection](https://open.spotify.com/album/5toxcaerHCTPDtIcQOTRx8) | 2:25 | 2020-12-08 |  |
 | [Sleepwalk](https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Volume Secondo](https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8) | 2:31 | 2020-12-08 |  |
 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 | 2020-12-08 |  |
@@ -176,7 +177,7 @@
 | [Star Dust](https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Colección de Éxitos](https://open.spotify.com/album/6d4jnq3ziyFtQWgUSW2X6y) | 2:37 | 2020-12-08 | 2023-02-27 |
 | [Star Dust](https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Colección de Éxitos](https://open.spotify.com/album/5iqRFuoGSCN6glQuBUhBHn) | 2:37 | 2020-12-08 | 2023-06-12 |
 | [Stranger In Paradise](https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 3:03 | 2020-12-08 |  |
-| [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 | 2020-12-08 |  |
+| [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 | 2020-12-08 | 2023-07-02 |
 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 | 2020-12-08 |  |
 | [The Entertainer](https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Fingerbreaker: Classics Of Ragtime And Early Jazz Piano](https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ) | 3:53 | 2020-12-08 |  |
 | [The Entertainer \- The Sting/Soundtrack Version/Orchestra Version](https://open.spotify.com/track/1wOCbnIsFcps5HALzAwRF5) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:00 | 2020-12-08 | 2022-07-29 |

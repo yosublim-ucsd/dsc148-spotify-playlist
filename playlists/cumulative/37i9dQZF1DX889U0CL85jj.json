@@ -8408,10 +8408,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 190004,
       "name": "supernatural thing",
       "url": "https://open.spotify.com/track/0Jp7KkwghEAMIWFGsyDv4A"
+    },
+    {
+      "album": {
+        "name": "supernatural thing",
+        "url": "https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190004,
+      "name": "supernatural thing",
+      "url": "https://open.spotify.com/track/60gyTbwT5xl0gMRu5B82eA"
     },
     {
       "album": {

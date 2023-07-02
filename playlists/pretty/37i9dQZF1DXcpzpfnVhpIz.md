@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 
 > Italian superstar producer & DJ <a href="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,570 likes - 19 songs - 58 min 15 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,586 likes - 19 songs - 58 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 | 18 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 19 | [Ferris Wheel \- Ashley Wallbridge Remix \- Mixed](https://open.spotify.com/track/1WQ8ibSIyPrDkiwnuehnd3) | [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW), [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG) | [Ferris Wheel \- Ashley Wallbridge Remix \(Mixed\)](https://open.spotify.com/album/12InWOMfp0IuhvnYF2UA6r) | 2:26 |
 
-Snapshot ID: `MCw3YmUxNmEwMDFlMzBmYjE1N2QwZjY4Y2IzMGMxMWU0NzMxM2Q1NzI3`
+Snapshot ID: `MCwyZTdmNDEzNTI5NTljOWFmZGY3YWRiODI4Nzg3MjdhODE2M2IxNDVj`

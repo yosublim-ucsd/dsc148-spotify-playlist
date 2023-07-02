@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-348 songs - 22 hr 55 min
+349 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 | 2020-12-22 |  |
 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 | 2023-03-20 | 2023-05-23 |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2020-12-22 | 2022-04-21 |
+| [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-30 |  |
 | [Heat\-Wave](https://open.spotify.com/track/5RwQuZtvlmLq6rutrcugxF) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY) | [Heat\-Wave](https://open.spotify.com/album/205mIe44luLaMWMijo4ukX) | 5:56 | 2020-12-22 | 2022-07-05 |
 | [Heights](https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heights](https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ) | 2:54 | 2020-12-22 |  |
 | [Here We Are Again](https://open.spotify.com/track/3CLsZEY8QC4ZTBJGF47sGp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Here We Are Again](https://open.spotify.com/album/1LWzd1ZpdNVucRD7kPEqXb) | 3:27 | 2020-12-22 | 2022-04-20 |
@@ -224,7 +225,7 @@
 | [Okay, Saint Laurent](https://open.spotify.com/track/68uwWsxoI2yb0RhQw69eRF) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Okay, Saint Laurent](https://open.spotify.com/album/0nrujX14UZkDHf6kLRHR2G) | 3:00 | 2020-12-22 | 2022-07-29 |
 | [Old Bone \- Jim\-E Stack Remix](https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Old Bone \(Jim\-E Stack Remix\)](https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t) | 3:27 | 2020-12-22 | 2023-06-18 |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/01W0uSuNffDSC2RT8Cjha3) | 6:11 | 2020-12-22 | 2022-04-20 |
-| [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 | 2020-12-22 |  |
+| [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [XX](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 | 2020-12-22 |  |
 | [Onewish](https://open.spotify.com/track/4gQMYhluJXtB10cEXdymYL) | [Michael David](https://open.spotify.com/artist/5C1YLUNAIIJEU0Zrl251QX) | [Onewish](https://open.spotify.com/album/7A7W44SGbNRuJjzSO8FXXy) | 5:57 | 2020-12-22 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/0A9fNzuRa0WqaCmxY7FOLK) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [Only](https://open.spotify.com/album/1XuuSIOYNqPcZSlgkl9H06) | 4:23 | 2020-12-22 | 2022-04-21 |
 | [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 | 2020-12-22 | 2022-05-08 |
@@ -261,7 +262,7 @@
 | [Santé](https://open.spotify.com/track/6jow31AYUbHoTW6OlX0mP1) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Santé](https://open.spotify.com/album/0BmPe2VtJIG1Zv7p5IQSAN) | 1:38 | 2020-12-22 | 2022-04-18 |
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2021-03-19 | 2023-02-07 |
 | [See You Again](https://open.spotify.com/track/26gAJmT5PipdLamyFMy7c8) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/6oRdKgJrTM7mNHNhCZZYs6) | 4:22 | 2021-03-19 | 2022-07-29 |
-| [Shine a Light \- Flight Facilities Remix](https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine a Light](https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG) | 5:49 | 2020-12-22 |  |
+| [Shine a Light \- Flight Facilities Remix](https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine a Light](https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG) | 5:49 | 2020-12-22 | 2023-07-02 |
 | [Shine A Light \- Flight Facilities Remix](https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine A Light](https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9) | 5:49 | 2020-12-22 | 2022-11-20 |
 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 | 2023-04-07 |  |
 | [Simple](https://open.spotify.com/track/05LiQlMRX2PlThoHWPjGae) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Simple](https://open.spotify.com/album/4w3xE0xHZhglqAd8hXofGw) | 3:48 | 2020-12-22 | 2022-04-19 |

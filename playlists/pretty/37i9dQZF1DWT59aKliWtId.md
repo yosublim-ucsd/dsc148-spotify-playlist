@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,840 likes - 109 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,859 likes - 109 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 108 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 109 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 
-Snapshot ID: `MCw1NzIwM2JiMzU3OTAzYjc5YTc3Y2VlNGY3ZDQ5ODNkODVkNDZkZDgw`
+Snapshot ID: `MCw0MmNhOWU4M2YyNjliMDAzMDZlZWUyZWMxN2UwMGVhOTMxYmQxOWVh`

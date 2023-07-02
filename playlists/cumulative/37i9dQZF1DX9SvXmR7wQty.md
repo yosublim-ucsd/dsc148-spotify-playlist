@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aliocha Schneider
 
-1,930 songs - 4 day 7 hr 13 min
+1,931 songs - 4 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Chérie](https://open.spotify.com/track/3ro1ucDAHXvdRnv7Se2Gyv) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 3:25 | 2022-01-21 | 2022-02-05 |
 | [Chérie Chérie](https://open.spotify.com/track/5Kmcs06OBnIlniAuymSKbF) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Chérie Chérie](https://open.spotify.com/album/6fdzXCEnjiQ5yUDRxTKiIa) | 2:20 | 2022-07-22 | 2022-08-20 |
 | [Ciel ecchymose](https://open.spotify.com/track/574ZItG1oVejfxXj780D3E) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Couleur Ciel Ecchymose](https://open.spotify.com/album/4yRwogj8YMENLtt3BtFgRa) | 3:48 | 2022-05-20 | 2022-06-04 |
+| [Cités de France](https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 | 2023-06-30 |  |
 | [Clandestin](https://open.spotify.com/track/6DIjzGSsbZhBxAmzNg2i9T) | [La Faune](https://open.spotify.com/artist/3PHImlj9rqrewqZx3uPlQO) | [Clandestin](https://open.spotify.com/album/7FVcYDNzwMf0lYi2Es6zwO) | 2:49 | 2022-06-10 | 2022-06-18 |
 | [Clandestina](https://open.spotify.com/track/5bDhpwMTqfX1rKBn65btBr) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Clandestina](https://open.spotify.com/album/2wMWO0hVuUFJGbXl4yX4Me) | 3:47 | 2022-06-10 | 2022-06-25 |
 | [Claro que sì \(feat\. Dadju\)](https://open.spotify.com/track/0BNMtjHKvjC4iWh6r139Qp) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Rihan](https://open.spotify.com/album/0tPwB3bRESXokUKZclOLFq) | 3:11 | 2022-03-18 | 2022-04-02 |
@@ -728,7 +729,7 @@
 | [Iapit Nutepanu Tshekuan \- Ce qui me manque](https://open.spotify.com/track/4asH9NNYXfHuHrYfbj51XR) | [Claude McKenzie](https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY) | [Iapit Nutepanu Tshekuan \(Ce qui me manque\)](https://open.spotify.com/album/00m2SGOln3FyxdjUsVcTdT) | 4:03 | 2021-12-31 | 2022-01-08 |
 | [Ice](https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:23 | 2022-06-24 | 2022-07-16 |
 | [Ici c’est Toulouse](https://open.spotify.com/track/0D050w2EIJMwDAFPqh7IUQ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/1DO9NnnNHJHstVla096ryH) | 3:03 | 2022-07-15 | 2022-08-13 |
-| [Iggy Pop](https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Iggy Pop](https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF) | 2:48 | 2023-05-19 |  |
+| [Iggy Pop](https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Iggy Pop](https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF) | 2:48 | 2023-05-19 | 2023-07-02 |
 | [Ijeje](https://open.spotify.com/track/3CwimZSMD8orpziHA0BX5Y) | [Bnyofficial](https://open.spotify.com/artist/5BqM9z6eisbGASuqh5B6QM), [Joel Esso](https://open.spotify.com/artist/6DMqGLtwCVXjmmfdppxC0t) | [Ijeje](https://open.spotify.com/album/6UcnRiQoFONiVJlfbQl69I) | 3:19 | 2022-08-19 | 2022-08-27 |
 | [Il fallait qu'on le fasse](https://open.spotify.com/track/6uw3tUdaPtAzBAV7JZ9vOv) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [T.A.P Theflye](https://open.spotify.com/artist/40m04t49zg4MghG1X6BT7V) | [Il fallait qu'on le fasse](https://open.spotify.com/album/3QjEIa4o0DjeOWSOclEE8e) | 2:42 | 2022-06-10 | 2022-06-18 |
 | [Il faut partir maintenant](https://open.spotify.com/track/4iu1AMk5zFfnveFmk1jzId) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/0xr6PaYYMZMXKfAsOxiWAt) | 3:05 | 2022-11-04 | 2022-11-26 |

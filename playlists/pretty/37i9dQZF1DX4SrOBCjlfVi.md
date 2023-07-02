@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 42 Dugg, Veeze and more\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,891 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,055 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Biggest Problem](https://open.spotify.com/track/2oUmqDG6F5VJdzOPmeby7m) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Biggest Problem](https://open.spotify.com/album/6MbEx98D1JSVHIAXKHQldh) | 2:38 |
 | 37 | [Type Beat](https://open.spotify.com/track/2ZOUvsKcRRG5ttRgJXAAPl) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Type Beat](https://open.spotify.com/album/6tK01bQr0ojch5kJpSqmg4) | 2:11 |
 | 38 | [Yo Baby Mama Ugly](https://open.spotify.com/track/41LpHD55TiX85sDovbsgsK) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Yo Baby Mama Ugly](https://open.spotify.com/album/6qg6VgcHj5aQIQIMF9TJNP) | 2:05 |
-| 39 | [Body \(feat\. 2Rare\)](https://open.spotify.com/track/6eGg9OjQMRtmHc3DPfxQoy) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Body \(feat\. 2Rare\)](https://open.spotify.com/album/50ovRYluaLthdz654P7krM) | 2:36 |
+| 39 | [Body / Love To Party \(feat\. 2Rare\)](https://open.spotify.com/track/6eGg9OjQMRtmHc3DPfxQoy) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Body / Love To Party \(feat\. 2Rare\)](https://open.spotify.com/album/50ovRYluaLthdz654P7krM) | 2:36 |
 | 40 | [That's It](https://open.spotify.com/track/6rMjVOGsrCVxqzlNAQQ0oP) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [That's It](https://open.spotify.com/album/00o8yMI5PN6DtEVz1iTkDm) | 2:28 |
 | 41 | [It Girl \- Freestyle](https://open.spotify.com/track/3XGWBonwHw1qOsG8OzQprB) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [It Girl \(Freestyle\)](https://open.spotify.com/album/3Kgw7RB3cOPAGbkaV9t7sK) | 2:45 |
 | 42 | [Redefine \(6 Missed Calls\)](https://open.spotify.com/track/6uYMiqZLIE0BYxBJ0n99ei) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Redefine \(6 Missed Calls\)](https://open.spotify.com/album/742AE766TZqA7FDqmVcpVg) | 2:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Free My Dawgs](https://open.spotify.com/track/3evZ0KZGKFEVaYpYxw28Wa) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Free My Dawgs](https://open.spotify.com/album/6p1vAfv5WEsu2yNjn1lclB) | 2:42 |
 | 49 | [How Much Does A Peace of Mind Cost?](https://open.spotify.com/track/1Om5DQ8qCnL4RIcSH7RikL) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lucas Quinn](https://open.spotify.com/artist/0yL7jHvJY3Pe3li1PuGI9f) | [HOW MUCH DOES A PEACE OF MIND COST?](https://open.spotify.com/album/3GLkzBAaCGXEpvOT8aMUr5) | 3:32 |
 
-Snapshot ID: `MCw2M2JjZWJhYTRkMWU5YmU4MzUxMDhhZGE4NWRiNDRiYzBjYWEzYjky`
+Snapshot ID: `MCxmMmY5Yjg3NzUxMThhOGJlZWU2OGUzOTBjOWNjYWQyZWFlODFkNjlh`

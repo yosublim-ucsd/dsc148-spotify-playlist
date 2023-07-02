@@ -1,12 +1,12 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: OVERLOAD. Artwork: Isu Kim",
-  "num_followers": 7092,
+  "num_followers": 7098,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRhY2MxYjU1M2NlMThkYjk3NzhhMGU1MjY2YTBmZGU5YzFjOWU4",
+  "snapshot_id": "MCxmYjU1NjZjYWM2YWJlYjNhYjI5NTZkMDMzOWU3ZDg4NGExMGRiNzRk",
   "tracks": [
     {
       "added_at": "2023-06-30 11:04:03",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
+        "name": "\u0e08\u0e33\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/0ZiYM0LgNfTo1dyuDTjxdb"
+      },
+      "artists": [
+        {
+          "name": "More Nine",
+          "url": "https://open.spotify.com/artist/4TH3r2oEvgV8AINodIkJjv"
+        }
+      ],
+      "duration_ms": 219101,
+      "name": "\u0e08\u0e33\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/3DNyV68FXMoP4WWnUnkDtp"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
         "name": "\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e47\u0e15\u0e21\u0e35\u0e19\u0e47\u0e2d\u0e15",
         "url": "https://open.spotify.com/album/2yXSePM5mhJWqJyp1V22k3"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "\u0e08\u0e33\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/0ZiYM0LgNfTo1dyuDTjxdb"
+        "name": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29 (Time To Love)",
+        "url": "https://open.spotify.com/album/0vJAdME3KE2lXXzNimcGx2"
       },
       "artists": [
         {
-          "name": "More Nine",
-          "url": "https://open.spotify.com/artist/4TH3r2oEvgV8AINodIkJjv"
+          "name": "PRIMETIME",
+          "url": "https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi"
         }
       ],
-      "duration_ms": 219101,
-      "name": "\u0e08\u0e33\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/3DNyV68FXMoP4WWnUnkDtp"
+      "duration_ms": 190000,
+      "name": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29 (Time To Love)",
+      "url": "https://open.spotify.com/track/6Z7vxUs7OmuVMlkX6ZEz3R"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29 (Time To Love)",
-        "url": "https://open.spotify.com/album/0vJAdME3KE2lXXzNimcGx2"
-      },
-      "artists": [
-        {
-          "name": "PRIMETIME",
-          "url": "https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29 (Time To Love)",
-      "url": "https://open.spotify.com/track/6Z7vxUs7OmuVMlkX6ZEz3R"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
         "name": "\u0e17\u0e35\u0e48\u0e23\u0e30\u0e1a\u0e32\u0e22 (UR TRASH)",
         "url": "https://open.spotify.com/album/196wnLcQpptaObjm0C3FOK"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "\u0e40\u0e40\u0e04\u0e48\u0e40\u0e18\u0e2d Feat. HillMaN",
-        "url": "https://open.spotify.com/album/5U7FZsMIruzFjcqZnmjBN7"
-      },
-      "artists": [
-        {
-          "name": "Pong Pongsatorn",
-          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "\u0e40\u0e40\u0e04\u0e48\u0e40\u0e18\u0e2d Feat. HillMaN",
-      "url": "https://open.spotify.com/track/3bZSuPCw2VteGh7PIoNbCe"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e41\u0e25\u0e49\u0e27 (Decision)",
         "url": "https://open.spotify.com/album/1E4GPgDgNIT6FheVugD7NA"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 248137,
       "name": "\u0e09\u0e31\u0e19\u0e1d\u0e31\u0e19\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e04\u0e19\u0e2d\u0e37\u0e48\u0e19",
       "url": "https://open.spotify.com/track/4b7Shl7l8PriAUt011nCmy"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
+        "name": "\u0e40\u0e40\u0e04\u0e48\u0e40\u0e18\u0e2d Feat. HillMaN",
+        "url": "https://open.spotify.com/album/5U7FZsMIruzFjcqZnmjBN7"
+      },
+      "artists": [
+        {
+          "name": "Pong Pongsatorn",
+          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "\u0e40\u0e40\u0e04\u0e48\u0e40\u0e18\u0e2d Feat. HillMaN",
+      "url": "https://open.spotify.com/track/3bZSuPCw2VteGh7PIoNbCe"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -499,6 +499,22 @@
       "duration_ms": 222500,
       "name": "\u0e1c\u0e34\u0e14\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (My Fault)",
       "url": "https://open.spotify.com/track/21y4uiSgjxY7GSCnfBBP0u"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
+        "name": "notOKkrubbossX",
+        "url": "https://open.spotify.com/album/7aKVWeLmAGGlXBb61cUnTU"
+      },
+      "artists": [
+        {
+          "name": "_less",
+          "url": "https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "notOKkrubbossX",
+      "url": "https://open.spotify.com/track/3a45uca8fm2zk46M2pBwcg"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "notOKkrubbossX",
-        "url": "https://open.spotify.com/album/7aKVWeLmAGGlXBb61cUnTU"
+        "name": "MOVE ON",
+        "url": "https://open.spotify.com/album/6cLoByFeTtpxeutTICcr5o"
       },
       "artists": [
         {
-          "name": "_less",
-          "url": "https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of"
+          "name": "DEANNYBOY",
+          "url": "https://open.spotify.com/artist/7brS19o7RcUgpybF3ma0nD"
         }
       ],
-      "duration_ms": 233684,
-      "name": "notOKkrubbossX",
-      "url": "https://open.spotify.com/track/3a45uca8fm2zk46M2pBwcg"
+      "duration_ms": 204000,
+      "name": "MOVE ON",
+      "url": "https://open.spotify.com/track/7MCxpKkrHRCN8KyWjHsgam"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -603,6 +619,22 @@
       "duration_ms": 264000,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07?(When)",
       "url": "https://open.spotify.com/track/3es1ERYUff1bFYRb5MKMb1"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
+        "name": "\u0e08\u0e23\u0e34\u0e07\u0e22\u0e34\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e08\u0e23\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/5TF7VQJywdhnykHIpb84Cq"
+      },
+      "artists": [
+        {
+          "name": "Morning Moon",
+          "url": "https://open.spotify.com/artist/1KULQUlIQ7V4LvB3Cfu33e"
+        }
+      ],
+      "duration_ms": 353043,
+      "name": "\u0e08\u0e23\u0e34\u0e07\u0e22\u0e34\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e08\u0e23\u0e34\u0e07",
+      "url": "https://open.spotify.com/track/6FIQFjfGVq0i9ASKpMPtdT"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -627,6 +659,54 @@
       "duration_ms": 198000,
       "name": "\u0e40\u0e15\u0e47\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/1EZrdyKJeyaAeBk1ZFNQlB"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/7HPeELIiUAx4DMkv71b3Qf"
+      },
+      "artists": [
+        {
+          "name": "Makesense",
+          "url": "https://open.spotify.com/artist/4OmbSkYFHv3nTDYM3yWK3d"
+        }
+      ],
+      "duration_ms": 274909,
+      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/50dkGsJE5vAqDDLRahdffY"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/0wOFpOoM0O8mbXvq6Wd4XF"
+      },
+      "artists": [
+        {
+          "name": "dayys",
+          "url": "https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr"
+        }
+      ],
+      "duration_ms": 211206,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/0MTz4WKQoDfDwrCjtFbTbp"
+    },
+    {
+      "added_at": "2023-06-30 11:04:03",
+      "album": {
+        "name": "\u0e19\u0e31\u0e1a\u0e41\u0e01\u0e30",
+        "url": "https://open.spotify.com/album/4wV33mmOCqkBRqR1mDnawt"
+      },
+      "artists": [
+        {
+          "name": "Eii",
+          "url": "https://open.spotify.com/artist/5h54QyLLogzDdILNxjV8Z3"
+        }
+      ],
+      "duration_ms": 180315,
+      "name": "\u0e19\u0e31\u0e1a\u0e41\u0e01\u0e30",
+      "url": "https://open.spotify.com/track/1DUltRrehOspobGA8TITZb"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -663,34 +743,34 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "\u0e08\u0e23\u0e34\u0e07\u0e22\u0e34\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e08\u0e23\u0e34\u0e07",
-        "url": "https://open.spotify.com/album/5TF7VQJywdhnykHIpb84Cq"
+        "name": "\u0e22\u0e31\u0e07\u0e08\u0e33",
+        "url": "https://open.spotify.com/album/1ueIwpf33uYFXDlRxeJtKI"
       },
       "artists": [
         {
-          "name": "Morning Moon",
-          "url": "https://open.spotify.com/artist/1KULQUlIQ7V4LvB3Cfu33e"
+          "name": "MAX-GAZINE",
+          "url": "https://open.spotify.com/artist/6p4wOKLbdesuq6GOIBkz2d"
         }
       ],
-      "duration_ms": 353043,
-      "name": "\u0e08\u0e23\u0e34\u0e07\u0e22\u0e34\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e08\u0e23\u0e34\u0e07",
-      "url": "https://open.spotify.com/track/6FIQFjfGVq0i9ASKpMPtdT"
+      "duration_ms": 276125,
+      "name": "\u0e22\u0e31\u0e07\u0e08\u0e33",
+      "url": "https://open.spotify.com/track/30ssoqngneU5DveW87wPFF"
     },
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "\u0e19\u0e31\u0e1a\u0e41\u0e01\u0e30",
-        "url": "https://open.spotify.com/album/4wV33mmOCqkBRqR1mDnawt"
+        "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e1f\u0e49\u0e32 (Our Destiny)",
+        "url": "https://open.spotify.com/album/0MVV8OaMDe0DWB7wXWRUJu"
       },
       "artists": [
         {
-          "name": "Eii",
-          "url": "https://open.spotify.com/artist/5h54QyLLogzDdILNxjV8Z3"
+          "name": "Earthernative",
+          "url": "https://open.spotify.com/artist/7GFv9FNx00e4BepFvSbbrK"
         }
       ],
-      "duration_ms": 180315,
-      "name": "\u0e19\u0e31\u0e1a\u0e41\u0e01\u0e30",
-      "url": "https://open.spotify.com/track/1DUltRrehOspobGA8TITZb"
+      "duration_ms": 154400,
+      "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e1f\u0e49\u0e32 (Our Destiny)",
+      "url": "https://open.spotify.com/track/4Y7FvqfuhI9DD7Szi9O1v7"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -715,22 +795,6 @@
     {
       "added_at": "2023-06-30 11:04:03",
       "album": {
-        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
-        "url": "https://open.spotify.com/album/0wOFpOoM0O8mbXvq6Wd4XF"
-      },
-      "artists": [
-        {
-          "name": "dayys",
-          "url": "https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr"
-        }
-      ],
-      "duration_ms": 211206,
-      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
-      "url": "https://open.spotify.com/track/0MTz4WKQoDfDwrCjtFbTbp"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
         "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e31\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
         "url": "https://open.spotify.com/album/5rX9PvCLtWgKA6dTOnb9b7"
       },
@@ -743,54 +807,6 @@
       "duration_ms": 205000,
       "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e31\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/2jkJCDXJ2dKpJeUPKZ1eCN"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
-        "url": "https://open.spotify.com/album/7HPeELIiUAx4DMkv71b3Qf"
-      },
-      "artists": [
-        {
-          "name": "Makesense",
-          "url": "https://open.spotify.com/artist/4OmbSkYFHv3nTDYM3yWK3d"
-        }
-      ],
-      "duration_ms": 274909,
-      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e43\u0e04\u0e23",
-      "url": "https://open.spotify.com/track/50dkGsJE5vAqDDLRahdffY"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
-        "name": "MOVE ON",
-        "url": "https://open.spotify.com/album/6cLoByFeTtpxeutTICcr5o"
-      },
-      "artists": [
-        {
-          "name": "DEANNYBOY",
-          "url": "https://open.spotify.com/artist/7brS19o7RcUgpybF3ma0nD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MOVE ON",
-      "url": "https://open.spotify.com/track/7MCxpKkrHRCN8KyWjHsgam"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e1f\u0e49\u0e32 (Our Destiny)",
-        "url": "https://open.spotify.com/album/0MVV8OaMDe0DWB7wXWRUJu"
-      },
-      "artists": [
-        {
-          "name": "Earthernative",
-          "url": "https://open.spotify.com/artist/7GFv9FNx00e4BepFvSbbrK"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e1f\u0e49\u0e32 (Our Destiny)",
-      "url": "https://open.spotify.com/track/4Y7FvqfuhI9DD7Szi9O1v7"
     },
     {
       "added_at": "2023-06-30 11:04:03",
@@ -827,22 +843,6 @@
       "duration_ms": 299858,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0hIOcZIBjXOQPIj3bSq0C6"
-    },
-    {
-      "added_at": "2023-06-30 11:04:03",
-      "album": {
-        "name": "\u0e22\u0e31\u0e07\u0e08\u0e33",
-        "url": "https://open.spotify.com/album/1ueIwpf33uYFXDlRxeJtKI"
-      },
-      "artists": [
-        {
-          "name": "MAX-GAZINE",
-          "url": "https://open.spotify.com/artist/6p4wOKLbdesuq6GOIBkz2d"
-        }
-      ],
-      "duration_ms": 276125,
-      "name": "\u0e22\u0e31\u0e07\u0e08\u0e33",
-      "url": "https://open.spotify.com/track/30ssoqngneU5DveW87wPFF"
     }
   ],
   "unique_name": "Fresh Finds Thailand",

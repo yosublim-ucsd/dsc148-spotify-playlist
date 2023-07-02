@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 53910,
+  "num_followers": 53966,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDUxOTEyN2RmOGY5ZDdlZTU1ZmY0NDYwNzEzYjFjODE1YWFiZTAx",
+  "snapshot_id": "MCw2YWZhMGYxNzhhY2FhNzEzOTQ4M2FmNDdhZmMzMGQzNWM5MjViZWRk",
   "tracks": [
     {
       "added_at": "2023-06-29 15:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
-      },
-      "artists": [
-        {
-          "name": "Shiho Yabuki",
-          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Energy Flow (Ki No Nagare)",
-      "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "After the noise is gone",
         "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193640,
       "name": "Love is a personal thing",
       "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Energy Flow (Ki No Nagare)",
+      "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
     },
     {
       "added_at": "2023-06-29 15:00:00",

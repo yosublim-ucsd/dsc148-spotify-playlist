@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,754 likes - 28 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,823 likes - 28 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 | 24 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
 | 25 | [Flicker \(Feat\. Car, the garden\)](https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz) | 3:17 |
 | 26 | [Demons](https://open.spotify.com/track/4IKjtbwsBujMWiOgvvT1oQ) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Philosophy](https://open.spotify.com/album/1iOMcI8A0HvLrL2t98zUZx) | 4:11 |
-| 27 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 |
+| 27 | [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 |
 | 28 | [If You Still Wanted to Be Loved](https://open.spotify.com/track/6aCBO28IURluAFDCvIAFtY) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [If You Still Wanted to Be Loved](https://open.spotify.com/album/6BVQYVkF35Tk93rYX8mefs) | 3:01 |
 
-Snapshot ID: `MCw5MzgxZTNkNTkyOWIxOTk3ODllODFjNzRkOTg0YmZiZjQ2Y2EzYmFi`
+Snapshot ID: `MCxlMGRmOGY0YzA1ZjJmYmEwODQ5NzdkOTBkMjlmZDk3MWVjZGRhNjdi`

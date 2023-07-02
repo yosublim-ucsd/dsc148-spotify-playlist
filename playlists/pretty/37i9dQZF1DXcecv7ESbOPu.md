@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,399 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,398 likes - 115 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 13 | [Home](https://open.spotify.com/track/4dSuQ5FbETpLq4LYE5483z) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Home](https://open.spotify.com/album/2XKXhi4mqgXPMCHmUwA38v) | 3:10 |
 | 14 | [Du gör vad du vill \(pixiedream\)](https://open.spotify.com/track/0CHodruGJpdZOA31HbOahE) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Du gör vad du vill \(pixiedream\)](https://open.spotify.com/album/73aaQ12qf5pzBITZZz2Aw7) | 2:40 |
 | 15 | [Ingen e som solen](https://open.spotify.com/track/0wL2vq68LYFhemtYB8eHJX) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Ingen e som solen](https://open.spotify.com/album/5mmfsC36DetuGT0rvIRdbI) | 2:41 |
-| 16 | [VI ÄR SVERIGE](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:16 |
+| 16 | [VI ÄR SVERIGE](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:18 |
 | 17 | [Gammal kärlek rostar aldrig](https://open.spotify.com/track/2QzwmxSEUz581mEEsgo53Z) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Hux Flux](https://open.spotify.com/album/28v5GpYdm9DCu1BCAO7oH4) | 2:44 |
 | 18 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 |
 | 19 | [One More Time](https://open.spotify.com/track/0uM4gVR60a7w63ll9Ns0Fp) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [One More Time](https://open.spotify.com/album/5vvS2hd2FtdStcjosYs3ZC) | 2:40 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 64 | [Eastside \(with Kal Banx\)](https://open.spotify.com/track/6v5zJME9hOIkxQgd3v18Yj) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Eastside \(with Kal Banx\)](https://open.spotify.com/album/0yk03fA2es65VDIcd5NSXe) | 2:12 |
 | 65 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
 | 66 | [I’m From…](https://open.spotify.com/track/6aa03WX4KldjPmL4UkwdGo) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [I'm From...](https://open.spotify.com/album/49fFfeqMUGml2t5z63iYNX) | 3:11 |
-| 67 | [Born To Sin](https://open.spotify.com/track/4wkgFotnvnXsc2wCcF84h5) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Born To Sin](https://open.spotify.com/album/0cxBgzlMarzIi2fS0VUbl8) | 2:36 |
+| 67 | [Born To See](https://open.spotify.com/track/4wkgFotnvnXsc2wCcF84h5) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Born To See](https://open.spotify.com/album/0cxBgzlMarzIi2fS0VUbl8) | 2:36 |
 | 68 | [All Night Long \(feat\. Topaz Jones\)](https://open.spotify.com/track/0fxRDt2MBXFPJSScpgrzSC) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [All Night Long](https://open.spotify.com/album/1zsvNxaSnNY0jp0lW6NeLw) | 3:06 |
 | 69 | [Forget You](https://open.spotify.com/track/1KWmh3tfnirluZFjGkfMl5) | [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D) | [Forget You](https://open.spotify.com/album/483hYcaVbGosGdcaB07cIc) | 3:07 |
 | 70 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 | 115 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 |
 
-Snapshot ID: `MCxhMmI5ZjQ2YmQxNzRmZDc0ZGM4NjI2NjhjMWJiNWNlMzQzZDUxNzVm`
+Snapshot ID: `MCwyYzdlMjFjM2NkMmYwMTNlOWJiMDgyNjJjNDgxMjBmMDVmOTRkMTM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,446 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,451 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 57 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 |
 | 58 | [Spread Love](https://open.spotify.com/track/0ejrSEMYTaKg8ui2uCAzaQ) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spread Love](https://open.spotify.com/album/0Tx4Knu8JDLJNXmScBf0KN) | 2:52 |
 | 59 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 |
-| 60 | [Dystopia](https://open.spotify.com/track/0hJb963pbosuVwVViwGnAZ) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/2GsZ5MnJTIFOKf3FiuQISk) | 3:37 |
+| 60 | [Dystopia](https://open.spotify.com/track/4HroXwGskJHBvEUKPz18Pp) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/1C7Xd1syZwusTyf8lFnyn4) | 3:37 |
 | 61 | [CreM](https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [CreM](https://open.spotify.com/album/7tiJtcAnAunUcAwAlhVgLE) | 5:02 |
-| 62 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
+| 62 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 63 | [Not That Girl Anymore](https://open.spotify.com/track/5OkODjxGxTkn6KVhDYZ8Zl) | [Beyond Ü](https://open.spotify.com/artist/4OkP7Wq8IUGr1FvwVsQ3dm) | [Not That Girl Anymore](https://open.spotify.com/album/6ca0yKkyrn5cN6vi3vbjoV) | 4:16 |
 | 64 | [Is Mine](https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Is Mine](https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR) | 5:44 |
 | 65 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Mare's Nest](https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Mare's Nest](https://open.spotify.com/album/1dwa6pWl6Lv51tYEO1fCOe) | 6:37 |
 | 80 | [Sugar](https://open.spotify.com/track/3WVYDLSVgs1mnUsGeI0ezM) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Sugar](https://open.spotify.com/album/6aKsy0z4QRDDcAgoWp7Nvx) | 5:16 |
 
-Snapshot ID: `MCw3YTY5ZTYzOGI0ODg2NmY4MWE0ZTg4ZWEwM2NiYjYzYjI3YjUyOGQ4`
+Snapshot ID: `MCwzNTQxOGFkMGViZjNmMjcxMTVkY2NiMzBhMTkyMzlkZmJhZmE4Yzg0`

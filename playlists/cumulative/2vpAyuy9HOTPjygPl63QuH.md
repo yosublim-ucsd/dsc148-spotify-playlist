@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,144 songs - 2 day 17 hr 33 min
+1,145 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Higher](https://open.spotify.com/track/52JLfcHSQLgDoXc8B4tjps) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Higher](https://open.spotify.com/album/2RU5ALKFSCw8qRpz5uKWG8) | 3:01 | 2022-12-02 | 2022-12-17 |
 | [Higher](https://open.spotify.com/track/63HAnFDM0n9KHk4nLOk7ds) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9), [Pastello](https://open.spotify.com/artist/613f3U6uFS1jmo5NNvnle7) | [Higher](https://open.spotify.com/album/3mMO2xs4lDJWz8AOOBMQLm) | 3:04 | 2023-03-31 | 2023-04-09 |
 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 | 2022-08-11 | 2022-10-29 |
+| [Hit the Lights](https://open.spotify.com/track/3iz5rmQ0m7S4IahWGTpdhK) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Hit the Lights](https://open.spotify.com/album/0ORAot4vmSeoOAspF3Whne) | 3:04 | 2023-07-01 |  |
 | [Hold It \- SQWAD Remix](https://open.spotify.com/track/5HKv8vLHtd0Hk3iT7SWlIB) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Hold It \(SQWAD Remix\)](https://open.spotify.com/album/6ytNjlwlKEtxFcE5Xa2roI) | 3:10 | 2022-07-01 | 2022-07-10 |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-11-18 | 2022-11-29 |
 | [Hold On](https://open.spotify.com/track/0xn1a5jQoZ0GeilX3VSp2g) | [Scot & Millfield](https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh), [Neil Richter](https://open.spotify.com/artist/3QSWiXerHlC3jKwrjGtPq8) | [Hold On](https://open.spotify.com/album/6RqD63Moj0mnF9Kw4JQ90o) | 3:20 | 2023-04-22 | 2023-04-29 |

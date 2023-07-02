@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Holly Humberstone
 
-3,421 songs - 7 day 2 hr 16 min
+3,422 songs - 7 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1991,6 +1991,7 @@
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-06-04 |
 | [Me n My Girl](https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Me n My Girl](https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT) | 2:10 | 2022-11-18 | 2022-12-03 |
 | [me, my girls & i](https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [me, my girls & i](https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij) | 2:29 | 2023-06-02 | 2023-06-17 |
+| [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-07-01 |  |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-04-29 | 2022-05-20 |
 | [Medal](https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Medal](https://open.spotify.com/album/55FViyWmX5GZuJL8HmrIDE) | 3:16 | 2023-03-03 | 2023-03-18 |
 | [Medical Attention](https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Medical Attention](https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe) | 2:56 | 2023-04-14 | 2023-04-29 |

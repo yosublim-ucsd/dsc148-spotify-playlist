@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 20224,
+  "num_followers": 20246,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjFiMWNkMTQ2NDkzYTk2ZGUzZmRjZjAwZjdlYjk5NDdmMDE3YjZm",
+  "snapshot_id": "MCw5OWIwOGRkMjExOWU2NmI0ZDcxYjczZjhjOGQwMTEwYTg3MDExNDUz",
   "tracks": [
     {
       "added_at": "2023-04-21 08:47:53",
@@ -647,30 +647,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Scaramouche, Op. 71",
-        "url": "https://open.spotify.com/album/2eR9yzhMqlb22aneELjYRG"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Scaramouche, Op. 71, Act I: Scene 6, Tempo di valse",
-      "url": "https://open.spotify.com/track/1CMYcfca2jaDFTwLsUL4Tx"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius: Symphony No. 2 - Karelia Suite",
         "url": "https://open.spotify.com/album/7AJU2aL3Q5rUuG0l8VSM0v"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 373306,
       "name": "Symphony No. 2 in D Major, Op. 43: III. Vivacissimo -",
       "url": "https://open.spotify.com/track/193cfjyfDxmFdXSxn0Gjze"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Scaramouche, Op. 71",
+        "url": "https://open.spotify.com/album/2eR9yzhMqlb22aneELjYRG"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Scaramouche, Op. 71, Act I: Scene 6, Tempo di valse",
+      "url": "https://open.spotify.com/track/1CMYcfca2jaDFTwLsUL4Tx"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Rakastava, Op. 14: The Path of his Beloved",
-      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius Piano Works",
         "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 297453,
       "name": "Ten Pieces, Op. 24: Barcarola, Op. 24: No. 10",
       "url": "https://open.spotify.com/track/3DTRA5OK78rKaNPiu6vqdZ"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 134093,
+      "name": "Rakastava, Op. 14: The Path of his Beloved",
+      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
+        "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
+        "url": "https://open.spotify.com/album/0BeAnV9lVflM51xlXdBiPM"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "duration_ms": 522573,
+      "name": "Symphony No. 6 in D Minor, Op. 104: I. Allegro molto moderato",
+      "url": "https://open.spotify.com/track/65U1wBcAQ0h6HijSmElBqD"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
         "name": "Intimate Voices",
         "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
@@ -1152,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
         }
       ],
-      "duration_ms": 522573,
-      "name": "Symphony No. 6 in D Minor, Op. 104: I. Allegro molto moderato",
-      "url": "https://open.spotify.com/track/65U1wBcAQ0h6HijSmElBqD"
+      "duration_ms": 620133,
+      "name": "Symphony No. 6 in D Minor, Op. 104: IV. Allegro molto",
+      "url": "https://open.spotify.com/track/1OHyNUrxD5YaTLnAOsMUTx"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1215,6 +1239,26 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
+      "duration_ms": 374000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
+      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
         "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
         "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
       },
@@ -1235,50 +1279,6 @@
       "duration_ms": 194333,
       "name": "Sibelius: The Maiden in the Tower: Overture",
       "url": "https://open.spotify.com/track/2MeMoGXNYS7cEHKogyfGFN"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
-        "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
-        "url": "https://open.spotify.com/album/0BeAnV9lVflM51xlXdBiPM"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "New Zealand Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
-        },
-        {
-          "name": "Pietari Inkinen",
-          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
-        }
-      ],
-      "duration_ms": 620133,
-      "name": "Symphony No. 6 in D Minor, Op. 104: IV. Allegro molto",
-      "url": "https://open.spotify.com/track/1OHyNUrxD5YaTLnAOsMUTx"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 374000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
-      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
     },
     {
       "added_at": "2023-04-21 08:47:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the feels
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,948 likes - 166 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,984 likes - 166 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 36 | [Paradise](https://open.spotify.com/track/307hEMkRtPyfOCiTi7NczM) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK) | [Paradise](https://open.spotify.com/album/1Y8IrLLFS2OHYtLE1LDI5d) | 2:01 |
 | 37 | [Moving On \- Alle Farben Remix](https://open.spotify.com/track/6SqXRwGPPnjXsshy6vRvTY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Moving On \(Alle Farben Remix\)](https://open.spotify.com/album/3sJbc3pQZ8FE5v0iMQQW67) | 3:15 |
 | 38 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
-| 39 | [Slash \- Giulia Tess Remix](https://open.spotify.com/track/1VRqhlpxAkHEIOSzLHg5TT) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Giulia Tess](https://open.spotify.com/artist/4FqxKGY2qrmYcg7rSZw0H0) | [Slash \(Remixes\)](https://open.spotify.com/album/3BwEifdK1Et1G0m6FiePW0) | 4:02 |
+| 39 | [Slash \- Giulia Tess Remix](https://open.spotify.com/track/1VRqhlpxAkHEIOSzLHg5TT) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Slash \(Remixes\)](https://open.spotify.com/album/3BwEifdK1Et1G0m6FiePW0) | 4:02 |
 | 40 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 |
 | 41 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 |
 | 42 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 165 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 166 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw3YzJjZWEyMDBiN2Q4NzlhYTAzZjQxMTNkOTI5NjA4YjJiM2EzYjFj`
+Snapshot ID: `MCwyMDk4ZjY0Y2I2NjUwZjViZjliMjAxN2FmNzI4ZWM5ODgwNjJhMmQ0`

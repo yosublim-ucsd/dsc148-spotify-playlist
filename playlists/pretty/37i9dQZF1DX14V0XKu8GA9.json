@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 22745,
+  "num_followers": 22764,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjI5MGM3ZTQxYjMxNDk1OWM4YmIxNTJkYjE0Yjg5OGNiMTI3Mzkw",
+  "snapshot_id": "MCw3MWM1YzIyY2UwY2UzOWJiNDJmYjhkODAxZjQ3YzY0NjA1ZmZkMWNj",
   "tracks": [
     {
       "added_at": "2023-05-27 04:26:33",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
-        "name": "Up For It",
-        "url": "https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy"
-      },
-      "artists": [
-        {
-          "name": "Anna Mvze",
-          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
-        },
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Up For It",
-      "url": "https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7"
-    },
-    {
-      "added_at": "2023-05-27 04:26:33",
-      "album": {
         "name": "What It Takes",
         "url": "https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 149080,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT"
+    },
+    {
+      "added_at": "2023-05-27 04:26:33",
+      "album": {
+        "name": "Up For It",
+        "url": "https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy"
+      },
+      "artists": [
+        {
+          "name": "Anna Mvze",
+          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Up For It",
+      "url": "https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7"
     },
     {
       "added_at": "2023-05-27 04:26:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,795 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,916 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [48 Laws of Power](https://open.spotify.com/track/2MAeeYWP1Xy7JwrJkeNHKz) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [22](https://open.spotify.com/album/4TW6x0syAiUloUgqLco6eg) | 3:23 |
 | 100 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 
-Snapshot ID: `MCw0ZmE4NjZjNmJlNGRlNzU5NjllNjliZjhjNWZhMDgxMmM0OTViZGZi`
+Snapshot ID: `MCxiMWNlZjA2MmUxZTkwMGFhMDc3YWNhMTViNDcwY2E5YzNjYTczMjA1`

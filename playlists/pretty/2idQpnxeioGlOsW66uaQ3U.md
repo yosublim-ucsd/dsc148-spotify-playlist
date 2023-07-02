@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/2idQpnxeioGlOsW66uaQ3U.md) - [plain]
 | 20 | [Jacquard Causeway](https://open.spotify.com/track/7Dw7RRCKnPBlbmHteZ8Whw) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 6:35 |
 | 21 | [Closing Act](https://open.spotify.com/track/0JAg1q4SiDmbQZt5V6x9jS) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 6:55 |
 | 22 | [Sun's Arising \(A Koan, An Exit\)](https://open.spotify.com/track/1rxGD8kGYFLFB2w47SKt3U) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho de Lujo \(Deluxe Edition\)](https://open.spotify.com/album/5MCQgyAbh0zOhzExqFl4GA) | 3:18 |
-| 23 | [Infinity](https://open.spotify.com/track/17eEVo7K960G9wGKNS6rag) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2rmMeEq5D1Bg7YFRwtHBDr) | 5:13 |
+| 23 | [Infinity](https://open.spotify.com/track/17eEVo7K960G9wGKNS6rag) | [XX](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2rmMeEq5D1Bg7YFRwtHBDr) | 5:13 |
 
 Snapshot ID: `NzUsNzE5ZWIxZmRkOWM4MWU4MTdkYTZjM2U1ZWJiNWI2YmY1ZmRkYzQxYg==`

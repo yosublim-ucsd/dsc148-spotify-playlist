@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,763 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,063 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 35 | [Dreams](https://open.spotify.com/track/1t4G4RpuTu4NDWNR2NcKP9) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [AFTER WAR GUNDAM X Original Motion Picture Soundtrack \- Side 1](https://open.spotify.com/album/1yy2oORQN2WwK2zHoD8tjZ) | 5:01 |
 | 36 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 |
 | 37 | [Driver's High \- Remastered 2022](https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:10 |
-| 38 | [Resolution](https://open.spotify.com/track/6am0ME0Kyvvqny8dob1TUv) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [AFTER WAR GUNDAM X Original Motion Picture Soundtrack \- Side 3](https://open.spotify.com/album/7Kltco1FEmTyi2P2Z6R5qN) | 5:00 |
+| 38 | [Resolution](https://open.spotify.com/track/6lCRVtDhfxCvKfIbHf9Y7P) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [Resolution](https://open.spotify.com/album/1MehbKDBw7rqv8UOjcP457) | 5:02 |
 | 39 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
 | 40 | [Take Me Home, Country Roads \(Theme Song\)](https://open.spotify.com/track/70Wm0tbbdJ7D97957x4rkm) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Soundtrack](https://open.spotify.com/album/0yOhYn348rz2j3mUne0fpH) | 4:24 |
 | 41 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MCwyN2Q3YjA4NDM2NTFhOWM3M2U4OWM4Yzg5ZGY0MTA1NjY2ZjY2MmE3`
+Snapshot ID: `MCw3ZmU1ZjU4MGRmOTI0Njc3ODAwN2M4NjNjZTViN2UwMDZjYTNiNzNl`

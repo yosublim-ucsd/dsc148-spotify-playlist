@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "California King",
+        "url": "https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Fireplace",
+      "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
+    },
+    {
+      "album": {
         "name": "FLAG (Feel Like A Girl)",
         "url": "https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 172495,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"

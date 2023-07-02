@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,214 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,498 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Resort \- Reimagined](https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Last Resort \(Reimagined\)](https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA) | 4:43 |
 | 2 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 |
-| 3 | [Land of the Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land of the Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 |
+| 3 | [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 |
 | 4 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 |
 | 5 | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5) | 3:46 |
 | 6 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Malignant Visions](https://open.spotify.com/track/6Tbsy7matHjDnOPz0lJxnk) | [Disguised Malignance](https://open.spotify.com/artist/0e5FD8Ns1BnTTOMEZk4Cvf) | [Malignant Visions](https://open.spotify.com/album/5a0BLnqAg66iQ7VNmfZl6q) | 4:43 |
 | 55 | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/track/4L9rjEyilWCD2U1NSYi0aR) | [AREIERA](https://open.spotify.com/artist/3jw3OCk2ruHi0dikIiFwR8), [Timo Tolkki](https://open.spotify.com/artist/7l18v4VkyEtRXHz9UzMo3r) | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/album/2k76mhH7O74uBmq8VlonyI) | 2:52 |
 
-Snapshot ID: `MCxjNzQ2MjYxMmFhMmJmNzI0Y2M1YmMzZDE3OWVkNWUwZmQ1MmE1NGRh`
+Snapshot ID: `MCwzN2VhMjAxNDNjZjVlNjY0M2VhMmUwNjMzODZmYjg1ODU2MWZjODE2`

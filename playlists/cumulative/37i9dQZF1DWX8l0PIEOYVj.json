@@ -5905,6 +5905,28 @@
     },
     {
       "album": {
+        "name": "Purple Heather",
+        "url": "https://open.spotify.com/album/4fXIqbppstWug6NsJXQAGF"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "Matluck",
+          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142163,
+      "name": "Purple Heather",
+      "url": "https://open.spotify.com/track/4Z5Msyx3JMWoKPjKbHsZ4T"
+    },
+    {
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO"
       },
@@ -8320,7 +8342,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 230390,
       "name": "Wisdom - Amidy Remix",
       "url": "https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602"

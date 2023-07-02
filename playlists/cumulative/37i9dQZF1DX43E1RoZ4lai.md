@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-397 songs - 1 day 11 hr 13 min
+398 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Balbec](https://open.spotify.com/track/39lgQtu1XqX3ac4oOrgkRK) | [Christian Pabst](https://open.spotify.com/artist/0lFPDEXuwezwsnMy65m4Ri) | [Balbec](https://open.spotify.com/album/6yF6oWhAZGCEF6lLTbYyDD) | 5:45 | 2022-02-10 | 2023-05-02 |
 | [Beam Me Up](https://open.spotify.com/track/08eOn7vbIOaY0yN1jUz9hw) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 4:28 | 2022-02-10 | 2022-07-14 |
 | [Bergen](https://open.spotify.com/track/2JPNNELGvaqqEbrjn1flYx) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4) | [Reflections and Odysseys](https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf) | 6:24 | 2022-02-10 | 2022-09-03 |
-| [Berlin](https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0) | [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8) | [Marianna](https://open.spotify.com/album/4bBEVdgdAvpCj9hiEv8RQX) | 5:33 | 2022-04-01 |  |
+| [Berlin](https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0) | [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8) | [Marianna](https://open.spotify.com/album/4bBEVdgdAvpCj9hiEv8RQX) | 5:33 | 2022-04-01 | 2023-07-02 |
 | [Berlin](https://open.spotify.com/track/7tTqNyLz4KGLoG7NlRQ2d6) | [Miłosz Oleniecki Trio](https://open.spotify.com/artist/0OWSC58Nhwz6YE67moPPpk) | [Songs For A](https://open.spotify.com/album/4TeRvSxzdxfZ6LejTemKY0) | 6:17 | 2022-02-10 |  |
 | [Bess You Is My Woman Now](https://open.spotify.com/track/7zlx31ozYh5Xb8GMPICZIP) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Pierre\-Alain Goualch](https://open.spotify.com/artist/5SOxLSx8nY4EpTpof9WpxP), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Porgy & Bess](https://open.spotify.com/album/0KPm2U5JLp42D92l3leYIy) | 3:50 | 2022-02-10 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-02-23 |  |
@@ -343,6 +343,7 @@
 | [The Pondering](https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Per Zanussi](https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi) | [Being](https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC) | 6:20 | 2022-02-10 |  |
 | [The Prayer](https://open.spotify.com/track/1QL2Oiy969TDGNaJ2vklIB) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Mirrors Within](https://open.spotify.com/album/1wjn51F0CDYgA96bMjDQnI) | 8:34 | 2022-02-10 |  |
 | [The Sequel](https://open.spotify.com/track/0FVm8vElt7BC7ud7M5nM8Y) | [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG) | [Vice Versa](https://open.spotify.com/album/3pKE0gqAfHN0oDaGKWe6mM) | 10:23 | 2022-02-10 | 2022-07-27 |
+| [The Sequel](https://open.spotify.com/track/2pxgoAswfLBhuUni3qmXS6) | [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG), [Felix Henkelhausen](https://open.spotify.com/artist/43jBaILG8vaf6LSbzXRpMb), [Eric McPherson](https://open.spotify.com/artist/5CM5VHEjrDqrmRrFQfNDPL) | [Vice Versa](https://open.spotify.com/album/0vcWkhWNZtf43yu30xI59a) | 10:23 | 2022-02-10 |  |
 | [The Stones of Brodgar](https://open.spotify.com/track/2eeADyYvXxQ7slZmncfwJ6) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Cairn](https://open.spotify.com/album/0HXPCr4FfrgbkvdDZSopCe) | 5:30 | 2022-02-10 |  |
 | [The Surrey with the Fringe on Top](https://open.spotify.com/track/31kqJ1U1ndR3YXtiRstUDe) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Surrey with the Fringe on Top](https://open.spotify.com/album/5g81gECYSs3sISDvag3OBj) | 7:17 | 2022-02-10 | 2023-01-12 |
 | [The Surrey with the Fringe on Top](https://open.spotify.com/track/7uchWB96YFsa2UEGkqb0Vr) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 7:17 | 2022-02-10 |  |

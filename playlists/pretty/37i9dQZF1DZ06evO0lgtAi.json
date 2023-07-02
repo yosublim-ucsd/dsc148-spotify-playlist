@@ -1,15 +1,15 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 10738,
+  "num_followers": 10851,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMzU1MTEsMDAwMDAwMDA2YTA3N2E1YTM4ZjEwYWVkZjYyOWEzMzc4MjMyNGQ2NA==",
+  "snapshot_id": "MjgxMzY4ODIsMDAwMDAwMDAwMmZjNmEwZTIyOWQ1MjY2MWI1YzM3ODNlY2Q2ZmExMw==",
   "tracks": [
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "SI TE VAS",
         "url": "https://open.spotify.com/album/37LcMTVZS9ttzx0PdAM2Ss"
@@ -33,7 +33,27 @@
       "url": "https://open.spotify.com/track/5Xx66nNmEkP4pIB3NtXsYX"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "FANTASMA | AVC",
         "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
@@ -169,27 +189,7 @@
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "LA BABY",
         "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
@@ -217,7 +217,63 @@
       "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 355795,
+      "name": "PASIEMPRE",
+      "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
@@ -237,7 +293,7 @@
       "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
@@ -261,7 +317,35 @@
       "url": "https://open.spotify.com/track/5dtzqRtiXKftAk6B6vxUmr"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
@@ -281,7 +365,7 @@
       "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Sci-Fi",
         "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
@@ -301,27 +385,7 @@
       "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "obst\u00e1culo",
-        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 135704,
-      "name": "obst\u00e1culo",
-      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
@@ -345,7 +409,31 @@
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 175192,
+      "name": "ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
         "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
@@ -373,7 +461,7 @@
       "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
@@ -397,7 +485,7 @@
       "url": "https://open.spotify.com/track/0oW1upYPuCWkarwMWZD0NK"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko"
@@ -421,7 +509,47 @@
       "url": "https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "PO2054AZ (Vol.I)",
+        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "Completamente Loco",
+      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
@@ -445,27 +573,7 @@
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "PO2054AZ (Vol.I)",
-        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "Completamente Loco",
-      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -489,7 +597,31 @@
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 118857,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/1VCMkNBJtt1obiqIGRvla5"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -509,7 +641,7 @@
       "url": "https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
@@ -537,7 +669,51 @@
       "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 178375,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "E.VAX",
+          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+        }
+      ],
+      "duration_ms": 196701,
+      "name": "11 Y ONCE",
+      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+    },
+    {
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Asi Eh (Remix)",
         "url": "https://open.spotify.com/album/0rp5iUshTsvz8E4YakFOAw"
@@ -565,27 +741,27 @@
       "url": "https://open.spotify.com/track/5yyxjJEMqSyCySMM9MAoJI"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
-        "name": "DYNASTY",
-        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 178375,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
+      "duration_ms": 173548,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
@@ -609,27 +785,7 @@
       "url": "https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Sunbathe",
         "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
@@ -649,7 +805,7 @@
       "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "La Gatita (Remix)",
         "url": "https://open.spotify.com/album/4JzAbR7V4k5UWv8IOJ7lCM"
@@ -677,7 +833,7 @@
       "url": "https://open.spotify.com/track/1qihgOJwlXqB4LQrY40MRT"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -697,7 +853,7 @@
       "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
@@ -721,7 +877,7 @@
       "url": "https://open.spotify.com/track/1HxapZ1SrjH5LoYGz9aA4Z"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
@@ -745,7 +901,7 @@
       "url": "https://open.spotify.com/track/2re98x1aMO6BYuX9cWKqo8"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
         "url": "https://open.spotify.com/album/1jSaGmaAvSKgMa4whI89Cx"
@@ -769,7 +925,7 @@
       "url": "https://open.spotify.com/track/3mr13zNWprAzYYY0RinBCp"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -789,63 +945,7 @@
       "url": "https://open.spotify.com/track/1AuakKBKABJveKizKBl9j7"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
-        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
-        },
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 232789,
-      "name": "TU AMIGA (with Justin Quiles & Dylan Fuentes feat. Lennox & Llane)",
-      "url": "https://open.spotify.com/track/0LUpKcgDmq08XoS4nSjIde"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "Feel It Too (with Jessie Reyez & Tory Lanez)",
-        "url": "https://open.spotify.com/album/4xOKqHPmVztXkOS7CSHcSN"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 193055,
-      "name": "Feel It Too (with Jessie Reyez & Tory Lanez)",
-      "url": "https://open.spotify.com/track/0afSDk3PxzQGY6rIdf30Z0"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "Falta",
         "url": "https://open.spotify.com/album/6fViyRMZpRfXu93igpXDUc"
@@ -869,7 +969,7 @@
       "url": "https://open.spotify.com/track/6lOrOSBGBDZXIQALvs8igt"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -889,83 +989,7 @@
       "url": "https://open.spotify.com/track/4BEhYjP8feURPfmrHNc4dM"
     },
     {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
-        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "LENTO (with Sean Paul & Mozart La Para feat. Cazzu)",
-      "url": "https://open.spotify.com/track/7k3WOO7KVwWKU94PNWxSsY"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 171097,
-      "name": "F Is For Friends (with Becky G & Tainy) - Music From \"Sponge On The Run\" Movie",
-      "url": "https://open.spotify.com/track/4OdWosI4ngItG5hn1EIZos"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "MENTE (with Tainy & Mau y Ricky)",
-        "url": "https://open.spotify.com/album/3svtbAQNLpKVpUFlArRN3n"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 226338,
-      "name": "MENTE (with Tainy & Mau y Ricky)",
-      "url": "https://open.spotify.com/track/5OVYDbQP9pMKpF0ViSyMty"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
+      "added_at": "2023-07-01 12:02:17",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -983,154 +1007,6 @@
       "duration_ms": 259534,
       "name": "VA Y VEN",
       "url": "https://open.spotify.com/track/1Jo3PXI2jQY3kI2nZH3lyW"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
-        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 137871,
-      "name": "SI LA VES (with Las Villa)",
-      "url": "https://open.spotify.com/track/5lj0ISQvW88gNBqx9VO3an"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 148346,
-      "name": "Agua (with J Balvin) - Film Version",
-      "url": "https://open.spotify.com/track/7bycJ0EPTqYplxOkCBzUCf"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "Mala Influencia",
-        "url": "https://open.spotify.com/album/5MAo8YKa2yJLXUlJ2e3WaG"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 136710,
-      "name": "Tate Quieto",
-      "url": "https://open.spotify.com/track/789DGCAVkUTSsCaJ7c1VIu"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "Club Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        }
-      ],
-      "duration_ms": 125848,
-      "name": "La Pena ft. Dylan Fuentes",
-      "url": "https://open.spotify.com/track/0UY7P8WMXfeN8LUXw3zyCN"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "Montaner",
-        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Una Canci\u00f3n Para el Despecho (feat. Mau y Ricky & Tainy)",
-      "url": "https://open.spotify.com/track/3pHCeLTd4vyMn29JY3JxZA"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "No Le Bajamos",
-        "url": "https://open.spotify.com/album/10UVmswEcMMI6UjL4oEufc"
-      },
-      "artists": [
-        {
-          "name": "Jodosky",
-          "url": "https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 164049,
-      "name": "No Le Bajamos",
-      "url": "https://open.spotify.com/track/5z9BueVXyoqHHFk4eFvlpU"
-    },
-    {
-      "added_at": "2023-06-30 13:11:53",
-      "album": {
-        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
-        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "MALOS HABITOS (with Kris Floyd)",
-      "url": "https://open.spotify.com/track/3YQeGMWM2ZNak22CKeVlHQ"
     }
   ],
   "unique_name": "This Is Tainy",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,647 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,783 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Avem \(The Aviation Theme\)](https://open.spotify.com/track/0NBD4g9Zwy1rMAMWBYS6Ju) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Avem \(The Aviation Theme\)](https://open.spotify.com/album/7Cf1ov9ofReIxvRh5hkFPD) | 3:19 |
 | 50 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08) | 4:10 |
 
-Snapshot ID: `MjgxMzU1MTEsMDAwMDAwMDA1OTY5YjIyMWU0OTZhNjUzYTY0MDljNzBlNzZmYTRkOQ==`
+Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDA5MTNjMzE4ODUxODQ4MWQ3OTgwZjZiMTM0NGRkZDFkNw==`

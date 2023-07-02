@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS</a> challenges norms and breaks boundaries\. These are the songs that shape her alternative spirit.
 
-61 songs - 3 hr 41 min
+62 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-30 |  |
 | [Babel](https://open.spotify.com/track/3vpzJwxVjwcbuqPclqOX9I) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:19 | 2023-06-30 |  |
 | [Baptism](https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 4:11 | 2023-06-30 |  |
-| [BDE \(feat\. slowthai\)](https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [BDE \(feat\. slowthai\)](https://open.spotify.com/album/0v2o7PUZZneXkTCWy69432) | 2:48 | 2023-06-30 |  |
+| [BDE \(feat\. slowthai\)](https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [BDE \(feat\. slowthai\)](https://open.spotify.com/album/0v2o7PUZZneXkTCWy69432) | 2:48 | 2023-06-30 | 2023-07-02 |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2023-06-30 |  |
 | [Brick Fair \(feat\. Future\)](https://open.spotify.com/track/4HVmysvB2NfSYxe7aZiI8S) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Greatest Mixtape Hits](https://open.spotify.com/album/6zElyR40LjSG6fuyvF2suT) | 2:55 | 2023-06-16 | 2023-07-01 |
 | [Burbons And Lacs](https://open.spotify.com/track/1Xunvmk47Mju6oZlgzm2Ty) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Silkk The Shocker](https://open.spotify.com/artist/0iEVT8dLNSSmipPOrDGu2z), [Lil' Gotti](https://open.spotify.com/artist/6YJFwHfTwWZCZ4za62AW2g) | [Ghetto D](https://open.spotify.com/album/699xAzNxlXxgmkycTEqktC) | 4:09 | 2023-06-16 | 2023-07-01 |
@@ -48,6 +48,7 @@
 | [Machine Gun](https://open.spotify.com/track/4gxG38GmhagF2T6eaTdUR6) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 4:43 | 2023-06-30 |  |
 | [My Dick \(feat\. Tony Sunshine\) \(feat\. Tony Sunshine\)](https://open.spotify.com/track/2zaDb0slvbUoFXr97swVQD) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Tony Sunshine](https://open.spotify.com/artist/6FNA65HkfMcw20mEKIK9eA) | [Yeah Baby](https://open.spotify.com/album/4Q6aT8fIVaYFsJc7C6OrAv) | 3:19 | 2023-06-16 | 2023-07-01 |
 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 | 2023-06-30 |  |
+| [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2023-07-02 |  |
 | [One Night Stand](https://open.spotify.com/track/1EapUQK4oy1idLop5yV3U3) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Oobie](https://open.spotify.com/artist/51GnGVvOHfqOBA2ME9nZ1Z) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 4:33 | 2023-06-16 | 2023-07-01 |
 | [Playaz Eyez](https://open.spotify.com/track/0nK1sohuhPXLVLRq6n70EF) | [H.S.E.](https://open.spotify.com/artist/6PaevybW3YLAfxqsRsTIlW), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [Lil' Head](https://open.spotify.com/artist/55HjzswZoiozT9MacyaXHb), [C\-Note](https://open.spotify.com/artist/7aJgZeWVFzRf96TinYwgsu) | [Hustlaz Stackin Endz \(H.S.E.\)](https://open.spotify.com/album/3MzUw6hgSxAwfWjWr4psai) | 3:35 | 2023-06-16 | 2023-07-01 |
 | [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 | 2023-06-30 |  |

@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Made You Look (Acoustic)",
+        "url": "https://open.spotify.com/album/2QUadiT3xJWSW17m8tn2Qf"
+      },
+      "artists": [
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144962,
+      "name": "Made You Look - Acoustic",
+      "url": "https://open.spotify.com/track/4c4S1XXmKxdUP9y4kP9kz6"
+    },
+    {
+      "album": {
         "name": "Magnetised (Acoustic)",
         "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
       },

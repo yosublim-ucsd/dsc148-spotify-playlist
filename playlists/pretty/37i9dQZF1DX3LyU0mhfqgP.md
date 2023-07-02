@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Dana International
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,038 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,938 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 59 | [חזרה למציאות](https://open.spotify.com/track/105zU8MJxjQHOf9cRxDMZQ) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [חזרה למציאות](https://open.spotify.com/album/3bUjdo78ZOju0dCDKq8kOS) | 3:04 |
 | 60 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 |
 
-Snapshot ID: `MCw1ZWVlN2IzNWQzNmYwYjc1YjVmNDE0ODQxNGU4MDlmZGYyNzhjZGE5`
+Snapshot ID: `MCw1MTE3MDE2MTY1OTI0YzMxNDk1MTk2ZGQyMTJlMmY4NzQ0ZmIxOThm`

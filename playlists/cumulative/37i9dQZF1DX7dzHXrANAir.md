@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-254 songs - 18 hr 31 min
+255 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,10 +187,11 @@
 | [Pavane \- Sam Thompson Rework](https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Martha Thompson](https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX) | [Pavane \(Sam Thompson Rework\)](https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc) | 5:23 | 2022-07-22 | 2023-02-11 |
 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 | 2022-03-25 | 2022-04-20 |
 | [Peter](https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes, Vol\. II](https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP) | 3:57 | 2021-12-10 | 2023-03-10 |
-| [Peter](https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:57 | 2023-03-31 |  |
+| [Peter](https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:57 | 2023-03-31 | 2023-07-02 |
 | [Phases](https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Phases](https://open.spotify.com/album/608DP618oad2ENr4JzaYdT) | 3:09 | 2022-10-28 | 2023-03-14 |
 | [Phosphenes](https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV) | [As Now the Light Retreats](https://open.spotify.com/album/0xbyQ12QWk7PFgiXjOfVD7) | 4:09 | 2021-12-10 | 2022-07-29 |
 | [Pièces froides: II\. Danses de travers, 2\. Passer \- TWO LANES Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Pièces froides: II\. Danses de travers, 2\. Passer \[TWO LANES Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh) | 5:35 | 2021-12-10 |  |
+| [Poly \(and 74 musicians\)](https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Poly \(and 74 musicians\)](https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW) | 4:20 | 2023-06-30 |  |
 | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/track/2AuxT9fsyDo1LtUPFiFNY1) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/album/5Mb60mwLpAHBFqoDWfLpgS) | 5:52 | 2021-12-10 | 2022-07-22 |
 | [Prayers](https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Prayers](https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb) | 5:07 | 2022-12-08 | 2023-01-05 |
 | [Rameau, etc](https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ) | [PAVANE](https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB) | [Rameau, etc](https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1) | 4:05 | 2022-03-25 | 2023-06-23 |

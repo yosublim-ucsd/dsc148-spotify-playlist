@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=GYzY\-qD7QNOnzqWnz6bMKw"> Taves </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,520 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 15 | [Truth](https://open.spotify.com/track/0Hkeyxe7TwFxgiM1hhNc3A) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Truth](https://open.spotify.com/album/5gtHlJlSDBeaHnfR7vnd5X) | 2:58 |
 | 16 | [Normal Level](https://open.spotify.com/track/0754ofvW6p9E7k2sk3bbSV) | [Zotto](https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y) | [Normal Level](https://open.spotify.com/album/20v6JnIUOeBVZp0QhYzk4k) | 2:33 |
 | 17 | [Yellow 2.0](https://open.spotify.com/track/0xk7LURVErfmhgUTCZj7DR) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Yellow 2.0](https://open.spotify.com/album/04VPGbT5WJxna2qN4xYfwi) | 2:28 |
-| 18 | [The other side](https://open.spotify.com/track/1fWpvqKirCgXUsSLT8DLC2) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 3:37 |
+| 18 | [The Other Side](https://open.spotify.com/track/1fWpvqKirCgXUsSLT8DLC2) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 3:37 |
 | 19 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 |
 | 20 | [Gateway Drug](https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Gateway Drug](https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1) | 2:38 |
 | 21 | [Good Days](https://open.spotify.com/track/1mD2NFw7IbdOY1pPRoHcQS) | [NYA](https://open.spotify.com/artist/3cS8BydyVh7TR09iyKXhZH) | [Good Days](https://open.spotify.com/album/6QggUpS9znljpjCMJBin1S) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 99 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 |
 | 100 | [3AM in Labadi](https://open.spotify.com/track/517uedTKznqWBa5zHytoee) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1) | [3AM in Labadi](https://open.spotify.com/album/2pdfsIk3SrG7uKdGAmvzfq) | 2:40 |
 
-Snapshot ID: `MCxmZWFjZjJkMTQ3ZmFmYTk5Yjg3OWQ3MTg5ZDg0NjQwYWM2MmQ2M2Zi`
+Snapshot ID: `MCxkNmNmZDc1YTQ2MWZkZDhiZjkwYjg4NjVhZWM2OTI4YjNmMjA4ZjJm`

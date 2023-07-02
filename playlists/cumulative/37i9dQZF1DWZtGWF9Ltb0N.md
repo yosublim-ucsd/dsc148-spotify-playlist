@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-477 songs - 1 day 11 hr 21 min
+479 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Lo\-Fi](https://open.spotify.com/track/2auyi2Lqfjnm9MimapjeCM) | [Subreachers](https://open.spotify.com/artist/5anOQQB50KujZ5xRZjj7m8) | [Best of LW: Bass](https://open.spotify.com/album/2EipzG2vDMFLzBblQNzsYP) | 5:41 | 2022-02-17 | 2022-10-04 |
 | [Loan Shark](https://open.spotify.com/track/2zyugikoilcZwUYx6wWm7O) | [Commodo](https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT) | [Loan Shark](https://open.spotify.com/album/53ph5Q7RAIoYT5n5HJUDeH) | 3:58 | 2022-02-17 | 2022-07-02 |
 | [Locomotive](https://open.spotify.com/track/1ZIfpuxWRddqs3hrX4mkso) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Full Flow](https://open.spotify.com/album/51F8dNpgxCMSWMY7iBIfoy) | 3:17 | 2022-02-17 |  |
-| [lone idol](https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [THE AGONOS CONNECTION](https://open.spotify.com/album/2GsC00o8JLYM2YkfqQKyrQ) | 1:52 | 2023-02-13 |  |
+| [lone idol](https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [THE AGONOS CONNECTION](https://open.spotify.com/album/2GsC00o8JLYM2YkfqQKyrQ) | 1:52 | 2023-02-13 | 2023-07-02 |
 | [Lovesick](https://open.spotify.com/track/7CYx2bRMpWsuIeGLGfog9A) | [mrshl](https://open.spotify.com/artist/6mx8GoLPC0J23haeLRGmsR) | [You Know](https://open.spotify.com/album/6Gi8S39rqMjwmBkC70hRzp) | 3:59 | 2022-02-17 | 2022-07-02 |
 | [Lowdown](https://open.spotify.com/track/4M0ULmmNzwm1ryAFcDr2t0) | [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp) | [STN001](https://open.spotify.com/album/4LE6k9FLY4nYrX8uYfTLxJ) | 4:08 | 2022-07-15 | 2022-07-25 |
 | [Lowkey](https://open.spotify.com/track/21UzwDTWhOTFDgcVvRg2Cz) | [D\-Operation Drop](https://open.spotify.com/artist/1HPNuFHGG3y5YPOqmYOPk1) | [Wrong Dosage](https://open.spotify.com/album/26qP5AePWxuYazdqTDvXej) | 4:00 | 2022-02-17 | 2022-07-29 |
@@ -295,12 +295,14 @@
 | [Outsider](https://open.spotify.com/track/07y4T2wnzanwqOd1oKJ1Gl) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/2yrmCs1rJzdEJHAiaQY8lV) | 5:05 | 2022-07-08 | 2023-01-14 |
 | [Outsider](https://open.spotify.com/track/1oXyK54bcvrHNNtSOAgHDw) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/4AnGaGVFpOVLacdRqyGQ83) | 5:05 | 2022-02-17 | 2022-07-29 |
 | [Over Deh So](https://open.spotify.com/track/23RPCs2edmTWH0yJTCiz6m) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:09 | 2022-02-17 | 2022-05-08 |
+| [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-06-30 |  |
 | [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 | 2022-11-30 |
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Perceiver](https://open.spotify.com/track/2HMXYPAtj8liB6ywImkELU) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [CODE RED EP](https://open.spotify.com/album/3m7ox4dJaPu8SjUtbuJDFj) | 3:27 | 2023-06-23 |  |
 | [Pistola](https://open.spotify.com/track/65ztgzqmVXzHqHQ7DuPMhT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 5:31 | 2022-07-08 | 2022-07-30 |
 | [Pistola](https://open.spotify.com/track/6OW0RWmKQUU6iq0lDWeetS) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/0ME2x6n9ni4PJ6nmPzjuu2) | 5:31 | 2022-02-17 | 2022-07-29 |
+| [POETIC PIT](https://open.spotify.com/track/2vvpJ7CJ80THGG8gLDGxug) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [POETIC PIT](https://open.spotify.com/album/0V9Zs7hP8Fj7rLIb5UNPpT) | 4:40 | 2023-06-30 |  |
 | [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 | 2022-02-17 |  |
 | [Post Modern Dub](https://open.spotify.com/track/147qu5zRlhRbokjGE0ocwY) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [3 Tabs](https://open.spotify.com/album/4vD2YaBuuHA28w3dF81gvY) | 4:49 | 2022-02-17 | 2022-05-20 |
 | [Power](https://open.spotify.com/track/66FmJZ2ZnFE0fdVhy3Ebrv) | [Vibe Emissions](https://open.spotify.com/artist/26C2HIRqDYjWa84z0WZVI4) | [Dreams EP](https://open.spotify.com/album/1AWRWV09vu1ZcQD7ysnWqV) | 4:44 | 2022-02-17 | 2022-07-29 |
@@ -391,7 +393,7 @@
 | [Stagger](https://open.spotify.com/track/4zpvatsrf2FGPxdSIz7OSC) | [Imajika](https://open.spotify.com/artist/44tFGJf98jRrlDISb52Sai) | [Stagger EP](https://open.spotify.com/album/4UJiDSuAipu7zIPwARiL6o) | 4:34 | 2022-02-17 | 2023-03-16 |
 | [Stardust](https://open.spotify.com/track/0qyZwAYpQelGHzzkBeZiDa) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [VSD001](https://open.spotify.com/album/6zAaYqYNNye37tiXBIvB7M) | 5:42 | 2022-02-17 | 2022-07-29 |
 | [Stardust](https://open.spotify.com/track/1JQAAHYcoeVsUDIhqa4FxV) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [VSD001](https://open.spotify.com/album/6ObtZlZgvDQGqBPE30yxou) | 5:42 | 2022-07-08 |  |
-| [Stay Down](https://open.spotify.com/track/15uw7heHifum4PUrQJVp46) | [Badklaat](https://open.spotify.com/artist/4AgEF49juDBIfJUoPCPncc) | [Stay Down](https://open.spotify.com/album/4nvVT0Dz1LKNaXJlODDe8i) | 4:01 | 2022-08-19 |  |
+| [Stay Down](https://open.spotify.com/track/15uw7heHifum4PUrQJVp46) | [Badklaat](https://open.spotify.com/artist/4AgEF49juDBIfJUoPCPncc) | [Stay Down](https://open.spotify.com/album/4nvVT0Dz1LKNaXJlODDe8i) | 4:01 | 2022-08-19 | 2023-07-02 |
 | [Stellar Transit](https://open.spotify.com/track/7Ieg1OmcoaKbNxs02OwAjx) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Xakra](https://open.spotify.com/artist/47jwHBBRMlgkXYwI3EOpim), [Finnoh](https://open.spotify.com/artist/1CrMoPG0ogPXHO4oV6LCbH) | [Sufferin'](https://open.spotify.com/album/7DkG1ul2Z4BQfodvbOGWYZ) | 5:06 | 2022-02-17 | 2022-07-30 |
 | [Stellar Transit \- Lampa Remix](https://open.spotify.com/track/0k9wNvUzZK20hXiQlJgsC8) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Xakra](https://open.spotify.com/artist/47jwHBBRMlgkXYwI3EOpim), [Finnoh](https://open.spotify.com/artist/1CrMoPG0ogPXHO4oV6LCbH), [Lampa](https://open.spotify.com/artist/22zTDDhRWSaYtHlMHaz1Ej) | [Deep, Dark & Dangerous Remixes, Vol\. 4](https://open.spotify.com/album/7xDkNNi1wpj8BD19I22Lm9) | 4:36 | 2022-02-17 | 2022-06-11 |
 | [Stereophonic](https://open.spotify.com/track/4BfBy1ZrZWQPRJOanhpUyD) | [Pushloop](https://open.spotify.com/artist/4FgEa4SLDSV3oGpaFvlZi9) | [Stereophonic EP](https://open.spotify.com/album/10hyiZQdOXWNfc81NnL79d) | 3:12 | 2022-02-17 |  |

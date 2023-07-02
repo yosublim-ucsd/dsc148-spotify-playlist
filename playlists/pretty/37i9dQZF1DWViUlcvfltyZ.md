@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Adelasia in cover di Rock Italia questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,761 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,766 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Come se tu](https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Come se tu](https://open.spotify.com/album/3cpuDgTfc4m2aLKRC5hIae) | 3:28 |
 | 2 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
 | 3 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
-| 4 | [NON LA VEDO BENE](https://open.spotify.com/track/5eMoAisITn5iWhfZcSwDlc) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/4oX0npmfoZDVSyTbvQec4h) | 3:50 |
+| 4 | [NON LA VEDO BENE](https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/2GEwcmYNfa9pjCY4J5Lg51) | 3:50 |
 | 5 | [La musica è finita](https://open.spotify.com/track/3StEZwbxvR10edtOJoq2Ox) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [La musica è finita](https://open.spotify.com/album/79iordJotLmxKPRHQTUU88) | 3:18 |
 | 6 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 |
 | 7 | [Varese Tuning](https://open.spotify.com/track/5xOPQpo451ScmG5rbezy2m) | [≈ Belize ≈](https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc) | [Varese Tuning](https://open.spotify.com/album/1HD3OMW1GITxPOy7xooBK7) | 2:40 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Fuori fuoco](https://open.spotify.com/track/05TFgA1DrBbcuL1JbK6zyR) | [Maggiorelli](https://open.spotify.com/artist/1fsJtiERJk1rOmcTR140mw), [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Fuori fuoco](https://open.spotify.com/album/2xThxvv3HnxmMUjfUtaY0S) | 3:17 |
 | 55 | [Frutta Fresca](https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Frutta Fresca](https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc) | 3:26 |
 
-Snapshot ID: `MCw4N2RkYjg3MTI0NGNkZDkzN2I1MjIwMzc3MGQwYmM2ZmY1MDJmNjcx`
+Snapshot ID: `MCw1OWIyZTg2M2VlNDg2NDdmM2YxZDllYjE2ZDk2ODgwYTM4MjU3Mjc0`

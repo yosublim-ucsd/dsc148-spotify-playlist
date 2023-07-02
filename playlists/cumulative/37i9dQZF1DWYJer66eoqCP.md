@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-28 songs - 1 hr 30 min
+29 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Message from Sung Jun](https://open.spotify.com/track/5vmqkgdwkme8Hw3A9zzCbj) | [Sung Jun](https://open.spotify.com/artist/4TA1EI7YIzmJtcYIQewq7T) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:35 | 2023-03-27 |  |
 | [Moon Song](https://open.spotify.com/track/30B8ilL5WhF2bsUjIEu5lM) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 3:18 | 2023-03-20 |  |
 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 | 2023-03-20 |  |
-| [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-03-20 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/0n3pKT2HiMJGxoAYgyezBV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/6O0z01p8PGCUr7QQQLk1g9) | 3:14 | 2023-03-27 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 | 2023-03-20 | 2023-07-02 |
 | [The Secret Garden](https://open.spotify.com/track/2ykHau3Xffgjhm9zmKBILS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Call It Love, Part 1 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3mLDrNtCsnapPkEqexs2pz) | 3:16 | 2023-03-20 |  |
 | [UNIVERSE 4 TWO](https://open.spotify.com/track/7JwZb4dbB6GSsbUodjWaVX) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [JúJú & The Flowerbug](https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF) | 3:23 | 2023-03-20 |  |
 | [Walk Slow](https://open.spotify.com/track/41dN9FUiIDhMpc0waRUfSb) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:15 | 2023-03-20 |  |

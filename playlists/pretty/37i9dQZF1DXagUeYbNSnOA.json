@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Oliva. Updates every Wednesday.",
-  "num_followers": 170780,
+  "num_followers": 170784,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY0Mjk3MmVmMTIyYTU4MzkzODljMjdjMzhlOWEzMmY2MjNhYTVk",
+  "snapshot_id": "MCwxMzkwNDg4OGM0OTQ4ZDY1MjliZjE2YmM5YmMzYjA3MDMwNmMzZDgy",
   "tracks": [
     {
       "added_at": "2023-06-28 05:01:00",
@@ -275,6 +275,42 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
+        "name": "El Plan Mayor",
+        "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
+      },
+      "artists": [
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        },
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        }
+      ],
+      "duration_ms": 172725,
+      "name": "El Plan Mayor",
+      "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "APAGUE MI CELULAR",
+        "url": "https://open.spotify.com/album/4gg93Rvu1kriXt8pjxOpc8"
+      },
+      "artists": [
+        {
+          "name": "ESCHICANO",
+          "url": "https://open.spotify.com/artist/04p4tk3TWeE5bJHQtkgP9Q"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "APAGUE MI CELULAR",
+      "url": "https://open.spotify.com/track/2yGxjr5f3HzCRegbYo3Pj1"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0yxzynoJU2oS2piqELOsEa"
       },
@@ -299,42 +335,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "APAGUE MI CELULAR",
-        "url": "https://open.spotify.com/album/4gg93Rvu1kriXt8pjxOpc8"
-      },
-      "artists": [
-        {
-          "name": "ESCHICANO",
-          "url": "https://open.spotify.com/artist/04p4tk3TWeE5bJHQtkgP9Q"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "APAGUE MI CELULAR",
-      "url": "https://open.spotify.com/track/2yGxjr5f3HzCRegbYo3Pj1"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "El Plan Mayor",
-        "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
-      },
-      "artists": [
-        {
-          "name": "Lichi",
-          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
-        },
-        {
-          "name": "\u00bfJuan Julian?",
-          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
-        }
-      ],
-      "duration_ms": 172725,
-      "name": "El Plan Mayor",
-      "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "COPAS & GLAMUR",
         "url": "https://open.spotify.com/album/6XpjABhfOnO3hkLrrorK48"
       },
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/1RASgySitpbIBo3fH8xcx7"
+        "name": "Chez Toi",
+        "url": "https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2"
       },
       "artists": [
         {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+          "name": "La Bande-Son Imaginaire",
+          "url": "https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7"
         }
       ],
-      "duration_ms": 178491,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/11yvLxyYZkUThRSl1RMOG0"
+      "duration_ms": 281500,
+      "name": "Chez Toi",
+      "url": "https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -387,18 +387,22 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Chez Toi",
-        "url": "https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2"
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
       "artists": [
         {
-          "name": "La Bande-Son Imaginaire",
-          "url": "https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7"
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 281500,
-      "name": "Chez Toi",
-      "url": "https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI"
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -419,18 +423,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Gelato",
-        "url": "https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf"
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/1RASgySitpbIBo3fH8xcx7"
       },
       "artists": [
         {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
         }
       ],
-      "duration_ms": 223928,
-      "name": "Gelato",
-      "url": "https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt"
+      "duration_ms": 178491,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/11yvLxyYZkUThRSl1RMOG0"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -447,6 +451,22 @@
       "duration_ms": 208893,
       "name": "Ac\u00e1",
       "url": "https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 223928,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -471,22 +491,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Otra Tarde Juntos",
-        "url": "https://open.spotify.com/album/6EMBfCgxfg58vSfxCDVfVp"
-      },
-      "artists": [
-        {
-          "name": "Aquiles Moon",
-          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Otra Tarde Juntos",
-      "url": "https://open.spotify.com/track/5d91xrjI5afsWPfaDZvJj6"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "Coral",
         "url": "https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J"
       },
@@ -499,6 +503,22 @@
       "duration_ms": 227994,
       "name": "Coral",
       "url": "https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Otra Tarde Juntos",
+        "url": "https://open.spotify.com/album/6EMBfCgxfg58vSfxCDVfVp"
+      },
+      "artists": [
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Otra Tarde Juntos",
+      "url": "https://open.spotify.com/track/5d91xrjI5afsWPfaDZvJj6"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -523,6 +543,78 @@
       "duration_ms": 159761,
       "name": "Tecito E' Buenas Intenciones",
       "url": "https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Gotas",
+        "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
+      },
+      "artists": [
+        {
+          "name": "Naca",
+          "url": "https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP"
+        },
+        {
+          "name": "LORA",
+          "url": "https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ"
+        }
+      ],
+      "duration_ms": 157408,
+      "name": "Gotas",
+      "url": "https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
+        "url": "https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL"
+      },
+      "artists": [
+        {
+          "name": "Thaissa",
+          "url": "https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ"
+        },
+        {
+          "name": "Santiago Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3fofjE8yRgKBHlG5LPsrM8"
+        },
+        {
+          "name": "Juan Jos\u00e9 Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ymPgvKIXUyqnWU0sMJnef"
+        },
+        {
+          "name": "Rafael Lozina",
+          "url": "https://open.spotify.com/artist/2sc2IlUy0VY0LqmzJ2dEjW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
+      "url": "https://open.spotify.com/track/5BXFmljuSgquI0IkWs52BM"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "ENEMIGO DEL FIN Vol. 1",
+        "url": "https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw"
+        },
+        {
+          "name": "Lowrdes",
+          "url": "https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "duration_ms": 160301,
+      "name": "BESOS",
+      "url": "https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -559,78 +651,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
-        "url": "https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL"
-      },
-      "artists": [
-        {
-          "name": "Thaissa",
-          "url": "https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ"
-        },
-        {
-          "name": "Santiago Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3fofjE8yRgKBHlG5LPsrM8"
-        },
-        {
-          "name": "Juan Jos\u00e9 Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ymPgvKIXUyqnWU0sMJnef"
-        },
-        {
-          "name": "Rafael Lozina",
-          "url": "https://open.spotify.com/artist/2sc2IlUy0VY0LqmzJ2dEjW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
-      "url": "https://open.spotify.com/track/5BXFmljuSgquI0IkWs52BM"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "Gotas",
-        "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
-      },
-      "artists": [
-        {
-          "name": "Naca",
-          "url": "https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP"
-        },
-        {
-          "name": "LORA",
-          "url": "https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ"
-        }
-      ],
-      "duration_ms": 157408,
-      "name": "Gotas",
-      "url": "https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "ENEMIGO DEL FIN Vol. 1",
-        "url": "https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk"
-      },
-      "artists": [
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw"
-        },
-        {
-          "name": "Lowrdes",
-          "url": "https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3"
-        },
-        {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
-        }
-      ],
-      "duration_ms": 160301,
-      "name": "BESOS",
-      "url": "https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/0fmrxhFxOVs5py6DiHZtkE"
       },
@@ -659,6 +679,42 @@
       "duration_ms": 220800,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/4tm9LSSn5YCuIAgqPpOACm"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Rutina Diaria",
+        "url": "https://open.spotify.com/album/0WtXYFD04CHEETNDeNyX1g"
+      },
+      "artists": [
+        {
+          "name": "Sonic Emerson",
+          "url": "https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8"
+        },
+        {
+          "name": "Mitzi Licona",
+          "url": "https://open.spotify.com/artist/3YevbxT9wRLFdIDlGXXivb"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Bes Lou",
+      "url": "https://open.spotify.com/track/7HxdEbLmtKCXjbtlAhvWFy"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ"
+      },
+      "artists": [
+        {
+          "name": "Dragon Rapid",
+          "url": "https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -695,22 +751,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "c\u00f3mo se siente",
-        "url": "https://open.spotify.com/album/44jgGtifDxMrjgpoATQEua"
-      },
-      "artists": [
-        {
-          "name": "Merce",
-          "url": "https://open.spotify.com/artist/5iJsZyGemL5QPK3awe0M7z"
-        }
-      ],
-      "duration_ms": 128582,
-      "name": "c\u00f3mo se siente",
-      "url": "https://open.spotify.com/track/39kJcNDgebjBNyDpxTo2e2"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "Dicen que la muerte muri\u00f3",
         "url": "https://open.spotify.com/album/1UycczBEuaR6nYnIEbUOcp"
       },
@@ -727,18 +767,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ"
+        "name": "c\u00f3mo se siente",
+        "url": "https://open.spotify.com/album/44jgGtifDxMrjgpoATQEua"
       },
       "artists": [
         {
-          "name": "Dragon Rapid",
-          "url": "https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE"
+          "name": "Merce",
+          "url": "https://open.spotify.com/artist/5iJsZyGemL5QPK3awe0M7z"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu"
+      "duration_ms": 128582,
+      "name": "c\u00f3mo se siente",
+      "url": "https://open.spotify.com/track/39kJcNDgebjBNyDpxTo2e2"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -755,26 +795,6 @@
       "duration_ms": 180000,
       "name": "INSOMNIO",
       "url": "https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "Rutina Diaria",
-        "url": "https://open.spotify.com/album/0WtXYFD04CHEETNDeNyX1g"
-      },
-      "artists": [
-        {
-          "name": "Sonic Emerson",
-          "url": "https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8"
-        },
-        {
-          "name": "Mitzi Licona",
-          "url": "https://open.spotify.com/artist/3YevbxT9wRLFdIDlGXXivb"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Bes Lou",
-      "url": "https://open.spotify.com/track/7HxdEbLmtKCXjbtlAhvWFy"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -871,26 +891,6 @@
       "duration_ms": 202779,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1pybgIZlvEZubQEHRB9CDb"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "tal vez, no s\u00e9",
-        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
-      },
-      "artists": [
-        {
-          "name": "Poli Sallustro",
-          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 224599,
-      "name": "tal vez, no s\u00e9",
-      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     }
   ],
   "unique_name": "Fresh Finds Latin",

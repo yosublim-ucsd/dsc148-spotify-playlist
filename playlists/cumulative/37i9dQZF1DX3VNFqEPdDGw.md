@@ -4,7 +4,7 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-82 songs - 4 hr 22 min
+83 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1lIb7Ze8PHhWwdXDtPF00j) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/7pB3NV2NlTbRihxYuC1Ok0) | 2:58 | 2021-12-18 | 2022-07-29 |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2022-07-05 |  |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/2NjqwLui8XcyX3lpUMPXYt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [End and Other Hits](https://open.spotify.com/album/16UX1fEBG5TKRCoZ8i4azk) | 2:58 | 2022-10-07 | 2022-11-13 |
-| [Janaza](https://open.spotify.com/track/79S47IyE2yA2ukZtqq9B9g) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Janaza](https://open.spotify.com/album/6Urpqpdp6rfWx5vZ3ObLcI) | 3:00 | 2022-01-10 |  |
+| [Janaza](https://open.spotify.com/track/0B199iMCxjNNtwE4LY34eb) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Janaza](https://open.spotify.com/album/7GdlLkxRi1lTmS4PflBtRf) | 3:00 | 2023-05-25 |  |
+| [Janaza](https://open.spotify.com/track/79S47IyE2yA2ukZtqq9B9g) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Janaza](https://open.spotify.com/album/6Urpqpdp6rfWx5vZ3ObLcI) | 3:00 | 2022-01-10 | 2023-07-02 |
 | [Jatt Flex](https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Jatt Flex](https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG) | 3:15 | 2022-01-22 |  |
 | [Jatt Te Jawani](https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Jatt Te Jawani](https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc) | 4:00 | 2021-12-18 |  |
 | [Jhanjraan](https://open.spotify.com/track/5AqIHYrJEIjtUdWw4bl2IM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Next Chapter](https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW) | 2:56 | 2021-12-18 | 2022-01-11 |

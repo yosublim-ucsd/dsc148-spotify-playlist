@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kim Sung Kyu(\uae40\uc131\uaddc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 214675,
+  "num_followers": 214733,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTJlOGRlY2Y1MjE2MDI0YmRhMjdjNWFhNDIyMmQ4YWNiNzdmMjcz",
+  "snapshot_id": "MCxjNTg3OGUyNjFiOTliNTc5ZDcyZTFkMWQ5OGY4ZThlZTJjNGExMDJh",
   "tracks": [
     {
       "added_at": "2023-06-29 02:53:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 229493,
       "name": "NAN CHUN \ub09c\ucd98",
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
-        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
-      },
-      "artists": [
-        {
-          "name": "Say Sue Me",
-          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
-        }
-      ],
-      "duration_ms": 268453,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
       },
@@ -779,22 +763,34 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "TO DIE FOR",
-        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "CRYING NUT",
-          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
         }
       ],
-      "duration_ms": 187326,
-      "name": "Beautiful Life (feat. CRYING NUT)",
-      "url": "https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk"
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
+        "name": "TO DIE FOR",
+        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
       },
       "artists": [
         {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
+      "duration_ms": 187326,
+      "name": "Beautiful Life (feat. CRYING NUT)",
+      "url": "https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

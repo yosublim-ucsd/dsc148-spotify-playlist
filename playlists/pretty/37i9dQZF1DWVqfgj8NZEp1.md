@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,479,201 likes - 129 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,479,336 likes - 129 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 34 | [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 |
 | 35 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 |
 | 36 | [De Tor Ahead](https://open.spotify.com/track/585SL1gwCrAsddD4iYFK2M) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:50 |
-| 37 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 |
+| 37 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/29oS97LA4iW2EZA6Hxob1u) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Art Roho Serving Hannes Bennich](https://open.spotify.com/album/1qXhq2C2TDetoWkja1hDvA) | 4:12 |
 | 38 | [Colonel Sanders \- Two Moons Analog Session](https://open.spotify.com/track/6sq2nfadF6Riqdbb3e5k8U) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0) | [Colonel Sanders \(Two Moons Analog Session\)](https://open.spotify.com/album/0WDdLI63t4lp8YCItwfRPm) | 5:19 |
 | 39 | [Home](https://open.spotify.com/track/0UuDmmZHUPZb24gIODPiM4) | [Chris Andrew](https://open.spotify.com/artist/5sx4LyraGhj3dBFAN0Vx9u), [Ron Samsom](https://open.spotify.com/artist/4Zn9adi2m5LbnlcBba0nC1), [Olivier Holland](https://open.spotify.com/artist/2MbrIbQ56Etxw2LOu8kkcD), [Roger Manins](https://open.spotify.com/artist/0pKAiNOkOr2Q5FsmFrRF2Y) | [Home](https://open.spotify.com/album/6mBFE2Z2ha5f4fXYnkrzGr) | 6:34 |
 | 40 | [A Child Not Yet Born](https://open.spotify.com/track/1oK3iRgQrsfVjPPCRf9KoG) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Boris Kozlov](https://open.spotify.com/artist/3oPzcffnTlaWQILnSzNNh5), [Joe Strasser](https://open.spotify.com/artist/2pAeDu7ejJdbpsxwJm1nhE), [Brandon Wright](https://open.spotify.com/artist/5mqnoc3ceU0OebStAoldPL) | [Feel the Love](https://open.spotify.com/album/5B12r1hEUg8WiJN3GYdFTS) | 5:13 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 128 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 129 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCw0MTczMDcxNTg3YmVkNmZkYjE4NjIwZDczY2NhZmRmZWFlOGE5N2Qw`
+Snapshot ID: `MCw5YWUxY2UwNzAwNTc5Zjg5YTQyNjEyMGJmNzg3YTgxODQ1YTJhNThl`

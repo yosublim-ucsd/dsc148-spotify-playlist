@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: PK, IGOR, OIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,309 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,312 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 17 | [Fala Pra Mim](https://open.spotify.com/track/3YFcWj5J3NizTOFCICudkU) | [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Foltran](https://open.spotify.com/artist/2bjvIbzVp3PIIxVzmTt2ZR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Fala Pra Mim](https://open.spotify.com/album/1Ns6fYPE01xuYlE4bkDTc5) | 2:40 |
 | 18 | [Fórmula](https://open.spotify.com/track/7iWpSM1nuzruf3hT2bMAnA) | [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Fórmula](https://open.spotify.com/album/4Law3KN62tCHWxE4EBdD9G) | 3:55 |
 | 19 | [Fashion](https://open.spotify.com/track/3kxYfCiaVv0UPBMXuhsPCX) | [Greg BBX](https://open.spotify.com/artist/0fanaB7FSXdOetP97ucUMJ) | [Fashion](https://open.spotify.com/album/1Bx4P1sloYdu2ZNZ0brlmZ) | 3:19 |
-| 20 | [1937/2022](https://open.spotify.com/track/2wCAAyKaa4K8nfyQdCXOV7) | [Vários](https://open.spotify.com/artist/2A9LVD4c3OTKwCx6sqvEuf), [HIMURA](https://open.spotify.com/artist/7pNWQt0TqGVKlbSaYDhBi6) | [Vozes Pela Igualdade de Gênero](https://open.spotify.com/album/3jBBlCi1TykyZID1PwVAP0) | 2:40 |
+| 20 | [1937/2022](https://open.spotify.com/track/2wCAAyKaa4K8nfyQdCXOV7) | [HIMURA](https://open.spotify.com/artist/7pNWQt0TqGVKlbSaYDhBi6) | [Vozes Pela Igualdade de Gênero](https://open.spotify.com/album/3jBBlCi1TykyZID1PwVAP0) | 2:40 |
 | 21 | [B.C.T](https://open.spotify.com/track/43eovYFvtH3MimBXSMjzMw) | [Dom Smoking](https://open.spotify.com/artist/383PUe2dAOgrqwJ7moGjk9), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Bubblegun Studios](https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx) | [B.C.T](https://open.spotify.com/album/2ai2JGfyhFUWrPF3UAPJLQ) | 3:08 |
 | 22 | [Tapa](https://open.spotify.com/track/0XpPQ7JSk7wclx0DgOPko8) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Tapa](https://open.spotify.com/album/0fcGngjNMRvlVtXzKRw011) | 2:36 |
 | 23 | [TEMPESTADE](https://open.spotify.com/track/3TZGXZR6KHM60DNopOEgLl) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m), [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt), [GAUD](https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt) | [TEMPESTADE](https://open.spotify.com/album/5lUsHZqJN7vGd8AKohAgEu) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 75 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
 
-Snapshot ID: `MCwxODJhZWVlOGQzMjQ4YjQ3MDVlMTUwZWRmYTU4M2E0MTRhNTM2MDI0`
+Snapshot ID: `MCwxMmFiYzhjMmYxMmNhNDliYjIwN2M1OTljZDc4Nzk3ZTAzYWU4MTQ2`

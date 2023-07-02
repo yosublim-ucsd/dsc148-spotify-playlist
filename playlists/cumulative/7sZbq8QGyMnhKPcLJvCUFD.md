@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-311 songs - 15 hr 38 min
+313 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Too Hot To Handle](https://open.spotify.com/track/5k768a973EOTJtVjc7PPWg) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Too Hot To Handle](https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l) | 2:15 | 2022-07-28 | 2023-04-28 |
 | [Trust Me](https://open.spotify.com/track/7psbubFtP18fobEg1wYYTu) | [Blackryst](https://open.spotify.com/artist/4QxhZGr3RazauGRW2f2Y5N) | [Trust Me](https://open.spotify.com/album/66U7wvqr4YpV2CYWRuGwRM) | 2:36 | 2023-02-24 |  |
 | [Try Again](https://open.spotify.com/track/4flLtCXV7u5UrKU82Ts20T) | [Goodknight.](https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM) | [Try Again](https://open.spotify.com/album/4TROC7IgMT7vPvcD3R1isC) | 2:30 | 2023-01-18 | 2023-04-28 |
+| [TumDaDaDum](https://open.spotify.com/track/7uQXHHfiHS6818O5a7ol5e) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [TumDaDaDum](https://open.spotify.com/album/1MEZLy5chESv3uvoHF5YAg) | 3:45 | 2023-06-30 |  |
 | [twenty five](https://open.spotify.com/track/6uFAPsfbzY0oed5p2LH5OR) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [twenty five](https://open.spotify.com/album/55d0fwseYXlNdMXQpLf7cN) | 3:18 | 2022-11-08 | 2023-04-28 |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 | 2023-04-28 |
 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 | 2023-01-06 | 2023-04-28 |
@@ -294,6 +295,7 @@
 | [Voyage](https://open.spotify.com/track/0SOnRPjBDZ2wJiKXEysgeD) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Voyage](https://open.spotify.com/album/645TcShtLFbgysGGzf7bSV) | 3:14 | 2023-03-14 |  |
 | [Waiting](https://open.spotify.com/track/5ZsVoJMUYzanwp2MZfNOvf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Waiting](https://open.spotify.com/album/0xfFT55IkgeDqA3zuvyg6z) | 3:07 | 2022-12-13 | 2023-04-28 |
 | [Walk Away](https://open.spotify.com/track/6gjgucEZ3sJnWxfiqEsEhU) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [SRY](https://open.spotify.com/artist/1Tful0EmoUktY5EOtDsoYN) | [Walk Away](https://open.spotify.com/album/4xW14rcbvAX2Z0NTZS8SPF) | 3:18 | 2023-03-15 |  |
+| [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-06-30 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 | 2023-04-28 |
 | [What I Say \- Thorne Remix](https://open.spotify.com/track/1t54AP4CUYAG0gScKyWDlq) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [What I Say \(Thorne Remix\)](https://open.spotify.com/album/3fA3glGee0K59Lm08CVElv) | 3:08 | 2023-03-10 |  |

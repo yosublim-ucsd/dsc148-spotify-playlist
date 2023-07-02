@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 堀内まり菜 \(Marina Horiuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,360 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,368 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Blue sky summer](https://open.spotify.com/track/6nLJ5Klq7CopWGPwSSIwlM) | [LizNoir](https://open.spotify.com/artist/31zCA3lKnObwtGBbDNnNAt) | [Blue sky summer](https://open.spotify.com/album/2C0beHgSym70jHddwmAdIW) | 4:11 |
 | 50 | [YOU](https://open.spotify.com/track/3PGCayP1i5SdFvrKZzFdhb) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [YOU](https://open.spotify.com/album/1lrQAhpljFRYp3FK4qcRE0) | 4:26 |
 
-Snapshot ID: `MCxhYzJjODIxNTc4ODE0NWJiZDY0OWNlOWY4NDNiYzg3NjM3YmViOTMw`
+Snapshot ID: `MCw3Zjc3Y2ZmNWM4Y2Y2NzNhYzRiZWNiOWI4OWNiZWUyZjUxMGY4N2M4`

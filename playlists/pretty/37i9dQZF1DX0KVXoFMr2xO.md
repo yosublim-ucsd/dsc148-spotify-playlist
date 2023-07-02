@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,071 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,076 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 101 | [Scary Clown Music](https://open.spotify.com/track/77Q6CMrGkO8WRPOaJASNAw) | [It Lives Down Below](https://open.spotify.com/artist/0ipGOWlHJM0yrDidQ0s2XF) | [Scary Clown Music: Suspense Horror Sounds, Night at the Carnival with Carillon Creepy Songs](https://open.spotify.com/album/7uQAi1a2CQmfWdgjF6z1Qp) | 4:21 |
 | 102 | [Chainsaw Bloody Massacre](https://open.spotify.com/track/5tsURkMATlBZ6DeUhFN7eJ) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [I'm Bloody Scared: Halloween Horror Music 2020, Like in Nightmare, Halloween Party, Scary Sounds](https://open.spotify.com/album/70BqiOr9cDH2WpGV7FB8eZ) | 4:00 |
 
-Snapshot ID: `MCw4MDA1NjQzZTcyMjJjNTVkOWExNTFiZTM5MzgxMWI2NzI3MWVmNTll`
+Snapshot ID: `MCwwNDE3ZDNlZmJlMGY2OTYwYmE1ZGVmNmRlM2E3MDIxODJmM2ZmZTE0`

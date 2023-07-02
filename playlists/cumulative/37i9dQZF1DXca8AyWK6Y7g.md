@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: flowerovlove
 
-1,709 songs - 3 day 14 hr 49 min
+1,711 songs - 3 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Brunette Caroline](https://open.spotify.com/track/0Bsh8T3J0S3vQSB8mrOo7S) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4qDwe6lZPaM9YoV8Ei3pxd) | 3:08 | 2021-12-24 | 2022-01-15 |
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-21 | 2022-11-19 |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-02-15 | 2022-01-08 |
-| [Bubble Braids](https://open.spotify.com/track/0sNYL7VlSHoyMq9hw9eQSo) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Bubble Braids](https://open.spotify.com/album/3yybBVzoxYaUWu5mto0jjs) | 2:34 | 2023-06-30 |  |
+| [Bubble Braids](https://open.spotify.com/track/0sNYL7VlSHoyMq9hw9eQSo) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Bubble Braids](https://open.spotify.com/album/3yybBVzoxYaUWu5mto0jjs) | 2:34 | 2023-06-30 | 2023-07-02 |
 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 | 2022-08-12 | 2022-09-17 |
 | [Burn](https://open.spotify.com/track/0fK8FLKlFMNkTzIng9EQmI) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Burn](https://open.spotify.com/album/5KcuOcXkmO0zv1n7rkAQIs) | 3:13 | 2019-05-26\* | 2019-06-15 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-07-31 |
@@ -903,7 +903,7 @@
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-06-12 | 2021-10-12 |
 | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/track/2ay96C6SLNv9urvXKD3ecB) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/album/6WQTNgQPCS6GApd4cWQUTB) | 2:15 | 2021-02-22 | 2021-05-24 |
 | [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 | 2023-04-29 |
-| [Line](https://open.spotify.com/track/6qEk7zRk98ripxgNOj9nue) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/42g6BkT5N8xmRiwP1UtNjK) | 3:19 | 2023-06-30 |  |
+| [Line](https://open.spotify.com/track/6qEk7zRk98ripxgNOj9nue) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/42g6BkT5N8xmRiwP1UtNjK) | 3:19 | 2023-06-30 | 2023-07-02 |
 | [Little Life](https://open.spotify.com/track/7neB4qd6tZxWoSOwaelq9s) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Little Life](https://open.spotify.com/album/20EydxvdB13ippveWbHUUo) | 2:44 | 2023-03-18 | 2023-03-25 |
 | [Little Omens](https://open.spotify.com/track/4odmvpPZ34WahZ7XDQdf2X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens](https://open.spotify.com/album/0ss7qXUWf8vgd4GmDy3725) | 3:12 | 2023-06-30 |  |
 | [Living](https://open.spotify.com/track/7zJxChdtfJFwVCCnF2YWvS) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Living](https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR) | 3:58 | 2021-02-23 | 2021-10-12 |
@@ -968,6 +968,7 @@
 | [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-04 | 2022-03-26 |
 | [Mars](https://open.spotify.com/track/7Km5QlfgnM75S04D1YgQRE) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Mars](https://open.spotify.com/album/3SRUBIc8AS3JX5tE8ePPvv) | 2:43 | 2023-04-22 | 2023-04-30 |
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 | 2022-11-19 |
+| [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 |  |
 | [Meet You in Hell](https://open.spotify.com/track/2xdye2lhDblrS05XTHgBcb) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Meet You in Hell](https://open.spotify.com/album/5kD3hBP2KPEx4jLlugYVjo) | 3:07 | 2022-10-28 | 2023-01-28 |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-16 |  |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-18 |
@@ -1336,6 +1337,7 @@
 | [Silver and Gold \(feat\. Sam Fischer & Pink Sweat$\)](https://open.spotify.com/track/0xHeGspdxuVIm49iNXDO2u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Silver and Gold](https://open.spotify.com/album/5RG5m64csMJpvGF0wZkQrS) | 2:57 | 2021-08-06 | 2022-03-12 |
 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 | 2021-11-05 | 2022-03-12 |
 | [Single In September](https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single In September](https://open.spotify.com/album/716vn5JpywHU9efMfTXEck) | 3:15 | 2022-02-18 | 2022-04-29 |
+| [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-06-30 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-03-20 | 2021-11-20 |
 | [skeletons](https://open.spotify.com/track/3Tda2M4pWcGwRvME3dGM2K) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/5jygVHTbrAZQsPs66tebG7) | 2:58 | 2021-05-04 | 2021-05-26 |
 | [skeletons](https://open.spotify.com/track/6hrCEU7RtgvQKRDxukLD5F) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/61YKFkCUysIWPtZPXWgzQv) | 2:58 | 2021-08-19 | 2021-10-12 |

@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-72 songs - 4 hr 44 min
+73 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chiriye Chiriye](https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Chiriye Chiriye](https://open.spotify.com/album/5w4BOdik9aFINcA9tHsT6X) | 4:31 | 2023-06-19 |  |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 |  |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-12-22 |  |
+| [FLYHIGH](https://open.spotify.com/track/7ityoGyYiTmp1kx67xKpFa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [FLYHIGH \- Malayalam](https://open.spotify.com/album/2RcxDrHSWRep3bFlpkXd2D) | 3:55 | 2023-07-01 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk) | [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o) | 2:01 | 2023-05-19 |  |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 | 2023-06-27 |

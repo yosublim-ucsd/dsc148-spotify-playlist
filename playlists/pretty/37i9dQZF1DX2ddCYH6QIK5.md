@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: MATONDO, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,611 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,617 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Deathtrip At Sunrise At Paradise Beach](https://open.spotify.com/track/0udK6stA8KnUAKokHRWuzC) | [Half Darling](https://open.spotify.com/artist/07CLAoh1lcnhcrPyCKzOgz) | [Half Darling](https://open.spotify.com/album/3jZ3XI7Zg8avIkwR0uc7Id) | 4:20 |
 | 80 | [Rules](https://open.spotify.com/track/4DkgmbvD5wBz7gmrYq7Mp6) | [Nico Brey](https://open.spotify.com/artist/1PelAqHkDh239fKIvBQMG4) | [Rules](https://open.spotify.com/album/039De5ujSbZ15SKx8lrqZz) | 2:51 |
 
-Snapshot ID: `MCxiODM5NmZkZTJhZWM4ODFmMTY5ZTA1YTliZDkyMDc2ODQ2ZmJiMzJh`
+Snapshot ID: `MCxmYWQ2ZGI2Y2VkZDcxY2Q0ZTEyM2U4MWY4MjYzZmE0YzU0MThjMjY1`

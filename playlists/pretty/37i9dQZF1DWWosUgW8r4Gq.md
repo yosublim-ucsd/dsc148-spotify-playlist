@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,166 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,178 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 |
+| 1 | [Sun is coming up](https://open.spotify.com/track/4lJh5osg5IhxYdD2WbnFYh) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Who’s Me?](https://open.spotify.com/album/0Rkxo1b5OMjDR3II0flvm4) | 4:15 |
 | 2 | [Mimosa](https://open.spotify.com/track/3oWzRxN7qFqjeoMgfZkgRE) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [Mimosa](https://open.spotify.com/album/5M0BERj5L8qIRfxU4Emjdg) | 4:19 |
 | 3 | [SHINY DAYS](https://open.spotify.com/track/3V7mWY7bwabSRPOOuJ7rcN) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [SHINY DAYS\(TVアニメ「ゆるキャン△」OPテーマ\)](https://open.spotify.com/album/799UkSmpzMBG2Ni6PO3zDc) | 4:21 |
 | 4 | [ふゆびより](https://open.spotify.com/track/08atpBEogaRGz58N7yVi0J) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ふゆびより\(TVアニメ「ゆるキャン△」EDテーマ\)](https://open.spotify.com/album/4M5mceOoTiPvE9bPXSy1iN) | 4:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 | 39 | [Suite ”Matsubokkuri” \-Funki saichousen!\-](https://open.spotify.com/track/4VSE6IQVNCSaA7ZJgghMFY) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:14 |
 | 40 | [Suite ”Matsubokkuri” \-Natsuzora to daikeikaku\-](https://open.spotify.com/track/1VLABP6DxPB7CbWqYDLiLC) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:37 |
 
-Snapshot ID: `MCxjYmNiOGMwYzVmMDUyOTVmMDUxYzg0NTJhMDZjODcxMDVlNjQyYTBl`
+Snapshot ID: `MCwxNzM5ZGIyMzdhMzk2ZDcxMzRhMTEyYjUyYjIxNDgxN2Y1MWRmZjhh`

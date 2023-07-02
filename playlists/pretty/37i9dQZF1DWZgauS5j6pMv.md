@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,250 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,358 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [U R Freak \- Jafunk Remix](https://open.spotify.com/track/2acq8EiIi5PH3ukPiYIdDB) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [U R Freak](https://open.spotify.com/album/4FUwC2onCU2MWwtSRPqSXW) | 3:06 |
+| 1 | [U R Freak \- Jafunk Remix](https://open.spotify.com/track/2acq8EiIi5PH3ukPiYIdDB) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [U R Freak \(Jafunk Remixes\)](https://open.spotify.com/album/4FUwC2onCU2MWwtSRPqSXW) | 3:06 |
 | 2 | [Pipe Dream](https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Pipe Dream](https://open.spotify.com/album/2wbdNXoe1bTA66vkblLPiS) | 3:06 |
 | 3 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 |
 | 4 | [JELLY](https://open.spotify.com/track/4GSYsEcIHfmdVdglO8PY9j) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [JELLY](https://open.spotify.com/album/45bLaVpsO50Fqm9Qi7uz4v) | 3:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 100 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 |
 | 101 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 |
 
-Snapshot ID: `MCw0YWEzZmNmNjhmNGRkMDJjZDQ5OGEwNjEzZjhiMGYxYzk4NzRiOTc4`
+Snapshot ID: `MCwyNGEwNDA1MzAwN2E5ZTAzYmNmOGZlMmZiNjJhZjgyM2UzNTRmMWI0`

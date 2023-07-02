@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-384 songs - 23 hr 6 min
+385 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-18 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-08 | 2022-09-05 |
 | [Pseudo Love](https://open.spotify.com/track/4KUIJ07yRdDJ10yIZitoHs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Pseudo Love](https://open.spotify.com/album/4w5OSMGUJ2HWoOiwtIsjpJ) | 3:04 | 2022-07-08 | 2022-08-30 |
+| [Purple Heather](https://open.spotify.com/track/4Z5Msyx3JMWoKPjKbHsZ4T) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Purple Heather](https://open.spotify.com/album/4fXIqbppstWug6NsJXQAGF) | 2:22 | 2023-06-30 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-07-08 |  |
 | [Reach Across the Sky](https://open.spotify.com/track/6ocYRs6L5GSEOMlveJg5LA) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Reach Across the Sky](https://open.spotify.com/album/3m44f4eq8s3vWty22nJhtB) | 3:22 | 2022-08-12 | 2023-04-14 |
 | [Reach Across the Sky \- Crystal Skies Remix](https://open.spotify.com/track/5xWYXEcB7FUX9IW7wMRG0h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Reach Across the Sky \(Crystal Skies Remix\)](https://open.spotify.com/album/6779vm0VGvO5ml9E53dF3h) | 4:03 | 2023-01-13 | 2023-06-13 |
@@ -380,7 +381,7 @@
 | [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 | 2022-09-02 |  |
 | [Wild And Broken \(feat\. RBBTS\)](https://open.spotify.com/track/5NuTqBz0vd3z3eBDmTg6no) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Wild And Broken \(feat\. RBBTS\)](https://open.spotify.com/album/58eFCzM4IjqdcTV2RCSTYy) | 4:03 | 2022-07-08 | 2022-08-06 |
 | [Wild Ones](https://open.spotify.com/track/2nCMeiTtIRskxjAzCamebn) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Wild Ones](https://open.spotify.com/album/3fZcUSJ3t0u4XftTN9aB2v) | 3:28 | 2022-07-08 | 2022-08-06 |
-| [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 |  |
+| [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 | 2023-07-02 |
 | [With You](https://open.spotify.com/track/3cfhbNNdNeBnCE3J8eB0uH) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/1neAhuudRpt7salaglI1I5) | 3:30 | 2022-07-08 | 2023-04-09 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 |  |

@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Yazzus
 
-189 songs - 16 hr 3 min
+191 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,12 +50,14 @@
 | [Crimson Arch](https://open.spotify.com/track/6kqLDMdqgbgCsLbsSlWRjo) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Crimson Arch](https://open.spotify.com/album/0BPMNld8mBFvWzuyj48v9y) | 4:48 | 2022-04-15 | 2023-04-05 |
 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 | 2022-09-23 |  |
 | [Dancing in Berlin in 90S](https://open.spotify.com/track/7DM4O1uQO3WiRiZJm1zk81) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Never Ending Sounds](https://open.spotify.com/album/11bThZOv2PQOZBjumvIx8L) | 9:21 | 2022-05-26 |  |
-| [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 | 2022-09-23 |  |
+| [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 | 2023-05-12 |  |
+| [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 | 2022-09-23 | 2023-07-02 |
 | [Deep Space X](https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:28 | 2022-12-16 |  |
 | [Diffusus](https://open.spotify.com/track/4FLZkM2KJn8kj5A4J03ooQ) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Diffusus](https://open.spotify.com/album/5mJ9jkh3ufpXiCAzJtCrKf) | 3:55 | 2022-04-15 | 2022-10-14 |
 | [Don't Hurt Me](https://open.spotify.com/track/1UptW89gc2ATGaWegfuSQV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Don't Hurt Me](https://open.spotify.com/album/5C9wrneIR28xvm1TpUQjJg) | 3:31 | 2023-03-14 |  |
 | [Dvizhenie](https://open.spotify.com/track/3S3UQpc9k18zwl90vMS0uA) | [Maruwa](https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF) | [Dvizhenie](https://open.spotify.com/album/1vZjKLmDFaQBdu8VC7yP5y) | 5:18 | 2022-04-15 | 2022-05-27 |
-| [Dystopia](https://open.spotify.com/track/0hJb963pbosuVwVViwGnAZ) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/2GsZ5MnJTIFOKf3FiuQISk) | 3:37 | 2022-07-29 |  |
+| [Dystopia](https://open.spotify.com/track/0hJb963pbosuVwVViwGnAZ) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/2GsZ5MnJTIFOKf3FiuQISk) | 3:37 | 2022-07-29 | 2023-07-02 |
+| [Dystopia](https://open.spotify.com/track/4HroXwGskJHBvEUKPz18Pp) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/1C7Xd1syZwusTyf8lFnyn4) | 3:37 | 2023-05-12 |  |
 | [Echo Chamber](https://open.spotify.com/track/2E1ijRRSltbxCervdfmWVI) | [Mount Palomar](https://open.spotify.com/artist/3MF81jbkfVMeJdxo56JCz6) | [Echo Chamber](https://open.spotify.com/album/6yWWXwR7sxdL94rdikCdFR) | 4:26 | 2022-10-13 |  |
 | [Escape](https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/0hJYEV2KnUi2QH2WrtOoUF) | 4:23 | 2022-10-13 |  |
 | [Escape](https://open.spotify.com/track/2AOBG21RTF5xxBfYqtEgWi) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/7IORW83Ti6pe4dxhoWBID4) | 4:23 | 2022-09-23 | 2022-10-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7988,
+  "num_followers": 7996,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc3NTYyMzFjMjVjMjQ4ODYwNTFmZjljNzg0NDJlZjk4MDc4YTI2",
+  "snapshot_id": "MCwyN2JkMDQxNTQ2YWM4MWI4YTVlNjM2MDIyYzQwZjk2ZTZkY2Y1Y2Jk",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -675,8 +675,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 321375,
-      "name": "Ride On",
-      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
+      "duration_ms": 243986,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Delta Disco",
-        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Big Beat",
-          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "High Vibe Remixes, Vol. 1",
@@ -807,6 +791,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Delta Disco",
+        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Big Beat",
+          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Good Girl Blues",
         "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
       },
@@ -823,8 +823,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hard Grind",
-        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
       "artists": [
         {
@@ -832,25 +832,25 @@
           "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 243986,
-      "name": "Midnight Dream",
-      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
+      "duration_ms": 321375,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
     },
     {
-      "added_at": "2022-03-01 20:08:23",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Robot Blues",
-        "url": "https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC"
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
       },
       "artists": [
         {
-          "name": "Grand Commander",
-          "url": "https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99"
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
         }
       ],
-      "duration_ms": 380406,
-      "name": "Robot Blues",
-      "url": "https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ"
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
     }
   ],
   "unique_name": "Bluestronica",

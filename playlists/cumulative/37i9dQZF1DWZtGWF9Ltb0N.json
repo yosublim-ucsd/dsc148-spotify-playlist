@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 112241,
       "name": "lone idol",
       "url": "https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK"
@@ -5571,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Arpeggio EP",
+        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223714,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
+    },
+    {
+      "album": {
         "name": "Oxytocin",
         "url": "https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb"
       },
@@ -5680,6 +5698,24 @@
       "duration_ms": 331720,
       "name": "Pistola",
       "url": "https://open.spotify.com/track/6OW0RWmKQUU6iq0lDWeetS"
+    },
+    {
+      "album": {
+        "name": "POETIC PIT",
+        "url": "https://open.spotify.com/album/0V9Zs7hP8Fj7rLIb5UNPpT"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280123,
+      "name": "POETIC PIT",
+      "url": "https://open.spotify.com/track/2vvpJ7CJ80THGG8gLDGxug"
     },
     {
       "album": {
@@ -7478,7 +7514,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 241714,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/15uw7heHifum4PUrQJVp46"

@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9171,
+  "num_followers": 9172,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTA0MSw4NTJkNjlmMGMwZDliMzQxNGRkYzcyNzFmMDI5N2MyNzE1M2ViMzg5",
+  "snapshot_id": "MTA0Miw0YjM4YTlmNzY4NzQ0MDU1YTcxOTU2Yjk4MmYwNjg0NTkwYWNmODgx",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -531,6 +531,22 @@
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
+    },
+    {
+      "added_at": "2023-06-30 19:16:38",
+      "album": {
+        "name": "Made You Look (Acoustic)",
+        "url": "https://open.spotify.com/album/2QUadiT3xJWSW17m8tn2Qf"
+      },
+      "artists": [
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "duration_ms": 144962,
+      "name": "Made You Look - Acoustic",
+      "url": "https://open.spotify.com/track/4c4S1XXmKxdUP9y4kP9kz6"
     },
     {
       "added_at": "2019-10-13 06:38:53",

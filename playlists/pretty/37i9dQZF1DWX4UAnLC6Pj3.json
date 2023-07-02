@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Virl\u00e1n Garc\u00eda & Panter B\u00e9lico en portada.",
-  "num_followers": 1124713,
+  "num_followers": 1124945,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmYyNzNhMzNlYTY3ODQ5OWIzZGExN2FkZTQ0ZTM2YzQ2YjExY2Y0",
+  "snapshot_id": "MCw4ZmZmNzc2YmUyZTAzYjFhYzBiMWZhYzMxMTBlYTQzNzI5ODBlMDE2",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "La Ley De La Vida",
+      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "La Ley De La Vida",
-      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "A Como Yo Lo Veo",
-        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "A Como Yo Lo Veo",
-      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 160400,
       "name": "Fiestas, Tragos, Noche Loca",
       "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "A Como Yo Lo Veo",
+        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "A Como Yo Lo Veo",
+      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Quiero Pensar Que Est\u00e1s Mejor",
-        "url": "https://open.spotify.com/album/68fTv6080j5CRbkAfaLIm4"
-      },
-      "artists": [
-        {
-          "name": "Banda \u00c1guila Real",
-          "url": "https://open.spotify.com/artist/2hr1spGCHQ0uhuRQvCBPFW"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Quiero Pensar Que Est\u00e1s Mejor",
-      "url": "https://open.spotify.com/track/4vvgjlVHmt7i9A1dHGQt8x"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Edgardo Nu\u00f1ez Con La S\u00e9ptima Banda",
         "url": "https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 202026,
       "name": "La Contrase\u00f1a De Tu Cuerpo",
       "url": "https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Quiero Pensar Que Est\u00e1s Mejor",
+        "url": "https://open.spotify.com/album/68fTv6080j5CRbkAfaLIm4"
+      },
+      "artists": [
+        {
+          "name": "Banda \u00c1guila Real",
+          "url": "https://open.spotify.com/artist/2hr1spGCHQ0uhuRQvCBPFW"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Quiero Pensar Que Est\u00e1s Mejor",
+      "url": "https://open.spotify.com/track/4vvgjlVHmt7i9A1dHGQt8x"
     }
   ],
   "unique_name": "Banda 2023",

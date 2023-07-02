@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "FLYHIGH - Malayalam",
+        "url": "https://open.spotify.com/album/2RcxDrHSWRep3bFlpkXd2D"
+      },
+      "artists": [
+        {
+          "name": "Arjun Vijay",
+          "url": "https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235115,
+      "name": "FLYHIGH",
+      "url": "https://open.spotify.com/track/7ityoGyYiTmp1kx67xKpFa"
+    },
+    {
+      "album": {
         "name": "Mojo Sessions Live",
         "url": "https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn"
       },

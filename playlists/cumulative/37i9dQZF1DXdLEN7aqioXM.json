@@ -5442,6 +5442,24 @@
     {
       "album": {
         "name": "Horizon's Glow",
+        "url": "https://open.spotify.com/album/7dYOWCUrxTlOCcAfmckRO8"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Patission Street",
+      "url": "https://open.spotify.com/track/2XtmotPNqN8KewAOmwDtfi"
+    },
+    {
+      "album": {
+        "name": "Horizon's Glow",
         "url": "https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk"
       },
       "artists": [
@@ -5824,7 +5842,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 344347,
       "name": "Remoteness",
       "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"

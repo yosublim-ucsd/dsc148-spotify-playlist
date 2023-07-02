@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Os Meireles, Margem Norte",
-  "num_followers": 69679,
+  "num_followers": 69765,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWY1ZDM2ZDY2Y2U3N2IzMmFjYzgxYTJmMWQ0MTkxNWVlNzEwNzEx",
+  "snapshot_id": "MCxlNGE1MzA0ZmExY2E4ZWYyZmExNDllZGNiOTVjZWIxZWZmYzkzMjBl",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
+      },
+      "artists": [
+        {
+          "name": "Jana Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
       },
@@ -1099,22 +1123,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Teus Rios",
         "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
       },
@@ -1127,6 +1135,22 @@
       "duration_ms": 194034,
       "name": "Teus Rios",
       "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1147,30 +1171,6 @@
       "duration_ms": 182601,
       "name": "Azul do C\u00e9u",
       "url": "https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
-      },
-      "artists": [
-        {
-          "name": "Jana Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
       },
@@ -1255,22 +1239,6 @@
       "duration_ms": 213000,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Vai Ser Melhor",
-        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
-      },
-      "artists": [
-        {
-          "name": "Dani Ferber",
-          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Vai Ser Melhor",
-      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1351,6 +1319,38 @@
       "duration_ms": 246000,
       "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
       "url": "https://open.spotify.com/track/7vNtlSFNUazrOHOTp8Ed7u"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
+      },
+      "artists": [
+        {
+          "name": "Dani Ferber",
+          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-06-23 03:00:00",

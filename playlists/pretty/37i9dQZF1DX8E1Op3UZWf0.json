@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 238580,
+  "num_followers": 47978,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjFlYjI2MDE4ZGRlZTEyODg5MjhlZTdkZGZhYzYzYmJlN2U5ZjYw",
+  "snapshot_id": "MCxlMWM5NWNhZmNkNTkyODdjZWIzZDM3Mzk0N2YzNWNiOTE4ZjExM2Zi",
   "tracks": [
     {
       "added_at": "2023-05-17 13:35:23",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"
     },
     {
-      "added_at": "2023-01-03 14:46:25",
-      "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "breathin",
-      "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
-    },
-    {
       "added_at": "2023-06-09 11:31:38",
       "album": {
         "name": "An Evening With Silk Sonic",
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-01-03 14:46:25",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "breathin",
+      "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
+    },
+    {
+      "added_at": "2023-01-03 14:46:25",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -865,24 +865,24 @@
       "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
     },
     {
-      "added_at": "2023-01-03 14:46:25",
+      "added_at": "2023-06-09 11:31:38",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
       "artists": [
         {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
         }
       ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
     }
   ],
   "unique_name": "Morning Run ",

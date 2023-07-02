@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-360 songs - 19 hr 12 min
+361 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-03-29 |  |
 | [Good Morning \(feat\. YOU\)](https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Good Morning \(feat\. YOU\)](https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0) | 2:55 | 2023-06-23 |  |
 | [Good Thing](https://open.spotify.com/track/61fU4EtbNDg650uAsscnVK) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Good Thing](https://open.spotify.com/album/5fyL0ha5Twk56lwMsCdF7q) | 3:31 | 2021-12-03 | 2022-01-08 |
-| [Good Things](https://open.spotify.com/track/3zNavZ4qGN1kwNaBUCEY1u) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A) | [Good Things](https://open.spotify.com/album/78GDwLq0uDdLwnGnpDweJH) | 2:40 | 2023-05-12 |  |
+| [Good Things](https://open.spotify.com/track/3zNavZ4qGN1kwNaBUCEY1u) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A) | [Good Things](https://open.spotify.com/album/78GDwLq0uDdLwnGnpDweJH) | 2:40 | 2023-05-12 | 2023-07-02 |
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-02-25 |  |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-03 | 2022-10-06 |
 | [Gratitude](https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Gratitude](https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj) | 3:53 | 2022-04-15 |  |
@@ -198,6 +198,7 @@
 | [Like I Do](https://open.spotify.com/track/72yOVhxkfd9lgp4Q0EaJTK) | [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Brooke Tomlinson](https://open.spotify.com/artist/5spaLjG6DJVXfqlYSskx9C) | [Like I Do](https://open.spotify.com/album/08pYrUzqYdf4kJjtsHTEjc) | 2:50 | 2021-12-03 | 2022-01-08 |
 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 | 2022-10-05 |  |
 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 | 2022-01-07 | 2022-12-10 |
+| [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2021-12-03 | 2022-01-03 |
 | [Long Summer Nights](https://open.spotify.com/track/0ccnGefiTLZYOdHTB7ut1D) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Long Summer Nights](https://open.spotify.com/album/141USp9NDZaX6aICT4r4JV) | 2:54 | 2022-12-09 |  |
 | [Long Summer Nights](https://open.spotify.com/track/3sYbnk1vLjNMxevpne08ts) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Long Summer Nights](https://open.spotify.com/album/2pyz3hqxKFFJ1rg2diDWoT) | 2:54 | 2022-05-27 | 2022-12-16 |

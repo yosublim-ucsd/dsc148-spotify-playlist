@@ -2679,6 +2679,28 @@
     },
     {
       "album": {
+        "name": "YUNHWAY",
+        "url": "https://open.spotify.com/album/0BcZ5qFXpawQWUXSElCEC8"
+      },
+      "artists": [
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198687,
+      "name": "BANG & SPIT (feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/71P3ICIS4cb8hI9ikD1Gop"
+    },
+    {
+      "album": {
         "name": "School Rapper2 Team-Battle Part 3",
         "url": "https://open.spotify.com/album/2JClPQ6cvFEt60tszdK01u"
       },
@@ -4442,6 +4464,28 @@
       "duration_ms": 157826,
       "name": "Canoe (feat. BIBI)",
       "url": "https://open.spotify.com/track/7c3OVveyDcWCbvK7BKwpGy"
+    },
+    {
+      "album": {
+        "name": "YUNHWAY",
+        "url": "https://open.spotify.com/album/0BcZ5qFXpawQWUXSElCEC8"
+      },
+      "artists": [
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        },
+        {
+          "name": "SILKYBOIS",
+          "url": "https://open.spotify.com/artist/19e5d7VkNQCFklPG8Iqdy5"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249571,
+      "name": "Carpe Diem (feat. SILKYBOIS)",
+      "url": "https://open.spotify.com/track/4B8F8POgJcQBlAxX4WePJF"
     },
     {
       "album": {
@@ -8656,7 +8700,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 225789,
       "name": "GOD GOD GOD",
       "url": "https://open.spotify.com/track/00YvEZqYSsmODe0zR6Ftep"
@@ -8842,7 +8886,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 154285,
       "name": "GOOD 2 GO (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1pNtXt7AY1D4U9699g40mS"
@@ -17296,7 +17340,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 317000,
       "name": "Pot (Prod. YEOHO)",
       "url": "https://open.spotify.com/track/6mdVVE98DXN2EqXZZx0v4p"
@@ -18222,7 +18266,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 255834,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/0TY6iAzTdpb6Qn3wLWKL2g"

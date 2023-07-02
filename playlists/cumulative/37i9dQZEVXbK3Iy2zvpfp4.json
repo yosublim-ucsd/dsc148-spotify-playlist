@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 165581,
       "name": "All Eyez on Me Remix",
       "url": "https://open.spotify.com/track/7anqApFaBkxrD6hvjpI6uL"
@@ -13748,10 +13748,36 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
+    },
+    {
+      "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/0p9pt1jPqEM74p0wI1PoNc"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/7HoJB5u3huXJDcFu14krZp"
     },
     {
       "album": {
@@ -14206,7 +14232,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 119361,
       "name": "One Margarita (Margarita Song)",
       "url": "https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD"
@@ -15572,6 +15598,24 @@
       "duration_ms": 164999,
       "name": "Prestupn\u00e1 stanica",
       "url": "https://open.spotify.com/track/0rWWV2ln7VgWGM8tOUQxWI"
+    },
+    {
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/40moV3TlzkoNytzd2LppTx"
+      },
+      "artists": [
+        {
+          "name": "Clayas",
+          "url": "https://open.spotify.com/artist/2vDlCEPgK49pj8gsvZQn2b"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359774,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0BeJV3E7onQUX91A5odaAb"
     },
     {
       "album": {
@@ -23196,7 +23240,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"

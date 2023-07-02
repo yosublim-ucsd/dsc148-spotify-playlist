@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,617 likes - 164 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,748 likes - 164 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 14 | [Douglas Fir](https://open.spotify.com/track/4HpILLotJMwD8dWCqarnM6) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Douglas Fir](https://open.spotify.com/album/0h6Ixm40NarXch0eMUwvPe) | 2:44 |
 | 15 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 |
 | 16 | [Younger](https://open.spotify.com/track/0j00W4ErC8xqB2l0GZQXFI) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:44 |
-| 17 | [too young to die](https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [too young to die](https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU) | 4:34 |
+| 17 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 |
 | 18 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 |
 | 19 | [Repeat \(If You Remind Me\)](https://open.spotify.com/track/32RZLjdJOaDxZn3ptleU5o) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 4:08 |
 | 20 | [There Is No Now](https://open.spotify.com/track/0ZuqHAy3t1HMFwW0eEDuWk) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [There Is No Now](https://open.spotify.com/album/643N5j1VgfWwWjmN0x8eaK) | 2:19 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 163 | [Paint Me](https://open.spotify.com/track/4ENQSmhYsS5kp4n1Ymi0Ah) | [Juniper](https://open.spotify.com/artist/2vUurb7JcES3VO0gkx1yGW) | [Paint Me](https://open.spotify.com/album/7oWChAVBRmb9dbLfIqGG62) | 3:45 |
 | 164 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
 
-Snapshot ID: `MCwxMDQ2NWRhMDQ5N2U2NGM2YTUzZTFkYzU3NzExMjBhNDdjYWRhZDlk`
+Snapshot ID: `MCxkOGQ4ZWU3YTgxYjkzOTU3Y2M2YWIwYmU2ZGExMGQyYzRlYWQwZDNh`

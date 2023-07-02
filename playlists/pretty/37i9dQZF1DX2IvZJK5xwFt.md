@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,900 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,008 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Eyes](https://open.spotify.com/track/416L17hcREztXb0qE0lvIe) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Eyes](https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE) | 3:32 |
 | 75 | [T\-Rex \(from the Netflix Film "Nimona"\)](https://open.spotify.com/track/6AjiC6ZSglAeusQABB6LTj) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [T\-Rex \(from the Netflix Film "Nimona"\)](https://open.spotify.com/album/5Q5ZxN5xo2Gw5Ddf6Sjs07) | 2:29 |
 
-Snapshot ID: `MCxjZjM2MGM3YTk1NGVhOGIwMzBjMDgxMGI0OTdjYTFhNDFjOGM1ZTY2`
+Snapshot ID: `MCwzMGVkZTI5NDAwMTM2MDU1OGRiZjU0NDU1NmM4NDE4YzRmZDU4Y2Iw`

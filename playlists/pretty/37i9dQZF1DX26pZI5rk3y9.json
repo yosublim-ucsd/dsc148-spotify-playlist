@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5713,
+  "num_followers": 5730,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0",
+  "snapshot_id": "MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "GrandVille",
         "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
       },
@@ -523,6 +539,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "A Good Thing",
         "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
       },
@@ -567,22 +599,6 @@
       "duration_ms": 248555,
       "name": "Can Opener",
       "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "What Goes Around (Comes Around)",
-        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 216845,
-      "name": "What Goes Around (Comes Around)",
-      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+        "name": "Stop Signs and Fence Lines",
+        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
       },
       "artists": [
         {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+          "name": "Jericho Woods",
+          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
+      "duration_ms": 170854,
+      "name": "Ten Beer Job",
+      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -763,6 +779,22 @@
       "duration_ms": 312640,
       "name": "Take My Rider",
       "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -795,38 +827,6 @@
       "duration_ms": 169841,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Stop Signs and Fence Lines",
-        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
-      },
-      "artists": [
-        {
-          "name": "Jericho Woods",
-          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
-        }
-      ],
-      "duration_ms": 170854,
-      "name": "Ten Beer Job",
-      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
-      },
-      "artists": [
-        {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     }
   ],
   "unique_name": "Blues BBQ",

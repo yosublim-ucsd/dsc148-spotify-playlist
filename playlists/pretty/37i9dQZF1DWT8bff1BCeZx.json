@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2790,
+  "num_followers": 2823,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmZkZTMwODY3ZmI1M2M5NGM5YTA3OWMxYzFlNWI1ZTM5OGJjZTQ2",
+  "snapshot_id": "MCw1MTkxMTVjM2U2YWNhZDEwNDM0MjIyMTZjNDQ2M2I1MzE5YzcwOGQz",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -797,6 +797,30 @@
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
     },
     {
+      "added_at": "2023-06-30 17:19:03",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
       "added_at": "2023-04-14 16:41:04",
       "album": {
         "name": "Greenland",
@@ -849,6 +873,22 @@
       "url": "https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f"
     },
     {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 139385,
+      "name": "Jehovah Praise",
+      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
+    },
+    {
       "added_at": "2023-06-30 17:19:03",
       "album": {
         "name": "Hallelujah (feat. Sini Dagana) [Gyration Version]",
@@ -869,56 +909,20 @@
       "url": "https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U"
     },
     {
-      "added_at": "2023-04-14 16:41:04",
+      "added_at": "2023-06-16 00:01:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "More Than Music (Transcendent Worship)",
+        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 139385,
-      "name": "Jehovah Praise",
-      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Praise Ovation (Live Recording)",
-        "url": "https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        }
-      ],
-      "duration_ms": 507100,
-      "name": "Joy Overflow - Live",
-      "url": "https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Nkwa Abodoo (feat. Nacy)",
-        "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        },
-        {
-          "name": "Nacy",
-          "url": "https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96"
-        }
-      ],
-      "duration_ms": 409999,
-      "name": "Nkwa Abodoo (feat. Nacy)",
-      "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
+      "duration_ms": 513489,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS"
     }
   ],
   "unique_name": "Higher",

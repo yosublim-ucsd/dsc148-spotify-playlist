@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-648 songs - 1 day 15 hr 48 min
+649 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Cold Water](https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Kyle Nachtigal](https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY) | [Cold Water](https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO) | 3:01 | 2022-06-10 |  |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2022-06-10 | 2022-06-15 |
 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 | 2021-10-20 | 2023-06-11 |
+| [Come As You Are](https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH) | 2:45 | 2023-02-24 |  |
 | [Come Together](https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6) | 3:44 | 2022-06-10 |  |
 | [Come Together](https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3) | 3:44 | 2022-06-10 | 2022-12-11 |
 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 | 2022-06-10 | 2023-06-22 |
@@ -530,7 +531,7 @@
 | [Tearin' Up My Heart](https://open.spotify.com/track/4s2tjyu42DqWf2AG2U1KCy) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 3](https://open.spotify.com/album/4IYny9vZHGoL7TUcl3TEWp) | 2:06 | 2021-10-20 | 2022-07-07 |
 | [Teenage Dirtbag](https://open.spotify.com/track/6nWh37Xjbph0Zr0dTJGZ2p) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Teenage Dirtbag](https://open.spotify.com/album/6csWPrRMyZDT3DRu7QOodg) | 3:19 | 2021-10-20 |  |
 | [That's How I Got To Memphis](https://open.spotify.com/track/5mbYOavUzMPBgZIhybZsfT) | [Karl Blau](https://open.spotify.com/artist/7FeCvXxNn2D4Cf38i0zDul) | [Introducing Karl Blau](https://open.spotify.com/album/4Oin0XH6gnLnQSEcVoUIh3) | 4:03 | 2022-06-10 | 2022-07-21 |
-| [The a Team \- Live at the Tabernacle](https://open.spotify.com/track/0qSSbcZ2bvjJuB3Wy5lzK5) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Live in London](https://open.spotify.com/album/55BQeeBdoCapsI5SZFA3IN) | 5:32 | 2021-10-20 |  |
+| [The a Team \- Live at the Tabernacle](https://open.spotify.com/track/0qSSbcZ2bvjJuB3Wy5lzK5) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Live in London](https://open.spotify.com/album/55BQeeBdoCapsI5SZFA3IN) | 5:32 | 2021-10-20 | 2023-07-02 |
 | [The Air That I Breathe](https://open.spotify.com/track/7AyuLqGozNeloS5djeShEN) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Indianola](https://open.spotify.com/artist/3FMPtr5gEBAjsKxRbfc1kg) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 4:35 | 2021-10-20 | 2022-07-29 |
 | [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 | 2021-10-20 |  |
 | [The Boxer](https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/5uJpRBjDkTW8wtwDimhkdm) | 4:05 | 2021-10-20 | 2022-07-19 |

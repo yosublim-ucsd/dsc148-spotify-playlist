@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-304 songs - 22 hr 3 min
+305 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-11 |  |
 | [Fuck Yeah](https://open.spotify.com/track/0XRhF206W0IU4dBm95DS37) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Fuck Yeah](https://open.spotify.com/album/5qivkuZe5DRd1o5fT18oBd) | 5:16 | 2023-05-25 |  |
 | [Fuego](https://open.spotify.com/track/5LiuMOK0jzDQS84UXtNOCk) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Fuego](https://open.spotify.com/album/6GJ5Knbr4SgwIuwMzgqokl) | 2:35 | 2023-05-11 |  |
-| [Funky](https://open.spotify.com/track/7iZg6mxGxIu9X9F3iK39ZK) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Funky](https://open.spotify.com/album/7xy8M1KIrImO3Z01v3CEYL) | 4:11 | 2023-06-15 |  |
+| [Funky](https://open.spotify.com/track/7iZg6mxGxIu9X9F3iK39ZK) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Funky](https://open.spotify.com/album/7xy8M1KIrImO3Z01v3CEYL) | 4:11 | 2023-06-15 | 2023-07-02 |
+| [Funky](https://open.spotify.com/track/7pN5j3DyZ9IohLdCkX5cGM) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Mal Du Pays](https://open.spotify.com/album/3op0FtRorOmmYyVq1vqJsk) | 4:11 | 2023-06-29 |  |
 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 | 2023-06-15 |  |
 | [Gravy Waltz](https://open.spotify.com/track/1DEJ1CsHeZUHaXAULowcw5) | [Alex Gilson](https://open.spotify.com/artist/6zP7fwcpwsvsLNxr3iy6hW), [Paul Morvan](https://open.spotify.com/artist/4LkQzb3Bx2pwv3hJz6AwWl), [Amaury Faye](https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte), [Michel Pastre](https://open.spotify.com/artist/72H0XVdRgj7SFQOKiDDw1P), [Björn Ingelstam](https://open.spotify.com/artist/46OCIaWgZaJ0Poxo4pb5Nw), [Hetty Kate](https://open.spotify.com/artist/1bYORMqj7kCJLefgG7hvR8) | [Introducing \- Danger Zone](https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP) | 1:54 | 2023-03-30 |  |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-05-26 |

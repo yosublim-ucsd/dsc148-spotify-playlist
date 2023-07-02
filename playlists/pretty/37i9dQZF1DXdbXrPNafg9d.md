@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Del Water Gap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,936 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,116 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 15 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 |
 | 16 | [Driver](https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Driver](https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4) | 2:45 |
 | 17 | [everything’s been going so well](https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [everything’s been going so well](https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1) | 2:53 |
-| 18 | [There’s No Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s No Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
+| 18 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
 | 19 | [Missionary Ridge](https://open.spotify.com/track/3mgBScLXL1nAyT5uCQaWZi) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Missionary Ridge](https://open.spotify.com/album/61Ny4JqW05T1a6hEt88q0Q) | 3:53 |
 | 20 | [Somewhere In The Middle](https://open.spotify.com/track/2E4JCuZ0tMWeRTTSiaTvBT) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Somewhere In The Middle](https://open.spotify.com/album/73Rso0TopoEw4xGJppcHki) | 3:27 |
 | 21 | [All Of The People](https://open.spotify.com/track/4jwYMUsSfiP4LNIK4qLt3L) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [All Of The People](https://open.spotify.com/album/0g8itsZJOLR6VUuzSLIHJe) | 4:23 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 150 | [join the party](https://open.spotify.com/track/59bKaOQLiq0Rbx207FG2MR) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [join the party](https://open.spotify.com/album/5lclm1gPZ08NvF3ZTNN3sy) | 2:55 |
 
-Snapshot ID: `MCw5ZDQwMGJlNGE0NGNjNzUyNGY3NzBiMjg5ZjRhNDY1NTQ0ZmNkZWUw`
+Snapshot ID: `MCwzMGNhMmYzZmI1ZDk2Mjg0NmQ1MmM4YzhiYTI1ODlmMTA1MDA1ODJh`

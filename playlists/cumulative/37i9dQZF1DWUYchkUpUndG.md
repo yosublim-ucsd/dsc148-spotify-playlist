@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT?si=DYP4R9XuQUO3\-kYzJ77bvg">Moses Akoh</a>
 
-232 songs - 18 hr 37 min
+233 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [ARA](https://open.spotify.com/track/4jeY6UAMrKgBUUjLB7PDg5) | [Yinka Osho](https://open.spotify.com/artist/3DekM6bxLS8BtjQgSx8EyA) | [ARA](https://open.spotify.com/album/0qrnhGGtJeyoTl2KfVkz6g) | 4:01 | 2023-06-23 |  |
 | [As we pray \- Prayer charge](https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [As we pray \(Prayer charge\)](https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM) | 5:45 | 2023-06-30 |  |
 | [Asiwaju](https://open.spotify.com/track/1tbTHTUi3sXr39HQLDfuaR) | [DJ D'mo](https://open.spotify.com/artist/1vTeSzVCEXpzFQMj7R6npQ), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Asiwaju](https://open.spotify.com/album/4vkBSzI4bAEfU5wF3PA97B) | 2:34 | 2023-06-02 | 2023-06-16 |
-| [Aterere \- Live](https://open.spotify.com/track/7y0lMUo9aHZwcE2bcnxlVE) | [121Selah](https://open.spotify.com/artist/05T7ma4oJR1JVTApXcRJ2P), [Aidee Ime](https://open.spotify.com/artist/6FMIzXBfCEJWmPk62NKbRH), [Lulu Ayeni](https://open.spotify.com/artist/4wJrUVEndPeYQJDa4XBRQm) | [Aterere \(Live\)](https://open.spotify.com/album/3QPBDhYO2fRegRdf6pVTBe) | 8:23 | 2023-06-30 |  |
+| [Aterere \- Live](https://open.spotify.com/track/7y0lMUo9aHZwcE2bcnxlVE) | [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq), [Aidee Ime](https://open.spotify.com/artist/6FMIzXBfCEJWmPk62NKbRH), [Lulu Ayeni](https://open.spotify.com/artist/4wJrUVEndPeYQJDa4XBRQm) | [Aterere \(Live\)](https://open.spotify.com/album/3QPBDhYO2fRegRdf6pVTBe) | 8:23 | 2023-06-30 |  |
 | [Atmosphere Of You](https://open.spotify.com/track/7eR68heLEodTFSRV3NWQxI) | [Sabrina K.](https://open.spotify.com/artist/2GySt29ejIaENZf5sNgJQK) | [Atmosphere Of You](https://open.spotify.com/album/6ij1QUCcFIJPnKlarCPis0) | 3:32 | 2023-06-16 | 2023-06-30 |
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-06-09 | 2023-06-16 |
 | [Awesome God](https://open.spotify.com/track/0ZTp9CfP2rHV6dygds0Kzh) | [Felix Akara](https://open.spotify.com/artist/2QAignRw1aaO7bcvtu6gX7), [Forever Christ's](https://open.spotify.com/artist/6Lc04kMCxcpC95kyvIyOHD) | [CONTEMPORARY COLLECTION](https://open.spotify.com/album/1w9AItWyIp8BnIyzHuQLTj) | 3:54 | 2023-05-26 | 2023-06-09 |
@@ -116,6 +116,7 @@
 | [Idi Ebube Chineke](https://open.spotify.com/track/5A9PtxGnrlkMNQ13UCSFva) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Idi Ebube Chineke](https://open.spotify.com/album/07SbH5gB46WiJS8ItdeWfW) | 3:03 | 2023-06-30 |  |
 | [If No Be God](https://open.spotify.com/track/2PMXiruzV6mbHogbupbqre) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [If No Be God](https://open.spotify.com/album/0UYemHmRL11SwYT1tfa5Tw) | 2:10 | 2023-05-26 | 2023-06-09 |
 | [If No Be God \- Speed up](https://open.spotify.com/track/2fKL4EV6M8x8RXOfykbGHI) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [If No Be God \(Speed up\)](https://open.spotify.com/album/2wvWZqB6gObZjktwst3qqz) | 1:36 | 2023-06-16 | 2023-06-30 |
+| [Ifunanya](https://open.spotify.com/track/6QtGh9hHsj8mtu2Hpgmbxd) | [Mr Frosh](https://open.spotify.com/artist/55cO96ETKwijsDp0aM5oGb) | [Ifunanya](https://open.spotify.com/album/2ZUHXyxWTS1FLDiwCBQQQx) | 2:29 | 2023-06-30 |  |
 | [IGBFY \(If God Be For You\)](https://open.spotify.com/track/0t22riv5ePK4WeI8VOvJwn) | [MARVID](https://open.spotify.com/artist/0mRhSrpiSUvUC9JPVGJws9) | [IGBFY \(If God Be For You\)](https://open.spotify.com/album/38VQv9UnAaow5s0Gm4E3Ip) | 3:23 | 2023-06-30 |  |
 | [IJO \- Remix](https://open.spotify.com/track/25wN3PxCi7kegOz8YEvyhO) | [TimiTrigger](https://open.spotify.com/artist/7slHpFNcd1m9DSKq4LeM9s), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Majemu](https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD) | [IJO \(Remix\)](https://open.spotify.com/album/3wloOkIU3tCCXi7z5SXRxw) | 3:50 | 2023-05-19 | 2023-06-02 |
 | [Imagine me](https://open.spotify.com/track/0VAqGWb9Q9MUqgGGbJZZ0E) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Imagine me](https://open.spotify.com/album/3kdwXD4qQzAxuRbHSD87fB) | 2:40 | 2023-06-09 | 2023-06-16 |

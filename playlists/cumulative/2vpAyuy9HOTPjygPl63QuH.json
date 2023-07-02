@@ -8721,6 +8721,28 @@
     },
     {
       "album": {
+        "name": "Hit the Lights",
+        "url": "https://open.spotify.com/album/0ORAot4vmSeoOAspF3Whne"
+      },
+      "artists": [
+        {
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+        },
+        {
+          "name": "Rhiannon Roze",
+          "url": "https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Hit the Lights",
+      "url": "https://open.spotify.com/track/3iz5rmQ0m7S4IahWGTpdhK"
+    },
+    {
+      "album": {
         "name": "Hold It (SQWAD Remix)",
         "url": "https://open.spotify.com/album/6ytNjlwlKEtxFcE5Xa2roI"
       },

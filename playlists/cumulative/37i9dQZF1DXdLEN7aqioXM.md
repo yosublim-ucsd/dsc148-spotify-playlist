@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-411 songs - 1 day 5 hr 23 min
+412 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Party in Panama \(Julian Winding Remix\)](https://open.spotify.com/track/1QQcWkDHB1sVxu46jLt9gJ) | [Sweet Tempest](https://open.spotify.com/artist/3CHvSnSovfNQBCwGgGMy3s), [Julian Winding](https://open.spotify.com/artist/2n73yy6NNrGAo8wMDzmRax) | [Party In Panama \(Remixes\)](https://open.spotify.com/album/1Zm0ls2GAsMmZTKEUssQEi) | 5:24 | 2023-06-30 |  |
 | [Passage](https://open.spotify.com/track/7GkM4J6VN3HfiRt6yGK15O) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3), [elati0n](https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i) | [Passage](https://open.spotify.com/album/6zKdf7nxj1pkEhkmZUN8lG) | 3:14 | 2023-04-07 |  |
 | [Past Present](https://open.spotify.com/track/6NWqbfviq3zwoGqIlSnzuR) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Asutenki](https://open.spotify.com/artist/14BiKqKsX9hV5nvNNHA5Xo) | [Past Present](https://open.spotify.com/album/1fQWDkBdjgUsbYiuNDu9Ig) | 4:10 | 2021-10-15 | 2022-03-22 |
+| [Patission Street](https://open.spotify.com/track/2XtmotPNqN8KewAOmwDtfi) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/7dYOWCUrxTlOCcAfmckRO8) | 3:08 | 2023-06-30 |  |
 | [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 | 2022-10-22 |
 | [Pelée](https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Fundamentals, Vol\. III](https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh) | 5:16 | 2022-02-04 |  |
 | [Peripheral Vision](https://open.spotify.com/track/7JjpqTuimad5QSRyw2X4xT) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Peripheral Vision](https://open.spotify.com/album/6Ldmn3CqdXYp38q0thv2RO) | 4:10 | 2022-04-01 | 2022-04-20 |
@@ -312,7 +313,7 @@
 | [Release](https://open.spotify.com/track/2qtOmbVDhvCPyqbGrnuLo6) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Release](https://open.spotify.com/album/6kbEcZuw1MdH2lnTUXwsuC) | 3:40 | 2023-01-13 |  |
 | [Release](https://open.spotify.com/track/3XVJx3ZIHAhSsjapF263Ql) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Release](https://open.spotify.com/album/1PhJNrjqTDMcHPp7VBsla3) | 3:40 | 2022-05-06 | 2023-02-23 |
 | [Remember When](https://open.spotify.com/track/55rIKGbcna1oD0v3BdIo4B) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [This is Now](https://open.spotify.com/album/41KnTJpTeX2kyJp5qTzVDt) | 6:06 | 2022-04-01 | 2023-01-14 |
-| [Remoteness](https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Remoteness](https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF) | 5:44 | 2022-04-01 |  |
+| [Remoteness](https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Remoteness](https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF) | 5:44 | 2022-04-01 | 2023-07-02 |
 | [Rivage](https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu) | 4:04 | 2023-01-13 | 2023-07-01 |
 | [Rivage](https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk) | 4:04 | 2021-10-15 | 2022-12-31 |
 | [Run Away](https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8) | 3:17 | 2022-11-11 |  |

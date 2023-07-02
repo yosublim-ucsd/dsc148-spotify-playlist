@@ -952,10 +952,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 357699,
       "name": "Galactic Highways",
       "url": "https://open.spotify.com/track/6dEgGWYfEhcoHhR5zfeNN3"
+    },
+    {
+      "album": {
+        "name": "Galactic Highways",
+        "url": "https://open.spotify.com/album/59XJByKOEnmxePXKvKfTmY"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357699,
+      "name": "Galactic Highways",
+      "url": "https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv"
     },
     {
       "album": {

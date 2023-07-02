@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,394 likes - 80 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,426 likes - 80 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 79 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 | 80 | [Speak A Word \- Live At The Ticketpro Dome](https://open.spotify.com/track/5hbkEA5dWKNO866NGdUJ0W) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The Gathering Of Worshippers \- Speak A Word \(Live At The Ticketpro Dome\)](https://open.spotify.com/album/18CBMyTv69P8hDRLxYwd6V) | 8:54 |
 
-Snapshot ID: `MCwxNDNlNWQ5Y2I3NWM1OWZhZWRiOGU0ZTk5MWUwZjkzZGFlMGY0YTdk`
+Snapshot ID: `MCw1ZjA3ZjAzZjYwYmRlNTlkYjc4YzVhNjlmMmEwN2JjZmE3MDQ1OWNh`

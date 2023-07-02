@@ -4,7 +4,7 @@
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-80 songs - 4 hr 8 min
+81 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Suite ”Matsubokkuri” \-Seijyaku to hakumei\-](https://open.spotify.com/track/4vpQbs5hnfP1sFzUhZprfQ) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:41 | 2022-07-05 |  |
 | [Suite ”Matsubokkuri” \-Shovelcar no dynamism\-](https://open.spotify.com/track/04h5YlkIZDKArCeJMtjiO5) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:43 | 2022-07-05 |  |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
-| [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-05 |  |
+| [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-05 | 2023-07-02 |
+| [Sun is coming up](https://open.spotify.com/track/4lJh5osg5IhxYdD2WbnFYh) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Who’s Me?](https://open.spotify.com/album/0Rkxo1b5OMjDR3II0flvm4) | 4:15 | 2022-07-05 |  |
 | [Tabiga bokurawo yondeiru ”Heya Camp's Theme”](https://open.spotify.com/track/6bY9GhQxnsgs52GSchnIiU) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Heya Camp Original Soundtrack](https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH) | 2:21 | 2022-07-05 |  |
 | [The Sunshower](https://open.spotify.com/track/0Av7Z4aPWBbxsaZ6Ddh3Dc) | [Asaka](https://open.spotify.com/artist/6salj1HNtQW4jfRxuiaPmK) | [The Sunshower](https://open.spotify.com/album/56MlsQ9Ae6tePRnUAw8fEK) | 4:30 | 2022-07-05 | 2022-11-13 |
 | [The Sunshower](https://open.spotify.com/track/49qxg2ltT02IeGg242ajro) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [The Sunshower](https://open.spotify.com/album/21WidAbDB2jXy2FmMzEGJ7) | 4:30 | 2022-07-05 | 2022-07-29 |

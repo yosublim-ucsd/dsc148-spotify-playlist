@@ -1,12 +1,12 @@
 {
   "description": "Set it off with these epic anthems. Only good vibes here!",
-  "num_followers": 3195884,
+  "num_followers": 3196620,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODJkZWUxNjQwNDAzMDBmMWU1NDFlNTEzYWExYTZhMGFiOGFkYWVi",
+  "snapshot_id": "MCw5ZDhjMTJlMDM1OGIxMDI1MzQyMDgxZTA1NzZiZGFkZGZjMjEyMzc3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/4PzRk0jkD9qRQAHEiXNQAV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 200295,
       "name": "Barcelona (feat. Samm Henshaw)",
       "url": "https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/4PzRk0jkD9qRQAHEiXNQAV"
     },
     {
       "added_at": "2023-06-30 04:00:00",

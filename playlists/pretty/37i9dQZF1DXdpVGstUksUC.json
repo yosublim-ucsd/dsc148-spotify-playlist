@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 515451,
+  "num_followers": 515696,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY5ZjdhZDM3YWU4ODJlNjc5MTAyZTAxOTVjZjU1MGMyZDUwNDU2",
+  "snapshot_id": "MCw2ZWVhNTUyYzU1MmIxM2UyOTg1ZTM5MWE0MTZjMzljMGQ2NDZlNzJh",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Busse Woods",
+        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
+      },
+      "artists": [
+        {
+          "name": "Acid King",
+          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
+        }
+      ],
+      "duration_ms": 384866,
+      "name": "Electric Machine",
+      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 367879,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Busse Woods",
-        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
-      },
-      "artists": [
-        {
-          "name": "Acid King",
-          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
-        }
-      ],
-      "duration_ms": 384866,
-      "name": "Electric Machine",
-      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 346116,
       "name": "Left Us To Mold",
       "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Tales of the Wicked West",
-        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
-      },
-      "artists": [
-        {
-          "name": "MaidaVale",
-          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
-        }
-      ],
-      "duration_ms": 318023,
-      "name": "(If You Want the Smoke) Be the Fire",
-      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Buffalo Fuzz",
         "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Tales of the Wicked West",
+        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
+      },
+      "artists": [
+        {
+          "name": "MaidaVale",
+          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
+        }
+      ],
+      "duration_ms": 318023,
+      "name": "(If You Want the Smoke) Be the Fire",
+      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
     },
     {
       "added_at": "2023-06-23 04:00:00",

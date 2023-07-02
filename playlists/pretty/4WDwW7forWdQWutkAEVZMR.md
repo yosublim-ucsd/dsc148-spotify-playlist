@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring TREASURE, Harry Styles &amp; more! Cover: TREASURE
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,397 likes - 26 songs - 1 hr 27 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,590 likes - 26 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 2 | [Trailer Park Barbie](https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Trailer Park Barbie.](https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL) | 2:50 |
 | 3 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
 | 4 | [Leave it at That](https://open.spotify.com/track/2px7QflhWF3UMeMXmtHO6e) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [Leave it at That](https://open.spotify.com/album/5qZE3FDaYGUsjhc9CYzXdl) | 2:36 |
-| 5 | [Land of the Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land of the Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 |
+| 5 | [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 |
 | 6 | [welcome to my world](https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Flooding the Gates](https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ) | 2:25 |
 | 7 | [ХМАРИ \(feat\. Leo Mantis\)](https://open.spotify.com/track/42BnNSAR84JP6PzPsOIy1O) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Leo Mantis](https://open.spotify.com/artist/2UjbBdwpFMsdGmih0cgp6V) | [ХМАРИ \(feat\. Leo Mantis\)](https://open.spotify.com/album/4e7oVYfz2etFccIJf9DTIU) | 2:52 |
 | 8 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |

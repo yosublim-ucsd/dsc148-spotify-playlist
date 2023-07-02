@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,127 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,158 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 72 | [Hardly Talk](https://open.spotify.com/track/4aUyeWJlWDdqpH1Si5E9uc) | [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP) | [Hardly Talk](https://open.spotify.com/album/2N1rVHud0BsuYtGoPnzlN1) | 2:45 |
 | 73 | [LVR GRL](https://open.spotify.com/track/2KbbCGUGYwhogWv38k18Ne) | [ALBI.](https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb) | [LVR GRL](https://open.spotify.com/album/6UuHc6dS1dpmdWjT6jOtm2) | 2:50 |
 | 74 | [The World Don't Owe You Anything](https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/4GVU0koa6BTvPE0pU79E26) | 3:09 |
-| 75 | [Land of the Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land of the Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 |
+| 75 | [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 |
 | 76 | [Smoke](https://open.spotify.com/track/2ibDEUmWjwdu7MfA0PfeeO) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel), [Yung Shogun](https://open.spotify.com/artist/36FoSt7DBnQar4gankr8t2) | [Smoke](https://open.spotify.com/album/3PFsfVM5QjIBKmr0AZHPVy) | 2:48 |
 | 77 | [The Place to Start](https://open.spotify.com/track/4I88en1kLWPxnsuzUU08nE) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Joshua Keogh](https://open.spotify.com/artist/0S2io7UGVUCQq31bs623Ip) | [The Place to Start](https://open.spotify.com/album/4BsZ4xtTtxD8LtI9qKuYG1) | 3:40 |
 | 78 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 |
 | 79 | [WHANTS](https://open.spotify.com/track/6llOcEpxJIyiPBD0ymZVgN) | [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [Burn SZN II: Higher Learrning](https://open.spotify.com/album/6XN9d358SzEVdnjuuWRpo5) | 2:19 |
-| 80 | [Tuned In](https://open.spotify.com/track/6o8gvOohMxEhiUD8FPbvdt) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/7IvscbpWjhklzgKySKueZy) | 3:13 |
+| 80 | [Tuned In](https://open.spotify.com/track/0xM9w2EI5meB4T0tHYJIOD) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/1FxIIPrjELjY7jrrLPGmMv) | 3:23 |
 | 81 | [Do You Want Me](https://open.spotify.com/track/47ZuuTb6dmzEMvj8hurPLI) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Do You Want Me](https://open.spotify.com/album/0fnGrV3TnZwxnfa3mgyiZo) | 3:41 |
 | 82 | [2019](https://open.spotify.com/track/5gQlHUydL3EVsM4cjDck2A) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [2019](https://open.spotify.com/album/7CAn7LZRhCrJJ5GtIE7SBP) | 1:56 |
 | 83 | [Dragonfly](https://open.spotify.com/track/3zuBPTpwfkuZtLDpNgrtY5) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Earth Radio](https://open.spotify.com/album/5YUeuJItsQgx55RCw7QUyn) | 3:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 89 | [Lovin'](https://open.spotify.com/track/0Dj3AbuVklKH5ls23aLpvM) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Lovin'](https://open.spotify.com/album/3d1DVhGpmRRodPVziWJV1r) | 2:08 |
 | 90 | [Nowhere](https://open.spotify.com/track/1VZwQ8OfNR8oQ50CflAveV) | [CANISHA](https://open.spotify.com/artist/1gQ6RBQFW1RmEMDN2XQQt9) | [Nowhere](https://open.spotify.com/album/2QZLZVgSb7ViWOJaRV495q) | 3:19 |
 
-Snapshot ID: `MCwzOGMxMDNlNjAzNWUzZTA4YWYxZWIwY2E0N2IwNDUzYWY3NTBiZDQ1`
+Snapshot ID: `MCxmNjAyMTYyMzgwZWYxZTYyNjk2MjNmZWE1ZTg0ZjlmMWZiOTQ2NWRi`

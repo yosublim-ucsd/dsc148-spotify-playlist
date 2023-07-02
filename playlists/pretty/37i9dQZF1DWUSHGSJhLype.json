@@ -1,12 +1,12 @@
 {
   "description": "aquele rod\u00edzio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta",
-  "num_followers": 371000,
+  "num_followers": 371255,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTU0MTQ1NjNlNDYxYmExYjllOTEwZDBiMjA1ZjY1MmRlNTc0NmY4",
+  "snapshot_id": "MCwyMTEzYmM1ZTM4MmNiNjkwNjQxOGIxNjNhYTI3NGFiNGJhMWVlNTY5",
   "tracks": [
     {
       "added_at": "2023-06-01 15:28:22",
@@ -379,18 +379,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Pode Cr\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
+        "name": "N\u00e3o Para",
+        "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Belle Kaffer",
+          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Charles New",
+          "url": "https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8"
         }
       ],
-      "duration_ms": 163584,
-      "name": "085 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
+      "duration_ms": 180923,
+      "name": "N\u00e3o Para",
+      "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -415,26 +423,18 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "N\u00e3o Para",
-        "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
+        "name": "Pode Cr\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
       },
       "artists": [
         {
-          "name": "Belle Kaffer",
-          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Charles New",
-          "url": "https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8"
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 180923,
-      "name": "N\u00e3o Para",
-      "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
+      "duration_ms": 163584,
+      "name": "085 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Carinha de Beb\u00ea",
+        "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 175725,
+      "name": "Carinha de Beb\u00ea",
+      "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Love Absurdo",
         "url": "https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 184153,
       "name": "Love Absurdo",
       "url": "https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Carinha de Beb\u00ea",
-        "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 175725,
-      "name": "Carinha de Beb\u00ea",
-      "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 187562,
-      "name": "Posturado E Calmo",
-      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Mec Life",
-        "url": "https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4"
+        "name": "Tem Cabar\u00e9 Essa Noite",
+        "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
       },
       "artists": [
         {
-          "name": "DJ ESCOBAR",
-          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+          "name": "Nivaldo Marques",
+          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Mec Life",
-      "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
+      "duration_ms": 202562,
+      "name": "Tem Cabar\u00e9 Essa Noite",
+      "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Tem Cabar\u00e9 Essa Noite",
-        "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4"
       },
       "artists": [
         {
-          "name": "Nivaldo Marques",
-          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
         }
       ],
-      "duration_ms": 202562,
-      "name": "Tem Cabar\u00e9 Essa Noite",
-      "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Diferent\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "S\u00e3o Jo\u00e3o Chegou",
         "url": "https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 175290,
       "name": "Rave e Bagaceira",
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Diferent\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
     },
     {
       "added_at": "2023-06-01 15:28:22",

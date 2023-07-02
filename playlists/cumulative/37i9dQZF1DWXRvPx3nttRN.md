@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-387 songs - 21 hr 49 min
+388 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 | 2022-04-22 |  |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/2U0MVjmeIZGbbLhpL779l3) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Armada Chill 2019](https://open.spotify.com/album/5D4ZiP5BzUEolrRIsRtoRY) | 2:49 | 2022-04-22 | 2022-11-13 |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/3InsMHQ7uECgOSGAe5ycXq) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Acoustic Version\)](https://open.spotify.com/album/5gdWwNy11VATD0CbTcRVjK) | 2:49 | 2021-03-12 | 2022-07-29 |
-| [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 | 2021-03-12 |  |
+| [Rely On Me](https://open.spotify.com/track/1h1I3rmORqj5ZYsdugh22X) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/03DxNAwr0hMVZyTvgCcJmX) | 3:39 | 2023-06-30 |  |
+| [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 | 2021-03-12 | 2023-07-02 |
 | [Remember I Told You \- Acoustic](https://open.spotify.com/track/695IFWWSEbUx39uBKXD7E8) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Remember I Told You \(Acoustic\)](https://open.spotify.com/album/4bGiy76DQAZf1yDENWv2Me) | 3:29 | 2021-03-12 |  |
 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 | 2021-03-12 |  |
 | [Roar](https://open.spotify.com/track/7xjAwB2IYFDCs2B1aCrKAA) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0) | [Alex Goot & Friends, Vol\. 3](https://open.spotify.com/album/0GhppB5IFroTmdP5HxQKE0) | 3:16 | 2021-03-12 |  |

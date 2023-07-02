@@ -628,10 +628,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 255160,
       "name": "Sun Is Coming Up",
       "url": "https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Me?",
+        "url": "https://open.spotify.com/album/0Rkxo1b5OMjDR3II0flvm4"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255306,
+      "name": "Sun is coming up",
+      "url": "https://open.spotify.com/track/4lJh5osg5IhxYdD2WbnFYh"
     },
     {
       "album": {

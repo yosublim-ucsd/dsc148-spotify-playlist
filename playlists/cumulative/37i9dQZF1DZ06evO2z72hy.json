@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/7IgZXXTr4hSKXgkvjjky5U"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4cUTAFvDn8BVMu69Gdb0UL"
+    },
+    {
+      "album": {
         "name": "La 100 Vivo! 2da Edici\u00f3n (Parte 2)",
         "url": "https://open.spotify.com/album/028601b3iM0PZtzD76eKRv"
       },

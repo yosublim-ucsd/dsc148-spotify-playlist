@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in September for Otoño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,907 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,921 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 19 | [Inmortal](https://open.spotify.com/track/71ZPU4m7TYxlPoqjqIld8T) | [Choley](https://open.spotify.com/artist/498vJ548Oigp5VEGisWq1q) | [Inmortal](https://open.spotify.com/album/6I3OAl6Sp1f6gz5rVSOXBn) | 3:56 |
 | 20 | [Verano](https://open.spotify.com/track/1MBYUehM2s22fcC3Cd8Lnp) | [ZØWIE](https://open.spotify.com/artist/7k4bvMZDOGtO4o8NHr4QQn) | [Verano](https://open.spotify.com/album/1AxPYN7hWssPNqIYksT3iz) | 3:18 |
 | 21 | [Que nadie salga herido](https://open.spotify.com/track/7uSI1xmcSsoYKaQw4c8aoD) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Que nadie salga herido](https://open.spotify.com/album/4keruz2vHYA1eCHe2sGe6l) | 3:18 |
-| 22 | [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:11 |
+| 22 | [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:13 |
 | 23 | [Luciérnagas](https://open.spotify.com/track/4Q0j6rJT7VvJ5AcCPaJ6Nz) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 4:14 |
 | 24 | [Una parte](https://open.spotify.com/track/5Yaia4vlWgAxQqynU3QEXQ) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [Una parte](https://open.spotify.com/album/5QXPzWdxKA9kRYtyQ9jAzd) | 3:22 |
 | 25 | [Hoy brillando](https://open.spotify.com/track/6OVqgdTNsULYMAphPJPN6K) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:36 |
 
-Snapshot ID: `MCwzNjFkNGY5MjY1MjkzZTY1ZmY2OGJkMDBjNjhmMDdhZmU2ZDQ3M2Q5`
+Snapshot ID: `MCw1NTc5ZmUyOGQ2OGVhYWI2NzAxNGU1OGExMTU1Y2Y0OTk3ZjgwN2Q4`

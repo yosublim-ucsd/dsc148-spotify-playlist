@@ -7234,7 +7234,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 144000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb"
@@ -26650,7 +26650,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 109600,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/7A7LsOfLIvvhRq0okcY8P5"
@@ -66934,11 +66934,15 @@
         {
           "name": "Jr. Wellness",
           "url": "https://open.spotify.com/artist/7oc0u9Q0BkLat7c10fuHoF"
+        },
+        {
+          "name": "Nosoda",
+          "url": "https://open.spotify.com/artist/37xroJQLtuGLQwHbu0m7F7"
         }
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "New Love",
       "url": "https://open.spotify.com/track/0i3y7AqK9yeByJ1wYh1aZ8"
@@ -109548,7 +109552,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-02",
       "duration_ms": 111000,
       "name": "Windy Seasons",
       "url": "https://open.spotify.com/track/4AQ6z5ljQbfmQFtfHDZHnm"

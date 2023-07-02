@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,412 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,550 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 46 | [Grana](https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Grana](https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT) | 2:13 |
 | 47 | [lobby](https://open.spotify.com/track/3vhfAnsZ8jRFzKBRpbsPVM) | [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Núcleo Label](https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55), [Oushanz](https://open.spotify.com/artist/3Fh99Av2TM4lnJT2KBXElb) | [lobby](https://open.spotify.com/album/1ehCUTfatBsdCD5qU3ZW3C) | 2:35 |
 | 48 | [Grifes \(Conheço bem\)](https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Grifes \(Conheço bem\)](https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe) | 2:24 |
-| 49 | [Moncler](https://open.spotify.com/track/498D8WcctdGpUXMK1RVrsw) | [NITATHEPLUG](https://open.spotify.com/artist/0SwRpBSQCpAGhwcghcKPm4), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Moncler](https://open.spotify.com/album/2XF19VjIrDG2p59lh3OSBc) | 2:40 |
-| 50 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 49 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 50 | [Moncler](https://open.spotify.com/track/498D8WcctdGpUXMK1RVrsw) | [NITATHEPLUG](https://open.spotify.com/artist/0SwRpBSQCpAGhwcghcKPm4), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Moncler](https://open.spotify.com/album/2XF19VjIrDG2p59lh3OSBc) | 2:40 |
 
-Snapshot ID: `MCw5OTY1M2FjODZkNzNmMGYxODIyOGJjNzIzMDUxMjc3OTczN2UzZmQ3`
+Snapshot ID: `MCxkYmYyYTkyYTA5MjBmZjFlMWMwYTY4N2ViMWVkMjAxYjE3Yjg4YzNj`

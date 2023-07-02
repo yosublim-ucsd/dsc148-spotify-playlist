@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMzQ5NjAsMDAwMDAwMDA4NTQ0ZDdkYTcxMGYxOTY3NWM4MGZhYTgwNDQ0ZWU0NQ==",
+  "snapshot_id": "MjgxMzQ5NjAsMDAwMDAwMDBlNWZhZTFhZDQ0OGFhMWQzY2U2ZTNhNmI2OTNhMDQ0YQ==",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Freestyle Canal",
+        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 144780,
+      "name": "Freestyle Canal",
+      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Making The Band (Danity Kane)",
         "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
       },
@@ -163,26 +179,6 @@
       "duration_ms": 105999,
       "name": "Making The Band (Danity Kane)",
       "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Single on Singel (feat. Adriana Aslani)",
-        "url": "https://open.spotify.com/album/4ge5y82FnXdQoCXf11hk3x"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        },
-        {
-          "name": "Adriana Aslani",
-          "url": "https://open.spotify.com/artist/1h8YmxzAPD6bP0vpq9kqvY"
-        }
-      ],
-      "duration_ms": 306147,
-      "name": "Single on Singel (feat. Adriana Aslani)",
-      "url": "https://open.spotify.com/track/32KsMULwkZTvn96JX4H5K6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -207,6 +203,62 @@
       "duration_ms": 207642,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/7G4oZOyYRbkLKHuHyoFsq7"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "We Didn\u2019t Start The Fire",
+        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire",
+      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 262229,
+      "name": "False Idols (with Lil Baby, Suzanna Son)",
+      "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/5bYts6cqDWfSjcXqfVxlyP"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 310576,
+      "name": "So We Won\u2019t Forget - Live at Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2UEQqUtKm52zAo3rXwUFRk"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -319,34 +371,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "MICHAEL",
-        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 253663,
-      "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Fourth Tuning",
         "url": "https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E"
       },
@@ -379,6 +403,34 @@
       "duration_ms": 171545,
       "name": "Fatha Fig Ya (Food For Thought)",
       "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -523,82 +575,6 @@
       "duration_ms": 433533,
       "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
       "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Live Evil (40th Anniversary Super Deluxe)",
-        "url": "https://open.spotify.com/album/76pSxqLWTQeaTtE2CM3Tjj"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 263761,
-      "name": "Paranoid (Live in San Antonio, May 13, 1982) - 2023 Remix",
-      "url": "https://open.spotify.com/track/0452Vi5AOizUNy12JGw2Fd"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Music for a New Century",
-        "url": "https://open.spotify.com/album/6GzCM6xDYDX4gJSvuEFSTt"
-      },
-      "artists": [
-        {
-          "name": "Tan Dun",
-          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Alexey Botvinov",
-          "url": "https://open.spotify.com/artist/2ncOVlwWHKWi5CnO9HkhVf"
-        },
-        {
-          "name": "New Century Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/7hOM6GsmiRE9I1eM1Eldhw"
-        }
-      ],
-      "duration_ms": 333480,
-      "name": "Double Concerto for Violin, Piano, and String Orchestra with Percussion: III. Misterioso",
-      "url": "https://open.spotify.com/track/1GFOrfX6ypNk6VqvlKXlAj"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Crash The Car",
-        "url": "https://open.spotify.com/album/7wvAhyTMzbDsgz03Tp21d1"
-      },
-      "artists": [
-        {
-          "name": "KNOWER",
-          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Crash The Car",
-      "url": "https://open.spotify.com/track/5VtjjJlCiWOeDmnxURCtfl"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

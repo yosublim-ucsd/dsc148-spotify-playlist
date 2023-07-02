@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 
 > Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,458 likes - 66 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,478 likes - 66 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 | 65 | [PERFECT SYMPHONY](https://open.spotify.com/track/7lgtctytqj7oQHdYRLSfwL) | [立花響×風鳴翼×雪音クリス×マリア×月読調×暁切歌×キャロル\(CV:悠木碧×水樹奈々×高垣彩陽×日笠陽子×南條愛乃×茅野愛衣×水瀬いのり\)](https://open.spotify.com/artist/4131BisGtltreRPNb5fSox) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 4:39 |
 | 66 | [未来へのフリューゲル](https://open.spotify.com/track/0C3Fbd3zetSaqxeMmONfp7) | [立花響×風鳴翼×雪音クリス×マリア×月読調×暁切歌×小日向未来\(CV:悠木碧×水樹奈々×高垣彩陽×日笠陽子×南條愛乃×茅野愛衣×井口裕香\)](https://open.spotify.com/artist/6u1VHpHqg5fpNPEn0P0V4h) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 5:11 |
 
-Snapshot ID: `MCxmMmFhZTRkZjRkMWM5ZTNiZTFjZDU1MTlkMGE1NGRiYmNlZjNlNDEw`
+Snapshot ID: `MCxiOGNkMTk4NzY4YmIwYTgyMDJlMTNhMmEwOGM0YWU5NDIzMzdjMGUx`

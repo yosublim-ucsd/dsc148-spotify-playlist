@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 6069,
+  "num_followers": 6073,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzIzNCw1YWQ2N2JiOWI2ZWUyNjc4MWVlNDAyOTM2NjA0NzMzMzY1YmViYTlk",
+  "snapshot_id": "NzIzNyxiZjRmODljNDJlOTcwM2VlYzQzOTIwNDExYmQwYTkwYmY1NmI1ZGFl",
   "tracks": [
     {
       "added_at": "2023-06-30 08:07:27",
@@ -263,6 +263,26 @@
       "duration_ms": 172913,
       "name": "Keep My Cool",
       "url": "https://open.spotify.com/track/6m6ucQX9ePhtXr2jUsRkuH"
+    },
+    {
+      "added_at": "2023-07-01 08:23:54",
+      "album": {
+        "name": "Hit the Lights",
+        "url": "https://open.spotify.com/album/0ORAot4vmSeoOAspF3Whne"
+      },
+      "artists": [
+        {
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+        },
+        {
+          "name": "Rhiannon Roze",
+          "url": "https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Hit the Lights",
+      "url": "https://open.spotify.com/track/3iz5rmQ0m7S4IahWGTpdhK"
     },
     {
       "added_at": "2023-06-30 08:08:46",

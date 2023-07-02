@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 161 likes - 200 songs - 10 hr 14 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 162 likes - 200 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 25 | [tomodachiganaida](https://open.spotify.com/track/0hl29a52GgrpdGjnkHivg3) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La), [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [X61](https://open.spotify.com/album/6WsIjYL0a9dqvMKYJKMdjZ) | 2:33 |
 | 26 | [Out the Door](https://open.spotify.com/track/1ODToLOJZEPtVAk2DDmLxs) | [eightiesheadachetape](https://open.spotify.com/artist/0zqkC2avtnLE51BUOhuV21) | [Out the Door](https://open.spotify.com/album/0PY9S0MZeXPD1NeWDY40Fa) | 4:56 |
 | 27 | [Not Dreaming](https://open.spotify.com/track/0nE8LTk5c8k9q8ZDavSfpB) | [AgonyOST](https://open.spotify.com/artist/1XUDvMVQEJ5HkfG3qzN6yt) | [The Final Nail In The Coffin](https://open.spotify.com/album/4NgnuZTn5V7CucGFB8b1tS) | 4:52 |
-| 28 | [run away with me](https://open.spotify.com/track/54Fafw8CDeKEahdThGU53K) | [68+1](https://open.spotify.com/artist/3YrAMtgGeFZCc4JCQI9mfr), [isrx](https://open.spotify.com/artist/56aBmkdRA6snEREhurIWLp) | [run away with me](https://open.spotify.com/album/7kuI6uSpwzXwnM9Gtg3c52) | 2:09 |
+| 28 | [run away with me](https://open.spotify.com/track/54Fafw8CDeKEahdThGU53K) | [68+1](https://open.spotify.com/artist/3YrAMtgGeFZCc4JCQI9mfr) | [run away with me](https://open.spotify.com/album/7kuI6uSpwzXwnM9Gtg3c52) | 2:09 |
 | 29 | [ROYALE](https://open.spotify.com/track/4koTo6ZSAGBuw63AK0yKWs) | [Anthony1](https://open.spotify.com/artist/405GmXEK8msmaT3pL5yvPq), [Segunda Mordida](https://open.spotify.com/artist/0VpZ5NIZe7XhUE4Em5Nj9r) | [ROYALE](https://open.spotify.com/album/3e0ItIIHjTSIAxpzfOXEbt) | 1:06 |
 | 30 | [Distance](https://open.spotify.com/track/2Sc3ifpiaD9fKVYA6cKwiB) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X), [CHR1SSY](https://open.spotify.com/artist/21uX9Q97gJCfffa0rAuq99) | [Distance](https://open.spotify.com/album/6dfye3ycbZtzVg8smSW7Fs) | 2:48 |
 | 31 | [stinky ultimate sexduit powah](https://open.spotify.com/track/0emrr7UQAmNtv0c1kh9jAt) | [Purity Filter](https://open.spotify.com/artist/5OqtUcLnQsI4uPnyWACQBg), [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6) | [SEXDUIT WIFECORE](https://open.spotify.com/album/2w6HcpfZW9c8Ojsxz7vcCx) | 3:05 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 51 | [1v1](https://open.spotify.com/track/6F0u4owj05fucggABBSqln) | [MANAPOOL](https://open.spotify.com/artist/2tokzcTvZ9YNKxyKl6ljqE) | [Forbidden HolyGround](https://open.spotify.com/album/23Y8FKXKs4ZvWp23ln5fw1) | 3:36 |
 | 52 | [sore](https://open.spotify.com/track/4c2QAfncmDU6LxaN33SGYr) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [sore](https://open.spotify.com/album/6lVTgIcfW7cWQJjc43TZzk) | 3:01 |
 | 53 | [Ostrich Anthropology](https://open.spotify.com/track/3Lpb6dHL2N7CxtH2THnVsV) | [イア / ia](https://open.spotify.com/artist/3M8NeV3l8E2l9glooADmGi) | [Ostrich Anthropology](https://open.spotify.com/album/2uw9tuDrQG1XfTnikOUinu) | 3:08 |
-| 54 | [cant get enough](https://open.spotify.com/track/1FHpIWknScXc2XPyaD3Z2O) | [hxikai](https://open.spotify.com/artist/2ezgeuFEmSdqFvQhuvU7ZZ), [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [cant get enough](https://open.spotify.com/album/4qKYacwtUtttZGlsBBJgxZ) | 2:03 |
+| 54 | [cant get enough](https://open.spotify.com/track/1FHpIWknScXc2XPyaD3Z2O) | [hxikai](https://open.spotify.com/artist/2ezgeuFEmSdqFvQhuvU7ZZ) | [cant get enough](https://open.spotify.com/album/4qKYacwtUtttZGlsBBJgxZ) | 2:03 |
 | 55 | [tired eyes](https://open.spotify.com/track/4dO4dfTUsRctCOfvR6DjQI) | [5ubaruu](https://open.spotify.com/artist/0cFzXziSa1uGPFErr2lU3q) | [s5](https://open.spotify.com/album/3FqUwI2G8OzTFtZpfnf17Q) | 2:12 |
 | 56 | [feel more \(april edit\)](https://open.spotify.com/track/6JDN443u3iQaFtEBbp42o8) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [its so much brighter over here](https://open.spotify.com/album/3FCSfHvVPEcoR8AmROrY2J) | 4:10 |
 | 57 | [show me anything](https://open.spotify.com/track/5iYlxGNZFViBg6vQbJOzJH) | [everythingnnothing](https://open.spotify.com/artist/034dZjB1RkTzm13JUfjFIF), [Nihility](https://open.spotify.com/artist/3GyuJZ9X2SEqU9qf6a993U), [hoowup](https://open.spotify.com/artist/4ymm68AEHKaqFmQ9JgYMSv) | [show me anything](https://open.spotify.com/album/2nzKKI3Kt5VG0Ql5Lgs3Zc) | 2:42 |

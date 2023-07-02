@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: BUNT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,163 likes - 89 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,275 likes - 89 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Diary](https://open.spotify.com/track/2nFtOWsGgAlmsDTh36iawp) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Diary](https://open.spotify.com/album/1s89nUu7cpFopQ2KCkhe5m) | 2:59 |
 | 89 | [Lucky Luke](https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Lucky Luke](https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA) | 6:24 |
 
-Snapshot ID: `MCxkNzgyZmJkMTlmNjdlYWIxZjlkNzY2YzljYTkzNDE0MjQ1YzUyNzZh`
+Snapshot ID: `MCxhMWM0ZWZmOTQxOThhYTJmYWQ3Njk1ZDk3MjM4MjBiN2YwMzRiZTJl`

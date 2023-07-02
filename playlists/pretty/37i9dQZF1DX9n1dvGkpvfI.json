@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a\">PVRIS</a> challenges norms and breaks boundaries. These are the songs that shape her alternative spirit.",
-  "num_followers": 648,
+  "num_followers": 983,
   "original_name": "COUNTER//CULTURE: PVRIS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzNkYzdmNGEzZGIyMDlhN2MwMWNlZmYzYWU0NjJiNDQwYTk0NzM0",
+  "snapshot_id": "MCwwN2ZhNjU2NWMyYjhlZTZkMjUyZWFjNDNlNGM2NTA3OWZkMDMyOTBk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -163,26 +163,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "BDE (feat. slowthai)",
-        "url": "https://open.spotify.com/album/0v2o7PUZZneXkTCWy69432"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "BDE (feat. slowthai)",
-      "url": "https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "CROSSOVER (Deluxe)",
         "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
       },
@@ -327,6 +307,22 @@
       "duration_ms": 219493,
       "name": "Rain on Snow (feat. Inspectah Deck, Ghostface Killah, Raekwon)",
       "url": "https://open.spotify.com/track/44E1khU5Nesq3jW1pdfX81"
+    },
+    {
+      "added_at": "2023-07-02 00:27:01",
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
     },
     {
       "added_at": "2023-06-30 04:01:00",

@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Dynamic Duo\(다이나믹 듀오\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-626 songs - 1 day 10 hr 0 min
+627 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 | 2022-04-21 |  |
 | [ARTIST\. Wavycake \- Moonlight](https://open.spotify.com/track/5F7Eh3Nx5kHSnEcvrUPR0u) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD), [NAVY](https://open.spotify.com/artist/16LVC9K7JhkQZuy00hSKfU), [Nathania](https://open.spotify.com/artist/3GGFoDJb13etkq2DgQ4cMw) | [ARTIST\. Wavycake \- Moonlight](https://open.spotify.com/album/3D92pFEDTiLXCxIYc7z9aL) | 2:54 | 2022-04-01 | 2022-06-02 |
 | [Awesome!](https://open.spotify.com/track/0qPAksIZUGLbj1y2nhdVD8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:05 | 2022-05-03 | 2022-07-19 |
+| [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 | 2023-07-01 |  |
 | [Baby](https://open.spotify.com/track/6XgrmsDAnuYvpBKVjy4ihI) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Shininryu](https://open.spotify.com/album/2yXhRvdGX9y21B04xr44Vw) | 3:46 | 2022-04-21 | 2022-07-29 |
 | [Bad Morning](https://open.spotify.com/track/0OadKRqGmUnSJBPG61eMWE) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 2:51 | 2022-04-01 | 2022-07-16 |
 | [BAEK\-SEOK HIGHSCHOOL \(Prod\. Jgrow\)](https://open.spotify.com/track/6DFuz5klp5t2UXo4NFMg3Y) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [BAEK\-SEOK HIGHSCHOOL](https://open.spotify.com/album/1zJnI2oziS0rXmEs0yDvRV) | 3:36 | 2022-05-11 | 2022-07-16 |
@@ -162,7 +163,7 @@
 | [Empty Head](https://open.spotify.com/track/6qdtmJKEOmmDxt3AEbOPfd) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Empty Head](https://open.spotify.com/album/5C1m57Tts5Tc94UBeSLrYC) | 3:05 | 2022-04-21 | 2022-06-20 |
 | [End of the World](https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:34 | 2022-04-01 | 2022-07-29 |
 | [End of the World \(Feat\. GSoul\)](https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:34 | 2022-07-24 |  |
-| [End The Night](https://open.spotify.com/track/3kjVMArbdPikj11THpg5YU) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Battle for Happiness, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0bts7DNOfKMfVO0QYK1OOE) | 2:51 | 2023-06-23 |  |
+| [End The Night](https://open.spotify.com/track/3kjVMArbdPikj11THpg5YU) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Battle for Happiness, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0bts7DNOfKMfVO0QYK1OOE) | 2:51 | 2023-06-23 | 2023-07-02 |
 | [ENGINE](https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2) | 3:40 | 2022-04-01 | 2022-04-21 |
 | [Error \(Feat\. Loopy\)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2022-04-01 |  |
 | [Eternal Sunshine \(Feat\. meenoi\)](https://open.spotify.com/track/3jkz4gz5WTPuPKTkygwk7P) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 4:13 | 2022-04-01 | 2022-07-29 |

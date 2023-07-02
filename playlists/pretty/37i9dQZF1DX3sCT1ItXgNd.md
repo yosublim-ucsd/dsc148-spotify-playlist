@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Manuel Turizo, Sebastián Yatra, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,894 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,012 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [Beso robado](https://open.spotify.com/track/5SJ3VK1dPFCDsywYd9Czox) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Beso robado](https://open.spotify.com/album/2O04tkJGpsLkoUcbjBBs57) | 4:19 |
 | 75 | [Tu Nombre](https://open.spotify.com/track/0Mb1fm62mIKntgbZFFYpRF) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Tu Nombre](https://open.spotify.com/album/6pKnIlwJfXJxqHjDmpvABs) | 3:00 |
 
-Snapshot ID: `MCw2MWU0NWRmNGNkODM1ZDQzNjQ0ZDJlNGRiZWQ0M2Y4OGU2YmI2M2E2`
+Snapshot ID: `MCxhOTYwZmU5YzczMDJkYjc4YjQ2N2Y4ZTJmNjZjYmEzMzhhMTZkOGU1`

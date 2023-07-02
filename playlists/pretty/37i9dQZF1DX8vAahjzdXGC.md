@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,661 likes - 120 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,691 likes - 120 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 119 | [Miss Americana \(prod\. by Mark Neve\)](https://open.spotify.com/track/2pGssbIFjKOrwdABwZ9nCK) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Miss Americana \(prod\. by Mark Neve\)](https://open.spotify.com/album/1csIMqMZavFtQ9pGio9WUT) | 2:29 |
 | 120 | [I Hope You End Up Alone \(With Me\)](https://open.spotify.com/track/6Ufx6f9tP755yFrrBxNXgH) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [not good at playing love songs](https://open.spotify.com/album/07IfI5tJZRO2uHFJtJwbLd) | 2:12 |
 
-Snapshot ID: `MCxlMjA5ZTUyMjMyZDNhNTg2NWIyOTZlMTg3ZDFiYTE2M2YzYTBjNGRl`
+Snapshot ID: `MCxlM2I3MmIyYjEyNzQzZWUzYzE1MDBhOTk1NGUzMzE2MzlhM2ZmNTg0`

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Sena Mc",
-  "num_followers": 31238,
+  "num_followers": 31252,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzk5ZWEzNjI1YTBlZWQ4YjlhMjJhMGY4YWIzMzJiMjhmMjhjZjgx",
+  "snapshot_id": "MCxkOWJjYjkwYmQ3N2Q4NzkyZjJhYzFlZWRkM2Q2NDcwODZiMzMzMWNi",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Riqueza",
-        "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
-      },
-      "artists": [
-        {
-          "name": "Dend\u00ea",
-          "url": "https://open.spotify.com/artist/306dURz1s90QIIZaVusODl"
-        },
-        {
-          "name": "Vin\u00e3o Beats",
-          "url": "https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH"
-        }
-      ],
-      "duration_ms": 140176,
-      "name": "Riqueza",
-      "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Edgar Davids",
         "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 163404,
       "name": "Edgar Davids",
       "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Riqueza",
+        "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
+      },
+      "artists": [
+        {
+          "name": "Dend\u00ea",
+          "url": "https://open.spotify.com/artist/306dURz1s90QIIZaVusODl"
+        },
+        {
+          "name": "Vin\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH"
+        }
+      ],
+      "duration_ms": 140176,
+      "name": "Riqueza",
+      "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
     },
     {
       "added_at": "2023-06-30 03:01:00",

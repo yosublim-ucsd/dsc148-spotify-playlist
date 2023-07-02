@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 25225,
+  "num_followers": 25262,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmI5OTAxZWRhNzgxZjAyMmNhNjliZjUxMjEyMjQ4NmFiNzljN2Rk",
+  "snapshot_id": "MCxkYjNmMDgwZTZhMjMwNTFjZGMzNmZlNmM5MGNiOTA0YTFkYjNiMzQz",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
-        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
-      },
-      "artists": [
-        {
-          "name": "Juan Mendoza",
-          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Cre\u00ed",
-      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 128666,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
+        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
+      },
+      "artists": [
+        {
+          "name": "Juan Mendoza",
+          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Cre\u00ed",
+      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Para Mi Siempre Amor...",
+        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 115853,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Ven Que Te Quiero",
         "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
       },
@@ -663,34 +679,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Lo Mejor De (Remastered)",
-        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 181452,
-      "name": "Tengo Diecisiete A\u00f1os - Remastered",
-      "url": "https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Para Mi Siempre Amor...",
-        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 115853,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
+      "duration_ms": 177026,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1XuxOXjBmJcctCZCI91Bpm"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+        "name": "Lo Mejor De (Remastered)",
+        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1XuxOXjBmJcctCZCI91Bpm"
+      "duration_ms": 181452,
+      "name": "Tengo Diecisiete A\u00f1os - Remastered",
+      "url": "https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Mujeres Universales Vol. 2",
-        "url": "https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Acomp\u00e1\u00f1ame",
-      "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Doble 2 En 1",
         "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 123520,
       "name": "Eres Diferente",
       "url": "https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
     }
   ],
   "unique_name": "60s Latino",

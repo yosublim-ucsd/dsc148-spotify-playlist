@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11298,
+  "num_followers": 11299,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjMxMzM0YTBjYjZhYzExMzc0MWIwMTI5NjNmZmVmYzJjYjQ3ZWVh",
+  "snapshot_id": "MCwxZjBlOTJiMWYxMzQ5ZDYwYTY4YmIwZjM3NjFlMmU5NmE3ZjZiMDNh",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 90826,
-      "name": "Looks Good With Trouble",
-      "url": "https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "New Amerykah Part Two: Return Of The Ankh",
         "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 64733,
       "name": "You Loving Me (Session)",
       "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 90826,
+      "name": "Looks Good With Trouble",
+      "url": "https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 51266,
+      "name": "Hey Sugah - Interlude",
+      "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 70253,
       "name": "Drown in It",
       "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 51266,
-      "name": "Hey Sugah - Interlude",
-      "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 107533,
+      "name": "Soul Intact - Interlude",
+      "url": "https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 152533,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "Where Is The Love - Interlude",
-      "url": "https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 107533,
-      "name": "Soul Intact - Interlude",
-      "url": "https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o"
+      "duration_ms": 122466,
+      "name": "Where Is The Love - Interlude",
+      "url": "https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "Makings Of You - Interlude",
-      "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 100680,
       "name": "Puff's Intro",
       "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "Makings Of You - Interlude",
+      "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Beautifully Human: Words and Sounds Vol. 2",
         "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 91573,
       "name": "Nothing (Interlude)",
       "url": "https://open.spotify.com/track/0B6HLF4uh7dDwbWzqR57tP"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 130693,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Soul Of A Woman",
-        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
-      },
-      "artists": [
-        {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
-        }
-      ],
-      "duration_ms": 76533,
-      "name": "Don't Go Away (Interlude)",
-      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Ready is Always Too Late",
         "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 39600,
       "name": "J.L (Interlude)",
       "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Soul Of A Woman",
+        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
+      },
+      "artists": [
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "duration_ms": 76533,
+      "name": "Don't Go Away (Interlude)",
+      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 81133,
-      "name": "Ghetto (Interlude)",
-      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Kima, Keisha & Pam",
         "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 82457,
       "name": "Truth or Dare (Interlude)",
       "url": "https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 81133,
+      "name": "Ghetto (Interlude)",
+      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2022-12-03 05:29:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。XG, Rita Ora, Jon Batiste, Nothing But Thives and more! cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,854 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,911 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 |
 | 75 | [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 |
 | 76 | [Miss Americana \(prod\. by Mark Neve\)](https://open.spotify.com/track/2pGssbIFjKOrwdABwZ9nCK) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Miss Americana \(prod\. by Mark Neve\)](https://open.spotify.com/album/1csIMqMZavFtQ9pGio9WUT) | 2:29 |
-| 77 | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/track/7JqjKFamcUmaT5YcctWKZX) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/album/3frSVSjPe9Nuk3jFabhYYm) | 2:01 |
+| 77 | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/track/7JqjKFamcUmaT5YcctWKZX) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/album/3frSVSjPe9Nuk3jFabhYYm) | 2:01 |
 | 78 | [Bonfire](https://open.spotify.com/track/2ypxrA0qI9TMnc8tzklX6O) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [BAUKHA](https://open.spotify.com/album/7C5NKj4gy8I8I7EScw1cw4) | 5:14 |
 | 79 | [Paradise](https://open.spotify.com/track/7Mcpr4dcL5FIrLQkAl2ThC) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Paradise](https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw) | 3:39 |
 | 80 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 89 | [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 |
 | 90 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
 
-Snapshot ID: `MCw3MGUwNTc3ZTE1N2Y4YTc4YmVlNDExNjAxYTAwMjIzYTMyNjZhMTk4`
+Snapshot ID: `MCw0OWQ3NGIwNGQ0MTEzZDAyZDA1NDVjZjY4NzY0MDNiYjZkMTgyZjYx`

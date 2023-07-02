@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 47096,
+  "num_followers": 47125,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGFlZDFiNGYyZDQwMTBjNzE4NzgyMDFiZjM0N2E1NjNlNmEzZTMx",
+  "snapshot_id": "MCwxMzZiMjU1YzM3YjFkNDI4OGQ0YTU1MmU4MDQ5NjBmZGFjYzY4NDVi",
   "tracks": [
     {
       "added_at": "2023-06-13 08:59:55",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
-        "name": "Junggigo Sings Brazil",
-        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
-      },
-      "artists": [
-        {
-          "name": "Junggigo Trio",
-          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Fairy Of Shampoo",
-      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
-    },
-    {
-      "added_at": "2023-06-13 08:59:55",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2023-06-13 08:59:55",
+      "album": {
+        "name": "Junggigo Sings Brazil",
+        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
+      },
+      "artists": [
+        {
+          "name": "Junggigo Trio",
+          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Fairy Of Shampoo",
+      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
       "added_at": "2023-06-13 08:59:55",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
-        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
-      },
-      "artists": [
-        {
-          "name": "Park Hyun Kyu",
-          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
-    },
-    {
-      "added_at": "2023-06-13 08:59:55",
-      "album": {
         "name": "SMILE",
         "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 228934,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51"
+    },
+    {
+      "added_at": "2023-06-13 08:59:55",
+      "album": {
+        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
+      },
+      "artists": [
+        {
+          "name": "Park Hyun Kyu",
+          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
     },
     {
       "added_at": "2023-06-13 08:59:55",

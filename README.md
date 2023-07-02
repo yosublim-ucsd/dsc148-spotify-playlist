@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6255\)
+## Playlists \(6256\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -4341,6 +4341,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Summer Party](/playlists/pretty/37i9dQZF1DX5Ozry5U6G0d.md)
 - [Summer Pop](/playlists/pretty/37i9dQZF1DX9nkam6FKfgM.md)
 - [Summer Reading](/playlists/pretty/37i9dQZF1DX51qI8MDEx8N.md)
+- [Summer Rizz](/playlists/pretty/37i9dQZF1DX9jvC1xBh84q.md)
 - [Summer Rock 2023](/playlists/pretty/37i9dQZF1DX72tt7n9B4TV.md)
 - [Summer Rock Classics](/playlists/pretty/37i9dQZF1DWU3bkMPOyjie.md)
 - [Summer Strike \(아무것도 하고 싶지 않아\)](/playlists/pretty/37i9dQZF1DXcdlnITQ87tu.md)

@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-163 songs - 9 hr 23 min
+164 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2018 \(feat\. YunB\)](https://open.spotify.com/track/64pPakl5rfhazEQ7DZiOw8) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG) | [YEAREND](https://open.spotify.com/album/2hvPqD3IqDzDgqdal3pr6F) | 3:02 | 2022-06-03 | 2022-07-14 |
 | [20180222\-20180930](https://open.spotify.com/track/2nrWw9mH2R5IiNFRtcAkIK) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 2:43 | 2022-07-22 | 2023-01-10 |
 | [20180222\-20180930](https://open.spotify.com/track/5918ji3b3679cnAjHFo9sU) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/6LB9gCiUqrrHOZEoYZ730k) | 2:43 | 2022-05-11 | 2022-07-28 |
-| [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 | 2022-05-11 |  |
+| [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 | 2022-05-11 | 2023-07-02 |
 | [3355 \(feat\. Ugly Duck\)](https://open.spotify.com/track/1BtUFAuADaGleNA3ojpcUc) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [YEAREND](https://open.spotify.com/album/2hvPqD3IqDzDgqdal3pr6F) | 3:09 | 2022-07-22 | 2022-07-26 |
 | [a fence](https://open.spotify.com/track/3d9ttWtLGA5YYx5O6VvjZl) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Af](https://open.spotify.com/album/4D4c8N9dVBUaVRRP6teuOE) | 3:27 | 2022-05-11 | 2022-07-28 |
 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 | 2022-07-22 |  |
@@ -71,6 +71,7 @@
 | [gucci girl](https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:20 | 2022-07-22 |  |
 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 | 2022-05-11 | 2022-08-25 |
 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 | 2022-05-11 |  |
+| [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 | 2023-07-01 |  |
 | [Hair Style \(feat\. DON MALIK & Hannah\)](https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH) | [Iamdl](https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hannah](https://open.spotify.com/artist/1b8P5suIziOrGu4ot9gfzV) | [CHAPTER 1](https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU) | 3:23 | 2022-06-20 | 2022-09-17 |
 | [HALFTIME](https://open.spotify.com/track/6P17rw7TZhpAZpGGhP7YPp) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 4:15 | 2022-05-11 | 2022-07-26 |
 | [HANNAH](https://open.spotify.com/track/2Z4Ou528DLw61yUR2jAsuI) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j) | [Hannah](https://open.spotify.com/album/3muvhUWEyFNqZ77wUwUFYl) | 3:31 | 2022-05-11 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Olivia Rodrigo
 
-1,941 songs - 4 day 6 hr 28 min
+1,942 songs - 4 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Elke Dag Weer Feest](https://open.spotify.com/track/6vw7fRklbD5dUgBVHlnPBf) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Elke Dag Weer Feest](https://open.spotify.com/album/0v8fACIcsnMCKLUfShdx2R) | 3:08 | 2023-06-29 |  |
 | [Emotieloos](https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7) | [BEAU](https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt), [Purp Sagir](https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ), [Jerry](https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0) | [Emotieloos](https://open.spotify.com/album/0gspBGHDmPpfV0yxBu5U4H) | 3:06 | 2023-05-19 | 2023-05-26 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-05-19 |
-| [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/5WOiy2Aa0YEg17qu30Rg7k) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 | 2023-06-29 |  |
+| [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 | 2023-06-29 |  |
 | [Empire Strikes Back](https://open.spotify.com/track/2KK7g7Y4rsvz70Bn3kgHEp) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [Empire Strikes Back](https://open.spotify.com/album/1dG4hNo1IRdWNtaFWzZo3P) | 2:24 | 2023-05-11 | 2023-05-19 |
 | [Empty & Uncovered](https://open.spotify.com/track/6hiC8BvWi21PjzabPhq4e7) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Empty & Uncovered](https://open.spotify.com/album/6ISF6X7prpG3CQXDdbk73P) | 2:03 | 2023-04-20 | 2023-04-28 |
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 | 2023-05-19 | 2023-05-26 |
@@ -834,7 +834,8 @@
 | [Ik Mis Je](https://open.spotify.com/track/7zLuOt5xUSX2Pqn2g8y4rG) | [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7) | [Ik Mis Je](https://open.spotify.com/album/2GGqEDQ4QWJxMUURQrfPMk) | 3:06 | 2023-05-19 | 2023-05-26 |
 | [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 | 2023-03-09 | 2023-03-18 |
 | [Ik Wacht Op Jou \(Je T'attends\)](https://open.spotify.com/track/6UoS8duz559g2V25wHv9VO) | [Suzet Lichel](https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW), [Langesjaak](https://open.spotify.com/artist/16GFcI0Sl34ETwdcVuM0Mj) | [Ik Wacht Op Jou \(Je T'attends\)](https://open.spotify.com/album/7zgdKK2FHqwiq1HmAT0KMb) | 3:18 | 2023-06-08 | 2023-06-16 |
-| [Ik Weiger](https://open.spotify.com/track/5olck2evblr8c3a8Avky6Z) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2gqyTNQcnXa7tkUiArmI8D) | 4:06 | 2023-06-29 |  |
+| [Ik Weiger](https://open.spotify.com/track/3o0MvXQlFyY07F8r9M7FzL) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2Oa3ovQflK45RsMhudj6wc) | 3:22 | 2023-06-30 |  |
+| [Ik Weiger](https://open.spotify.com/track/5olck2evblr8c3a8Avky6Z) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2gqyTNQcnXa7tkUiArmI8D) | 4:06 | 2023-06-29 | 2023-07-02 |
 | [Ik Zweef Alweer](https://open.spotify.com/track/6J2H0eIWxiHDLPCMfkRzIP) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Ik Zweef Alweer](https://open.spotify.com/album/5eTBzFLYDB5Tp4BL0zkX0b) | 5:29 | 2023-04-20 | 2023-04-28 |
 | [Illuminate](https://open.spotify.com/track/5EZKlZBdudSf3X1XOSuNv4) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Illuminate](https://open.spotify.com/album/4kVCrH7CfU2PzjcM5TpK1H) | 3:00 | 2023-05-04 | 2023-05-12 |
 | [ily2](https://open.spotify.com/track/1aCi1np6otYE894Gwpxjoj) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [mother, i'm not here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 2:14 | 2023-06-22 | 2023-06-30 |
@@ -1506,7 +1507,7 @@
 | [South Side](https://open.spotify.com/track/3MaRRDE3OA7CMMRCZwduy1) | [Beryl Anne](https://open.spotify.com/artist/1ztWov8gH1mozsRqKJJQCC), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [South Side](https://open.spotify.com/album/2KChXx985k7pRVzKzD0oqR) | 3:34 | 2023-06-22 | 2023-06-30 |
 | [Souvenir](https://open.spotify.com/track/7pspgy2N9LdN9QuDVNd1Dk) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Souvenir](https://open.spotify.com/album/3U51XnCdrGLkFrBbLFE282) | 2:14 | 2023-05-25 | 2023-06-02 |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-04 | 2023-05-12 |
-| [Sowieso](https://open.spotify.com/track/4BZgEjxAyvF2VqxDyyu0E6) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [WillyBeatsz](https://open.spotify.com/artist/1AEaWI0WgpJLdSnjefWYkA) | [Sowieso](https://open.spotify.com/album/0DtopEDpya0gUSYbMVejwy) | 2:44 | 2023-06-29 |  |
+| [Sowieso](https://open.spotify.com/track/4BZgEjxAyvF2VqxDyyu0E6) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Willybeatsz](https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p) | [Sowieso](https://open.spotify.com/album/0DtopEDpya0gUSYbMVejwy) | 2:44 | 2023-06-29 |  |
 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 | 2023-03-30 | 2023-04-07 |
 | [Space Traveler](https://open.spotify.com/track/5WGHMmG5Tz4hI4fefZBHvo) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Hudson](https://open.spotify.com/artist/5WAXPWsUHGj5T4qu7ZL8eX) | [Honeymoon Phase EP](https://open.spotify.com/album/5MfxlE3QtAJ6T7YoSHk8Rr) | 4:20 | 2023-04-13 | 2023-04-21 |
 | [Special Occasion](https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 4:31 | 2023-05-05 | 2023-05-12 |

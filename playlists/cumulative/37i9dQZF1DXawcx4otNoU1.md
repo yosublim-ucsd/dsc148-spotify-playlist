@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-306 songs - 18 hr 39 min
+307 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,9 @@
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-17 |  |
 | [Hope](https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:08 | 2022-07-08 | 2023-02-14 |
 | [Hope](https://open.spotify.com/track/6xt4u93iwGvKSfwzq8N1TX) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Hope](https://open.spotify.com/album/15Eo57YQWkIcjZfGjwbgv9) | 4:08 | 2021-10-26 | 2022-07-29 |
-| [How Deep Is Your Love](https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:01 | 2022-07-08 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:01 | 2022-07-08 | 2023-07-02 |
 | [How Deep Is Your Love](https://open.spotify.com/track/0TEQwkISusxCFUlfgrV6uc) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Love Songs \- Timeless Classics](https://open.spotify.com/album/76lPKmd1V1x0I3gSx0pmTa) | 4:05 | 2022-10-28 | 2022-11-13 |
+| [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 | 2023-02-10 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/3aqTTareFsrd7gMeV7Qvif) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/684Fi6YqIP9xU9JeboAgVM) | 4:05 | 2021-10-26 | 2022-07-29 |
 | [How Long Will I Love You](https://open.spotify.com/track/0vmNI1u7ZZOqnili1cp8w3) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Valentines Day 2021](https://open.spotify.com/album/6TggYmNhal9ODV3MqXeu3y) | 2:34 | 2022-10-28 | 2022-11-13 |
 | [How Long Will I Love You](https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 2:34 | 2022-09-30 |  |
