@@ -1,0 +1,45 @@
+pretty - [cumulative](/playlists/cumulative/0VvfiaR7l5xBzEjCLygDOM.md) - [plain](/playlists/plain/0VvfiaR7l5xBzEjCLygDOM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0VvfiaR7l5xBzEjCLygDOM)
+
+### [chumbucketgumbo](https://open.spotify.com/playlist/0VvfiaR7l5xBzEjCLygDOM)
+
+> 
+
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 5 likes - 33 songs - 1 hr 58 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
+| 2 | [Better Days \(And the Bottom Drops Out\)](https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb) | [Citizen King](https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M) | [Mobile Estates](https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq) | 3:27 |
+| 3 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
+| 4 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/09zcsg2TgceQZ5GCmzrUDZ) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [Eddie Stobart \- Trucking Songs](https://open.spotify.com/album/1ruxsc2tZWcHR9DcO0ChsM) | 3:53 |
+| 5 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 |
+| 6 | [Every Morning](https://open.spotify.com/track/0BfcEHpbpAvvZok7OnIHEN) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Sugar Ray Collection](https://open.spotify.com/album/717p2dG02D55NmbZY61135) | 3:39 |
+| 7 | [One Week](https://open.spotify.com/track/0SEGiHvYl4AaxVgoaSliPF) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Digimon: The Movie \(Music From The Motion Picture\)](https://open.spotify.com/album/6oZz0e1uDETS34E9sODGkj) | 2:49 |
+| 8 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 |
+| 9 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
+| 10 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 |
+| 11 | [Come Out And Play](https://open.spotify.com/track/0S6WWRZ7MpVnkeZrSiQpmY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/64EFbgYiKlVxkBMUW22Rqu) | 3:17 |
+| 12 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 |
+| 13 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 |
+| 14 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
+| 15 | [One Fine Day](https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:45 |
+| 16 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 17 | [Dracula From Houston](https://open.spotify.com/track/4KJKj7GZLzxq1bXRu0XP6l) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Weird Revolution](https://open.spotify.com/album/1nrZ789CcB2NWW3xn8MBfe) | 3:42 |
+| 18 | [Why Don't You Get A Job](https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:52 |
+| 19 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 |
+| 20 | [Narcotic \- Radio Edit](https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH) | [Liquido](https://open.spotify.com/artist/0wgLwvDNCHdJ9FblyyD4Dc) | [Narcotic](https://open.spotify.com/album/79EDJF2fJnnM7YVKCAeQXj) | 3:56 |
+| 21 | [Your Woman](https://open.spotify.com/track/0iMY5tGwbGpA207GBtWqJJ) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Top Of The Pops \- One Hit Wonders](https://open.spotify.com/album/3KbPjOQzgGICdMuQtqjjHS) | 4:19 |
+| 22 | [Two Princes](https://open.spotify.com/track/00l1imIjCo1jAOVZbI2SNn) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Empire Vol.2](https://open.spotify.com/album/0I0vznmlRKjRwggRxViV0g) | 4:12 |
+| 23 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 |
+| 24 | [People Who Died](https://open.spotify.com/track/5mcaY65WhtzFk1TFRGY6kY) | [The Jim Carroll Band](https://open.spotify.com/artist/7jrNr1OwKCfNDfHkwOTJnc) | [Catholic Boy](https://open.spotify.com/album/4wAWa84e356LRGEPA741Fv) | 4:59 |
+| 25 | [All That She Wants](https://open.spotify.com/track/0D3cLroF6oaIoylKOc2jKV) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Action Hits](https://open.spotify.com/album/4ZcVBJwFdHD9YiK4dMUe4s) | 3:30 |
+| 26 | [Unbelievable](https://open.spotify.com/track/01M51iepGfV71Pr908CXDY) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Epic](https://open.spotify.com/album/2hcgnBO2G4WoJsoGDJA9h9) | 3:29 |
+| 27 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
+| 28 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
+| 29 | [Lump](https://open.spotify.com/track/0BkfgzhxeFtLBbmTjbPJ97) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/3ItI6JFnsUIt5PajojH8kJ) | 2:14 |
+| 30 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
+| 31 | [My Favourite Game](https://open.spotify.com/track/7gjm1sq5ALU5svBSi9g178) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:37 |
+| 32 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 33 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
+
+Snapshot ID: `MTEzLDU2OTc5Y2FkOGRjYjNiODhjNDIwM2FjMTFmMjM3MjlhNGUxMzUxNzk=`

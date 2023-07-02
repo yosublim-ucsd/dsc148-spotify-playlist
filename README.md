@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6256\)
+## Playlists \(6258\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -5963,6 +5963,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [canciones para ver atardeceres](/playlists/pretty/37i9dQZF1DX1aRKnsaXaBL.md)
 - [chill lofi study beats](/playlists/pretty/37i9dQZF1DX8Uebhn9wzrS.md)
 - [chill/DnB](/playlists/pretty/3g1eliu8IsLV3pW4Otv0Te.md)
+- [chumbucketgumbo](/playlists/pretty/0VvfiaR7l5xBzEjCLygDOM.md)
 - [cloud gazing](/playlists/pretty/37i9dQZF1DWYoDXiQsd3D2.md)
 - [coastal cowgirl](/playlists/pretty/37i9dQZF1DX42rTd7wQPNO.md)
 - [coconut girl vibes](/playlists/pretty/37i9dQZF1DWWS2jhzRuNba.md)
@@ -6021,6 +6022,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [hot girl walk](/playlists/pretty/37i9dQZF1DXbdNhlZLjJXz.md)
 - [hyperpop](/playlists/pretty/37i9dQZF1DX7HOk71GPfSw.md)
 - [idk.](/playlists/pretty/37i9dQZF1DX59NCqCqJtoH.md)
+- [im not gay but this doesnt help](/playlists/pretty/0gOulRKExULOXb2olkSdfa.md)
 - [import of The daily dozen \(@pipemanuel10\)](/playlists/pretty/5nz3AAoDyHSidelqd2fnci.md)
 - [indie feliz](/playlists/pretty/37i9dQZF1DX9c9fpd0lxJ5.md)
 - [indie pop & chill](/playlists/pretty/37i9dQZF1DX5y8xoSWyhcz.md)
