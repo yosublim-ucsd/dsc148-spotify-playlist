@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,054 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,092 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Fire](https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:23 |
 | 60 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 
-Snapshot ID: `MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2`
+Snapshot ID: `MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1`

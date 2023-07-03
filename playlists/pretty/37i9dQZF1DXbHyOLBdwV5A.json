@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 105519,
+  "num_followers": 105620,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTQ3YzQ3ZDUxM2Q2NzZiZDE1NjU1OWZmNzZiYWVkNDkzNTFkZWZi",
+  "snapshot_id": "MCxlOWMxNTJlYjhmMWM2MWQzZDczMzE5YTA1ZmRhNGEzYmUxZjVkOWU4",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Deus \u00c9 Bom o Tempo Todo",
         "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 160846,
       "name": "Deus \u00c9 Bom o Tempo Todo",
       "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -671,8 +671,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
       },
       "artists": [
         {
@@ -680,17 +680,17 @@
           "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
           "name": "Amanda Loyola",
           "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
         }
       ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -807,8 +807,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
       },
       "artists": [
         {
@@ -816,17 +816,17 @@
           "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
         },
         {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
         }
       ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Kayo Santos",
+          "url": "https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -1207,46 +1231,6 @@
       "duration_ms": 216470,
       "name": "Respirar e Confiar",
       "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Vem pela Manh\u00e3",
-        "url": "https://open.spotify.com/album/0NKhTEfiVD58hSVVfMy0X2"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Vieira",
-          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
-        },
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/4E4ErUuYdeDxezM2aSDCSS"
-        }
-      ],
-      "duration_ms": 170673,
-      "name": "Vem pela Manh\u00e3",
-      "url": "https://open.spotify.com/track/4mf5hnlsmN493HvDu067Qv"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1271,6 +1255,26 @@
       "duration_ms": 231948,
       "name": "Me Resgatou - Remix",
       "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Vem pela Manh\u00e3",
+        "url": "https://open.spotify.com/album/0NKhTEfiVD58hSVVfMy0X2"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Vieira",
+          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
+        },
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/4E4ErUuYdeDxezM2aSDCSS"
+        }
+      ],
+      "duration_ms": 170673,
+      "name": "Vem pela Manh\u00e3",
+      "url": "https://open.spotify.com/track/4mf5hnlsmN493HvDu067Qv"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1319,8 +1323,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm"
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
       },
       "artists": [
         {
@@ -1328,17 +1332,13 @@
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Kayo Santos",
-          "url": "https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP"
-        },
-        {
-          "name": "Viviane Franco",
-          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 174375,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9"
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Vem Incendiar Meu Cora\u00e7\u00e3o (Remix)",
-        "url": "https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Andr\u00e9 Aquino",
-          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Vem Incendiar Meu Cora\u00e7\u00e3o - Remix",
-      "url": "https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Eu Te Vejo Em Tudo (Remix)",
         "url": "https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 166716,
       "name": "Eu Te Vejo Em Tudo (Remix)",
       "url": "https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Vem Incendiar Meu Cora\u00e7\u00e3o (Remix)",
+        "url": "https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Andr\u00e9 Aquino",
+          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Vem Incendiar Meu Cora\u00e7\u00e3o - Remix",
+      "url": "https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz"
     },
     {
       "added_at": "2023-06-02 03:00:00",

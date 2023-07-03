@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now\. Cover: Late 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,104 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,139 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
 | 60 | [Not a Friend](https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Not A Friend](https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f) | 3:19 |
 
-Snapshot ID: `MCxhMzRhZTEzZmQ0Zjk2YmVmZmI3YTM1NzY1YjJmZjY0ZTc3ZWRkZWU2`
+Snapshot ID: `MCwyNjk5NGZiODFmNzg5NDQxOWM0ZTA1MzI5ZDEwZDk3YWRjMTQ5N2Jj`

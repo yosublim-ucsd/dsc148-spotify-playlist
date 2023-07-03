@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,219 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,232 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 16 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 |
 | 17 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
 | 18 | [Lord It Over](https://open.spotify.com/track/1ep4SZNTde7rDftHhY9Yq1) | [Dylan Golden Aycock](https://open.spotify.com/artist/5LO5Gtv41xC0058NdQsDmZ) | [Church of Level Track](https://open.spotify.com/album/0naTNqCkQO4hukkSaWk9Md) | 4:38 |
-| 19 | [Elsewhere](https://open.spotify.com/track/08H9q3gCKeyj5VTU77I6s5) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/4K1vuIiWDUTu8tr9BCwyH9) | 5:28 |
+| 19 | [Elsewhere](https://open.spotify.com/track/4YAtKBCcxo3GRoph3gg8rQ) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [The Happiest Times I Ever Ignored](https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9) | 5:28 |
 | 20 | [The Nighthawks Are Out](https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 5:16 |
 | 21 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
 | 22 | [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 59 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 60 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MCxhYzk3YWEzZmE0MmQ2Yjg0N2NhNDhjOTMzYjUwMmEyNjQ0ZjI3OTFm`
+Snapshot ID: `MCwxMTA2YzIzNjk1NGEzMzE4ZjM1M2FkZjI3Yzc2NDQxNGM0ODI1MzRj`

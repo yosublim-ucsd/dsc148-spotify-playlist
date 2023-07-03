@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "I Am Weary, Don't Let Me Rest",
+        "url": "https://open.spotify.com/album/4onD8GBmY5H7o24RnDhDpo"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/0nIO7JDajf45my855jiEl0"
+    },
+    {
+      "album": {
         "name": "Before We Leave",
         "url": "https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 183815,
       "name": "durch Nacht und Nebel",
       "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"

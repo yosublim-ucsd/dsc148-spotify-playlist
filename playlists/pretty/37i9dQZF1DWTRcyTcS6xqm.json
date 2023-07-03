@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9782,
+  "num_followers": 9789,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz",
+  "snapshot_id": "MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Can't Look Back",
-        "url": "https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r"
-      },
-      "artists": [
-        {
-          "name": "Coco Montoya",
-          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Back In A Cadillac",
-      "url": "https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 197946,
       "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Can't Look Back",
+        "url": "https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Back In A Cadillac",
+      "url": "https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
     },
     {
+      "added_at": "2021-11-05 04:00:00",
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "The Ice Queen",
@@ -539,22 +555,6 @@
       "duration_ms": 223560,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz"
-    },
-    {
-      "added_at": "2021-11-05 04:00:00",
-      "album": {
-        "name": "Shout Into The Noise",
-        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
     },
     {
       "added_at": "2020-12-01 05:01:00",

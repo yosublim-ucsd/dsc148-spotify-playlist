@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 
 > Get your freak on with golden era of rap music! All the 90s hip hop throwbacks including classic old school songs from Biggie, Missy Elliott, Nas, 2Pac, Outkast and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,907 likes - 90 songs - 6 hr 29 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,903 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |
 | 2 | [Hot Boyz](https://open.spotify.com/track/7mYvtEeBdMqRSyj1Qpv6my) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 3:35 |
 | 3 | [Woo Hah!! Got You All in Check \(The Jay\-Dee Bounce Remix\) \- 2021 Remaster](https://open.spotify.com/track/2aVr3ERvtApNo4KRqqi96y) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Jay Dee](https://open.spotify.com/artist/16L1SS4OancaZUTu3qWqHb) | [Woo Hah!! Got You All In Check \(The Jay\-Dee Bounce Remix\) \[2021 Remaster\]](https://open.spotify.com/album/2L9vcJJN4Svj1Zhcj29Geo) | 4:42 |
-| 4 | [Only You \(feat\. The Notorious B.I.G\. & Mase\) \- Bad Boy Remix](https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
+| 4 | [Only You \(feat\. The Notorious B.I.G., Ma$e\) \- Bad Boy Remix](https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ma$e](https://open.spotify.com/artist/34t9RzI5oDMZJVmcoUZnJE) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
 | 5 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 6 | [Feel so Good](https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:23 |
 | 7 | [SpottieOttieDopaliscious](https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 7:06 |

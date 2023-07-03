@@ -1,12 +1,12 @@
 {
   "description": "This month: songs from an iconic era of Black film soundtracks.",
-  "num_followers": 1136507,
+  "num_followers": 1136497,
   "original_name": "Film & TV Favorites: 90s Black Cinema",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzg4ZDBkMDIwZGRkZDExYzY2MWJjYjllNDAwMGYwODAxMjI2Yjll",
+  "snapshot_id": "MCw2MDI3NmJjY2UzYzVhZmI1NTI1YTU0Nzc0YTA3ZmNkYjljZTQ1OWFl",
   "tracks": [
     {
       "added_at": "2021-02-02 15:31:39",
@@ -215,6 +215,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "School Daze (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT"
+      },
+      "artists": [
+        {
+          "name": "E.U.",
+          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
+        }
+      ],
+      "duration_ms": 314360,
+      "name": "Da' Butt - From The \"School Daze\" Soundtrack",
+      "url": "https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "Crooklyn Volume 1 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 273453,
       "name": "Crooklyn - Crooklyn/Soundtrack Version",
       "url": "https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "School Daze (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT"
-      },
-      "artists": [
-        {
-          "name": "E.U.",
-          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
-        }
-      ],
-      "duration_ms": 314360,
-      "name": "Da' Butt - From The \"School Daze\" Soundtrack",
-      "url": "https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe"
     },
     {
       "added_at": "2021-02-02 15:31:39",

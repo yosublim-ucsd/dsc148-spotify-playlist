@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 20531,
+  "num_followers": 20556,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTA4ZWI2YmY5NDk2OTI4ODUwZjJiMWEwZDU0Y2YyMmZlNzhhMDlm",
+  "snapshot_id": "MCwzYmUwMzg3YmQzN2FjZWNhYWE5MDhhZGQ3ZWRlZjlhMGI2MjgwNzNl",
   "tracks": [
     {
       "added_at": "2023-06-30 07:55:30",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-06-30 07:55:30",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2023-06-30 07:55:30",
@@ -859,18 +855,18 @@
     {
       "added_at": "2023-06-30 07:55:30",
       "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     }
   ],
   "unique_name": "Sound Semester ",

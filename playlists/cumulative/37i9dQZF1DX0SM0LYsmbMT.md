@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,554 songs - 5 day 16 hr 23 min
+3,555 songs - 5 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2150,7 +2150,7 @@
 | [No Sleep](https://open.spotify.com/track/5pJmHZ1Yirt5tzmVaYOhya) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [No Sleep](https://open.spotify.com/album/3WkynbrSWZZJASYLaAR8nD) | 2:35 | 2020-03-10 | 2020-06-05 |
 | [no stress](https://open.spotify.com/track/2NEjPjHPuTjUqQ8MoIWi0Z) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Summer Trip](https://open.spotify.com/album/2ytUOoS3iYfCzXQ7tRtvhh) | 3:49 | 2019-05-26\* | 2020-04-24 |
 | [no tomorrow](https://open.spotify.com/track/5ME4PtE1B3UCwQM3v4xgja) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [no tomorrow](https://open.spotify.com/album/7EQzrEz3QliO0zBxUYxZmA) | 1:45 | 2019-06-08 | 2019-11-08 |
-| [No Train](https://open.spotify.com/track/6Dbkx0yRv8X6BRutRy40Zx) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Train](https://open.spotify.com/album/2IsGzSKIRJZJsnlU88aa1Y) | 1:55 | 2022-06-16 |  |
+| [No Train](https://open.spotify.com/track/6Dbkx0yRv8X6BRutRy40Zx) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Train](https://open.spotify.com/album/2IsGzSKIRJZJsnlU88aa1Y) | 1:55 | 2022-06-16 | 2023-07-03 |
 | [Nobody But You](https://open.spotify.com/track/2f4w9W43IQFLSsla2b5UmV) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Nobody But You](https://open.spotify.com/album/7pO69kLkD5LwPdcloLwWeF) | 2:02 | 2020-09-18 | 2021-05-07 |
 | [Nobodys Daddy Part 2](https://open.spotify.com/track/1Mlr2Los4l7nUxu6gSZMLN) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0) | [Beats Beim Drehen](https://open.spotify.com/album/14qnEEVXUyoQ97JEwd9aS8) | 2:12 | 2019-12-20 | 2020-03-14 |
 | [Nocturnal](https://open.spotify.com/track/69Aac1Q8UXmtWOrcHimO0f) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Nocturnal](https://open.spotify.com/album/63Y46a21w7IOOwMdjKEhBJ) | 2:18 | 2023-03-02 | 2023-06-02 |
@@ -3377,6 +3377,7 @@
 | [wanderlust](https://open.spotify.com/track/3H4uTtG1wEOaEgMt5TuTim) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [wanderlust](https://open.spotify.com/album/0Nf2gi4zB4TQ4PZme0xgZo) | 2:09 | 2023-06-01 |  |
 | [Wanderlust](https://open.spotify.com/track/4wi2Sv4k55g0Z3hvRm6v1O) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Niceandfuzzy](https://open.spotify.com/artist/6jxOXRoSIZV8ei7rW4OhGi) | [Wanderlust](https://open.spotify.com/album/02jOLVMtUzuwfTOhTkN2kC) | 3:38 | 2021-02-14 | 2021-07-23 |
 | [Wanderlust](https://open.spotify.com/track/3qgTvFq4UrUxMrLdYlND7S) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Wanderlust](https://open.spotify.com/album/5lzgqLiZEpgw7Iq15XEiv4) | 2:13 | 2021-07-09 | 2021-11-26 |
+| [Wanderlust](https://open.spotify.com/track/5SAyaTZZp1zkIQVeHQwg2D) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb) | [Wanderlust](https://open.spotify.com/album/2ouPcw05sZxzYkgPagWwgP) | 2:08 | 2023-06-29 |  |
 | [Wanderlust](https://open.spotify.com/track/7kPXJrPQdXVvjVqyrtinBH) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo) | [Jazzterfield](https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe) | 1:50 | 2020-09-30 | 2021-05-07 |
 | [Want Do It Better](https://open.spotify.com/track/1OEXbuL1PJwlU2YbnnDLZU) | [Devio](https://open.spotify.com/artist/2E9vueebqnl3l9DYepcofI), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH), [Pzyco Killa](https://open.spotify.com/artist/5dian3mRuQVxEFxn0PFMpv) | [Straight From da Unda](https://open.spotify.com/album/0fENvZotpAl29gTPe49qge) | 3:00 | 2021-06-09 | 2021-10-29 |
 | [Warm](https://open.spotify.com/track/3HOpesm3Wp02f7cTPx3q9r) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Warm](https://open.spotify.com/album/4rnEQu4RyN8Gdnulqjtx8e) | 1:42 | 2019-05-26\* | 2019-06-15 |

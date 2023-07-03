@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV?si=4a5cd741ed254ab8">Gateway Worship Español</a> y <a href="https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW?si=bb3f05ae264b4a11">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,454 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,533 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Gozo](https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw) | 3:23 |
 | 100 | [AGRADECIDO](https://open.spotify.com/track/017aLt4YNhbfzs0Z7Tzcy7) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Jair Latin](https://open.spotify.com/artist/6q3OXnWV4HBGE7LC1bk15n) | [AGRADECIDO](https://open.spotify.com/album/6KPjXrVTeRjEYJfoOi8r27) | 2:55 |
 
-Snapshot ID: `MCw1NjgxZWE5OTg2YjgwMmQzYmY2YWUyNDJmMGRlMDdiOGU3ZDkyMjZj`
+Snapshot ID: `MCwzMzIzOWI1ZTM3N2E1YmRmNzYxNDE2ODVhYTgzOWFjZThlOTdhZWM4`

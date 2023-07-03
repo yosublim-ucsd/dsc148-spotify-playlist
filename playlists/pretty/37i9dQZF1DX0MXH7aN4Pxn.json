@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689003,
+  "num_followers": 689015,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjYyOWRhMjJlZjVjMjNlZmViOGZmMDdjMzEwMjM2ODhlZTlmMDY3",
+  "snapshot_id": "MCwzN2FmODAwOTZjY2IxMjRkMDlhNjU1ODQ5YzNkOTQxZWJkOGI3Yzgw",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 194232,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        }
-      ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 246944,
       "name": "Dance with My Ghost (feat. Elderbrook)",
       "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4ZTsEtIrFPFXGo6eXt06Zk"
       },
@@ -1903,26 +1919,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
       },
@@ -1939,18 +1935,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"
+      "duration_ms": 186493,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
     },
     {
       "added_at": "2022-12-31 15:51:36",

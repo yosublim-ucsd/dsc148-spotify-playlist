@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Piero 47.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,630 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,766 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 |
 | 100 | [EXARTE PA TRA](https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [EXARTE PA TRA](https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7) | 2:12 |
 
-Snapshot ID: `MCw5YmQ0MDFiOWUxODVjY2FlMjBhZjllOTcwZjYxOTdlY2NhN2Q3MmE3`
+Snapshot ID: `MCxjZWIxNzA2YmI0MWU1MWRlYTAzZDUyOWViNmM1NGRlNzJiNDM5ZjA3`

@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 153851,
       "name": "EN VISTO",
       "url": "https://open.spotify.com/track/1fFB8ahI0ZwU3X9mimCpjb"
@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 201642,
       "name": "me jodi...",
       "url": "https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF"
@@ -10786,7 +10786,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/3O4V8llGlOYtmZVoZi8U5v"
@@ -11284,7 +11284,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 197935,
       "name": "PARANORMAL",
       "url": "https://open.spotify.com/track/2m8V3evS07OnhatBWyh0Nt"
@@ -12592,7 +12592,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -16974,6 +16974,32 @@
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
+    },
+    {
+      "album": {
+        "name": "Ya Ni Se",
+        "url": "https://open.spotify.com/album/2D9M8jbjcqjeovyTzDBPt9"
+      },
+      "artists": [
+        {
+          "name": "DJ Ledezz",
+          "url": "https://open.spotify.com/artist/2C4pKlrYpSurcTknihyLhN"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Ya Ni Se",
+      "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"
     },
     {
       "album": {

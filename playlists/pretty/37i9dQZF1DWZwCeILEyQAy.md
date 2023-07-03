@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: City Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,902 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,938 likes - 55 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 3 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
 | 4 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
 | 5 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
-| 6 | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
+| 6 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 7 | [Box the 40](https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Box the 40](https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb) | 1:51 |
 | 8 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
 | 9 | [Princess Diana \(with Nicki Minaj\) \[Extendo Clip\]](https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\) \[Versions\]](https://open.spotify.com/album/00eK46cfChKfGZcYZcaWSa) | 3:18 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 16 | [Problem](https://open.spotify.com/track/7LFN9ERrNzpsVg5BYcJCqt) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Problem](https://open.spotify.com/album/3OTsLgRdYM4OMNa8U4TaIq) | 2:24 |
 | 17 | [10!](https://open.spotify.com/track/2JGkw6gknuCYH0RZ2FYzzr) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [10!](https://open.spotify.com/album/0WiRWTGXavt4yZfb8HZxyG) | 2:19 |
 | 18 | [HOOD RAT SHIT](https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Chenzehn](https://open.spotify.com/artist/4f6mzHylkFqgtpggUv7qdq) | [HOOD RAT SHIT](https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut) | 2:42 |
-| 19 | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/track/0K6igArm92Tiq9kSdzIoY9) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/album/3yAXqiis6ilpIUgUMn1eRV) | 2:18 |
+| 19 | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/track/0K6igArm92Tiq9kSdzIoY9) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/album/3yAXqiis6ilpIUgUMn1eRV) | 2:18 |
 | 20 | [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 |
 | 21 | [Agatha](https://open.spotify.com/track/4FKzLOsMTwz9A00P9lVyrh) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 3:00 |
 | 22 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 54 | [N.B.L\. \(N\*\*\*as Be Lying\)](https://open.spotify.com/track/7MI8SSzAsYwOMoN7MPOtzZ) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Top 2, Not 2](https://open.spotify.com/album/64kKh4BAgxGLrK77AITYAe) | 1:50 |
 | 55 | [Move](https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Move](https://open.spotify.com/album/5gGGPT54RzsFtdyjtfxQrm) | 1:41 |
 
-Snapshot ID: `MCw5ZjdiYTk3ODQ1N2M0MGE5MDk1MWQ2MjZmMzUxYjI1NzU4ZTdiOTI2`
+Snapshot ID: `MCwwMjkwODM4MDU3NTlhMjUwMDAwOWUzYmZkYTY4NWI3YjQ1YmZhNjdj`

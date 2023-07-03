@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 111134,
+  "num_followers": 111153,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDZiNDgxMTUyOTQyMTkzNzRmZGVlYzRkZWE2MjAxOGI5OWFkNzI2",
+  "snapshot_id": "MCwzYzdlN2QxMDA4MjM3ZGNhNmVkNTRiNjIwNGRkZTk1ZmE3OGEwYzhk",
   "tracks": [
     {
       "added_at": "2023-02-10 12:58:10",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Positions (Deluxe)",
-        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
         }
       ],
-      "duration_ms": 122174,
-      "name": "test drive",
-      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
       },
       "artists": [
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+      "duration_ms": 122174,
+      "name": "test drive",
+      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/5OcN75jhxA156Jg60s88eP"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 262317,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2023-02-10 12:58:10",

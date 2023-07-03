@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 357998,
+  "num_followers": 358134,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjRhOWJmMWQ0Zjc0ZjUxNTVjNDJiMjc0MWI3M2FjNDhhYThhYmJi",
+  "snapshot_id": "MCxjOWU1OTg1NTQ0OWYxOTQ4Y2M4ZjhmZjRhN2UzMTBmYjU1NTE5NTFi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+        "name": "The New Favorites Of George Jones",
+        "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+      "duration_ms": 154800,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The New Favorites Of George Jones",
-        "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 154800,
-      "name": "She Thinks I Still Care",
-      "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -631,8 +631,8 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 147666,
-      "name": "Together Again - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 121600,
-      "name": "Love's Gonna Live Here - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/2cXarui64wT79bLjo13vOU"
+      "duration_ms": 147666,
+      "name": "Together Again - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -907,38 +907,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 143306,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Prison",
         "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 186800,
       "name": "Branded Man - Remastered",
       "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 121600,
+      "name": "Love's Gonna Live Here - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/2cXarui64wT79bLjo13vOU"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Lost Country Hits of the 60s",
-        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
       "artists": [
         {
-          "name": "Wynn Stewart",
-          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 150093,
-      "name": "It's Such A Pretty World Today",
-      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Lost Country Hits of the 60s",
+        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+      },
+      "artists": [
+        {
+          "name": "Wynn Stewart",
+          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "It's Such A Pretty World Today",
+      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 169933,
       "name": "Detroit City",
       "url": "https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
-      },
-      "artists": [
-        {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
         }
       ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
-        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Hawkshaw Hawkins 28 Big Ones",
-        "url": "https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb"
+        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
+        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
       },
       "artists": [
         {
-          "name": "Hawkshaw Hawkins",
-          "url": "https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 163386,
-      "name": "Lonesome 7-7203",
-      "url": "https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk"
+      "duration_ms": 194160,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 140306,
       "name": "Pop a Top",
       "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Hawkshaw Hawkins 28 Big Ones",
+        "url": "https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb"
+      },
+      "artists": [
+        {
+          "name": "Hawkshaw Hawkins",
+          "url": "https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Lonesome 7-7203",
+      "url": "https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk"
     },
     {
       "added_at": "2023-05-19 04:01:00",

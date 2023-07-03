@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
-  "num_followers": 121857,
+  "num_followers": 121934,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2FmM2E5NDg1ZDA1ZjhlZWIyNTAwNmE2M2Q0ZDlmOGM3M2NiNDJk",
+  "snapshot_id": "MCw4MmMwM2VkMzY5ZjQ3MDMzMmZhYTIwN2RkZDAzYzE0MzcxNGZlNzQ0",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -327,42 +327,6 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
-        "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
-      "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -383,6 +347,42 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+        "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 215217,
+      "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+      "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "As Above, So Below (Deluxe)",
-        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Natasha Chansa",
-          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
-        }
-      ],
-      "duration_ms": 187858,
-      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
-      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
         "name": "Ball Till We Fall",
         "url": "https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 200846,
       "name": "My Way",
       "url": "https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "As Above, So Below (Deluxe)",
+        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Natasha Chansa",
+          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+        }
+      ],
+      "duration_ms": 187858,
+      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
+      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
     },
     {
       "added_at": "2023-06-29 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 47055,
+  "num_followers": 47134,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzczZWY2ZDNlY2E5ZWNhNzE5YzZjODdhZDcxNGFhNmM5MjQ3MTNi",
+  "snapshot_id": "MCxiYjRjMWNiNjgxZjU5OGM4MjZlZDk5NDZjM2JmN2VlYWY0Mzg4ZTA0",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "i know you hate me",
-        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 124516,
-      "name": "i know you hate me",
-      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/161dRAdPs6Wf7w1bKkNQaY"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 144567,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2hQSzHwZ8rC1KwCrOzOP7B"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "i know you hate me",
+        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 124516,
+      "name": "i know you hate me",
+      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
       "artists": [
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 120754,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
+      "duration_ms": 149390,
+      "name": "claws",
+      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -323,22 +323,6 @@
       "duration_ms": 101938,
       "name": "astrid",
       "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 149390,
-      "name": "claws",
-      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "10,000 gecs",
         "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 179541,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Cake Pop 2",
         "url": "https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 146946,
       "name": "Black Rum",
       "url": "https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -999,6 +999,38 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Peace & Love",
+        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "I <3 Harajuku",
         "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
@@ -1015,22 +1047,6 @@
       "duration_ms": 146938,
       "name": "I <3 Harajuku",
       "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Peace & Love",
-        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1063,22 +1079,6 @@
       "duration_ms": 101487,
       "name": "go white boy go",
       "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
     },
     {
       "added_at": "2023-04-27 17:13:18",

@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. The Japanese House drops an album. ",
-  "num_followers": 2224010,
+  "num_followers": 2223955,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjFmMjA2MzU2ZWVhNDMzYWQ0OGIxNzU1MzUxZjQzMzI5MzRiZjI4",
+  "snapshot_id": "MCw0YjZlMzQzMDUwZTJkNjFlYTE2MDJlM2E3NmQ0ZGMzZTA5NDJlZGY4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -513,6 +513,38 @@
       "url": "https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0"
     },
     {
+      "added_at": "2023-05-09 17:27:09",
+      "album": {
+        "name": "One Wayne G",
+        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "20191009 I Like Her",
+      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+    },
+    {
       "added_at": "2023-05-19 03:05:34",
       "album": {
         "name": "Random Access Memories (10th Anniversary Edition)",
@@ -535,38 +567,6 @@
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 276317,
-      "name": "Kimosab\u00e8",
-      "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
-    },
-    {
-      "added_at": "2023-05-09 17:27:09",
-      "album": {
-        "name": "One Wayne G",
-        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "20191009 I Like Her",
-      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
     },
     {
       "added_at": "2023-06-26 19:39:55",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Minari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 98560,
+      "name": "Jacob and the Stone",
+      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Remember Me? EP from Mp",
         "url": "https://open.spotify.com/album/2wb8GfeGtwL1sKPzHs0ffA"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Minari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
-      },
-      "artists": [
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 98560,
-      "name": "Jacob and the Stone",
-      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -765,26 +765,6 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2023-06-22 15:43:22",
-      "album": {
-        "name": "Lake Missoula (feat. Mt. Joy)",
-        "url": "https://open.spotify.com/album/6TmjKa40zMkgLDvePjukuZ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        },
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 204819,
-      "name": "Lake Missoula (feat. Mt. Joy)",
-      "url": "https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Odyssey",
@@ -803,6 +783,26 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9"
+    },
+    {
+      "added_at": "2023-06-22 15:43:22",
+      "album": {
+        "name": "Lake Missoula (feat. Mt. Joy)",
+        "url": "https://open.spotify.com/album/6TmjKa40zMkgLDvePjukuZ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 204819,
+      "name": "Lake Missoula (feat. Mt. Joy)",
+      "url": "https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -961,22 +977,6 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
-    },
-    {
       "added_at": "2023-06-22 15:43:22",
       "album": {
         "name": "My Big Day",
@@ -1007,6 +1007,22 @@
       "duration_ms": 224946,
       "name": "Amoeba - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Bending Hectic",
+        "url": "https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 480480,
+      "name": "Bending Hectic",
+      "url": "https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1041,20 +1057,20 @@
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Bending Hectic",
-        "url": "https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk"
+        "name": "Become",
+        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 480480,
-      "name": "Bending Hectic",
-      "url": "https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w"
+      "duration_ms": 306106,
+      "name": "Holiday House",
+      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 235280,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Become",
-        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 306106,
-      "name": "Holiday House",
-      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "BAGELS",
-        "url": "https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 252047,
-      "name": "BAGELS",
-      "url": "https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY"
-    },
-    {
       "added_at": "2023-06-22 15:43:22",
       "album": {
         "name": "Spitting Off the Edge of the World (Lush Version)",
@@ -1193,6 +1177,22 @@
       "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
     },
     {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "BAGELS",
+        "url": "https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 252047,
+      "name": "BAGELS",
+      "url": "https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY"
+    },
+    {
       "added_at": "2023-06-16 16:55:44",
       "album": {
         "name": "heavun",
@@ -1207,6 +1207,22 @@
       "duration_ms": 191632,
       "name": "heavun",
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Heaven Is a Junkyard",
+        "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1241,20 +1257,20 @@
       "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Heaven Is a Junkyard",
-        "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
       "artists": [
         {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 216851,
-      "name": "Rabbit",
-      "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-06-22 15:43:22",
@@ -1273,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
       "added_at": "2023-06-16 16:55:44",
       "album": {
         "name": "\u00c1TTA",
@@ -1303,22 +1303,6 @@
       "duration_ms": 313040,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-06-16 16:55:44",
@@ -1355,6 +1339,22 @@
       "duration_ms": 196755,
       "name": "The Ballad of Betty and Barney Hill",
       "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Walking Backwards",
+        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 319986,
+      "name": "Walking Backwards",
+      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
+      "added_at": "2023-06-22 15:43:22",
+      "album": {
+        "name": "green house",
+        "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "green house",
+      "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
+    },
+    {
       "added_at": "2023-04-21 01:46:20",
       "album": {
         "name": "Space Heavy",
@@ -1487,22 +1503,6 @@
       "duration_ms": 187860,
       "name": "How Far We've Come",
       "url": "https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO"
-    },
-    {
-      "added_at": "2023-06-22 15:43:22",
-      "album": {
-        "name": "green house",
-        "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "green house",
-      "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
     },
     {
       "added_at": "2023-06-22 15:43:22",
@@ -1589,26 +1589,10 @@
       "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
     },
     {
-      "added_at": "2023-05-19 03:05:34",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "All We've Ever Wanted",
-        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
+        "name": "When Everything Was Lost",
+        "url": "https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj"
       },
       "artists": [
         {
@@ -1616,25 +1600,9 @@
           "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 183858,
-      "name": "All We've Ever Wanted",
-      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+      "duration_ms": 240058,
+      "name": "When Everything Was Lost",
+      "url": "https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1655,6 +1623,38 @@
       "duration_ms": 210136,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
+    },
+    {
+      "added_at": "2023-05-19 03:05:34",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2023-06-16 16:54:53",
@@ -1705,20 +1705,20 @@
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+        "name": "hazelton b/w liner",
+        "url": "https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
         }
       ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
+      "duration_ms": 181000,
+      "name": "hazelton",
+      "url": "https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj"
     }
   ],
   "unique_name": "Front Page Indie",

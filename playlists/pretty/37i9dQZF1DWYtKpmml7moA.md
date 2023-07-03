@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,953 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,059 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 50 | [Real Love](https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H) | 4:09 |
 
-Snapshot ID: `MCxmYjc5ODIwNDNkNTFiZjM3MTI4ODc2MzgzZWZiZjEyMzYzNzZiMTU3`
+Snapshot ID: `MCw0Mjk0ZWNkNTQwMDJiNDE5NTQ1MWI5YjNlMDNhZmVlZWFmODhlYTIx`

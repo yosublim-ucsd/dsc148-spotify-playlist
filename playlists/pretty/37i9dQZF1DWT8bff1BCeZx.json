@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2823,
+  "num_followers": 2855,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTkxMTVjM2U2YWNhZDEwNDM0MjIyMTZjNDQ2M2I1MzE5YzcwOGQz",
+  "snapshot_id": "MCxlMmZkZTMwODY3ZmI1M2M5NGM5YTA3OWMxYzFlNWI1ZTM5OGJjZTQ2",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Hallelujah No Go Finish",
         "url": "https://open.spotify.com/album/3tnchDrtOufIOADCEphN3q"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 250110,
       "name": "Hallelujah No Go Finish",
       "url": "https://open.spotify.com/track/3QcdowCpxpL3uhqcyM1Ayq"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -501,20 +501,28 @@
       "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
     },
     {
-      "added_at": "2023-04-14 16:41:04",
+      "added_at": "2023-06-30 17:19:03",
       "album": {
-        "name": "Omo Baba",
-        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
       },
       "artists": [
         {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 195446,
-      "name": "Omo Baba",
-      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -531,6 +539,22 @@
       "duration_ms": 812470,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Omo Baba",
+        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "duration_ms": 195446,
+      "name": "Omo Baba",
+      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -571,22 +595,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "African Praise",
-        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
-      },
-      "artists": [
-        {
-          "name": "Kayode Akojenu",
-          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
-        }
-      ],
-      "duration_ms": 91760,
-      "name": "We Praise You Lord",
-      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "HALLELUJAH LIVE",
         "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
       },
@@ -607,6 +615,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
+        "name": "African Praise",
+        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
+      },
+      "artists": [
+        {
+          "name": "Kayode Akojenu",
+          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
+        }
+      ],
+      "duration_ms": 91760,
+      "name": "We Praise You Lord",
+      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
         "name": "Xperience with Love",
         "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
       },
@@ -619,22 +643,6 @@
       "duration_ms": 586443,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
-      },
-      "artists": [
-        {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
-        }
-      ],
-      "duration_ms": 408115,
-      "name": "Ese Oluwa / Papa",
-      "url": "https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -667,6 +675,22 @@
       "duration_ms": 417533,
       "name": "Tambira Jehova",
       "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 408115,
+      "name": "Ese Oluwa / Papa",
+      "url": "https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -711,22 +735,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
-      },
-      "artists": [
-        {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
-        }
-      ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY"
       },
@@ -755,6 +763,22 @@
       "duration_ms": 628354,
       "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
       "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+      },
+      "artists": [
+        {
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+        }
+      ],
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -797,28 +821,20 @@
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
     },
     {
-      "added_at": "2023-06-30 17:19:03",
+      "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+      "duration_ms": 139385,
+      "name": "Jehovah Praise",
+      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -871,22 +887,6 @@
       "duration_ms": 1378612,
       "name": "Praise Medley",
       "url": "https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 139385,
-      "name": "Jehovah Praise",
-      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
     },
     {
       "added_at": "2023-06-30 17:19:03",

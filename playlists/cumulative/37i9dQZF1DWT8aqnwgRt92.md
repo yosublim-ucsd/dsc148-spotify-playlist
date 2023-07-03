@@ -4,12 +4,12 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-719 songs - 1 day 21 hr 38 min
+720 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...and Rescue Me](https://open.spotify.com/track/3v3D4RG9khRQjuJlyWSQOb) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [...and Rescue Me](https://open.spotify.com/album/76iuNXNI3u4JNyPcW8AsPH) | 4:07 | 2023-06-27 |  |
-| [1 LOVE 1](https://open.spotify.com/track/1dcro7tCEqeC1sMEo8Ye0o) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [1 LOVE 1](https://open.spotify.com/album/627Fr454HJb1M3IcjeZHYm) | 3:47 | 2023-05-30 |  |
+| [1 LOVE 1](https://open.spotify.com/track/1dcro7tCEqeC1sMEo8Ye0o) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [1 LOVE 1](https://open.spotify.com/album/627Fr454HJb1M3IcjeZHYm) | 3:47 | 2023-05-30 | 2023-07-03 |
 | [1,000,000,000,000,000,000,000,000 LOVE](https://open.spotify.com/track/7r7AFeFqZHVxa85ffesTAY) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ユーレイ探偵団](https://open.spotify.com/artist/64bplJQVI6XnlmX7wK2aQ1) | [1,000,000,000,000,000,000,000,000 LOVE](https://open.spotify.com/album/2RPTDrLncqitqAaLegaEGw) | 3:08 | 2022-07-05 | 2022-07-29 |
 | [1/2 \- From CrosSing](https://open.spotify.com/track/55hGpzoNjvOiwnvrSnOkSA) | [nakajima megumi](https://open.spotify.com/artist/2aM6C9kVle6RU6iV2Eb91N) | [1/2 \- From CrosSing](https://open.spotify.com/album/5j5nln0FTomoMiYzTeKKND) | 5:09 | 2022-12-06 | 2022-12-21 |
 | [1/2 \- from CrosSing](https://open.spotify.com/track/4oW0Ujo4RqoAW962Z93bEV) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [1/2 \- from CrosSing](https://open.spotify.com/album/4ujjgXODtPokt16sMMtnsH) | 5:09 | 2022-12-06 | 2022-12-08 |
@@ -621,6 +621,7 @@
 | [天灯](https://open.spotify.com/track/0bfsRP5VUaseeZypS4uZ1j) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇」オープニングテーマ「天灯」](https://open.spotify.com/album/3r04pAxWWkkH8lhG4pX7PF) | 3:40 | 2022-08-23 | 2022-08-25 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 | 2022-10-05 |
 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 |  |
+| [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 | 2023-07-02 |  |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 | 2023-04-12 |
 | [寄花\-Yosuga\-](https://open.spotify.com/track/4AK1qzjvhxUtUujZoZ22Z1) | [\#kzn](https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq), [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [寄花\-Yosuga\-](https://open.spotify.com/album/6RT1XoXFGcW33smcuJY0yk) | 3:30 | 2023-04-25 | 2023-06-14 |
 | [射法八節のテーマ](https://open.spotify.com/track/2RH22gpiutuuYptyKdvyCv) | [マサさん](https://open.spotify.com/artist/0K9hJwvrDJtDcKNmVZzxl8), [風舞高校弓道部](https://open.spotify.com/artist/51GLREkifjMHwZb8HGLnTZ) | [TVアニメ『ツルネ \-つながりの一射\-』オリジナルサウンドトラック Chapter2 キャラクターユニットソングシングル](https://open.spotify.com/album/5aVMl4ig8VlrtMPfJr5anm) | 4:19 | 2023-04-06 | 2023-04-09 |

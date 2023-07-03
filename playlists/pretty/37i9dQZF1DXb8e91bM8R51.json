@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 40843,
+  "num_followers": 40868,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWExNzFmNmQwYjUwYmEyYzNiYTYyMmUyNGYxOTZjYjE4MDE1YTRl",
+  "snapshot_id": "MCw5ODBkNDE0ZThhZGE2MjRmZGViZTUzMTU3MjUwODg3ZTcxOWQ5YTY1",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "My Friends (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 158167,
       "name": "My Friends (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Nothing Changed",
-        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Nothing Changed",
-      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Johnny P's Caddy",
         "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 160506,
       "name": "FUXK (feat. Ski Mask the Slump God)",
       "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "I GOT ISSUES",
-        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 253913,
-      "name": "Sober (feat. Roddy Ricch & Post Malone)",
-      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -1499,26 +1475,26 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Carefree (with Femdot & Mick Jenkins)",
-        "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
+        "name": "I GOT ISSUES",
+        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
       "artists": [
         {
-          "name": "KingTrey",
-          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         },
         {
-          "name": "femdot.",
-          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 241582,
-      "name": "Carefree (with Femdot & Mick Jenkins)",
-      "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+      "duration_ms": 253913,
+      "name": "Sober (feat. Roddy Ricch & Post Malone)",
+      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1543,18 +1519,26 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+        "name": "Carefree (with Femdot & Mick Jenkins)",
+        "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
+      "duration_ms": 241582,
+      "name": "Carefree (with Femdot & Mick Jenkins)",
+      "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 226006,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Miss My Dawgs",
-        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 163205,
-      "name": "Miss My Dawgs (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
     },
     {
       "added_at": "2023-04-21 03:01:00",

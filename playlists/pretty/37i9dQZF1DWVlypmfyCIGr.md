@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,117 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,136 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [銀座ラグーン](https://open.spotify.com/track/5zQSDxXNTbBz4oNEcGLYSU) | [オトクロ](https://open.spotify.com/artist/7GzeGAU4lndOKD9wyPkgPE) | [銀座ラグーン](https://open.spotify.com/album/4IbyzPkZcgKCt9j88LJemk) | 2:53 |
 | 80 | [いまここ](https://open.spotify.com/track/06NsjfSGnA7jfhrWRjq7wE) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [いま](https://open.spotify.com/album/3y1iNXWyjKx62G6EKq3Hr3) | 11:23 |
 
-Snapshot ID: `MCxlZDNmMWY4NDFhODFlNDg4MDIzOTRiNTNmNDRjZWE4YzkyYTUwY2Uw`
+Snapshot ID: `MCw1MzgxMGFiZTFkY2FmOTEzMTI0MDEzMTQ3NmZkMWZiNDUxMGZmNGEz`

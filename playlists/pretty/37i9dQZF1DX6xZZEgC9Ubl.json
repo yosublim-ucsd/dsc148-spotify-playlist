@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1486249,
+  "num_followers": 1486426,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmMxMThjNmFmM2ExYjVlZDA1Y2EwODhiZThlNTIwN2RhYzNiMzVk",
+  "snapshot_id": "MCwyNjFhMWE0MTFjY2JmZTllMDg1NTE0Yjg2YWVkNzlhZGQ2MDIyMjJj",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
     },
     {
+      "added_at": "2023-05-24 21:11:21",
+      "album": {
+        "name": "under the weather",
+        "url": "https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "under the weather",
+      "url": "https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9"
+    },
+    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "Memory",
@@ -663,22 +679,6 @@
       "duration_ms": 134608,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva"
-    },
-    {
-      "added_at": "2023-05-24 21:11:21",
-      "album": {
-        "name": "under the weather",
-        "url": "https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "under the weather",
-      "url": "https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "God Mom",
         "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 123200,
       "name": "North Star",
       "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Hiding in the Dark",
-        "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 184141,
-      "name": "Hiding in the Dark",
-      "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "You Broke My Heart Again",
         "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 103400,
       "name": "You Broke My Heart Again",
       "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Hiding in the Dark",
+        "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 184141,
+      "name": "Hiding in the Dark",
+      "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Never With You Again",
-        "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Never With You Again",
-      "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Never With You Again",
+        "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Never With You Again",
+      "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1049,38 +1049,6 @@
       "url": "https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Grey Lines",
-        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Grey Lines",
-      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
-    },
-    {
-      "added_at": "2023-06-30 07:33:00",
-      "album": {
-        "name": "Why Do I Hear Breathing?",
-        "url": "https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Thing for Ya",
-      "url": "https://open.spotify.com/track/53vqxI2N89pMUUmJMhxqrS"
-    },
-    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "MIXED EMOTIONS",
@@ -1095,6 +1063,22 @@
       "duration_ms": 136750,
       "name": "MORBID MIND",
       "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Grey Lines",
+        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Grey Lines",
+      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1131,6 +1115,22 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
+    },
+    {
+      "added_at": "2023-06-30 07:33:00",
+      "album": {
+        "name": "Why Do I Hear Breathing?",
+        "url": "https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Thing for Ya",
+      "url": "https://open.spotify.com/track/53vqxI2N89pMUUmJMhxqrS"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Belly of the Beast",
         "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 140487,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1421,6 +1421,26 @@
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
     },
     {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "TheWitch&TheWizard",
+        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "GREAF",
+          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+        }
+      ],
+      "duration_ms": 108460,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "wallflower (feat. Ouse & Sn\u00f8w)",
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "TheWitch&TheWizard",
-        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "GREAF",
-          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
-        }
-      ],
-      "duration_ms": 108460,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "UDNTLUVME",
         "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
       },
@@ -1483,8 +1483,8 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+        "name": "PRIMADONA",
+        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
       },
       "artists": [
         {
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 163755,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
+      "duration_ms": 114200,
+      "name": "PRIMADONA",
+      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1511,6 +1511,22 @@
       "duration_ms": 161333,
       "name": "i can't stop",
       "url": "https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Too High To the Clouds",
+        "url": "https://open.spotify.com/album/5KAQILGo8VxtosukwEIoKs"
+      },
+      "artists": [
+        {
+          "name": "Chini",
+          "url": "https://open.spotify.com/artist/3ls1Lwf5mCUgGljvESjcke"
+        }
+      ],
+      "duration_ms": 167487,
+      "name": "Too High To the Clouds",
+      "url": "https://open.spotify.com/track/5ntEGsiJZY4SaBHbJPJEwj"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Too High To the Clouds",
-        "url": "https://open.spotify.com/album/5KAQILGo8VxtosukwEIoKs"
-      },
-      "artists": [
-        {
-          "name": "Chini",
-          "url": "https://open.spotify.com/artist/3ls1Lwf5mCUgGljvESjcke"
-        }
-      ],
-      "duration_ms": 167487,
-      "name": "Too High To the Clouds",
-      "url": "https://open.spotify.com/track/5ntEGsiJZY4SaBHbJPJEwj"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "age tape 7",
         "url": "https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q"
       },
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "PRIMADONA",
-        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 114200,
-      "name": "PRIMADONA",
-      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+      "duration_ms": 163755,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "Key To My Heart",
+        "url": "https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl"
+      },
+      "artists": [
+        {
+          "name": "Fresco Trey",
+          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "Key To My Heart",
+      "url": "https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Felt Like Heaven",
         "url": "https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 146526,
       "name": "Felt Like Heaven",
       "url": "https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Key To My Heart",
-        "url": "https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl"
-      },
-      "artists": [
-        {
-          "name": "Fresco Trey",
-          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
-        }
-      ],
-      "duration_ms": 154482,
-      "name": "Key To My Heart",
-      "url": "https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz"
     },
     {
       "added_at": "2023-04-12 16:57:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nabi in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,183 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,220 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 48 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 |
 | 49 | [SCEICCO](https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SCEICCO](https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4) | 2:34 |
 
-Snapshot ID: `MCw2YzI3YjMzZWUzNTFiYWQ0YThiMjBjZDNmZDNiNjIzMDFlYzJhZGVh`
+Snapshot ID: `MCw0OTk4ZTkwYTM5N2NiZjI0MDJmOTZmZWJlZmVhYzFkZjBkODFiMjM4`

@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 36 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 |
 | 37 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDBmNmZlYmU5NTY0ZWQ1NWI0NDg2ZGM3YjRkMzgwNWI3ZQ==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDAzZjJiY2IxMDc2ZTU4ZWE2MTdjNzU0OTA4NjY0MzA0Yg==`

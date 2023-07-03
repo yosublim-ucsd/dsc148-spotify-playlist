@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Soph T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,583 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,594 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [Listen to Me](https://open.spotify.com/track/4ctBtGioje65qUZbWPd4EK) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Listen to Me](https://open.spotify.com/album/1t3hYYECO3j2I69DNzC7WM) | 3:46 |
 | 67 | [Vengeance // 直衝地獄](https://open.spotify.com/track/2doqzJTVdH9nNuesRwNXKY) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/0ZJJtdrebVOdx8yKeAZogM) | [Vengeance // 直衝地獄](https://open.spotify.com/album/5GUJQEU9GZ7Hv6B9XbCEF1) | 4:08 |
 
-Snapshot ID: `MCwwNmU3NTgwOTkzODA4MTJmNmM2NzYzYmFiNmIyNmUzMWI1MTlhZDUz`
+Snapshot ID: `MCw2ZTVhM2JmMmUwZjc3YzZjZGE4NTdiNDllNWM4ZjM3YTNiYjcxMWRk`

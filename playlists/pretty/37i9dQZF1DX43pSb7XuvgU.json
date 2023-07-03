@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 110000,
+  "num_followers": 110097,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjU2YTRhMjYxOGU3ODFiY2NiYjc3OWU2MjdlMzM1N2UwYjc3ODRk",
+  "snapshot_id": "MCwxNmNlMWExMzZlMWFlZWYyNzkyZTgwMGI5MTRkODdkY2ZmYjY3ZjVh",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -367,8 +367,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -455,8 +455,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Si Me Dejas Ahora",
-        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Mientras Llueve",
-      "url": "https://open.spotify.com/track/5bV4nYoPmhTkUShCMs8H8a"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "40 Y 20",
         "url": "https://open.spotify.com/album/5ucTTZBnOzd3CDwQ8DwCil"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 259933,
       "name": "Eso Nom\u00e1s",
       "url": "https://open.spotify.com/track/7Dnw1mvrTfVKzefq8lkFNp"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Si Me Dejas Ahora",
+        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Mientras Llueve",
+      "url": "https://open.spotify.com/track/5bV4nYoPmhTkUShCMs8H8a"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 A\u00f1os Baladas \u00c9xitos",
-        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/12Z6WbrPi4RM6lF5ssEvVU"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jose Jose 25 A\u00f1os Vol. 2",
         "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 224600,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/7xNvkborz5fC8SaTe3ecQl"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 A\u00f1os Baladas \u00c9xitos",
+        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/12Z6WbrPi4RM6lF5ssEvVU"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 243093,
       "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
       "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 312066,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
-        "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 241026,
       "name": "40 y 20 (with Mar\u00eda Jos\u00e9)",
       "url": "https://open.spotify.com/track/7IuRARlFBMeonrCgQ7lKym"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
+        "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
         "url": "https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 164213,
       "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
       "url": "https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 A\u00f1os Baladas \u00c9xitos",
-        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 282133,
       "name": "Yo No S\u00e9 Que Me Pas\u00f3",
       "url": "https://open.spotify.com/track/0ZRZzgY6myZ67vLoUcZbsC"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 A\u00f1os Baladas \u00c9xitos",
+        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C"
     },
     {
       "added_at": "2021-12-29 23:33:57",

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 32999,
+  "num_followers": 33110,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5",
+  "snapshot_id": "MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
+        "name": "After Midnight: Kean College, 2/28/80",
+        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
       },
       "artists": [
         {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Greatest Story Ever Told",
-      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
+      "duration_ms": 200186,
+      "name": "Eleanor Rigby - Live",
+      "url": "https://open.spotify.com/track/24HAdFPR0bkgoyGrRWToF4"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "After Midnight: Kean College, 2/28/80",
-        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
       },
       "artists": [
         {
-          "name": "Jerry Garcia Band",
-          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
         }
       ],
-      "duration_ms": 200186,
-      "name": "Eleanor Rigby - Live",
-      "url": "https://open.spotify.com/track/24HAdFPR0bkgoyGrRWToF4"
+      "duration_ms": 223066,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "She Said, She Said",
-      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 413929,
       "name": "Fire On The Mountain - Live",
       "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/7aFV6FNmyF8yf9yTGy0O7d"
-      },
-      "artists": [
-        {
-          "name": "Traffic",
-          "url": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
-        }
-      ],
-      "duration_ms": 1260333,
-      "name": "Glad / Freedom Rider",
-      "url": "https://open.spotify.com/track/226QWazP5WOjAHqRta57HW"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live at House of Blues Boston (12/31/2018)",
         "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 430066,
       "name": "Lost in the Cold (Live)",
       "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/7aFV6FNmyF8yf9yTGy0O7d"
+      },
+      "artists": [
+        {
+          "name": "Traffic",
+          "url": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+        }
+      ],
+      "duration_ms": 1260333,
+      "name": "Glad / Freedom Rider",
+      "url": "https://open.spotify.com/track/226QWazP5WOjAHqRta57HW"
     },
     {
       "added_at": "2023-04-06 15:04:32",

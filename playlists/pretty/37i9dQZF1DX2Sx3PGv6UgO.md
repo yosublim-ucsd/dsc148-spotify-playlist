@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/chiney/">Chiney Ogwumike</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 | 20 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 |
 | 21 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
 | 22 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
-| 23 | [Only You \(feat\. The Notorious B.I.G\. & Mase\) \- Bad Boy Remix](https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
+| 23 | [Only You \(feat\. The Notorious B.I.G., Ma$e\) \- Bad Boy Remix](https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ma$e](https://open.spotify.com/artist/34t9RzI5oDMZJVmcoUZnJE) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
 | 24 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 |
 | 25 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
 | 26 | [Askamaya](https://open.spotify.com/track/2w3DLrgR7d1BO1REYUuMEM) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Askamaya](https://open.spotify.com/album/3vrggFAtpEoG1WxYRBmf7t) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 | 49 | [Beautiful](https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Uncle Charlie Wilson](https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B) | [The Best Of Snoop Dogg](https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8) | 4:59 |
 | 50 | [Acers Heights](https://open.spotify.com/track/7N2N81qsnHqk97n7XYKXWk) | [DonPerro](https://open.spotify.com/artist/746NiiXHGjRZbLjKxm4Q7W) | [Acers Heights](https://open.spotify.com/album/7uqa7ovzhMfbw0aKNWiY0d) | 3:44 |
 
-Snapshot ID: `MCxlMTIxNzYxMTU4ZGY0MWM3NTJjMmI4ZGZhMTY0MmVkZjM2YWE1NDZm`
+Snapshot ID: `MCwwOTdlNzc5MjdkNWEzNjA5ZTRkNTMyODJmZTkzOGNhMjZkYmYyNjdj`

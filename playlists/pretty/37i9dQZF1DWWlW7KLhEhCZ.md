@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,200 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,216 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Não Posso Parar](https://open.spotify.com/track/0obtACkhdIBCOuIVT87mwZ) | [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn), [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Jeall](https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt), [Vict44](https://open.spotify.com/artist/6yfGQa1eKsWCAgKwHLEzKy) | [Não Posso Parar](https://open.spotify.com/album/2wHwlCUJ3AOtfxMBqWr0PM) | 2:37 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxhNzJjNjQyOGViMTk3NzU3YzQ0NGJmZGQ0MDVlMjNlZGIwNjJjZjBi`
+Snapshot ID: `MCw5YzA3MmU2OTA4MzRiMWIwNmUzYzkzYmIyZWFlODQxOWFjM2I0Zjkw`

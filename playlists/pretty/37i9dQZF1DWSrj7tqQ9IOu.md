@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: L'Impératrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,226 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,374 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 |
 | 50 | [The Sun is Up](https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Sun is Up](https://open.spotify.com/album/4Sb4TbNIv5awQHlzK3RJg7) | 3:55 |
 
-Snapshot ID: `MCwwMjc0YTRlZTNmZTY3ODhiZjA1Y2I0NjEwNTNhY2RhY2Q0N2NiNDJk`
+Snapshot ID: `MCxkN2Q0NGJjOTM5ZjMzMjE5YjcyYWIwOTdkMTc2YzY2MDczZmVmMWQ4`

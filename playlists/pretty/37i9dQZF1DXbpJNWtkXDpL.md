@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,599 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,605 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 34 | [Los Infieles](https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Los Infieles](https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI) | 3:03 |
 | 35 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
 | 36 | [Estos Días](https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Estos Días](https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh) | 3:24 |
-| 37 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
-| 38 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
-| 39 | [COMO YO NO HAY DOS](https://open.spotify.com/track/1ZmrG1ghcwKEBBdXIPUQuP) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [COMO YO NO HAY DOS](https://open.spotify.com/album/10hGBacgDz8cseX4Yz8Mqw) | 4:38 |
+| 37 | [COMO YO NO HAY DOS](https://open.spotify.com/track/1ZmrG1ghcwKEBBdXIPUQuP) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [COMO YO NO HAY DOS](https://open.spotify.com/album/10hGBacgDz8cseX4Yz8Mqw) | 4:38 |
+| 38 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
+| 39 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
 | 40 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 |
-| 41 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
-| 42 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
+| 41 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 |
+| 42 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
 | 43 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
-| 44 | [Cambio De Canción](https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:49 |
-| 45 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
-| 46 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
+| 44 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
+| 45 | [Cambio De Canción](https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:49 |
+| 46 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
 | 47 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
-| 48 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
-| 49 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 |
+| 48 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
+| 49 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
 | 50 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
 
-Snapshot ID: `MCxiOTY3MDZhNmQyMDRmZTgyNmMyMjFmYTliMjU0YmUyMDcxYWQzMDA4`
+Snapshot ID: `MCw4Y2U0ODM5NjVlMjE0NWZkYTViYjM0ZDY3MWNiY2YyNmU1YjQ0Mzc2`

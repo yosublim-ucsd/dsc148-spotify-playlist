@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Sarah Kinsley",
-  "num_followers": 1702020,
+  "num_followers": 1702013,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWM0Yjg5YjU3YTNkMjdiYmFkNDMzNjZiOTVlOWI0N2Y4NWMzNDZi",
+  "snapshot_id": "MCw3NTgxZTAwODBiMWExNzIyN2ZkOTQ5MWNlYTdmOGI3ZjM2NzhmYmQ3",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Think I'm In Love",
-        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
       },
       "artists": [
         {
-          "name": "Richard Fairlie",
-          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1011,18 +1011,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
       "artists": [
         {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+          "name": "Richard Fairlie",
+          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
         }
       ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+      "duration_ms": 133000,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1161,22 +1181,6 @@
       "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 186643,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
-    },
-    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "Alabama",
@@ -1195,6 +1199,22 @@
       "duration_ms": 214605,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 186643,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1261,6 +1281,22 @@
       "url": "https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Living End",
+        "url": "https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B"
+      },
+      "artists": [
+        {
+          "name": "Sarah and the Sundays",
+          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "I'm So Bored",
+      "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "dirty dishes",
@@ -1277,20 +1313,20 @@
       "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Living End",
-        "url": "https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B"
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv"
       },
       "artists": [
         {
-          "name": "Sarah and the Sundays",
-          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
         }
       ],
-      "duration_ms": 208013,
-      "name": "I'm So Bored",
-      "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
+      "duration_ms": 222186,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
     },
     {
       "added_at": "2023-04-28 05:05:19",
@@ -1323,42 +1359,6 @@
       "duration_ms": 266911,
       "name": "Yippie Ki Yay",
       "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
-    },
-    {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Orpheus",
@@ -1439,6 +1423,22 @@
       "duration_ms": 217816,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1505,6 +1505,26 @@
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
+      "added_at": "2023-04-28 05:05:19",
+      "album": {
+        "name": "moving on / sugarhoneyiceicetea",
+        "url": "https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "moving on (feat. Khary)",
+      "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "The Problem Song",
@@ -1537,24 +1557,20 @@
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
     },
     {
-      "added_at": "2023-04-28 05:05:19",
+      "added_at": "2023-06-30 04:21:00",
       "album": {
-        "name": "moving on / sugarhoneyiceicetea",
-        "url": "https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n"
+        "name": "19",
+        "url": "https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG"
       },
       "artists": [
         {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        },
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 179080,
-      "name": "moving on (feat. Khary)",
-      "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+      "duration_ms": 136800,
+      "name": "19",
+      "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1589,20 +1605,20 @@
       "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "you don't like me like that",
-        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
+        "name": "Think it Over",
+        "url": "https://open.spotify.com/album/7dKKuaRUj7eoq6537pCUvZ"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "New Constellations",
+          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
         }
       ],
-      "duration_ms": 155706,
-      "name": "you don't like me like that",
-      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
+      "duration_ms": 188437,
+      "name": "Think it Over",
+      "url": "https://open.spotify.com/track/5vGUEnUZ0At77Rvwc17ovx"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1625,36 +1641,20 @@
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Think it Over",
-        "url": "https://open.spotify.com/album/7dKKuaRUj7eoq6537pCUvZ"
+        "name": "you don't like me like that",
+        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
       },
       "artists": [
         {
-          "name": "New Constellations",
-          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Think it Over",
-      "url": "https://open.spotify.com/track/5vGUEnUZ0At77Rvwc17ovx"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "The Neighborhood",
-      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
+      "duration_ms": 155706,
+      "name": "you don't like me like that",
+      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
     }
   ],
   "unique_name": "Indie Pop",

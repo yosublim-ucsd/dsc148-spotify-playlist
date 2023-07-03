@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Assala Nasri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,396 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,547 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 56 | [La Ouyounik El Helwin](https://open.spotify.com/track/54PiwwEBUU3HANCnSFgDLM) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounik El Helwin](https://open.spotify.com/album/0HUfzmbrXGPAOOKxn2RbD2) | 3:42 |
 | 57 | [Badi Yaha](https://open.spotify.com/track/3dpmAlNb8lCUkb6DdP5PIS) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Badi Yaha](https://open.spotify.com/album/4JufpYrvGOMvDk93nDUuHk) | 5:30 |
 | 58 | [Keef Bensa](https://open.spotify.com/track/0uwOOnge02dhkX4kPl7Kkk) | [Nour Helou](https://open.spotify.com/artist/2XBpyKrz8Ys34tU7baEoxO) | [Keef Bensa](https://open.spotify.com/album/3hFV4MTmLw5Np8xwGLgqx4) | 2:58 |
-| 59 | [3A Faw2a](https://open.spotify.com/track/0ytxL01ma8qk2YY1KINSnp) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/2okWWnFbcpdFYNBCxHhP4N) | 3:23 |
-| 60 | [و انا معاك](https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [و انا معاك](https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY) | 3:01 |
+| 59 | [و انا معاك](https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [و انا معاك](https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY) | 3:01 |
+| 60 | [3A Faw2a](https://open.spotify.com/track/0ytxL01ma8qk2YY1KINSnp) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/2okWWnFbcpdFYNBCxHhP4N) | 3:23 |
 
-Snapshot ID: `MCxjOGY5OGZjYjUwYTZkMDAwZWRjYjYyNWJiYzM3YzI5ZjYwODdjMmRh`
+Snapshot ID: `MCw5ZmUzNTE3MTZhNDU1ZDZiNGU0MDkwM2E2ZjhjODk3MDk0ODBiNmIx`

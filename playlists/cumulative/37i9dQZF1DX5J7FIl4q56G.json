@@ -16650,10 +16650,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 270579,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS"
+    },
+    {
+      "album": {
+        "name": "Stormbringers",
+        "url": "https://open.spotify.com/album/575zNW5KWAnK5UBI0RH0lQ"
+      },
+      "artists": [
+        {
+          "name": "Before The Dawn",
+          "url": "https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270579,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/5QiwTyq3Ib6qWyuT63cW7e"
     },
     {
       "album": {

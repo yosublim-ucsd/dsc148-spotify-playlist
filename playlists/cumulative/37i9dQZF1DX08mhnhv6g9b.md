@@ -4,7 +4,7 @@
 
 > What are your <a href="https://spotify.com/top5">Top 5: BTS Songs</a>? Share your favorite member and tracks with the universe\. \(spotify.com/top5\)
 
-470 songs - 1 day 4 hr 5 min
+472 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [BTS Cypher Pt.3: Killer](https://open.spotify.com/track/5OlieB5VdsOMuBuCtllXGW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Supreme Boi](https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:27 | 2022-05-27 |  |
 | [BTS Greeting](https://open.spotify.com/track/7d1wqOnoxfHIFcjhMN2sIN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:15 | 2022-10-21 | 2022-11-08 |
 | [Burn It](https://open.spotify.com/track/0x25VdiFOIBl1epNer9L3w) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) | 3:12 | 2022-06-10 | 2022-06-18 |
-| [Burn It \(feat\. MAX\)](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:12 | 2022-06-23 |  |
+| [Burn It \(feat\. MAX\)](https://open.spotify.com/track/2hX8rtWyNxYyaBT64H3LYU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:12 | 2023-06-15 |  |
+| [Burn It \(feat\. MAX\)](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:12 | 2022-06-23 | 2023-07-03 |
 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 | 2022-05-27 |  |
 | [Burning Up \(Fire\)](https://open.spotify.com/track/4z9gBZQjGS4QLb4LOvmeuA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:23 | 2022-06-10 | 2022-06-18 |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2022-06-03 | 2022-11-08 |
@@ -114,7 +115,8 @@
 | [Could You Turn off Your Cell Phone](https://open.spotify.com/track/022wInIMcMtWRqkcpy7WwO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 3:54 | 2022-05-27 |  |
 | [Crystal Snow](https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 5:23 | 2022-06-23 |  |
 | [Daechwita](https://open.spotify.com/track/0H4ugk6rhnXmTl47ayy9O5) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) | 3:45 | 2022-06-10 | 2022-06-18 |
-| [Daechwita](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:45 | 2022-06-23 |  |
+| [Daechwita](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:45 | 2023-06-15 |  |
+| [Daechwita](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:45 | 2022-06-23 | 2023-07-03 |
 | [Danger](https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:05 | 2022-05-27 |  |
 | [Danger](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) | 4:05 | 2022-06-10 | 2022-06-18 |
 | [Daydream \(백일몽\)](https://open.spotify.com/track/4YAgH8s0JFfwikTNwe0aIk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/1bJ8O4jIyqSdunqT9RWXc9) | 3:48 | 2022-06-10 | 2022-06-18 |

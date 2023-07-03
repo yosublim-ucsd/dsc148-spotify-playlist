@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: CHEEZE\(치즈\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-462 songs - 1 day 3 hr 28 min
+463 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Hotels on the moon](https://open.spotify.com/track/39coYcIduCaqxFzq3LDYt3) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [citygodok](https://open.spotify.com/artist/61oCeImNWjf4x7hWo5NWEr) | [STORY\#20](https://open.spotify.com/album/5uelqrTP8JFBoweWwPY4tv) | 2:35 | 2022-06-18 | 2022-07-05 |
 | [how do i](https://open.spotify.com/track/0RNXXh47lufWmSro2CbsQh) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [bandages](https://open.spotify.com/album/1UZLvFGY6S1xSZJ8wnhnZW) | 3:34 | 2021-12-10 | 2022-07-28 |
 | [How Is Your Night](https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC) | 4:23 | 2021-12-10 | 2022-07-29 |
-| [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 | 2022-07-08 |  |
+| [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 | 2022-07-08 | 2023-07-03 |
 | [Hug me](https://open.spotify.com/track/089QvCGproM6tZgdaszIBO) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Tempted OST Part.1](https://open.spotify.com/album/3MxpfwmQ1V40w1EGUetqWo) | 3:39 | 2022-03-31 | 2022-04-11 |
 | [I can feel you](https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH) | [Taepung's Bride \(Original Soundtrack\), Pt.16](https://open.spotify.com/album/22JRozoTvxuojR9NsEkfmj) | 3:51 | 2023-01-11 | 2023-01-26 |
 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-12 | 2022-08-19 |
@@ -449,6 +449,7 @@
 | [겨울이 온 것처럼 말이지 \- From 'Hidden Track No.V' Vol.4](https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [겨울이 온 것처럼 말이지 \(From 'Hidden Track No.V' Vol.4\)](https://open.spotify.com/album/2ORxTBs669Atoz1MJinBLy) | 2:53 | 2022-03-31 | 2022-04-19 |
 | [계절은 핑계 Season is an excuse](https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [계절은 핑계 Season is an excuse](https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur) | 3:11 | 2023-01-11 | 2023-01-26 |
 | [그날에 우리 My Love](https://open.spotify.com/track/37ato9JpxggrmZsqaXa3qN) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:53 | 2022-02-18 | 2022-06-19 |
+| [그렇게 넌 나의 비밀이 되었고](https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars OST Part.3](https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X) | 4:11 | 2023-07-01 |  |
 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 | 2022-03-07 | 2022-06-28 |
 | [너로 짙은 밤 Mistiness of You](https://open.spotify.com/track/6RBjYC4YAXWgFmt5V94LHc) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hanall](https://open.spotify.com/artist/2XTRUxBBVztcLWgidIVX5y) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:50 | 2022-03-31 | 2022-04-21 |
 | [널 위한 커피](https://open.spotify.com/track/6vv5JfKdvr5BgTosnwHD0w) | [Oh So Yeon](https://open.spotify.com/artist/0myzJ6Vyf7To1kWoJTseat) | [널 위한 커피](https://open.spotify.com/album/44i5fGtZkVfuCnQhHM5p52) | 3:29 | 2022-03-31 | 2022-04-16 |

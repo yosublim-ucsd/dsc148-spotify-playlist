@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,007 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,264 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 36 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 |
 | 37 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 38 | [Close Your Eyes](https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/1vdhcibrbib1EV1iLZxInF) | 5:01 |
-| 39 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 |
-| 40 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 |
-| 41 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
-| 42 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
+| 39 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
+| 40 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 |
+| 41 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 |
+| 42 | [All That She Wants \- Helion Remix](https://open.spotify.com/track/747OPJC1PujokY0T3rAajk) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [All That She Wants \(Helion Remix\)](https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW) | 2:47 |
 | 43 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
-| 44 | [All That She Wants \- Helion Remix](https://open.spotify.com/track/747OPJC1PujokY0T3rAajk) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [All That She Wants \(Helion Remix\)](https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW) | 2:47 |
+| 44 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 45 | [Good Energy](https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Good Energy](https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x) | 5:22 |
 | 46 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 | 47 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 |
 | 48 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
-| 49 | [Wild](https://open.spotify.com/track/5Z1OpvU8xkJl3Sc2et5No6) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Wild](https://open.spotify.com/album/0T3Thh9OTgxYSx4gOe1Apn) | 5:30 |
-| 50 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
+| 49 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
+| 50 | [Wild](https://open.spotify.com/track/5Z1OpvU8xkJl3Sc2et5No6) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Wild](https://open.spotify.com/album/0T3Thh9OTgxYSx4gOe1Apn) | 5:30 |
 
-Snapshot ID: `MCxkYTViZjBiMjcxMjJlZTNiYWJiYTdkMTU0YTZkNTc3NTkwYmI3YTdi`
+Snapshot ID: `MCxmMmM3ZTc4YzgyYTBjMDc5OTdhNTE1NjYxM2E5YjkzYTlhMjIzMzhk`

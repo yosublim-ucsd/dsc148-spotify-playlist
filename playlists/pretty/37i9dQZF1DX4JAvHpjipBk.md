@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, Lil Uzi Vert & Nicki Minaj, Tainy & Bad Bunny, Shakira, Charli XCX and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,129,769 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,130,300 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 |
 | 100 | [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 |
 
-Snapshot ID: `MCwzYmFhZTNlNzI5ZGI1NjM0YmU1YjcxZDQyYmE5ZDMwMjRmMTIxNWI2`
+Snapshot ID: `MCxiMmRiNTk5ZWU1ZGM2NjYxNWIzNjlhMWFhMTM0YmNiNjBhNmI5YWNk`

@@ -10650,7 +10650,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 572917,
       "name": "Festa na Ro\u00e7a / Olha pro C\u00e9u / Aquele S\u00e2o Jo\u00e2o - Instrumental",
       "url": "https://open.spotify.com/track/3ibtDYkH3k0H0Uo1aCtttV"
@@ -10668,7 +10668,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 339893,
       "name": "Festa na Ro\u00e7a / Sapecando / Pisei na Brasa",
       "url": "https://open.spotify.com/track/7FIb5o6Q6xtGgmpJDbn49F"
@@ -12006,6 +12006,24 @@
       "duration_ms": 139691,
       "name": "Haja Col\u00edrio Lambad\u00e3o",
       "url": "https://open.spotify.com/track/45hY2L2lrx7EuYGSikrKVJ"
+    },
+    {
+      "album": {
+        "name": "Halls na L\u00edngua",
+        "url": "https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Halls na L\u00edngua",
+      "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
     },
     {
       "album": {
@@ -17270,7 +17288,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
@@ -26641,6 +26659,28 @@
     },
     {
       "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/1H1WtGFwc4GfMdwNYPQBDd"
+    },
+    {
+      "album": {
         "name": "Tchuco Nela",
         "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
       },
@@ -27928,6 +27968,28 @@
       "duration_ms": 164000,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
+    },
+    {
+      "album": {
+        "name": "Tropa Dos Dj's",
+        "url": "https://open.spotify.com/album/73lH6oRq8Y6Y9CB5VvrvmG"
+      },
+      "artists": [
+        {
+          "name": "DJ Danzin",
+          "url": "https://open.spotify.com/artist/5BVxcgX3FLggdhPoJlafYl"
+        },
+        {
+          "name": "DJ GUI",
+          "url": "https://open.spotify.com/artist/2KC92VxoT1Y3s8RdZYqg0Q"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "Tropa Dos Dj's",
+      "url": "https://open.spotify.com/track/1VBs6Y4fGfetik6LxDZgLk"
     },
     {
       "album": {

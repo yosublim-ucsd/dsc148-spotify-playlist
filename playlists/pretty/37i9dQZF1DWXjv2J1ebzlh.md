@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,712 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,770 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1044,7 +1044,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1034 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 |
 | 1035 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 |
 | 1036 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Jazz Orchestra](https://open.spotify.com/artist/1tF1OoWEyzysLCCBRwzDc1) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
-| 1037 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/1XAOOkVxdWLra00faqOiyU) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 6:44 |
+| 1037 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/7DIS6KwM0AEYeMc63lRtnh) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/4s5TDr6VcRzoZro42p5lHP) | 6:44 |
 | 1038 | [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 |
 | 1039 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |
 | 1040 | [O Calhambeque \(Road Hog\) \- Versão remasterizada](https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [É Proibido Fumar \(Remasterizado\)](https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v) | 2:21 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw5YzViY2FhMTAwZWMxZTRhODJkNDQ2NDk0YjYwZmZmNTYyMTA5MDk3`
+Snapshot ID: `MCxlMmJiODY1MzZhNmQ5MDhlMjc1ZWE0ZmIyZTc2MmQyNTBlNzQwZDNi`

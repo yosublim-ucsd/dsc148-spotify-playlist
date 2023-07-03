@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 224070,
+  "num_followers": 224062,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjgwYzU0MDIzNTBmMjM0ZTVmZmFiNGQ2NDE5ZWU3NGRiY2RlOGVl",
+  "snapshot_id": "MCxlMzExZjFhNjIzYzZlNzkwYjFlYTkyZWMzNmMyM2I5ODM2YjNiZDlj",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 215362,
       "name": "Rotoscope",
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215924,
-      "name": "The Past Is Dead",
-      "url": "https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Suicide Season",
         "url": "https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215924,
+      "name": "The Past Is Dead",
+      "url": "https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 263760,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     },
     {
       "added_at": "2022-12-15 16:14:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,837 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,937 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 71 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 5:16 |
 | 72 | [Night Hawk](https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Night Hawk](https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t) | 10:29 |
 | 73 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
-| 74 | [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 7:22 |
+| 74 | [Autumn Breeze](https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 3:09 |
 | 75 | [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 |
-| 76 | [Autumn Breeze](https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 3:09 |
+| 76 | [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 7:22 |
 | 77 | [You Know I Care \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 7:22 |
 | 78 | [Willow Weep For Me](https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 9:58 |
 | 79 | [Soultrane \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:21 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 86 | [Intermezzo](https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:36 |
 | 87 | [Summer Night](https://open.spotify.com/track/0rEXms7hJo8jh1VHeWl20h) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:02 |
 | 88 | [Elsa](https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 5:11 |
-| 89 | [Body And Soul](https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 9:38 |
-| 90 | [Blues In The Night](https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Blues In The Night](https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817) | 5:55 |
+| 89 | [Blues In The Night](https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Blues In The Night](https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817) | 5:55 |
+| 90 | [Body And Soul](https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 9:38 |
 | 91 | [I've Grown Accustomed To Your Face \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac) | [Sonny Rollins Quintet](https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO) | [Plays For Bird \(RVG Remaster\)](https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C) | 4:51 |
 | 92 | [Little Girl Blue](https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 8:43 |
 | 93 | [When Joanna Loved Me](https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Eugene Wright](https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [Falling In Love With Paul Desmond](https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [Indian Summer](https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 5:01 |
 | 100 | [You Leave Me Breathless](https://open.spotify.com/track/0Y6BbUaS6TfTrB2ZqtprnR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Turning Point](https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96) | 7:25 |
 
-Snapshot ID: `MCwxOGUxMjA5NjQxNzY0ZTBkNTBhYjNlNTI0Zjc0MWM4YzVhY2VmZjM5`
+Snapshot ID: `MCxiYjE2OGFhZWZmYjUzYjEyNzlkM2VmNzdhNWY1OTNlMDk2MWJhYjI5`

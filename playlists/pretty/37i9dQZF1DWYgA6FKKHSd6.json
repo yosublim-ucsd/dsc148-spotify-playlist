@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 213658,
+  "num_followers": 213690,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj",
+  "snapshot_id": "MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -775,26 +775,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Backyard Brew",
-        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
-      },
-      "artists": [
-        {
-          "name": "The JT Project",
-          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 254376,
-      "name": "Backyard Brew",
-      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "And Coffee",
         "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Backyard Brew",
+        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
+      },
+      "artists": [
+        {
+          "name": "The JT Project",
+          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 254376,
+      "name": "Backyard Brew",
+      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Breakin' thru",
+        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Breakin' thru",
+      "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' thru",
-        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' thru",
-      "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
         "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
       },
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Juicy",
@@ -1467,18 +1483,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+        "name": "Summer Feelin'",
+        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 239506,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
+      "duration_ms": 238887,
+      "name": "Summer Feelin'",
+      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1529,24 +1549,20 @@
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "Summer Feelin'",
-        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/1EmXsKgb7A6a3rIhI3aW4T"
       },
       "artists": [
         {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
         }
       ],
-      "duration_ms": 238887,
-      "name": "Summer Feelin'",
-      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
+      "duration_ms": 241240,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1563,22 +1579,6 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "I Feel It Coming",
-        "url": "https://open.spotify.com/album/1EmXsKgb7A6a3rIhI3aW4T"
-      },
-      "artists": [
-        {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Breakin' thru",
         "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 237005,
       "name": "Dare 2 Dream",
       "url": "https://open.spotify.com/track/6YD15Hzv3d1oEE6eiw9CJV"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:09:21",

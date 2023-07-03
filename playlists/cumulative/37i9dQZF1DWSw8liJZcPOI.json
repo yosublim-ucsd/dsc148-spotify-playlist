@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Be in the moment",
+        "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189125,
+      "name": "Be in the moment",
+      "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
+    },
+    {
+      "album": {
         "name": "Because This Must Be",
         "url": "https://open.spotify.com/album/12mmaBuLAsvZ8j5j3r89vK"
       },
@@ -8316,7 +8334,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 240331,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"

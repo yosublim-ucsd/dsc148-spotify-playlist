@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 57 | [Essa Mina](https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/2Jm2d9xJna8Yd1gcKqeWc7) | 6:10 |
 | 58 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 59 | [First Light](https://open.spotify.com/track/34otUZvPvHMgNLbdRGxoYj) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [In My Mind EP](https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp) | 6:48 |
-| 60 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
+| 60 | [We Control](https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/60rhOCClApo0duvJbe2A18) | 3:26 |
 | 61 | [Gratitude](https://open.spotify.com/track/5CvaeEX9dU9ZhwyoVIIgTO) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude](https://open.spotify.com/album/3fRe1aTVYRwLNGOcLpnDXk) | 3:30 |
 | 62 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 63 | [Fizzy Pop](https://open.spotify.com/track/5kxZAfm8kAX9b0Z4X14eqx) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Summer Sampler 2022](https://open.spotify.com/album/5TdVLN5CyHhEZAiFVTnXQm) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 74 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 75 | [My City's On Fire](https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 3:07 |
 
-Snapshot ID: `MCw5ZDI3ZmM3YjRlZTFjZTQ0OTUyN2UxNmI2Njg0NDM3ZDQ5YmZlMTA5`
+Snapshot ID: `MCxjYjBjZjgwY2Y0ZWViODc1Y2U2YzRhMWU1YWRmNDM1OTBhMTI2Yjcx`

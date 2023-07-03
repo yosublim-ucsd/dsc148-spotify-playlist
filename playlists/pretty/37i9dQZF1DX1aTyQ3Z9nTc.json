@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 123354,
+  "num_followers": 123424,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQ0Y2VmZjE2ZWNlNWFhMTQ1ZmIzYzYzZGY3YjgyMWQ0ODg5ODc1",
+  "snapshot_id": "MCxkNTE5Nzg5YmQ4OTBjMWRkNjVkMGQ5MjhhYmY2ZWE5MTA0YmE1Y2Jm",
   "tracks": [
     {
       "added_at": "2023-04-07 21:25:17",
@@ -485,20 +485,24 @@
       "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-16 06:53:32",
       "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 157722,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
+      "duration_ms": 213987,
+      "name": "Gone (with Bryson Tiller)",
+      "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
     },
     {
       "added_at": "2022-08-12 04:16:30",
@@ -521,24 +525,20 @@
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 213987,
-      "name": "Gone (with Bryson Tiller)",
-      "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -689,26 +689,6 @@
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Assumptions (Kaytranada Edit)",
-        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 288097,
-      "name": "Assumptions - Kaytranada Edit",
-      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Remember Your North Star",
@@ -727,6 +707,26 @@
       "duration_ms": 125973,
       "name": "pour up",
       "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Assumptions (Kaytranada Edit)",
+        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 288097,
+      "name": "Assumptions - Kaytranada Edit",
+      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
       "added_at": "2022-07-30 02:24:25",

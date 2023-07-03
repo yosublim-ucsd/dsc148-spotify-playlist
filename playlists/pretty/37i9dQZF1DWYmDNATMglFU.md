@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. royal & the serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,321 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,354 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 |
 | 85 | [Sick Of This](https://open.spotify.com/track/2HCQNsYEhghKOW0Ti47QQ1) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Sick Of This](https://open.spotify.com/album/00KwLaA4RT15QJPBAEdaGJ) | 3:13 |
 
-Snapshot ID: `MCxhOGQxNjczMmNlOTJkZGQ5MjIyMjc2YmIwNTY3NzliNmI2MmVjZDll`
+Snapshot ID: `MCw1MzYwNThjOTBhZmYyOTM1ZDNhMTM0MmNlZDEzMjYzOGQ0ZTE0YzA2`

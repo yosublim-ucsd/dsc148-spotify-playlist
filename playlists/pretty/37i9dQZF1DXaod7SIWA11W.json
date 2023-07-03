@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  <a href=\"https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW?si=IhEOvc51SFWgEJXxlaMT3g\">Koryn Hawthorne</a>",
-  "num_followers": 52657,
+  "num_followers": 52799,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDc4MGVjYWQyZmY3YWU4YTcyYzZiMGQyMWRmNzYyMzkyYjZlN2I2",
+  "snapshot_id": "MCw0MWJiY2EzY2QzYjk3Y2MxNmQyNzMwMWJmZDQzZmJhMWVkZjBjYmVi",
   "tracks": [
     {
       "added_at": "2023-06-10 22:24:29",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 196830,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Your World",
-        "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 196830,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Keeper Of My Soul",
-        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
-      },
-      "artists": [
-        {
-          "name": "Earnest Pugh",
-          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Keeper Of My Soul",
-      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "Keeper Of My Soul",
+        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Keeper Of My Soul",
+      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "I's On Him",
+        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
+      },
+      "artists": [
+        {
+          "name": "Jay Violet",
+          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "I's On Him",
+      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 362120,
       "name": "Here All the Time (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "I's On Him",
-        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
-      },
-      "artists": [
-        {
-          "name": "Jay Violet",
-          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "I's On Him",
-      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
     },
     {
       "added_at": "2023-06-10 22:24:29",

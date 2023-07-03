@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 350374,
+  "num_followers": 350454,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzM4YThlNTIyNDA1YWU3MjcwNjlkN2JiYTRmYzQ0ZDRlZTQxMDk4",
+  "snapshot_id": "MCwzZDNjYTdkYThkZTIwYjMwNThiYWUwNDU4ZDhkZDQ4MjU4NTE4MzZj",
   "tracks": [
     {
       "added_at": "2023-06-22 14:21:46",
@@ -55,22 +55,6 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "N.W.A. And The Posse",
-        "url": "https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -171,22 +155,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 299373,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
         "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 198253,
       "name": "Shake Your Rump",
       "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -311,22 +295,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -343,18 +311,18 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -391,6 +359,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -639,54 +639,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -703,6 +655,38 @@
       "duration_ms": 383960,
       "name": "Planet Rock - Original 12\" Version",
       "url": "https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -755,22 +739,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -783,6 +751,22 @@
       "duration_ms": 204601,
       "name": "The Bridge Is Over",
       "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -1155,6 +1139,22 @@
       "duration_ms": 293733,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Giant Single: Profile Records Rap Anthology",
+        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
+      },
+      "artists": [
+        {
+          "name": "Dr. Jeckyll & Mr. Hyde",
+          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Genius Rap - 7\" Single Version",
+      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

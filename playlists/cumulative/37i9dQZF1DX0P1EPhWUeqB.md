@@ -4,7 +4,7 @@
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-57 songs - 3 hr 5 min
+58 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-12-30 |  |
 | [Cuando Te Ame \- En Vivo](https://open.spotify.com/track/2Jkw4v6tHdDfS4rM6pp4uZ) | [Soñadores de Sinaloa](https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf) | [Volumen 5 \(En Vivo\)](https://open.spotify.com/album/6I6MZLLhr6CJHqFxtozUMQ) | 3:55 | 2023-06-09 |  |
 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 | 2022-12-30 |  |
-| [El 24](https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Lo Más Escuchado De](https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA) | 2:34 | 2022-12-30 |  |
+| [El 24](https://open.spotify.com/track/3zV74oUCNZMTlJXLXxe9cE) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Los Corridos Favoritos Del Jefe](https://open.spotify.com/album/4ojff242HSHbiBz4JpV7Kg) | 2:34 | 2023-06-09 |  |
+| [El 24](https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Lo Más Escuchado De](https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA) | 2:34 | 2022-12-30 | 2023-07-03 |
 | [El Plumas \- En Vivo](https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Plumas \(En Vivo\)](https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs) | 3:30 | 2022-12-30 |  |
 | [El Roto \- En Vivo](https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Roto \(En Vivo\)](https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb) | 3:13 | 2022-12-30 |  |
 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 | 2022-12-30 | 2023-06-10 |

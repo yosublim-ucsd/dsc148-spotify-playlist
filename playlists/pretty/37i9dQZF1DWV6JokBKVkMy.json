@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1008,
+  "num_followers": 1012,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0",
+  "snapshot_id": "MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Tik tiker",
-        "url": "https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW"
-      },
-      "artists": [
-        {
-          "name": "Laura Beg",
-          "url": "https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf"
-        }
-      ],
-      "duration_ms": 246880,
-      "name": "Tik tike",
-      "url": "https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 202185,
       "name": "Pomper",
       "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Tik tiker",
+        "url": "https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW"
+      },
+      "artists": [
+        {
+          "name": "Laura Beg",
+          "url": "https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf"
+        }
+      ],
+      "duration_ms": 246880,
+      "name": "Tik tike",
+      "url": "https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -707,22 +707,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "The Best of Jean-Marc Volcy",
-        "url": "https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh"
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
       "artists": [
         {
-          "name": "Jean-Marc Volcy",
-          "url": "https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot"
-        },
-        {
-          "name": "Jany Letourdi",
-          "url": "https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3"
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
         }
       ],
-      "duration_ms": 278048,
-      "name": "Vandredi Sen",
-      "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
+      "duration_ms": 262976,
+      "name": "Mo ti poule",
+      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -743,18 +739,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+        "name": "The Best of Jean-Marc Volcy",
+        "url": "https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh"
       },
       "artists": [
         {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
+          "name": "Jean-Marc Volcy",
+          "url": "https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot"
+        },
+        {
+          "name": "Jany Letourdi",
+          "url": "https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3"
         }
       ],
-      "duration_ms": 262976,
-      "name": "Mo ti poule",
-      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
+      "duration_ms": 278048,
+      "name": "Vandredi Sen",
+      "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
     },
     {
       "added_at": "2022-08-11 10:05:16",

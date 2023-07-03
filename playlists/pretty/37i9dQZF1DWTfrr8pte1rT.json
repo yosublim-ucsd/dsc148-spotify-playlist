@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Grabbitz \\m/",
-  "num_followers": 309145,
+  "num_followers": 309206,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2Q2MmQyMmExNzgxNmMxMTMyN2U3ZTkzOTQzZjQ5MDM3MGYzMDA3",
+  "snapshot_id": "MCxhOTgzZjY5YzY1Nzk0NzEzMjI1YTM5OGU1ZTBmOWM1YmU5ZjM5M2M3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
-      },
-      "artists": [
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        },
-        {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
+      },
+      "artists": [
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1567,6 +1547,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 164897,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
       },
@@ -1643,30 +1643,6 @@
       "duration_ms": 163941,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Do Or Die (Alternate Versions)",
-        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        },
-        {
-          "name": "VYPER \uae68\ubb3c\ub2e4",
-          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
-      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1707,6 +1683,30 @@
       "duration_ms": 162356,
       "name": "The Dead March",
       "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Do Or Die (Alternate Versions)",
+        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "VYPER \uae68\ubb3c\ub2e4",
+          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
+      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
+      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Don't Miss (The Bloody Beetroots Remix)",
         "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
       },
@@ -1875,26 +1895,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
-      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "BURNING RUBBER",
         "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
       },
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Pursuit of Violence",
+        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Pursuit of Violence",
+      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Hearteater",
         "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
@@ -1947,26 +1967,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Day One (Machinedrum Remix)",
-        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
-      },
-      "artists": [
-        {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 204978,
-      "name": "Day One - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -1983,22 +1983,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pursuit of Violence",
-        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
+        "name": "Day One (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
         },
         {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Pursuit of Violence",
-      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
+      "duration_ms": 204978,
+      "name": "Day One - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
       },
@@ -2099,18 +2115,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
       },
       "artists": [
         {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         }
       ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+      "duration_ms": 222400,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2159,22 +2179,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
+        "name": "Superhuman (with K.Flay)",
+        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
+      "duration_ms": 240044,
+      "name": "Superhuman (with K.Flay)",
+      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2199,26 +2219,6 @@
       "duration_ms": 169285,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Superhuman (with K.Flay)",
-        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 240044,
-      "name": "Superhuman (with K.Flay)",
-      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2327,22 +2327,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
       "artists": [
         {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
+      "duration_ms": 232123,
+      "name": "Ohio is for Lovers",
+      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2367,22 +2367,38 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
         },
         {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+      "duration_ms": 196500,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2403,22 +2419,6 @@
       "duration_ms": 217600,
       "name": "UMBRA",
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 151257,
+  "num_followers": 151303,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2FkOTkzNjYzMjBkZDA5NTFjYzk1OTRlZTMwMDkwNWQzM2U5MzE3",
+  "snapshot_id": "MCw5ZWE5MjE1MTVlZjAxMDg2MWMzODZiZGFkYTM0OWNiOTY0NDFmNDE2",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -723,8 +723,8 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 225426,
-      "name": "Three Coins In The Fountain",
-      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
+      "duration_ms": 158760,
+      "name": "Love And Marriage",
+      "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -859,8 +859,8 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Love And Marriage",
-      "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Oldies 101",
+        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
+      },
+      "artists": [
+        {
+          "name": "Debbie Reynolds",
+          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Tammy",
+      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 158560,
       "name": "Outside of Heaven",
       "url": "https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Oldies 101",
-        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
-      },
-      "artists": [
-        {
-          "name": "Debbie Reynolds",
-          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Tammy",
-      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
     },
     {
       "added_at": "2020-07-08 17:36:08",

@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 33761,
+  "num_followers": 33811,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjk4ZTlmOWQ3YWI2OGJhNjU2NTE1MTZmZjI4OTczNDkzY2Q4NTVk",
+  "snapshot_id": "MCxkZjc2YjEwMzFjMmVjMmJlZWFmZmM3NDRmMTc2ZWUwY2QwM2QzYzY2",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Aqui No Se Sienta Nadie!",
         "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Galy Galiano 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
+        "name": "35 A\u00f1os de Exitos",
+        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
       },
       "artists": [
         {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+          "name": "El Sonero de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
         }
       ],
-      "duration_ms": 438026,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
+      "duration_ms": 311283,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/4Agimk8dKdPJD7M6HBCK42"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "35 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
+        "name": "Galy Galiano 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
       "artists": [
         {
-          "name": "El Sonero de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
         }
       ],
-      "duration_ms": 311283,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/4Agimk8dKdPJD7M6HBCK42"
+      "duration_ms": 438026,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "25 Aniversario",
-        "url": "https://open.spotify.com/album/2AWeNpuIiYqGa2UfpjFVk0"
-      },
-      "artists": [
-        {
-          "name": "La Misma Gente",
-          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
-        }
-      ],
-      "duration_ms": 317387,
-      "name": "La Chica de Chicago",
-      "url": "https://open.spotify.com/track/0jqB2X6Ps8HoQnPqoMNsLY"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/2AWeNpuIiYqGa2UfpjFVk0"
+      },
+      "artists": [
+        {
+          "name": "La Misma Gente",
+          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
+        }
+      ],
+      "duration_ms": 317387,
+      "name": "La Chica de Chicago",
+      "url": "https://open.spotify.com/track/0jqB2X6Ps8HoQnPqoMNsLY"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 285120,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 232385,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 232385,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "La Hora De La Salsa",
-        "url": "https://open.spotify.com/album/1znjPKdL13lrzu9odiTKyx"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 334493,
-      "name": "Hazme Olvidarla",
-      "url": "https://open.spotify.com/track/7GGDV8k7D99gNbFkEQo89s"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/0amJBy02Venc60GFjt7ytH"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 212386,
       "name": "Ese",
       "url": "https://open.spotify.com/track/6IYAUfaukZUjEP1zi2gjdn"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "La Hora De La Salsa",
+        "url": "https://open.spotify.com/album/1znjPKdL13lrzu9odiTKyx"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 334493,
+      "name": "Hazme Olvidarla",
+      "url": "https://open.spotify.com/track/7GGDV8k7D99gNbFkEQo89s"
     },
     {
       "added_at": "2022-08-02 22:53:13",

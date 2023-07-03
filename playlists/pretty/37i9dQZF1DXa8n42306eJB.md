@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,504 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,635 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 20 | [Just Dance](https://open.spotify.com/track/4lWhdGthmuFgsZEzB02KZu) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [Just Dance](https://open.spotify.com/album/124WBVqswfTVktUNadJ4T2) | 2:34 |
 | 21 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
 | 22 | [No Worry](https://open.spotify.com/track/7mpWPwY647zn20l5bLVJIG) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [No Worry](https://open.spotify.com/album/5tYZDsMZujFGrxrdVm3TAy) | 4:15 |
-| 23 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
+| 23 | [Sunshine](https://open.spotify.com/track/5yzNWZVVkSTuxwG6qENxCi) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/6gaWh2FOUVD3BLKQ8CA6E2) | 4:22 |
 | 24 | [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 |
 | 25 | [Early In The Morning](https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Early In The Morning](https://open.spotify.com/album/7jBZzB6g10Uw2qwHN3hdDR) | 2:52 |
 | 26 | [Dangerous](https://open.spotify.com/track/0JgQ9e26nCa3hIElMqHcok) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Dangerous](https://open.spotify.com/album/1xkMMcFFh8gy6uWyQ5TkOT) | 3:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 76 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
 
-Snapshot ID: `MCw5YjdiMDBkMzEyOTU5Y2Y3NDYxNWFhNmE0MjA0YjVjMjhhZDYzNzAw`
+Snapshot ID: `MCw1Njk3NWQxZjcyMTNmNmJlNTQ0YzNhYWM2NTczZDY2NjdlOTgxOWY3`

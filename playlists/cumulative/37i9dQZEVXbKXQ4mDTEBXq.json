@@ -972,10 +972,32 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 177580,
       "name": "KIMINOMAMA",
       "url": "https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h"
+    },
+    {
+      "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm"
+      },
+      "artists": [
+        {
+          "name": "MUKADE",
+          "url": "https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR"
+        },
+        {
+          "name": "INMAN",
+          "url": "https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177580,
+      "name": "KIMINOMAMA",
+      "url": "https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 105494,
+  "num_followers": 105626,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw",
+  "snapshot_id": "MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Elephant Gun",
-        "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Elephant Gun",
-      "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Alright, Still (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 192333,
       "name": "LDN",
       "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Elephant Gun",
+        "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Elephant Gun",
+      "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Honeysuckle Weeks",
-        "url": "https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC"
-      },
-      "artists": [
-        {
-          "name": "The Submarines",
-          "url": "https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "You, Me and the Bourgeoisie",
-      "url": "https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Give Up",
         "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 261253,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Honeysuckle Weeks",
+        "url": "https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC"
+      },
+      "artists": [
+        {
+          "name": "The Submarines",
+          "url": "https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "You, Me and the Bourgeoisie",
+      "url": "https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw"
     },
     {
       "added_at": "2023-03-14 21:51:12",

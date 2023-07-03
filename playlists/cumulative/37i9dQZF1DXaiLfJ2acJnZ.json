@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
@@ -2340,6 +2340,24 @@
       "duration_ms": 164173,
       "name": "I Can't Trust Myself",
       "url": "https://open.spotify.com/track/6Z2NrX2D44HzAIcq3Dgqws"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81222,
+      "name": "I Could Be A Florist",
+      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
     },
     {
       "album": {
@@ -2895,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Mad At Fire",
+        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231532,
+      "name": "Mad At Fire",
+      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -3310,7 +3346,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 208440,
       "name": "OCD",
       "url": "https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5"

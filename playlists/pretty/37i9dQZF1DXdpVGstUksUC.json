@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 515696,
+  "num_followers": 515904,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWVhNTUyYzU1MmIxM2UyOTg1ZTM5MWE0MTZjMzljMGQ2NDZlNzJh",
+  "snapshot_id": "MCw5YWY5ZjdhZDM3YWU4ODJlNjc5MTAyZTAxOTVjZjU1MGMyZDUwNDU2",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Please Don't",
-      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dead Rock Commandos",
         "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 196853,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Please Don't",
+      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Old Growth",
-        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
-      },
-      "artists": [
-        {
-          "name": "Dead Meadow",
-          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "What Needs Must Be",
-      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 384866,
       "name": "Electric Machine",
       "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Old Growth",
+        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
+      },
+      "artists": [
+        {
+          "name": "Dead Meadow",
+          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "What Needs Must Be",
+      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dopesmoker",
         "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 505196,
       "name": "Hot Lava Man",
       "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2023-06-23 04:00:00",

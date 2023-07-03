@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-83 songs - 6 hr 30 min
+84 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Don't Wanna Change the World](https://open.spotify.com/track/06b5ZHfj1b9u3Kn4DegPSD) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 5:21 | 2022-05-25 | 2022-10-13 |
 | [Everything I Have Is Good \(feat\. Norman Connors & Phyllis Hyman\)](https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 5:58 | 2022-07-02 |  |
 | [First Time Together](https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:01 | 2022-05-27 |  |
-| [Forever with You](https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 | 2022-05-25 |  |
+| [Forever with You](https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 | 2022-05-25 | 2023-07-03 |
 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 | 2022-05-25 |  |
 | [Give Me One Good Reason To Stay](https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:13 | 2022-05-25 | 2022-09-25 |
 | [Goddess Of Love](https://open.spotify.com/track/3eceLA8MwVvbM9cjeTsOQr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 5:50 | 2022-05-31 | 2022-07-20 |
@@ -85,6 +85,7 @@
 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 | 2022-05-25 |  |
 | [When I Give My Love \(This Time\)](https://open.spotify.com/track/2unUCdfT0PO8snZdH9mdjF) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 7:03 | 2022-05-25 |  |
 | [When You Get Right Down to It](https://open.spotify.com/track/0LlfOstih9quyorg6AzhpZ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:21 | 2022-05-25 |  |
+| [Why Did You Turn Me On](https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:12 | 2023-07-02 |  |
 | [Why Not Me](https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:40 | 2022-05-25 |  |
 | [You Just Don't Know](https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:14 | 2022-05-25 |  |
 | [You Know How to Love Me \- 7" Version](https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:46 | 2022-05-25 |  |

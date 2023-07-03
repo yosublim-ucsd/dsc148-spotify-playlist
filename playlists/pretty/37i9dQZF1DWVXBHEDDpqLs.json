@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 28810,
+  "num_followers": 28825,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQzNDFkNzY0N2EzN2U0OTA1OWVjZWZjODFiNjExYzc2NTJlMTlj",
+  "snapshot_id": "MCxiMmVlNmIwYjY2OGRhNTg3N2RmYWExMmU5NjkwZjk0NzdmNmExMzA2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "FIJI WATER",
-        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
-      },
-      "artists": [
-        {
-          "name": "MONEYONYOURMIND",
-          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FIJI WATER",
-      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Snack Time",
         "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "FIJI WATER",
+        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
+      },
+      "artists": [
+        {
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FIJI WATER",
+      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1391,22 +1375,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Nzinga",
         "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
@@ -1423,6 +1391,38 @@
       "duration_ms": 157870,
       "name": "Nzinga",
       "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Tabasco",
+        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
+      },
+      "artists": [
+        {
+          "name": "BASE",
+          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Tabasco",
+      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Ride It (SBF17)",
         "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 166060,
       "name": "Ride It - SBF17",
       "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Tabasco",
-        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
-      },
-      "artists": [
-        {
-          "name": "BASE",
-          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Tabasco",
-      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Lonely in Tokyo (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
-      },
-      "artists": [
-        {
-          "name": "MIREI",
-          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
-        },
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 176572,
-      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
-      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lonely in Tokyo (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
+      },
+      "artists": [
+        {
+          "name": "MIREI",
+          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
+        },
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 176572,
+      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
+      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
     },
     {
       "added_at": "2023-05-26 04:00:00",

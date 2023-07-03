@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 
 > El aderezo que te falta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,012 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,042 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 23 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 |
 | 24 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
 | 25 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 |
-| 26 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
-| 27 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 |
+| 26 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 |
+| 27 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
 | 28 | [I Like It Like That](https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 4:25 |
 | 29 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
 | 30 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 41 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
 | 42 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 |
 | 43 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
-| 44 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
-| 45 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 |
+| 44 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 |
+| 45 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
 | 46 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 |
 | 47 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 | 48 | [Bebete Vãobora](https://open.spotify.com/track/3vST7tho4iT90949PEtM7i) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 81 | [Estoy como nunca](https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa) | [Eliades Ochoa](https://open.spotify.com/artist/5kzBZ1hAd7xSzNUbGxACee) | [Estoy Como Nunca](https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb) | 5:01 |
 | 82 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Em Casa](https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0) | 4:35 |
 | 83 | [Samba de Orfeu](https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 2:41 |
-| 84 | [Captain Bacardi](https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 4:29 |
-| 85 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 |
-| 86 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg) | [Latin Piece of Soul](https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl) | 3:06 |
+| 84 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 |
+| 85 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg) | [Latin Piece of Soul](https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl) | 3:06 |
+| 86 | [Captain Bacardi](https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 4:29 |
 | 87 | [Ain't No Sunshine](https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM) | [Sivuca](https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm) | [Loose & Juicy](https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7) | 4:49 |
 | 88 | [Um Abraco No Getz](https://open.spotify.com/track/29v0gMFSZ7VmKXWOdywJck) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 4:23 |
 | 89 | [Our Day Will Come](https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 99 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 |
 | 100 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
 
-Snapshot ID: `MCw5YjFmYzcxYWViNjk0ZGJmZmRlYWM4ZTU5MWRjMjc2N2M2ZjhlNjA5`
+Snapshot ID: `MCwyM2JmZDUwMTkyMjA2ZjgzNmE3Mzg5ZGFjYTk3ZjhjMTUwZDIyYWYy`

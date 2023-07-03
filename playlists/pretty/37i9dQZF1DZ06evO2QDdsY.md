@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,994 likes - 42 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,001 likes - 42 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 38 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
 | 39 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 | 40 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 |
-| 41 | [Strange Things Happening Every Day](https://open.spotify.com/track/6GRmyRHooT9FHrDcwHrozr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Richard: I Am Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xR73ACoQV35rILeYhBM3w) | 2:52 |
-| 42 | [Love Told A Lie](https://open.spotify.com/track/13AbPBJkIgSlvwZoW7z8GF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:59 |
+| 41 | [Love Told A Lie](https://open.spotify.com/track/13AbPBJkIgSlvwZoW7z8GF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:59 |
+| 42 | [Strange Things Happening Every Day](https://open.spotify.com/track/6GRmyRHooT9FHrDcwHrozr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Richard: I Am Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xR73ACoQV35rILeYhBM3w) | 2:52 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDBiM2E4ZjllYzNlY2M0NTI0N2QwOTg3NmJmYjNhNTU2Mg==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDAyMWI3MjAxNzM4YzYwMjk1ODA1NWZiYzMyMWM1NjdmNw==`

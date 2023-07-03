@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-163 songs - 15 hr 8 min
+165 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Move](https://open.spotify.com/track/5sYV7RswBFymjOla2Yax9W) | [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc) | [Move](https://open.spotify.com/album/7hc0JUOyeOHRhGd1L25BCM) | 5:52 | 2023-02-01 | 2023-02-11 |
 | [Nebula](https://open.spotify.com/track/1qiwGjqqbZRspdySeVVZhQ) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Nebula](https://open.spotify.com/album/2W8ALGP69QJp6RZ6dG91iF) | 4:44 | 2022-07-05 | 2022-07-24 |
 | [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 | 2023-05-12 |  |
-| [Never Go Back To Sleep](https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Never Go Back To Sleep](https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5) | 4:00 | 2023-03-29 |  |
+| [Never Go Back To Sleep](https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Never Go Back To Sleep](https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5) | 4:00 | 2023-03-29 | 2023-07-03 |
 | [Nothingness \- Original Mix](https://open.spotify.com/track/0pFes2owZmkuuYoUXWQ0pL) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Voices In My Head EP](https://open.spotify.com/album/2sngmJvA4Vz8k4GLtdwyPj) | 6:25 | 2022-07-05 | 2022-07-10 |
 | [Nova](https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Nova](https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA) | 6:16 | 2022-07-11 | 2022-08-16 |
 | [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 | 2022-07-05 | 2023-03-09 |
@@ -161,9 +161,11 @@
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-07-05 |  |
 | [Usp](https://open.spotify.com/track/0hvQ5NMd7h7BrGr4lAVn3Z) | [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Usp](https://open.spotify.com/album/5GCITrupnOeUYSQCuiX0dh) | 6:24 | 2022-12-16 | 2023-02-01 |
 | [Vesperi](https://open.spotify.com/track/5OBh7R8k3gEsG2o7clnPdQ) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Vesperi](https://open.spotify.com/album/1rFF39EMZK1CK5S3vpc2yK) | 6:03 | 2022-07-05 | 2022-07-29 |
+| [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-06-02 |  |
 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 | 2022-11-25 | 2023-07-01 |
 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 | 2022-10-21 |  |
-| [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-07-05 |  |
+| [We Control](https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/60rhOCClApo0duvJbe2A18) | 3:26 | 2023-06-02 |  |
+| [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-07-05 | 2023-07-03 |
 | [With You \- Edit](https://open.spotify.com/track/0TJ2TCxM2bZSvorERc211K) | [Noemi Black](https://open.spotify.com/artist/7aduJdjVqq0HB0NKxxLewT) | [With You](https://open.spotify.com/album/12hjUaYiyK6xe4oz2lllu5) | 3:28 | 2022-11-17 | 2022-12-08 |
 | [You and I](https://open.spotify.com/track/46JpvZt7EH9Rd865RIrgVo) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [You and I](https://open.spotify.com/album/2oDydewOb2mjCJzL4V1YzP) | 6:02 | 2022-10-21 | 2022-10-29 |
 | [You Are Mine \- Original Mix](https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [You Are Mine EP](https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8) | 6:54 | 2022-10-21 | 2023-04-12 |

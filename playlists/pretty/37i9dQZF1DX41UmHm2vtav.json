@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 421841,
+  "num_followers": 422061,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTA5NjNlNmZjZmNmNmVhYWM4YThjOTg2N2ExODNhMjA1NDRhY2I0",
+  "snapshot_id": "MCw5ZWExNTVjMTUwZDUxY2RhM2NjODg3MTk1OTM4ZjYwODM0YmU1ZTM4",
   "tracks": [
     {
       "added_at": "2023-06-30 03:03:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 124226,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -483,30 +483,6 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
         "name": "Um Erro (Malifoo, Voltech Remix)",
         "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
       },
@@ -531,6 +507,30 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
         "name": "Adrenalizou (Gabriel Boni Remix)",
         "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 214435,
       "name": "Adrenalizou - Gabriel Boni Remix",
       "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -591,6 +571,26 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
+        "name": "Praia (Sem Sair de Casa) [Remix]",
+        "url": "https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Helen Sancho",
+          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Praia (Sem Sair de Casa) [Remix]",
+      "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
         "name": "Lay Your Head On Me (feat. Marcus Mumford)",
         "url": "https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V"
       },
@@ -1483,46 +1503,22 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Evoluiu (Rakka & Onabeat Remix)",
-        "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
         },
         {
-          "name": "Rakka",
-          "url": "https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
         }
       ],
-      "duration_ms": 172918,
-      "name": "Evoluiu - Rakka & Onabeat Remix",
-      "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
-        "name": "Praia (Sem Sair de Casa) [Remix]",
-        "url": "https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Helen Sancho",
-          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Praia (Sem Sair de Casa) [Remix]",
-      "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     }
   ],
   "unique_name": "Festa na Praia",

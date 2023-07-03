@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-205 songs - 14 hr 22 min
+206 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Raise a Glass](https://open.spotify.com/track/0udhUWKw9Rf556Nf7X5Ep9) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU), [Shahi Teruko](https://open.spotify.com/artist/74Nzptrhmpsceggc2DPW8G) | [Raise a Glass](https://open.spotify.com/album/1o6BgBrtidtzazbU3umYeE) | 3:52 | 2023-02-03 |  |
 | [Repent](https://open.spotify.com/track/5h4Gkr0lVkh90ejOS5MjNI) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Mackenzie](https://open.spotify.com/artist/6RxbJRHg6Cwf3wAad0VFRf), [Keith Anderson](https://open.spotify.com/artist/5QY2TTRCoTQYcbAddmG754) | [Live in Love](https://open.spotify.com/album/6rqu2V90Bv8DI87MpNS9WW) | 5:16 | 2021-06-04 |  |
 | [Rile 'Em Up](https://open.spotify.com/track/4mvVLWbe50QZg4QJhzBztu) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:27 | 2020-10-30 | 2023-04-01 |
-| [River Keep Runnin'](https://open.spotify.com/track/0d0PEYhvGdBZBMS0wkCanE) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin’](https://open.spotify.com/album/3oUZlVmuSj6VtmXVN1uHjp) | 4:06 | 2022-03-11 |  |
+| [River Keep Runnin'](https://open.spotify.com/track/0d0PEYhvGdBZBMS0wkCanE) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin’](https://open.spotify.com/album/3oUZlVmuSj6VtmXVN1uHjp) | 4:06 | 2022-03-11 | 2023-07-03 |
+| [River Keep Runnin'](https://open.spotify.com/track/6xsE2e07WLKv1Atkp7YzfI) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:06 | 2022-03-11 |  |
 | [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 | 2022-03-11 | 2022-10-15 |
 | [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 | 2022-03-11 | 2023-05-12 |
 | [Rock Steady \- Zigaboo Version \- Remastered](https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Kenya Hathaway](https://open.spotify.com/artist/3OOcpvOBvRu9XAb7YvasHB), [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Zigaboo Modeliste](https://open.spotify.com/artist/0nWyZCX1qLoZzRGC9ZmuaV) | [Rock Steady](https://open.spotify.com/album/4Tg10fXYYEuHtgFaDXSwPn) | 4:34 | 2020-10-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 443245,
+  "num_followers": 443420,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmIxYjAxYzkwMGZmZjEwOGQzMjI1N2U1NTYyYjQxMDBkZjZkYWQx",
+  "snapshot_id": "MCwyMGVmOGU1OGEzYjBlMGRlY2NiNWEwYmY3ODI3Y2E0ZmJkZjBiM2Mx",
   "tracks": [
     {
       "added_at": "2023-06-30 06:26:35",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Enthrone Darkness Triumphant",
-        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "In Death's Embrace",
-      "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "In The Nightside Eclipse",
         "url": "https://open.spotify.com/album/0va7zHEUQixlEhLAFz2r63"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 288733,
       "name": "Inno A Satana",
       "url": "https://open.spotify.com/track/4Q3fgTWAZjCM3qQrPhE2qT"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Enthrone Darkness Triumphant",
+        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "In Death's Embrace",
+      "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Paranoid Android (cover version)",
-        "url": "https://open.spotify.com/album/3Lvm7gcrmOwmGViBTjgQYH"
-      },
-      "artists": [
-        {
-          "name": "Imperial Triumphant",
-          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
-        }
-      ],
-      "duration_ms": 364016,
-      "name": "Paranoid Android - cover version",
-      "url": "https://open.spotify.com/track/5ZpvNguxZA6HLK9aPjlKDh"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "Existence Is Futile",
         "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
       },
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Retraversing the Void",
-        "url": "https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI"
-      },
-      "artists": [
-        {
-          "name": "Uada",
-          "url": "https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ"
-        }
-      ],
-      "duration_ms": 464000,
-      "name": "Retraversing the Void",
-      "url": "https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "The Past is Alive (The Early Misschief)",
         "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 208039,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Paranoid Android (cover version)",
+        "url": "https://open.spotify.com/album/3Lvm7gcrmOwmGViBTjgQYH"
+      },
+      "artists": [
+        {
+          "name": "Imperial Triumphant",
+          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
+        }
+      ],
+      "duration_ms": 364016,
+      "name": "Paranoid Android - cover version",
+      "url": "https://open.spotify.com/track/5ZpvNguxZA6HLK9aPjlKDh"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Retraversing the Void",
+        "url": "https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI"
+      },
+      "artists": [
+        {
+          "name": "Uada",
+          "url": "https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ"
+        }
+      ],
+      "duration_ms": 464000,
+      "name": "Retraversing the Void",
+      "url": "https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1143,6 +1143,22 @@
       "duration_ms": 240880,
       "name": "Ecstasies in night infinite",
       "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Maha-Kali",
+      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Maha-Kali",
-      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "War Remains",
         "url": "https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
-      },
-      "artists": [
-        {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Coming Storm",
-      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "Devoid",
         "url": "https://open.spotify.com/album/7u4PSnsEEGYs4MY2kKKObk"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 427154,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/2cHRxt5cEvGjA244OqKmVC"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Coming Storm",
+      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Galactic Order",
-        "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
-      },
-      "artists": [
-        {
-          "name": "Assemble the Chariots",
-          "url": "https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ"
-        }
-      ],
-      "duration_ms": 322109,
-      "name": "Galactic Order",
-      "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "Reinkaos",
         "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
+        "name": "Galactic Order",
+        "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
+      },
+      "artists": [
+        {
+          "name": "Assemble the Chariots",
+          "url": "https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ"
+        }
+      ],
+      "duration_ms": 322109,
+      "name": "Galactic Order",
+      "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
         "name": "Dark Medieval Times (Remastered 2021)",
         "url": "https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 491573,
       "name": "Dark Medieval Times - Remastered 2021",
       "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Helvegr",
+        "url": "https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM"
+      },
+      "artists": [
+        {
+          "name": "Tsjuder",
+          "url": "https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn"
+        }
+      ],
+      "duration_ms": 226051,
+      "name": "Gamle-Erik",
+      "url": "https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Helvegr",
-        "url": "https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM"
-      },
-      "artists": [
-        {
-          "name": "Tsjuder",
-          "url": "https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn"
-        }
-      ],
-      "duration_ms": 226051,
-      "name": "Gamle-Erik",
-      "url": "https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "Under the Sign of Hell",
         "url": "https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 320333,
       "name": "Profetens \u00c5penbaring",
       "url": "https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Zos Kia Cultus",
+        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Zos Kia Cultus",
-        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
+        "name": "Flammen",
+        "url": "https://open.spotify.com/album/5DGGRAUfZFLGhKrZPVxtma"
       },
       "artists": [
         {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+          "name": "Vreid",
+          "url": "https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm"
         }
       ],
-      "duration_ms": 299226,
-      "name": "As Above So Below",
-      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
+      "duration_ms": 282110,
+      "name": "Flammen",
+      "url": "https://open.spotify.com/track/2HOdj1tDEf5xfSiHAyUkMm"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-06-30 06:26:35",
       "album": {
-        "name": "Flammen",
-        "url": "https://open.spotify.com/album/5DGGRAUfZFLGhKrZPVxtma"
-      },
-      "artists": [
-        {
-          "name": "Vreid",
-          "url": "https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm"
-        }
-      ],
-      "duration_ms": 282110,
-      "name": "Flammen",
-      "url": "https://open.spotify.com/track/2HOdj1tDEf5xfSiHAyUkMm"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj"
       },
@@ -1559,38 +1559,6 @@
       "duration_ms": 380773,
       "name": "Black Flames March",
       "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
-        "name": "The Shrike",
-        "url": "https://open.spotify.com/album/3P9ZznxjcZkWLoucfVYl1g"
-      },
-      "artists": [
-        {
-          "name": "KEN Mode",
-          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
-        }
-      ],
-      "duration_ms": 250346,
-      "name": "The Shrike",
-      "url": "https://open.spotify.com/track/4BwS5ZI5xpRUbe0uAtfefi"
-    },
-    {
-      "added_at": "2023-06-30 06:26:35",
-      "album": {
-        "name": "Taken before Given",
-        "url": "https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T"
-      },
-      "artists": [
-        {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
-        }
-      ],
-      "duration_ms": 234965,
-      "name": "Taken before Given",
-      "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
     },
     {
       "added_at": "2023-06-30 06:26:35",
@@ -1623,6 +1591,38 @@
       "duration_ms": 236453,
       "name": "Black Crow On A Tombstone",
       "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "The Shrike",
+        "url": "https://open.spotify.com/album/3P9ZznxjcZkWLoucfVYl1g"
+      },
+      "artists": [
+        {
+          "name": "KEN Mode",
+          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+        }
+      ],
+      "duration_ms": 250346,
+      "name": "The Shrike",
+      "url": "https://open.spotify.com/track/4BwS5ZI5xpRUbe0uAtfefi"
+    },
+    {
+      "added_at": "2023-06-30 06:26:35",
+      "album": {
+        "name": "Taken before Given",
+        "url": "https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "duration_ms": 234965,
+      "name": "Taken before Given",
+      "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
     }
   ],
   "unique_name": "Extreme Metal",

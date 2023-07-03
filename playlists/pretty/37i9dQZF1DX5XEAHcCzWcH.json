@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 25882,
+  "num_followers": 25899,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmJiMDdmMjNlYjIzNWIwMTcxYzliZjU1NzY4OTY4OGQwYjAwOWM4",
+  "snapshot_id": "MCw2MmU2ZDQ2OWZmNjAxNTA3ZWUxNjRmOGJjYTViNDk3ODZkMGNkZWJh",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 266253,
       "name": "Moon Blues",
       "url": "https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Presenting Blind Blake",
-        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
-      },
-      "artists": [
-        {
-          "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Hastings Street",
-      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Down In Mississippi",
         "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "The King of Chicago Blues Piano",
         "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180026,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
+      },
+      "artists": [
+        {
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
+        }
+      ],
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "That's All Right (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+      },
+      "artists": [
+        {
+          "name": "Piano Red",
+          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Rockin' with Red - Remastered 2002",
+      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Journeys To The Heart Of The Blues",
         "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 183866,
       "name": "Mean Old Train",
       "url": "https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "That's All Right (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
-      },
-      "artists": [
-        {
-          "name": "Piano Red",
-          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Rockin' with Red - Remastered 2002",
-      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
-        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+        "name": "Classic Piano Blues from Smithsonian Folkways",
+        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
       },
       "artists": [
         {
-          "name": "Lazy Bill Lucas",
-          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+          "name": "Big Chief Ellis",
+          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
         }
       ],
-      "duration_ms": 166253,
-      "name": "My Baby's Gone",
-      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
+      "duration_ms": 298600,
+      "name": "Dices Blues",
+      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Classic Piano Blues from Smithsonian Folkways",
-        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
+        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
       },
       "artists": [
         {
-          "name": "Big Chief Ellis",
-          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
+          "name": "Lazy Bill Lucas",
+          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
         }
       ],
-      "duration_ms": 298600,
-      "name": "Dices Blues",
-      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
+      "duration_ms": 166253,
+      "name": "My Baby's Gone",
+      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
     },
     {
       "added_at": "2022-05-13 10:49:08",

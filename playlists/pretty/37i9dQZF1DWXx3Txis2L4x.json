@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 574736,
+  "num_followers": 574905,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDY2M2YzNGJlY2IxNDYyY2RmN2JiM2VjOTRjMjVjMzc3NmFlYzVj",
+  "snapshot_id": "MCwzN2JiNmQ0NWQzNDhlMTUyYWI4ODQ5NmUxMTM2YjM3Mjc2YzYxZGMw",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 195680,
       "name": "The River",
       "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2023-05-12 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Federico Rossi
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,514 likes - 65 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,531 likes - 65 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 64 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 |
 | 65 | [KARMA \(Prod\. JARO\)](https://open.spotify.com/track/03Wz7SdrLcfP0f2waHHWtx) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [KARMA \(Prod\. JARO\)](https://open.spotify.com/album/3V2h9lYkkoihli6Ff6GAb6) | 2:20 |
 
-Snapshot ID: `MCxhNDIyMDJmODkzNzQ1NjMyNjRmMmQ3ZjFhNGJmYjQ2ZmQzZGEwZTg0`
+Snapshot ID: `MCxlYmY5NmQ2NDZkZDU2MzBlOTNhOGE0MWJkMjhiZTg1ODY3NmI1OGNh`

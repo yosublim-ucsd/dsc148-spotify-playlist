@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 230415,
+  "num_followers": 230431,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj",
+  "snapshot_id": "MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "hard to dream",
-        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        }
-      ],
-      "duration_ms": 232061,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "hard to dream",
+        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        }
+      ],
+      "duration_ms": 232061,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Stages Of A Breakdown",
-        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Raise Up",
-      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+        "name": "Stages Of A Breakdown",
+        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
       },
       "artists": [
         {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+      "duration_ms": 192562,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Your Head Up (Radio Version)",
-        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
-      },
-      "artists": [
-        {
-          "name": "Fireflight",
-          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
-        }
-      ],
-      "duration_ms": 215603,
-      "name": "Keep Your Head Up - Radio Version",
-      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "OLDER",
         "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+        "name": "Keep Your Head Up (Radio Version)",
+        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
       },
       "artists": [
         {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Fireflight",
+          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
         }
       ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+      "duration_ms": 215603,
+      "name": "Keep Your Head Up - Radio Version",
+      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Mercy Shores",
-        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
       },
       "artists": [
         {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
         }
       ],
-      "duration_ms": 206746,
-      "name": "Mercy Shores",
-      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1111,22 +1095,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Way, Truth, Life",
-        "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
+        "name": "Mercy Shores",
+        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Naomi Mae",
-          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Way, Truth, Life",
-      "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
+      "duration_ms": 206746,
+      "name": "Mercy Shores",
+      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Way, Truth, Life",
+        "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Naomi Mae",
+          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Way, Truth, Life",
+      "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Break Out (Live)",
         "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 222960,
       "name": "Break Out - Live",
       "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,266 likes - 125 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,313 likes - 125 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 4 | [DOUBT](https://open.spotify.com/track/4yBFWWqcl9WMj5mIv4f8mq) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [DOUBT](https://open.spotify.com/album/41jsygAosEU6edZ06LFBNo) | 4:28 |
 | 5 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 |
 | 6 | [DEATH](https://open.spotify.com/track/7kOXDIUX7DVNvvaFA1lGWZ) | [Sad Park](https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf) | [DEATH](https://open.spotify.com/album/6l0jObrKOFqYw71VHB7hAB) | 3:22 |
-| 7 | [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 |
+| 7 | [Good Living Is Coming for You](https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 3:37 |
 | 8 | [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 |
 | 9 | [Short Straw](https://open.spotify.com/track/3QJWvFiMtkl4B5bIc8RQRR) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Take A Picture](https://open.spotify.com/album/1ChLWmwf2uKugRHKCtxMSM) | 3:38 |
 | 10 | [Ched Man](https://open.spotify.com/track/6EEPiK1SwQ7ZqA2r5luaJQ) | [Deaf Charlie](https://open.spotify.com/artist/2PW9udMnD3PeyX5hcXRyce) | [Catastrophic Metamorphic](https://open.spotify.com/album/0yll3KhEFD5Surw9nSPVqB) | 2:17 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [A Cow to Milk](https://open.spotify.com/track/5e5fS4bgmZnMgBw95aHEis) | [All Coasted](https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6) | [A Cow to Milk](https://open.spotify.com/album/4wNS3fZuQ4RIcJgbpbTUbw) | 1:57 |
 | 125 | [The Fix is In](https://open.spotify.com/track/2qomvQ7wDDJk3tBu1pOeEN) | [Geld](https://open.spotify.com/artist/2I57IxnW6Ee0lhtQTcwNrn) | [The Fix is In](https://open.spotify.com/album/3ZWi4sn3TBkIBgh9nFaj8r) | 3:27 |
 
-Snapshot ID: `MCw5YzlmYWYzMTMzYzNhYTU2ZTkyZTFkMTk3ODg2YTlkYjY0YjMzNTVl`
+Snapshot ID: `MCwwYWI0Y2MwNWZiNWRkZGI5YTM3Y2FmNmQ3NGUzZjI1MzBkYjBkZDM3`

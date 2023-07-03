@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 19490,
+  "num_followers": 19532,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGY2ZTU4NWU5NzcyZDk2N2YxYmVhNWRjOTQ0MjIyYjZiZDU1YzQ3",
+  "snapshot_id": "MCw5YjYxYzhiOTNlYmExYWMzODgzYzYzOWQwMmZkYmYzMGUxYmFkMWRm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Banana Klip",
-        "url": "https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL"
-      },
-      "artists": [
-        {
-          "name": "Bali Baby",
-          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
-        }
-      ],
-      "duration_ms": 117733,
-      "name": "Banana Klip",
-      "url": "https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Cross Country Trappin",
         "url": "https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 206413,
       "name": "Preach",
       "url": "https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Banana Klip",
+        "url": "https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL"
+      },
+      "artists": [
+        {
+          "name": "Bali Baby",
+          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
+        }
+      ],
+      "duration_ms": 117733,
+      "name": "Banana Klip",
+      "url": "https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu"
     },
     {
       "added_at": "2022-10-01 16:00:00",

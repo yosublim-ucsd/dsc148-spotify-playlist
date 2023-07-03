@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,105 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,119 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [你的愛比我重要 \(W劇場《因為你如此耀眼》片尾曲\)](https://open.spotify.com/track/3SQliXBU61AQOg5ZM8WMyR) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [你的愛比我重要](https://open.spotify.com/album/3dKTJoKUyGq0yLfRoNnHKg) | 4:00 |
 | 100 | [Listen to Me](https://open.spotify.com/track/4ctBtGioje65qUZbWPd4EK) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Listen to Me](https://open.spotify.com/album/1t3hYYECO3j2I69DNzC7WM) | 3:46 |
 
-Snapshot ID: `MCxmNjgyMDIzMGNkMjk5YWI4MjU3ZWUwNDYwMDI4ZTdlOTdjZWMxYWQ1`
+Snapshot ID: `MCxlNmQyNTZmYzIyOTRlODUxOWRhY2QzNWQ1ZTViMzZmODEzZGY4MTc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Del Water Gap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,116 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,203 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 150 | [join the party](https://open.spotify.com/track/59bKaOQLiq0Rbx207FG2MR) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [join the party](https://open.spotify.com/album/5lclm1gPZ08NvF3ZTNN3sy) | 2:55 |
 
-Snapshot ID: `MCwzMGNhMmYzZmI1ZDk2Mjg0NmQ1MmM4YzhiYTI1ODlmMTA1MDA1ODJh`
+Snapshot ID: `MCw5ZDQwMGJlNGE0NGNjNzUyNGY3NzBiMjg5ZjRhNDY1NTQ0ZmNkZWUw`

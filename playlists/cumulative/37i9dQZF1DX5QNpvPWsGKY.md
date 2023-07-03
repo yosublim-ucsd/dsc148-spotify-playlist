@@ -4,7 +4,7 @@
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-179 songs - 10 hr 31 min
+180 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Ron Y Coca Cola](https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Ron Y Coca Cola](https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx) | 3:14 | 2022-01-25 |  |
 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 | 2022-01-25 |  |
 | [Sabes A Chocolate](https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Los Remixes 2.0](https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK) | 3:46 | 2022-01-25 | 2022-07-29 |
-| [Sabes A Chocolate](https://open.spotify.com/track/6pPNepnzBAMdPcE3vgyT3y) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Sabes A Chocolate](https://open.spotify.com/album/70KuCHT6XcptXyM4OjCu3c) | 3:46 | 2022-01-25 |  |
+| [Sabes A Chocolate](https://open.spotify.com/track/6pPNepnzBAMdPcE3vgyT3y) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Sabes A Chocolate](https://open.spotify.com/album/70KuCHT6XcptXyM4OjCu3c) | 3:46 | 2022-01-25 | 2023-07-03 |
+| [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 | 2022-01-25 |  |
 | [Se Le Ve](https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Impacto de Montemorelos Sus Mejores 25 Canciones](https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf) | 3:10 | 2023-01-10 |  |
 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 | 2022-01-25 |  |
 | [Si Estuvieras Conmigo](https://open.spotify.com/track/3PH5D5REO8HsGCtxS5JuLf) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Si Estuvieras Conmigo](https://open.spotify.com/album/4xfjey3IjjaiYHApwpzj4O) | 2:37 | 2023-01-10 |  |

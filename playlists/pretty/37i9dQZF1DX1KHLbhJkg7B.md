@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,445 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,495 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 61 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 63 | [Teenage Dream](https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Teenage Dream](https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0) | 3:37 |
-| 64 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |
+| 64 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
 | 65 | [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 |
-| 66 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
+| 66 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |
 | 67 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |
-| 68 | [Dammit](https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Dammit](https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU) | 3:19 |
+| 68 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |
 | 69 | [When I Was Your Man](https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Big Machine Undercover](https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf) | 3:46 |
 | 70 | [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 |
-| 71 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
-| 72 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |
+| 71 | [Dammit](https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Dammit](https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU) | 3:19 |
+| 72 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
 | 73 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 |
 | 74 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
 | 75 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 77 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 |
 | 78 | [Feeling Whitney](https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Feeling Whitney](https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw) | 3:37 |
 | 79 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 |
-| 80 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
-| 81 | [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 |
+| 80 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 |
+| 81 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 82 | [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 |
-| 83 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 |
+| 83 | [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 |
 | 84 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 |
 | 85 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 |
 | 86 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [The Galway Girl](https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Galway Girl](https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr) | 4:25 |
 | 100 | [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 |
 
-Snapshot ID: `MCxhOWNiZWViZWJkZTQwZGI2ZmNhNTY1OGEzZGU3Yjk3ODIzN2Y5Njc5`
+Snapshot ID: `MCwyMWJlN2E3MWYwY2MyZDJhNDBiZTZhYmVhMjMwMTNiZDU0MGI0Mjky`

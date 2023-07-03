@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain]
 
 > This Is Agust D\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,051 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,877 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,24 +20,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain]
 | 10 | [Life Goes On](https://open.spotify.com/track/7gv3UYPh05ZDP7Io5BIsn7) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:17 |
 | 11 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 |
 | 12 | [Moonlight](https://open.spotify.com/track/1NuwEuQH7vbDLA9eg5TvEg) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 2:43 |
-| 13 | [Daechwita](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:45 |
+| 13 | [Daechwita](https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:45 |
 | 14 | [What do you think?](https://open.spotify.com/track/5dnT77AAQJcNYrqAod0jHQ) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:02 |
 | 15 | [Strange \(feat\. RM\)](https://open.spotify.com/track/5sF4GOOSRELn8zn6DDGzUP) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:16 |
-| 16 | [28 \(feat\. NiiHWA\)](https://open.spotify.com/track/3AqSBtredpPyT18rEYl1vK) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [NiiHWA](https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 2:13 |
-| 17 | [Burn It \(feat\. MAX\)](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:12 |
+| 16 | [28 \(feat\. NiiHWA\)](https://open.spotify.com/track/3pGNUEIlaUlCU8mXxKInzw) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [NiiHWA](https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 2:13 |
+| 17 | [Burn It \(feat\. MAX\)](https://open.spotify.com/track/2hX8rtWyNxYyaBT64H3LYU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:12 |
 | 18 | [People](https://open.spotify.com/track/6HDHaCnH2FCSdEwXrJfEVF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:17 |
-| 19 | [Honsool](https://open.spotify.com/track/5ErGQcHEA8ws2rVp3Xx06Z) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:39 |
+| 19 | [Honsool](https://open.spotify.com/track/2cSbuiICLgDR1GIQisS9Zf) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:39 |
 | 20 | [Interlude : Set me free](https://open.spotify.com/track/0lfJTv87NKrjyr0k7eueUR) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 2:20 |
-| 21 | [Dear my friend \(feat\. Kim Jong Wan of NELL\)](https://open.spotify.com/track/5lw1xIqEvmVdmnNzmv1KJf) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 4:52 |
+| 21 | [Dear my friend \(feat\. Kim Jong Wan of NELL\)](https://open.spotify.com/track/6lUjwGIRWdcowZJRZrpqEr) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 4:52 |
 | 22 | [Intro : DT sugA \(Feat\. DJ Friz\)](https://open.spotify.com/track/3GAz3o5o3lZGUOPUSPG8ul) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 1:04 |
 | 23 | [Agust D](https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 3:54 |
 | 24 | [give it to me](https://open.spotify.com/track/1m0yEldZVNu9SzmtqfFWRt) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 2:29 |
 | 25 | [skit](https://open.spotify.com/track/26HtJsUEt63fiyqvqBA1aN) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 1:14 |
 | 26 | [724148](https://open.spotify.com/track/7izWhevJMSFCtfDCFXQwjt) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 3:05 |
-| 27 | [140503 at Dawn](https://open.spotify.com/track/3i4XQx4K1g6Z0yFOzFk2Tu) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 1:24 |
+| 27 | [140503 at dawn](https://open.spotify.com/track/7KqWZhPNdkcYRqgDU1W7RX) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 1:24 |
 | 28 | [The Last](https://open.spotify.com/track/2FUZnIf0LasXgvXMewJ0lO) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 4:05 |
 | 29 | [Tony Montana \(Feat\. Yankie\)](https://open.spotify.com/track/041DRqg0jswhQut7PMjnrv) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 3:27 |
-| 30 | [Interlude\_dream, Reality](https://open.spotify.com/track/6p3GTNgwhXyeqBdzOoJQnj) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 1:32 |
+| 30 | [Interlude : Dream, Reality](https://open.spotify.com/track/3qujZM6hKzQ7UCzNFD9JFa) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 1:32 |
 | 31 | [so far away \(Feat\. SURAN\)](https://open.spotify.com/track/2FviiM1DSKfJSRxMV5TD9w) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 5:58 |
 
-Snapshot ID: `MCwwZGJlNDlmODUzYjhmYzE2MmVlNGJlOGRmN2M0NjFhNTc0OTY3Yjg2`
+Snapshot ID: `MCxjOWFkYjVkNzAyMTBhM2QzOTMzY2Y0N2I3OGI3Y2ZmM2VlNjhmOGE5`

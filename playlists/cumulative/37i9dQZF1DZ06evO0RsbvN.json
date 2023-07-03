@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 179040,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6RsdMKNawozhGqlP2i1IZu"
@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168546,
+      "name": "Big Feeling Blues",
+      "url": "https://open.spotify.com/track/4Hqbe7XPWxWpI4W9KJ5IzH"
+    },
+    {
+      "album": {
         "name": "Ma Rainey (1928)",
         "url": "https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 192933,
       "name": "Blame It on the Blues",
       "url": "https://open.spotify.com/track/13G6t9Khmca8xFiFewF0dB"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 189962,
       "name": "Cell Bound Blues",
       "url": "https://open.spotify.com/track/010eJqZ06RjsUCsOVbQWFP"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 173140,
       "name": "Don't Fish In My Sea",
       "url": "https://open.spotify.com/track/2hyu2pSSqC2AxKPc1k92pR"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 155373,
       "name": "Gone Daddy Blues",
       "url": "https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 186666,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/4fZa6B2pbUvMq3HvhBwB4t"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 168882,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/27ZSI8nnSugJzkqdWdzFoh"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 184093,
       "name": "Little Low Mama Blues",
       "url": "https://open.spotify.com/track/3Ksjkbl552uKeZiVRMAjIm"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 156290,
       "name": "Morning Hour",
       "url": "https://open.spotify.com/track/6eZVULNUFoTnZRjoXYpo36"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 191893,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/6cNzLYe4FzvCP32Wt8yEXC"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 157960,
       "name": "Shaveem Dry Blues",
       "url": "https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP"
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 163030,
       "name": "Stormy Sea Blues",
       "url": "https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 187853,
       "name": "Those All Night Blues",
       "url": "https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D"
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 185481,
       "name": "Those Dogs Of Mine",
       "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"

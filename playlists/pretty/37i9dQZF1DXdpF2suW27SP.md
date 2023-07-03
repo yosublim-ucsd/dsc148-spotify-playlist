@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Slow J entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,324 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,373 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 13 | [Anjos Não Falam](https://open.spotify.com/track/2l1txEhbWQ349PIo1LqPd1) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Anjos Não Falam](https://open.spotify.com/album/0C307IPUvlAySSqmddZENT) | 4:45 |
 | 14 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 | 15 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
-| 16 | [Lua](https://open.spotify.com/track/407Lr8uglW2I4pdrmVukwU) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/1imTEfm7By2slSw55cMJGq) | 3:29 |
+| 16 | [Lua \(feat\. Ivandro\)](https://open.spotify.com/track/407Lr8uglW2I4pdrmVukwU) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua \(feat\. Ivandro\)](https://open.spotify.com/album/1imTEfm7By2slSw55cMJGq) | 3:29 |
 | 17 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
 | 18 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 |
 | 19 | [Aguarela](https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Suprior](https://open.spotify.com/track/1u2KCIJPqtsl9Vz243FQtp) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Suprior](https://open.spotify.com/album/2NVz7NmPPqJuuG7D4W7VNW) | 2:39 |
 | 75 | [Relationships](https://open.spotify.com/track/2c6NTXscal2z9IdiaE6zTG) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Relationships](https://open.spotify.com/album/5CtrUKdY2on57OK5ScI9qq) | 3:05 |
 
-Snapshot ID: `MCwxMmRhYWQyMDcwZmRiZjdlZDU1ZGYxZWEwMmRhNGFjYzZlYzE1ZjVj`
+Snapshot ID: `MCwwMmMwYmRhYWZiN2QzOTI4NTMwYmEzMjhkNzVlODEwNmU2MDJhZTUy`

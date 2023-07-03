@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,935 likes - 30 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,962 likes - 30 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 22 | [Hayati](https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Sofia](https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN) | 4:53 |
 | 23 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
 | 24 | [Kahf Alkhulood](https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ) | [Narjahanam](https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy) | [Wa Ma Khufiya Kana A'atham](https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38) | 5:11 |
-| 25 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
-| 26 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
+| 25 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
+| 26 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
 | 27 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 |
 | 28 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 |
 | 29 | [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 |
 | 30 | [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 |
 
-Snapshot ID: `MCwxYzA3NjdmNDAxN2I4ZDBmZjE0MzljOGFmOGRkMTExOWY5NGVhMDBl`
+Snapshot ID: `MCwxYmY1MTUzNDFiYTMwYjAwNjkyYzZkOWQzN2YxMTRhZTMxODAzNDMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,022 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,060 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 60 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 |
 | 61 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 62 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 |
-| 63 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
-| 64 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [KAPPEKOFF](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
+| 63 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [KAPPEKOFF](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
+| 64 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
 | 65 | [Time](https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Time](https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik) | 3:04 |
 | 66 | [Undo \(Back To My Heart\)](https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 3:17 |
 | 67 | [So Bad \(feat\. HAIM\)](https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:36 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
 | 94 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
 
-Snapshot ID: `MCwzMTczNzRhOGY1YjMxMjk0YTNjY2EyMGI1NDY4NGI1OTEyMTAwOTVm`
+Snapshot ID: `MCwwZTBmNjliMzIxYzg0ZDBiZWZlYjEyMDI3ZjlkNGEwOTE3YzUyNzcx`

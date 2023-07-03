@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,139 likes - 74 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,201 likes - 74 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 71 | [Us Mano e as Mina \- 1999 Remasterizado](https://open.spotify.com/track/78PqlZRBZJcDRcYuUFXRy8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(1999 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:39 |
 | 72 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 |
 | 73 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
-| 74 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/1Rn7tUyMiTVxlu4H53cAzV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/67NEEqfjTcla2g5k9TP2rZ) | 4:01 |
+| 74 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/7yXhCLwFbj4L5WEhgX62L4) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Antes das 6:00, Pt\. 2 \(Bonus Track\)](https://open.spotify.com/album/5j7lUcfsGu9T4QHe6WCnkv) | 4:01 |
 
-Snapshot ID: `MCxiYmM4YTBkNDJjOWU1ZWVmZDBkNTM4NDA1YWQ5NWQyMThkYmQ2OGFh`
+Snapshot ID: `MCxkY2JmYzM2ZjYxMGFkZjc4OGNiNDFiNDUwYTgzZTFlNzZkZDAxMWMz`

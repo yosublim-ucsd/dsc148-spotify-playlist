@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,101 likes - 124 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,281 likes - 124 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 123 | [Posture \- Wolfgang Lohr Remix](https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv) | [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Posture \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy) | 3:56 |
 | 124 | [Keep On Smilin \- MNTRA Remix](https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8) | [MNTRA](https://open.spotify.com/artist/5F3sVzbqKv9DqQjt6gAXlM), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Keep On Smilin \(MNTRA Remix\)](https://open.spotify.com/album/5s9JzjKa3r30HRYvhQCwFF) | 4:26 |
 
-Snapshot ID: `MCxhNmUxNWFjODBmZWRjYmRjYjViNzAxNjY1YTAxYmFiNjhjY2E5NmY1`
+Snapshot ID: `MCxhYjAzZTdmZjVjOTlmM2RiNjI1MmFmNDlmNjUwZDBkZTg0NDliMzdm`

@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "Blue light",
       "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 225164,
       "name": "Emptyspace",
       "url": "https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR"
@@ -4790,6 +4790,24 @@
       "duration_ms": 186875,
       "name": "orange",
       "url": "https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb"
+    },
+    {
+      "album": {
+        "name": "outside of the house",
+        "url": "https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322886,
+      "name": "outside of the house",
+      "url": "https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2"
     },
     {
       "album": {
@@ -7962,7 +7980,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 164996,
       "name": "\u3069\u3053\u3078\u3082\u884c\u304b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7"

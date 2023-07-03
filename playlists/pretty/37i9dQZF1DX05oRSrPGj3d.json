@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 230687,
+  "num_followers": 230779,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk",
+  "snapshot_id": "MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Medicine Man",
-        "url": "https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 273035,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Love Me Instead",
         "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 181560,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
       },
       "artists": [
         {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1019,18 +1019,34 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Bury My Bones",
-        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 259851,
-      "name": "Bury My Bones",
-      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Humble Folks",
         "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+        "name": "Bury My Bones",
+        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 280000,
-      "name": "This Damn Song",
-      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
+      "duration_ms": 259851,
+      "name": "Bury My Bones",
+      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "West Textures",
+        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 226538,
       "name": "Life Without You",
       "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "West Textures",
-        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Ain't My Day",
         "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 201480,
       "name": "Ain't My Day",
       "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
     }
   ],
   "unique_name": "Heart Of Texas",

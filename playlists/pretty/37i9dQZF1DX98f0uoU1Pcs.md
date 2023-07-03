@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,924 likes - 115 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,975 likes - 115 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 5 | [Barley](https://open.spotify.com/track/27XmeyUl26m0KYMJx1Blsb) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Barley](https://open.spotify.com/album/52iaofjBnrsriZOMnzijkZ) | 3:29 |
 | 6 | [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 |
 | 7 | [Swing \(In A Dream\)](https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 4:29 |
-| 8 | [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 |
+| 8 | [Good Living Is Coming for You](https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 3:37 |
 | 9 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 |
 | 10 | [Muriel’s Big Day Off](https://open.spotify.com/track/0HaquMHIt2eWSBsDbgvuLt) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Muriel's Big Day Off](https://open.spotify.com/album/6tcGTqalMaJpbcOlHXfXhX) | 3:21 |
 | 11 | [Keys Down If You Stay](https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM) | 3:44 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 64 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 |
 | 65 | [Psychic Dance Routine](https://open.spotify.com/track/79jxS5Li1Xm8VfwmgUiAAC) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 2:49 |
 | 66 | [Separation Anxiety](https://open.spotify.com/track/5R1X7rGapWC8pF5g9s53Qw) | [Priors](https://open.spotify.com/artist/2MdxgHisT3R0aZuSjj0zag) | [Daffodil](https://open.spotify.com/album/6NvXJ5oOIZiQluoLVTMiIl) | 2:42 |
-| 67 | [Eraser](https://open.spotify.com/track/6EXZtoq47cnUTX8fr5NTmW) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Eraser](https://open.spotify.com/album/2Pal5mZmAYSDDAtQVHtehe) | 2:44 |
+| 67 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
 | 68 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 |
 | 69 | [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 |
 | 70 | [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 114 | [Impermanency](https://open.spotify.com/track/4Kd7lRXOO8jfvG9RpGvthk) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Impermanency](https://open.spotify.com/album/3MlXwaIdVPDOmtN7rpSRYV) | 3:07 |
 | 115 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 |
 
-Snapshot ID: `MCw4ZDIwYTE1MjY0YjkwZTc4N2NiZDM1YTFiMWI3ZmJlZjY3ODBjMDVi`
+Snapshot ID: `MCwxMmQ4MjI0ZmIwMTg4NWFjMzk5ZmFkYTMyYmMyYTRjNmVkYTFjYmNh`

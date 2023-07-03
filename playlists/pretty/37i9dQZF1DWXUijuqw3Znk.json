@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3404,
+  "num_followers": 3411,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjFkNmFiMGRlY2RiNDVlZGMzYTQ5YzM5YTkxMWQzZTZlYjMxNGNj",
+  "snapshot_id": "MCw0NTI5NDJjMzUyNTcyNTViNmM5ZTdiYTQ1MTI4MDhhNmQ3YzFlNTJh",
   "tracks": [
     {
       "added_at": "2023-06-13 07:36:25",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Unwanted Life",
+        "url": "https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 129896,
+      "name": "last day",
+      "url": "https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "grayground. 01",
         "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 228097,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "Unwanted Life",
-        "url": "https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 129896,
-      "name": "last day",
-      "url": "https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Show Me the Money 5 Episode 3",
-        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 261196,
-      "name": "Forever (Prod. By GRAY)",
-      "url": "https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Show Me the Money 5 Episode 3",
+        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 261196,
+      "name": "Forever (Prod. By GRAY)",
+      "url": "https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 224856,
-      "name": "Flow Away",
-      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "MARZ 2 AMBITION",
         "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 152921,
       "name": "TRUE (Prod. by Way Ched)",
       "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 224856,
+      "name": "Flow Away",
+      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 216428,
       "name": "SUPERNOVA (Feat. CHANGMO, GSoul & DUT2)",
       "url": "https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 240542,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 187893,
       "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
       "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 240542,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Independent Music",
-        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
-      },
-      "artists": [
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 242022,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Independent Music",
+        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
+      },
+      "artists": [
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "duration_ms": 242022,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 176244,
-      "name": "Genius (Behind the scene)",
-      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 254793,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 176244,
+      "name": "Genius (Behind the scene)",
+      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "SKANDALOUZ",
-        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
-      },
-      "artists": [
-        {
-          "name": "Los",
-          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Smile Now Cry Later",
-      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 410810,
       "name": "Something I can do",
       "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
     },
     {
       "added_at": "2023-06-13 07:36:25",

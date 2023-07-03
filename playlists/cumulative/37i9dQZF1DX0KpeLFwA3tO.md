@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Mayday Parade
 
-1,165 songs - 2 day 10 hr 2 min
+1,166 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,8 @@
 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-06-22 |  |
 | [Good Good Things](https://open.spotify.com/track/1igqqJxCF40NUJsSPqKnBo) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Good Good Things](https://open.spotify.com/album/2kaF0AbiP6zYunMH3Gf7e2) | 2:10 | 2023-04-07 | 2023-05-17 |
 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 | 2023-05-11 | 2023-06-02 |
-| [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 | 2023-06-29 |  |
+| [Good Living Is Coming for You](https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 3:37 | 2023-06-29 |  |
+| [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 | 2023-06-29 | 2023-07-03 |
 | [Good Person](https://open.spotify.com/track/0zokdflnTrx40zV8DqDtM8) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [The Punchline](https://open.spotify.com/album/7Ac7Kxa6wHOAu0A67w9NCB) | 3:01 | 2023-05-04 | 2023-06-30 |
 | [GOOFY!](https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GOOFY!](https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz) | 2:29 | 2022-05-12 | 2022-06-24 |
 | [Gorgeous Disaster \(with Kellin Quinn\)](https://open.spotify.com/track/0ywL6WN8yfduAdpspvZ2mw) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Gorgeous Disaster \(with Kellin Quinn\)](https://open.spotify.com/album/7iFubPKSOGh3Eb1eqf0Qau) | 3:29 | 2022-02-18 | 2022-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Nortec: Bostich + Fussible en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,599 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,604 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 23 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 |
 | 24 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
 | 25 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
-| 26 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 |
-| 27 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
+| 26 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
+| 27 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 |
 | 28 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 |
 | 29 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
 | 30 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 75 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
 | 76 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 
-Snapshot ID: `MCxlN2JiNWU5M2FhMjlkMmY5MTcxYWVjZmY4YjdhOWM4NTFjODEyMmQ3`
+Snapshot ID: `MCxjZGI2ZDMxODlmM2ZmYWE2NjYzODQ3NWViNDRmNDRjY2Q5YjNlOTc5`

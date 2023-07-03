@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,388 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,543 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 34 | [Erga'aly](https://open.spotify.com/track/7fhtTFiFHbssNu77aD1ttG) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 3:50 |
 | 35 | [Oddam El Nas](https://open.spotify.com/track/2z1J38i6dM0v535hiwb3Y8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:47 |
 | 36 | [Ajmal Ihssas](https://open.spotify.com/track/2VHp98YYcFKrAy09IaiXN2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 5:56 |
-| 37 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 |
-| 38 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 |
+| 37 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 |
+| 38 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 |
 | 39 | [Habiby Da](https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Da](https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt) | 4:27 |
 | 40 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 |
-| 41 | [Betewhasheiny](https://open.spotify.com/track/0BPqBuNdkz210zBh9AbC4m) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Tewedny Leih](https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7) | 4:48 |
-| 42 | [Ana Mosammem](https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Wo Malna](https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER) | 5:23 |
+| 41 | [Ana Mosammem](https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Wo Malna](https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER) | 5:23 |
+| 42 | [Betewhasheiny](https://open.spotify.com/track/0BPqBuNdkz210zBh9AbC4m) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Tewedny Leih](https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7) | 4:48 |
 | 43 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 |
 | 44 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 |
 | 45 | [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 |
 | 46 | [Bahebak](https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Bahebak](https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW) | 3:26 |
 | 47 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 |
 | 48 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 |
-| 49 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 |
-| 50 | [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 |
+| 49 | [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 |
+| 50 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 |
 
-Snapshot ID: `MCwxNzUxYWE5ZWFjNmE1YWJlNzA0NzZkODY5Nzc4ZjNhNjI0YzA5NDMw`
+Snapshot ID: `MCxmM2ExZGQxN2IyZDZlZDI3YmRmZTBjNjI4MDYzYzQ4OTljOTUxNzYw`

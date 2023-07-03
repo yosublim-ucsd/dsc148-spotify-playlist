@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254160,
+      "name": "Henny & Gingerale - Bonus Track",
+      "url": "https://open.spotify.com/track/22WRYBnzXfM9g7uNd5w79q"
+    },
+    {
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -5646,7 +5664,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 269173,
       "name": "Turnin' Me Up",
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Chris Jedi, YOVNGCHIMI & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,138 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,119 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 38 | [La 2blea](https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [La 2blea](https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76) | 5:25 |
 | 39 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
 | 40 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
-| 41 | [Dame Luz](https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 3:47 |
+| 41 | [Trending](https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:02 |
 | 42 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 |
-| 43 | [Trending](https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:02 |
+| 43 | [Dame Luz](https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 3:47 |
 | 44 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 45 | [QSY](https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:39 |
 | 46 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 49 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
 | 50 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 |
 
-Snapshot ID: `MCxkZjE4MDkwMjk3NDEwMTg1OGEzZjg1YmYwZjBmYTIxM2JiMzFkNmRh`
+Snapshot ID: `MCw3ZTdjMGE2ZWJhOWM5NjA4OTg0MTA1N2UyMDVlMTY1YzgzNThhOGEz`

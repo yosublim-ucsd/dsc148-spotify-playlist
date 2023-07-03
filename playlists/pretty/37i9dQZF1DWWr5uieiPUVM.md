@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Ryu, the Runner, Leviano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,452 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,151 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 |
 | 50 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
 
-Snapshot ID: `MCwyM2ZhMWE1ZTA0MjA5NDkyZGRjM2NmOTIzMDg3NzUzMzk4MDY2Y2Zl`
+Snapshot ID: `MCw3NDU3NzQ0MGY5YTNjZDJiODZlNWJmNjViYzQwMGZlMDE3NDU3MDE1`

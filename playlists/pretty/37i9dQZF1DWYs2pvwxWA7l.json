@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP?si=CfgMhWd0Q0ubZw2dxpCjHA\"> SPINALL </a> and <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=WvF-KSEZQhWAS-DKCN1pMQ\"> WizKid</a> ",
-  "num_followers": 481945,
+  "num_followers": 482286,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTIzYzkyY2NkNjkwZGIyYzk0MDJiNWU0NGIyNmYyYmM5ZTc1NDA3",
+  "snapshot_id": "MCxjNzI2ZDE0MGExZTBkMWVmZjNkOTI2NWFkMDY5OTY5MjgzNTU0NTIx",
   "tracks": [
     {
       "added_at": "2023-06-30 05:57:34",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-06-30 05:57:34",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2023-06-30 05:57:34",
+      "album": {
         "name": "Do You Mind?",
         "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 159680,
       "name": "Reckless & Sweet",
       "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
-    },
-    {
-      "added_at": "2023-06-30 05:57:34",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2023-06-30 05:57:34",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-06-30 05:57:34",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+      "duration_ms": 176720,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
     },
     {
       "added_at": "2023-06-30 05:57:34",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-06-30 05:57:34",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 176720,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
       "added_at": "2023-06-30 05:57:34",

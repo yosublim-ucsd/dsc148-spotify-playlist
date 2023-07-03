@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 207835,
       "name": "Aye (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
@@ -2932,7 +2932,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -7538,7 +7538,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 216703,
       "name": "Endless Fashion (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
@@ -8606,7 +8606,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 317178,
       "name": "Forever Yena 2.0",
       "url": "https://open.spotify.com/track/0GdL8auv7mZFQVoSe04wFw"
@@ -13236,7 +13236,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 323423,
       "name": "Johnny ke Johnny (feat. Papi_SA)",
       "url": "https://open.spotify.com/track/1vBqDhQhSlwr8rgIWTpCWT"
@@ -14530,7 +14530,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -16229,6 +16229,32 @@
     },
     {
       "album": {
+        "name": "Malume (Nta Swi Byela Mani Revisit)",
+        "url": "https://open.spotify.com/album/6lmPvjVFVe9K1Q3NMTNHkz"
+      },
+      "artists": [
+        {
+          "name": "Elvirgo",
+          "url": "https://open.spotify.com/artist/1gj73tTSgIEMqveg9QsO4c"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
+        {
+          "name": "TallexQ",
+          "url": "https://open.spotify.com/artist/7dlrsjt50VftIVkYahlIio"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273640,
+      "name": "Malume (Nta Swi Byela Mani Revisit)",
+      "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
+    },
+    {
+      "album": {
         "name": "Malume (Nta swi byela mani revisit)",
         "url": "https://open.spotify.com/album/2tQC1g81pPTMCJ3AqCrj3V"
       },
@@ -17276,7 +17302,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 427160,
       "name": "Mohigan Sun",
       "url": "https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1"
@@ -25366,7 +25392,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 259079,
       "name": "Suicide Doors",
       "url": "https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb"
@@ -27086,7 +27112,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 407820,
       "name": "Tobetsa Remake (feat. Focalistic, Daliwonga, ShaunMusiq & Ftears)",
       "url": "https://open.spotify.com/track/5ZDw1sqZQDlC5aV7ir6kkN"
@@ -28892,7 +28918,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"

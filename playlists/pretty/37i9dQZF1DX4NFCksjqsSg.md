@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,551 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,558 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 38 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
 | 39 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
 | 40 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
-| 41 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
-| 42 | [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
+| 41 | [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
+| 42 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
 | 43 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
 | 44 | [Que je t'aime](https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Mes succès francophones 1](https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO) | 3:57 |
 | 45 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
 | 75 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
 
-Snapshot ID: `MCxjODI1ZDU0ZmU4YTU0OTg2NWFkNzEzNDZjNTEyZjc5NGRhMjk2N2Nk`
+Snapshot ID: `MCw0YzExNWM3NzE4ZWM3YzdlN2M1NDQ3YjAyOTFhY2U1YTMxMThiMjBj`

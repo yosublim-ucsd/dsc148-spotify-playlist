@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 38779,
+  "num_followers": 38815,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDlkNThlYjIzYTQ5NTU2NzkxMGM1ZGQ2MWJlMGY5NTY3ODE4YjUy",
+  "snapshot_id": "MCw4NDIyMmU0M2VkZDk4MTVmZmY5NTJhNTU0YTlkZDY3YjM5MDRhZTBm",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "In the Days of our Love",
+        "url": "https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "duration_ms": 220019,
+      "name": "In the Days of our Love",
+      "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Withered Flowers",
         "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 200626,
       "name": "Warm Valley",
       "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "In the Days of our Love",
-        "url": "https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0"
-      },
-      "artists": [
-        {
-          "name": "Newington Green",
-          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
-        }
-      ],
-      "duration_ms": 220019,
-      "name": "In the Days of our Love",
-      "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Moon Mist",
         "url": "https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Kept running",
-        "url": "https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt"
-      },
-      "artists": [
-        {
-          "name": "Ben Lively",
-          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
-        }
-      ],
-      "duration_ms": 164928,
-      "name": "Kept running",
-      "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Stan Getz Plays (Clef Records LPR)",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 195480,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Kept running",
+        "url": "https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "duration_ms": 164928,
+      "name": "Kept running",
+      "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Into The Silence",
+        "url": "https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        }
+      ],
+      "duration_ms": 558493,
+      "name": "Life And Death",
+      "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Blues and Ballads",
         "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
       },
@@ -1055,18 +1071,34 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Into The Silence",
-        "url": "https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD"
+        "name": "Hodges: Front and Center, Vol. 1",
+        "url": "https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv"
       },
       "artists": [
         {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
         }
       ],
-      "duration_ms": 558493,
-      "name": "Life And Death",
-      "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
+      "duration_ms": 253106,
+      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
+      "url": "https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1095,34 +1127,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+        "name": "The Melody At Night, With You",
+        "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Familiar Places",
-        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
-      },
-      "artists": [
-        {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
-        }
-      ],
-      "duration_ms": 287323,
-      "name": "It's Beginning To Rain Again",
-      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+      "duration_ms": 426000,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "The Melody At Night, With You",
-        "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
+        "name": "Familiar Places",
+        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
         }
       ],
-      "duration_ms": 426000,
-      "name": "I Got It Bad And That Ain't Good",
-      "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
+      "duration_ms": 287323,
+      "name": "It's Beginning To Rain Again",
+      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 202802,
       "name": "Morning Thoughts",
       "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Hodges: Front and Center, Vol. 1",
-        "url": "https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv"
-      },
-      "artists": [
-        {
-          "name": "Owen Broder",
-          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
-      "url": "https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 790920,
-      "name": "I've Been Here Before - Special Edition",
-      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "The Now",
         "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 302640,
       "name": "The Wind In The Night",
       "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 790920,
+      "name": "I've Been Here Before - Special Edition",
+      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "I wish I did",
+        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 203175,
+      "name": "I wish I did",
+      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/16DXtVUqhsqxJvnqrDXmwt"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "I wish I did",
-        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 203175,
-      "name": "I wish I did",
-      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Gnostic",
         "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 216614,
       "name": "Gnostic",
       "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Correlations",
-        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
-      },
-      "artists": [
-        {
-          "name": "Steve Davis",
-          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 329920,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Correlations",
+        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
+      },
+      "artists": [
+        {
+          "name": "Steve Davis",
+          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
     },
     {
       "added_at": "2023-06-22 22:01:00",

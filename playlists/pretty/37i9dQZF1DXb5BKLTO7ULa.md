@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,439 likes - 94 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,468 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
 | 90 | [T.O.M.L.](https://open.spotify.com/track/1xEV1IkGP459XC4O8B3YxB) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4), [Ro Will](https://open.spotify.com/artist/22fIz1vTVPpWWXSHZ636CR) | [No Energy](https://open.spotify.com/album/0dwmVAG2ezHDxCqPHRyeuQ) | 3:20 |
 | 91 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 |
-| 92 | [Ik Weiger](https://open.spotify.com/track/3o0MvXQlFyY07F8r9M7FzL) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2Oa3ovQflK45RsMhudj6wc) | 3:22 |
+| 92 | [Ik Weiger](https://open.spotify.com/track/5olck2evblr8c3a8Avky6Z) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Ik Weiger](https://open.spotify.com/album/2gqyTNQcnXa7tkUiArmI8D) | 4:06 |
 | 93 | [Etienne](https://open.spotify.com/track/3uhaVDabBBFXHcdKVm57aR) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa) | [Etienne](https://open.spotify.com/album/1mReRklqd4z6MYzngDnjMP) | 3:09 |
 | 94 | [Rien à perdre](https://open.spotify.com/track/2kBXCPcBoyn6FRwjdjjSAF) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Rien à perdre](https://open.spotify.com/album/2wTbK1Gte1OvYowsrFhkJs) | 3:40 |
 
-Snapshot ID: `MCxiMTI1NzllODdlMzZiYzc4NmVhNzEwZDQ1MWI3N2FkMGY1MDI2NTIx`
+Snapshot ID: `MCxjZDUwMTMzOTNkNzNlNWQ4M2ViM2U1Y2MxYTFiMDY3MDRiNzBlY2Jm`

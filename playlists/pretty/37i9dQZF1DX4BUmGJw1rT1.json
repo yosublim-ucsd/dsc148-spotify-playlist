@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 58089,
+  "num_followers": 58191,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGY5NTVmMzA0MGQzZjEwY2FlZjI1YWIyMmNkNmEyYjcwNjNhMTVk",
+  "snapshot_id": "MCxhMWQ3YzNkMWU3YzQ4OGQ0NTQ0NDE3MWI5M2RhZTgzY2U1OWNiODZi",
   "tracks": [
     {
       "added_at": "2023-06-16 14:15:43",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 264811,
-      "name": "Believe These Blues",
-      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Fighting for Peace",
         "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 202058,
       "name": "Fighting for Peace",
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 264811,
+      "name": "Believe These Blues",
+      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 251360,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
-      },
-      "artists": [
-        {
-          "name": "solace",
-          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -839,38 +839,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 252607,
-      "name": "Remember The Time",
-      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "River",
-      "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "John Lyons Band",
         "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 438204,
       "name": "Lonely Fool",
       "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "River",
+      "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
-      },
-      "artists": [
-        {
-          "name": "Soulmate",
-          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
-        }
-      ],
-      "duration_ms": 295346,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "Sunny Side Up",
         "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 265640,
       "name": "No Other Way",
       "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+      },
+      "artists": [
+        {
+          "name": "Soulmate",
+          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+        }
+      ],
+      "duration_ms": 295346,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "I Got Your Love",
         "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 133777,
       "name": "I Got Your Love",
       "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "I Shouldn\u2019t Care (Bonus Track)",
-        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "I Shouldn't Care - Bonus Track",
-      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
-    },
-    {
-      "added_at": "2023-06-16 14:15:43",
-      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 290453,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2023-06-16 14:15:43",
+      "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Tempting Fate",
-        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
       "artists": [
         {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Fortunate Few",
-      "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
+      "duration_ms": 381893,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
     },
     {
       "added_at": "2023-06-16 14:15:43",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-06-16 14:15:43",
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+        "name": "Tempting Fate",
+        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
         }
       ],
-      "duration_ms": 381893,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+      "duration_ms": 205333,
+      "name": "Fortunate Few",
+      "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
     },
     {
       "added_at": "2023-06-16 14:15:43",

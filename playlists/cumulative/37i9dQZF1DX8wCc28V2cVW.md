@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-214 songs - 12 hr 38 min
+215 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Calling for Rain](https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L) | [Neo Liu](https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6), [Tu Hua Bing](https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 3:40 | 2023-06-08 |  |
 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 | 2023-06-08 |  |
 | [Chocobo Theme](https://open.spotify.com/track/2Kqcwc0MlYkB53OJHZCbfq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY II Original Soundtrack](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) | 0:24 | 2021-05-21 | 2023-06-09 |
+| [Crazy Chocobo](https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN) | [ShootieHG](https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:55 | 2023-06-25 |  |
 | [CRISIS CORE Theme \- Succession](https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 0:43 | 2023-06-08 |  |
 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 | 2023-06-08 |  |
 | [DUEL!!](https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:50 | 2023-06-09 |  |
@@ -169,7 +170,7 @@
 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 | 2021-05-21 | 2023-06-09 |
 | [Why \(CCFFVII Mix\)](https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 2:15 | 2023-06-08 |  |
 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 | 2023-06-08 |  |
-| [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 | 2023-06-08 |  |
+| [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 | 2023-06-08 | 2023-07-03 |
 | [Zanarkand](https://open.spotify.com/track/5NP9bhvIp2XGY3Xl0ICAub) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:04 | 2021-05-21 |  |
 | [「A Brief Respite」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/4rAlkpLQOA7rPKKKsqdSrN) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 0:54 | 2023-06-08 |  |
 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 | 2023-06-08 |  |

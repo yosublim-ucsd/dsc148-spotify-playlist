@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 118604,
       "name": "Bird-watching",
       "url": "https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 137017,
       "name": "Calming River and Birds",
       "url": "https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk"
@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Cuckoo & Other Birds",
+        "url": "https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb"
+      },
+      "artists": [
+        {
+          "name": "Drakir Nature",
+          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208409,
+      "name": "Cuckoo & Other Birds",
+      "url": "https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9"
+    },
+    {
+      "album": {
         "name": "Early Bird Sound",
         "url": "https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 141954,
       "name": "Early Bird Sound",
       "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
+    },
+    {
+      "album": {
+        "name": "The Forest",
+        "url": "https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD"
+      },
+      "artists": [
+        {
+          "name": "Aire Vega",
+          "url": "https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157671,
+      "name": "Early Birds Light Wind",
+      "url": "https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ"
     },
     {
       "album": {

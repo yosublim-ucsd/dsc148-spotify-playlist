@@ -261,6 +261,32 @@
     },
     {
       "album": {
+        "name": "Dub Side Of Etana",
+        "url": "https://open.spotify.com/album/7L9ugvoprZ9Om4AAlFKDcL"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        },
+        {
+          "name": "Kemar Mcgregor",
+          "url": "https://open.spotify.com/artist/0G5z52KM4U0E3I7JruO9o5"
+        },
+        {
+          "name": "Stephan Warren",
+          "url": "https://open.spotify.com/artist/0MBBDSlyevJqzNA1KdbakM"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239153,
+      "name": "Faithful - Dub",
+      "url": "https://open.spotify.com/track/3LpLz6kX8UFRdPOCpkmiYo"
+    },
+    {
+      "album": {
         "name": "Hail H.I.M",
         "url": "https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg"
       },
@@ -726,7 +752,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 239153,
       "name": "Loving You In Dub",
       "url": "https://open.spotify.com/track/7GrE7TxZgCqYL2jSAiia5h"

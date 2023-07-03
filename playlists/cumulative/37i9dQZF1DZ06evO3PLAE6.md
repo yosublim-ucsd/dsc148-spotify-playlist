@@ -4,7 +4,7 @@
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 53 min
+51 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Beautiful Mess](https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:14 | 2023-06-17 |  |
 | [Better Be Home Soon](https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Surrender](https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4) | 3:19 | 2023-06-17 |  |
 | [Bittersweet](https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Bittersweet](https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj) | 4:00 | 2023-06-17 |  |
+| [Black Bess](https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Cannot Buy My Soul: The Songs Of Kev Carmody \(2020 Edition\)](https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ) | 3:49 | 2023-07-02 |  |
 | [Bluebird](https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:05 | 2023-06-17 |  |
 | [Cry Like A Baby](https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:00 | 2023-06-17 |  |
 | [F U Cancer](https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG), [Lyn Bowtell](https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH), [Wesley Dean](https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI), [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [F U Cancer](https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA) | 2:50 | 2023-06-17 |  |
@@ -41,7 +42,7 @@
 | [Runaway Train](https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:25 | 2023-06-17 |  |
 | [Satellite](https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:41 | 2023-06-17 |  |
 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 | 2023-06-17 |  |
-| [Saturday Night \(Speckles Of Light\)](https://open.spotify.com/track/5sYlg1stKUfVaOAjnBNPkE) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Everyday Amen](https://open.spotify.com/album/2EVfi6XfZjOuH0ovIXP0MY) | 4:43 | 2023-06-27 |  |
+| [Saturday Night \(Speckles Of Light\)](https://open.spotify.com/track/5sYlg1stKUfVaOAjnBNPkE) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Everyday Amen](https://open.spotify.com/album/2EVfi6XfZjOuH0ovIXP0MY) | 4:43 | 2023-06-27 | 2023-07-03 |
 | [Sleeping Cold](https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:55 | 2023-06-17 |  |
 | [Someone Like Me](https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 4:09 | 2023-06-17 |  |
 | [Sweetest Waste Of Time](https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:57 | 2023-06-17 |  |

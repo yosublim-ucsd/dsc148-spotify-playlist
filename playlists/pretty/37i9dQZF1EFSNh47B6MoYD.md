@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7wWrueTstelQP0y8hwigaI">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 148 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 148 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 4 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
 | 5 | [Cinco Minutos](https://open.spotify.com/track/44LkNS92E9gVfS3KCCgk5R) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli) | 3:27 |
 | 6 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
-| 7 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 |
+| 7 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/7nM8RogwZZNccdcAh3aHmX) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 4:17 |
 | 8 | [Despacito](https://open.spotify.com/track/6OIFsi2ov9nSjRrnJWVZIM) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Let There Be Cello](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F) | 2:27 |
 | 9 | [Ataúd](https://open.spotify.com/track/4IqL5iKWFXd6h37VQgGJgd) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Ataúd](https://open.spotify.com/album/49DdpNVtmfHiFXPXzjmYCI) | 3:38 |
 | 10 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 100 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4rkr5Irpn5fRwwkgGSiGdl) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:18 |
 | 101 | [In the Middle](https://open.spotify.com/track/2yUp50Sl8f1UXvv8Zcbdf1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 4:00 |
 | 102 | [Até Logo](https://open.spotify.com/track/1hpjQuIkO2RngRODzaPQuT) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 3:54 |
-| 103 | [Amor Intermitente](https://open.spotify.com/track/1y2O85jcjOw22kYt1uRDSE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:59 |
-| 104 | [Siembro Mi Vida](https://open.spotify.com/track/4y6oqAgr6EsHHim3Ksyym5) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 2:29 |
+| 103 | [Siembro Mi Vida](https://open.spotify.com/track/4y6oqAgr6EsHHim3Ksyym5) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 2:29 |
+| 104 | [Amor Intermitente](https://open.spotify.com/track/1y2O85jcjOw22kYt1uRDSE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:59 |
 | 105 | [Somos Panamá](https://open.spotify.com/track/6h0h3gP5pNvoRv0MFGtIcW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:02 |
 | 106 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 |
 | 107 | [En Exclusiva](https://open.spotify.com/track/2DjMvChCKP3nOoQ9VlKcxW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:26 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 147 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 
-Snapshot ID: `MjgxMzc3MjAsMDAwMDAwMDAzZjRlZjQ0NGI3N2JiNzAwN2VjMDJlNWE1OTk4OTAyOQ==`
+Snapshot ID: `MjgxMzkxNjAsMDAwMDAwMDBlNDhlZGZkZjM0NDU4NTIxYWUwYWNlZGQ2ODA4YzhlYw==`

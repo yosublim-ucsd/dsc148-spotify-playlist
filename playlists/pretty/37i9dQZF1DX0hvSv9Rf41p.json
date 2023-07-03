@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Zeds Dead & Hamdi.",
-  "num_followers": 969897,
+  "num_followers": 969912,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzk3NTJhNGQ0YzZiNjM0Zjk3MTliMDBjYTc2M2E5ZDNmNWVlN2Vm",
+  "snapshot_id": "MCw4NjE0ZTlmZWYyMDEwMjkzYzg2MWY5NzcyZGIxNWNhMzI0YzE3ZGY4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -795,22 +795,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Name Drop",
-        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
+        "name": "SAXORiDDiM",
+        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Name Drop",
-      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
+      "duration_ms": 188571,
+      "name": "SAXORiDDiM",
+      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "SAXORiDDiM",
-        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+        "name": "Name Drop",
+        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         }
       ],
-      "duration_ms": 188571,
-      "name": "SAXORiDDiM",
-      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
+      "duration_ms": 228800,
+      "name": "Name Drop",
+      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Titans",
-        "url": "https://open.spotify.com/album/38xBUUJlE6GW09Z0C1wadu"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Titans",
-      "url": "https://open.spotify.com/track/0StQdn3iO5vdHFH8ZR6Cuo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Escape (Subtronics Remix)",
         "url": "https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 160500,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Titans",
+        "url": "https://open.spotify.com/album/38xBUUJlE6GW09Z0C1wadu"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/0StQdn3iO5vdHFH8ZR6Cuo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hyperdrive",
-        "url": "https://open.spotify.com/album/07oOBedaL4K63cb5yfu6tl"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Benda",
-          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
-        }
-      ],
-      "duration_ms": 189342,
-      "name": "Hyperdrive",
-      "url": "https://open.spotify.com/track/0MAz9ic5HYosDQIjdKUDjX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Party Jumpin'",
         "url": "https://open.spotify.com/album/2OCsxR71jK4ONRHTMacXRg"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 155555,
       "name": "Party Jumpin'",
       "url": "https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Hyperdrive",
+        "url": "https://open.spotify.com/album/07oOBedaL4K63cb5yfu6tl"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        }
+      ],
+      "duration_ms": 189342,
+      "name": "Hyperdrive",
+      "url": "https://open.spotify.com/track/0MAz9ic5HYosDQIjdKUDjX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7studplTabJKP4R2wdVs5b"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/0wKu5WLVVfwANu0GJGSUja"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Sable Valley Summer Vol. 3",
         "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 196800,
       "name": "DON'T LOOK DOWN (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/5rIpzFDp0sYDCQytYDG96W"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/7studplTabJKP4R2wdVs5b"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/0wKu5WLVVfwANu0GJGSUja"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Every Time (feat. So Below)",
-        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "So Below",
-          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
-        }
-      ],
-      "duration_ms": 342008,
-      "name": "Every Time (feat. So Below)",
-      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 285616,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Every Time (feat. So Below)",
+        "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "So Below",
+          "url": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
+        }
+      ],
+      "duration_ms": 342008,
+      "name": "Every Time (feat. So Below)",
+      "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1935,30 +1935,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
@@ -2007,6 +1983,30 @@
       "duration_ms": 172857,
       "name": "Space Candy",
       "url": "https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Skydive",
         "url": "https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC"
       },
@@ -2115,18 +2099,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 01",
-        "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 175135,
-      "name": "ACHROMATIC (YOI)",
-      "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2151,6 +2135,22 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "MIDHEAVEN: OPUS 01",
+        "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "ACHROMATIC (YOI)",
+      "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2255,26 +2255,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "When I'm Gone (NGHTMRE Remix)",
-        "url": "https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg"
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
       },
       "artists": [
         {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
         },
         {
-          "name": "XAELO",
-          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
         }
       ],
-      "duration_ms": 222400,
-      "name": "When I'm Gone - NGHTMRE Remix",
-      "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
+      "duration_ms": 198400,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2295,22 +2291,6 @@
       "duration_ms": 250276,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/2faxG5bQqAHDPhM4bPACvC"
-      },
-      "artists": [
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2339,22 +2319,42 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
+        "name": "When I'm Gone (NGHTMRE Remix)",
+        "url": "https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg"
       },
       "artists": [
         {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
         },
         {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+          "name": "XAELO",
+          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
+      "duration_ms": 222400,
+      "name": "When I'm Gone - NGHTMRE Remix",
+      "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/2faxG5bQqAHDPhM4bPACvC"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2475,18 +2475,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
         }
       ],
-      "duration_ms": 153160,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2511,22 +2515,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "EMBRACE",
-        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
       },
       "artists": [
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Within The Boundaries",
-      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+      "duration_ms": 153160,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Post-Rave Heist",
-        "url": "https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m"
-      },
-      "artists": [
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        }
-      ],
-      "duration_ms": 192009,
-      "name": "Post-Rave Heist",
-      "url": "https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Follow You Home",
         "url": "https://open.spotify.com/album/4LNlOLPYFoaoW2qpgKzD0K"
       },
@@ -2591,6 +2571,26 @@
       "duration_ms": 262173,
       "name": "Follow You Home",
       "url": "https://open.spotify.com/track/3RaXvdP3mefcmxvBGm0rzI"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Post-Rave Heist",
+        "url": "https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        }
+      ],
+      "duration_ms": 192009,
+      "name": "Post-Rave Heist",
+      "url": "https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2783,6 +2783,30 @@
       "duration_ms": 188800,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Mindstate",
+        "url": "https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 252399,
+      "name": "Mindstate",
+      "url": "https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -3003,30 +3027,6 @@
       "duration_ms": 224000,
       "name": "HEAVENS DOOR",
       "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "La Puta Ama (EDDIE Remix)",
-        "url": "https://open.spotify.com/album/4keLA18A4X5cJ3wTbDC2kI"
-      },
-      "artists": [
-        {
-          "name": "The Funk Hunters",
-          "url": "https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut"
-        },
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "La Puta Ama (EDDIE Remix)",
-      "url": "https://open.spotify.com/track/5NQqC3ksi3gBo0s2G9qhIL"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,945 likes - 93 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,060 likes - 93 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 8 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 |
 | 9 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 |
 | 10 | [Agalma II](https://open.spotify.com/track/4CUnyDvcvygDhS0T5XXoA4) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 5:04 |
-| 11 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 |
+| 11 | [Mind Control](https://open.spotify.com/track/4HSLPlVJBKKD0e6v3wrMNJ) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/7kcV8TW3tkiXJhlwJStE39) | 5:07 |
 | 12 | [The Answer](https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 4:09 |
 | 13 | [Everything Is Energy](https://open.spotify.com/track/5ntf4sjrfteE8gNVYxoatV) | [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Inception](https://open.spotify.com/album/0mwFSrY1aCKzeJMlX3CyNe) | 5:49 |
 | 14 | [My City's On Fire \- Anyma & Cassian Remix](https://open.spotify.com/track/5ncvfF5zykGdBMsfOKGkhi) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [My City's On Fire \(Anyma & Cassian Remix\)](https://open.spotify.com/album/2YL3vvVlPJlUNG1RaAzYzQ) | 3:19 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 92 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 |
 | 93 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 
-Snapshot ID: `MCwwY2UxZDY2OTI2MTY5ZWUyNDAyMzJlNzBmODk1ODRhNzM2N2ZhM2E3`
+Snapshot ID: `MCw1YzcyZDdiYjA1YTQwOTk3NmNmZWQyYmU5MWExMTVhMzU4YzYyNDI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Nathan Dawe, Joel Corry & Ella Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,368 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,382 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 |
 | 40 | [Fall In Love](https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summerpack](https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB) | 2:55 |
 
-Snapshot ID: `MCw2MDBhNGI0ODFlMTkwM2EzODQwNGZkNWU0Y2Y3ODI2ZjFkMTYwNWEw`
+Snapshot ID: `MCxmYmMyYTQwYzAyNGMzNzQ5ZmM2OGI4MDQ4NjZkYjVlYjI2ZjRlMTc1`

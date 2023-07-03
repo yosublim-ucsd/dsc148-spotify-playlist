@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Maluma",
-  "num_followers": 596649,
+  "num_followers": 596753,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmYxNTRiZWQ5MWJlNWM4OTRlN2YyZWI5ODQyZjBjNWRiYmE5NzEz",
+  "snapshot_id": "MCw4MzcxNzllZWQ3ZWE0YWE1YzIzYzk5N2VjYzc5YWUzMWRhNThlNmNm",
   "tracks": [
     {
       "added_at": "2023-06-16 04:33:26",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Te Espero",
-        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246850,
-      "name": "Te Espero",
-      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Te Espero",
+        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246850,
+      "name": "Te Espero",
+      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -499,26 +499,18 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Si Te Preguntan...",
-        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 223073,
-      "name": "Si Te Preguntan...",
-      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -539,18 +531,26 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+        "name": "Si Te Preguntan...",
+        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+      "duration_ms": 223073,
+      "name": "Si Te Preguntan...",
+      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -607,18 +607,22 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -699,8 +703,24 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
       "artists": [
         {
@@ -708,13 +728,13 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+      "duration_ms": 225386,
+      "name": "Canalla",
+      "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -839,26 +859,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Canalla",
-      "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Dividimos",
         "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -983,6 +963,26 @@
       "duration_ms": 218865,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+        "name": "Si Tu Te Atreves",
+        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
       },
       "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
         {
           "name": "Daniela Darcourt",
           "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 229945,
-      "name": "Con Mi Amiga",
-      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
+      "duration_ms": 226821,
+      "name": "Si Tu Te Atreves",
+      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Si Tu Te Atreves",
-        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
       },
       "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
         {
           "name": "Daniela Darcourt",
           "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 226821,
-      "name": "Si Tu Te Atreves",
-      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
+      "duration_ms": 229945,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Cuando Te Toco",
-        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "Cuando Te Toco",
-      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Las Puertas del Cielo",
         "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 232803,
       "name": "Las Puertas del Cielo",
       "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "added_at": "2023-06-16 04:33:26",

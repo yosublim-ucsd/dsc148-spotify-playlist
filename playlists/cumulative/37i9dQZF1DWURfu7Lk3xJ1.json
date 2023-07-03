@@ -4834,10 +4834,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 157090,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/2ExnWi1Kvb7KleWA941sfT"
+    },
+    {
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6prPy3hzJOGyxB4r3x3xLB"
+      },
+      "artists": [
+        {
+          "name": "B dom",
+          "url": "https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157091,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/543bYxQoIihCKDh6ILzQvc"
     },
     {
       "album": {

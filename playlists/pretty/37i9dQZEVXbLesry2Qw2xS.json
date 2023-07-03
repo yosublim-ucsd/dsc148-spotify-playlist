@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Estonia.",
-  "num_followers": 17802,
+  "num_followers": 17808,
   "original_name": "Top 50 - Estonia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQxNTc4NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQxNjY0ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "leekiv armastus",
         "url": "https://open.spotify.com/album/12kK2J0RSiFjgcNyQzG3bF"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "k\u00f5rvetab / kallab",
         "url": "https://open.spotify.com/album/20egrE0c1WlTifi75xBbe3"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7KgxiaRk8eshwZ7ThsJFoG"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "\u00c4ra \u00c4rata",
         "url": "https://open.spotify.com/album/46B9iiG4AkdE7EwJVAIxn5"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6ZMDwqvyv7rR1rlFXJs1Ro"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "duubel5-v2.mp3",
         "url": "https://open.spotify.com/album/6SV6ze9FYHH1qSVCljrGqz"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/71xR5xqbuaMbxlrChk07g9"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -149,23 +133,23 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "duration_ms": 192727,
-      "name": "Flooded The Face",
-      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "kastehein",
         "url": "https://open.spotify.com/album/6srIq0x7EQ9ZhsdF8ic4n8"
@@ -181,7 +165,7 @@
       "url": "https://open.spotify.com/track/41XLcwECxYj7tokaF2a7sA"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "M\u00f5tled mu peale",
         "url": "https://open.spotify.com/album/2Ucjt6nwah1AleWMzKkdRS"
@@ -197,43 +181,7 @@
       "url": "https://open.spotify.com/track/58nRZ85BvjTJmGqVkbtGDW"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Suicide Doors",
-      "url": "https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "Aye (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
@@ -249,7 +197,7 @@
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "KUHU KADUS STEN?",
         "url": "https://open.spotify.com/album/6JzKsSDTwFt2tOO5vparW2"
@@ -269,7 +217,27 @@
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
+        "url": "https://open.spotify.com/album/6ilHfO6yd6iTUrgB0jrmdg"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "duration_ms": 133541,
+      "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
+      "url": "https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "PAUS",
         "url": "https://open.spotify.com/album/15WBXoMi3oqXovSX1cssHv"
@@ -293,23 +261,7 @@
       "url": "https://open.spotify.com/track/3CQ84YQI9AkuJQ2hQgqfgy"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Alusp\u00fckse",
         "url": "https://open.spotify.com/album/3pJrxBKVSotXG1f0LOyBLo"
@@ -329,27 +281,23 @@
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
-        "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
-        "url": "https://open.spotify.com/album/6ilHfO6yd6iTUrgB0jrmdg"
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
       "artists": [
         {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "BUSHIDO ZHO",
-          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 133541,
-      "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
-      "url": "https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc"
+      "duration_ms": 192727,
+      "name": "Flooded The Face",
+      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -365,7 +313,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -381,7 +329,23 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Kommunikatsiooni Probleem",
         "url": "https://open.spotify.com/album/5KpmX4dh4lrpRe5v7ryOX3"
@@ -397,39 +361,7 @@
       "url": "https://open.spotify.com/track/7JDPjTzXu2rIbWjoAmKPLq"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 234324,
-      "name": "x2",
-      "url": "https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -449,7 +381,43 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Suicide Doors",
+      "url": "https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "Ainult Unustamiseks",
+        "url": "https://open.spotify.com/album/2cRw4jGrdkcv7SBj2q8H4f"
+      },
+      "artists": [
+        {
+          "name": "P\u00far M\u00fadd",
+          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
+        },
+        {
+          "name": "Grete Paia",
+          "url": "https://open.spotify.com/artist/5hihfLAlypybwPFgjzLJiX"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Ainult Unustamiseks",
+      "url": "https://open.spotify.com/track/6yWAlfKGH5AMHlxT4ZtCVg"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -469,7 +437,59 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0ODefAfxb4wqGDDHJRDGmI"
+      },
+      "artists": [
+        {
+          "name": "Merilin M\u00e4lk",
+          "url": "https://open.spotify.com/artist/42fl0Ghjtvn7qaEfasZO5z"
+        },
+        {
+          "name": "s\u00e4m",
+          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
+        }
+      ],
+      "duration_ms": 149758,
+      "name": "11",
+      "url": "https://open.spotify.com/track/2M2cKonbRHegufpEnX7Nmo"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "vamos",
         "url": "https://open.spotify.com/album/07KLpAji6G2kovteS0hhIG"
@@ -485,23 +505,7 @@
       "url": "https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -525,43 +529,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0ODefAfxb4wqGDDHJRDGmI"
-      },
-      "artists": [
-        {
-          "name": "Merilin M\u00e4lk",
-          "url": "https://open.spotify.com/artist/42fl0Ghjtvn7qaEfasZO5z"
-        },
-        {
-          "name": "s\u00e4m",
-          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
-        }
-      ],
-      "duration_ms": 149758,
-      "name": "11",
-      "url": "https://open.spotify.com/track/2M2cKonbRHegufpEnX7Nmo"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Crush Em",
-      "url": "https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
@@ -572,52 +540,16 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 216703,
-      "name": "Endless Fashion (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
+      "duration_ms": 207835,
+      "name": "Aye (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Ainult Unustamiseks",
-        "url": "https://open.spotify.com/album/2cRw4jGrdkcv7SBj2q8H4f"
-      },
-      "artists": [
-        {
-          "name": "P\u00far M\u00fadd",
-          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
-        },
-        {
-          "name": "Grete Paia",
-          "url": "https://open.spotify.com/artist/5hihfLAlypybwPFgjzLJiX"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Ainult Unustamiseks",
-      "url": "https://open.spotify.com/track/6yWAlfKGH5AMHlxT4ZtCVg"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "k\u00f5rvetab / kallab",
         "url": "https://open.spotify.com/album/20egrE0c1WlTifi75xBbe3"
@@ -641,107 +573,23 @@
       "url": "https://open.spotify.com/track/6qhUE186xER68SlTDqTyNK"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+        "name": "Silmad p\u00e4rani kinni",
+        "url": "https://open.spotify.com/album/1fBnqBXZauPd5QbYzb2duD"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Karl-Erik Taukar",
+          "url": "https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X"
         }
       ],
-      "duration_ms": 173061,
-      "name": "Amped",
-      "url": "https://open.spotify.com/track/2ydwqnjPOcM24MV0kLThwi"
+      "duration_ms": 203443,
+      "name": "Silmad p\u00e4rani kinni",
+      "url": "https://open.spotify.com/track/45GJmcFYh1hxHxwdg5KBQm"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "hoia end (feat. villemdrillem)",
-        "url": "https://open.spotify.com/album/0ycMNHGguDBFoMD0Twdu7x"
-      },
-      "artists": [
-        {
-          "name": "Karl Killing",
-          "url": "https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN"
-        },
-        {
-          "name": "villemdrillem",
-          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "hoia end (feat. villemdrillem)",
-      "url": "https://open.spotify.com/track/1Oiw6x4fhsCEuh4CMaa8kc"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 97769,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/1pDbGAAH5GQ8U0KG4fI77H"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "K\u00f5ik Mis Sa Teed",
-        "url": "https://open.spotify.com/album/15Qf35ffkywVVRmvkr8zfS"
-      },
-      "artists": [
-        {
-          "name": "P\u00far M\u00fadd",
-          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "K\u00f5ik Mis Sa Teed",
-      "url": "https://open.spotify.com/track/3Fv30jj4a0aS2blKks2Al5"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "kinnisilmi",
-        "url": "https://open.spotify.com/album/2SETMe4da10n68MUwGI91w"
-      },
-      "artists": [
-        {
-          "name": "villemdrillem",
-          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
-        }
-      ],
-      "duration_ms": 225158,
-      "name": "kinnisilmi",
-      "url": "https://open.spotify.com/track/7wjkxtRV6tSlqb7ma43JYM"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
@@ -761,39 +609,43 @@
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
-        "name": "k\u00f5ik on s\u00fc\u00fcdi",
-        "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
       "artists": [
         {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 236676,
-      "name": "?mis sa tegid",
-      "url": "https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
-        "name": "Silmad p\u00e4rani kinni",
-        "url": "https://open.spotify.com/album/1fBnqBXZauPd5QbYzb2duD"
+        "name": "hoia end (feat. villemdrillem)",
+        "url": "https://open.spotify.com/album/0ycMNHGguDBFoMD0Twdu7x"
       },
       "artists": [
         {
-          "name": "Karl-Erik Taukar",
-          "url": "https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X"
+          "name": "Karl Killing",
+          "url": "https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN"
+        },
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
         }
       ],
-      "duration_ms": 203443,
-      "name": "Silmad p\u00e4rani kinni",
-      "url": "https://open.spotify.com/track/45GJmcFYh1hxHxwdg5KBQm"
+      "duration_ms": 163306,
+      "name": "hoia end (feat. villemdrillem)",
+      "url": "https://open.spotify.com/track/1Oiw6x4fhsCEuh4CMaa8kc"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "The Lost Soul Down",
         "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
@@ -809,27 +661,7 @@
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
-      "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Caf\u00e9 Kosmos",
         "url": "https://open.spotify.com/album/7reljBD6EMySEyDG74r2bQ"
@@ -853,7 +685,111 @@
       "url": "https://open.spotify.com/track/5VEZQNZWsZaKb1Y2jB8SWJ"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "k\u00f5ik on s\u00fc\u00fcdi",
+        "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
+      },
+      "artists": [
+        {
+          "name": "5MIINUST",
+          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+        }
+      ],
+      "duration_ms": 236676,
+      "name": "?mis sa tegid",
+      "url": "https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "K\u00f5ik Mis Sa Teed",
+        "url": "https://open.spotify.com/album/15Qf35ffkywVVRmvkr8zfS"
+      },
+      "artists": [
+        {
+          "name": "P\u00far M\u00fadd",
+          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
+        }
+      ],
+      "duration_ms": 190161,
+      "name": "K\u00f5ik Mis Sa Teed",
+      "url": "https://open.spotify.com/track/3Fv30jj4a0aS2blKks2Al5"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "kinnisilmi",
+        "url": "https://open.spotify.com/album/2SETMe4da10n68MUwGI91w"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        }
+      ],
+      "duration_ms": 225158,
+      "name": "kinnisilmi",
+      "url": "https://open.spotify.com/track/7wjkxtRV6tSlqb7ma43JYM"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "L\u00e4mmi",
         "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
@@ -869,23 +805,107 @@
       "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
       "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-07-01 09:54:35",
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
+      "album": {
+        "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+        "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+      "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
+    },
+    {
+      "added_at": "2023-07-02 09:27:29",
       "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
@@ -894,11 +914,15 @@
         {
           "name": "Lil Uzi Vert",
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 173025,
-      "name": "I Gotta",
-      "url": "https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv"
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
     }
   ],
   "unique_name": "Top 50 - Estonia",

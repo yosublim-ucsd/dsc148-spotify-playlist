@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1511966,
+  "num_followers": 1512272,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
+  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "End of the Century (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Rock 'n' Roll High School - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "End of the Century (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Rock 'n' Roll High School - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Banned in D.C.",
-      "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Inflammable Material",
         "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 163880,
       "name": "Alternative Ulster",
       "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Banned in D.C.",
+      "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 115040,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 115040,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
+        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
       },
       "artists": [
         {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
         }
       ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
+      "duration_ms": 167840,
+      "name": "Blank Generation - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
       },
       "artists": [
         {
-          "name": "Richard Hell",
-          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Blank Generation - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
     },
     {
       "added_at": "2022-11-28 15:26:19",

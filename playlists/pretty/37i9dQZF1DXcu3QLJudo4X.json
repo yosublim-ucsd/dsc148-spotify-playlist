@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 54892,
+  "num_followers": 54982,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmE5NzI5MjgzYzhjM2FkZDA0Zjg0NGJkYTIwNzE3MTllNGNmM2Ex",
+  "snapshot_id": "MCxmYTBlZWZiMmVjYzg0YjVkMjMyYWQzOWE1NzdhMTYwMzBkNWExYmMw",
   "tracks": [
     {
       "added_at": "2023-04-06 13:07:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "I Pity The Fool",
-      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "I Pity The Fool",
+      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
     },
     {
       "added_at": "2023-04-06 13:07:38",

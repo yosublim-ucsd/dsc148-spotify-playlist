@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Bulutlar  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,382 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,385 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 73 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 | 74 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 
-Snapshot ID: `MCxmMzNjYTU4MWRhMjhhZjU0MWIyOTFjM2FlZmNmMzkzNDExMDFjNzkx`
+Snapshot ID: `MCw2Yzc0N2ZhYTlmNDljMjg4YmI3MTg2OGY4ZDc2YzBkNDQ3YzIwODMx`

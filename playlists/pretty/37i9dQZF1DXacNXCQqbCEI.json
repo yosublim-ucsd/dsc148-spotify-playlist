@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 349496,
+  "num_followers": 349601,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDY4MjJhZDY5OWFkNDJjN2EzNzVhYTU5NjJmNzA4ZjY2NTdkODMx",
+  "snapshot_id": "MCwwYzRjYTg0NjBlMjM1ODcwMzViZjUxZTYzYjE0MTEwNTk0ZjJjYjc3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Canario",
-      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Xaxoeira",
         "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 347600,
       "name": "1542",
       "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "P\u00e1jaro",
         "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 222787,
       "name": "P\u00e1jaro",
       "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
-      },
-      "artists": [
-        {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 205252,
       "name": "Otun (feat. Nidia Gongora)",
       "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+      },
+      "artists": [
+        {
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Shika Shika Presents Eco",
         "url": "https://open.spotify.com/album/09Hnfjh6xV41cCJahc0PHG"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/5h9Tbkweollk1sCg5lX3Vs"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
     },
     {
       "added_at": "2023-02-13 21:09:56",

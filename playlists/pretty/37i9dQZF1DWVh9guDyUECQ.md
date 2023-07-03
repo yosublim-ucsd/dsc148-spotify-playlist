@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,113 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,165 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 59 | [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 |
 | 60 | [Futuro Contigo](https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Futuro Contigo](https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe) | 3:33 |
 | 61 | [Guíame](https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Guíame](https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT) | 3:23 |
-| 62 | [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 |
-| 63 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
+| 62 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
+| 63 | [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 |
 | 64 | [Noches Enteras](https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Noches Enteras](https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup) | 3:51 |
 | 65 | [Para Amarte](https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Para Amarte](https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C) | 3:48 |
 | 66 | [Apocalipsis \- Remix](https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Apocalipsis \(Remix\)](https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
 | 100 | [Incapaz](https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa) | [Rosa Karina](https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx) | [Incapaz](https://open.spotify.com/album/3FusjACa0j3W8boYCkemHs) | 3:34 |
 
-Snapshot ID: `MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy`
+Snapshot ID: `MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm`

@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 30959,
+  "num_followers": 30973,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzkxMGNmNWY1MmY4YzZlOWE3OWVkZjAyZjA1NzIzYmM3ZDNhOGY3",
+  "snapshot_id": "MCxjODZlZWZmZmIxZmZmNzMyNjhiYzhkMGQyZGE3ODU1MGZlZDY4YTBm",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
-      },
-      "artists": [
-        {
-          "name": "Dave Wong",
-          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u5927\u96e8\u904e\u5f8c",
         "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 247164,
       "name": "\u5927\u96e8\u904e\u5f8c",
       "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
+      },
+      "artists": [
+        {
+          "name": "Dave Wong",
+          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u7d2b\u5916\u7dda",
-        "url": "https://open.spotify.com/album/31D16NvXqqIEXgVyJ9t9G7"
-      },
-      "artists": [
-        {
-          "name": "\u8521\u8a69\u8553",
-          "url": "https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq"
-        }
-      ],
-      "duration_ms": 241853,
-      "name": "\u96e8\u8072\u8857",
-      "url": "https://open.spotify.com/track/3IdOjfIldeOXC8ZcSiQ6Rc"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u6dcb\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 238000,
       "name": "\u6dcb\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u7d2b\u5916\u7dda",
+        "url": "https://open.spotify.com/album/31D16NvXqqIEXgVyJ9t9G7"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u8a69\u8553",
+          "url": "https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq"
+        }
+      ],
+      "duration_ms": 241853,
+      "name": "\u96e8\u8072\u8857",
+      "url": "https://open.spotify.com/track/3IdOjfIldeOXC8ZcSiQ6Rc"
     },
     {
       "added_at": "2023-01-10 03:20:54",

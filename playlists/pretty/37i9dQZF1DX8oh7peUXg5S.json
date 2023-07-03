@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 296931,
+  "num_followers": 297125,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODc1MGNmMmZlYjY5M2IxMzcwMTA1MTNkMDcyNzk5YTIxYWQzNmQ3",
+  "snapshot_id": "MCw4OGZjNjA1MmI5M2U5NDkyZDA1YTBmZmZlOWFjOGQ2N2M2NzQ2N2Nm",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 278040,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
       "artists": [
         {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
+      "duration_ms": 170906,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
         }
       ],
-      "duration_ms": 170906,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2023-06-29 22:00:00",

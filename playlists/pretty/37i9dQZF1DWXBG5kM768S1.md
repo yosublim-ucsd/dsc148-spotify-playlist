@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,259 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,275 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 22 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
 | 23 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 |
 | 24 | [Du ga mæ viljestyrke](https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Du ga mæ viljestyrke](https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP) | 3:38 |
-| 25 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
-| 26 | [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 |
-| 27 | [Bak En Sky Heim](https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S) | 4:34 |
+| 25 | [Bak En Sky Heim](https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S) | 4:34 |
+| 26 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
+| 27 | [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 |
 | 28 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
 | 29 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
 | 30 | [Ka e du redd for](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
 | 50 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
 
-Snapshot ID: `MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4`
+Snapshot ID: `MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm`

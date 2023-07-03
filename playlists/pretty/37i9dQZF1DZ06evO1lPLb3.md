@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,275 likes - 21 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,572 likes - 21 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 15 | [Six O Six \- Original Mix](https://open.spotify.com/track/4mhtOis1qkUr5e0SKNI1cs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/3bxRoWmQKerV0JjO0TxfDa) | 6:06 |
 | 16 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
 | 17 | [Maktoop](https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:54 |
-| 18 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/0J79qvZLfVAABZ77mCVRPu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 |
-| 19 | [Hundres Times](https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Once](https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA) | 6:56 |
+| 18 | [Hundres Times](https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Once](https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA) | 6:56 |
+| 19 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/0J79qvZLfVAABZ77mCVRPu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 |
 | 20 | [Troop \- Original Mix](https://open.spotify.com/track/3RSkg1KZTTjBcVx1hAspxq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 5:53 |
 | 21 | [In Sum \- Original Mix](https://open.spotify.com/track/2Yh9N3MhhKfyLXhLwEIXuW) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 6:36 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDA5MjAwZTJmZGRjYjRkZTI5MzJkZjcwMDcxYWY4NTdmNA==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDBhOGM2NTczM2NkNWM3ZDc4NmQ5YWZmYzY1YmFkMmQwMw==`

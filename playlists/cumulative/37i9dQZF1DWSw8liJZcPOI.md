@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-422 songs - 1 day 5 hr 21 min
+423 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Awakening](https://open.spotify.com/track/3I1U6Aq0fRFembW4qLKXEi) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Substance](https://open.spotify.com/album/4cMXo684wjVRAFYuPrpmPY) | 5:01 | 2020-12-11 | 2022-07-22 |
 | [Azure](https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Azure](https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo) | 3:12 | 2022-07-01 | 2022-12-18 |
 | [Balcony Hotel \- From 'Miss'](https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Balcony Hotel \(From 'Miss'\)](https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz) | 2:48 | 2020-10-20\* |  |
+| [Be in the moment](https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Be in the moment](https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO) | 3:09 | 2023-06-30 |  |
 | [Because This Must Be](https://open.spotify.com/track/5uHRP63O2dgSmtLdHE7qac) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Because This Must Be](https://open.spotify.com/album/12mmaBuLAsvZ8j5j3r89vK) | 2:45 | 2021-02-06 | 2021-02-12 |
 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 | 2021-04-26 |  |
 | [Belonged](https://open.spotify.com/track/05iB7o0m4TQzj1Ac6TW9eD) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Belonged](https://open.spotify.com/album/3SxefnYU0SN9E7xlS9urh3) | 2:16 | 2021-02-12 | 2022-04-21 |
@@ -424,7 +425,7 @@
 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 | 2022-07-01 |  |
 | [Wrestling](https://open.spotify.com/track/3GHGYVMQcpm5h7xGKpm3y6) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Personal Effects \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3R5B3xyl63tcnXuCkBu8Sm) | 2:48 | 2020-10-20\* | 2021-11-04 |
 | [Yes, Brick by Brick](https://open.spotify.com/track/1su4tA0rkmiBvfTiPpwuAU) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Hausmusik](https://open.spotify.com/album/5MXVcbbK62CdyftPSuf3TB) | 5:19 | 2020-10-21 | 2022-04-20 |
-| [Youth](https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 4:00 | 2023-03-24 |  |
+| [Youth](https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 4:00 | 2023-03-24 | 2023-07-03 |
 | [Youth](https://open.spotify.com/track/0QNNi2mBpgopYG7F1bSLze) | [Taylor Swindells](https://open.spotify.com/artist/1fFVQt5WdQyTBtFmKwGfdM), [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Youth](https://open.spotify.com/album/0M7OaxAnfhFuTWp1T4FlBS) | 4:00 | 2022-02-02 | 2022-07-01 |
 | [Ára bátur](https://open.spotify.com/track/0DvJ3c0crcaUF0VAImO9hu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 8:56 | 2020-12-04 | 2020-12-11 |
 | [Éclosion](https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Éclosion](https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9) | 4:55 | 2021-01-29 |  |

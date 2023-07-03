@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 102743,
+  "num_followers": 102876,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQ2ZGM4NThhMzcyNmE5NjgzYmM2M2I3OWVkOGVlZTZiY2E4Mzll",
+  "snapshot_id": "MCxlYmFlYmFhYTFkNzIwMzYwMjg4OTNjN2JkODQyODVlMTAxYTNmMTY3",
   "tracks": [
     {
       "added_at": "2023-06-16 14:13:18",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 144426,
       "name": "Baby What You Want Me To Do",
       "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
         "name": "East West",
         "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 414000,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
     },
     {
       "added_at": "2023-06-16 14:13:18",

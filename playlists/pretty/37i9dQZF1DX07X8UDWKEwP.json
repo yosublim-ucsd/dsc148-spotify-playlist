@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Tito Nieves & Gilberto Santa Rosa",
-  "num_followers": 254630,
+  "num_followers": 254667,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODlmNjg4YTljODE2YzRjNTFkZTQ1MTNmNjNiZGE3NDM4NTg3NmU5",
+  "snapshot_id": "MCw1MjNiYzUyNGVkYmYwNDAzNDY5ZDkzZmViNTQ5OTllMzAzNzQyYjgw",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Amigos (con Maria Becerra) [Bachata]",
-        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 202702,
-      "name": "Amigos (con Maria Becerra) - Bachata",
-      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 234666,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Amigos (con Maria Becerra) [Bachata]",
+        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 202702,
+      "name": "Amigos (con Maria Becerra) - Bachata",
+      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 253753,
+      "name": "Vivir\u00e9",
+      "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 225640,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN"
-      },
-      "artists": [
-        {
-          "name": "Lil Eddie",
-          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
-        }
-      ],
-      "duration_ms": 253753,
-      "name": "Vivir\u00e9",
-      "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 214145,
       "name": "Esta Canci\u00f3n",
       "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Desde Otro Malec\u00f3n",
-        "url": "https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO"
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         }
       ],
-      "duration_ms": 189418,
-      "name": "Desde Otro Malec\u00f3n",
-      "url": "https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53"
+      "duration_ms": 238205,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Desde Otro Malec\u00f3n",
+        "url": "https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Desde Otro Malec\u00f3n",
+      "url": "https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 208680,
       "name": "Cecilia (feat. Juan Luis Guerra 4.40)",
       "url": "https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 238205,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -883,6 +867,38 @@
       "duration_ms": 152750,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Regr\u00e9same Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Regr\u00e9same Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 161835,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
     }
   ],
   "unique_name": "el nuevo tropical",

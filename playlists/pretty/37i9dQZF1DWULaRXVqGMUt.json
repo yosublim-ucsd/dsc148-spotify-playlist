@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 38827,
+  "num_followers": 38868,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTk0ODU1ZGFkZGFiMDUwYTdkYTMzYjFlZDQ3YmY2OGZkNGNhMTE3",
+  "snapshot_id": "MCxmMWZlYTMxN2RiOWU0NTdkY2ViYjEwOTE4ZjQ1YTNmYzlmMTQ4NzYy",
   "tracks": [
     {
       "added_at": "2023-05-04 16:53:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "See You Later, Alligator",
-        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
-      },
-      "artists": [
-        {
-          "name": "Bobby Charles",
-          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Later Alligator (See You Later, Alligator)",
-      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Blues Kingpin",
         "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 139626,
       "name": "Boogie Woogie Baby",
       "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "See You Later, Alligator",
+        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
+      },
+      "artists": [
+        {
+          "name": "Bobby Charles",
+          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Later Alligator (See You Later, Alligator)",
+      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 150571,
       "name": "Long Tall Sally",
       "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie, Vol. 4",
         "url": "https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 221657,
       "name": "Memphis Blues",
       "url": "https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "This Is Boogie Woogie!",
         "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+        "name": "The Door to Sun Records: Ballads (30 Timeless Favorites)",
+        "url": "https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T"
       },
       "artists": [
         {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+          "name": "Carl Mcvoy",
+          "url": "https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS"
         }
       ],
-      "duration_ms": 177933,
-      "name": "Chicago Breakdown",
-      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
+      "duration_ms": 141415,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Door to Sun Records: Ballads (30 Timeless Favorites)",
-        "url": "https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T"
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
       "artists": [
         {
-          "name": "Carl Mcvoy",
-          "url": "https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 141415,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA"
+      "duration_ms": 177933,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
     },
     {
       "added_at": "2023-05-04 16:53:25",

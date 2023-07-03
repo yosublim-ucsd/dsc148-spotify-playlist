@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Feli Colina.",
-  "num_followers": 113173,
+  "num_followers": 113233,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjE0MWJkNWYxZjc5MGVmMzBjMGYwZWFjNDNkYTI0OTMzN2EyMDE4",
+  "snapshot_id": "MCwwMjc0NDZkZTYxOWM4ZjdiYzFlZTg0NWI5YWIyODc2NzFmMDg0MTM5",
   "tracks": [
     {
       "added_at": "2023-06-30 06:00:00",
@@ -439,22 +439,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -587,18 +583,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
         }
       ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 188769,
       "name": "La Aguja",
       "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1407,6 +1407,22 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (En Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "La Vuelta a Casa",
+        "url": "https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI"
+      },
+      "artists": [
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "duration_ms": 210272,
+      "name": "Luci\u00e9rnagas",
+      "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "La Vuelta a Casa",
-        "url": "https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI"
-      },
-      "artists": [
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 210272,
-      "name": "Luci\u00e9rnagas",
-      "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 183152,
       "name": "Cuando los A\u00f1os Pasen",
       "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Camino Dorado",
-        "url": "https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU"
-      },
-      "artists": [
-        {
-          "name": "Lola Cobach",
-          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Camino Dorado",
-      "url": "https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Camino Dorado",
+        "url": "https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU"
+      },
+      "artists": [
+        {
+          "name": "Lola Cobach",
+          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Camino Dorado",
+      "url": "https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj"
     },
     {
       "added_at": "2023-06-30 06:00:00",

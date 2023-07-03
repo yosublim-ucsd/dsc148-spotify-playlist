@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,603 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,729 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 35 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
 | 36 | [Lift You High \- Live](https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Housefires + Friends \(Live\)](https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma) | 7:57 |
 | 37 | [Good and Gracious King](https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Only a Holy God](https://open.spotify.com/album/3UUANfmbHhkVf54hhbHMry) | 5:57 |
-| 38 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
+| 38 | [Worthy Of It All / All Of The Glory \- Live](https://open.spotify.com/track/4lCnMWzE9PppxF4Qpa6Abl) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Moments II \(Live\)](https://open.spotify.com/album/3PWRsY3Z3xl7dJ17iLHbQG) | 9:15 |
 | 39 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |
-| 40 | [Worthy Of It All / All Of The Glory \- Live](https://open.spotify.com/track/4lCnMWzE9PppxF4Qpa6Abl) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Moments II \(Live\)](https://open.spotify.com/album/3PWRsY3Z3xl7dJ17iLHbQG) | 9:15 |
+| 40 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 41 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
 | 42 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 |
 | 43 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 58 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
 | 59 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
 | 60 | [Dancing On The Waves \- Live At The Wheelhouse](https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dancing On The Waves \(Live\)](https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r) | 4:29 |
-| 61 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
-| 62 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
+| 61 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
+| 62 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
 | 63 | [Captain](https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 5:31 |
 | 64 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
 | 65 | [Enough](https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. I](https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A) | 5:11 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 93 | [No Other](https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Clarity](https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup) | 3:52 |
 | 94 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 | 95 | [The More of You I See](https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:15 |
-| 96 | [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 |
-| 97 | [My Hope Secure](https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [My Hope Secure](https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6) | 4:16 |
+| 96 | [My Hope Secure](https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [My Hope Secure](https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6) | 4:16 |
+| 97 | [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 |
 | 98 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 99 | [Throne Room \- Live](https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side \(Live\)](https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe) | 5:01 |
 | 100 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
 
-Snapshot ID: `MCw0YzFhY2RhNzMyMTM4MDllNjQ2NWE2NzE3YTQ2ZGM2M2U2NGVkZWZi`
+Snapshot ID: `MCwwNzdjZDhmNGMxNTVkNjMxYWVlYzhjYWZlZmI4NWRmYzZkNzg3Nzdi`

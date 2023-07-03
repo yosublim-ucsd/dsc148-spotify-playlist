@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,300 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,380 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 82 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 |
 | 83 | ['Round Midnight](https://open.spotify.com/track/2qaFycbq4YZ3ZspWbB57dr) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp) | [Early Stan](https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56) | 5:18 |
 | 84 | [Monk's Dream](https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Free Flying](https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO) | 6:24 |
-| 85 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
-| 86 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 |
+| 85 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 |
+| 86 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
 | 87 | [Straight No Chaser](https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \(And Other Songs\)](https://open.spotify.com/album/6Az63x71f79GUhcyccTomF) | 5:24 |
 | 88 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
 | 89 | [The Big Push](https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l) | [Mike Moreno](https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Three for Three](https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1) | 6:54 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 94 | [Silver Lining](https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [These Times](https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR) | 6:37 |
 | 95 | [Blue Line](https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Heartcore](https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ) | 6:11 |
 | 96 | [Yesterdays](https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 7:26 |
-| 97 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
-| 98 | [Skylark](https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Close Your Eyes](https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ) | 7:12 |
+| 97 | [Skylark](https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Close Your Eyes](https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ) | 7:12 |
+| 98 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
 | 99 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
 | 100 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 
-Snapshot ID: `MCw4YTFlYzUzNmQyMjZkMDBhYzNjZWRlYTMyZWMyZDNhYTA1MWFiOGEw`
+Snapshot ID: `MCwxNDUzMzliMDI3M2EzMTRjM2Q2NzgyOWU2MzBiNTQwN2Y0N2ExZGZm`

@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-106 songs - 6 hr 4 min
+107 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 | 2021-12-22 |  |
 | [Exotic Jungle Life for Meditation and Deep Sleep](https://open.spotify.com/track/1c2q71mRUvPAjkNvPEjv4x) | [Nature Sounds in HD](https://open.spotify.com/artist/4OejBwsKe73jfbVP9Csef7) | [Nature Sound in HD](https://open.spotify.com/album/2FamwsbosEaAyFWlcIFFdF) | 6:00 | 2022-07-06 | 2022-11-13 |
 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 | 2021-12-22 |  |
-| [Forest At Sleep \- Seamless](https://open.spotify.com/track/7vmc4nS2iY9D5wq7EodB9t) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Forest At Sleep](https://open.spotify.com/album/3zjxQ9nSOaUo6h8z8f6hKU) | 2:56 | 2023-06-20 |  |
+| [Forest At Sleep \- Seamless](https://open.spotify.com/track/7vmc4nS2iY9D5wq7EodB9t) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Forest At Sleep](https://open.spotify.com/album/3zjxQ9nSOaUo6h8z8f6hKU) | 2:56 | 2023-06-20 | 2023-07-03 |
 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 | 2021-12-22 |  |
 | [Forest River](https://open.spotify.com/track/31aIT2C2m1JOA11bc2UR7G) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 3:03 | 2021-12-22 |  |
 | [Forest River Sounds](https://open.spotify.com/track/6tKfI7fERNz2Og8VnmrvBT) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:04 | 2021-12-22 |  |
@@ -100,6 +100,7 @@
 | [The Swing of the Forest](https://open.spotify.com/track/6zHlA4ul8Tbgc7VKo5gEZW) | [Sounds Of The World](https://open.spotify.com/artist/1I48Szo0ovLGZJG3q12EWC) | [Songs of the Forest](https://open.spotify.com/album/2mIncYGaadbTt4698eL9Ow) | 4:16 | 2023-06-20 |  |
 | [Thunder along the river](https://open.spotify.com/track/4QYVbbMaUqlFRNC0a7lVCU) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Thunder along the river](https://open.spotify.com/album/0yxD9HiFnUjCBxJgrRFQa6) | 2:55 | 2023-02-20 | 2023-03-04 |
 | [Thunder, Rain, and the Crickets](https://open.spotify.com/track/3lbTY5yyOsPf7396n3D0Um) | [Sun Songs](https://open.spotify.com/artist/4LTukblVBGn2Yf2SLv3bVq) | [Thunder, Rain, and the Crickets](https://open.spotify.com/album/4U6Gvm5e7VJBFblCfd3GNS) | 2:55 | 2023-02-20 |  |
+| [Tranquility of the Forest](https://open.spotify.com/track/0vW1cA9wBvOfTtSx9L6IAw) | [FX Makers](https://open.spotify.com/artist/5fWAylv9KVBScCAscV4Ibb) | [Peaceful Forest Sounds](https://open.spotify.com/album/4w8JQeeZH7J4ZJucQ5auM2) | 3:17 | 2023-06-20 |  |
 | [Tropical Cricket Ambiance](https://open.spotify.com/track/1vYDJ3xp1dnBbbiJWWGiwH) | [The Outdoorian](https://open.spotify.com/artist/5gD9iCJzxLCPPIdWNLnKh2) | [Rest Essentials](https://open.spotify.com/album/19NNIBGrhJhUnKS1C9VuWH) | 2:52 | 2023-06-20 | 2023-06-28 |
 | [Tropical Forest](https://open.spotify.com/track/34v7cD6VR3fVYguedQ1wuh) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 1:57 | 2021-12-22 | 2023-06-21 |
 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 | 2021-12-22 |  |

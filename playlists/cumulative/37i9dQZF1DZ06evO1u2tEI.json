@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 158360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
@@ -1576,6 +1576,24 @@
     {
       "album": {
         "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181293,
+      "name": "Speed Trials",
+      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
+    },
+    {
+      "album": {
+        "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
       "artists": [
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 182560,
       "name": "Speed Trials",
       "url": "https://open.spotify.com/track/4gRySBzWoWD2JqEFZnfPuX"

@@ -605,6 +605,32 @@
     },
     {
       "album": {
+        "name": "Dangerous!",
+        "url": "https://open.spotify.com/album/5Q9USz6m7yPUYv3fR4R1pH"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Prompto",
+          "url": "https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107083,
+      "name": "Dangerous!",
+      "url": "https://open.spotify.com/track/6QmFf1KDnr57fUWRcvLnME"
+    },
+    {
+      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
       },
@@ -710,7 +736,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 132000,
       "name": "DECAPITATE",
       "url": "https://open.spotify.com/track/2z0E71Kisoe6ZrUwkMvxfY"
@@ -997,6 +1023,28 @@
     },
     {
       "album": {
+        "name": "FIGHT!",
+        "url": "https://open.spotify.com/album/2mS1ax95DiMg9wUl1swc1u"
+      },
+      "artists": [
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        },
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143095,
+      "name": "FIGHT!",
+      "url": "https://open.spotify.com/track/0lBJxnFZG6qXDRvmRK1fmD"
+    },
+    {
+      "album": {
         "name": "Fire!",
         "url": "https://open.spotify.com/album/5HE1sGZFfBIk7mbKxRi9cO"
       },
@@ -1082,6 +1130,24 @@
       "duration_ms": 155502,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/1DNgSHMgLGotUiHaTKBed1"
+    },
+    {
+      "album": {
+        "name": "Funk of the Damned",
+        "url": "https://open.spotify.com/album/4BeJrtgftsl9AwYtjP8KzG"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88750,
+      "name": "Funk of the Damned",
+      "url": "https://open.spotify.com/track/3kVH8rQUOgL9IINKm3H4hw"
     },
     {
       "album": {
@@ -1252,7 +1318,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 108000,
       "name": "HA HA HA",
       "url": "https://open.spotify.com/track/1zNPwPUkQMt3LdoXPdPNHh"
@@ -1332,6 +1398,24 @@
       "duration_ms": 149052,
       "name": "Hell To Ascend",
       "url": "https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri"
+    },
+    {
+      "album": {
+        "name": "HellHarvest",
+        "url": "https://open.spotify.com/album/4eJVL9U8b7lPv1uuHUw5qK"
+      },
+      "artists": [
+        {
+          "name": "Velocity.Vampires",
+          "url": "https://open.spotify.com/artist/5KYgHoq4Fn7BvuJ0jlD1GK"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230788,
+      "name": "HellHarvest",
+      "url": "https://open.spotify.com/track/69bcp5TAVUdO7jDBEVWwUn"
     },
     {
       "album": {
@@ -1878,7 +1962,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 196437,
       "name": "L\u00f8rd\u00d8fTheDead",
       "url": "https://open.spotify.com/track/3DOMBdXxnFnbeM7dtSOOq3"
@@ -1918,7 +2002,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 178306,
       "name": "Make Me Dance",
       "url": "https://open.spotify.com/track/74EhA3zRrETjYVwF1Bk7fv"
@@ -1936,7 +2020,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 142000,
       "name": "Makeba (Tiktok Remix)",
       "url": "https://open.spotify.com/track/2xE5tQ9wMkN0KcsoNSEax7"
@@ -2995,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "SHINIGAMI",
+        "url": "https://open.spotify.com/album/4gqHlNI4ZtVlhJcBMWrmAX"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        },
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "SHINIGAMI",
+      "url": "https://open.spotify.com/track/7fNUE6VE2cj7cyaYD2o1xC"
+    },
+    {
+      "album": {
         "name": "Rok Ali and the Addiction",
         "url": "https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST"
       },
@@ -3760,6 +3866,24 @@
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/78NiCZj3Djj3Us4U28BZGp"
+      },
+      "artists": [
+        {
+          "name": "Sicari",
+          "url": "https://open.spotify.com/artist/5NbvjdR5hWZ2fSLW7a5J2v"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148300,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/2Otlxg84Ruv9rPKermxpWq"
     },
     {
       "album": {

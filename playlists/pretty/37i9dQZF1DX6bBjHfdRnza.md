@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Stuzzi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,158 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,202 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Ante](https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Ante](https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7) | 4:20 |
 | 100 | [Aylyak](https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z) | [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [Aylyak](https://open.spotify.com/album/2HFA0eMSuzqqxFY1y3wMGr) | 3:31 |
 
-Snapshot ID: `MCxjNjNhNzUxY2UxOWJlNzg4ZjVmYzNjMjQ3YzgwNzJhNzM0YmE1OTMz`
+Snapshot ID: `MCxlYjk2MjNlMmFmMWQ2MzE4ZDIzNTczMjY2YzcwMDM3NDE2YjAzMzg4`

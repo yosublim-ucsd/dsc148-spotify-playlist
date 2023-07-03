@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 60684,
+  "num_followers": 60716,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDExNzg1ZDNmMzlhMzY5MTYzOGMwNDZlYTc2OWM5ZjQwMTcxY2Mz",
+  "snapshot_id": "MCxlZmExMWZkMzNiZTdkNDViYTRiZDYyMzk2MDQxNWQzODk2MmViYzgy",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Booker's Guitar",
-        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 295613,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Booker's Guitar",
+        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "With My Maker I Am One",
+      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Alabama Blues!",
         "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 176001,
-      "name": "The Dolls Are Sleeping",
-      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "The Dolls Are Sleeping",
+      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "That's All Right (Mama) - the Fire Sessions",
-        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
       "artists": [
         {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Death Valley Blues",
-      "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+        "name": "That's All Right (Mama) - the Fire Sessions",
+        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
         }
       ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+      "duration_ms": 163000,
+      "name": "Death Valley Blues",
+      "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "75-71",
-        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "75-71",
-      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "It Would Be Better for the Bad to Be Good",
         "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 423560,
-      "name": "Done Changed My Way of Living",
-      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 280306,
       "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 423560,
+      "name": "Done Changed My Way of Living",
+      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
-        "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 143673,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 202840,
       "name": "Shine on Moon (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
+        "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 143673,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "The Complete Prestige / Bluesville Recordings",
-        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Automobile Blues",
-      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "The Complete Prestige / Bluesville Recordings",
+        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Automobile Blues",
+      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Global Griot",
-        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 151403,
-      "name": "Brazos River Blues",
-      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 204600,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Global Griot",
+        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 151403,
+      "name": "Brazos River Blues",
+      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Pray For Rain",
-        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Pray For Rain",
-      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
@@ -1663,22 +1647,6 @@
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1703,6 +1671,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1715,22 +1699,6 @@
       "duration_ms": 186317,
       "name": "Two Step Too",
       "url": "https://open.spotify.com/track/3qFPfJOLQanNyGcvduvG6p"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1751,6 +1719,38 @@
       "duration_ms": 307358,
       "name": "Lissa's Song",
       "url": "https://open.spotify.com/track/4iNxo2nENNlHos9KkwPYg4"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Pray For Rain",
+        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Pray For Rain",
+      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Country Blues",
         "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 194346,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
-      },
-      "artists": [
-        {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Meet Me In The City",
-      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 216773,
       "name": "Good Morning Little School Girl",
       "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
+      },
+      "artists": [
+        {
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
+        }
+      ],
+      "duration_ms": 197237,
+      "name": "Meet Me In The City",
+      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
     },
     {
       "added_at": "2023-06-30 00:01:00",

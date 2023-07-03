@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 126986,
       "name": "The Munster's Theme",
       "url": "https://open.spotify.com/track/0BuXHYNppINIXDWRT79BtC"
@@ -2650,6 +2650,24 @@
       "duration_ms": 77216,
       "name": "The Munsters Theme",
       "url": "https://open.spotify.com/track/1HAzaGNVyyMYVtmykjfNX9"
+    },
+    {
+      "album": {
+        "name": "A Scary Very Halloween",
+        "url": "https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "The Munsters' Theme",
+      "url": "https://open.spotify.com/track/7kuCHonhRzHG1O5EJ5AYBh"
     },
     {
       "album": {
@@ -3328,6 +3346,24 @@
     {
       "album": {
         "name": "A Scary Very Halloween",
+        "url": "https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "What Should I Be For Halloween?",
+      "url": "https://open.spotify.com/track/0r96OZJdxo6RrBLOrnXJgW"
+    },
+    {
+      "album": {
+        "name": "A Scary Very Halloween",
         "url": "https://open.spotify.com/album/7JhfiWlYRO2H0dz2q6apKy"
       },
       "artists": [
@@ -3338,7 +3374,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 168560,
       "name": "What Should I Be for Halloween?",
       "url": "https://open.spotify.com/track/2jh6FmnzLlqkE222YYs9jo"

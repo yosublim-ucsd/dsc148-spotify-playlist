@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 554801,
+  "num_followers": 555113,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm",
+  "snapshot_id": "MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:06:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Lookin' For Love",
-        "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Lookin' for Love",
-      "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Ultimate Clint Black",
         "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Lookin' For Love",
+        "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Lookin' for Love",
+      "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+        "name": "Who's Gonna Fill Their Shoes",
+        "url": "https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 217826,
-      "name": "I Wouldn't Have Missed It For The World",
-      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
+      "duration_ms": 150520,
+      "name": "The One I Loved Back Then (The Corvette Song)",
+      "url": "https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Who's Gonna Fill Their Shoes",
-        "url": "https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL"
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 150520,
-      "name": "The One I Loved Back Then (The Corvette Song)",
-      "url": "https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu"
+      "duration_ms": 217826,
+      "name": "I Wouldn't Have Missed It For The World",
+      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Lord I Hope This Day Is Good",
         "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
       },
@@ -895,22 +879,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Love Me Like You Used To",
-        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Love Me Like You Used To",
+        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
       "artists": [
         {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
         }
       ],
-      "duration_ms": 292626,
-      "name": "Everything That Glitters (Is Not Gold)",
-      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 292626,
+      "name": "Everything That Glitters (Is Not Gold)",
+      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
-      },
-      "artists": [
-        {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Daddy's Hands",
-      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 208493,
       "name": "Redneck Girl",
       "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+      },
+      "artists": [
+        {
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Daddy's Hands",
+      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1859,6 +1859,22 @@
       "duration_ms": 197026,
       "name": "Drivin' My Life Away - 2009 Remaster",
       "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
       },
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Highway 40 Blues",
+      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -2027,38 +2043,6 @@
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "Big Dreams In A Small Town",
-        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "The Bluest Eyes In Texas",
-      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Highway 40 Blues",
-      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2091,6 +2075,22 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Big Dreams In A Small Town",
+        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "The Bluest Eyes In Texas",
+      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
       },
       "artists": [
         {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
+      "duration_ms": 194160,
+      "name": "Heartbroke",
+      "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Heartbroke",
-      "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
-    },
-    {
-      "added_at": "2023-02-10 03:06:22",
-      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2239,18 +2223,34 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "Smooth Sailin'",
-        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
+        "name": "The Essential Earl Thomas Conley",
+        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
       },
       "artists": [
         {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+          "name": "Earl Thomas Conley",
+          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Do You Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
+      "duration_ms": 188720,
+      "name": "Holding Her and Loving You",
+      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
+    },
+    {
+      "added_at": "2023-02-10 03:06:22",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2023-02-10 03:06:22",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2023-02-10 03:06:22",
       "album": {
-        "name": "The Essential Earl Thomas Conley",
-        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
+        "name": "Smooth Sailin'",
+        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
       },
       "artists": [
         {
-          "name": "Earl Thomas Conley",
-          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 188720,
-      "name": "Holding Her and Loving You",
-      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
+      "duration_ms": 190013,
+      "name": "Do You Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2023-02-10 03:06:22",

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5893,
+  "num_followers": 5897,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmMyMTI4MzI1NTkxZmY2OGU0NmRkZGQwYjVlZjM4NGU3MzMxOTAw",
+  "snapshot_id": "MCxhNmY3OWVhYWM5NWUyNjFiZWZmZGNkZWY4OWQzZThhOTIwN2I3OTRj",
   "tracks": [
     {
       "added_at": "2023-05-05 08:16:27",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
     },
     {
       "added_at": "2023-05-05 08:16:27",

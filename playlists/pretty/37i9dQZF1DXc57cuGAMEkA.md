@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。XG, Rita Ora, Jon Batiste, Nothing But Thives and more! cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,911 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,959 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 89 | [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 |
 | 90 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
 
-Snapshot ID: `MCw0OWQ3NGIwNGQ0MTEzZDAyZDA1NDVjZjY4NzY0MDNiYjZkMTgyZjYx`
+Snapshot ID: `MCw3MGUwNTc3ZTE1N2Y4YTc4YmVlNDExNjAxYTAwMjIzYTMyNjZhMTk4`

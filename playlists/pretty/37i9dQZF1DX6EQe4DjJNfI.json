@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 161006,
+  "num_followers": 161045,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTNiZjNmNmNiNzc3ZDZjNjVlOTkxMWUxNDY2ODk4ZjFmNWZiM2Y3",
+  "snapshot_id": "MCw0ZDcwZTQ5ZTZlMzM2MDkxM2Y3MmFmYTIwNjM0NTRlOGI5NGJiOTA4",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Nada Mais",
-        "url": "https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku"
-      },
-      "artists": [
-        {
-          "name": "Yas Werneck",
-          "url": "https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2"
-        }
-      ],
-      "duration_ms": 177531,
-      "name": "Nada Mais",
-      "url": "https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Nada Mais",
+        "url": "https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku"
+      },
+      "artists": [
+        {
+          "name": "Yas Werneck",
+          "url": "https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2"
+        }
+      ],
+      "duration_ms": 177531,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Repete",
         "url": "https://open.spotify.com/album/5bz020wy4TMxX0kspDnGaD"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 230000,
       "name": "Repete",
       "url": "https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -907,6 +907,30 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -939,26 +963,26 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+        "name": "\u00c1gua (Dj Nyack Remix)",
+        "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
       },
       "artists": [
         {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         },
         {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+          "name": "Vico",
+          "url": "https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
         }
       ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+      "duration_ms": 233142,
+      "name": "\u00c1gua - Dj Nyack Remix",
+      "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -995,30 +1019,6 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "\u00c1gua (Dj Nyack Remix)",
-        "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        },
-        {
-          "name": "Vico",
-          "url": "https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "\u00c1gua - Dj Nyack Remix",
-      "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "1001 Motivos",
         "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 163201,
       "name": "1001 Motivos",
       "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "A Noite Toda",
-        "url": "https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5"
-      },
-      "artists": [
-        {
-          "name": "Charm Mone",
-          "url": "https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "A Noite Toda",
-      "url": "https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Nessa Vida",
         "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 189233,
       "name": "Nessa Vida",
       "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "A Noite Toda",
+        "url": "https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5"
+      },
+      "artists": [
+        {
+          "name": "Charm Mone",
+          "url": "https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "A Noite Toda",
+      "url": "https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn"
     }
   ],
   "unique_name": "R&B Brasil",

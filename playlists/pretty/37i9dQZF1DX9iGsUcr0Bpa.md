@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: MC Lyte
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,638 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,754 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 14 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 |
 | 15 | [Ruffneck](https://open.spotify.com/track/5BC50dLe7dZKVc3gPvJRx9) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Ain't No Other](https://open.spotify.com/album/15RwfepdW9BunN0NjfEKYD) | 3:57 |
 | 16 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
-| 17 | [Da B Side \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/3VXdEVTbT6SLTrOLEX7MCr) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [ANUTHAFUNKDAFIEDTANTRUM](https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0) | 3:43 |
+| 17 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 18 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
-| 19 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
+| 19 | [Da B Side \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/3VXdEVTbT6SLTrOLEX7MCr) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [ANUTHAFUNKDAFIEDTANTRUM](https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0) | 3:43 |
 | 20 | [Tambourine](https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Tambourine](https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK) | 3:12 |
 | 21 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
 | 22 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 36 | [Feels So Good](https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 4:02 |
 | 37 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 38 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |
-| 39 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
+| 39 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
 | 40 | [Love Is Blind](https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Let There Be Eve...Ruff Ryders' First Lady](https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE) | 4:20 |
 | 41 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
 | 42 | [Not Tonight \(feat\. Da Brat, Left Eye, Missy "Misdemeanor" Elliott and Angie Martinez\) \- Remix](https://open.spotify.com/track/42OhQBFNIbMyxRGxyPOvQA) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Angie Martinez](https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 44 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
 | 45 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
 | 46 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
-| 47 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
+| 47 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
 | 48 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 49 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 | 50 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 
-Snapshot ID: `MCxmOTEzMWE4MzY5NGRhODU2OGM0N2FlZWNmM2I4YjU4OWQ0ZWM1NTFm`
+Snapshot ID: `MCxhODJhNGZhZTU5NDM1Mzc1NmRiOWMyMmU5OGU1NTk3MjE3NzliMmEx`

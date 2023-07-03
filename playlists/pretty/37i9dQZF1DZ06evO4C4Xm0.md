@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,126 likes - 52 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,151 likes - 52 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 40 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
 | 41 | [The Ritan Bells 4](https://open.spotify.com/track/3Fv3rj6UCNxfnVqGFs0mYn) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 4:33 |
 | 42 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 |
-| 43 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
-| 44 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
+| 43 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 |
+| 44 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
 | 45 | [Sparrowfall \(1\) \- Remastered 2005](https://open.spotify.com/track/7DRYIvDSGHCJk9FMck3a7c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:10 |
 | 46 | [Kazakhstan 1](https://open.spotify.com/track/47rI9POL2cdrqMinrSwRuq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Kazakhstan](https://open.spotify.com/album/4YThNflqsqidUr0Z1ETy80) | 3:11 |
-| 47 | [Five Light Paintings 2](https://open.spotify.com/track/7iQJiDN8r4dRVpZnGTNqBY) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 3:50 |
-| 48 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 |
+| 47 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
+| 48 | [Five Light Paintings 2](https://open.spotify.com/track/7iQJiDN8r4dRVpZnGTNqBY) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 3:50 |
 | 49 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 |
 | 50 | [Hardly Me \- Instrumental](https://open.spotify.com/track/3X6nQIGR66C4VCgG9Cxqtq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:50 |
 | 51 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
-| 52 | [Small Craft on a Milk Sea](https://open.spotify.com/track/09nETPAU44dKMW14v2Ikzi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 1:48 |
+| 52 | [Five Light Paintings 1](https://open.spotify.com/track/55d60LyqsrSNJUc1zx7tIz) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 3:21 |
 
-Snapshot ID: `MjgxMzY4ODEsMDAwMDAwMDA3MzgxNTI0MjI3YTE2MGExZDRiMTliYzEwYzgxN2Q5OQ==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDBiZTU3YWU4OWFhZTA1YjFjZGVhZmIzZGIxY2FhODYxNA==`

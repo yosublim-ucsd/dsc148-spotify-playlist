@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 186981,
+  "num_followers": 186993,
   "original_name": "Bosque M\u00edstico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTNiNmYyOWMwZWZjZGI1Zjg2YzczOWQ5YzU5NjU1ZjBkYmNiZjlj",
+  "snapshot_id": "MCwyMjMzNjc3ZGQzYTQ4NWNkYTE3NGE2ODIxNTIwMTM3NDY2YmNkZTNm",
   "tracks": [
     {
       "added_at": "2023-06-02 16:01:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Yantra",
-        "url": "https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 248727,
-      "name": "Yantra 432hz",
-      "url": "https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
         "name": "The Calm Sessions",
         "url": "https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 157481,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
+        "name": "Yantra",
+        "url": "https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 248727,
+      "name": "Yantra 432hz",
+      "url": "https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Inner Destination",
-        "url": "https://open.spotify.com/album/6m5laRGGdZqVzlx70ZSjXI"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
       },
       "artists": [
         {
-          "name": "Dream Runner",
-          "url": "https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59"
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
         }
       ],
-      "duration_ms": 224272,
-      "name": "Inner Destination",
-      "url": "https://open.spotify.com/track/380cFd0oU93qGwnQRyJtnl"
+      "duration_ms": 143013,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
+        "name": "Inner Destination",
+        "url": "https://open.spotify.com/album/6m5laRGGdZqVzlx70ZSjXI"
       },
       "artists": [
         {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+          "name": "Dream Runner",
+          "url": "https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59"
         }
       ],
-      "duration_ms": 143013,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
+      "duration_ms": 224272,
+      "name": "Inner Destination",
+      "url": "https://open.spotify.com/track/380cFd0oU93qGwnQRyJtnl"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
-      },
-      "artists": [
-        {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
         "name": "Deep Forest",
         "url": "https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 106666,
       "name": "Deep Forest",
       "url": "https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
+        "name": "Expanded Reality",
+        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+      },
+      "artists": [
+        {
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Expanded Reality",
+      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "La Tarde",
-        "url": "https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ"
-      },
-      "artists": [
-        {
-          "name": "Little Symphony",
-          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
-        }
-      ],
-      "duration_ms": 67500,
-      "name": "Tronco",
-      "url": "https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
         "name": "PHANTOM BRICKWORKS (IV & V)",
         "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 678013,
       "name": "PHANTOM BRICKWORKS IV",
       "url": "https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
+        "name": "La Tarde",
+        "url": "https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ"
+      },
+      "artists": [
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "duration_ms": 67500,
+      "name": "Tronco",
+      "url": "https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Travels Of A Snowflake",
-        "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
-      },
-      "artists": [
-        {
-          "name": "Calm Shores",
-          "url": "https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB"
-        }
-      ],
-      "duration_ms": 247052,
-      "name": "Frozen Tears",
-      "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
         "name": "Loveliness",
         "url": "https://open.spotify.com/album/77Q17UO85JPsTkUebuLUnm"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 170281,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
+        "name": "Travels Of A Snowflake",
+        "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
+      },
+      "artists": [
+        {
+          "name": "Calm Shores",
+          "url": "https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB"
+        }
+      ],
+      "duration_ms": 247052,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
+        "name": "Pink Lotus",
+        "url": "https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP"
+      },
+      "artists": [
+        {
+          "name": "Lukkii and The Whale",
+          "url": "https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sweet Iris",
+      "url": "https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
         "name": "The Sounds of Peaks, Plateaus & Canyons",
         "url": "https://open.spotify.com/album/4VlCyVOH30CSyDEjwggcRs"
       },
@@ -2071,6 +2087,22 @@
       "duration_ms": 378511,
       "name": "Desert Moon",
       "url": "https://open.spotify.com/track/4QUPASaxoGtDWU1ltT68zZ"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
+        "name": "Alison",
+        "url": "https://open.spotify.com/album/3df3c248kKITXii2Zob5lM"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/6tvfHHcDybTrWRZt4pxE5D"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2091,18 +2123,18 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Pink Lotus",
-        "url": "https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP"
+        "name": "Ambient Worlds",
+        "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
       },
       "artists": [
         {
-          "name": "Lukkii and The Whale",
-          "url": "https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj"
+          "name": "Jordan Jessep",
+          "url": "https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Sweet Iris",
-      "url": "https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt"
+      "duration_ms": 429547,
+      "name": "Windchimes",
+      "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2119,22 +2151,6 @@
       "duration_ms": 173999,
       "name": "Senseful",
       "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
-        "name": "Ambient Worlds",
-        "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Jessep",
-          "url": "https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv"
-        }
-      ],
-      "duration_ms": 429547,
-      "name": "Windchimes",
-      "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2203,22 +2219,6 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "All of my Love",
-        "url": "https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ"
-      },
-      "artists": [
-        {
-          "name": "Dexter Mars",
-          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "All of my Love",
-      "url": "https://open.spotify.com/track/6njFhFU1tSIY897jUc16HL"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
         "name": "Deep Sea",
         "url": "https://open.spotify.com/album/3jNoHVHicdJJo68ACeppgC"
       },
@@ -2235,18 +2235,18 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Alison",
-        "url": "https://open.spotify.com/album/3df3c248kKITXii2Zob5lM"
+        "name": "All of my Love",
+        "url": "https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ"
       },
       "artists": [
         {
-          "name": "xerLK",
-          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+          "name": "Dexter Mars",
+          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
         }
       ],
-      "duration_ms": 193548,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/6tvfHHcDybTrWRZt4pxE5D"
+      "duration_ms": 138750,
+      "name": "All of my Love",
+      "url": "https://open.spotify.com/track/6njFhFU1tSIY897jUc16HL"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "II Cosmos",
-        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
-      },
-      "artists": [
-        {
-          "name": "PRjDicE",
-          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "II Cosmos",
-      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
-    },
-    {
-      "added_at": "2023-06-02 16:01:29",
-      "album": {
         "name": "Lakeside View",
         "url": "https://open.spotify.com/album/61APp6PMdds2CbV7LpGKPK"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q"
+        "name": "II Cosmos",
+        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
       },
       "artists": [
         {
-          "name": "Holistic Dreams",
-          "url": "https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ"
+          "name": "PRjDicE",
+          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
         }
       ],
-      "duration_ms": 133432,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/3WbrNlrGx3Bs6HbsmVJ4MI"
+      "duration_ms": 203750,
+      "name": "II Cosmos",
+      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2331,18 +2315,34 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q"
       },
       "artists": [
         {
-          "name": "Wilson Tanner",
-          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+          "name": "Holistic Dreams",
+          "url": "https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ"
         }
       ],
-      "duration_ms": 273226,
-      "name": "Loch and Key",
-      "url": "https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq"
+      "duration_ms": 133432,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/3WbrNlrGx3Bs6HbsmVJ4MI"
+    },
+    {
+      "added_at": "2023-06-02 16:01:29",
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 129657,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE"
     },
     {
       "added_at": "2023-06-02 16:01:29",
@@ -2363,18 +2363,18 @@
     {
       "added_at": "2023-06-02 16:01:29",
       "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv"
+        "name": "II",
+        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
       },
       "artists": [
         {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
         }
       ],
-      "duration_ms": 129657,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE"
+      "duration_ms": 273226,
+      "name": "Loch and Key",
+      "url": "https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq"
     },
     {
       "added_at": "2023-06-02 16:01:29",

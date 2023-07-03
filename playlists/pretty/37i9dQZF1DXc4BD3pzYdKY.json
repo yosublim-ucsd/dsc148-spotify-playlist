@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 127611,
+  "num_followers": 127732,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh",
+  "snapshot_id": "MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/3TWOsWcp8STcz4jP1mgnpY"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 178626,
       "name": "Good",
       "url": "https://open.spotify.com/track/2h9g51rIjlARNw3Mm24xby"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -811,22 +811,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "BIG!",
-        "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 162352,
-      "name": "BIG!",
-      "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -863,22 +863,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+        "name": "BIG!",
+        "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
         },
         {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+      "duration_ms": 162352,
+      "name": "BIG!",
+      "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "IGWT",
-        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179233,
-      "name": "IGWT",
-      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 193648,
       "name": "Stuff Back",
       "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "IGWT",
+        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179233,
+      "name": "IGWT",
+      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "MY HAPPY",
+        "url": "https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "DJ Mal-Ski",
+          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "MY HAPPY",
+      "url": "https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "Lord Knows",
         "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 104147,
       "name": "Ficky Ficky",
       "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "MY HAPPY",
-        "url": "https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        },
-        {
-          "name": "DJ Mal-Ski",
-          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "MY HAPPY",
-      "url": "https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1515,26 +1515,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "I Will Not",
-        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
       },
       "artists": [
         {
-          "name": "Datin",
-          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
-        },
-        {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        },
-        {
-          "name": "Dax Hamma",
-          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
         }
       ],
-      "duration_ms": 216000,
-      "name": "I Will Not",
-      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+      "duration_ms": 137380,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1571,18 +1563,26 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Never Forget",
-        "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
+        "name": "I Will Not",
+        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
       },
       "artists": [
         {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        },
+        {
+          "name": "Dax Hamma",
+          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
         }
       ],
-      "duration_ms": 137380,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
+      "duration_ms": 216000,
+      "name": "I Will Not",
+      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "INSTAGRAM ISN'T GOD",
-        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 187508,
-      "name": "INSTAGRAM ISN'T GOD",
-      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "SIX THIRTY",
         "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 222375,
       "name": "SIX THIRTY",
       "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "INSTAGRAM ISN'T GOD",
+        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 187508,
+      "name": "INSTAGRAM ISN'T GOD",
+      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
     },
     {
       "added_at": "2023-04-28 12:30:31",

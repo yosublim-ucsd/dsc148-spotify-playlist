@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,087 likes - 70 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,133 likes - 70 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 4 | [Estamos de Pé \- Ao Vivo](https://open.spotify.com/track/715slv9zyByop7EttlmTjQ) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG) | 6:36 |
 | 5 | [HEREGE](https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [HEREGE](https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv) | 4:09 |
 | 6 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
-| 7 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 |
-| 8 | [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 |
+| 7 | [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 |
+| 8 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 |
 | 9 | [1000 Graus](https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Melyssa Almeida](https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq) | [1000 Graus](https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB) | 2:48 |
 | 10 | [Os Que Confiam \- Live](https://open.spotify.com/track/09iuGgLJ4mr4bLjLvRptye) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 5:38 |
 | 11 | [Medley Leão de Judá](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 63 | [Trindade](https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Trindade](https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK) | 12:49 |
 | 64 | [Guerreiro](https://open.spotify.com/track/0ZIrku5nIXgzRG3tW2Cc5L) | [William Graziane](https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip) | [Guerreiro](https://open.spotify.com/album/2XNQurgWJc02kEChTOW8vb) | 4:27 |
 | 65 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
-| 66 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
-| 67 | [Até Que Nada Mais Importe](https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk), [Michel Oliveira](https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH) | [Até Que Nada Mais Importe](https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f) | 2:56 |
+| 66 | [Até Que Nada Mais Importe](https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk), [Michel Oliveira](https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH) | [Até Que Nada Mais Importe](https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f) | 2:56 |
+| 67 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
 | 68 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
 | 69 | [Sua Glória](https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Sua Glória](https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU) | 7:53 |
 | 70 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 
-Snapshot ID: `MCxjNjdiNGJiZDM4ZDc0ZGIxNjExZjQ4N2E1NDZkN2NhZmYwYjY0MGM3`
+Snapshot ID: `MCwxYzE2NmJjYWIzZmEzNmQ3MGJkMjU1NmRhMGZhMDZmNGI3NzYxNDdi`

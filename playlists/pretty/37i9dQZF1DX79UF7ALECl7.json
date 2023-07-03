@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 118061,
+  "num_followers": 118069,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmExY2Y5ODM1YzYyM2U5YTJlOTRiZmI1Y2U5YjU1YzYzYTMzM2Jl",
+  "snapshot_id": "MCxlNTdmMjNkYTVlZGRjNGM5NzU2NmU4ZTZmZTZlNDk4MzBiZWU4MTVm",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Now You're Gone",
-        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Now You're Gone",
-      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Stained Teeth",
         "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 165610,
       "name": "Stained Teeth",
       "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Now You're Gone",
+        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Now You're Gone",
+      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Big Sur",
-        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 192909,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Obscure",
         "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 153345,
       "name": "Obscure",
       "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Big Sur",
+        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 192909,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Blue Essay",
+        "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
+      },
+      "artists": [
+        {
+          "name": "Paralax",
+          "url": "https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Blue Essay",
+      "url": "https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Hey Papi (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 278240,
       "name": "Hey Papi - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Blue Essay",
-        "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
-      },
-      "artists": [
-        {
-          "name": "Paralax",
-          "url": "https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Blue Essay",
-      "url": "https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "The Sin and the Soul",
+        "url": "https://open.spotify.com/album/5gpNg3bQylhPG0za13Z7gz"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "duration_ms": 398837,
+      "name": "The Sin and the Soul",
+      "url": "https://open.spotify.com/track/42EGKEpKWWYpfaPVAwMmd9"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "The Sin and the Soul",
-        "url": "https://open.spotify.com/album/5gpNg3bQylhPG0za13Z7gz"
-      },
-      "artists": [
-        {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
-        }
-      ],
-      "duration_ms": 398837,
-      "name": "The Sin and the Soul",
-      "url": "https://open.spotify.com/track/42EGKEpKWWYpfaPVAwMmd9"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "At The Horizon",
         "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 294995,
       "name": "At The Horizon",
       "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "I Lost My Way",
-        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "I Lost My Way",
-      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "I Lost My Way",
+        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "I Lost My Way",
+      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
     },
     {
       "added_at": "2023-06-22 22:00:00",

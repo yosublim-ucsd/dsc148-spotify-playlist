@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u043e\u043b\u043e\u0442\u043e \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a, Vol. 1",
+        "url": "https://open.spotify.com/album/1obSbPzD8v2ZOT7viB7B1B"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219710,
+      "name": "Coco Jambo",
+      "url": "https://open.spotify.com/track/09oCB5vaPIgnzZgvluCP1y"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/64EFbgYiKlVxkBMUW22Rqu"
       },

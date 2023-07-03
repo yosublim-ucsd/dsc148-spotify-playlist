@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 34963,
+  "num_followers": 34991,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI1MGQ5MDdjZDE4NjY4NzZhYzU2NWYyNTgxZDc1OTcwNzk0NmUy",
+  "snapshot_id": "MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Amado Mio",
-      "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
+      "duration_ms": 203880,
+      "name": "Donde Estas, Yolanda?",
+      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
         }
       ],
-      "duration_ms": 203880,
-      "name": "Donde Estas, Yolanda?",
-      "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
+      "duration_ms": 289560,
+      "name": "Amado Mio",
+      "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "The Roots of Chicha 2",
         "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 189333,
       "name": "Paga la Cuenta Sinverguenza",
       "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Elotitos Tiernos",
-        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
-      },
-      "artists": [
-        {
-          "name": "Liliana Felipe",
-          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
-        }
-      ],
-      "duration_ms": 392400,
-      "name": "A Su Merced",
-      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -1071,6 +1055,22 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Elotitos Tiernos",
+        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
+      },
+      "artists": [
+        {
+          "name": "Liliana Felipe",
+          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
+        }
+      ],
+      "duration_ms": 392400,
+      "name": "A Su Merced",
+      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Guapapasea!",
-        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
-      },
-      "artists": [
-        {
-          "name": "Gecko Turner",
-          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
-        }
-      ],
-      "duration_ms": 331293,
-      "name": "Limon En La Cabeza",
-      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Concierto en Vivo (Vienna, Austria)",
@@ -1455,6 +1439,22 @@
       "duration_ms": 305906,
       "name": "El P\u00e1jaro C\u00fa - Live",
       "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Guapapasea!",
+        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
+      },
+      "artists": [
+        {
+          "name": "Gecko Turner",
+          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
+        }
+      ],
+      "duration_ms": 331293,
+      "name": "Limon En La Cabeza",
+      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Echu Mingua",
+        "url": "https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e1 Diaz",
+          "url": "https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz"
+        }
+      ],
+      "duration_ms": 349973,
+      "name": "A Love Supreme",
+      "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "El Brown Recluse",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Echu Mingua",
-        "url": "https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e1 Diaz",
-          "url": "https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz"
-        }
-      ],
-      "duration_ms": 349973,
-      "name": "A Love Supreme",
-      "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "15 \u00c9xitos de los Zafiros",
         "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 152027,
       "name": "Bossa Cubana",
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Luaka Bop Remix",
-        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Afro Blue - Koop Remix",
-      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1555,6 +1539,22 @@
       "duration_ms": 165626,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Luaka Bop Remix",
+        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Afro Blue - Koop Remix",
+      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
-        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Mar\u00eda Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Tropid\u00e9lico",
         "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 257786,
       "name": "Regi Bugal\u00fa (Bugalu)",
       "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
+        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Mar\u00eda Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
     },
     {
       "added_at": "2022-01-11 03:10:29",

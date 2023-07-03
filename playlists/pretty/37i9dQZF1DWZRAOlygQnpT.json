@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 69977,
+  "num_followers": 70037,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWI1ZTgxYjJiMzg4MTBjZDIzNDkyYWRjNjBlNjI2ZmUyMzBiODVl",
+  "snapshot_id": "MCxmYjAwN2Q4NTc4YjYyMDUzNDJiYzlmMjViMjUzMzkyNjZjMmU2NDUy",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
-      },
-      "artists": [
-        {
-          "name": "Los Rogers",
-          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
-        }
-      ],
-      "duration_ms": 167862,
-      "name": "Noches y Dias Perdidos",
-      "url": "https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Ballads del Rock",
         "url": "https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 252813,
       "name": "Tu Significas Todo Para Mi",
       "url": "https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
+      },
+      "artists": [
+        {
+          "name": "Los Rogers",
+          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
+        }
+      ],
+      "duration_ms": 167862,
+      "name": "Noches y Dias Perdidos",
+      "url": "https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -567,26 +567,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Historia Musical de Mis Exitos",
-        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Johnny Laboriel / Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9"
-        }
-      ],
-      "duration_ms": 128660,
-      "name": "Muevanse Todos",
-      "url": "https://open.spotify.com/track/3xBemMhwDnAIWVD0oT8KnE"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Buen Rock Esta Noche",
         "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
       },
@@ -619,18 +599,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Amores Incomparables, Vol. 3",
-        "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
       },
       "artists": [
         {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Johnny Laboriel / Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9"
         }
       ],
-      "duration_ms": 165840,
-      "name": "Cuando Era un Jovencito",
-      "url": "https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w"
+      "duration_ms": 128660,
+      "name": "Muevanse Todos",
+      "url": "https://open.spotify.com/track/3xBemMhwDnAIWVD0oT8KnE"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -647,6 +631,22 @@
       "duration_ms": 178665,
       "name": "La Pera Madura",
       "url": "https://open.spotify.com/track/4owGahTFwLeXEwcngODVC4"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Amores Incomparables, Vol. 3",
+        "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "Cuando Era un Jovencito",
+      "url": "https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
-      },
-      "artists": [
-        {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
-        }
-      ],
-      "duration_ms": 149629,
-      "name": "Cuando Era Jovencito",
-      "url": "https://open.spotify.com/track/5uvi6UhmUFn8jiSPxPOeIo"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 137665,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/0aVecUM3N6lZ70vOgCp3eG"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
+      },
+      "artists": [
+        {
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+        }
+      ],
+      "duration_ms": 149629,
+      "name": "Cuando Era Jovencito",
+      "url": "https://open.spotify.com/track/5uvi6UhmUFn8jiSPxPOeIo"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Magia Blanca",
-        "url": "https://open.spotify.com/album/3PHKRHbCUXHwd18sb9jFPa"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 142367,
-      "name": "Se Fue",
-      "url": "https://open.spotify.com/track/7GQEpLJ2j2hcRvcarBJX5s"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "P\u00f3lvora",
         "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 126693,
       "name": "Avientense Todos",
       "url": "https://open.spotify.com/track/59V9ZorlWoxEM6bUAqqtnx"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3PHKRHbCUXHwd18sb9jFPa"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "duration_ms": 142367,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/7GQEpLJ2j2hcRvcarBJX5s"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
+        "name": "Grandes \u00c9xitos Vol.2",
+        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
       "artists": [
         {
-          "name": "Los So\u00f1adores",
-          "url": "https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i"
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
         }
       ],
-      "duration_ms": 137213,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ"
+      "duration_ms": 145658,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Los So\u00f1adores",
+          "url": "https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i"
         }
       ],
-      "duration_ms": 145658,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW"
+      "duration_ms": 137213,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Yo No Que No Vivo Sin Ti",
-      "url": "https://open.spotify.com/track/5qeBMOzLqMHdy3qN1KBlyC"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Idolos del Rock",
         "url": "https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 153338,
       "name": "El Bikini Amarillo",
       "url": "https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Yo No Que No Vivo Sin Ti",
+      "url": "https://open.spotify.com/track/5qeBMOzLqMHdy3qN1KBlyC"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
+        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 137769,
-      "name": "Dile Adios",
-      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
+      "duration_ms": 183875,
+      "name": "Ay Preciosa",
+      "url": "https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
-        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 183875,
-      "name": "Ay Preciosa",
-      "url": "https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q"
+      "duration_ms": 137769,
+      "name": "Dile Adios",
+      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
-        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 132440,
-      "name": "El Tigre",
-      "url": "https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 135373,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
+        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 132440,
+      "name": "El Tigre",
+      "url": "https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF"
     },
     {
       "added_at": "2020-04-17 21:51:59",

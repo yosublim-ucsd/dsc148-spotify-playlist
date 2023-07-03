@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,656 likes - 195 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,764 likes - 195 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 106 | [Princess Meadow \(Morning\)](https://open.spotify.com/track/63KBUxunksAInY8IP2e15L) | [Joy Guerrilla](https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE) | [Princess Meadow \(Morning\)](https://open.spotify.com/album/0H8FLIbILUgsdxj2xkZJQK) | 2:11 |
 | 107 | [ENTRACTE](https://open.spotify.com/track/0IpxDJ7BDaxPPpKeAi4qSv) | [Adavity](https://open.spotify.com/artist/7Jm9YJi9PVizGnyZefPbnm), [Camille Duboisset](https://open.spotify.com/artist/6Oskmwind5cp2CFslM6iUQ) | [ENTRACTE](https://open.spotify.com/album/0FcdXLZUlCV950vNyREfiQ) | 3:08 |
 | 108 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 |
-| 109 | [Chem Dawg](https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt) | 2:24 |
+| 109 | [Chem Dawg](https://open.spotify.com/track/4bAztSeJ6kxFt0R3Ej59J8) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Stimuli](https://open.spotify.com/album/37jmUBiVrLmdlaa9Gjn3lG) | 2:24 |
 | 110 | [A Vibe](https://open.spotify.com/track/0ajpCcbA9tTaY4WycQJhm8) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:38 |
 | 111 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 |
 | 112 | [Beauty & The Bloc](https://open.spotify.com/track/0ZsbE6ZV85uVUugIHAxgKg) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0) | [Beauty & The Bloc](https://open.spotify.com/album/2GxZMHiMF80Xlh9f7xvIg4) | 4:07 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 194 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 195 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCw0YTcxNWJjZjIxYThlODA2NDZhNjE0NDJkN2IzZTM2ZjE4ZjI3NmM2`
+Snapshot ID: `MCxmN2I0NjIxOTZmYmM5MWVhY2ZiOTZlNTA2ZDM4N2I4YTU4YzA0ZjBh`

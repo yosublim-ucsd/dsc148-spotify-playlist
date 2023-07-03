@@ -1970,10 +1970,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 262452,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX"
+    },
+    {
+      "album": {
+        "name": "Sense of Purpose",
+        "url": "https://open.spotify.com/album/6gaWh2FOUVD3BLKQ8CA6E2"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262501,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5yzNWZVVkSTuxwG6qENxCi"
     },
     {
       "album": {

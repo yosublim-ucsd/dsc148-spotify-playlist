@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 207835,
       "name": "Aye (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
@@ -3742,7 +3742,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 165589,
       "name": "Crush Em",
       "url": "https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -6236,7 +6236,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -6550,7 +6550,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -9040,6 +9040,24 @@
       "duration_ms": 525760,
       "name": "July Morning",
       "url": "https://open.spotify.com/track/1R6b8rKPXRihtAO1iHpQw4"
+    },
+    {
+      "album": {
+        "name": "Celebration (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0HXZvdfMo9H5m4nebXugsT"
+      },
+      "artists": [
+        {
+          "name": "Uriah Heep",
+          "url": "https://open.spotify.com/artist/45O9BwPMyywM755SYUK0sP"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525760,
+      "name": "July Morning",
+      "url": "https://open.spotify.com/track/5CuskEobiJJRLJHB1EFyf8"
     },
     {
       "album": {
@@ -15004,7 +15022,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 240106,
       "name": "S' Agapao",
       "url": "https://open.spotify.com/track/6tfajS9NU9zqfOZdByVbV1"
@@ -16824,7 +16842,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 259079,
       "name": "Suicide Doors",
       "url": "https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb"
@@ -17398,7 +17416,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 186772,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7yKsEFa4qLc9unbFWZWXKt"
@@ -19522,7 +19540,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Welcome to Bulgaria",
       "url": "https://open.spotify.com/track/04zqsdXIs6fCpvKgl0AYY7"
@@ -21412,7 +21430,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "\u0418\u043c\u0435\u0442\u043e \u0442\u0438",
       "url": "https://open.spotify.com/track/2UPWn6Sjpmbq9FT8TXZkCp"
@@ -21972,10 +21990,36 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 196000,
       "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/6cxLVTN1MdBxjw6Zvrpd6b"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/1sxBCEsROBfhqXZC3f3yNt"
     },
     {
       "album": {
@@ -22570,7 +22614,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 266400,
       "name": "\u0421\u0438\u043b\u043d\u0430",
       "url": "https://open.spotify.com/track/6Yrbyb5RUa6aSt6HAdStHb"
@@ -22740,7 +22784,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 166706,
       "name": "\u0422\u0430\u043c \u043b\u0438 \u0441\u0438?",
       "url": "https://open.spotify.com/track/5O37BDg9i9PAsrmmgCIbbG"

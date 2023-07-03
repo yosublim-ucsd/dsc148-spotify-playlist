@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123209,
+  "num_followers": 123211,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVlYWY4YmQ5MTdiYTJhZDc0MjRlOWNiZjY1MmQ4OGFmYTg4NTZi",
+  "snapshot_id": "MCw3YzA2MmExZDk5Njc2ODg5NDQzYmVmMzY5OGM1MDUyYmE5YzM0M2Jk",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
     },
     {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Individuality Riddim",
+        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 398629,
+      "name": "Individuality Riddim",
+      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
+    },
+    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Land III",
@@ -451,22 +467,6 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Individuality Riddim",
-        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 398629,
-      "name": "Individuality Riddim",
-      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -521,20 +505,20 @@
       "url": "https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu"
     },
     {
-      "added_at": "2022-12-21 17:17:38",
+      "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
       "artists": [
         {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 149869,
-      "name": "10",
-      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -583,6 +567,22 @@
       "duration_ms": 271573,
       "name": "Descanse",
       "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+    },
+    {
+      "added_at": "2022-12-21 17:17:38",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Opus 2",
-        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6jo",
-          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Selva, Op. 2: No. 3",
-      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Opus 2",
+        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6jo",
+          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Selva, Op. 2: No. 3",
+      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
-      },
-      "artists": [
-        {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
-        }
-      ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 271878,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Ancient Astronauts",
+        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
+      },
+      "artists": [
+        {
+          "name": "Bertoldi",
+          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
+        }
+      ],
+      "duration_ms": 415971,
+      "name": "Forerunner",
+      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "I Can't Find",
-        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
-      },
-      "artists": [
-        {
-          "name": "The Mechanic",
-          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "I Can't Find",
-      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Desire Path",
         "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "I Can't Find",
+        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
+      },
+      "artists": [
+        {
+          "name": "The Mechanic",
+          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Can't Find",
+      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

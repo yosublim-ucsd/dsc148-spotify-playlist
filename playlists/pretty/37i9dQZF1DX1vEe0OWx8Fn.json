@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 70821,
+  "num_followers": 70858,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGMwYTI5NjFiYmM3YTdlMmRjODBjMDQ3ZDZiODM3MzRlYzA0Mjk4",
+  "snapshot_id": "MCw2ZDQ3OGViNTBjZTY2N2JhOWVlNWRkNDI4ZmVmNzIzNGY2ZjVmZTMy",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
-      "added_at": "2023-05-19 14:21:26",
-      "album": {
-        "name": "LosT",
-        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205368,
-      "name": "LosT",
-      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
-    },
-    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "Happier Than Ever (Edit)",
@@ -119,6 +103,22 @@
       "duration_ms": 151444,
       "name": "Happier Than Ever - Edit",
       "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+    },
+    {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "added_at": "2022-12-08 13:00:09",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT"
+        "name": "i'm gonna tell my therapist on you",
+        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
         }
       ],
-      "duration_ms": 237643,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
+      "duration_ms": 161062,
+      "name": "i'm gonna tell my therapist on you",
+      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "i'm gonna tell my therapist on you",
-        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT"
       },
       "artists": [
         {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 161062,
-      "name": "i'm gonna tell my therapist on you",
-      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
+      "duration_ms": 237643,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-19 14:21:26",
       "album": {
-        "name": "Heaven Without You",
-        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Heaven Without You",
-      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
-    },
-    {
-      "added_at": "2023-05-19 14:21:26",
-      "album": {
         "name": "PARTY ON MY DEATHBED",
         "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 208125,
       "name": "PARTY ON MY DEATHBED",
       "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
+    },
+    {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
       "added_at": "2022-08-16 22:06:35",

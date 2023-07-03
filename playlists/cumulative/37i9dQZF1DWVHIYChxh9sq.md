@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-384 songs - 21 hr 17 min
+385 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Fácil Criticar \- En Vivo](https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn) | 3:14 | 2022-12-08 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-05-12 | 2023-06-05 |
 | [Gotas de Agua Dulce](https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Gotas de Agua Dulce](https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt) | 2:55 | 2023-03-17 | 2023-06-20 |
+| [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 | 2023-06-16 |  |
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-05-12 | 2022-12-09 |
 | [Gracias \- En Vivo Con Tololoche](https://open.spotify.com/track/6LploXlGDnJqHbOTcocm59) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Gracias \(En Vivo Con Tololoche\)](https://open.spotify.com/album/5iSuTo5v6QXZXQggakydPj) | 4:12 | 2022-05-12 | 2022-12-09 |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-05-12 |  |
@@ -217,7 +218,7 @@
 | [La C & La A \- En Vivo](https://open.spotify.com/track/3xNwNNsocoLi5pqRO6FFiR) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [En Vivo \(Vol\. 2\)](https://open.spotify.com/album/3YBMLF54p6icZIaa4fBz5g) | 2:50 | 2022-05-12 | 2022-12-09 |
 | [La Camioneta Gris \- Live](https://open.spotify.com/track/7melVMedjk3K0AVUHx8w8n) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Lo Que No Escuchaste MTV Unplugged \(Live\)](https://open.spotify.com/album/5aO37RIIgwkTZ5t0uejh78) | 3:16 | 2022-05-12 | 2023-03-18 |
 | [La Celda De Un Loco \(En Vivo\)](https://open.spotify.com/track/3MvQ657hApJ3FtzBsYsZzP) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [La Celda De Un Loco \(En Vivo\)](https://open.spotify.com/album/4SHMB4zr37XxbLhZPOOEfC) | 2:47 | 2022-05-12 | 2022-12-19 |
-| [La Celda De Un Loco \- En vivo](https://open.spotify.com/track/3X1A33hXb3b5CBOVCZJRuW) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Videos En Vivo Desde El Rancho El Pinolillo \(En vivo\)](https://open.spotify.com/album/5MQCTTOantPqxwoySpnw36) | 3:12 | 2022-12-08 |  |
+| [La Celda De Un Loco \- En vivo](https://open.spotify.com/track/3X1A33hXb3b5CBOVCZJRuW) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Videos En Vivo Desde El Rancho El Pinolillo \(En vivo\)](https://open.spotify.com/album/5MQCTTOantPqxwoySpnw36) | 3:12 | 2022-12-08 | 2023-07-03 |
 | [La Chapiza \- En Vivo](https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [La Chapiza \(En Vivo\)](https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6) | 2:05 | 2022-12-08 |  |
 | [La Cosecha del Charapo \- En Vivo](https://open.spotify.com/track/3Z8kE28lSKjjhhzdUJBK0B) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Cosecha del Charapo \(En Vivo\)](https://open.spotify.com/album/5hZzBvDpfnYWWuHgP9Fpda) | 3:02 | 2022-05-12 | 2022-07-29 |
 | [La Cosecha del Charapo \- En Vivo](https://open.spotify.com/track/5VrzZPIqU2NNPtZLTQTzc1) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Cosecha del Charapo \(En Vivo\)](https://open.spotify.com/album/0zf2ql0nip0LaSL6fsolGs) | 3:02 | 2022-05-12 | 2022-12-09 |

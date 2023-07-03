@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 371612,
+  "num_followers": 371897,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTRmNWUyZGE5MzY2NmVmMWQ1NTJlMjVkOTZhMDA4YTI4N2FiMjNk",
+  "snapshot_id": "MCw2NjNkMmRjOTdmN2RmYWY3MTIxMThmZTE0MTBlYjJjNmFjZTRhMDEz",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -439,18 +439,34 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+      "duration_ms": 297485,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -607,34 +623,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Sensualidad",
-        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 297485,
-      "name": "Sensualidad",
-      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1023,46 +1023,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Leby",
-          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Amigos y Enemigos (Remix)",
         "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
       },
@@ -1087,6 +1047,46 @@
       "duration_ms": 295304,
       "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
       "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "S\u00faper Sangre Joven",
-        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
+      "duration_ms": 259250,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1243,22 +1243,6 @@
       "duration_ms": 182183,
       "name": "Vete",
       "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1299,6 +1283,22 @@
       "duration_ms": 193363,
       "name": "Gan-Ga - Remix",
       "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "S\u00faper Sangre Joven",
+        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "KHEA: Bzrp Music Sessions, Vol. 34",
-        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 198703,
-      "name": "KHEA: Bzrp Music Sessions, Vol. 34",
-      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Avida Dollars",
         "url": "https://open.spotify.com/album/7Dl3kd377FvNAEVHHOMSTM"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 139354,
       "name": "Llorando en la Limo (feat. Alizzz)",
       "url": "https://open.spotify.com/track/4U0Cx2oGeiUQQCmCByQDxE"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "KHEA: Bzrp Music Sessions, Vol. 34",
+        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "KHEA: Bzrp Music Sessions, Vol. 34",
+      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1639,26 +1639,6 @@
       "duration_ms": 222376,
       "name": "Condenado Para El Mill\u00f3n",
       "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1827,6 +1807,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Dillom: Bzrp Music Sessions, Vol. 9",
-        "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 151843,
-      "name": "Dillom: Bzrp Music Sessions, Vol. 9",
-      "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "A.D.R.O.M.I.C.F.M.S. 2",
         "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 191346,
       "name": "Ready Pa Morir",
       "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Dillom: Bzrp Music Sessions, Vol. 9",
+        "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 151843,
+      "name": "Dillom: Bzrp Music Sessions, Vol. 9",
+      "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A fuego",
-      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Bonus Trap",
         "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 133880,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A fuego",
+      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "PURPURA",
-        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "PURPURA",
-      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Coronamos",
         "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 188333,
       "name": "Coronamos",
       "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "PURPURA",
+        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "PURPURA",
+      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
     },
     {
       "added_at": "2022-06-08 18:27:09",

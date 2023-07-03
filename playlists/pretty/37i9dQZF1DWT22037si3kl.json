@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Major RD",
-  "num_followers": 113550,
+  "num_followers": 113641,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmYyYTkyYTA5MjBmZjFlMWMwYTY4N2ViMWVkMjAxYjE3Yjg4YzNj",
+  "snapshot_id": "MCw5OTY1M2FjODZkNzNmMGYxODIyOGJjNzIzMDUxMjc3OTczN2UzZmQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -351,38 +351,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Hino dos Mlks",
-        "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Hino dos Mlks",
-      "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -411,6 +379,38 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Hino dos Mlks",
+        "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Hino dos Mlks",
+      "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Grifes (Conhe\u00e7o bem)",
-        "url": "https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe"
-      },
-      "artists": [
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Grifes (Conhe\u00e7o bem)",
-      "url": "https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 209109,
       "name": "Big D",
       "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Grifes (Conhe\u00e7o bem)",
+        "url": "https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe"
+      },
+      "artists": [
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        }
+      ],
+      "duration_ms": 144624,
+      "name": "Grifes (Conhe\u00e7o bem)",
+      "url": "https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu"
     },
     {
       "added_at": "2023-06-30 03:01:00",

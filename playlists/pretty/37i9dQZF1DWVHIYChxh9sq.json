@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 54993,
+  "num_followers": 55027,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmIwMmI2OTkzOWEyZTY4ODgyZjRkNzQzM2JjZWEzMjAwZmVkNTE2",
+  "snapshot_id": "MCxlNTAwNGRiMTkyOTAxZDhlZDg1MTcyMGZiYzk0MTA2Mjk4NjFjYWU2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 226345,
       "name": "Dile a Tu Orgullo - En Vivo",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1563,22 +1563,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "El Comando del Diablo (En Vivo)",
-        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
+        "name": "En Vivo Desde la Paz",
+        "url": "https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 173250,
-      "name": "El Comando del Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
+      "duration_ms": 458442,
+      "name": "Popurri Boleros Cadetes - En Vivo",
+      "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1599,18 +1595,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo Desde la Paz",
-        "url": "https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN"
+        "name": "El Comando del Diablo (En Vivo)",
+        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
       },
       "artists": [
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 458442,
-      "name": "Popurri Boleros Cadetes - En Vivo",
-      "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
+      "duration_ms": 173250,
+      "name": "El Comando del Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Disimulando (En Vivo)",
-        "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 202869,
-      "name": "Disimulando - En Vivo",
-      "url": "https://open.spotify.com/track/7mjkqI87JhGwAou3aWe37T"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "El Doble R (En Vivo)",
         "url": "https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 202735,
       "name": "A Como te Ven (En Vivo)",
       "url": "https://open.spotify.com/track/7jtSoRjShFbMGW0s8WCKfi"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Disimulando (En Vivo)",
+        "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 202869,
+      "name": "Disimulando - En Vivo",
+      "url": "https://open.spotify.com/track/7mjkqI87JhGwAou3aWe37T"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Videos En Vivo Desde El Rancho El Pinolillo (En vivo)",
-        "url": "https://open.spotify.com/album/5MQCTTOantPqxwoySpnw36"
+        "name": "En Vivo Con Servando ZL Vol. 3",
+        "url": "https://open.spotify.com/album/4DxjpnbDqmWki8TfB5PAMz"
       },
       "artists": [
         {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
         }
       ],
-      "duration_ms": 192738,
-      "name": "La Celda De Un Loco - En vivo",
-      "url": "https://open.spotify.com/track/3X1A33hXb3b5CBOVCZJRuW"
+      "duration_ms": 218006,
+      "name": "Soy El Nini",
+      "url": "https://open.spotify.com/track/1C88x0l5Wz6qmCWAGhGU2j"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2175,22 +2175,6 @@
       "duration_ms": 153562,
       "name": "Una Flor Quise Cortar",
       "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "En Vivo Con Servando ZL Vol. 3",
-        "url": "https://open.spotify.com/album/4DxjpnbDqmWki8TfB5PAMz"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "Soy El Nini",
-      "url": "https://open.spotify.com/track/1C88x0l5Wz6qmCWAGhGU2j"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2215,22 +2199,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "La Chapiza (En Vivo)",
         "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
       },
@@ -2251,18 +2219,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 187943,
-      "name": "A Mis Enemigos - En vivo",
-      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2279,6 +2247,22 @@
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "A Mis Enemigos - En vivo",
+      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2447,6 +2431,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "En Vivo... El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
         "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
       },
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo... El Hombre Y Su Musica",
-        "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Mi Golondrina",
-      "url": "https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "En Vivo Desde las Ca\u00f1as",
         "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
@@ -2495,22 +2479,6 @@
       "duration_ms": 209195,
       "name": "El Palomito - En Vivo",
       "url": "https://open.spotify.com/track/0tpXFcqhDDntEDMPwGMOXE"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Los De La Noria En Vivo",
-        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 257254,
-      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
-      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2531,6 +2499,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Los De La Noria En Vivo",
+        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 257254,
+      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
+      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -2543,22 +2527,6 @@
       "duration_ms": 221893,
       "name": "El Cajoncito - En Vivo",
       "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "En Vivo, Vol. 3",
-        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
-      },
-      "artists": [
-        {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
-        }
-      ],
-      "duration_ms": 156501,
-      "name": "Margarita, Margarita",
-      "url": "https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2579,6 +2547,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "En Vivo, Vol. 3",
+        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 156501,
+      "name": "Margarita, Margarita",
+      "url": "https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas (En Vivo)",
         "url": "https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 128638,
       "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas",
       "url": "https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Gotas de Agua Dulce",
+        "url": "https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+        }
+      ],
+      "duration_ms": 175438,
+      "name": "Gotas de Agua Dulce",
+      "url": "https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB"
     },
     {
       "added_at": "2023-06-16 04:01:00",

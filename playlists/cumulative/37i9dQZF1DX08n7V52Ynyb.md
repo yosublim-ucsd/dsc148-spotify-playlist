@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-173 songs - 12 hr 50 min
+174 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 | 2022-04-13 |  |
 | [A New Path](https://open.spotify.com/track/6xFz7mIXZNx0BymD3RzCba) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI) | [Notes from Within](https://open.spotify.com/album/4uqZggZ9A4mchqCAqT4iOq) | 5:53 | 2022-04-13 | 2022-09-01 |
 | [Alfie](https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Alfie](https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj) | 5:34 | 2022-04-21 |  |
-| [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 | 2022-04-13 |  |
+| [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 | 2022-04-13 | 2023-07-03 |
 | [All My Life](https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz) | [Georgia Mancio](https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw), [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1) | [Quiet Is the Star](https://open.spotify.com/album/10HR7jExTsb576nxpmR1xO) | 2:46 | 2022-04-13 | 2022-11-27 |
 | [Angel Eyes](https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N) | [Melissa Errico](https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l) | [Out Of The Dark – The Film Noir Project](https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G) | 5:49 | 2022-04-13 | 2022-10-12 |
 | [Anita's Blues](https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:27 | 2022-04-13 | 2022-10-06 |
@@ -67,6 +67,7 @@
 | [I Get Along Without You Very Well](https://open.spotify.com/track/5aP8QI1DPbQxrkBpvgszLd) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You should have told me](https://open.spotify.com/album/7r95H4DvXQI3N8Pa0jwPEp) | 3:32 | 2022-04-13 | 2022-07-29 |
 | [I Loves You, Porgy](https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg) | 6:06 | 2022-04-13 | 2022-07-27 |
 | [I Loves You, Porgy](https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7) | 6:06 | 2022-07-21 |  |
+| [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-06-21 |  |
 | [I Walk A Little Faster](https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS) | [María Esteban Quintet](https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY), [María Esteban](https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [Rai Paz](https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk), [Xavi Castillo](https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp), [Santi Colomer](https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa) | [Voces Veladas, Vol.2\-Un Homenaje a Letristas e Intérpretes de Jazz](https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe) | 5:17 | 2022-07-21 |  |
 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 | 2022-04-13 | 2022-08-12 |
 | [I Wish I Knew](https://open.spotify.com/track/2JlTDtzMu6P1RNT2ARoZb8) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 4:53 | 2023-03-09 | 2023-04-19 |

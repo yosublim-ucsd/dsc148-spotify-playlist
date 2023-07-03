@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-284 songs - 14 hr 49 min
+286 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 | 2022-09-23 | 2023-01-10 |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-11-25 | 2022-09-24 |
 | [Green Grass](https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Green Grass](https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH) | 3:05 | 2021-11-25 | 2023-03-15 |
-| [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 | 2022-01-21 |  |
+| [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 | 2022-01-21 | 2023-07-03 |
 | [Grow](https://open.spotify.com/track/4HItNKYDDGULMD54P5Xjhi) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7LVihq2HJ2m2QzziPQbT0o) | 2:51 | 2021-11-25 | 2022-07-29 |
 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-09-23 |  |
 | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/2DuDGvtZmUZZINTOvhm3CR) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/album/38xoqyWybDC5qjbsshhRkd) | 3:06 | 2022-01-21 | 2022-09-24 |
@@ -135,6 +135,7 @@
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-09 |  |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-11-25 | 2022-07-29 |
 | [I Can't Trust Myself](https://open.spotify.com/track/6Z2NrX2D44HzAIcq3Dgqws) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Can't Trust Myself](https://open.spotify.com/album/2irqpRSgRYKDsl8UaQaZZD) | 2:44 | 2021-11-25 | 2022-07-29 |
+| [I Could Be A Florist](https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 1:21 | 2023-06-30 |  |
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-05-09 |  |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2023-01-06 |  |
 | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS) | 2:39 | 2022-01-21 | 2023-03-25 |
@@ -165,6 +166,7 @@
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-04-18 |  |
 | [Lover](https://open.spotify.com/track/5vQCVFDBGvClDDwheKAE1o) | [Brad Heidi](https://open.spotify.com/artist/6qJCfkvQLFLf9HnvKIpXvy) | [Lover](https://open.spotify.com/album/0Ikz16Mi6Kdp3tbPwRXnmV) | 2:57 | 2022-01-14 | 2022-07-27 |
 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 | 2021-11-25 |  |
+| [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 | 2023-06-30 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-28 | 2023-06-17 |
 | [Make It Better](https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 | 2023-04-18 |  |
 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 | 2023-03-15 |  |
@@ -187,7 +189,7 @@
 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 | 2021-11-25 | 2023-06-17 |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-11-25 | 2022-09-24 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-23 |  |
-| [OCD](https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [OCD](https://open.spotify.com/album/5uv3O6o3BvR3roR6fBxqJZ) | 3:28 | 2023-03-24 |  |
+| [OCD](https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [OCD](https://open.spotify.com/album/5uv3O6o3BvR3roR6fBxqJZ) | 3:28 | 2023-03-24 | 2023-07-03 |
 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 | 2022-01-21 | 2023-02-27 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-11-25 |  |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-11-25 |  |

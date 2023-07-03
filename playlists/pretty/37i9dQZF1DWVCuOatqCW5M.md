@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,588 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,664 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Ho Nahin Sakta](https://open.spotify.com/track/1RWmsoIEEvXOD75toswk98) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Soham Naik](https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm) | [Ho Nahin Sakta](https://open.spotify.com/album/6j87fU30UWytGq5yMIucH7) | 3:39 |
 | 50 | [Tu Meri Roja \(From "Kushi"\)](https://open.spotify.com/track/3u3ZPw7gXZFl3uLfo8hZP5) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Tu Meri Roja \(From "Kushi"\) \- Single](https://open.spotify.com/album/6MHCscorPNSwxJx5LJJMPf) | 4:02 |
 
-Snapshot ID: `MCxjOTBlMzdkZGJkZjRmNTA1YjcxZWVkNGNkYjVhMDc2MzUwODU0YTlm`
+Snapshot ID: `MCxiZWEzMWVhN2U0NjJmMmZhMTA0ODZhMGQ4NDQyMjM2MTQ0YzZkNjgy`

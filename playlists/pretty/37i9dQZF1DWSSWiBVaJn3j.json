@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 160060,
+  "num_followers": 160302,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2RjOGVmNTQ4OTBiZGRhYTU1MDY0NmRmYWViMTc3ZDZjYmJhMTMz",
+  "snapshot_id": "MCxmNDJjNTYxOGJhZmVjNGM5Yjk1MDE4MTgwNjlmZTE5NWQwMGFiNzJj",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 703373,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 270293,
       "name": "Up On Cripple Creek",
       "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 703373,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Walk In My Shadow",
-      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "I Had Too Much To Dream (Last Night)",
         "url": "https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 179173,
       "name": "I Had Too Much to Dream (Last Night)",
       "url": "https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Walk In My Shadow",
+      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
     },
     {
       "added_at": "2021-03-22 17:56:31",

@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 512866,
+  "num_followers": 513046,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzhhNjJkNzM3NzVlMjgxNmVhMTc5MGNhNzFjMTY2YzI4NzM4ZmVi",
+  "snapshot_id": "MCxlMGZlYTFjMmMxNGU5ZTFlYTY0MjI4OTYyZDdhZjE0MDk4NTQ5ZjE2",
   "tracks": [
     {
       "added_at": "2023-04-21 19:48:21",
@@ -323,54 +323,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 204109,
-      "name": "WHARF TALK (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -401,20 +353,52 @@
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
     },
     {
-      "added_at": "2023-06-15 16:15:46",
+      "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+      "duration_ms": 204109,
+      "name": "WHARF TALK (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -435,6 +419,22 @@
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+    },
+    {
+      "added_at": "2023-06-15 16:15:46",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 106102,
-      "name": "Romanticist",
-      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 263920,
       "name": "Alright - Remastered",
       "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 106102,
+      "name": "Romanticist",
+      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 104571,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 318917,
       "name": "Dancing Elephants",
       "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-04-21 19:48:21",

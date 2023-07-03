@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-729 songs - 1 day 14 hr 34 min
+730 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Gråter tillsammans över varandra](https://open.spotify.com/track/5KMyGMGRiSMZLG1q9sMYRx) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Gråter tillsammans över varandra](https://open.spotify.com/album/4HgWCtXu0Wa8xngobsJjRt) | 3:27 | 2023-01-05 |  |
 | [Gåshud](https://open.spotify.com/track/645fENOPS8d6qMzvHvp1ZL) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Gåshud](https://open.spotify.com/album/0wwgyVOVXQtEvA30BgmX4Q) | 3:35 | 2021-12-16 | 2022-01-12 |
 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 | 2023-02-01 | 2023-03-23 |
+| [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 | 2023-06-29 |  |
 | [Happy For Me](https://open.spotify.com/track/2fePTyV9lwf7qYLkyCwTsX) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Happy For Me](https://open.spotify.com/album/6bvJbuBDbG305Nqn3XGdly) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 | 2022-09-15 | 2022-10-31 |
 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 | 2021-12-16 | 2022-05-13 |
@@ -363,7 +364,7 @@
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-05-21 |
-| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 |  |
+| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-07-03 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 |  |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
 | [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 122227,
+  "num_followers": 122296,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmM2MDdlMDNiMWMyZTEyNjYzM2UwYTJjMzkyM2YzZTIyMjlkNDhh",
+  "snapshot_id": "MCw3MTc3MWJkZGU1MmYwNGZlMGMwMTMzZTM5Nzg0YzYwZjU2YzQxMTMz",
   "tracks": [
     {
       "added_at": "2023-03-27 18:16:56",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 277681,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2023-06-07 16:19:54",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+      "duration_ms": 277681,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 179417,
       "name": "Flash",
       "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Juniore",
+        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A la plage",
+      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1039,6 +1055,26 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1063,38 +1099,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Juniore",
-        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
-      },
-      "artists": [
-        {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A la plage",
-      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "Pays imaginaire",
-      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
       },
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
       "artists": [
         {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+      "duration_ms": 289720,
+      "name": "Pays imaginaire",
+      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Rain Check",
-        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 136618,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "How can I",
         "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "Rain Check",
+        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
+      "duration_ms": 136618,
+      "name": "Rain Check",
+      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1327,6 +1311,22 @@
       "duration_ms": 216104,
       "name": "Voyages",
       "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Du rivage",
         "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 214733,
       "name": "Descends",
       "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Voodoo? (Lazywax Remix)",
-        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Lazywax",
-          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
-        }
-      ],
-      "duration_ms": 386443,
-      "name": "Voodoo? - Lazywax Remix",
-      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Voodoo? (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        }
+      ],
+      "duration_ms": 386443,
+      "name": "Voodoo? - Lazywax Remix",
+      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Give Me Your Summer",
-        "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
-      },
-      "artists": [
-        {
-          "name": "Color Codes",
-          "url": "https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Give Me Your Summer",
-      "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Give Me Your Summer",
+        "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
+      },
+      "artists": [
+        {
+          "name": "Color Codes",
+          "url": "https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Give Me Your Summer",
+      "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

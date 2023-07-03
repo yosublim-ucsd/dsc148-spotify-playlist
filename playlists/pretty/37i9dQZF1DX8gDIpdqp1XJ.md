@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,526 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,517 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 |
 | 100 | [Around](https://open.spotify.com/track/58W4eow72ceda18OWfqZol) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Around](https://open.spotify.com/album/1D1N4s26kktiCG5cspFnsL) | 2:30 |
 
-Snapshot ID: `MCwxNzA5ZmJjMDY3OTc4M2NjZjcyMDIyMTMwNzBjZGFkZDZlZDM0NDQz`
+Snapshot ID: `MCw4MTQ3YmU2NzUxMWUyNzhkZTliODdlZGM3YjkxMjFlMzQ2ZmE3ZWJj`

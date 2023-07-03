@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-383 songs - 14 hr 43 min
+384 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Patient](https://open.spotify.com/track/0JiC3KyAo384rat8Jr94fP) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Patient](https://open.spotify.com/album/1WzNLB5zgS7OC5JpKlcTQb) | 2:08 | 2023-01-06 |  |
 | [patterns](https://open.spotify.com/track/7l6PWAfC06SZhcciNN5cvg) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [patterns](https://open.spotify.com/album/2W5UofZrZ2klLNh78FRtKe) | 2:09 | 2022-09-09 | 2022-10-29 |
 | [Peace of Mind](https://open.spotify.com/track/3aEf8uDRQ7bKpjbx4t0aBr) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Peace of Mind](https://open.spotify.com/album/37cGCToxYN6XZj5tBjdagN) | 2:22 | 2022-11-11 | 2022-11-19 |
-| [Pensamientos](https://open.spotify.com/track/2ExnWi1Kvb7KleWA941sfT) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Pensamientos](https://open.spotify.com/album/7GWIQK2Piqye55kQ4p9yzE) | 2:37 | 2023-06-09 |  |
+| [Pensamientos](https://open.spotify.com/track/2ExnWi1Kvb7KleWA941sfT) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Pensamientos](https://open.spotify.com/album/7GWIQK2Piqye55kQ4p9yzE) | 2:37 | 2023-06-09 | 2023-07-03 |
+| [Pensamientos](https://open.spotify.com/track/543bYxQoIihCKDh6ILzQvc) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Pensamientos](https://open.spotify.com/album/6prPy3hzJOGyxB4r3x3xLB) | 2:37 | 2023-06-09 |  |
 | [Persona](https://open.spotify.com/track/3FFuTbrQPsRS0D4eICmroy) | [Jan Preacher](https://open.spotify.com/artist/4VWIKZWMxqkSHTkKfXkYdk) | [Persona](https://open.spotify.com/album/6Ye5LAmvInQI5qWwKhv5Dv) | 2:00 | 2022-09-09 |  |
 | [Places](https://open.spotify.com/track/2EdVtePoPlTAPnEOAtVYTG) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Places](https://open.spotify.com/album/3jgnOP1g2rJwmzHgh9gG5u) | 3:01 | 2022-10-28 |  |
 | [Plateau](https://open.spotify.com/track/4cKtOIQdDBkzUl3OBSy7YA) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [Plateau](https://open.spotify.com/album/6S2m0ekYdzecvatGE2NAxn) | 2:14 | 2022-09-09 | 2022-10-29 |

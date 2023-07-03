@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Yeek & Paris Texas make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,665 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,672 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 |
 | 100 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 
-Snapshot ID: `MCw1OTlhYzE0NTQ5MTM2Y2FlYmRjOGEyYjg1NzVlYjFiODhmMDlhNDU2`
+Snapshot ID: `MCwwOTdmNGZkNTQ1MTc2YzczOGYwYzczZDU3ZGI1YjMxM2EyZjdmNTc1`

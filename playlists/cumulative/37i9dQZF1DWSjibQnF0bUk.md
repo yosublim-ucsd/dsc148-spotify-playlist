@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-364 songs - 21 hr 7 min
+365 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [B.O.A \(Based On Analysis\)](https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [B.O.A \(Based On Analysis\)](https://open.spotify.com/album/5otlaiucF8ysHx3fyjsXc9) | 2:52 | 2022-10-13 | 2022-10-29 |
 | [Baajo](https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baajo](https://open.spotify.com/album/4Yi1z6QAHnztoLxZqNiDEg) | 2:40 | 2020-12-11 | 2022-06-24 |
 | [Backside](https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Backside](https://open.spotify.com/album/5fEsoOUMPpfLxmJTNZTYGo) | 2:23 | 2021-12-09 | 2022-02-03 |
+| [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 | 2023-06-30 |  |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-03-04 |
 | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 | 2022-10-08 |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-01-21 | 2023-06-03 |
@@ -135,7 +136,7 @@
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-14 | 2022-04-19 |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-29 |
 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 | 2020-12-11 | 2022-06-24 |
-| [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 |  |
+| [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2023-07-03 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-07-04 |  |
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-18 | 2023-01-17 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-03-10 | 2023-04-13 |

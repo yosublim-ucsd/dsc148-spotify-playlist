@@ -4,7 +4,7 @@
 
 > Reggae music for dogs that know what’s up.
 
-89 songs - 5 hr 33 min
+90 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Carnival Horns \(feat\. Julito Padron\)](https://open.spotify.com/track/6aQRHBPZdATF3ZDjAU1YV5) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz), [Julito Padron](https://open.spotify.com/artist/7L4eF2PXCx5vYalJ0wj574) | [Havana Meets Kingston](https://open.spotify.com/album/0icwh2eJpzUu9HiTHF4MzL) | 4:16 | 2020-01-10 |  |
 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 | 2020-01-10 |  |
 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 | 2020-01-10 |  |
+| [Faithful \- Dub](https://open.spotify.com/track/3LpLz6kX8UFRdPOCpkmiYo) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Kemar Mcgregor](https://open.spotify.com/artist/0G5z52KM4U0E3I7JruO9o5), [Stephan Warren](https://open.spotify.com/artist/0MBBDSlyevJqzNA1KdbakM) | [Dub Side Of Etana](https://open.spotify.com/album/7L9ugvoprZ9Om4AAlFKDcL) | 3:59 | 2020-01-10 |  |
 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 | 2020-01-10 |  |
 | [Hail H.I.M.](https://open.spotify.com/track/1pVbmMQzdUF1qPYE2ZyoDg) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Best Of The Fittest](https://open.spotify.com/album/2U1Mibfop24jnRldVdnkC6) | 4:15 | 2020-01-10 | 2022-07-29 |
 | [Hail H.I.M.](https://open.spotify.com/track/7LvjSwbMVBVblLzef0WX5k) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [The Best Of Burning Spear](https://open.spotify.com/album/44s5Q7lLZJtgFL4pSucHWw) | 4:15 | 2020-01-10 | 2022-11-13 |
@@ -43,7 +44,7 @@
 | [Love and Inity](https://open.spotify.com/track/1SPQH6bVjEUluloWGjWGzw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Mr\. Marley](https://open.spotify.com/album/53OvQ2dHF8oZh5L23oODgP) | 4:02 | 2020-01-10 | 2022-07-29 |
 | [Love and Inity](https://open.spotify.com/track/6npcU8CzBWlnpL1Iik4mqA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Mr\. Marley](https://open.spotify.com/album/1ggWmG1iMZCdSQxutY86is) | 4:02 | 2020-01-10 |  |
 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 | 2020-01-10 |  |
-| [Loving You In Dub](https://open.spotify.com/track/7GrE7TxZgCqYL2jSAiia5h) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [Etana In Dub](https://open.spotify.com/album/564Zk4j8ByOPGLrYN266ag) | 3:59 | 2020-01-10 |  |
+| [Loving You In Dub](https://open.spotify.com/track/7GrE7TxZgCqYL2jSAiia5h) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [Etana In Dub](https://open.spotify.com/album/564Zk4j8ByOPGLrYN266ag) | 3:59 | 2020-01-10 | 2023-07-03 |
 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 | 2020-01-10 |  |
 | [Me Love To Sing](https://open.spotify.com/track/0zbiazWau8UpMuQeawrjU3) | [The Hempolics](https://open.spotify.com/artist/6gTdfUDImVBjuPjAHZGHUS) | [Kiss, Cuddle & Torture Volume 1](https://open.spotify.com/album/2MbMJQctE97e6zF9h8X8cS) | 3:24 | 2020-01-10 |  |
 | [Me Love To Sing](https://open.spotify.com/track/58YhCs78GFBQn7XjUSuWIo) | [The Hempolics](https://open.spotify.com/artist/6gTdfUDImVBjuPjAHZGHUS) | [Kiss, Cuddle & Torture Volume 1](https://open.spotify.com/album/2NDMv7U6n5sTUu2YFpdKQq) | 3:24 | 2020-01-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-332 songs - 16 hr 15 min
+333 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |
 | [In My Head \(On My Mind\)](https://open.spotify.com/track/6PxXA3bO8ktyaLHUHx1QQ4) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/60eBNPOrnPEY2Ao4RIdw12) | 2:33 | 2021-10-29 | 2022-07-29 |
 | [In My Head \(On My Mind\)](https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA) | 2:33 | 2022-07-22 | 2022-08-06 |
-| [In My Soul](https://open.spotify.com/track/139Tpi5zztQtv42a36TlMB) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [In My Soul](https://open.spotify.com/album/0P21RvD1R1hN7j27eRCrlL) | 3:27 | 2022-10-14 |  |
+| [In My Soul](https://open.spotify.com/track/139Tpi5zztQtv42a36TlMB) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [In My Soul](https://open.spotify.com/album/0P21RvD1R1hN7j27eRCrlL) | 3:27 | 2022-10-14 | 2023-07-03 |
 | [Inertia](https://open.spotify.com/track/3GTk7qVqYwUpMa7x7aTPfl) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [Inertia](https://open.spotify.com/album/28kKLZwzTDI44JZR8DeOPH) | 3:50 | 2022-10-28 | 2023-01-01 |
 | [Inside Out](https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Inside Out](https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH) | 2:40 | 2022-04-01 | 2023-06-10 |
 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 | 2022-11-29 |  |
@@ -232,6 +232,7 @@
 | [No Time](https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [No Time](https://open.spotify.com/album/0GwrfKSTdg8sICTbdhwXrN) | 3:20 | 2021-10-29 | 2022-07-27 |
 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 | 2021-10-29 | 2022-08-06 |
 | [Noise](https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Noise](https://open.spotify.com/album/2maqicbKaJE0nFMiaqbCDF) | 2:39 | 2022-09-02 | 2022-11-13 |
+| [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 |  |
 | [Not Alone \- Don Diablo VIP Mix](https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone \(Don Diablo VIP Mix\)](https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX) | 2:31 | 2023-02-17 | 2023-04-02 |
 | [Not Dancing](https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Not Dancing](https://open.spotify.com/album/1O5tGALZgYG6VHycsGKsIu) | 2:43 | 2021-10-29 | 2022-04-28 |
 | [Nudes](https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nudes](https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb) | 2:16 | 2023-01-06 | 2023-03-25 |

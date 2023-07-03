@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 6404,
+  "num_followers": 6414,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmY1ZDJiMzk1ZGY3ZDQwM2U2YWNlM2NiZWZiZWM4ODNiMTdmMzFk",
+  "snapshot_id": "MCwyNmE2NGI3NjgwZWI5Y2E1ZDZjZWYyMmU4ZmUxNDM3ZDRmYzRhZmJl",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -335,18 +335,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "I'll Never Tell Em Shit",
-        "url": "https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1"
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
       },
       "artists": [
         {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 177475,
-      "name": "I'll Never Tell Em Shit",
-      "url": "https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV"
+      "duration_ms": 200013,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -371,22 +375,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
+        "name": "I'll Never Tell Em Shit",
+        "url": "https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1"
       },
       "artists": [
         {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
         }
       ],
-      "duration_ms": 200013,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
+      "duration_ms": 177475,
+      "name": "I'll Never Tell Em Shit",
+      "url": "https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV"
     },
     {
       "added_at": "2022-10-01 20:31:11",

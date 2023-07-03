@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 200250,
+  "num_followers": 202350,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjMxOTgxNGJjYjJkM2MxMmQ1NWMwOTNhN2U0OTkxZGI5NjViNzY2",
+  "snapshot_id": "MCwwMmFlZmJkMTQxNjgxOWZhZjAxOTM3Yzk0YTFiYzk4M2Q5MjczNzNi",
   "tracks": [
     {
       "added_at": "2023-06-30 06:06:13",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "Young Right Now",
-        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 186140,
-      "name": "Young Right Now",
-      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
         "name": "Take It Off",
         "url": "https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 194604,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
+        "name": "Young Right Now",
+        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 186140,
+      "name": "Young Right Now",
+      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1235,6 +1235,30 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
+        "name": "Rain In Ibiza",
+        "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 141931,
+      "name": "Rain In Ibiza",
+      "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
       },
@@ -1251,30 +1275,6 @@
       "duration_ms": 190217,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
-        "name": "We Could Be Together (feat. Daddy DJ)",
-        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Daddy DJ",
-          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
-        }
-      ],
-      "duration_ms": 149642,
-      "name": "We Could Be Together",
-      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1299,26 +1299,26 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "Rain In Ibiza",
-        "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
+        "name": "We Could Be Together (feat. Daddy DJ)",
+        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Daddy DJ",
+          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
         }
       ],
-      "duration_ms": 141931,
-      "name": "Rain In Ibiza",
-      "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+      "duration_ms": 149642,
+      "name": "We Could Be Together",
+      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1767,22 +1767,22 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1799,6 +1799,26 @@
       "duration_ms": 156620,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -1915,6 +1935,30 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
+        "name": "Good Morning (feat. YOU)",
+        "url": "https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "duration_ms": 175032,
+      "name": "Good Morning (feat. YOU)",
+      "url": "https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
       },
@@ -1955,30 +1999,6 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "Good Morning (feat. YOU)",
-        "url": "https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "YOU",
-          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
-        }
-      ],
-      "duration_ms": 175032,
-      "name": "Good Morning (feat. YOU)",
-      "url": "https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
       },
@@ -1995,6 +2015,22 @@
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -2051,22 +2087,6 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -2179,26 +2199,6 @@
       "duration_ms": 128500,
       "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
       "url": "https://open.spotify.com/track/6MKuYvesr8p8csU9jt5Roa"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-06-30 06:06:13",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2023-06-30 06:06:13",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
-    },
-    {
-      "added_at": "2023-06-30 06:06:13",
-      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
       },
@@ -2399,6 +2379,26 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
+    },
+    {
+      "added_at": "2023-06-30 06:06:13",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
     },
     {
       "added_at": "2023-06-30 06:06:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,238 likes - 67 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,309 likes - 67 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 66 | [Move It](https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Move It](https://open.spotify.com/album/3GCMoYx54rVyRSxQFqntuR) | 2:26 |
 | 67 | [Talk Truth](https://open.spotify.com/track/2CrlQkUnyKFkY3SrsybnDS) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Talk Truth](https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS) | 2:22 |
 
-Snapshot ID: `MCxlODg1ODQzYzgwMGM1MWM4NDk3OTg5YjU3NWZmNzg0NTE0MzQ4ZDRm`
+Snapshot ID: `MCw5OTgyOWNhYmM5MWYxNjQ4MGIxMzk1NzlkZDVhMTQyYmViMzY5M2Yy`

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 127795,
+  "num_followers": 127821,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWJhYTAxN2NmNWMwZmIyNWYxZDQ2MTZjMTA3M2I5MjE5MjIyZjc4",
+  "snapshot_id": "MCxkZjBlM2MyNDc3MGE2M2NkMDgyYjZmYWRjODk0MmI5YTJlNGNkOGNh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Ma\u00f1ana Es Too Late",
-      "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 182708,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Ma\u00f1ana Es Too Late",
+      "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Una Foto en Blanco y Negro",
         "url": "https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 212090,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
     },
     {
       "added_at": "2020-12-01 05:03:00",

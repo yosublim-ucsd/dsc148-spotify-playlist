@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86841,
+  "num_followers": 86860,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjM2NjZhMTQ4MzE3N2RmNzQ0ZmNhZGYzZTFlMjIyMjE3MDU1ODZi",
+  "snapshot_id": "MCxiZDc3MzU0NzY1NmQ3MDJmNzMxMDRhNmIwN2ZjNjQ2MzhhYmU3NmE3",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "Prinz",
+          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
         }
       ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
+      "duration_ms": 192566,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N"
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
       },
       "artists": [
         {
-          "name": "Prinz",
-          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 192566,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg"
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabio G",
-          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 169411,
       "name": "Just You",
       "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1371,6 +1387,22 @@
       "duration_ms": 171678,
       "name": "Is it too much? (Pray things change)",
       "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1395,22 +1427,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
       },
@@ -1427,18 +1443,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/7bTOrz5idAaSbqXbFxRs3E"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1491,26 +1511,6 @@
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/7bTOrz5idAaSbqXbFxRs3E"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
     },
     {
       "added_at": "2022-08-02 15:42:28",

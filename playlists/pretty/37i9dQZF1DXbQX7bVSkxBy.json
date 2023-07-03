@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd?si=PuTN9BCWQFKX6JfGxhGGDQ\">Ryan Ofei</a>",
-  "num_followers": 5280,
+  "num_followers": 5317,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjQ1NmViMjQ2NzA5MmM3NDI5ZjhjZTRmM2U3NDY4ZmUyNmVhNDlm",
+  "snapshot_id": "MCwyYTQ5ZGRlYzU3MjUxNDEzNTIyMTdkY2IzOWNkZDc5MzdkODYxMDMx",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -355,8 +355,8 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
@@ -364,25 +364,25 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 299176,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "Shout It Loud",
-        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 370704,
-      "name": "I Know Who I Am",
-      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
+      "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+        "name": "Shout It Loud",
+        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+      "duration_ms": 370704,
+      "name": "I Know Who I Am",
+      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+      "duration_ms": 299176,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -577,6 +577,26 @@
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
     },
     {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
+    },
+    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "SATISFIED",
@@ -599,22 +619,6 @@
       "duration_ms": 507376,
       "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -653,24 +657,20 @@
       "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
     },
     {
-      "added_at": "2023-06-16 00:01:00",
+      "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Jesus Oh",
-        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 255384,
-      "name": "Jesus Oh",
-      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
+      "duration_ms": 319346,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 383424,
-      "name": "You are Great",
-      "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
-    },
-    {
       "added_at": "2023-05-19 00:01:00",
       "album": {
         "name": "HEAVEN HAS COME",
@@ -851,6 +835,22 @@
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 383424,
+      "name": "You are Great",
+      "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
     },
     {
       "added_at": "2023-04-20 23:59:00",

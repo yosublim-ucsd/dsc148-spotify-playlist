@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 63765,
+  "num_followers": 63943,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDRmYThjMzdiY2FiZjFiZjdmNDFmYmQ5MmEwZTY1NWUwNjM2YmQ2",
+  "snapshot_id": "MCw4OWZhZTc1M2EzNDZlMTA2ZWFmYTdkMzA2NzM1OWE0YWMzZGY5MDg4",
   "tracks": [
     {
       "added_at": "2023-06-21 08:03:15",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Swings Rodgers And Hart",
         "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 129266,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Ella Swings Gently With Nelson",
         "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
         "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Get Happy! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
@@ -567,6 +551,42 @@
       "duration_ms": 142333,
       "name": "A-Tisket, A-Tasket",
       "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "Taking A Chance On Love",
+      "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -623,26 +643,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "Taking A Chance On Love",
-      "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Gemini Changes",
         "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 130506,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -707,18 +707,34 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -787,22 +803,6 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 195960,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -915,22 +911,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale - 1959 Version",
-      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "The Divine One",
         "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 140173,
       "name": "You Stepped out of a Dream - 2007 Remaster",
       "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Julie... At Home",
         "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 125946,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Happy Little Sunbeam",
+      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Saga Jazz: Easy to Love (Modern Series)",
-        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Happy Little Sunbeam",
-      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Harmonica Jazz",
-        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 132144,
-      "name": "Cocktails For Two",
-      "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Improvisations for the Human Voice",
         "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 166280,
       "name": "Farmer's Market",
       "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Harmonica Jazz",
+        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 132144,
+      "name": "Cocktails For Two",
+      "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
     }
   ],
   "unique_name": "Sunny Day Jazz",

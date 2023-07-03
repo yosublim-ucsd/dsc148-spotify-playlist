@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,175 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,196 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 41 | [Sununguka \(feat\. Zeke Manyika\) \- Alan Dixon Italo Mix](https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz) | [Faze Action](https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Sununguka \(feat\. Zeke Manyika\)](https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98) | 7:24 |
 | 42 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 43 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
-| 44 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
-| 45 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
+| 44 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
+| 45 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 
-Snapshot ID: `MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy`
+Snapshot ID: `MCw4MzIzYzdjY2FkNTI4ODMzOTAwMTk0OGNmNjVhYzNkNTZjNWNmYzc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,332 likes - 156 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,383 likes - 156 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 155 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 |
 | 156 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 |
 
-Snapshot ID: `MCxiMTJmNGQzMmQ0ZjczMGQwMTcyMDQ3N2UxNTA3ZjZmOTFhNWIzODE3`
+Snapshot ID: `MCxjMjE2NjYyM2FmMDIwZWE5ODk0NjZlNGRkOGE2ODcwOTBiNDhhZjYz`

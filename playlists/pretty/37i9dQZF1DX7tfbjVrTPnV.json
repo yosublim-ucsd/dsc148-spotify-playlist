@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 188886,
+  "num_followers": 188952,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2RiNjdiOGEyMTBhYmFkYTRjNTgxNGZiMjk5ODhjYWVjZWY1YTdj",
+  "snapshot_id": "MCxjZTdlZGZjNDllODRkMDk3YzgwMmVmN2FhYWMwZmEwYTk0MzAzNTEz",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Out Among The Stars",
         "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
       },
@@ -603,22 +587,6 @@
       "duration_ms": 180760,
       "name": "Out Among the Stars",
       "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -639,6 +607,38 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Raising Sand",
+        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Killing the Blues",
+      "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Hickory Wind",
         "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 239800,
       "name": "Memphis In The Meantime",
       "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Raising Sand",
-        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Killing the Blues",
-      "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Live At Budokan",
-        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Night Surfer",
         "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 221413,
       "name": "Ford Econoline",
       "url": "https://open.spotify.com/track/1FuurW58UyXdpxFJaY3dYW"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Brushy Mountain Conjugal Trailer",
+      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Brushy Mountain Conjugal Trailer",
-      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+        "name": "Most Messed Up",
+        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
       },
       "artists": [
         {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
         }
       ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+      "duration_ms": 352546,
+      "name": "Longer Than You've Been Alive",
+      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Most Messed Up",
-        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 352546,
-      "name": "Longer Than You've Been Alive",
-      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 186152,
       "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2111,34 +2111,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "12 Stories",
-        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
         }
       ],
-      "duration_ms": 216906,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2159,18 +2143,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
       },
       "artists": [
         {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "12 Stories",
+        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -2231,38 +2247,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 161013,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Night Surfer",
         "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 202541,
       "name": "Tell Me Anything (Turn to Gold)",
       "url": "https://open.spotify.com/track/5p44y6jXREhxuh3rpxaNjg"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 215570,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Whole Lotta Highway (With A Million Miles to Go)",
-      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 221183,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Whole Lotta Highway (With A Million Miles to Go)",
+      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2523,6 +2523,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Barbeque",
+      "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -2543,22 +2559,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 282133,
-      "name": "Barbeque",
-      "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Pure & Simple",
         "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
       },
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Easy Gone",
         "url": "https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 236800,
       "name": "Who Do Call the Shots",
       "url": "https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
-      },
-      "artists": [
-        {
-          "name": "Fred Eaglesmith",
-          "url": "https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "What It Takes",
-      "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Stitch of the World",
         "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 227226,
       "name": "Dusty Old Man",
       "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
+      },
+      "artists": [
+        {
+          "name": "Fred Eaglesmith",
+          "url": "https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
     }
   ],
   "unique_name": "Americana Icons",

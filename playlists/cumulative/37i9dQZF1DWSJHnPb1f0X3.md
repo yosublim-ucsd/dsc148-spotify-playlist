@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-571 songs - 1 day 4 hr 39 min
+572 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/track/46BIpPudYCyNxUTz4f2E8k) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3) | 2:39 | 2022-01-09 | 2022-07-29 |
 | [Can't Let Go](https://open.spotify.com/track/2wTDheT0TPUM7eNulUZwCl) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [Can't Let Go](https://open.spotify.com/album/0EjxnY7BjMmUNMbmmCZtQK) | 3:28 | 2021-12-17 | 2022-01-15 |
 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 | 2021-12-31 | 2022-04-21 |
+| [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 |  |
 | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb) | 2:56 | 2023-06-02 |  |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-06-03 | 2023-03-10 |
 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2021-12-17 |  |
@@ -263,7 +264,7 @@
 | [Insomnia \- King Topher Remix](https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2) | [Insomnia \(King Topher Remix\)](https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX) | 2:56 | 2021-12-17 | 2022-07-09 |
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-18 | 2022-07-29 |
 | [iPad](https://open.spotify.com/track/4FZFNT9WFjVUwLEXFgC1eQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:22 | 2022-07-28 | 2022-08-17 |
-| [iPad](https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:22 | 2022-08-26 |  |
+| [iPad](https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:22 | 2022-08-26 | 2023-07-03 |
 | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq) | 2:44 | 2022-03-25 | 2022-04-18 |
 | [It's Over](https://open.spotify.com/track/5oSjYxCTEh81HYUe1Oqfnn) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV) | [One More Saturday Night](https://open.spotify.com/album/38QPffzI4T8m7ngEFGw2q4) | 3:44 | 2022-03-25 | 2022-04-21 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/3gCpmhKc9E3Xk5YqpphZyJ) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/5j3PYkf9dngBpYA0dPiijh) | 2:46 | 2022-03-25 | 2022-04-15 |

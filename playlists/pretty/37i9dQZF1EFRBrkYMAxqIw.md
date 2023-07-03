@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 63 | [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 |
 | 64 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 |
 | 65 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 |
-| 66 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
-| 67 | [Good Time All The Time](https://open.spotify.com/track/7x1cMCQz8gCNkTqOU7TB7R) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Good Time All The Time](https://open.spotify.com/album/2lX0SIWgqbbHJOLjArC57h) | 3:12 |
+| 66 | [Good Time All The Time](https://open.spotify.com/track/7x1cMCQz8gCNkTqOU7TB7R) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Good Time All The Time](https://open.spotify.com/album/2lX0SIWgqbbHJOLjArC57h) | 3:12 |
+| 67 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
 | 68 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
 | 69 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/629FIvZBa2hJuEN3VB9zAl) | 2:33 |
 | 70 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 84 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 85 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `MjgxMzc3MjAsMDAwMDAwMDA5ZGNlNmU2M2EwNjNjZTlmYzZiYzJiMzBmZGJkOWE3Yg==`
+Snapshot ID: `MjgxMzkxNjAsMDAwMDAwMDA2ZGM0MTkxZWVkNjE4NDBkMzRiNmEyMTdiZGMzZThmYg==`

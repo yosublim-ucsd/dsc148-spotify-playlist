@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=90efc23ecc5643d8">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,934 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,083 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [glow in the dark](https://open.spotify.com/track/0WJqfBI18YSvPTJtDsGhCL) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes EP](https://open.spotify.com/album/5iuuAXSPhr22k3hLi4jalo) | 2:43 |
 | 100 | [broken](https://open.spotify.com/track/6IlzL9MIRWlBpxEzQjExpg) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [allie](https://open.spotify.com/album/6yfr9gCECfLJVqQYxcBWOX) | 2:57 |
 
-Snapshot ID: `MCw4ZjJmMmJmOTBiODZlOGE1NTUyNDlkM2ViZTJkMTMyYzFiOGFkMTY5`
+Snapshot ID: `MCwxZGQyYTBkNmVjYjlkZmM3NTk4OWMzNWEzZTAxYzY1NmYyNGYxNGQ0`

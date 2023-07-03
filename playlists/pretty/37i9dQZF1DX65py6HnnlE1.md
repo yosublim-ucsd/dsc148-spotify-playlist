@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,367 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,669 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 81 | [Con el Pecho y el Corazon](https://open.spotify.com/track/0TycDAQAhlrHloRKzaqQQD) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [12 Éxitos](https://open.spotify.com/album/6U9yfJLogNqXP2bce2IW2f) | 2:51 |
 | 82 | [Traicionera](https://open.spotify.com/track/28evvLLtLeY1UHHFOFuqSR) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Como Yo](https://open.spotify.com/album/07J3NTX23uaG0HbXkRKNLI) | 3:40 |
 | 83 | [Perdóname](https://open.spotify.com/track/1GBbK7hyxKpYGgT8EHKsRI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Dos X Uno](https://open.spotify.com/album/0LBbTfP8nGZgc2sWVaxMpb) | 4:14 |
-| 84 | [Como El](https://open.spotify.com/track/4qH7gGLrNekb8BeXdXvJQo) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 2:40 |
+| 84 | [No Le Pare](https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Dobletazo](https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy) | 2:59 |
 | 85 | [Mi Secreto](https://open.spotify.com/track/1cRhmp3FdWJCO9pwSlhZJM) | [Leonardo Paniagua](https://open.spotify.com/artist/3Kml6GsFtC3qYpQJLOlt1P) | [Mi Historia Musical](https://open.spotify.com/album/6ulNGwJDbhEeSNkC8e8jSZ) | 4:14 |
 | 86 | [Dejame Entrar En Ti](https://open.spotify.com/track/6urIURIjzDvjfSjqFtlunC) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dejame Entrar En Ti](https://open.spotify.com/album/7HJYNuEZ29P4jK806JqkkX) | 3:48 |
 | 87 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
 | 100 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 |
 
-Snapshot ID: `MCxjNzY1Y2I2ODRkYjk1ZjExZmExMWYyMzI5OTRmOTYwZjczYzE5YTE3`
+Snapshot ID: `MCw4MThhNjg4NWFkZTZhMWY2YTAwNDM0MzcxNWQ0YWM0NjcyNzE5N2U0`

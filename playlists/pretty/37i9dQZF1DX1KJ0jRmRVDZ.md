@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,055 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,151 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 |
 | 50 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 |
 
-Snapshot ID: `MCwxYWVlYzE1MjQ3Y2ZiMmQ0ZDQ0NjYxY2MzZGIyYjRjYjE5MDZkMzhk`
+Snapshot ID: `MCwxZWUyMjdiNzRkNDQ5MjYzZTIyNmRjNDJhYzFiZTZkMzIyMjI4MGI1`

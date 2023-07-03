@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-271 songs - 19 hr 32 min
+272 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/7Frp5P5UEOtDssUfVFWvuM) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:06 | 2022-07-27 |  |
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/6tFTPkPy5K0uKlhEbG9mmO) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [宇宙の詩 〜Higher and Higher〜 / 悲壮美](https://open.spotify.com/album/6eZM44E65EIWF2DQsUJT8w) | 5:07 | 2022-10-17 | 2022-11-13 |
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/3hVgMwdW5l9O3ZM9RMiA3Z) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [宇宙の詩 〜Higher and Higher〜](https://open.spotify.com/album/0DoLBKTRjTzIschV6E02hb) | 5:07 | 2022-07-27 | 2022-07-29 |
+| [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 | 2023-07-02 |  |
 | [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 | 2022-07-27 | 2023-06-30 |
 | [少年の果て](https://open.spotify.com/track/7mdSaYT0WO5V3R8W4Xj0D3) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Pierrot Dancin'](https://open.spotify.com/album/4SyIdDTlbshUB2LXYsO19e) | 5:04 | 2023-06-19 |  |
 | [明日へ](https://open.spotify.com/track/0tKCwJhLcGRppRo18jKMlj) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [明日へ](https://open.spotify.com/album/3c2DixfbwwuZc5k4T7WTIY) | 5:16 | 2022-07-27 | 2022-07-29 |

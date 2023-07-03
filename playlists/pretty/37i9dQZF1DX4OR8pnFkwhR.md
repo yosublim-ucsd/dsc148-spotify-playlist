@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: DURDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,265 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,273 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [青春みたいだ](https://open.spotify.com/track/5vXE55Ruduk3vkaXtLu4P7) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [青春みたいだ](https://open.spotify.com/album/5ezEYFQV4ZKeRghKw1jNfz) | 3:38 |
 | 70 | [応援歌](https://open.spotify.com/track/1I2NbDvy7SNOjB4sGtwpxu) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [応援歌](https://open.spotify.com/album/5Q8vPSUAVNq7ex26Sh9NXN) | 3:27 |
 
-Snapshot ID: `MCxiOTYzYWRiOTM5YTFkYjk4MDZhYzI1OWVmODI2MGEyYjE3ODgwYzk3`
+Snapshot ID: `MCxjZmQ0ZGYzOTU1YmVjZjEyY2UwZTU3ZmQzNjBjNjUxZTgyNjE0N2Ew`

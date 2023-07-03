@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: merrymerryseoul\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,064 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,181 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [007 \(feat\. Syd\)](https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [007](https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB) | 3:25 |
 | 70 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
 
-Snapshot ID: `MCxkZjcyMTU1ZmM4N2RlNGRkMTAxYzY2NmJlYTU4MzljNWI5YzFkMTE1`
+Snapshot ID: `MCxkNzczN2I4NGI1ZDYwNDAxMWUzNzI2M2Q4MTEzNWU1NDY5OGU1ZGNi`

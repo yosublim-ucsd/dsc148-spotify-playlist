@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 
 > Reggae music for dogs that know what’s up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,322 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,341 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 30 | [Can't Stop Now](https://open.spotify.com/track/3Ux0rrBpawDu2Wl5n8v8jz) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Jovi Rockwell](https://open.spotify.com/artist/3NB7oCgOzcdYVtdvNIEDep) | [Guns Don't Kill People...Lazers Do](https://open.spotify.com/album/4ICw5ualRoQjCO8K61B6i7) | 4:03 |
 | 31 | [Just One Of Those Days](https://open.spotify.com/track/6YUTHNchsxKwWs37fFaV95) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:53 |
 | 32 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
-| 33 | [Loving You In Dub](https://open.spotify.com/track/7GrE7TxZgCqYL2jSAiia5h) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [Etana In Dub](https://open.spotify.com/album/564Zk4j8ByOPGLrYN266ag) | 3:59 |
+| 33 | [Faithful \- Dub](https://open.spotify.com/track/3LpLz6kX8UFRdPOCpkmiYo) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Kemar Mcgregor](https://open.spotify.com/artist/0G5z52KM4U0E3I7JruO9o5), [Stephan Warren](https://open.spotify.com/artist/0MBBDSlyevJqzNA1KdbakM) | [Dub Side Of Etana](https://open.spotify.com/album/7L9ugvoprZ9Om4AAlFKDcL) | 3:59 |
 | 34 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 35 | [You Are My Angel](https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:52 |
 | 36 | [Nuh Compatible](https://open.spotify.com/track/0OkZO8SN69SlpgBw5KPtn9) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Anju Blaxx](https://open.spotify.com/artist/2JFZKD5b40RXXmpYJkLOvl) | [Nuh Compatible](https://open.spotify.com/album/6DD6G0WIFFKfpeJIvmK2aZ) | 3:20 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 51 | [Red Sea Dub](https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq) | 4:41 |
 | 52 | [It Mek](https://open.spotify.com/track/6JqjhpgxgoCYSBQ4PzIEn9) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:32 |
 
-Snapshot ID: `MCw1MmFiN2JkOGY1M2FhMzgxYjhiODA5MTBiZDMyMjVjNzBlYTI0ZDQ2`
+Snapshot ID: `MCw4MGU3MjJkYjZmNWNkMGFkMThmZDkzMDk1OTc0NjQ2OTA1ZjBmOTVi`

@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-222 songs - 14 hr 1 min
+223 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3IGssOQU1XqizfaLUro3iE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Samba Goal \- Powered By R10 \(USA Version\)](https://open.spotify.com/album/6OhixhDKgwVl5SxEPrPX61) | 4:34 | 2022-01-01 | 2022-06-13 |
 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Em Casa](https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0) | 4:35 | 2022-01-01 | 2023-03-08 |
+| [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 | 2023-06-16 |  |
 | [Despues de Almuerzo Parte 3](https://open.spotify.com/track/4uIJmaku85TiNpKyCFjuTD) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica para Despues de Almuerzo](https://open.spotify.com/album/51tTFDkrYX6v1js0jEarj9) | 3:15 | 2021-12-09 | 2022-07-29 |
 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 | 2022-01-01 |  |
 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 | 2021-12-09 |  |
@@ -111,7 +112,7 @@
 | [Libre y en Movimiento](https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Libre y en Movimiento](https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0) | 3:03 | 2023-04-20 |  |
 | [Linda Guajira](https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Our Man In Havana](https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN) | 3:03 | 2022-01-01 |  |
 | [Linda Guajira](https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0), [Mongo Santamarias Men](https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM) | [Latin Jazz, Vol\. 3](https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h) | 3:05 | 2021-12-09 | 2022-07-29 |
-| [Llama](https://open.spotify.com/track/5ROtCoF1EiaHN0ZbKsBMMt) | [Monareta](https://open.spotify.com/artist/4jSRnBG7AjFDDGDWwt24yg) | [Picotero](https://open.spotify.com/album/39D8leoVf5CvAdDtwhc5BA) | 3:51 | 2023-03-07 |  |
+| [Llama](https://open.spotify.com/track/5ROtCoF1EiaHN0ZbKsBMMt) | [Monareta](https://open.spotify.com/artist/4jSRnBG7AjFDDGDWwt24yg) | [Picotero](https://open.spotify.com/album/39D8leoVf5CvAdDtwhc5BA) | 3:51 | 2023-03-07 | 2023-07-03 |
 | [Llama](https://open.spotify.com/track/7e7pzSgy6vpqJW4iZC239Y) | [Monareta](https://open.spotify.com/artist/4jSRnBG7AjFDDGDWwt24yg) | [Picotero](https://open.spotify.com/album/0vPbGBZEYaIoFsT4SP6tGy) | 3:51 | 2022-01-01 | 2022-07-28 |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 | 2022-01-01 | 2023-05-23 |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/13uDG9SBhqz2Ucca2oSHgk) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/6LY1KFmfTyYmBOkP2JTrE0) | 3:09 | 2021-12-09 | 2022-07-29 |

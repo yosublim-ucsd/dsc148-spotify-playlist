@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-393 songs - 1 day 10 hr 46 min
+395 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 | 2021-12-08 |  |
 | [Boats](https://open.spotify.com/track/5NOroGtZSBsdCid7axlyXj) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Boats](https://open.spotify.com/album/13zXBB7vZeWSmDvLOYjqQd) | 5:49 | 2021-12-08 | 2022-10-07 |
 | [Boats](https://open.spotify.com/track/69ZWVeHTMA8zwjOiCfpvOi) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 5:49 | 2022-05-03 |  |
-| [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 |  |
+| [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 | 2023-07-03 |
 | [Bouquet](https://open.spotify.com/track/1WVVHCbf9vWmb0dLI5ZGhB) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Bouquet](https://open.spotify.com/album/5iAyiisTfsZ1GeUEIoJ0N0) | 4:08 | 2021-12-08 |  |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-09 |  |
 | [Break Silent](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Break Silent](https://open.spotify.com/album/5iXJeKdUJZwPFyJ1LfmYyf) | 4:39 | 2022-10-28 |  |
@@ -104,6 +104,7 @@
 | [Erhu](https://open.spotify.com/track/0sXODNdDzktWJGs5X8lIym) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [SF](https://open.spotify.com/album/7ceDiBTfAmQdHRD7orCyol) | 6:21 | 2021-12-08 | 2022-06-01 |
 | [Evaporate ft\. PaulWetz \- Edit](https://open.spotify.com/track/6NWAAl3Awelh8I7cs4ud2w) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Evaporate EP](https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1) | 4:28 | 2021-12-08 |  |
 | [Every Cow Has A Bird \- original mix](https://open.spotify.com/track/1Gu8YosrIxq31SoQA1Nwfh) | [Guti & Dubshape](https://open.spotify.com/artist/6tJPCovbmTJlZiKQ89583A) | [Every Cow Has A Bird / Bueno](https://open.spotify.com/album/6liHJOZ7VRPt96kREPCKN1) | 7:55 | 2022-05-03 |  |
+| [EVERYTHINGSALRIGHT](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [EVERYTHINGSALRIGHT](https://open.spotify.com/album/6fxy5Sv8laZHCodqu9ICQG) | 2:55 | 2023-06-30 |  |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-28 |  |
 | [Fade](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Fade](https://open.spotify.com/album/29CnJBF1VbNG79dvyguEzj) | 3:18 | 2023-02-03 |  |
 | [Fade \- Fatima & Jerome Interpretation](https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 6:03 | 2021-12-08 | 2023-03-07 |
@@ -129,6 +130,7 @@
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 |  |
 | [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 |  |
+| [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 |  |
 | [Gravity \(with Delhia De France\)](https://open.spotify.com/track/6mIce4eaRg6UOFHABNX2xL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Gravity / Daka](https://open.spotify.com/album/29QX0FyGAT6KSSPyzT8s1Q) | 5:29 | 2021-12-08 |  |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2021-12-08 | 2022-07-28 |
 | [Hide and Seek](https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Hide and Seek](https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM) | 5:09 | 2021-12-08 | 2022-07-29 |
@@ -362,7 +364,7 @@
 | [Tranquility](https://open.spotify.com/track/1FTbeseqg1XrgTnPjhChjn) | [Tommy Vercetti](https://open.spotify.com/artist/2noNB4p7pYhP4XfNcdDfJc) | [Tranquility EP](https://open.spotify.com/album/3sb10HqXfC7j3JXdp1j9Up) | 5:56 | 2021-12-08 | 2022-07-29 |
 | [Transience](https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Transience EP](https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz) | 5:40 | 2023-01-06 |  |
 | [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 | 2021-12-08 |  |
-| [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-12-08 |  |
+| [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-12-08 | 2023-07-03 |
 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 | 2021-12-08 | 2022-07-22 |
 | [tu tienes mi corazón](https://open.spotify.com/track/2b4xMVXYYIIbWjDLSy1Wcv) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [tu tienes mi corazón](https://open.spotify.com/album/6JcbnYuwiJ1UYCAtlwSWlo) | 4:09 | 2021-12-08 |  |
 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 | 2021-12-08 |  |

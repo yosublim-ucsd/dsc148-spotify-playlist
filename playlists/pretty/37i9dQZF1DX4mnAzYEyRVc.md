@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Ska\-P
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,318 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,389 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 51 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
 | 52 | [Adiós adiós](https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Terc3ra Llamada](https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG) | 3:44 |
 | 53 | [Sólo Vivir](https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 3:26 |
-| 54 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
-| 55 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
+| 54 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
+| 55 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 56 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
 | 57 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 58 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 95 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 | 96 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
 | 97 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
-| 98 | [A Tu Vera](https://open.spotify.com/track/7kLTMJtWuA9aM2NS17G5Jx) | [La Dstylería](https://open.spotify.com/artist/3QeFVejEMHhDmFthqr5qVd) | [A Tu Vera](https://open.spotify.com/album/6YpEaWnqTlyedWkM9kZveJ) | 3:41 |
-| 99 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
+| 98 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
+| 99 | [A Tu Vera](https://open.spotify.com/track/7kLTMJtWuA9aM2NS17G5Jx) | [La Dstylería](https://open.spotify.com/artist/3QeFVejEMHhDmFthqr5qVd) | [A Tu Vera](https://open.spotify.com/album/6YpEaWnqTlyedWkM9kZveJ) | 3:41 |
 | 100 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
 
-Snapshot ID: `MCxlZDg4ZDc2YmU4YjZmOGU2ODJkMjdlMzg3ZmRiMzUyMTU5ODExOTVk`
+Snapshot ID: `MCxmZDc0M2FjZDRhNDc2NzVhOWZmMTk5MzZkMDU3OTQ4M2VkZTVhMjVl`

@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-416 songs - 23 hr 8 min
+417 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Anomaly](https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Anomaly](https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb) | 3:52 | 2021-12-08 |  |
 | [Apricot \- Remix](https://open.spotify.com/track/3ohOgM9Zdz1ynBOosQqtTK) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z), [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [Apricot Remixes](https://open.spotify.com/album/6hVvUy8oO6P21H1zuTRQvo) | 3:24 | 2022-04-11 | 2022-07-27 |
 | [Aquascaping ピ ラ ミ ッ ド](https://open.spotify.com/track/3JWklyImki98eVMPDMWH1y) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/5liW7KNunCxMaEP3gbCI1C) | 1:14 | 2021-12-08 | 2022-11-19 |
+| [Aquascaping ピラミッド](https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 1:14 | 2022-11-04 |  |
 | [Aquascaping ピラミッド](https://open.spotify.com/track/5EvSLbm4GtdLqe4FSCiQzk) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/1RVY7CvOIuaG7tFYijBNXC) | 1:14 | 2022-09-11 | 2023-06-11 |
 | [Arms of Mine](https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR) | [Le Cassette](https://open.spotify.com/artist/10245Q9NZEdn6i5Rzs9zkJ) | [Left to Our Own Devices](https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy) | 6:56 | 2022-02-27 |  |
 | [Artifacts](https://open.spotify.com/track/6PldCT3Sm2dWMUhEuome0r) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Artifacts](https://open.spotify.com/album/3TV2b9yarTfGkvhLqa1pVt) | 3:47 | 2022-01-26 | 2022-05-22 |
@@ -195,7 +196,7 @@
 | [Laser Island](https://open.spotify.com/track/2qJNF9zh4NSXeTNri1WKrK) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Gogi 93](https://open.spotify.com/artist/3eOwKRgznUp7QxbWDDG4fZ), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Laser Island](https://open.spotify.com/album/4n24Qg24hmkqFSogWB0jNd) | 4:13 | 2021-12-08 | 2022-07-25 |
 | [Lemon\-Wheel](https://open.spotify.com/track/6Rd1X6kQ922z6oMTr7f2nW) | [INTERACTIVE CO.](https://open.spotify.com/artist/47B6fEVzfsr9gjdN43lhhm), [p o l y s t a t i o n 9 3](https://open.spotify.com/artist/1klZhqYIfWxnMOqaxU7MVX) | [Supergrafx](https://open.spotify.com/album/7I0OddhIoViR62Ubb04AHO) | 2:42 | 2022-04-12 | 2022-06-07 |
 | [Liberty](https://open.spotify.com/track/7e3wRk18PN3K5quuGkz00d) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [The New Beginning](https://open.spotify.com/album/6ocanOmHYJ0PucHvWjIpzA) | 3:25 | 2022-07-15 | 2022-08-30 |
-| [Lido](https://open.spotify.com/track/4AYTzUgvfvYgzm4zdIAqKu) | [GammaFlow](https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S) | [Prism](https://open.spotify.com/album/1Y7egcgeNjvWjC8Dc0OFJZ) | 3:40 | 2022-07-15 |  |
+| [Lido](https://open.spotify.com/track/4AYTzUgvfvYgzm4zdIAqKu) | [GammaFlow](https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S) | [Prism](https://open.spotify.com/album/1Y7egcgeNjvWjC8Dc0OFJZ) | 3:40 | 2022-07-15 | 2023-07-03 |
 | [Lifetime](https://open.spotify.com/track/5LyasyYr7dDoTYypnZ9A2k) | [Surfing](https://open.spotify.com/artist/2vTrzq2s1adq6MrQ5mdQNj) | [Deep Fantasy](https://open.spotify.com/album/0AAMPkXXB6bjlH499tR5BM) | 3:23 | 2021-12-08 |  |
 | [Logging In](https://open.spotify.com/track/4j9rNpmMUFosy9ZCZk0FbC) | [II nøthing II](https://open.spotify.com/artist/2278irSrnfAHzxhUjkTuvk) | [Virtual Loneliness](https://open.spotify.com/album/5XXAMHWUO9aA59w6UpJBpv) | 1:42 | 2022-04-12 | 2022-08-13 |
 | [Lonely Beach](https://open.spotify.com/track/03jjtp17O6k1P24HiEzarH) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Pleasures of Conformity](https://open.spotify.com/album/5xcDKxbn9a0xpAZGWfPSNr) | 2:22 | 2022-08-12 | 2022-09-12 |

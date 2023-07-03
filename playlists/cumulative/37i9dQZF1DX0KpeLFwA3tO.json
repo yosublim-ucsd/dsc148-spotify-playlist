@@ -7503,6 +7503,24 @@
     },
     {
       "album": {
+        "name": "Good Living Is Coming For You",
+        "url": "https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217104,
+      "name": "Good Living Is Coming for You",
+      "url": "https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os"
+    },
+    {
+      "album": {
         "name": "Good Living Is Coming for You",
         "url": "https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI"
       },
@@ -7514,7 +7532,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 217104,
       "name": "Good Living Is Coming for You",
       "url": "https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4"

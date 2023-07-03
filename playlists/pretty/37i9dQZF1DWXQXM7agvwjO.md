@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Cornelius
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,808 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,387 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,15 +93,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 83 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 |
 | 84 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
 | 85 | [sanctuary](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [sanctuary](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
-| 86 | [small town](https://open.spotify.com/track/1uP1wSZet6v3DHJhO4vstB) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [small town](https://open.spotify.com/album/7wpAZr1j2jJaH7GtP3SemX) | 3:25 |
+| 86 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
 | 87 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 |
-| 88 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
-| 89 | [Bon Voyage](https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 2:09 |
+| 88 | [Bon Voyage](https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Cap, Capo, Cigarettes & Beer](https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN) | 2:09 |
+| 89 | [small town](https://open.spotify.com/track/1uP1wSZet6v3DHJhO4vstB) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [small town](https://open.spotify.com/album/7wpAZr1j2jJaH7GtP3SemX) | 3:25 |
 | 90 | [APPLE PIE](https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Darren Ashley](https://open.spotify.com/artist/5N0Y2jMirjocizWBWJBXu3) | [APPLE PIE](https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE) | 2:21 |
 | 91 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 92 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
-| 93 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
-| 94 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
+| 93 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
+| 94 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
 | 95 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 |
 | 96 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
 | 97 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
 | 100 | [Witches](https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc) | 3:51 |
 
-Snapshot ID: `MCxmZjJkZGYxOGM5NTRmYjY5NmFkMjUxNmEyMmUxMzIwNjNhMzQ2ZTAz`
+Snapshot ID: `MCwxZjg3OTNlNjllNzUwNDg3MWFlNDY0ZjcyN2M4ZTdkODE4NzNlZjY4`

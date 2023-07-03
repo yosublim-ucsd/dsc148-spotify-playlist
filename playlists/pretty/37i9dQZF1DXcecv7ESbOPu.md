@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,398 likes - 115 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,411 likes - 115 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 | 115 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 |
 
-Snapshot ID: `MCwyYzdlMjFjM2NkMmYwMTNlOWJiMDgyNjJjNDgxMjBmMDVmOTRkMTM3`
+Snapshot ID: `MCxhMmI5ZjQ2YmQxNzRmZDc0ZGM4NjI2NjhjMWJiNWNlMzQzZDUxNzVm`

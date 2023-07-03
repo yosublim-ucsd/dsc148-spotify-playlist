@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,422 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,450 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 28 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 29 | [Eternal Summer](https://open.spotify.com/track/6IRzBP4gVoV4D2zHmocoWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 6:15 |
 | 30 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 31 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 |
-| 32 | [Nova Scotia 500](https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv) | [Boyscott](https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw) | [Goose Bumps](https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM) | 3:12 |
+| 31 | [Nova Scotia 500](https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv) | [Boyscott](https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw) | [Goose Bumps](https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM) | 3:12 |
+| 32 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 |
 | 33 | [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 |
 | 34 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
 | 35 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 45 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
 | 46 | [Darlin'](https://open.spotify.com/track/2TmqE1B16v0H6BLbBz38ob) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 4:18 |
 | 47 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
-| 48 | [When You Were Made](https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:38 |
-| 49 | [Raspberry Jam](https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL) | 3:48 |
+| 48 | [Raspberry Jam](https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL) | 3:48 |
+| 49 | [When You Were Made](https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:38 |
 | 50 | [Peace Blossom Boogy](https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 3:14 |
 
-Snapshot ID: `MCw0MTkwYmI1OTQxMTBlY2I0NjViNzhjYmM2MzllZjkzMmViNWYzMjg1`
+Snapshot ID: `MCwxZmFmZGM0NjU2NDU2NmNjNzNmMTczNDM3ZDQzZGI3ZDIyMjJjZGI0`

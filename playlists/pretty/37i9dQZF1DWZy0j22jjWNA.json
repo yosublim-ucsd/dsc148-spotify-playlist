@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 81651,
+  "num_followers": 81701,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi",
+  "snapshot_id": "MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Walk into a Storm",
         "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 197120,
       "name": "Time's Always Leaving",
       "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 188092,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Volume II",
         "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 308883,
       "name": "Suffering Servant",
       "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
-      },
-      "artists": [
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 188092,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Free Like a Broken Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Free Like a Broken Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Radiant (Shine Like Diamonds)",
         "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 241031,
       "name": "Radiant (Shine Like Diamonds)",
       "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Free Like a Broken Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Free Like a Broken Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
     }
   ],
   "unique_name": "Good People Good Music",

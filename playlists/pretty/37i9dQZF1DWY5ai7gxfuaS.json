@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 246557,
+  "num_followers": 246691,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
+  "snapshot_id": "MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Downer",
         "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 153931,
       "name": "Diazepam",
       "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+        "name": "ABEYANCE",
+        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
       },
       "artists": [
         {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
         }
       ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "ABEYANCE",
-        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
       },
       "artists": [
         {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
         }
       ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Black Brick",
+        "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "duration_ms": 447297,
+      "name": "Black Brick",
+      "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Black Brick",
-        "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 447297,
-      "name": "Black Brick",
-      "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "The Weight That Holds Me Here",
         "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 186502,
       "name": "With You",
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "All Fine / eniF llA",
+        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "LXVE",
+      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "All Fine / eniF llA",
-        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Demon Supreme",
+        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 211759,
+      "name": "Demon Supreme",
+      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2023-02-09 19:59:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Knust, Cesar MC, Xamã, Chris MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,495 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,576 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Algumas frases](https://open.spotify.com/track/08zbjBLRtTe5cSEJKDxiO5) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Algumas frases](https://open.spotify.com/album/3VZcWuRtvlvQeWjcwyChSm) | 3:21 |
 | 75 | [Foda Que Ela É Linda](https://open.spotify.com/track/4saoLEiUcHah8wjObocRDq) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(AO VIVO\)](https://open.spotify.com/album/2yDb9A4k58djFPcENLbHxP) | 3:03 |
 
-Snapshot ID: `MCw4YTBhMTVlYTFjMDgwY2MyZTgxYWY2MWE3ZTc0ZjU4ODdiYzkwZjJj`
+Snapshot ID: `MCw2MjA3ZTI5NGIwNGFkZDZjM2FlYTQyODk5NmE3MDg1MmE0OWYxNTcw`

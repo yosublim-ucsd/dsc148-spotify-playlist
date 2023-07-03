@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE?si=qjqD\-NRYT4eaxEweZjO3QA">Jason Gray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,881 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,559,027 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 | 100 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MCxkZDcwOWI1YTRkZGVmOGVkMzI4ZWQyNWEwOTNhNWJjYTk4NjE3MDVl`
+Snapshot ID: `MCwwNWU0NDI2MGIyMzQ2ODlmOTJlNjNkNjM3YTAzMzg4NzM5OTc4MTNl`

@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Del Limit en portada.
 
-257 songs - 13 hr 46 min
+258 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Diré](https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Diré](https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe) | 3:17 | 2023-06-09 | 2023-07-01 |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-09-23 | 2023-01-28 |
 | [Dolor Maquillado](https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Historias Pa’ Contar](https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg) | 4:05 | 2022-07-01 | 2022-09-05 |
+| [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 | 2023-06-30 |  |
 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 | 2023-03-17 |  |
 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 | 2023-03-17 |  |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-13 | 2023-05-30 |
@@ -181,7 +182,7 @@
 | [Okay](https://open.spotify.com/track/61wFYRQjmlHr9CZSJdNOoA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Okay](https://open.spotify.com/album/3eK7UxndGddxgi819TiiUY) | 2:50 | 2022-11-03 | 2023-03-18 |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-22 | 2023-01-21 |
 | [Paradise](https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 3:26 | 2022-04-15 | 2023-01-21 |
-| [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 | 2023-05-24 |  |
+| [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 | 2023-05-24 | 2023-07-03 |
 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 | 2022-04-18 |  |
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-07-01 |  |
 | [Pistie Tu Recuerdo](https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [DEL Records Presenta: Por Causa DEL Amor](https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9) | 3:09 | 2023-01-13 | 2023-01-21 |

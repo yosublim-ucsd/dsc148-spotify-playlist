@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=WgAO\-NgbQZSqV5y\_aN46MA">AYLØ </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,624 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,664 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 70 | [NEW ID](https://open.spotify.com/track/7zabZXdxVjHycqcHEemmn4) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [NEW ID](https://open.spotify.com/album/1hzM6lVI0sWXyYeGKZJAN3) | 2:30 |
 
-Snapshot ID: `MCxjZWYxNmNjOTliM2NhMzg3YjIzMmM2OGRhMjdiMzBjYTk1ZDM2YzZj`
+Snapshot ID: `MCw0NDBkYzllZGJmNjRjZTNlZTdmNTQwOGE2NGI4ZGYwMTlhYTQ4YmRl`

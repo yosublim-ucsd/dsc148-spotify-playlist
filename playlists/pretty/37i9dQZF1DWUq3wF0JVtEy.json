@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 924973,
+  "num_followers": 925128,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTA2NTFiZmZjOTk0MjY2MTgwYzIxNWU3ODQzMTUxNGI4NzRjZDZh",
+  "snapshot_id": "MCwxZTNiZGY2ZmE5M2U0MjFhOTVhYmI3MTA0N2I5NTcxYzc3NzJkMjIx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -771,18 +767,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+      "duration_ms": 158769,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 148538,
       "name": "BUBBLEGUM",
       "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Disco Tool (Remixes)",
         "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
@@ -1115,6 +1095,42 @@
       "duration_ms": 217142,
       "name": "Disco Tool (Taiki Nulight Remix)",
       "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Bring Et",
         "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 169687,
       "name": "Patron",
       "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Gotta Let U Go",
-        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 149219,
-      "name": "Gotta Let U Go",
-      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 163809,
       "name": "No More",
       "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Gotta Let U Go",
+        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 149219,
+      "name": "Gotta Let U Go",
+      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1367,18 +1367,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
+        "name": "Turn Off The Lights (Cloonee Remix)",
+        "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
       "artists": [
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Alexis Roberts",
+          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
         }
       ],
-      "duration_ms": 182765,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
+      "duration_ms": 198754,
+      "name": "Turn Off The Lights - Cloonee Remix",
+      "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1403,26 +1411,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Turn Off The Lights (Cloonee Remix)",
-        "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Alexis Roberts",
-          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
         }
       ],
-      "duration_ms": 198754,
-      "name": "Turn Off The Lights - Cloonee Remix",
-      "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
+      "duration_ms": 182765,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Cheque",
         "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 133477,
       "name": "No Man",
       "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "AM:PM (NOTD VIP Mix)",
-        "url": "https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "AM:PM - NOTD VIP Mix",
-      "url": "https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "AM:PM (NOTD VIP Mix)",
+        "url": "https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 141678,
+      "name": "AM:PM - NOTD VIP Mix",
+      "url": "https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) [Cat Dealers Remix]",
         "url": "https://open.spotify.com/album/04pL6T3KzbzyT5bKnvQsjl"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 225600,
       "name": "Miami (\u00d6wnboss Extended Remix) [feat. Nile Rodgers]",
       "url": "https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/0P21RvD1R1hN7j27eRCrlL"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Lockdown",
-          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
-        }
-      ],
-      "duration_ms": 207385,
-      "name": "In My Soul",
-      "url": "https://open.spotify.com/track/139Tpi5zztQtv42a36TlMB"
     }
   ],
   "unique_name": "Shuffle Syndrome",

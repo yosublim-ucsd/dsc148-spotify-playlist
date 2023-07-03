@@ -1566,7 +1566,7 @@
     {
       "album": {
         "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
       },
       "artists": [
         {
@@ -1577,6 +1577,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
+    },
+    {
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,945 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,058 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 22 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 | 23 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
 | 24 | [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 |
-| 25 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
-| 26 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
+| 25 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
+| 26 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
 | 27 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
 | 28 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 |
 | 29 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 47 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 | 48 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
 | 49 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 |
-| 50 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
+| 50 | [Love If You Need It \(feat\. Fi McCluskey\) \- Mousse T.'s Classic Shizzle](https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Fi McCluskey](https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Love If You Need It \(feat\. Fi McCluskey\)](https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE) | 3:24 |
 
-Snapshot ID: `MCwwN2I5OTU1ZTY0ZDFkZWRiNTZmMDNiODc0MDU3OTA1Y2VjNGI0Njc4`
+Snapshot ID: `MCwwMWZhNTEwOTUxMTZjNmMxYzBmMGJjOThlY2Y4NDgxZGY4NTc1NDQ2`

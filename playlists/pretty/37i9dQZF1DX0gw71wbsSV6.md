@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,734 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,736 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 25 | [Emptyspace](https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Emptyspace](https://open.spotify.com/album/7ap2UPq1GW3YZN6DzwaKWK) | 3:45 |
 | 26 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 |
 | 27 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
-| 28 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
-| 29 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 |
+| 28 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 |
+| 29 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
 | 30 | [Dance With You Tonight](https://open.spotify.com/track/1WUAyibDAavzj94N8JwVpW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:38 |
 | 31 | [call me](https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX), [Gracio Zaqueu](https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i) | [call me](https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My) | 7:18 |
 | 32 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Calm Down \- Dennis Bovell dUb Remix](https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Calm Down \(Dennis Bovell dUb Remix\)](https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL) | 3:15 |
 | 50 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
 
-Snapshot ID: `MCwxOTY4NjU1MzIzZWYwZTYxODVmNTcxMDQxZTk5ZGY4YzkyNzYzNmE4`
+Snapshot ID: `MCxjY2M1OTFjZjI2ZTYyODg1MWI0NmY0MDU3YmU1NTcxODExZDM4MmZl`

@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 2822903,
+  "num_followers": 2824688,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTQxNDIzY2M3NzVkNDJhMWFiMWQ4NzdiN2MzM2ViMzBmZGNkZGRl",
+  "snapshot_id": "MCxmNWFmZTg0MDM1Y2M4ZDM0NzNhZTkxNmQ5OWI5OTVhNmI0NTEzYjIx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:17",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "Crush Em",
+      "url": "https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -615,6 +631,22 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 135959,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -643,18 +675,18 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 135959,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -679,22 +711,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "Cut U Off",
         "url": "https://open.spotify.com/album/7HKtVhwqCYZFUk7DUXWjw4"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 270670,
-      "name": "trademark usa",
-      "url": "https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 270670,
+      "name": "trademark usa",
+      "url": "https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -787,22 +803,6 @@
       "duration_ms": 197760,
       "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Crush Em",
-      "url": "https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "BLAME IT ON BABY (DELUXE)",
-        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 122586,
-      "name": "PRACTICE",
-      "url": "https://open.spotify.com/track/4Z5FyQlevoHoa5FsIVKZju"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "Let's Do It (feat. NLE Choppa & Dee Play4Keeps)",
         "url": "https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 155783,
       "name": "Let's Do It (feat. NLE Choppa & Dee Play4Keeps)",
       "url": "https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "BLAME IT ON BABY (DELUXE)",
+        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 122586,
+      "name": "PRACTICE",
+      "url": "https://open.spotify.com/track/4Z5FyQlevoHoa5FsIVKZju"
     },
     {
       "added_at": "2023-06-30 04:00:17",

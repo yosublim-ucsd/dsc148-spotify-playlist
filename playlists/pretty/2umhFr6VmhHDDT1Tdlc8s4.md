@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 40 songs - 2 hr 24 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 | 38 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 |
 | 39 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
 | 40 | [Hearteyes](https://open.spotify.com/track/5XAUmbxKfJn6zbuAyzJtkg) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:17 |
+| 41 | [No Rush](https://open.spotify.com/track/6uF872FviEDxImISjPD4Hs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 2:12 |
 
-Snapshot ID: `NzcsYjQ5ZTQ5NTM1ZmYzNjlhYzYxOTgyZDc3NTk2ZjFiZDNjNWUyMTM1OQ==`
+Snapshot ID: `NzgsMmY2MzNlODQ0ZTdkYzQwOTlhNDE0MGVkYWFhODg2MjNjYmM1YWQ0ZQ==`

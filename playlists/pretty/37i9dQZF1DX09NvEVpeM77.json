@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 309678,
+  "num_followers": 309982,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWU1ZDUxMzQ1Zjk4NGI0MzU0YmEzYmRiM2U4YzYyZGE0MGZjMTM1",
+  "snapshot_id": "MCwxMGY5YTQzYTA1ZjkxNjk2NmMzMzlmY2FiNDQ5MzRlMjhjYjU1NGQ5",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
-    },
-    {
       "added_at": "2022-03-14 17:21:32",
       "album": {
         "name": "Bat Out Of Hell",
@@ -539,6 +523,22 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Rock'n Me",
-      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -619,22 +619,6 @@
       "duration_ms": 271000,
       "name": "Burnin' for You",
       "url": "https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -671,6 +655,22 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Rock'n Me",
+      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
         "name": "Chicago II",
         "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
       },
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
+      "added_at": "2023-03-09 15:53:07",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
         }
       ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
-      "added_at": "2023-03-09 15:53:07",
-      "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
       "added_at": "2022-06-15 19:50:25",
       "album": {
         "name": "But Seriously, Folks...",
@@ -763,6 +747,22 @@
       "duration_ms": 536226,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    {
+      "added_at": "2022-03-14 17:21:32",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
     },
     {
-      "added_at": "2022-03-14 17:21:32",
+      "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Thunder Road",
-      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2022-03-04 19:14:07",

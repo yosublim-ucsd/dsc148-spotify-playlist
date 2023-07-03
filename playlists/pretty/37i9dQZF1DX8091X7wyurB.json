@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 43224,
+  "num_followers": 43440,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjZjMmZkZGRlMTg4M2NhMGU0ZjJlNWE3MWQ0NGRmNTk1MWRiYzc0",
+  "snapshot_id": "MCxlODRjZDI4ZDE5YTlhZmM5MDBhN2JiZWI2MmU2YjM4MzA0MjI1NWYw",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -541,10 +541,10 @@
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
+      "added_at": "2023-04-14 13:12:47",
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 299176,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
-      "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
       "added_at": "2023-06-23 00:01:00",
       "album": {
         "name": "Iba",
@@ -669,10 +653,26 @@
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
     },
     {
-      "added_at": "2023-04-14 13:12:47",
+      "added_at": "2023-06-02 00:01:00",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+      "duration_ms": 299176,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -741,6 +741,26 @@
       "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
     },
     {
+      "added_at": "2023-04-14 13:12:47",
+      "album": {
+        "name": "TOBECHUKWU",
+        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MERCY CHINWO BLESSED",
+          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
+        }
+      ],
+      "duration_ms": 487711,
+      "name": "TOBECHUKWU",
+      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
       "added_at": "2023-06-23 00:01:00",
       "album": {
         "name": "Ebenezeri",
@@ -765,26 +785,6 @@
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
-      "added_at": "2023-04-14 13:12:47",
-      "album": {
-        "name": "TOBECHUKWU",
-        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "MERCY CHINWO BLESSED",
-          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
-        }
-      ],
-      "duration_ms": 487711,
-      "name": "TOBECHUKWU",
-      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
-    },
-    {
       "added_at": "2023-05-05 00:01:00",
       "album": {
         "name": "The Lord's Prayer (It's Yours) [Acoustic]",
@@ -799,6 +799,22 @@
       "duration_ms": 224024,
       "name": "The Lord's Prayer (It's Yours) - Acoustic",
       "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "Owo Oluwa",
+        "url": "https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu"
+      },
+      "artists": [
+        {
+          "name": "P.Daniel Olawande",
+          "url": "https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL"
+        }
+      ],
+      "duration_ms": 370792,
+      "name": "Owo Oluwa",
+      "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -819,22 +835,6 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "Owo Oluwa",
-        "url": "https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu"
-      },
-      "artists": [
-        {
-          "name": "P.Daniel Olawande",
-          "url": "https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL"
-        }
-      ],
-      "duration_ms": 370792,
-      "name": "Owo Oluwa",
-      "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
-    },
-    {
-      "added_at": "2023-04-14 13:12:47",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
       },
@@ -1051,22 +1031,22 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
-        "name": "Ife Wami",
-        "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
+        "name": "Believe For It (Eu Creio)",
+        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         },
         {
-          "name": "121SELAH",
-          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 137739,
-      "name": "Ife Wami",
-      "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
+      "duration_ms": 338218,
+      "name": "Believe For It (Eu Creio)",
+      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1087,6 +1067,26 @@
       "duration_ms": 299160,
       "name": "Jehovah 'Meliwo - Live",
       "url": "https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r"
+    },
+    {
+      "added_at": "2023-04-14 13:12:47",
+      "album": {
+        "name": "Ife Wami",
+        "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Ife Wami",
+      "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1309,6 +1309,30 @@
       "url": "https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG"
     },
     {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
       "added_at": "2023-04-14 13:12:47",
       "album": {
         "name": "God of Miracles",
@@ -1347,6 +1371,22 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
+        "name": "Cock & Bull",
+        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 602290,
+      "name": "Cock & Bull",
+      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
+    },
+    {
+      "added_at": "2023-04-14 13:12:47",
+      "album": {
         "name": "Morning Devotion",
         "url": "https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds"
       },
@@ -1369,20 +1409,24 @@
       "url": "https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs"
     },
     {
-      "added_at": "2023-04-14 13:12:47",
+      "added_at": "2023-04-28 00:03:00",
       "album": {
-        "name": "Cock & Bull",
-        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
+        "name": "I No Send",
+        "url": "https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 602290,
-      "name": "Cock & Bull",
-      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
+      "duration_ms": 233128,
+      "name": "I No Send",
+      "url": "https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1403,26 +1447,6 @@
       "duration_ms": 160959,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
-    },
-    {
-      "added_at": "2023-04-28 00:03:00",
-      "album": {
-        "name": "I No Send",
-        "url": "https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "I No Send",
-      "url": "https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1471,26 +1495,6 @@
       "duration_ms": 209194,
       "name": "Final Say",
       "url": "https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd"
-    },
-    {
-      "added_at": "2023-04-28 00:03:00",
-      "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/1TFzauoARG4LvbAjjvIB7B"
-      },
-      "artists": [
-        {
-          "name": "Ogocity",
-          "url": "https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4"
-        },
-        {
-          "name": "Dr Flourish Peters",
-          "url": "https://open.spotify.com/artist/1gu1WkuCxG2deha26haepG"
-        }
-      ],
-      "duration_ms": 271499,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/6krahQOOJZosOiHKPZBbZS"
     },
     {
       "added_at": "2023-04-14 13:12:47",

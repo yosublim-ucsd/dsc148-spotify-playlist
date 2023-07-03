@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 120808,
+  "num_followers": 120879,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWFmMzhmY2MzMGRjZmZlYjMyMDBjN2I3MzczMDI0YWIyYzQwNDA1",
+  "snapshot_id": "MCw2YmE0YWZkOWM5NmVjOWExMDQ3OGEzMjllZWQ3NzhjODEwODY5ZTE3",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Un sue\u00f1o hecho realidad",
-        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        },
-        {
-          "name": "Gladys La Bomba Tucumana",
-          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "La pollera amarilla",
-      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Tu Falta de Querer (En Vivo)",
         "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 196200,
       "name": "Tu Falta de Querer - En Vivo",
       "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Un sue\u00f1o hecho realidad",
+        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        },
+        {
+          "name": "Gladys La Bomba Tucumana",
+          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "La pollera amarilla",
+      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Amiga Traidora (En Vivo)",
-        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 236736,
-      "name": "Amiga Traidora - En Vivo",
-      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Amiga Traidora (En Vivo)",
+        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 236736,
+      "name": "Amiga Traidora - En Vivo",
+      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "10 A\u00f1os Movistar Arena",
         "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 243275,
       "name": "Amor Sin Fronteras",
       "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Ella Dijo / Mil Horas",
         "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 71981,
       "name": "Persiana Americana - En Vivo",
       "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "T\u00fa, La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -659,18 +675,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
+        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 169000,
-      "name": "T\u00fa, La M\u00e1s Bella",
-      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
+      "duration_ms": 208613,
+      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
+      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -691,38 +711,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
-        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
-      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Era Tranquila (En Vivo)",
         "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 182064,
       "name": "La Misma Cancion (En Vivo)",
       "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
         "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 433520,
       "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
       "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
-        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 198245,
-      "name": "Soy Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
     },
     {
       "added_at": "2023-06-23 03:00:00",

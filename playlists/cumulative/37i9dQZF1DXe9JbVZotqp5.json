@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 304925,
       "name": "New Kid in Town - 2013 Remaster",
       "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
@@ -1360,6 +1360,24 @@
       "duration_ms": 279226,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+    },
+    {
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329400,
+      "name": "She Talks To Angels",
+      "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
     },
     {
       "album": {

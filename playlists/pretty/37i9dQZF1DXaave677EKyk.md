@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,013 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,020 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 8 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |
 | 9 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
 | 10 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
-| 11 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 |
-| 12 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
+| 11 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
+| 12 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 |
 | 13 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 | 14 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 |
 | 15 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 73 | [Stick Around](https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Everything Falls Into Place](https://open.spotify.com/album/2R9HgibWqmnLNBlKSxxtiJ) | 2:19 |
 | 74 | [Fall Into Place](https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Fall Into Place](https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9) | 3:32 |
 | 75 | [Stuck In Love](https://open.spotify.com/track/6Hw597MDyZYBm9sLP8BTCN) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Stuck In Love](https://open.spotify.com/album/565EdGwHonCa2Gg0s1BZye) | 3:17 |
-| 76 | [You Can't Stop Me \- Edit](https://open.spotify.com/track/7KneCBQD257aXmL5iinbOZ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [You Can't Stop Me](https://open.spotify.com/album/3Le3GzbvkqUzlrIwAjaMDa) | 4:05 |
-| 77 | [Forever](https://open.spotify.com/track/0FqcLYLjgbb2VUPClORTPr) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Forever](https://open.spotify.com/album/18E1JR8Wfx1L2aALN2ekFj) | 3:42 |
+| 76 | [Forever](https://open.spotify.com/track/0FqcLYLjgbb2VUPClORTPr) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Forever](https://open.spotify.com/album/18E1JR8Wfx1L2aALN2ekFj) | 3:42 |
+| 77 | [You Can't Stop Me \- Edit](https://open.spotify.com/track/7KneCBQD257aXmL5iinbOZ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [You Can't Stop Me](https://open.spotify.com/album/3Le3GzbvkqUzlrIwAjaMDa) | 4:05 |
 | 78 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
 | 79 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 |
 | 80 | [I Think I Love You](https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [I Think I Love You](https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1) | 4:12 |
 
-Snapshot ID: `MCw4M2MxYmZlYTg5YmExMzQ5NjE5NTRhNzA4YWExYTEyZjU1OGEwYWNi`
+Snapshot ID: `MCwyN2Q3YWZhZGJiMTdmZGZjYzE4YzIzMjc2ODdkZDhjNTc2ZmQwMTlk`

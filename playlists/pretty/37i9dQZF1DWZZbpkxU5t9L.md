@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,404 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,451 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 |
 | 60 | [Start over!](https://open.spotify.com/track/0lIgXSxKgRUjF0SiN19MmJ) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [Start over! \(Special Edition\)](https://open.spotify.com/album/3LFKZgxC04M8uSRTc3QySo) | 4:18 |
 
-Snapshot ID: `MCwzNDkxMWFlNmUzOWQ0ZTcxY2NhMTVlMmJmMjllYjI3NWYzOGI3NDE2`
+Snapshot ID: `MCxlZDVlNzcxMjRkYTEyNGFlZjNmODYwMjIyNjUxZGNiZmE3YjE2ZWUx`

@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-160 songs - 8 hr 23 min
+161 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Como el Laurel](https://open.spotify.com/track/3rOiQfTjbaIQqQzTzxKK04) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Verónica Noguera](https://open.spotify.com/artist/0YqZyiurOmsnCgquztYHBO) | [Como el Laurel](https://open.spotify.com/album/2QInxL8q9EhoFNGOw3mv1y) | 3:27 | 2021-11-19 | 2022-07-27 |
 | [Compadre, Que Tiene El Vino](https://open.spotify.com/track/6ztmVc64twt0cRhb44QCrZ) | [Los de Imaguaré](https://open.spotify.com/artist/4qLcigWa3gzKaEPr2kQhIr) | [Los 20 Mejores](https://open.spotify.com/album/5WvWYMsen3UKz22IuCOd4p) | 6:35 | 2021-11-19 | 2023-04-16 |
 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 | 2021-11-19 | 2022-07-23 |
-| [Conjunto Pena Y Olvido](https://open.spotify.com/track/7tgJfvvzUi10I77BffnUHd) | [Mario Bofill](https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7) | [Duendes Puebleros](https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO) | 3:19 | 2021-11-19 |  |
+| [Conjunto Pena Y Olvido](https://open.spotify.com/track/3RT7zu5eneQhb16dY5cSUh) | [Mario Bofill](https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7) | [Duendes Puebleros](https://open.spotify.com/album/5Y0XgeRdlZ4KxPXtikSKiI) | 3:19 | 2023-06-09 |  |
+| [Conjunto Pena Y Olvido](https://open.spotify.com/track/7tgJfvvzUi10I77BffnUHd) | [Mario Bofill](https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7) | [Duendes Puebleros](https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO) | 3:19 | 2021-11-19 | 2023-07-03 |
 | [Creciendo el Gualeguay](https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [A Puro Sapucay](https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ) | 2:49 | 2021-11-19 | 2022-07-28 |
 | [Cómo Marea / Besitos \- En Vivo, Teatro Provincial J.C.Saravia \- Salta](https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 2\)](https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto) | 4:20 | 2022-02-11 |  |
 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 | 2021-11-19 |  |

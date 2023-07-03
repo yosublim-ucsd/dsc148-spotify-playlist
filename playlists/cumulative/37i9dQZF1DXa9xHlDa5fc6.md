@@ -4,10 +4,11 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-339 songs - 20 hr 57 min
+340 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/0HVyE6s3q5D90yurTKSU2k) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:36 | 2023-05-26 |  |
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-14 | 2023-06-23 |
 | [63 Days](https://open.spotify.com/track/7ohqcy0MESjxurNED68okJ) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [63 Days](https://open.spotify.com/album/5aGVzJSl9a7wixznvz995F) | 3:07 | 2019-06-16\* | 2020-07-10 |
 | [A Message to Myself](https://open.spotify.com/track/1ekPZ9Hap8myGdLqFHcza2) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [A Message to Myself](https://open.spotify.com/album/4mGJ34ZkeoUfHLzyjQ0oN5) | 3:08 | 2019-08-09 | 2019-08-30 |
@@ -15,7 +16,7 @@
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2023-02-17 |  |
 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 | 2019-06-16\* | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 2:05 | 2023-02-17 |  |
-| [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 | 2022-10-28 |  |
+| [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 | 2022-10-28 | 2023-07-03 |
 | [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-06-16\* | 2022-11-06 |
 | [All I Need](https://open.spotify.com/track/3SCQzrZ5QtcWf47XjzOYZG) | [Cape Cub](https://open.spotify.com/artist/4xbJS00sHh5wBd5nYgsk8z) | [6am](https://open.spotify.com/album/1FnVqpgCw1oyWAkogCJ8ex) | 3:44 | 2022-10-28 | 2022-11-13 |
 | [All I Need](https://open.spotify.com/track/6VIU2Lj8k114mUsxtYzZHO) | [Cape Cub](https://open.spotify.com/artist/4xbJS00sHh5wBd5nYgsk8z) | [All I Need](https://open.spotify.com/album/37aLvaAV7WyCbSTjYrufg3) | 3:44 | 2019-06-16\* | 2022-07-29 |

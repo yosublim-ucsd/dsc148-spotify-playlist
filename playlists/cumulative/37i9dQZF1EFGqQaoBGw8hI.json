@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 66506,
       "name": "Are We Laughing?",
       "url": "https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7"
@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53963,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/4fUVX9jVZmx0VJp8eoUsdf"
+    },
+    {
+      "album": {
         "name": "Jewel Box",
         "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
       },
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 58026,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc"
@@ -8574,7 +8592,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 162573,
       "name": "Steven Redecorates",
       "url": "https://open.spotify.com/track/54vKtWNvyQ4SEvGP5t2YMi"
@@ -9364,7 +9382,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 53866,
       "name": "The Cookie Factory",
       "url": "https://open.spotify.com/track/7a6FoJr9OprikVANiv7zzz"
@@ -10132,7 +10150,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 49493,
       "name": "To The Guesthouse",
       "url": "https://open.spotify.com/track/07nzChLQ0zWJF7z0VMLXfV"

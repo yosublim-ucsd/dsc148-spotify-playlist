@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 47 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 220 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 46 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 47 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `MjgxMzc3NTAsMDAwMDAwMDBlMDAyOTI3ZmJmMTI5NGMyOTZiNWYxNmY5OGJkNzcxMw==`
+Snapshot ID: `MjgxMzkxOTAsMDAwMDAwMDBlYTg0ZTY4OTUxNjI4ZjNkMzRlMzRjYzc5YTdlNTM3Yg==`

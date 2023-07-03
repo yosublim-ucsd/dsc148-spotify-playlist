@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-525 songs - 1 day 10 hr 2 min
+526 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [From the Inside](https://open.spotify.com/track/60IkVf7UfQXmt5CwkpcX8a) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:53 | 2022-01-05 |  |
 | [From the Inside](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:53 | 2022-01-05 | 2022-07-20 |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2022-01-05 |  |
-| [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 | 2022-01-05 |  |
+| [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 | 2022-01-05 | 2023-07-03 |
 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 | 2022-01-05 |  |
 | [Get Off](https://open.spotify.com/track/1bpo7csRNPoW01SGPbGclM) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:10 | 2022-01-05 | 2022-07-29 |
 | [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [OK Go](https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ) | 3:16 | 2022-01-05 | 2022-07-28 |
@@ -268,7 +268,7 @@
 | [Links 2 3 4](https://open.spotify.com/track/2bEOoGCjJJVf60y3aKgXcn) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:36 | 2022-01-05 | 2023-03-21 |
 | [Links 2 3 4](https://open.spotify.com/track/52XYwQKlXp7scE7KrBBCID) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:36 | 2022-01-05 | 2022-07-29 |
 | [Lithium](https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:44 | 2022-01-05 |  |
-| [Little Wonders](https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Little Wonders](https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN) | 3:44 | 2022-01-05 |  |
+| [Little Wonders](https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Little Wonders](https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN) | 3:44 | 2022-01-05 | 2023-07-03 |
 | [Little Wonders](https://open.spotify.com/track/1uUyXnaxpISjtrYhcltvXr) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Meet The Robinsons Original Soundtrack \(Polish Version\)](https://open.spotify.com/album/2aHjHAP6yfSTMBWhcsJY31) | 3:46 | 2022-01-05 | 2022-05-25 |
 | [Lonely Train](https://open.spotify.com/track/5lIqY3Yb3bPj5z1tiUIiCJ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black Stone Cherry](https://open.spotify.com/album/5XzjYognRznsIgYqmrHkGV) | 3:50 | 2022-01-05 | 2022-07-09 |
 | [Lonely World](https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:33 | 2022-01-05 | 2022-07-26 |
@@ -347,6 +347,7 @@
 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 | 2022-01-05 |  |
 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2022-01-05 |  |
 | [Passive](https://open.spotify.com/track/7slyp653Si99N4yQcJ2E9T) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:10 | 2022-01-05 | 2022-07-24 |
+| [People Say](https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX) | 2:59 | 2023-01-18 |  |
 | [People Say](https://open.spotify.com/track/1Hle8Xb0v0CE4xJR8Ezr89) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/5HdvwiCT7MRMtTmGBwPpNX) | 2:59 | 2022-01-05 | 2022-07-28 |
 | [Phantom Limb](https://open.spotify.com/track/2aQx1i3XjtB3TSN4J770Iv) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Zl638FA70c4Oxh4AimZLh) | 4:47 | 2022-01-05 | 2022-07-29 |
 | [Phenomenon](https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 2:59 | 2022-01-05 |  |
@@ -517,7 +518,7 @@
 | [What Katie Did](https://open.spotify.com/track/39BYRAiJhO6fWPJTDYhMxm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:49 | 2022-01-05 | 2022-07-26 |
 | [Whatever Happened To My Rock 'N' Roll \(Punk Song\)](https://open.spotify.com/track/4A7KHIDzVdDFd81XPWFiix) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 4:38 | 2022-01-05 | 2022-07-29 |
 | [Where Are You Going](https://open.spotify.com/track/15MhLnkZLJe4Z2tLISwe5k) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Busted Stuff](https://open.spotify.com/album/2EgAQOkOA9rWodGtOYMERe) | 3:51 | 2022-01-05 | 2022-05-29 |
-| [Where Are You Going](https://open.spotify.com/track/5EjZXJ4nVpw7uI6eso1SFS) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Busted Stuff](https://open.spotify.com/album/1D5z8QDWSmYm6MwrtLINYY) | 3:51 | 2023-01-18 | 2023-06-28 |
+| [Where Are You Going](https://open.spotify.com/track/5EjZXJ4nVpw7uI6eso1SFS) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Busted Stuff](https://open.spotify.com/album/1D5z8QDWSmYm6MwrtLINYY) | 3:51 | 2023-01-18 |  |
 | [Where Did All the Love Go?](https://open.spotify.com/track/2mqB7fvAVhz2aFB0c5ra2S) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:18 | 2022-01-05 | 2023-03-27 |
 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 | 2022-01-05 |  |
 | [White Trash Beautiful](https://open.spotify.com/track/7e1xwG8jnFyCWtHXt0P4AM) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [White Trash Beautiful](https://open.spotify.com/album/5Uiko7lcgvfa70mhxsEPGo) | 4:01 | 2022-01-05 | 2022-05-25 |

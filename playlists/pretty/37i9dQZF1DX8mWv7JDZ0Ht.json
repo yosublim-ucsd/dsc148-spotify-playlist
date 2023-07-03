@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Giulia Be",
-  "num_followers": 426988,
+  "num_followers": 427107,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmJmZWFlMGZmYjA5NjM4ZTQwMmRjMDQ1YzQwYzhjMzAyYTBiZjgy",
+  "snapshot_id": "MCxmOGRiNDlkZDhkZTdmMzUwNzA4YmJlYmE3ZjQ4MmM4NDljOTI1OTUz",
   "tracks": [
     {
       "added_at": "2023-06-30 03:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "te vi dan\u00e7ando",
         "url": "https://open.spotify.com/album/1P6D17mWvF91GTPlQDCdEP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 78968,
       "name": "te vi dan\u00e7ando",
       "url": "https://open.spotify.com/track/0hbq06tcjbkgyd9d8VAVF8"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -535,18 +535,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Vem Meu Amor",
-        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+        "name": "Mulher de f\u00e9",
+        "url": "https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
         }
       ],
-      "duration_ms": 155738,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+      "duration_ms": 154269,
+      "name": "Mulher de f\u00e9",
+      "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -567,26 +571,6 @@
       "duration_ms": 194154,
       "name": "Pra Ser N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Mulher de f\u00e9",
-        "url": "https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 154269,
-      "name": "Mulher de f\u00e9",
-      "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Vem Meu Amor",
+        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 155738,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Mesmo Se Voc\u00ea Mudar",
         "url": "https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 185580,
       "name": "Mesmo Se Voc\u00ea Mudar",
       "url": "https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Por Voc\u00ea",
-        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 191769,
-      "name": "Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 161144,
       "name": "Resolvi Seguir",
       "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Por Voc\u00ea",
+        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 191769,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+        "name": "sexto sentido",
+        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
         }
       ],
-      "duration_ms": 183711,
-      "name": "Brisa 22",
-      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
+      "duration_ms": 156690,
+      "name": "sexto sentido",
+      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Marshmallow Flor De Sal (Deluxe)",
         "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
       },
@@ -963,38 +979,6 @@
       "duration_ms": 241920,
       "name": "Tons De Blue - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "sexto sentido",
-        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 156690,
-      "name": "sexto sentido",
-      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "n\u00f3s",
+        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "n\u00f3s",
+      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 133222,
       "name": "Mundo de Papel",
       "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "n\u00f3s",
-        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "n\u00f3s",
-      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Ser Eu",
-        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Ser Eu",
-      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Atalaia",
         "url": "https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 192746,
       "name": "Atalaia",
       "url": "https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
     },
     {
       "added_at": "2023-06-30 03:00:00",

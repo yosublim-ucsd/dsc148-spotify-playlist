@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 52987,
+  "num_followers": 53057,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjA4Y2I2MmE1MDYzOTM1ZTdlY2ZkNDk3MTk4MDkxYTZiNDkxNDY3",
+  "snapshot_id": "MCw5ZmRhNzJjMzE3Y2ViY2Q5MTQ3YzY3YzViYzA3ZmQyNjY0MzJlYjU3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "ROOM FOR 2",
         "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Witness (feat. Rajiv Dhall)",
-        "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        },
-        {
-          "name": "Rajiv Dhall",
-          "url": "https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Witness - feat. Rajiv Dhall",
-      "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 188813,
       "name": "Last Man On Earth",
       "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Witness (feat. Rajiv Dhall)",
+        "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        },
+        {
+          "name": "Rajiv Dhall",
+          "url": "https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Witness - feat. Rajiv Dhall",
+      "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
     },
     {
       "added_at": "2023-06-30 04:00:00",

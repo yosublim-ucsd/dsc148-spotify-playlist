@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 281909,
+  "num_followers": 281945,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmJlOGEzMWRkZTQ2NWEwYzNiZDBlNzU0MDQyZjY2MWIwZTZhNjdm",
+  "snapshot_id": "MCwyNDJhOTIzZDA0MmU5ZDU5YjRhYWNkMzg2MmJiMTYyYjBkMTJjZGMw",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 201917,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Cooking",
         "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 171315,
       "name": "Cooking",
       "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 201917,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Charm You (Blondshell Version)",
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -763,6 +747,22 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "true colors (from Life is Strange)",
@@ -843,6 +827,22 @@
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -929,26 +929,6 @@
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Chandelier",
@@ -979,6 +959,26 @@
       "duration_ms": 206672,
       "name": "keep your head up",
       "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 180093,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1361,38 +1361,6 @@
       "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Line Of Fire (feat. Sharon Van Etten)",
-        "url": "https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        },
-        {
-          "name": "Elias Araya",
-          "url": "https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Tobias Winterkorn",
-          "url": "https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "Line Of Fire (feat. Sharon Van Etten)",
-      "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Siamese Dream",
@@ -1429,6 +1397,54 @@
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Line Of Fire (feat. Sharon Van Etten)",
+        "url": "https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        },
+        {
+          "name": "Elias Araya",
+          "url": "https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Tobias Winterkorn",
+          "url": "https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "Line Of Fire (feat. Sharon Van Etten)",
+      "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Yellow",
@@ -1451,22 +1467,6 @@
       "duration_ms": 262714,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2023-05-05 17:19:46",

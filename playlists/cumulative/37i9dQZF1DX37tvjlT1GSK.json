@@ -1051,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Don Nadie",
+        "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191259,
+      "name": "Don Nadie",
+      "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
+    },
+    {
+      "album": {
         "name": "Donde Andaban",
         "url": "https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG"
       },
@@ -3362,7 +3384,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 243472,
       "name": "Pensamientos Grandes",
       "url": "https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW"

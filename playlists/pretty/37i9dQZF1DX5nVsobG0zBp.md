@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,555 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,597 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 55 | [Andalé](https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Andalé](https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU) | 3:21 |
 | 56 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 |
 | 57 | [Mar Azul](https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Mar Azul](https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g) | 3:13 |
-| 58 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
-| 59 | [GOD MODE](https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [GOD MODE](https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf) | 4:14 |
+| 58 | [GOD MODE](https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [GOD MODE](https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf) | 4:14 |
+| 59 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 60 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
 | 61 | [O que é que tens feito?](https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [O que é que tens feito?](https://open.spotify.com/album/7o3GVre0rpEWG7309P7q6v) | 3:11 |
 | 62 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 75 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 
-Snapshot ID: `MCwxOTBmY2NjMjBiNDk1Zjg3NjA1MGZhN2VmMGUxMzAxNWU2Y2UzMzJm`
+Snapshot ID: `MCw3YzVlZDNkMWUyYjk3MTZkOTdiYmE5MjNlMWM2ZmExYzJlNGYwOWI3`

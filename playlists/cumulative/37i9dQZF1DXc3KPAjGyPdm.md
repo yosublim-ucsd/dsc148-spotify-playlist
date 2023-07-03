@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-287 songs - 17 hr 10 min
+288 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 | 2019-07-10 |  |
 | [Destroying the Castle](https://open.spotify.com/track/0AmHen3jIJEUburl5bLkPR) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:48 | 2019-07-10 | 2023-04-09 |
 | [Destroying the Castle](https://open.spotify.com/track/2IBbAIu9d9eI7mhnbic0oW) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 1:48 | 2023-02-27 |  |
-| [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 | 2022-05-27 |  |
+| [Detroit Rock City](https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum](https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796) | 3:35 | 2023-02-27 |  |
+| [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 | 2022-05-27 | 2023-07-03 |
 | [Detroit Rock City \- Edit](https://open.spotify.com/track/5FD7VWTo82zUhTW8pXynne) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Stranger Things Can Happen](https://open.spotify.com/album/6Xhscs1nnZ8Ho2Di3nlHsr) | 3:35 | 2022-05-27 | 2022-11-13 |
 | [Detroit Rock City \- Single Version](https://open.spotify.com/track/5CEPvqyRi6eTpR1njYlG3O) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:35 | 2022-05-27 | 2022-07-29 |
 | [Diamonds and Emeralds](https://open.spotify.com/track/6bCfV7wKPLwm5tUyPaqw3M) | [The Interior Castle](https://open.spotify.com/artist/2m66QeGFylLKqDKSFFqqWA) | [Diamonds and Emeralds](https://open.spotify.com/album/49D3DbM8VSb3XX9jjnbBrS) | 2:53 | 2022-05-27 |  |

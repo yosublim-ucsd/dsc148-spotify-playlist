@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-502 songs - 1 day 3 hr 4 min
+504 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Empires Falling](https://open.spotify.com/track/7tvqPt52eVRDgkIVYobzua) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/5xh9UiuCllBPXhDiIwn043) | 3:30 | 2022-09-19 |  |
 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 | 2023-05-22 |  |
 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 | 2022-09-30 |  |
-| [Eraser](https://open.spotify.com/track/6EXZtoq47cnUTX8fr5NTmW) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Eraser](https://open.spotify.com/album/2Pal5mZmAYSDDAtQVHtehe) | 2:44 | 2023-05-22 |  |
+| [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 | 2023-06-30 |  |
+| [Eraser](https://open.spotify.com/track/6EXZtoq47cnUTX8fr5NTmW) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Eraser](https://open.spotify.com/album/2Pal5mZmAYSDDAtQVHtehe) | 2:44 | 2023-05-22 | 2023-07-03 |
 | [Escape](https://open.spotify.com/track/14Y2ZV4mlsrvC9JXrirdFk) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Escape](https://open.spotify.com/album/0teXnsPtJc6gQIoMuLGDZa) | 3:15 | 2021-10-07 | 2022-10-01 |
 | [Everything is Better](https://open.spotify.com/track/0hmEoSNZjEezsDwD1LkSnB) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0Mc53SUnWord30l26xo1I6) | 3:05 | 2022-01-07 | 2022-03-12 |
 | [Everywhere is War](https://open.spotify.com/track/6UF5dU8SOiegM5f5u0mh7v) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Everywhere is War \(feat\. Conor Oberst\)](https://open.spotify.com/album/2BNSVrjHOZaPBQQLzQH9s6) | 3:14 | 2023-03-10 | 2023-04-15 |
@@ -175,7 +176,8 @@
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 | 2023-02-02 |
 | [Goes Black](https://open.spotify.com/track/4KHWwI6lfD4BuWMLCb6FNo) | [Big Ups](https://open.spotify.com/artist/0r1fPI0b5FqLNZd9Fe0PKk) | [Goes Black](https://open.spotify.com/album/2P3P7ig3WnZChmcJvtJN0K) | 2:21 | 2021-10-07 | 2022-04-29 |
 | [Good Guy](https://open.spotify.com/track/1mSlZW1iN1faQz67l35sRb) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Good Guy](https://open.spotify.com/album/7EJVNNWNSijp1720iMRlUi) | 2:55 | 2023-06-16 |  |
-| [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 | 2023-06-30 |  |
+| [Good Living Is Coming for You](https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 3:37 | 2023-06-30 |  |
+| [Good Living Is Coming for You](https://open.spotify.com/track/5bHu5sycyNIKMR5xzlBTB4) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming for You](https://open.spotify.com/album/5lYKtXKSuftMDpBkoLx2qI) | 3:37 | 2023-06-30 | 2023-07-03 |
 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 | 2022-02-11 | 2023-03-11 |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-29 | 2022-07-29 |
 | [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 | 2022-07-08 | 2022-08-17 |

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: seye
 
-402 songs - 22 hr 26 min
+404 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 | 2023-06-02 |  |
 | [Empty](https://open.spotify.com/track/3MWjUNewqvMhd0Djv3tPdk) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Empty](https://open.spotify.com/album/326kj5IonAbmP8fvOZkiwc) | 2:56 | 2022-01-10 | 2022-07-26 |
 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 | 2023-06-18 |
-| [En los Huesos](https://open.spotify.com/track/0AFHjjPLUBriFn18A1Ybc4) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En los Huesos](https://open.spotify.com/album/3EUhJitSG6eDyZMN1PPjuW) | 3:54 | 2023-05-12 |  |
+| [En los Huesos](https://open.spotify.com/track/0AFHjjPLUBriFn18A1Ybc4) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En los Huesos](https://open.spotify.com/album/3EUhJitSG6eDyZMN1PPjuW) | 3:54 | 2023-05-12 | 2023-07-03 |
 | [En Un Instante](https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [En Un Instante](https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph) | 2:51 | 2023-05-26 |  |
 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 | 2022-10-27 | 2022-12-13 |
 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 | 2023-03-02 |  |
@@ -121,6 +121,7 @@
 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-05-26 | 2023-06-17 |
 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 | 2022-12-30 | 2023-05-13 |
 | [Estar Mejor](https://open.spotify.com/track/4eaK1m8IrTjQDnBLRpaUMk) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Estar Mejor](https://open.spotify.com/album/5oKwBbh0NTAh6WdCKDDCVy) | 3:28 | 2023-04-21 | 2023-05-15 |
+| [Estos Días](https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Estos Días](https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0) | 3:22 | 2023-06-30 |  |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2022-01-10 | 2022-04-21 |
 | [Everlasting](https://open.spotify.com/track/3wuVrvfmeiRx9kxXnGc95b) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:36 | 2022-01-10 | 2022-06-02 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 | 2021-11-18 | 2022-08-12 |
@@ -321,7 +322,7 @@
 | [Sed](https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Sed](https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK) | 3:08 | 2023-04-14 | 2023-05-15 |
 | [see me now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 | 2023-04-28 |  |
 | [Será Mañana](https://open.spotify.com/track/4XVtPm10XFxXrpNjgUaL6C) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Será Mañana](https://open.spotify.com/album/6F0PzGcHo4zpd8YLbXcpBY) | 4:05 | 2023-03-10 | 2023-03-14 |
-| [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-04-14 |  |
+| [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-04-14 | 2023-07-03 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 |  |
 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 | 2021-11-18 | 2022-11-25 |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-09-06 | 2022-10-28 |
@@ -384,6 +385,7 @@
 | [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 | 2023-05-05 |  |
 | [Un lazo rojo, un agujero \(feat\. Kase O\)](https://open.spotify.com/track/4tHXURNyAQZewk2LQI0YCE) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [¿Revolución?](https://open.spotify.com/album/2P3uyYjwyMjoVborBCWxEi) | 5:29 | 2023-03-10 |  |
 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 | 2022-08-19 | 2022-10-28 |
+| [Un Parque](https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj) | [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Un Parque](https://open.spotify.com/album/627VLg40KgocbJfDXnQ8U1) | 3:05 | 2023-06-30 |  |
 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-06-29 | 2022-09-20 |
 | [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-06-03 | 2022-07-29 |
 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 | 2022-09-06 | 2023-01-21 |

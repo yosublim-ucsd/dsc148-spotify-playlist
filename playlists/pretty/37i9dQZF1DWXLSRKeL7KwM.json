@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 352835,
+  "num_followers": 353045,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjM2MDY5ODM2N2ViMzk1Y2IwZTllNmNjMGQxY2ZlOWNlOTkzMTQ5",
+  "snapshot_id": "MCw1NWU3YzA0NjhjNzk5MDZmMTMxMmM5ZjMyMjY2NTQ0NmQwZTE2N2Ux",
   "tracks": [
     {
       "added_at": "2023-03-28 16:23:23",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 176893,
       "name": "No Such Thing as a Broken Heart",
       "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Get Your Shine On",
-      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Time, Tequila & Therapy",
         "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 178680,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Get Your Shine On",
+      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Three Chord Country and American Rock & Roll",
-        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
-      },
-      "artists": [
-        {
-          "name": "Keith Anderson",
-          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Pickin' Wildflowers",
-      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Three Chord Country and American Rock & Roll",
+        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
+      },
+      "artists": [
+        {
+          "name": "Keith Anderson",
+          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Pickin' Wildflowers",
+      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 181209,
-      "name": "Don't Ya",
-      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
+      "duration_ms": 242026,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2F08d4KocfOdWhn7aK3gDI"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8"
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2F08d4KocfOdWhn7aK3gDI"
+      "duration_ms": 181209,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Wild Hearts",
         "url": "https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 182930,
       "name": "Wild Hearts",
       "url": "https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Be Here",
         "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 224629,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Next Girl",
-        "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 164677,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Next Girl",
+        "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 164677,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Back Then, Right Now",
-        "url": "https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Back Then, Right Now",
-      "url": "https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/51G8SmLrrbgrlBaUXUCBQ3"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 215920,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/5pQtfVIaQvINzl0XIGKNrC"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Back Then, Right Now",
+        "url": "https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Back Then, Right Now",
+      "url": "https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -2271,8 +2271,8 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Own The Night",
-        "url": "https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo"
+        "name": "What A Song Can Do (Chapter One)",
+        "url": "https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb"
       },
       "artists": [
         {
@@ -2280,9 +2280,9 @@
           "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 197800,
-      "name": "We Owned The Night",
-      "url": "https://open.spotify.com/track/7BSZJLXPTktuZZAe8VYbbF"
+      "duration_ms": 181200,
+      "name": "Like A Lady",
+      "url": "https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -2367,8 +2367,8 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "What A Song Can Do (Chapter One)",
-        "url": "https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb"
+        "name": "Own The Night",
+        "url": "https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo"
       },
       "artists": [
         {
@@ -2376,9 +2376,9 @@
           "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Like A Lady",
-      "url": "https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL"
+      "duration_ms": 197800,
+      "name": "We Owned The Night",
+      "url": "https://open.spotify.com/track/7BSZJLXPTktuZZAe8VYbbF"
     },
     {
       "added_at": "2023-03-28 16:23:23",

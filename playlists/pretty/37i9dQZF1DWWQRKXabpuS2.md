@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: سلطان خليفة
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,731 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,750 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kathaab](https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Kathaab](https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o) | 4:50 |
-| 2 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 |
+| 1 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 |
+| 2 | [Kathaab](https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Kathaab](https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o) | 4:50 |
 | 3 | [Resayel Ams](https://open.spotify.com/track/1Qnh4KEeIljMwB4VBtAndB) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Resayel Ams](https://open.spotify.com/album/2C44qfSEKmvuZzJ7Pva7n4) | 3:40 |
 | 4 | [Marhala Saabah](https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Marhala Saabah](https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX) | 3:04 |
 | 5 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [هنيالو](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [أروى](https://open.spotify.com/artist/6Rl7uv3qQrsZOhgu7Xj9Zj) | [هنيالو](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 |
 | 50 | [Ana Al Sadeq](https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p) | [Moner Zayed](https://open.spotify.com/artist/5cEK4do8F3Ln4G7XOvcpXa) | [Ana Al Sadeq](https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN) | 3:20 |
 
-Snapshot ID: `MCxiMDViOTIyZjRlNmYxMmYxMGU4NWY0NWE2NWIzZWFhNTBkNjBhOTBi`
+Snapshot ID: `MCxhNDk2NDU5ZmU3MjVkODBkZmVlZmJhODkwODUyZWJmYjQ0YjgwYjFj`

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-242 songs - 11 hr 41 min
+243 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [IFLDM \(feat\. GLASGOW KI$$\)](https://open.spotify.com/track/4xvPS7JJXlHiIAKJuXHRwW) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB) | [IFLDM \(feat\. GLASGOW KI$$\)](https://open.spotify.com/album/5JHu6XWFumcF3aT1P0B6pP) | 2:49 | 2023-02-12 |  |
 | [Ill Behavior](https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Ill Behavior](https://open.spotify.com/album/3KlaD2BwnsqyEBZfa7pd8m) | 2:36 | 2023-06-01 |  |
 | [Imma](https://open.spotify.com/track/2xzjCuloHSWqYedOcoIX85) | [Swonikz](https://open.spotify.com/artist/02qtkJI5Mc88xkT35TFGpK) | [Imma](https://open.spotify.com/album/1vpS1USEEQ5rXoPtcKwP2N) | 3:25 | 2023-03-10 | 2023-04-13 |
+| [In My Mind](https://open.spotify.com/track/3y5LDvgjA1pb18RsKjSOoo) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [In My Mind](https://open.spotify.com/album/4wzWrWfeDDpklQSvyH9oqK) | 3:28 | 2023-07-03 |  |
 | [Insane](https://open.spotify.com/track/45nWlWMBYoAGixCKgSLHIy) | [INDOX](https://open.spotify.com/artist/1DPs7yxCNV6k92Srsoem4E) | [Insane](https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01) | 2:25 | 2023-04-14 |  |
 | [Insane](https://open.spotify.com/track/4O5ChKGayxRNVVsOZqMdKo) | [Mischa Dash](https://open.spotify.com/artist/45cOTzG7Lg5NqDBn9dzvI2), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Insane](https://open.spotify.com/album/4W0MTbyuwSbEa8r5dqt7wz) | 2:38 | 2023-06-23 |  |
 | [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,566 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,615 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Slippery \(feat\. Gucci Mane\)](https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:04 |
 | 100 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
 
-Snapshot ID: `MCwyZDkxYTA2ZDEwMzY5Mjk5NWE5NTk3Zjg0Y2U3OWIyNjZhNzdlOTdj`
+Snapshot ID: `MCxjOGM4MWQ5NjAwZDI0YmJhMjcwOGQzYTgwMjI3YTRlNTc1Zjc0NmJk`

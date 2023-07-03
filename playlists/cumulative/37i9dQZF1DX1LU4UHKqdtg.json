@@ -4437,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
+    },
+    {
+      "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },

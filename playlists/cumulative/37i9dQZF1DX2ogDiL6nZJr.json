@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 299299,
       "name": "A-Train",
       "url": "https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx"
@@ -2742,6 +2742,24 @@
       "duration_ms": 205680,
       "name": "Losers",
       "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
+    },
+    {
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "album": {

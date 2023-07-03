@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-145 songs - 11 hr 38 min
+146 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Everything Merges With The Night \- 2004 Digital Remaster](https://open.spotify.com/track/5pAR56gg3tYThEeH0VM3iB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:59 | 2022-06-30 | 2022-10-13 |
 | [Failing Light \- Remastered 2004](https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:14 | 2022-05-29 | 2022-10-13 |
 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 | 2022-05-29 |  |
+| [Five Light Paintings 1](https://open.spotify.com/track/55d60LyqsrSNJUc1zx7tIz) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 3:21 | 2023-07-02 |  |
 | [Five Light Paintings 2](https://open.spotify.com/track/7iQJiDN8r4dRVpZnGTNqBY) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 3:50 | 2023-06-23 |  |
 | [Five Light Paintings 3](https://open.spotify.com/track/2L4rLummiRO5NDDWAKTWql) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 4:41 | 2023-06-21 |  |
 | [Follow](https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 1:39 | 2023-05-07 |  |
@@ -109,7 +110,7 @@
 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 | 2022-05-29 |  |
 | [Silver Morning \- Remastered 2005](https://open.spotify.com/track/5HzfnZhtGRSenfvmdnY7aV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:39 | 2022-09-06 | 2022-09-09 |
 | [Sky Saw \- 2004 Digital Remaster](https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:27 | 2022-05-29 | 2022-09-11 |
-| [Small Craft on a Milk Sea](https://open.spotify.com/track/09nETPAU44dKMW14v2Ikzi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 1:48 | 2023-03-19 |  |
+| [Small Craft on a Milk Sea](https://open.spotify.com/track/09nETPAU44dKMW14v2Ikzi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 1:48 | 2023-03-19 | 2023-07-03 |
 | [Small Craft on a Milk Sea](https://open.spotify.com/track/7GTzB4QUfO0oXfvzwtKBom) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 1:48 | 2022-09-02 | 2023-01-06 |
 | [Sombre Reptiles \- 2004 Digital Remaster](https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:21 | 2022-05-29 | 2023-05-07 |
 | [Sparrowfall \(1\) \- Remastered 2005](https://open.spotify.com/track/7DRYIvDSGHCJk9FMck3a7c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:10 | 2022-11-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,632 likes - 47 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,651 likes - 47 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 2 | [If He Did It Before....Same God \- Live](https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 4:05 |
 | 3 | [All Things New](https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:07 |
 | 4 | [Could've Been \(with J Moss & Tye Tribbett\)](https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:47 |
-| 5 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
+| 5 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
 | 6 | [What Can I Do \- Live](https://open.spotify.com/track/3MwZoGEVR9i2AWzA8Vko9O) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 7:43 |
 | 7 | [New](https://open.spotify.com/track/2ArYLCGjKDAwhr7DKQ7v2v) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:15 |
 | 8 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
-| 9 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
+| 9 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
 | 10 | [The Worship Medley \(There Is Nothing Like/Glory To God Forever\) \- Live](https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 8:13 |
 | 11 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 |
 | 12 | [Only One Night Tho \- Radio Edit / Live](https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only One Night Tho \(Radio Edit / Live\)](https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs) | 3:50 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 37 | [I Give You Glory](https://open.spotify.com/track/3OV4aZDRNpg46THOyltbUE) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:25 |
 | 38 | [Keep Me](https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 5:07 |
 | 39 | [Chasing After You \(The Morning Song\)](https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 6:46 |
-| 40 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
-| 41 | [Craving \- Live](https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:21 |
+| 40 | [Craving \- Live](https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:21 |
+| 41 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
 | 42 | [He's Gonna Come Through \- Live](https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 4:56 |
 | 43 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 |
-| 44 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
-| 45 | [I Want More \- Live](https://open.spotify.com/track/7wIkV5aBDfYDgmhr7x2IrY) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Sharon Willingham](https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:42 |
+| 44 | [I Want More \- Live](https://open.spotify.com/track/7wIkV5aBDfYDgmhr7x2IrY) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Sharon Willingham](https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:42 |
+| 45 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
 | 46 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
 | 47 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDA3MzliOTE4ZWFiZDJhODIzYjQ0OTMzNjI5MDg2NGNkMA==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDAzY2I2Yzk3OTVmNTczZGJiOGNjZGFkZjRmNTU5ZGJiNA==`

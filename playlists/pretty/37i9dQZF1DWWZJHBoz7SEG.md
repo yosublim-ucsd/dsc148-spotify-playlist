@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Natanael Cano, Shakira y Manuel Turizo, Tainy y Bad Bunny, Olivia Rodrigo y Dan Garcia con lo más fresco para el finde!
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,168 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,304 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Back To Life](https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Back To Life](https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz) | 4:13 |
 | 50 | [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 |
 
-Snapshot ID: `MCxkMTM3OGNjOTE0MzViN2RiMjg3MDAxYTM1NjIzZGYyZGZmYmM1NzMy`
+Snapshot ID: `MCxmZGQyMDk1NTJkOGExYTM0MGY4OTA3YjdkMWM2YTM3ZTM1NDFjOTgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best current contemporary Reggae\. Cover: Buju Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,035 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,129 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 28 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 29 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 30 | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7) | 4:00 |
-| 31 | [What Do You Say \(Move It Baby\) \- Damian “Jr\. Gong" Marley Remix](https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [What Do You Say \(Move It Baby\) \[Damian “Jr Gong" Marley Remix\]](https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI) | 4:15 |
-| 32 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 |
+| 31 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 |
+| 32 | [What Do You Say \(Move It Baby\) \- Damian “Jr\. Gong" Marley Remix](https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [What Do You Say \(Move It Baby\) \[Damian “Jr Gong" Marley Remix\]](https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI) | 4:15 |
 | 33 | [Watch Me](https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [ZJ Chrome](https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM) | [Watch Me](https://open.spotify.com/album/0ZQoADyRu8QSfzXaUOrDHI) | 2:40 |
 | 34 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
 | 35 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
 | 36 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
-| 37 | [One Shot](https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:21 |
-| 38 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 |
+| 37 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 |
+| 38 | [One Shot](https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:21 |
 | 39 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 40 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 41 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/track/3d4915A5zEWBfi1dbDDbWS) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC) | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/album/3TBmA9ViKmFCyfNbDdJqrh) | 4:18 |
 | 70 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
 
-Snapshot ID: `MCxjMWM5YjI1OGQwNzJkMDA4MTg3NzBjMWRmMDFhZmYzYTY2MWZkZWU2`
+Snapshot ID: `MCxiNDYzNmFlYzhlMGVkNjA2YmE5ZjkxODFiNDQ5M2ZkNzhlNjA2OWM0`

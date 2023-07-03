@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,317 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,310 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 7 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
 | 8 | [Pulso](https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:26 |
 | 9 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 |
-| 10 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
-| 11 | [Canción Cauce](https://open.spotify.com/track/5BDAyGoE29547It73XxbqQ) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 1:56 |
+| 10 | [Canción Cauce](https://open.spotify.com/track/5BDAyGoE29547It73XxbqQ) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 1:56 |
+| 11 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 12 | [Disimulando](https://open.spotify.com/track/6hvWHYGNxRNnnOcFT7CxOI) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Oriente](https://open.spotify.com/album/75dUWteARyUJf238yCqtud) | 1:25 |
 | 13 | [Hacia los Bosques](https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:04 |
 | 14 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 |
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 16 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
 | 17 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
 | 18 | [Donde Vamos](https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [Donde Vamos](https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0) | 2:56 |
-| 19 | [Trago Sin Terminar](https://open.spotify.com/track/4jstoiX3RRUewwyMIpNPgS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 3:13 |
-| 20 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
+| 19 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
+| 20 | [Trago Sin Terminar](https://open.spotify.com/track/4jstoiX3RRUewwyMIpNPgS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 3:13 |
 | 21 | [ULTRASONICO](https://open.spotify.com/track/2W4qLB4rniOvtnt5ywiEGo) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 2:53 |
-| 22 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
-| 23 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 |
-| 24 | [Destino](https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 1:35 |
-| 25 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
-| 26 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
-| 27 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
-| 28 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 |
-| 29 | [Estoy Enojada](https://open.spotify.com/track/6VR6R6qQiI1zOJeJ8WMugS) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz) | [KELP](https://open.spotify.com/album/45TfiSTgYPdsXQpBCy0ll1) | 2:19 |
+| 22 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
+| 23 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
+| 24 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 |
+| 25 | [Destino](https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 1:35 |
+| 26 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
+| 27 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
+| 28 | [Estoy Enojada](https://open.spotify.com/track/6VR6R6qQiI1zOJeJ8WMugS) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz) | [KELP](https://open.spotify.com/album/45TfiSTgYPdsXQpBCy0ll1) | 2:19 |
+| 29 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 |
 | 30 | [Tengo Ganas](https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 4:00 |
 | 31 | [Papaia](https://open.spotify.com/track/16wY8MJs9xPNuUBmCrPoN8) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Papaia](https://open.spotify.com/album/6IVrCqj3aiMmr7byrRNQny) | 2:40 |
 | 32 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Serpientes](https://open.spotify.com/track/0Uu56M8h27DWtDRS0WB8wo) | [Paula y Los Pájaros](https://open.spotify.com/artist/5ieJxCq2svgyLpVgL7Xalk) | [Serpientes](https://open.spotify.com/album/5WnrMugZ9igrl5RQlZb0C3) | 4:16 |
 | 50 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 
-Snapshot ID: `MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3`
+Snapshot ID: `MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0`

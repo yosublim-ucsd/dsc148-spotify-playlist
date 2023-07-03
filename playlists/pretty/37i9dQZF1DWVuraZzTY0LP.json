@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 322456,
+  "num_followers": 322536,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzNjZmU0OGRlMTkyZDRlNzcwMmZjNWJkYmIyY2Y4ZDdhZGEzNzIx",
+  "snapshot_id": "MCwwNzk2YWIzN2QyY2Y5NWUwZGVlOTg1ODYyMzVhNTkzN2NiNDUxYTE4",
   "tracks": [
     {
       "added_at": "2023-05-19 21:03:14",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+        "name": "As Long As You Are",
+        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+      "duration_ms": 205245,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
     },
     {
       "added_at": "2023-05-19 21:03:14",
@@ -995,18 +991,22 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
-        "name": "As Long As You Are",
-        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 205245,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
     },
     {
       "added_at": "2023-05-19 21:03:14",

@@ -4,7 +4,7 @@
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: PUN
 
-104 songs - 6 hr 34 min
+107 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 | 2022-09-15 |  |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-04-13 |  |
 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-04-20 | 2023-05-09 |
+| [Perfect](https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Perfect](https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh) | 4:34 | 2023-07-02 |  |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2023-06-02 |  |
-| [Please](https://open.spotify.com/track/7nElMqssjoTPpfm8kSN1y1) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:45 | 2022-09-15 |  |
+| [Please](https://open.spotify.com/track/7nElMqssjoTPpfm8kSN1y1) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:45 | 2022-09-15 | 2023-07-03 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-04-13 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 |  |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2022-11-23 | 2023-04-14 |
@@ -42,7 +43,7 @@
 | [ขอให้ความเสียใจฉันหายไปกับฝน](https://open.spotify.com/track/3H4DCQTrmNbmAXHTb8ndgS) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ขอให้ความเสียใจฉันหายไปกับฝน](https://open.spotify.com/album/4OHYdOHu4n0h8LY7zWyLyK) | 4:55 | 2023-06-02 |  |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-12 | 2022-11-24 |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-09-15 | 2022-10-14 |
-| [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-09-15 |  |
+| [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-09-15 | 2023-07-03 |
 | [คนขี้โกหก](https://open.spotify.com/track/4bUZTqifPh6luvo28NS52L) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [คนขี้โกหก](https://open.spotify.com/album/3AsIUcQ6pfk3J7FlwEj0fy) | 4:05 | 2023-03-20 |  |
 | [คนข้าง ๆ](https://open.spotify.com/track/74bHsRVcV8VWPb8iYP8XNe) | [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [คนข้าง ๆ](https://open.spotify.com/album/4fYWhMamVJtKj6zg5NLS9A) | 2:55 | 2023-03-20 | 2023-04-14 |
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-09-15 |  |
@@ -64,7 +65,7 @@
 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 | 2023-05-13 |
 | [ทุกความทรงจำ](https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:35 | 2022-11-23 |  |
 | [นอนหน่อยไหม ?](https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [นอนหน่อยไหม ?](https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2) | 3:53 | 2023-01-18 | 2023-04-14 |
-| [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 | 2023-03-23 |  |
+| [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 | 2023-03-23 | 2023-07-03 |
 | [นั้น](https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [นั้น](https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA) | 3:20 | 2022-09-23 | 2023-01-11 |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2023-04-18 |  |
 | [บังอร](https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [บังอร](https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm) | 3:07 | 2023-01-10 | 2023-03-25 |
@@ -109,7 +110,9 @@
 | [ใจผมก็มีอยู่แค่นี้](https://open.spotify.com/track/6JPKI5LUFagfVszyzPrhsS) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ใจผมก็มีอยู่แค่นี้](https://open.spotify.com/album/74RNJrNPXeCs1571m5u8tw) | 4:10 | 2022-09-15 | 2023-04-14 |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2023-04-12 |  |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-09-15 |  |
+| [ได้เวลาแยกย้าย](https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ได้เวลาแยกย้าย](https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0) | 3:56 | 2023-07-02 |  |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-09-15 |  |
+| [ไม่ต้องมีนาซ่า มีแค่เธอกับฉัน \- Love Planet](https://open.spotify.com/track/2pgxiktYFD3YByqVkYmGC5) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ไม่ต้องมีนาซ่า มีแค่เธอกับฉัน \(Love Planet\)](https://open.spotify.com/album/1bt91b6cucflg1OqQqNgzv) | 3:55 | 2023-07-02 |  |
 | [ไม่เป็นไรหรอกมั้ง](https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 5:24 | 2022-09-15 |  |
 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2023-04-13 |  |
 

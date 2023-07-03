@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,900 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,989 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 26 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
 | 27 | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S) | 2:46 |
 | 28 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
-| 29 | [Nothing Else Matters](https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Nothing Else Matters](https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ) | 2:36 |
-| 30 | [Flowers](https://open.spotify.com/track/5WVG4MP29MfXX4PdJ7jY4N) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL) | [Flowers](https://open.spotify.com/album/2EiFRUPsvd47wrQbF5Lfv2) | 2:44 |
-| 31 | [Baby Steps](https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Baby Steps](https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB) | 2:23 |
+| 29 | [Flowers](https://open.spotify.com/track/5WVG4MP29MfXX4PdJ7jY4N) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL) | [Flowers](https://open.spotify.com/album/2EiFRUPsvd47wrQbF5Lfv2) | 2:44 |
+| 30 | [Baby Steps](https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Baby Steps](https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB) | 2:23 |
+| 31 | [Nothing Else Matters](https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Nothing Else Matters](https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ) | 2:36 |
 | 32 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 |
 | 33 | [Speed of Light](https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC) | [Drive With Beats](https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa), [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Speed of Light](https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj) | 2:56 |
 | 34 | [Poison](https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Poison](https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI) | 3:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Killing Me Softly](https://open.spotify.com/track/46vvP61lftD3CERdB3Y5yA) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J), [Damon Paul](https://open.spotify.com/artist/1oCUBnT304Iyc95vKgjyj0), [Beccy](https://open.spotify.com/artist/67XcyPV0HME7hw7ATGpk5J) | [Killing Me Softly](https://open.spotify.com/album/3Ip5Hu617beWtwIrO9v97a) | 2:00 |
 | 60 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 
-Snapshot ID: `MCw2MjhhMDM5MzkyMWU2NmYyZjMxNDE0OGVkMDQzMDI4MzEzYzhmYzYw`
+Snapshot ID: `MCxlZWFmYjYzNTU2NGVhMTEzYzkxNDE4OTA2OGIxODZjZmY5MGZhNDJm`

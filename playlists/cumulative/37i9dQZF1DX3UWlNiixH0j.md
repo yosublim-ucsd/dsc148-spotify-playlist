@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: KID FRESINO
 
-599 songs - 1 day 13 hr 21 min
+600 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bicycle](https://open.spotify.com/track/4X4Zm9TYHMN7mFaQtnRrXt) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/1pNtvTDPYsE2ctu1roiejj) | 2:51 | 2023-06-21 | 2023-06-28 |
 | [Bicycle](https://open.spotify.com/track/4fJPOJLLB1nkpXe1LZfK4Q) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/6cSE4mh7DxjjcSyy7iGtgs) | 2:51 | 2023-06-20 | 2023-06-22 |
 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2023-01-12 | 2023-03-01 |
-| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-04 | 2023-06-28 |
+| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-04 |  |
 | [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 | 2023-02-02 |
 | [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 | 2023-01-31 | 2023-03-15 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
@@ -104,7 +104,7 @@
 | [Dude on horse \(feat\. ZOMBIE\-CHANG\)](https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 2:31 | 2023-01-19 | 2023-02-22 |
 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 | 2023-02-21 | 2023-03-29 |
 | [eephus](https://open.spotify.com/track/5nPSGssVXZ3UCaEgC1CUl9) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [to breathe](https://open.spotify.com/album/4uAdY7fDj6PADhciFfwdh3) | 3:46 | 2023-04-25 | 2023-05-24 |
-| [Emptyspace](https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Emptyspace](https://open.spotify.com/album/7ap2UPq1GW3YZN6DzwaKWK) | 3:45 | 2023-06-23 |  |
+| [Emptyspace](https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Emptyspace](https://open.spotify.com/album/7ap2UPq1GW3YZN6DzwaKWK) | 3:45 | 2023-06-23 | 2023-07-03 |
 | [Endless Blue](https://open.spotify.com/track/65N6CHBeC10wQeP4bS3Nlq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Endless Blue](https://open.spotify.com/album/7iUPNZlBd24eWoC4dgYSyt) | 4:11 | 2023-04-11 | 2023-04-28 |
 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 | 2023-03-14 | 2023-05-03 |
 | [Every Breath](https://open.spotify.com/track/2XzlXqeqHeRRfPKKWyhUra) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [Odorata](https://open.spotify.com/album/4Uro4jb3EOXAOe12k8aEPD) | 1:49 | 2023-02-14 | 2023-03-29 |
@@ -260,6 +260,7 @@
 | [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 | 2023-05-23 | 2023-06-10 |
 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 | 2023-01-24 | 2023-05-08 |
 | [orange](https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [orange](https://open.spotify.com/album/3uGMz5oboP965F8wbWcllw) | 3:06 | 2023-06-06 | 2023-06-14 |
+| [outside of the house](https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [outside of the house](https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX) | 5:22 | 2023-07-02 |  |
 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 | 2023-05-23 | 2023-05-31 |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 | 2023-02-24 |
 | [PARA PARA](https://open.spotify.com/track/1YzmMIwRPMdg7K6R70xRtk) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/0Hu0UM5fv5YvWpRcFHyNrA) | 2:50 | 2023-06-13 | 2023-06-15 |
@@ -427,7 +428,7 @@
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-03-22 |
 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 | 2023-04-04 | 2023-04-12 |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-02 | 2023-05-31 |
-| [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-18 |  |
+| [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-18 | 2023-07-03 |
 | [なにを見ても、どこに居ても](https://open.spotify.com/track/3tEJmlEX4BHJ4wloTqd6NS) | [Nombrari](https://open.spotify.com/artist/0tN5CyaLXdQ0MjJFfZZNx2) | [なにを見ても、どこに居ても](https://open.spotify.com/album/2KP4lEiwtC8nds4xPOvJwg) | 3:57 | 2023-02-16 | 2023-03-08 |
 | [なりたいスター](https://open.spotify.com/track/5A7Ct9xnEP1gadsCYHYbem) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [なりたいスター](https://open.spotify.com/album/6CFmSJqmnpFw7kwKl3rCW6) | 1:51 | 2023-06-13 | 2023-06-21 |
 | [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 | 2023-03-21 | 2023-03-23 |

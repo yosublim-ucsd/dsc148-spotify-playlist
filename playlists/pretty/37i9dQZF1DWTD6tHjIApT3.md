@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: 佐藤千亜妃
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,532 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,554 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 67 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 |
 | 68 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 69 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 |
-| 70 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
-| 71 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
+| 70 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
+| 71 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
 | 72 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 |
 | 73 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
-| 74 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 |
-| 75 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
+| 74 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
+| 75 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 |
 | 76 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 77 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 78 | [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 85 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 |
 | 86 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
 | 87 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 |
-| 88 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 |
-| 89 | [ドキメキダイアリー](https://open.spotify.com/track/3Pc8ezs3771mswvKvaSauO) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 3:19 |
+| 88 | [ドキメキダイアリー](https://open.spotify.com/track/3Pc8ezs3771mswvKvaSauO) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 3:19 |
+| 89 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 |
 | 90 | [STAR](https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [STAR](https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL) | 5:12 |
-| 91 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 |
-| 92 | [オアイコ](https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [オアイコ](https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M) | 3:54 |
+| 91 | [オアイコ](https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [オアイコ](https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M) | 3:54 |
+| 92 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 |
 | 93 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 |
 | 94 | [ブルーグラス](https://open.spotify.com/track/4kuKGST6Pj4iMZBpO6BYl4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [LOSE LOOSE Day](https://open.spotify.com/album/6BXKCdnItF9gB7LfPZyQnY) | 4:24 |
 | 95 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:22 |
 | 96 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 |
 | 97 | [Kokorone](https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kokorone](https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5) | 3:10 |
-| 98 | [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 |
-| 99 | [ヒトツボシ](https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR) | [KOH+](https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr) | [ヒトツボシ \~ガリレオ Collection 2007\-2022\~](https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1) | 4:20 |
-| 100 | [地球が一枚の板だったら](https://open.spotify.com/track/5WERwXiN90uZMTBPoXtOaD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [地球が一枚の板だったら](https://open.spotify.com/album/3R3riL6DJBBaxPW3RjUmQ3) | 3:09 |
+| 98 | [ヒトツボシ](https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR) | [KOH+](https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr) | [ヒトツボシ \~ガリレオ Collection 2007\-2022\~](https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1) | 4:20 |
+| 99 | [地球が一枚の板だったら](https://open.spotify.com/track/5WERwXiN90uZMTBPoXtOaD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [地球が一枚の板だったら](https://open.spotify.com/album/3R3riL6DJBBaxPW3RjUmQ3) | 3:09 |
+| 100 | [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 |
 
-Snapshot ID: `MCwyMDBiMGY4M2JjOGQ3NjAxNTJiMTEyNmFkOGQ5NGVkMjE4NzQ2YTYy`
+Snapshot ID: `MCwzMGFhMTA0ZmJhNTY0NjBjYWYwZGYyMzc0Y2RhODg0MzNkMDA5Yjg2`

@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 73593,
+  "num_followers": 73696,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTg5YTk2MjQ2ZGJiOTcxNmQ0ZDhlNjQ5NzE5YmIyNjI4ZmRkOGQ5",
+  "snapshot_id": "MCxhMjQ0ZjAzYTFjMTVkYWVhY2Q4YmU3MWY5Yjk2MDQwNDYzYTk4ODkx",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -279,6 +279,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2021-12-13 13:21:36",
@@ -367,38 +383,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Your Best American Girl",
-      "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230693,
       "name": "Youth",
       "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -443,6 +443,22 @@
       "duration_ms": 236252,
       "name": "Sweet Dreams, TN",
       "url": "https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201785,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/5bodDpPolC3xlame0SVcDY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -491,22 +507,6 @@
       "duration_ms": 245960,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201785,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/5bodDpPolC3xlame0SVcDY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 136000,
       "name": "A Song About Being Sad",
       "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "For Elise",
-      "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 197426,
       "name": "Silvertongue",
       "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "For Elise",
+      "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+        "name": "Cardinal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
+      "duration_ms": 207720,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -915,22 +931,6 @@
       "duration_ms": 232490,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Cardinal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Altar",
-        "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Gemini Feed",
-      "url": "https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 168000,
       "name": "22 (OVER S\u221e\u221eN)",
       "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "The Altar",
+        "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Gemini Feed",
+      "url": "https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Everybody Wants to Love You",
-      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Everybody Wants to Love You",
+      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Gameshow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
       "artists": [
         {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 242560,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
+      "duration_ms": 237693,
+      "name": "Coins",
+      "url": "https://open.spotify.com/track/53I7CviVHhNYEKth717RLG"
     }
   ],
   "unique_name": "Best of Indie 2016",

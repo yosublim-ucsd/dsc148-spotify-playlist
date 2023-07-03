@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,576 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,607 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 31 | [Daktari](https://open.spotify.com/track/5owmZx9QF53AiqqldvPILj) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Daktari EP](https://open.spotify.com/album/3UyLzpscjnDPCSEBrR7L07) | 5:37 |
 | 32 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 |
 | 33 | [Close Proximity](https://open.spotify.com/track/43vW5IEEqHooORXeA3ya8t) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/4pR4ysFeWi8PGqfn3balyw) | 8:34 |
-| 34 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
-| 35 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
+| 34 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
+| 35 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
 | 36 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
 | 37 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
 | 38 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
 | 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MCwzZDZiZWQ0YThiOGEwYmRlOGNhMGI0M2RkZTY2MDc2ZDJlNjJhMWZi`
+Snapshot ID: `MCxhYzRlOGY3Mjc4NjUyZDk3ZDI4MTQ2YzMzOGFhYzgyYzk2NzMwNDhi`

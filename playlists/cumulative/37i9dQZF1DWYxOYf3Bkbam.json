@@ -618,6 +618,24 @@
     {
       "album": {
         "name": "Duendes Puebleros",
+        "url": "https://open.spotify.com/album/5Y0XgeRdlZ4KxPXtikSKiI"
+      },
+      "artists": [
+        {
+          "name": "Mario Bofill",
+          "url": "https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199373,
+      "name": "Conjunto Pena Y Olvido",
+      "url": "https://open.spotify.com/track/3RT7zu5eneQhb16dY5cSUh"
+    },
+    {
+      "album": {
+        "name": "Duendes Puebleros",
         "url": "https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO"
       },
       "artists": [
@@ -628,7 +646,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 199373,
       "name": "Conjunto Pena Y Olvido",
       "url": "https://open.spotify.com/track/7tgJfvvzUi10I77BffnUHd"

@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,375 songs - 5 day 16 hr 9 min
+2,376 songs - 5 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [For What It's Worth](https://open.spotify.com/track/2ZBwoldduPeQoXBWePnrYV) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [For What It's Worth](https://open.spotify.com/album/4pNtsSNcYf87OeQPUALNaR) | 3:10 | 2020-08-20 | 2023-02-12 |
 | [For You](https://open.spotify.com/track/726h3Tn8sodAzPz6FVCraT) | [Sheldon Ferguson](https://open.spotify.com/artist/3tnuhB00OI05TfyLPpKN1I), [Drew Harmony](https://open.spotify.com/artist/13rJ0mJNZbRE6ykLwgi8iu) | [Prelude](https://open.spotify.com/album/6hk2VxGBABQ8EOq7L7spPP) | 3:20 | 2019-11-03 | 2019-11-24 |
 | [For Your Love](https://open.spotify.com/track/5ED36ctggkVCfKRKuNml8O) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [For Your Love](https://open.spotify.com/album/7pXp13wiHydzfejBQq9obb) | 4:27 | 2020-12-20 | 2021-01-06 |
+| [Forever](https://open.spotify.com/track/0LkvwMI2zVxzI8NsK1iaWR) | [Alice Take a Trip](https://open.spotify.com/artist/0MkOWixmBLT3cstRKEOFI6) | [Forever](https://open.spotify.com/album/2zYVKt4IAikJQJ4oO93EPE) | 4:07 | 2023-07-02 |  |
 | [Forever](https://open.spotify.com/track/61gD8c6C2MvAt1FrqOBg6R) | [Nawy](https://open.spotify.com/artist/6NP1aYhoRMDBhg9AaTzFTs), [NYRE](https://open.spotify.com/artist/233FkFR2Fy2v0c3pn43lXO) | [Forever](https://open.spotify.com/album/1RjWEiR2nfpa0fduARdrJ4) | 2:54 | 2022-11-04 | 2022-11-27 |
 | [Forever Ain't Long Enough \(To Love You The Way I Want To\) \- Radio Edit](https://open.spotify.com/track/1OViIF1z9C4QfZj4mNdgnw) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Sam Howden](https://open.spotify.com/artist/57TQzjlKNFc1Gdo7L310yv), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Aaron Paris](https://open.spotify.com/artist/0oY79dcJHTXNBNCBWD6phF) | [Mathien Forever](https://open.spotify.com/album/3iu7sg3tRfV9txlukkoeB6) | 3:29 | 2021-10-06 | 2021-10-22 |
 | [Forever Bae](https://open.spotify.com/track/5CGWTIq3cbC2g5JO5edJrO) | [Arei Moon](https://open.spotify.com/artist/0ZVW5If1hDoA7kQj3CKIcT) | [Forever Bae](https://open.spotify.com/album/4eNTBqVpsNb66mafzpmRp2) | 3:19 | 2022-12-02 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-81 songs - 5 hr 45 min
+82 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2022-11-30 |  |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-11-30 |  |
 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 | 2022-11-30 |  |
-| [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-11-30 |  |
+| [We Control](https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/60rhOCClApo0duvJbe2A18) | 3:26 | 2022-11-30 |  |
+| [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-11-30 | 2023-07-03 |
 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 | 2022-11-30 |  |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-11-30 |  |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-11-30 |  |

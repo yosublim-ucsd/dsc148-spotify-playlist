@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Cantamores en portada.",
-  "num_followers": 56671,
+  "num_followers": 56691,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2MzNTk3ZjhiZDg5MThhMzBmMjcxYWUzZTBiNjZjZDAxZjljODVm",
+  "snapshot_id": "MCwwYjFkYzBjZWI1NGU4NTIxZGU1NDY3NjA4NGU4ZjM5YTA1YTRiNDMy",
   "tracks": [
     {
       "added_at": "2023-06-16 15:34:25",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-16 15:34:25",
       "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
-    },
-    {
-      "added_at": "2023-06-16 15:34:25",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
+    },
+    {
+      "added_at": "2023-06-16 15:34:25",
+      "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": "2023-06-16 15:34:25",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-16 15:34:25",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2023-06-16 15:34:25",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2023-06-16 15:34:25",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2023-06-16 15:34:25",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-06-16 15:34:25",
       "album": {
-        "name": "A Simple Vista",
-        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
-      },
-      "artists": [
-        {
-          "name": "Tyna Ros",
-          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
-        },
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 207784,
-      "name": "A Simple Vista",
-      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
-    },
-    {
-      "added_at": "2023-06-16 15:34:25",
-      "album": {
         "name": "El Su\u00e9ter",
         "url": "https://open.spotify.com/album/3uxziGtlsgvgHtPQJg5CBx"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 179473,
       "name": "El Su\u00e9ter",
       "url": "https://open.spotify.com/track/2bdY6ski2FX3zsLYZZGBIw"
+    },
+    {
+      "added_at": "2023-06-16 15:34:25",
+      "album": {
+        "name": "A Simple Vista",
+        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
+      },
+      "artists": [
+        {
+          "name": "Tyna Ros",
+          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
+        },
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 207784,
+      "name": "A Simple Vista",
+      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
     },
     {
       "added_at": "2023-06-16 15:34:25",

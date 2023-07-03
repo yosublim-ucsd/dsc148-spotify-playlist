@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 69 | [Home](https://open.spotify.com/track/5GI96fTs0xkKXfgShNn975) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [At Home](https://open.spotify.com/album/27y7LkojjT5POmnZeWIttg) | 2:30 |
 | 70 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 |
 | 71 | [Psycho](https://open.spotify.com/track/11mnze67X02I4q190PXVxo) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [FWA](https://open.spotify.com/album/2wVTLpA19kpk5qmkTASir0) | 4:07 |
-| 72 | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/track/4dNZUNpTSaQWvOJ8U5zttp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/album/1hSNGgqMnZ5jksP3aLOxMp) | 4:09 |
-| 73 | [Dollar Wine](https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 5:47 |
+| 72 | [Dollar Wine](https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 5:47 |
+| 73 | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/track/4dNZUNpTSaQWvOJ8U5zttp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/album/1hSNGgqMnZ5jksP3aLOxMp) | 4:09 |
 | 74 | [Naked \(feat\. Big Sean\)](https://open.spotify.com/track/6NNWpqisP8aFWSO377cAks) | [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Naked \(feat\. Big Sean\)](https://open.spotify.com/album/0jMahV23gJ1MZErE9ZzvGk) | 4:21 |
 | 75 | [My Guy](https://open.spotify.com/track/2oQhNpylkd2vtbXGr6IBWa) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:20 |
 | 76 | [Hustle Harder](https://open.spotify.com/track/2SS3wA4pk7jutREHgojJcb) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Nobody's Smiling \(Deluxe\)](https://open.spotify.com/album/0ymZEUngBCetAJcJaqO63b) | 3:58 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 89 | [Ghost](https://open.spotify.com/track/3w9uPtA4j0t4dkylvd2Fea) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Travel](https://open.spotify.com/album/2UAXbkVAmerFPsznkDKnmG) | 2:56 |
 | 90 | [I Need to Know](https://open.spotify.com/track/7wghz3QGJe4cclJDUjxnBq) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:34 |
 | 91 | [I Know Somebody](https://open.spotify.com/track/1TLrmgpirIhAkh2Morfe6w) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [I Know Somebody](https://open.spotify.com/album/3G26jgzF1849FOY2jZ08ew) | 3:05 |
-| 92 | [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 |
-| 93 | [No Part of You](https://open.spotify.com/track/1pbQKVrX2JrKhSpFaPbybg) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/79KbYTbpyMU9QYJvc7dr7A) | 3:45 |
+| 92 | [No Part of You](https://open.spotify.com/track/1pbQKVrX2JrKhSpFaPbybg) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/79KbYTbpyMU9QYJvc7dr7A) | 3:45 |
+| 93 | [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 |
 | 94 | [Tom Edison](https://open.spotify.com/track/07V9RLJZnKZsGTgUtSUWrC) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:32 |
 | 95 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 |
 | 96 | [Pretty Sure](https://open.spotify.com/track/3E7iBLJHRfDoDqKwgxEsHo) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Pretty Sure](https://open.spotify.com/album/2LKxTFUbRQ8XzNHgXfOb88) | 3:01 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 107 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 108 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `MjgxMzc3NTAsMDAwMDAwMDBkYjFkMTRhZGM3MTc5NzhjNzU1ZWFlM2ViY2RkZTFiYQ==`
+Snapshot ID: `MjgxMzkxOTAsMDAwMDAwMDBiMTc5NTRhZDc1NmFhMDY4YzA1NzllN2YwYzJlODg3Mg==`

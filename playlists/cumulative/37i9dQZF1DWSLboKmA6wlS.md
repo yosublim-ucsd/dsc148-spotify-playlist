@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: OVERLOAD\. Artwork: Isu Kim
 
-583 songs - 1 day 13 hr 6 min
+584 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [ERROR](https://open.spotify.com/track/4quR3924jJI5Oir4XuYebn) | [GLTCHZ](https://open.spotify.com/artist/4CuhCQjwxt4ZBTDzE7DqAW) | [ERROR](https://open.spotify.com/album/1X53uRwZUSlr3knpZV0HTC) | 3:14 | 2022-12-01 | 2022-12-17 |
 | [Faded Sea](https://open.spotify.com/track/5a396MJKuZFba9U060Svpl) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [A Blessing in Disguise](https://open.spotify.com/album/4MoBa53HXIiSSZqJcfhv7s) | 5:49 | 2023-01-27 | 2023-04-01 |
 | [FAKEดีออก](https://open.spotify.com/track/4jUwGi2gIlWiqNabjzwRPI) | [QEETHA](https://open.spotify.com/artist/3l0GAlP5fa1GLyjq7JhexM) | [FAKEดีออก](https://open.spotify.com/album/287P1Dsb5SBKiNa86hcDYA) | 2:57 | 2023-02-02 | 2023-04-07 |
-| [Fall in Love](https://open.spotify.com/track/2eBIya9AvMDqCn1EfcD2Vv) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/0xNw3QifPY1o13VDyxTfEM) | 3:19 | 2023-06-30 |  |
+| [Fall in Love](https://open.spotify.com/track/2eBIya9AvMDqCn1EfcD2Vv) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/0xNw3QifPY1o13VDyxTfEM) | 3:19 | 2023-06-30 | 2023-07-03 |
+| [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-06-30 |  |
 | [Falling](https://open.spotify.com/track/3tvfFxisJBTUjOciGte2bs) | [Brownzer](https://open.spotify.com/artist/0rHifX6r31mfSJwUDounEi), [BABYBOI](https://open.spotify.com/artist/50SdCYP91jcFrfr7UbX5l8), [FREEFA](https://open.spotify.com/artist/1xViKJvaWPvRlYhN30ZKyZ) | [Falling](https://open.spotify.com/album/28sCbG7TxYwAwgHIIyB3nU) | 4:08 | 2023-04-21 | 2023-04-29 |
 | [Falling Rain](https://open.spotify.com/track/62WmKajNK3aAZ83p07Z6AU) | [mmb.](https://open.spotify.com/artist/2s1jN5dTzhDJfCwXPeJ1vt) | [Falling Rain](https://open.spotify.com/album/4EItrg8KGZFpJRb8Ozynf3) | 3:22 | 2022-09-15 | 2022-09-30 |
 | [Feels Just Right \(พอดี\)](https://open.spotify.com/track/2CP4FkRKdyngAVVdDfhzWN) | [WATAN\-U](https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG), [PORUCHU](https://open.spotify.com/artist/6G4cbqPMK4wS226NqxoqXy) | [Feels Just Right \(พอดี\)](https://open.spotify.com/album/76dv28vSOeUXxiIgSuwJjK) | 2:57 | 2023-03-10 | 2023-03-18 |

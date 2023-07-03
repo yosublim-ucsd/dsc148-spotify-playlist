@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-233 songs - 16 hr 15 min
+234 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Coronaviscerated](https://open.spotify.com/track/2EVGuKfBWknVvblz6UA7Jj) | [Vermicide Violence](https://open.spotify.com/artist/6HQsE9hwzWuLyzOxRjrOSf), [Jared Dines](https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ) | [The Praxis of Prophylaxis](https://open.spotify.com/album/7p8Zh9vSR4VojUar5SpPef) | 3:38 | 2020-05-02 |  |
 | [Cosmic Key III Dream Sequence](https://open.spotify.com/track/7ykohVBPOQcqgkMJ9pvYDX) | [Crafting the Conspiracy](https://open.spotify.com/artist/2RuYgtZkIVgFaGBEyL3Aay), [Berry](https://open.spotify.com/artist/3O0lFnFD6rsCoJDXgeMSb8) | [Cosmic Key III Dream Sequence](https://open.spotify.com/album/7L2EMTv0vmB9QA9T6fkOgA) | 5:06 | 2022-02-20 |  |
 | [Curse of Thorn](https://open.spotify.com/track/7i3GUcLW3kuD7yjPe3sWdp) | [The Animus Project](https://open.spotify.com/artist/3XO3xO1peRDQ2lL0nhGLjn), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [Curse of Thorn](https://open.spotify.com/album/5YwKcLxLP94RDjYQm27Ytj) | 3:19 | 2020-12-05 |  |
+| [Cursed To Be Here](https://open.spotify.com/track/004Z7L39vusAlI6TgkSS8f) | [Miserys End](https://open.spotify.com/artist/68O6BSGjQ7gM1gNpLGxsAO), [Jeremy St\-Denis from Waste](https://open.spotify.com/artist/4jMy6VlfG3fSoqmWYnMxxW) | [Cursed To Be Here](https://open.spotify.com/album/5Ny41rdK2b2VrzbwbBS1BR) | 3:42 | 2023-07-02 |  |
 | [Dahaka](https://open.spotify.com/track/5qBDeDHTFPfEciP2mdh3Aw) | [Spire of Lazarus](https://open.spotify.com/artist/2siG2lB8W9OCBXyd4ebEM6) | [Soaked In The Sands](https://open.spotify.com/album/0bqJ8j8DxUnsn4OlXQlzaT) | 5:44 | 2022-07-11 |  |
 | [Dark Archon](https://open.spotify.com/track/7cZFeHkZEoeyRsbDE56QgC) | [The Dialectic](https://open.spotify.com/artist/14XLmlJANyh7F0RCOnvM31) | [We Are Obscurity](https://open.spotify.com/album/0uvxxxCjaY6GMb9sUPLpPY) | 2:52 | 2018-10-06 |  |
 | [Dark Era](https://open.spotify.com/track/7tGDLg5rx5BXvzDYErkglu) | [Revenge The Fate](https://open.spotify.com/artist/1YiG8Hn66v3E53ay7YyJb2) | [Dark Era](https://open.spotify.com/album/2ai9CuMmwHFcKNYOzVSBhz) | 4:35 | 2020-11-01 |  |

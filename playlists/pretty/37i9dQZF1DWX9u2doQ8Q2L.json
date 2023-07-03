@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 372376,
+  "num_followers": 372381,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzBhNmVlZGViOTc0MGQ2OWYwYWY5OWE4N2U0MzRhYTIxNzRmNjM0",
+  "snapshot_id": "MCxhYzI5NGU5NzM5NmMwMWE5NTEzY2EzODIzYjAxYTAyNzhhNjAyN2Uz",
   "tracks": [
     {
       "added_at": "2023-06-29 15:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "\u307e\u305f\u306d",
-        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "\u307e\u305f\u306d",
-      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 157924,
       "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Kimochy Season",
-        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 198673,
-      "name": "Kimochy",
-      "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Talkin' Talkin'",
-        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Talkin' Talkin'",
-      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Departure : My New Me",
         "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
       },
@@ -1091,18 +1059,34 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "You Just Walked In My Life",
-        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
+        "name": "Kimochy Season",
+        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 179040,
-      "name": "You Just Walked In My Life",
-      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
+      "duration_ms": 198673,
+      "name": "Kimochy",
+      "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Talkin' Talkin'",
+        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Talkin' Talkin'",
+      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 191826,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "You Just Walked In My Life",
+        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "You Just Walked In My Life",
+      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1203,6 +1203,34 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
+        "name": "HONEY DARLIN (feat. Aile The Shota)",
+        "url": "https://open.spotify.com/album/7IfOFWG5ewWQ2c2EN9RIB7"
+      },
+      "artists": [
+        {
+          "name": "NARROWORLD",
+          "url": "https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "OHTORA",
+          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "HONEY DARLIN (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/3MvyeAc8ueBaRSrmZWHFco"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
         "name": "\u8ab0\u306e\u58f0?",
         "url": "https://open.spotify.com/album/5jSzzizVsJipiK7ButA5cu"
       },
@@ -1259,30 +1287,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "HONEY DARLIN (feat. Aile The Shota)",
-        "url": "https://open.spotify.com/album/7IfOFWG5ewWQ2c2EN9RIB7"
+        "name": "39 Minutes",
+        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
       },
       "artists": [
         {
-          "name": "NARROWORLD",
-          "url": "https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW"
-        },
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "OHTORA",
-          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
-        },
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
         }
       ],
-      "duration_ms": 171000,
-      "name": "HONEY DARLIN (feat. Aile The Shota)",
-      "url": "https://open.spotify.com/track/3MvyeAc8ueBaRSrmZWHFco"
+      "duration_ms": 213106,
+      "name": "39 Minutes",
+      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "39 Minutes",
-        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "39 Minutes",
-      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Passione",
         "url": "https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 232202,
       "name": "Passione",
       "url": "https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        }
-      ],
-      "duration_ms": 174473,
-      "name": "Like A Seraph",
-      "url": "https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "duration_ms": 174473,
+      "name": "Like A Seraph",
+      "url": "https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
         "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
         "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 244996,
+      "name": "\u661f\u55ab\u8336\u5e97",
+      "url": "https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1439,22 +1455,6 @@
       "duration_ms": 209837,
       "name": "\u982c\u306b\u3072\u3068\u53e3",
       "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 244996,
-      "name": "\u661f\u55ab\u8336\u5e97",
-      "url": "https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
+        "name": "Dancer in the Dark",
+        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "duration_ms": 175532,
+      "name": "Dancer in the Dark",
+      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
         "name": "Hozue",
         "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Lovers In Tokyo",
-        "url": "https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC"
-      },
-      "artists": [
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Lovers In Tokyo",
-      "url": "https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Dancer in the Dark",
-        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+        "name": "Lovers In Tokyo",
+        "url": "https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC"
       },
       "artists": [
         {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
         }
       ],
-      "duration_ms": 175532,
-      "name": "Dancer in the Dark",
-      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
+      "duration_ms": 226586,
+      "name": "Lovers In Tokyo",
+      "url": "https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1659,38 +1659,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "DOCUMENT (2023)",
-        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 278403,
-      "name": "DOCUMENT - 2023",
-      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
-        "name": "Yume wa Sametemo",
-        "url": "https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Yume wa Sametemo",
-      "url": "https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
@@ -1703,6 +1671,22 @@
       "duration_ms": 242836,
       "name": "Twenty-Twenty",
       "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -1727,6 +1711,22 @@
       "duration_ms": 206017,
       "name": "Hearth",
       "url": "https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Yume wa Sametemo",
+        "url": "https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Yume wa Sametemo",
+      "url": "https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm"
     },
     {
       "added_at": "2023-06-29 15:00:00",

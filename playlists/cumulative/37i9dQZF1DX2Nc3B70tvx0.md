@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. The Japanese House drops an album.
 
-1,659 songs - 4 day 3 hr 44 min
+1,661 songs - 4 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [All Of The Time](https://open.spotify.com/track/5cnsoV2GXggZXhC27SqYpv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [All Of The Time](https://open.spotify.com/album/4r5R7JXV1JnuxLqEnXIGMR) | 3:02 | 2021-08-20 | 2022-04-08 |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-08 | 2022-07-06 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-07-15 | 2022-08-12 |
-| [All We've Ever Wanted](https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [All We've Ever Wanted](https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4) | 3:03 | 2023-02-28 |  |
+| [All We've Ever Wanted](https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [All We've Ever Wanted](https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4) | 3:03 | 2023-02-28 | 2023-07-03 |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2020-12-04 | 2021-05-21 |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-28 |  |
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-06-03 | 2022-06-18 |
@@ -595,6 +595,7 @@
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2021-04-22 | 2021-05-27 |
 | [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2023-06-09 | 2023-07-01 |
 | [Having a Good Time, Sometimes](https://open.spotify.com/track/1xNQ7UujtJn6OqaXwnWkIa) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Having a Good Time, Sometimes](https://open.spotify.com/album/0sVTx58xcHrOoOmcnLlkNL) | 2:57 | 2021-01-13 | 2021-09-01 |
+| [hazelton](https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [hazelton b/w liner](https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks) | 3:01 | 2023-06-30 |  |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2019-06-07 | 2019-09-13 |
 | [HEAD](https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [HEAD](https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ) | 1:51 | 2022-11-04 | 2022-11-12 |
 | [Head Straight](https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Head Straight](https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll) | 2:20 | 2023-06-09 |  |
@@ -1477,7 +1478,7 @@
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-10 |  |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-07 | 2023-06-01 |
 | [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-19 | 2022-06-24 |
-| [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 | 2023-06-16 |  |
+| [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 | 2023-06-16 | 2023-07-03 |
 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-11 | 2023-02-04 |
 | [Today \(can't help but cry\)](https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Today \(can't help but cry\)](https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb) | 4:12 | 2023-01-13 | 2023-01-21 |
 | [Today \(with Tirzah\)](https://open.spotify.com/track/7vqbA9MfCnSFMTT0cikF8b) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [R.Y.C](https://open.spotify.com/album/49XdLHYoA83A2JpKbJykSP) | 3:20 | 2020-01-24 | 2020-07-24 |
@@ -1602,6 +1603,7 @@
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-18 | 2022-10-08 |
 | [Whatever Tomorrow](https://open.spotify.com/track/7hI6O280FAYYtNBOH2o8qM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Whatever Tomorrow](https://open.spotify.com/album/5V3AIqbOWsO3rf0W3cQMpt) | 4:23 | 2021-04-20 | 2022-01-03 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2019-05-26\* | 2020-03-14 |
+| [When Everything Was Lost](https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [When Everything Was Lost](https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj) | 4:00 | 2023-06-30 |  |
 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 | 2022-09-23 | 2022-11-05 |
 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/album/5bIbXSqZjr3m6DBm6t7HPQ) | 3:45 | 2022-05-06 | 2022-07-27 |
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-07-15 | 2022-11-13 |

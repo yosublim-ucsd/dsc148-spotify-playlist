@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: OPEN TILL L8
 
-932 songs - 2 day 3 hr 28 min
+933 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Going Home](https://open.spotify.com/track/2ww0OC7q3oYWbsgRoDdZp2) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Going Home](https://open.spotify.com/album/6MzuyHiVXgtXnHzMeGsuqP) | 4:00 | 2023-03-31 | 2023-04-21 |
 | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/track/5CCI7vsRrr7JRyAtNtBFh4) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU), [Lue.](https://open.spotify.com/artist/68bqztJbjbjG36rYWZ0D5Y) | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/album/44yf0cXLP1WPNl9q0f3jOj) | 4:01 | 2023-05-25 | 2023-06-23 |
 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 | 2023-06-22 |  |
+| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-07-02 |  |
 | [Good Morning \(feat\. YOU\)](https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Good Morning \(feat\. YOU\)](https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0) | 2:55 | 2023-06-22 |  |
 | [Good Times](https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Good Times](https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo) | 1:53 | 2022-12-08 | 2023-01-20 |
 | [Goodbye \(feat\. Stevie Appleton\)](https://open.spotify.com/track/6qML6z7wxbPgRMh96Je0Uu) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Goodbye \(feat\. Stevie Appleton\)](https://open.spotify.com/album/2VwaGHLXdJ2358MmqGABhE) | 3:06 | 2023-03-23 | 2023-04-14 |

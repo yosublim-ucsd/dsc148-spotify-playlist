@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-74 songs - 6 hr 4 min
+75 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [PERFECT RAINBOW](https://open.spotify.com/track/2lDjU7CavwuSkwiQUs9Jwl) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 4:22 | 2021-04-15 |  |
 | [SILENT SNOW STREAM](https://open.spotify.com/track/1bhJKv7Ou9rN9RYVD6YXUP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 6:32 | 2021-04-15 |  |
 | [Summer's Gone](https://open.spotify.com/track/6ba2rP5GlBGvf6iGre793z) | [GREAT3](https://open.spotify.com/artist/30J6mBcyUPnaFvosCbwril) | [Richmondo High](https://open.spotify.com/album/23Va8dFffSGu9AmvygAtff) | 5:16 | 2021-04-15 |  |
-| [Sweet Love](https://open.spotify.com/track/5WTCHYg9G27e9e5HFKGdd1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [THE BEST SONGS OF JUNKO OHASHI](https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI) | 4:49 | 2021-04-15 |  |
+| [Sweet Love](https://open.spotify.com/track/5WTCHYg9G27e9e5HFKGdd1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [THE BEST SONGS OF JUNKO OHASHI](https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI) | 4:49 | 2021-04-15 | 2023-07-03 |
+| [Sweet Love](https://open.spotify.com/track/6z36XjysOaMvwMTawM5l9J) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [For Tomorrow](https://open.spotify.com/album/0U8SaiOdEhmREO3dx9XABg) | 4:49 | 2021-04-15 |  |
 | [Sweet Rhapsody](https://open.spotify.com/track/2ws62XcfeV7PCT2exLmBEN) | [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ささやかれた夢の話](https://open.spotify.com/album/4vvaXPl77ekeetmDhltVOr) | 4:14 | 2021-04-15 |  |
 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2021-04-15 |  |
 | [WATERMELON](https://open.spotify.com/track/1d50tLud20gqKmw5eb6mah) | [東京スカパラダイスオーケストラ featuring 高橋 幸宏](https://open.spotify.com/artist/4NqUoQh0v3j74orTCFvWUw), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/4Lm4iHEuF9cJN5JKQqVaCu) | 5:36 | 2021-04-15 | 2022-07-29 |

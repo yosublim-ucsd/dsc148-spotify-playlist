@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 281138,
+  "num_followers": 281142,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmRiYjZhODgyMWNkYTkzMTRmZWU4YzljNzFjNzBmMGJiNWZkYjRh",
+  "snapshot_id": "MCwwNTlkYzI2MTE4MTY3MzAwYjhkZDkwMzhlNjc4YjI0YjQ3OGVlNDI4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 213179,
       "name": "11 RAZONES",
       "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "DESEO INMORTAL",
+        "url": "https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 170482,
+      "name": "SOLO QUIERO A MI MAM\u00c1",
+      "url": "https://open.spotify.com/track/3YEm3SszPXnPVLoNzgtM3j"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "La Petite Mort",
         "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "DESEO INMORTAL",
-        "url": "https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 170482,
-      "name": "SOLO QUIERO A MI MAM\u00c1",
-      "url": "https://open.spotify.com/track/3YEm3SszPXnPVLoNzgtM3j"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -479,18 +479,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 179872,
-      "name": "TRAS",
-      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -511,22 +515,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
       "artists": [
         {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+      "duration_ms": 179872,
+      "name": "TRAS",
+      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179585,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Divergencia",
         "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 181240,
       "name": "Ramona Flowers",
       "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179585,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 164470,
       "name": "Cuesta Arriba",
       "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177348,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No me preguntes por qu\u00e9",
-        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
+        "name": "Renacimiento",
+        "url": "https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm"
       },
       "artists": [
         {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         },
         {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 173436,
-      "name": "No me preguntes por qu\u00e9",
-      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
+      "duration_ms": 212810,
+      "name": "Sentimientos Encontrados",
+      "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Renacimiento",
-        "url": "https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm"
+        "name": "No me preguntes por qu\u00e9",
+        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
         },
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
         }
       ],
-      "duration_ms": 212810,
-      "name": "Sentimientos Encontrados",
-      "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
+      "duration_ms": 173436,
+      "name": "No me preguntes por qu\u00e9",
+      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "L\u00c1 L\u00c1",
         "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 150790,
       "name": "Hey!",
       "url": "https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
     }
   ],
   "unique_name": "Rock Total",

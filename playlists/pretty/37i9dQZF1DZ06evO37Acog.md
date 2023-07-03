@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,704 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,739 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 39 | [Mujer Paseada](https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [2 Grandes Mano a Mano](https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5) | 2:48 |
 | 40 | [La Miedosa](https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:17 |
 | 41 | [Enséñame A Olvidar](https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:28 |
-| 42 | [Lamento Vallenato](https://open.spotify.com/track/7aHajo5HTUrU5ZYZuhrbF4) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quémame Los Ojos \(Remasterizado\)](https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1) | 2:47 |
-| 43 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
+| 42 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
+| 43 | [Lamento Vallenato](https://open.spotify.com/track/7aHajo5HTUrU5ZYZuhrbF4) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quémame Los Ojos \(Remasterizado\)](https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1) | 2:47 |
 | 44 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
 | 45 | [Infiel](https://open.spotify.com/track/4QZ7045krnEuSUxrKOntxP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:44 |
 | 46 | [Me Llega, Me Llega](https://open.spotify.com/track/4IfVVQ9w59vx0eoepbO9Mu) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:32 |
 | 47 | [Debajo De Aquel Árbol](https://open.spotify.com/track/36KaZfJWJnupwYWgKFReQy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Seis Rosas Amarillas](https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf) | 3:34 |
 | 48 | [Capullito De Rosa](https://open.spotify.com/track/5ympd0p1sdlayiksIkfWeD) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 3:08 |
 | 49 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 |
-| 50 | [Volví A Mi Finca De Adobe](https://open.spotify.com/track/7CJSiAMo8EUdQde8Tv1wJp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DEBAJO DE AQUEL ÁRBOL / CUATRO CAMINOS \(GRABACIÓN ORIGINAL REMASTERIZADA\)](https://open.spotify.com/album/2dlKrcyJLsELo2zbU6WjpJ) | 3:09 |
+| 50 | [Despeinada](https://open.spotify.com/track/3xOiGSFA9YdlPJj03SRYXV) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey Vol\. II \- 30 Joyas Musicales](https://open.spotify.com/album/472vMgzbpIpdZ4WAQgxu9Z) | 2:54 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDBkODJhYTg3YjZjNThhYThiMGI3OGM4YzkxY2Q1MGI2MA==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDBkYjMwZjNjODEyN2ExYTM3ODEyN2JlYjllNDUyZDI0Ng==`

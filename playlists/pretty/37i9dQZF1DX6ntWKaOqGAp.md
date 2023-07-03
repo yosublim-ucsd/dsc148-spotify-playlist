@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Saucy Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,307 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,393 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 |
 | 100 | [幸せとは](https://open.spotify.com/track/3eupDfbVc32UdTmGo1IZbH) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [幸せとは](https://open.spotify.com/album/6Ct0mh4n9pnsMWWN4RejWr) | 3:07 |
 
-Snapshot ID: `MCwzYjRhYTg2ZDM4YzBmOWQ1M2I3YmU1ZjcwNDhiZGM4NTBiMGI2ODQx`
+Snapshot ID: `MCw3YmIyZTExZTBmNGM2YjIxYjFjNjVkZTkzNzQ2ZmQ5ZTU5NWY2NjU2`

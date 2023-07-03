@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 280368,
+  "num_followers": 280514,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE1YThmZjU4ZGE1OTBlNWRkOWVkNGU5NTVkNTU3OGM2YzRkMWIy",
+  "snapshot_id": "MCxiZGJkNjMxNzNhMGYxYTQ5MTdhZTBjODU3YzM5NjllODA1ODRlZDkz",
   "tracks": [
     {
       "added_at": "2023-06-30 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 186818,
       "name": "Sozinha",
       "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Espero Ainda",
         "url": "https://open.spotify.com/album/6oJpnMMgIW48w5wAIQfMax"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 155933,
       "name": "Espero Ainda",
       "url": "https://open.spotify.com/track/2hXRDeIcV1lBrB8lV8imjQ"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 177612,
       "name": "Me Diz Se Vem",
       "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2023-06-30 03:00:00",

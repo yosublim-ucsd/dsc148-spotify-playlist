@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,113,066 likes - 198 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,113,189 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 6 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
 | 7 | [Chica Mejicanita](https://open.spotify.com/track/3e32W5lpa5cQRyHTq07PrJ) | [Andrea Litkei](https://open.spotify.com/artist/67WiEEjHCFYaxyAbs7OXp8), [Ervin Litkei](https://open.spotify.com/artist/5UjzFfveBtER1Oivoaa9X8) | [Diner Jukebox](https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je) | 2:28 |
 | 8 | [Play With Me](https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme](https://open.spotify.com/album/0iWVmKKPVhtOkaMFZcfaiw) | 3:31 |
-| 9 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
+| 9 | [Detroit Rock City](https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum](https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796) | 3:35 |
 | 10 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 11 | [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 |
 | 12 | [Wipe Out](https://open.spotify.com/track/1TLB7MJEEO7cwxiBmBUQbf) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 2:13 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 197 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 198 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MCw1MGM0OGJkNDlkYjIyNWQyMzE5YmNkYjA2YTRiNjE3M2RlM2RkMDMy`
+Snapshot ID: `MCw5MGNhZDBlNmNiZGRmNGU2YTRhYWY3MzgxNGVmY2M0ZWRmMGI4Njdm`

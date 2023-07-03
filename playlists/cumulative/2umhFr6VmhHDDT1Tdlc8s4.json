@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132461,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/6uF872FviEDxImISjPD4Hs"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },

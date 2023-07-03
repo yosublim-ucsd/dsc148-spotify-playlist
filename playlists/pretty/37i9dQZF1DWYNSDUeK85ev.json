@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 583187,
+  "num_followers": 583500,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmZhYTUxYzkzMDhiODZkN2I3YzlmOGJkZTdmNDUyZDRiN2VlZGNj",
+  "snapshot_id": "MCxiNDdiNDQ2YTYyZDJlY2IwMGY5NDZiNThkN2ZkZWUxNTU4ODk0ZWFk",
   "tracks": [
     {
       "added_at": "2023-06-30 18:04:20",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
+        "name": "Permitame",
+        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Permitame",
+      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -1291,50 +1311,30 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
-        "name": "Permitame",
-        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
+        "name": "Me Reclama",
+        "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
       "artists": [
         {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Permitame",
-      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
-        "name": "La Mam\u00e1 de la Mam\u00e1",
-        "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        },
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "La Mam\u00e1 de la Mam\u00e1",
-      "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+      "duration_ms": 187492,
+      "name": "Me Reclama",
+      "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
     },
     {
       "added_at": "2023-06-30 18:04:20",
@@ -1387,34 +1387,6 @@
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
-        "name": "Me Reclama",
-        "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
-      },
-      "artists": [
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187492,
-      "name": "Me Reclama",
-      "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
     },
     {
       "added_at": "2023-06-30 18:04:20",
@@ -1567,22 +1539,6 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
         "name": "The Perfect Melody",
         "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
       },
@@ -1595,6 +1551,22 @@
       "duration_ms": 304091,
       "name": "Zun Da Da",
       "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
       "added_at": "2023-06-30 18:04:20",
@@ -1627,26 +1599,6 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -1663,6 +1615,26 @@
       "duration_ms": 176144,
       "name": "BM | DJ TAO Turreo Sessions #17",
       "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
     },
     {
       "added_at": "2023-06-30 18:04:20",
@@ -1839,26 +1811,6 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -1875,6 +1827,26 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
       "added_at": "2023-06-30 18:04:20",
@@ -1951,22 +1923,6 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
-        "name": "Tak Tiki Tak",
-        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 212406,
-      "name": "Tak Tiki Tak",
-      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
         "name": "La Chispa Es Una",
         "url": "https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr"
       },
@@ -2011,6 +1967,22 @@
       "duration_ms": 182400,
       "name": "El Motorcito - Remix",
       "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2023-06-30 18:04:20",
@@ -2107,42 +2079,6 @@
     {
       "added_at": "2023-06-30 18:04:20",
       "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
-    },
-    {
-      "added_at": "2023-06-30 18:04:20",
-      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -2163,6 +2099,70 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
+        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
+      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+    },
+    {
+      "added_at": "2023-06-30 18:04:20",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     }
   ],
   "unique_name": "Joda",

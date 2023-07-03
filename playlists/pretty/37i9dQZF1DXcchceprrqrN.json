@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 43369,
+  "num_followers": 43462,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWRkMWIyMWU5YzY5YTQwZWM3MWU2OTIxOWVkNzBmMzA5Yjc3OTYw",
+  "snapshot_id": "MCwzNWFkYTAxNjU4MzQ1Y2ZhZWQ1YjI1NWVjNDIwN2E0NTdlNGJiODZh",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "The Frights",
+        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
+      },
+      "artists": [
+        {
+          "name": "The Frights",
+          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Crust Bucket",
+      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "call and i'll answer",
         "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 192715,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "The Frights",
-        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
-      },
-      "artists": [
-        {
-          "name": "The Frights",
-          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Crust Bucket",
-      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "scales",
-        "url": "https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 181316,
-      "name": "im fine, thx 4 asking",
-      "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Sundays",
         "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 168320,
       "name": "Hunned Bandz",
       "url": "https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "scales",
+        "url": "https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 181316,
+      "name": "im fine, thx 4 asking",
+      "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
     },
     {
       "added_at": "2023-06-02 04:00:00",

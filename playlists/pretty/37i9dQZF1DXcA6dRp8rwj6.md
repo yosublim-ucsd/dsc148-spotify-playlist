@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Stormzy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,228 likes - 111 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,319 likes - 111 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 110 | [Won't Let Me Stay](https://open.spotify.com/track/0R3EuYjSncQUnAaZkGudkb) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/5yvgplbIo3xLhGW7Y2agIz) | 2:17 |
 | 111 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 |
 
-Snapshot ID: `MCw5MmYzZmY0YTE5MTY3ZDE3ZDRlMWJmZjdjNzhmNTE0MzYzZmU4MGU1`
+Snapshot ID: `MCw4NDYwNWFjZmJhYTYxNTBhMjZmNjdjZGVlM2U4OThlYmQ1YjNiNmFk`

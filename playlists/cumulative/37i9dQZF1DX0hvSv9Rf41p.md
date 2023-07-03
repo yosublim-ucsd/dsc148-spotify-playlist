@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Zeds Dead & Hamdi.
 
-515 songs - 1 day 5 hr 49 min
+516 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [L1FE](https://open.spotify.com/track/6gVb7bhSZ2oxpI9tavohjZ) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [CYBER BLADE](https://open.spotify.com/album/1RShEQl3IL7YAJFLRV3OH2) | 2:45 | 2022-04-22 | 2022-09-03 |
 | [La Luz](https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r) | 3:48 | 2023-03-10 | 2023-05-15 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-04-29 | 2023-02-26 |
-| [La Puta Ama \(EDDIE Remix\)](https://open.spotify.com/track/5NQqC3ksi3gBo0s2G9qhIL) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [La Puta Ama \(EDDIE Remix\)](https://open.spotify.com/album/4keLA18A4X5cJ3wTbDC2kI) | 4:09 | 2023-06-02 |  |
+| [La Puta Ama \(EDDIE Remix\)](https://open.spotify.com/track/5NQqC3ksi3gBo0s2G9qhIL) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [La Puta Ama \(EDDIE Remix\)](https://open.spotify.com/album/4keLA18A4X5cJ3wTbDC2kI) | 4:09 | 2023-06-02 | 2023-07-03 |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-07-01 |  |
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2021-12-17 | 2022-03-12 |
@@ -285,6 +285,7 @@
 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2022-09-16 |  |
 | [Metaverse](https://open.spotify.com/track/3R1pvh7gQk6BVVKkJ68CLK) | [Nanoo](https://open.spotify.com/artist/3ruPGCf0IkcQRgisBoD2HP), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Metaverse](https://open.spotify.com/album/579WIijwTxpnPHC8XVkE40) | 3:15 | 2022-04-01 | 2022-09-03 |
 | [Microworlds](https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Microworlds](https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X) | 4:30 | 2023-04-21 |  |
+| [Mindstate](https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Mindstate](https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR) | 4:12 | 2023-06-30 |  |
 | [Mine](https://open.spotify.com/track/169ksK750ctId2IBzlwVef) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Mine](https://open.spotify.com/album/7MgxcmKEBi7OSNvdep5nsF) | 3:19 | 2023-06-23 |  |
 | [Mirage](https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Mirage](https://open.spotify.com/album/1SXcW1GgimXzhgFF9AHUr2) | 3:48 | 2023-06-09 |  |
 | [Misbehave](https://open.spotify.com/track/1PRpJKvfeaOPhJW39ecgw2) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE) | [Misbehave](https://open.spotify.com/album/4IWkYlBxSQeLTTN7Sf7AzV) | 2:43 | 2021-12-17 | 2022-03-12 |

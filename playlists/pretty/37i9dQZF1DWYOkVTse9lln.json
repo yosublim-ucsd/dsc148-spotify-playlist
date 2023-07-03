@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 695337,
+  "num_followers": 695512,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQ4MGFhODlmMDE2M2VhNDBiMDQ1YWY5MTk2MzA5MTczMDUyYzI2",
+  "snapshot_id": "MCxmNzkyNjRmZmNmMjJjZmJmZmFlZGMxYTExMTYyZThiZWQwYmUzYzNl",
   "tracks": [
     {
       "added_at": "2023-04-21 02:31:06",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -567,6 +551,22 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -703,6 +687,22 @@
       "duration_ms": 229509,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "La Historia Contin\u00faa...Parte IV",
         "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 286973,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Todavia (Radio Edit)",
         "url": "https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 203453,
       "name": "Todavia - Radio Edit",
       "url": "https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1895,34 +1895,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
-        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        },
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Aqui Estoy Yo",
-      "url": "https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1959,6 +1931,34 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
+        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Aqui Estoy Yo",
+      "url": "https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Entra en Mi Vida",
-      "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
       },
       "artists": [
         {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Sin Despertar",
-      "url": "https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p"
+      "duration_ms": 248200,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2091,6 +2075,22 @@
       "duration_ms": 228466,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/79Jhw5xn4gGn6PZak275gg"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+      },
+      "artists": [
+        {
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Sin Despertar",
+      "url": "https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p"
     },
     {
       "added_at": "2023-04-21 02:31:06",

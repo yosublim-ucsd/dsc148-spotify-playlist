@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny summer vibe!
 
-151 songs - 9 hr 32 min
+152 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Still Go a Dance](https://open.spotify.com/track/4clUohoKu1S7YGM8SuCMrs) | [Christopher Ellis](https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs) | [Still Go a Dance](https://open.spotify.com/album/6yN83NixfyLv59uj635Ccx) | 3:11 | 2021-11-25 |  |
 | [Stop Wasting Your Time](https://open.spotify.com/track/745MTjgcgqURpWnssRnN63) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Real Talk Riddim](https://open.spotify.com/album/3Ngnobh1RfVn9RUJR92GZ1) | 3:18 | 2021-11-25 | 2022-04-29 |
 | [Stronger in Love](https://open.spotify.com/track/2UgSjzu38lH37a5mgAM4sW) | [Hezron](https://open.spotify.com/artist/6k16Fx8k6ufNKfrquPctFZ) | [Stronger in Love](https://open.spotify.com/album/33Tb0s2j1dBjzEr9xAfISU) | 3:53 | 2021-11-25 | 2022-04-29 |
-| [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 | 2021-11-25 |  |
+| [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 | 2021-11-25 | 2023-07-03 |
+| [Sunshine](https://open.spotify.com/track/5yzNWZVVkSTuxwG6qENxCi) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/6gaWh2FOUVD3BLKQ8CA6E2) | 4:22 | 2023-06-30 |  |
 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-11-25 | 2023-04-07 |
 | [That's Life](https://open.spotify.com/track/6zj0UbuOOigThu9Wmt99ox) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [That's Life](https://open.spotify.com/album/3vfu6Fg7uXZdfEEV2uDOgt) | 3:24 | 2022-05-26 |  |
 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-07 | 2022-10-13 |

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Sung Kyu\(김성규\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-491 songs - 1 day 6 hr 11 min
+492 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 | 2022-09-30 | 2022-10-19 |
 | [beautiful farewell](https://open.spotify.com/track/4R16iPDSmo0uQdifs7S7Pv) | [Adios Audio](https://open.spotify.com/artist/5A5DAxEQJ5F7HA4wVVHV8a) | [beautiful farewell](https://open.spotify.com/album/41x5xlwIDw05W5aWqLBECv) | 2:58 | 2022-05-24 | 2022-06-26 |
 | [Beautiful Jeopardy](https://open.spotify.com/track/6Qcz3rdpgYiH66eJLDVI2R) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Moments in between](https://open.spotify.com/album/5KVVc9JfjVCz3U52XxUqSj) | 6:31 | 2022-04-22 | 2022-07-26 |
-| [Beautiful Life \(feat\. CRYING NUT\)](https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 3:07 | 2023-06-01 |  |
+| [Beautiful Life \(feat\. CRYING NUT\)](https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 3:07 | 2023-06-01 | 2023-07-03 |
 | [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 | 2022-08-04 | 2022-08-13 |
 | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW) | [from20](https://open.spotify.com/artist/16ODiemwC9iXaQQ7AQBVnt) | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/album/1w0r5U0Sl7YqvdKrtzXROQ) | 3:11 | 2022-04-22 | 2022-07-22 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
@@ -300,7 +300,7 @@
 | [PDSG](https://open.spotify.com/track/7h64srBKgw9bmocbk3EmGQ) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [PDSG](https://open.spotify.com/album/1Owmn3lrAQzRTMtnlNfhCd) | 4:03 | 2022-05-11 | 2022-06-26 |
 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 | 2022-12-26 | 2023-01-03 |
 | [Pigeon 비둘기](https://open.spotify.com/track/33UpKCuBBaqJNkewD79QZN) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Pigeon 비둘기](https://open.spotify.com/album/5ohbhyXCdiKJ6ONWztPqy2) | 3:30 | 2022-04-22 | 2022-07-18 |
-| [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 |  |
+| [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 | 2023-07-03 |
 | [Pisces](https://open.spotify.com/track/7ix35I3PNAN63JeV7feOG9) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:47 | 2022-05-24 | 2022-07-29 |
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-17 | 2022-10-01 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-07-23 |
@@ -330,6 +330,7 @@
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-05-11 | 2022-07-26 |
 | [ride](https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 3:48 | 2023-04-05 |  |
 | [Ride In](https://open.spotify.com/track/2UfV11bsS80uaESfesRWH4) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Ride In, 젊은 날의 꿈](https://open.spotify.com/album/3FbRUoycTSfRRu4V1USSeJ) | 2:41 | 2022-07-01 | 2022-07-06 |
+| [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 |  |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2022-04-12 | 2023-06-07 |
 | [Ring on my Ears](https://open.spotify.com/track/7JvzA81nojfdhki4JFeerm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:45 | 2022-04-22 | 2022-07-18 |
 | [Roller Coaster](https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:03 | 2022-05-11 | 2022-07-25 |
@@ -482,7 +483,7 @@
 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 | 2022-05-11 | 2022-07-23 |
 | [Zero Fear Of Water](https://open.spotify.com/track/2zU9DYy1wlAe2ZtpTiLYNc) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [ZERO FEAR OF WATER](https://open.spotify.com/album/1SRsbPkuZUJ0NtcpZoHUEi) | 2:59 | 2022-04-21 | 2022-04-24 |
 | [Zinnia](https://open.spotify.com/track/0ll9zCUAVr3qmpGPfenFvI) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Zinnia](https://open.spotify.com/album/5MQ5dlRGUTSmWeKAYw9Ckh) | 3:47 | 2022-04-12 | 2022-07-27 |
-| [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 | 2023-06-30 |
+| [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |

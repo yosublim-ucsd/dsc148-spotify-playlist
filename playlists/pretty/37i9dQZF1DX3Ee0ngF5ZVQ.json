@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Turnpike Troubadours",
-  "num_followers": 408536,
+  "num_followers": 408653,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjU2YjA0ZjA4NDFlYWU3OGZiMTNlMjFhM2MxYjk3YWVjY2FmNGQ0",
+  "snapshot_id": "MCwzMTIwODE5NDFmYTVmZmMzZGEzYWQzMWUzMGZhNTM1ODE5YmM0OTJm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:31:47",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Highway Boys",
-        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+      "duration_ms": 204040,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 204040,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2023-06-30 04:31:47",
-      "album": {
         "name": "From Austin",
         "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "added_at": "2023-06-30 04:31:47",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "'Til I See You Again",
-        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
       "artists": [
         {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 211515,
-      "name": "'Til I See You Again",
-      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Breaking News",
-        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
-    },
-    {
-      "added_at": "2023-06-30 04:31:47",
-      "album": {
-        "name": "My Old Man and Jesus",
-        "url": "https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif"
-      },
-      "artists": [
-        {
-          "name": "Casey Daniels Band",
-          "url": "https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7"
-        }
-      ],
-      "duration_ms": 206940,
-      "name": "My Old Man and Jesus",
-      "url": "https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL"
-    },
-    {
-      "added_at": "2023-06-30 04:31:47",
-      "album": {
         "name": "That Drink (feat. Neal McCoy)",
         "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
       },
@@ -1063,34 +1031,34 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
+        "name": "My Old Man and Jesus",
+        "url": "https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Casey Daniels Band",
+          "url": "https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7"
         }
       ],
-      "duration_ms": 285525,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+      "duration_ms": 206940,
+      "name": "My Old Man and Jesus",
+      "url": "https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL"
     },
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Hell of a Life",
-        "url": "https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT"
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
       "artists": [
         {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 195401,
-      "name": "Hell of a Life",
-      "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -1111,6 +1079,38 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
+        "name": "Hell of a Life",
+        "url": "https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "duration_ms": 195401,
+      "name": "Hell of a Life",
+      "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
+    },
+    {
+      "added_at": "2023-06-30 04:31:47",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 285525,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+    },
+    {
+      "added_at": "2023-06-30 04:31:47",
+      "album": {
         "name": "Lowdown & Lonesome",
         "url": "https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5"
       },
@@ -1123,38 +1123,6 @@
       "duration_ms": 271829,
       "name": "Lowdown & Lonesome",
       "url": "https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx"
-    },
-    {
-      "added_at": "2023-06-30 04:31:47",
-      "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2023-06-30 04:31:47",
-      "album": {
-        "name": "Side B",
-        "url": "https://open.spotify.com/album/3WwGfPHu0IGcPbREt6VZji"
-      },
-      "artists": [
-        {
-          "name": "Joey Greer",
-          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
-        }
-      ],
-      "duration_ms": 228105,
-      "name": "If I Could Build a Bar",
-      "url": "https://open.spotify.com/track/6X5N5onLc64czPlaTjJFTN"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -1175,6 +1143,22 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
+        "name": "Side B",
+        "url": "https://open.spotify.com/album/3WwGfPHu0IGcPbREt6VZji"
+      },
+      "artists": [
+        {
+          "name": "Joey Greer",
+          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
+        }
+      ],
+      "duration_ms": 228105,
+      "name": "If I Could Build a Bar",
+      "url": "https://open.spotify.com/track/6X5N5onLc64czPlaTjJFTN"
+    },
+    {
+      "added_at": "2023-06-30 04:31:47",
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
@@ -1191,18 +1175,34 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Been Better",
-        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 196507,
-      "name": "Been Better",
-      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2023-06-30 04:31:47",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2023-06-30 04:31:47",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-06-30 04:31:47",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Been Better",
+        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 196507,
+      "name": "Been Better",
+      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
     },
     {
       "added_at": "2023-06-30 04:31:47",

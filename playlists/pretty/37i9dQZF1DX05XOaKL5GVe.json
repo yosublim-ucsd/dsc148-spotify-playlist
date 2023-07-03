@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 661416,
+  "num_followers": 661888,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmE1YzI2OTE1M2EyYTQ3Y2I1YmQ4OGQwYmNmMjBmZjc4YzBjYjU1",
+  "snapshot_id": "MCxmNTY5M2MxNWY5MDE4YTg1MTEyMzRkMmNmZDI1OTRhMmE2N2NmNGVk",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "16 \u00c9xitos: Baladas",
         "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
         }
       ],
-      "duration_ms": 152711,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
+      "duration_ms": 192444,
+      "name": "Perdon",
+      "url": "https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Lamento Borincano",
-        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
         }
       ],
-      "duration_ms": 192444,
-      "name": "Perdon",
-      "url": "https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt"
+      "duration_ms": 152711,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 1",
-        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 307346,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/0WBaLzQeqMKc1CAX80jnS3"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 199262,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 1",
+        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 307346,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/0WBaLzQeqMKc1CAX80jnS3"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

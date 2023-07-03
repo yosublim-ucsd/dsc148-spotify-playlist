@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 441382,
+  "num_followers": 441467,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmY5MDlhYTkxYWYyNjk0ODYyZWE0NjY4MDE2NDdiMjgwYmVkMThj",
+  "snapshot_id": "MCw3OTM1Mzc1ZDhlNTllOTQxZTgwMjkyNmZjMzFmMWU2OGVmMjg1MjQ0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 261868,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+      "duration_ms": 261868,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Oregon / Harvard",
-        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "Oregon",
-      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 270053,
       "name": "The World Ender",
       "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Jungle (Radio Edit)",
         "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 236876,
       "name": "Jungle (Radio Edit)",
       "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Meshuggah",
-        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Meshuggah",
-      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 157400,
       "name": "Nervous System",
       "url": "https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Meshuggah",
+        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Meshuggah",
+      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Bad Thing",
-        "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "Bad Thing",
-      "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Desert Snow / Hourglass",
         "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 215853,
       "name": "Desert Snow",
       "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Bad Thing",
+        "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "Bad Thing",
+      "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Tilt At The Wind No More",
-        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
+        "name": "Just Say When (Version 2.0)",
+        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
       },
       "artists": [
         {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
         }
       ],
-      "duration_ms": 212081,
-      "name": "Smoke & Ribbons",
-      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
+      "duration_ms": 224343,
+      "name": "Just Say When (Version 2.0)",
+      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Just Say When (Version 2.0)",
-        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
+        "name": "Tilt At The Wind No More",
+        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
         }
       ],
-      "duration_ms": 224343,
-      "name": "Just Say When (Version 2.0)",
-      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+      "duration_ms": 212081,
+      "name": "Smoke & Ribbons",
+      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Melodies on Hiatus",
+        "url": "https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 216775,
+      "name": "100-99 (feat. GoldLink)",
+      "url": "https://open.spotify.com/track/0HVyE6s3q5D90yurTKSU2k"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Ocean by Ocean",
         "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
       },
@@ -2015,22 +2035,6 @@
       "duration_ms": 228196,
       "name": "Cinema Love",
       "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
-      },
-      "artists": [
-        {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
-        }
-      ],
-      "duration_ms": 235334,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8"
     }
   ],
   "unique_name": "License To Chill",

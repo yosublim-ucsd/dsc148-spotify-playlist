@@ -1,12 +1,12 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 45967,
+  "num_followers": 46042,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjM3ODAxMTEwY2VjOGI0OTA5MjE2ODZkYzMyNTJiMzI5NDVmOTVk",
+  "snapshot_id": "MCxmOGQzNmEzMTZhZTFkMGZjZTI5MWNlNzE1MTNmMjZmZmQ0ZTNkZTFl",
   "tracks": [
     {
       "added_at": "2023-06-21 12:06:51",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 185666,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
         }
       ],
-      "duration_ms": 147666,
-      "name": "What A Little Moonlight Can Do - Remastered",
-      "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -659,6 +643,22 @@
       "duration_ms": 243440,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "What A Little Moonlight Can Do - Remastered",
+      "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "I Just Dropped By To Say Hello",
+      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 407800,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "I Just Dropped By To Say Hello",
-      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
-      },
-      "artists": [
-        {
-          "name": "Jutta Hipp",
-          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
-        },
-        {
-          "name": "Zoot Sims",
-          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
-        }
-      ],
-      "duration_ms": 412653,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 209933,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
+      },
+      "artists": [
+        {
+          "name": "Jutta Hipp",
+          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
+        },
+        {
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        }
+      ],
+      "duration_ms": 412653,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Today, Tomorrow, Forever",
-        "url": "https://open.spotify.com/album/1fpdirgt7TaIZZa8tH0fRv"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Tonight May Have To Last Me All My Life - Remastered",
-      "url": "https://open.spotify.com/track/2IcRKEB63dQD9YnWso8Ogu"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Oscar Peterson For Lovers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 280866,
       "name": "Time And Again",
       "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Today, Tomorrow, Forever",
+        "url": "https://open.spotify.com/album/1fpdirgt7TaIZZa8tH0fRv"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Tonight May Have To Last Me All My Life - Remastered",
+      "url": "https://open.spotify.com/track/2IcRKEB63dQD9YnWso8Ogu"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/6rOhnk4aF1AE0v5RljsCuk"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "The Things We Did Last Summer - Remastered 1991",
-      "url": "https://open.spotify.com/track/4s6DpXuVpOg5sxhELsISAf"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Alexandria The Great",
         "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 138373,
       "name": "I've Never Been In Love Before",
       "url": "https://open.spotify.com/track/4nlXp4DkTHfeI8uSbG6bTC"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/6rOhnk4aF1AE0v5RljsCuk"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "The Things We Did Last Summer - Remastered 1991",
+      "url": "https://open.spotify.com/track/4s6DpXuVpOg5sxhELsISAf"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 235360,
       "name": "I'll See You Again",
       "url": "https://open.spotify.com/track/24kAkSs4LKX64jc0absy75"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Jo Stafford",
-        "url": "https://open.spotify.com/album/5QuOghrD0EombfA6qOnMMz"
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 154493,
-      "name": "Autumn Leaves - 1996 Digital Remaster",
-      "url": "https://open.spotify.com/track/3FG4FK19MJD7XiuHfZLwGj"
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Songs For Distingu\u00e9 Lovers",
-        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+        "name": "Great Ladies Of Song / Spotlight On Jo Stafford",
+        "url": "https://open.spotify.com/album/5QuOghrD0EombfA6qOnMMz"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 333200,
-      "name": "Just One Of Those Things - Take 8 - Master Take",
-      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+      "duration_ms": 154493,
+      "name": "Autumn Leaves - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FG4FK19MJD7XiuHfZLwGj"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -1943,54 +1943,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 417693,
-      "name": "Driftin' - Remastered",
-      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
-        "name": "Unforgettable (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/7anBVIyitaxEZIlMDJPjfb"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -2011,6 +1963,54 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 417693,
+      "name": "Driftin' - Remastered",
+      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Unforgettable (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/7anBVIyitaxEZIlMDJPjfb"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
         "name": "Dino The Essential Dean Martin",
         "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Trav'lin' Light",
-      "url": "https://open.spotify.com/track/1ROntzeztBMrLwY6aMAR61"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Jazz Giant",
         "url": "https://open.spotify.com/album/0r4iPO0YkeupxvYQVMl3h7"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 358733,
       "name": "A Walkin' Thing",
       "url": "https://open.spotify.com/track/22RGDChN7CrjZ2mtCWuK1t"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Trav'lin' Light",
+      "url": "https://open.spotify.com/track/1ROntzeztBMrLwY6aMAR61"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 188244,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 144066,
       "name": "This Can't Be Love",
       "url": "https://open.spotify.com/track/4rp0OVs7GuHu7UF1Pbhrrq"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 188244,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "Helen Merill",
-        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 360133,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "From Bessie To Brazil",
         "url": "https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 292666,
       "name": "The Lady Is A Tramp",
       "url": "https://open.spotify.com/track/7qI9rBX4NGyEt6z6nwnwhi"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Helen Merill",
+        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 360133,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
     },
     {
       "added_at": "2023-06-21 12:06:51",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "The Song Is Paris",
-        "url": "https://open.spotify.com/album/1s82VyxZG5gx9OjeglI027"
-      },
-      "artists": [
-        {
-          "name": "Jackie Paris",
-          "url": "https://open.spotify.com/artist/2Cu7QnPPlXXI90FjajvG1A"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "If Love Is Good To Me",
-      "url": "https://open.spotify.com/track/3LN1BQ7wVrALTnKRgEFVmF"
-    },
-    {
-      "added_at": "2023-06-21 12:06:51",
-      "album": {
         "name": "After Hours With Miss D",
         "url": "https://open.spotify.com/album/7bp3ZFytOzi4UaaXI2NxiC"
       },
@@ -2507,18 +2491,38 @@
     {
       "added_at": "2023-06-21 12:06:51",
       "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+        "name": "The Song Is Paris",
+        "url": "https://open.spotify.com/album/1s82VyxZG5gx9OjeglI027"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Jackie Paris",
+          "url": "https://open.spotify.com/artist/2Cu7QnPPlXXI90FjajvG1A"
         }
       ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - 20-Bit Remastering/1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
+      "duration_ms": 193280,
+      "name": "If Love Is Good To Me",
+      "url": "https://open.spotify.com/track/3LN1BQ7wVrALTnKRgEFVmF"
+    },
+    {
+      "added_at": "2023-06-21 12:06:51",
+      "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 359960,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/245pAQ58ASfZuni9VedL7P"
     }
   ],
   "unique_name": "In the Mood for Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,967 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,005 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 59 | [One of One \(Back It Up Pt.2\)](https://open.spotify.com/track/4XKJXv86bjKZbqhySfL992) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [One of One \(Back It Up Pt.2\)](https://open.spotify.com/album/6hr4OFPObkCRLoHl1f5RFL) | 1:44 |
 | 60 | [Keep It Cute](https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Keep It Cute](https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW) | 2:51 |
 | 61 | [Fetty](https://open.spotify.com/track/1lDG57wZSMVbtQ0mDSTNpL) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Fetty](https://open.spotify.com/album/1b73Y5x7ck02CFVDLk4iml) | 2:33 |
-| 62 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kali\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kali\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
+| 62 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
 | 63 | [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:26 |
 | 64 | [Hope You Heal](https://open.spotify.com/track/0nMZnTdVdQ4z7j2mCsLgRN) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Hope You Heal](https://open.spotify.com/album/6kScHIbR0cC0YvXc2OjJOg) | 3:21 |
 | 65 | [Be Alright](https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Here 2 Stay](https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Runaway \(feat\. Nas\)](https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 3:00 |
 | 100 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 |
 
-Snapshot ID: `MCxiY2Y5YTc5YTVmN2EwNDY2NTRhODcwZGY3ZDM2ZDk0N2U3YmE2ZDEx`
+Snapshot ID: `MCxhNGE1ZTVmMWVhNWQ4YzYwY2JhNTZmMTJkYzI0OTIyZWU3OTI1NjMw`

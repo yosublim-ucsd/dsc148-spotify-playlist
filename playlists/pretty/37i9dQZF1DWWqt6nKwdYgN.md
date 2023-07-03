@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Toser One, Dharius, Lefty SM y Tiro Loko  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,443 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,502 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [Tiempos de Lluvia](https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Tiempos de Lluvia](https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h) | 3:22 |
 | 100 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 
-Snapshot ID: `MCxjODY5MGI1ZmM4NjE1ZDZiZmU3NjlhMjU3ZGZkMzRlYTI5YmRhYzU1`
+Snapshot ID: `MCw5NTA0NTEzN2M0MjZhOTRkNGVjZDhmNDI5NmM5N2ZhNjBjNTkzZGEx`

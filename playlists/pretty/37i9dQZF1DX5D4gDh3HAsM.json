@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 510477,
+  "num_followers": 510447,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
+  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 154080,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
     },
     {
       "added_at": "2022-11-04 04:00:00",

@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-111 songs - 11 hr 2 min
+112 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [twilight sparkle](https://open.spotify.com/track/20kF9KW9Wh4iOv6FycpBKq) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [twilight sparkle](https://open.spotify.com/album/2pRRGrzD7blOYqIlhB1rNr) | 2:45 | 2023-01-19 | 2023-02-07 |
 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 | 2022-06-02 |  |
 | [ut i rommet](https://open.spotify.com/track/5XXXtLK8nNvVsylo9JTewt) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [ut i rommet](https://open.spotify.com/album/04A1xtX4Cp81M4YOEMi1J9) | 7:26 | 2022-06-02 | 2022-07-29 |
-| [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-07-28 |  |
+| [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-07-28 | 2023-07-03 |
+| [ut i rommet](https://open.spotify.com/track/6aEVhlxyq0Lm05es90KBwq) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/7xp98hOrKFnD3zO27YDNAG) | 7:26 | 2023-05-03 |  |
 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 | 2022-11-03 |  |
 | [View](https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU) | [Himmel](https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm) | [View](https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD) | 4:04 | 2022-11-03 |  |
 | [You Can't Do it Right](https://open.spotify.com/track/2cJaEaSKHHeK8YsmpTBcyc) | [Randaberg Ego Ensemble](https://open.spotify.com/artist/0hW8yQgCKkyQzoxKxm6dSp) | [10 Years of Full Pupp](https://open.spotify.com/album/6IZdTRzDKC8mlDQw4Tsy3m) | 6:00 | 2022-06-02 | 2022-07-20 |

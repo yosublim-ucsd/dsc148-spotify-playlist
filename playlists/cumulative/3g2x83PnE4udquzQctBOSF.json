@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 171162,
       "name": "Baila",
       "url": "https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3"
@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Bigger Than Prince (Classmatic Remixes)",
+        "url": "https://open.spotify.com/album/0vX688Q6D6Bo547Y5H1B3W"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415748,
+      "name": "Bigger Than Prince - Classmatic Remix",
+      "url": "https://open.spotify.com/track/488VEVK9VNBdsK75fAwjZE"
+    },
+    {
+      "album": {
         "name": "Ye Swan",
         "url": "https://open.spotify.com/album/6e7RdnaEd4Q4HxH4P2wuxe"
       },
@@ -533,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Body Close",
+        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219169,
+      "name": "Body Close",
+      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
+    },
+    {
+      "album": {
         "name": "Body Move",
         "url": "https://open.spotify.com/album/62yPsxxcVys0acKI9ZSVHM"
       },
@@ -544,7 +584,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 225602,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/30DlzqpYluEkK82ysCsWVH"
@@ -903,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t"
+      },
+      "artists": [
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171279,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS"
+    },
+    {
+      "album": {
         "name": "Thicc N Juiccy",
         "url": "https://open.spotify.com/album/7dNRzgnt2UdVBW9GhxkkmZ"
       },
@@ -1070,7 +1128,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 290629,
       "name": "Down - Illusionize, Viot Rework",
       "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
@@ -1433,6 +1491,32 @@
     },
     {
       "album": {
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/58ybAeIzZzWhc7nD3WABxe"
       },
@@ -1484,6 +1568,24 @@
       "duration_ms": 171750,
       "name": "Funky Piano",
       "url": "https://open.spotify.com/track/37SfQh73wu3wmOV3jOn2VJ"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Nimmer",
+        "url": "https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199708,
+      "name": "F\u00fcr Nimmer",
+      "url": "https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl"
     },
     {
       "album": {
@@ -1764,7 +1866,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 152244,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
@@ -1836,7 +1938,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 341401,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/6HOqLBmMCQMPnyPZcqYAP2"
@@ -1898,7 +2000,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 289171,
       "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
       "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
@@ -1920,6 +2022,32 @@
       "duration_ms": 221536,
       "name": "Innocent Type",
       "url": "https://open.spotify.com/track/4NCHV1VkxX2eJAKM1f1oXA"
+    },
+    {
+      "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/1PwT4vLwRrpzOcJlnogRSf"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152351,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1"
     },
     {
       "album": {
@@ -2483,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Mr. Lover",
+        "url": "https://open.spotify.com/album/4MmqnLXzJ3M8mPZPhHc2VS"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218139,
+      "name": "Mr. Lover",
+      "url": "https://open.spotify.com/track/5I062SYRoWdD5RAvLPwAJY"
+    },
+    {
+      "album": {
         "name": "Mumba EP",
         "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
       },
@@ -2944,7 +3090,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 163034,
       "name": "Sex Drugs Cash",
       "url": "https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM"
@@ -2966,7 +3112,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 241846,
       "name": "Shake The Dice (Heider Remix)",
       "url": "https://open.spotify.com/track/0FmkUMw1k0WuNPN3tQMIHd"
@@ -2988,6 +3134,24 @@
       "duration_ms": 359998,
       "name": "Shoot the Shot",
       "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+    },
+    {
+      "album": {
+        "name": "Shut Up!",
+        "url": "https://open.spotify.com/album/0QsVUKTGbtYEM57fUNeivc"
+      },
+      "artists": [
+        {
+          "name": "MNNR",
+          "url": "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241860,
+      "name": "Shut Up!",
+      "url": "https://open.spotify.com/track/7xPoyl21zfzMCL3AF79WiI"
     },
     {
       "album": {
@@ -3094,6 +3258,24 @@
       "duration_ms": 270000,
       "name": "Snow is Falling - Tony Romera Remix",
       "url": "https://open.spotify.com/track/2VS6opNQchKzV5jERSYjZB"
+    },
+    {
+      "album": {
+        "name": "Alexa's On Drugs",
+        "url": "https://open.spotify.com/album/4Cqd3AXI9Z6spcXv342akZ"
+      },
+      "artists": [
+        {
+          "name": "Sera De Villalta",
+          "url": "https://open.spotify.com/artist/36QNZGUOB4BqczrvthRI3T"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333276,
+      "name": "So Delicious!",
+      "url": "https://open.spotify.com/track/2DOZrh6r6QwGdtSyWqje6a"
     },
     {
       "album": {
@@ -3241,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "STUPID",
+        "url": "https://open.spotify.com/album/3TeajY9TawyGrr0r3Gfvwg"
+      },
+      "artists": [
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327173,
+      "name": "STUPID",
+      "url": "https://open.spotify.com/track/3yW4OUmhCGjgj7hb11hMMP"
+    },
+    {
+      "album": {
         "name": "Sueltate",
         "url": "https://open.spotify.com/album/7gsKayaP9XMyAaLF3RGArF"
       },
@@ -3357,6 +3557,28 @@
     },
     {
       "album": {
+        "name": "Rave Grave",
+        "url": "https://open.spotify.com/album/5h4wJIZVn43IZVTJxMsete"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207460,
+      "name": "The Biznes",
+      "url": "https://open.spotify.com/track/5DCSFGxrLMYYio1NKPNEO6"
+    },
+    {
+      "album": {
         "name": "The Chant",
         "url": "https://open.spotify.com/album/5y0nLRNNz8vBAHueIu6gsx"
       },
@@ -3444,7 +3666,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 181877,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/55oAMcfhdm4tusQEkWXB2n"
@@ -3604,7 +3826,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 180465,
       "name": "VIP Business",
       "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
@@ -3676,10 +3898,28 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 184687,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3loEQDP8cVTqbspSywER7u"
+      },
+      "artists": [
+        {
+          "name": "Nofex",
+          "url": "https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329999,
+      "name": "You",
+      "url": "https://open.spotify.com/track/64XuVVslGI3wdiz1nbFRcp"
     },
     {
       "album": {
@@ -3756,7 +3996,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 187529,
       "name": "Z Pack",
       "url": "https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh"

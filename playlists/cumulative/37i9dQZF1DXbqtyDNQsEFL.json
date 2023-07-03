@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 324703,
       "name": "B'Ola - Honour",
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
+      "album": {
         "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
       },
@@ -614,7 +640,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
@@ -666,7 +692,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
@@ -1128,7 +1154,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
@@ -1334,7 +1360,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 369529,
       "name": "Jesus at the Centre",
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
@@ -1378,7 +1404,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 255384,
       "name": "Jesus Oh",
       "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
@@ -1456,7 +1482,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 209653,
       "name": "Ka Anyi Bulie (feat. Don Moen)",
       "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
@@ -1638,7 +1664,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
@@ -1800,7 +1826,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 298306,
       "name": "Most High - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
@@ -1822,7 +1848,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
@@ -2014,7 +2040,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
@@ -2120,7 +2146,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
@@ -2212,7 +2238,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 438744,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
@@ -2408,7 +2434,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
@@ -2618,7 +2644,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 274534,
       "name": "That's The Power - Live",
       "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
@@ -2672,7 +2698,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 490000,
       "name": "There's an Overflow",
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
@@ -2734,7 +2760,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
@@ -3216,7 +3242,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"

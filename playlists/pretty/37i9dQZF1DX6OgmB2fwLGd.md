@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373,451 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,373,902 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 42 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 43 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 44 | [Miami](https://open.spotify.com/track/2y362YYZvcXpTaYGt5NWuQ) | [Subiibabii](https://open.spotify.com/artist/4b2zSLyjiG70vaoFYKuyGk) | [Miami](https://open.spotify.com/album/2o2c1MPVnOecBWmPs5tWKZ) | 1:14 |
-| 45 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kali\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kali\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
+| 45 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
 | 46 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
 | 47 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 |
 | 48 | [Pistachio](https://open.spotify.com/track/24gNOagTwbIoTzUd6FCUU6) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Pistachio](https://open.spotify.com/album/4OIYHFhmlT5clpfIJpi720) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [FOLD](https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FOLD](https://open.spotify.com/album/1iCT7O5zAGYGyoi3EpfoVa) | 3:07 |
 | 100 | [F&F](https://open.spotify.com/track/2RtPfdY7tlSCH1lObqppYx) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ) | [COULTURE](https://open.spotify.com/album/65rfeH5KpPd6DvQgt3v3gi) | 2:01 |
 
-Snapshot ID: `MCwyYzUzNDEyYTkyNmM5ZjZjZjE5NTk0M2Q3OTA2ZDlmY2VkNmJiMDg1`
+Snapshot ID: `MCw3MDBhMjA1NjlkYzVhMjk2NTVmMmNkNjE4YWM3YmQ0MGEwZmRjOTM0`

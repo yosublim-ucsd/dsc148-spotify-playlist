@@ -202,6 +202,24 @@
     {
       "album": {
         "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487715,
+      "name": "Aurobindo",
+      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
+    },
+    {
+      "album": {
+        "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
       "artists": [
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 294000,
       "name": "I've Got What I Need",
       "url": "https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY"

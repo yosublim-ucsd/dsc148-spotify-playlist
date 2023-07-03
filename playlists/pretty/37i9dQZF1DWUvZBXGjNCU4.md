@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,311 likes - 159 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,340 likes - 159 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 158 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
 | 159 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 |
 
-Snapshot ID: `MCw5OWY5ZjIzNjVlMTIyNjMxYTM0N2MyY2VkNDZmOGNlODdkZGFkNGY2`
+Snapshot ID: `MCw2MTk1OGI4MDhlNWYzZDI3ODY2Njg0MjM5Zjk1YzJmYTUxNWZmMjE1`

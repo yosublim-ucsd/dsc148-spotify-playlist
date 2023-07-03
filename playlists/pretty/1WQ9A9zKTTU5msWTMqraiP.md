@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 233 songs - 16 hr 15 min
+[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 234 songs - 16 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,5 +241,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 231 | [The Offering](https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm), [Blake Mullens of Disembodied Tyrant](https://open.spotify.com/artist/0t9brZiLxf06bZm752I2Pj) | [The Offering](https://open.spotify.com/album/7DqtShvlb1a0umLYKtDEQB) | 4:38 |
 | 232 | [The Great Dreamer](https://open.spotify.com/track/2BE4KjLlAcjjIrMNJczkgQ) | [Monarch of Avarice](https://open.spotify.com/artist/1dXmFXfniQWab6OKCf6Lsa) | [The Great Dreamer](https://open.spotify.com/album/6xj1XVh1yzlGyB2sGeNkDT) | 5:15 |
 | 233 | [Manipulation by Design](https://open.spotify.com/track/3CkVsVlGS5QTY9vU41VonS) | [Diamonds to Dust](https://open.spotify.com/artist/4WbfBwFGplcvXdfPp23SjD) | [Amidst the Hallowed and the Vanquished](https://open.spotify.com/album/33x1LsDvM0ythOdkb1NWY1) | 5:35 |
+| 234 | [Cursed To Be Here](https://open.spotify.com/track/004Z7L39vusAlI6TgkSS8f) | [Miserys End](https://open.spotify.com/artist/68O6BSGjQ7gM1gNpLGxsAO), [Jeremy St\-Denis from Waste](https://open.spotify.com/artist/4jMy6VlfG3fSoqmWYnMxxW) | [Cursed To Be Here](https://open.spotify.com/album/5Ny41rdK2b2VrzbwbBS1BR) | 3:42 |
 
-Snapshot ID: `MzQwLDczNzdiMDExOGRlM2E0OTMwNTY5NjliNDQ1ODQxNjZjZWYzZjJiNWM=`
+Snapshot ID: `MzQxLDljZmExNjVmNTdiMjhjYWQ2ZWViOGM0MGU3MzYyYzUxMjAwNGZlNjc=`

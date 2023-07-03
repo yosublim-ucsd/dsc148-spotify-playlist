@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-321 songs - 17 hr 23 min
+322 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Echo \[Bonus Track\]](https://open.spotify.com/track/30iwAxqJOdYxXSHG5Be8sS) | [Baker](https://open.spotify.com/artist/4FgEdko7AZQos5YRsfGtXE) | [The Baker EP](https://open.spotify.com/album/0sngk6p8hOPmvDKvuE8iK2) | 3:42 | 2021-12-27 | 2023-06-23 |
 | [El Tejano](https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:11 | 2022-11-17 |  |
 | [El Tejano \(feat\. Sofía Reyes\)](https://open.spotify.com/track/0x68K3iDRHrtFl3YkH9bp4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:11 | 2021-12-27 | 2022-11-18 |
-| [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-06-30 |  |
+| [Elephant In The Room](https://open.spotify.com/track/3WZyXUHTqffITfNniSJyKD) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 2:41 | 2023-07-02 |  |
+| [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-06-30 | 2023-07-03 |
 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-08-03 |  |
 | [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 | 2022-02-25 | 2022-08-04 |
 | [Enemies](https://open.spotify.com/track/0izaL2F5LK3ikSTI9jZNhs) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:14 | 2022-11-02 |  |

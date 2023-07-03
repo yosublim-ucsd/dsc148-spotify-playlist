@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,473 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,564 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 11 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
 | 12 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 |
 | 13 | [Come Check This](https://open.spotify.com/track/3ImnbJHoSy5uUhC0ydBVI9) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Come Check This](https://open.spotify.com/album/6YnEvQjRcWyAAxm7dXNEfs) | 3:11 |
-| 14 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
-| 15 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd), [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
-| 16 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 |
+| 14 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 |
+| 15 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
+| 16 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd), [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
 | 17 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 |
 | 18 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
 | 19 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 45 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
 | 46 | [Taste My Body](https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6) | [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Taste My Body](https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO) | 2:14 |
 | 47 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
-| 48 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
-| 49 | [DEATH BY PUSSY](https://open.spotify.com/track/21Cc6noJSjGOmx0CokRUfk) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/18jT1erX3cEk1OcGo8pDWL) | 4:36 |
+| 48 | [DEATH BY PUSSY](https://open.spotify.com/track/21Cc6noJSjGOmx0CokRUfk) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/18jT1erX3cEk1OcGo8pDWL) | 4:36 |
+| 49 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
 | 50 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
 
-Snapshot ID: `MCw0NTg4NzQ0ODgxMGRkOWEwMWJlNWUwZTkxMjYzZTEyODBhYjYwMmMw`
+Snapshot ID: `MCwzNzkwYzRmY2JhOTAxNmIwYmFjMmY3YjlmYzQzYjg4NmM4YjY5OGJj`

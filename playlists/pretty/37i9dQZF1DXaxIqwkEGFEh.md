@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,916 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,019 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 20 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
 | 21 | [My Image](https://open.spotify.com/track/7KkNO3y61CXpN1g7qBkg8N) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [My Image](https://open.spotify.com/album/1GQVXe1zAxDTOkBe1m2ehw) | 3:10 |
 | 22 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
-| 23 | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
+| 23 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 24 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 |
 | 25 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 26 | [Demons](https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Demons](https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [48 Laws of Power](https://open.spotify.com/track/2MAeeYWP1Xy7JwrJkeNHKz) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [22](https://open.spotify.com/album/4TW6x0syAiUloUgqLco6eg) | 3:23 |
 | 100 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 
-Snapshot ID: `MCxiMWNlZjA2MmUxZTkwMGFhMDc3YWNhMTViNDcwY2E5YzNjYTczMjA1`
+Snapshot ID: `MCw0ZmE4NjZjNmJlNGRlNzU5NjllNjliZjhjNWZhMDgxMmM0OTViZGZi`

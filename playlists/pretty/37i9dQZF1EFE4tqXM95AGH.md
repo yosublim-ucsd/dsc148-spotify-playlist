@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 977 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 138 | [Going Down Tonight](https://open.spotify.com/track/7b1X67lWMeRBc4YlODBtgW) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [Going Down Tonight](https://open.spotify.com/album/4N5Hh3zfIpllkeZspmqh7s) | 2:28 |
 | 139 | [Not Today](https://open.spotify.com/track/2RZCuOGKcbo7o6EOwZXhRA) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:47 |
 | 140 | [The Way It Felt To Love You](https://open.spotify.com/track/3fiMdp5V5W07qJQs29nZZU) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [To Fall Asleep](https://open.spotify.com/album/4zst0WAtcY1VwixfMox4jB) | 3:18 |
-| 141 | [I Wanna Lose](https://open.spotify.com/track/0X2kBitXUuyANRUMKKSBbi) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:30 |
-| 142 | [This Hot](https://open.spotify.com/track/1rWU7p9FB66Q0p6amgjUJU) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [This Hot](https://open.spotify.com/album/72uQVTelpMHnNG7QnVL7Kb) | 1:59 |
+| 141 | [This Hot](https://open.spotify.com/track/1rWU7p9FB66Q0p6amgjUJU) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [This Hot](https://open.spotify.com/album/72uQVTelpMHnNG7QnVL7Kb) | 1:59 |
+| 142 | [I Wanna Lose](https://open.spotify.com/track/0X2kBitXUuyANRUMKKSBbi) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:30 |
 | 143 | [Gagging For You](https://open.spotify.com/track/036coFgVsED857VDnMMuRW) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Gagging For You](https://open.spotify.com/album/24WxSNj5eqgQDrKZ9WH8sI) | 2:05 |
 | 144 | [Jesus Fucking Slays](https://open.spotify.com/track/23BWnKflS7OIhUV4TJNwRQ) | [Breland](https://open.spotify.com/artist/2dCmeVluj7wt6kLjV0ApeF) | [Jesus Fucking Slays](https://open.spotify.com/album/0WKiLaO2inOaA5CrdieKuw) | 2:37 |
 | 145 | [Floorplay](https://open.spotify.com/track/6LNwGowDW741T0D45pH1bb) | [Catalin Josan](https://open.spotify.com/artist/2HgAvmFuJvLChOQdWBiHL3), [Iuliana Puschila](https://open.spotify.com/artist/3vYjigSUFK0cdBYQSL5Kqb) | [Floorplay](https://open.spotify.com/album/2TwpvBLA8eFLWlmAMF54AH) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 149 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 150 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `MjgxMzc3NzAsMDAwMDAwMDBhNmZjZGE2ZWMyM2NiYTczYWViMTlhYWE4MTQzNjZkYg==`
+Snapshot ID: `MjgxMzkxNTAsMDAwMDAwMDBhODI0MDQxZmI5M2Q5YTI0OTkzZWU1NTZlZWYxZTAxMg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,211 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,495 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 27 | [Forever And A Day](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Forever And A Day](https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj) | 2:46 |
 | 28 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
 | 29 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
-| 30 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
-| 31 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 |
+| 30 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 |
+| 31 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
 | 32 | [Walking on Sunshine](https://open.spotify.com/track/1Z18G3Uk0uIgGwa8ugDhrX) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3), [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc) | [Walking on Sunshine](https://open.spotify.com/album/54aKScX1t1yVDRgU4SUee3) | 2:41 |
 | 33 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
 | 34 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 57 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 |
 | 58 | [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 |
 | 59 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 |
-| 60 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 |
+| 60 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 |
 
-Snapshot ID: `MCwwMTc4ZTE5MGRjNTVjN2U5N2M1Mzc0ZjU1NzA0N2MwNzAzNzA2MjQw`
+Snapshot ID: `MCxhNzljZjdlNmU2ZDFjZDkxZWI1NTExZDhhZjhlMDMzZmE3MTMyMjM0`

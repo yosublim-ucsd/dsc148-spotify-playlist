@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 | 2023-02-10 |  |
+| [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 | 2023-02-10 | 2023-07-03 |
 | [1 of 1](https://open.spotify.com/track/2FGEr83UuG786LOFYo9y8g) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [1 of 1](https://open.spotify.com/album/4ZwQPZ5FM0OxkmGu2HaY9I) | 2:40 | 2022-07-08 | 2022-07-16 |
 | [143](https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:12 | 2023-06-16 |  |
 | [2 O'Clock](https://open.spotify.com/track/0atUrqW5RpvfSlHCYBl4Qz) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:50 | 2023-02-03 | 2023-02-18 |
@@ -458,7 +458,7 @@
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 |  |
 | [Thug Cry](https://open.spotify.com/track/0sATEUoYEAH1zjfYSKIo8N) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Thug Cry](https://open.spotify.com/album/1MeVoCVoD5smZ3Z7urlmtu) | 2:59 | 2021-12-15 | 2022-07-10 |
-| [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 | 2023-06-23 | 2023-07-01 |
+| [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 | 2023-06-23 |  |
 | [tidal wave \(feat\. Ari Lennox\)](https://open.spotify.com/track/0aWktqLfsl8QRLNlywINuO) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [LIMBO](https://open.spotify.com/album/52rl7hijFwivkLWm2txuUq) | 3:42 | 2021-12-15 | 2022-07-18 |
 | [Til We Meet Again](https://open.spotify.com/track/3SSJO4WRF30RG9pFVGtwj1) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Til We Meet Again](https://open.spotify.com/album/61LmsB3DeOYoqAfurJKa7l) | 2:09 | 2022-02-04 | 2022-07-03 |
 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 | 2021-12-15 | 2022-06-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,725 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,830 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [guilt](https://open.spotify.com/track/3RYluxwP7PfEywwILPUv7a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [guilt](https://open.spotify.com/album/0LVttb1RQtilr2pH65rk7S) | 2:36 |
 | 75 | [Calamity](https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Calamity](https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci) | 2:53 |
 
-Snapshot ID: `MCwyODczMGE1MTEyNTNkNTAzMmM2MTMzNTYyZDYyM2I2ZmFiNmUwNzIx`
+Snapshot ID: `MCxjYmEyYzIxYjA0NmRjNGYxMmQyNDZlYzIxMGQwNzcwMjQzYmFmYmEy`

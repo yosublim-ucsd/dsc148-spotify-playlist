@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Cozy Cuz en portada.",
-  "num_followers": 133817,
+  "num_followers": 133879,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM3ZmJjMWM1YzViZjQ4MTVkMDdlNzZhYzZmMmU4NTAyN2NmMjNm",
+  "snapshot_id": "MCwwM2I3NDUxYmU0NmI0YzZmZTJiYWZjYzQ3Mjg5N2Q3NGNjNTEzODgz",
   "tracks": [
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1908,13 +1908,17 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 174522,
-      "name": "CARNAL",
-      "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
+      "duration_ms": 162676,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1928,17 +1932,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 162676,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+      "duration_ms": 174522,
+      "name": "CARNAL",
+      "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
     }
   ],
   "unique_name": "El Barrio MP3",

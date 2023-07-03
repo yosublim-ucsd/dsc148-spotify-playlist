@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,916 likes - 283 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,016 likes - 283 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 15 | [Calm Place](https://open.spotify.com/track/5jMaiafNplK9eO77RGlGeF) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Calm Place](https://open.spotify.com/album/1teYIUuYhKfTE2i3GiWUZb) | 2:40 |
 | 16 | [Underwater](https://open.spotify.com/track/7IDAOGrlarCcOv1XGebKTG) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp) | [Underwater](https://open.spotify.com/album/6zZNyuKMVVqOMVbkJdaKY1) | 2:21 |
 | 17 | [Persona](https://open.spotify.com/track/3FFuTbrQPsRS0D4eICmroy) | [Jan Preacher](https://open.spotify.com/artist/4VWIKZWMxqkSHTkKfXkYdk) | [Persona](https://open.spotify.com/album/6Ye5LAmvInQI5qWwKhv5Dv) | 2:00 |
-| 18 | [Pensamientos](https://open.spotify.com/track/2ExnWi1Kvb7KleWA941sfT) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Pensamientos](https://open.spotify.com/album/7GWIQK2Piqye55kQ4p9yzE) | 2:37 |
+| 18 | [Pensamientos](https://open.spotify.com/track/543bYxQoIihCKDh6ILzQvc) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Pensamientos](https://open.spotify.com/album/6prPy3hzJOGyxB4r3x3xLB) | 2:37 |
 | 19 | [Less](https://open.spotify.com/track/07E3s1SyV6mtKniOFHla0D) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [vnpr](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4) | [Less](https://open.spotify.com/album/717cknCRo4fXFaBMTd6XYV) | 1:53 |
 | 20 | [Mindless Mindfulness](https://open.spotify.com/track/4Q3lxCkx5E1J5jO8K4ZU8Q) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Mindless Mindfulness](https://open.spotify.com/album/1xL3DGAtPd2FGuDBtGlA1n) | 2:33 |
 | 21 | [three years have passed \(I need to find myself again\)](https://open.spotify.com/track/67Y7dg43tFNKnt85rH7jbj) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [three years have passed \(I need to find myself again\)](https://open.spotify.com/album/3C29DTsiM1g8JbQX1IRR1D) | 2:56 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 282 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 | 283 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MCwwMDQwNGYzYzNlOWU3MjE0MjEyMzE4OGI1ODg5ZDIyMTgzZmM5NzQw`
+Snapshot ID: `MCwwMjhkNTc3NDUwZWY3OTNkYmU4YzhkY2YxNzJlNDQ4NTJhNjM2NDRm`

@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-179 songs - 15 hr 32 min
+180 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [D'oluwa Mu](https://open.spotify.com/track/4cSPBQ0i1tZ4VL4cxZjMxh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Faaji Friday 4.0](https://open.spotify.com/album/4FYxjlNN5ScDJjQnlq15WX) | 11:18 | 2022-06-30 | 2023-05-07 |
 | [Daddy](https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Daddy](https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t) | 3:13 | 2023-05-19 | 2023-06-23 |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
+| [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 |  |
 | [Dominus Omnium](https://open.spotify.com/track/2kdo5mGHAYdg0slwaabLV0) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Dominus Omnium](https://open.spotify.com/album/4Y7FbmpRm5boVCtwHq4Erl) | 4:15 | 2023-04-13 | 2023-06-08 |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-04-21 |  |
 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 | 2023-06-09 |  |
@@ -69,7 +70,7 @@
 | [Hold It All](https://open.spotify.com/track/0VgZalgsvnTj9aXCzUsJUf) | [Allan Scott](https://open.spotify.com/artist/5bTp94uRj4N6iSyVo4sigW) | [Hold It All](https://open.spotify.com/album/2Mz5cqlXvTe6abwAHqdaGq) | 3:01 | 2022-06-30 | 2022-10-16 |
 | [Hosanna](https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Hosanna](https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV) | 3:17 | 2022-06-30 |  |
 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 | 2022-06-30 | 2023-06-30 |
-| [I AM](https://open.spotify.com/track/6krahQOOJZosOiHKPZBbZS) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4), [Dr Flourish Peters](https://open.spotify.com/artist/1gu1WkuCxG2deha26haepG) | [I AM](https://open.spotify.com/album/1TFzauoARG4LvbAjjvIB7B) | 4:31 | 2023-04-28 |  |
+| [I AM](https://open.spotify.com/track/6krahQOOJZosOiHKPZBbZS) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4), [Dr Flourish Peters](https://open.spotify.com/artist/1gu1WkuCxG2deha26haepG) | [I AM](https://open.spotify.com/album/1TFzauoARG4LvbAjjvIB7B) | 4:31 | 2023-04-28 | 2023-07-03 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-06-30 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-05-12 |  |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-04-28 |  |

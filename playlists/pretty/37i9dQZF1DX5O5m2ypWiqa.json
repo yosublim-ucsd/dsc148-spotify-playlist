@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1692694,
+  "num_followers": 1693335,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODNmZmZlYWU0Zjk0Y2RhYzI1NDRlM2U0M2JhMDA3N2U4MTU3NzMw",
+  "snapshot_id": "MCwyNGE5MjgyN2Q1M2UyMTQ5ZWFiY2M3OTU3NzhjZWZlOWZmNjQ5Mjk2",
   "tracks": [
     {
       "added_at": "2023-04-27 00:16:33",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "El Amor De Su Vida",
-      "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
         "name": "Un Cantautor Con Alma de Triunfador",
         "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 272920,
       "name": "Aliado Del Tiempo",
       "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "El Amor De Su Vida",
+      "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 216226,
-      "name": "Broche de Oro",
-      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
+      "duration_ms": 171266,
+      "name": "Y T\u00fa - Ranchera",
+      "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Y T\u00fa - Ranchera",
-      "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
+      "duration_ms": 216226,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+        "name": "Exitos De Mariano Barba",
+        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
         }
       ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+      "duration_ms": 250120,
+      "name": "Una Noche M\u00e1s Contigo",
+      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -711,18 +707,22 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "Exitos De Mariano Barba",
-        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
       "artists": [
         {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Una Noche M\u00e1s Contigo",
-      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Volvere A Amar",
-      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 220000,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "La M\u00e1s Deseada",
-      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
         "name": "25 A\u00f1os, Vol. 1",
         "url": "https://open.spotify.com/album/6yftM74Ij8cxnOSRax1hRE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 168840,
       "name": "La N\u00famero 20",
       "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 179400,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Te Estar\u00e9 Esperando",
+      "url": "https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
         "name": "El Que Te Am\u00f3",
         "url": "https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 244106,
-      "name": "Te Estar\u00e9 Esperando",
-      "url": "https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr"
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "Tirando Party",
-        "url": "https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Se Va Muriendo Mi Alma",
-      "url": "https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
         "name": "Mis 20 Exitos Originales",
         "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 163186,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
+        "name": "Tirando Party",
+        "url": "https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Se Va Muriendo Mi Alma",
+      "url": "https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq"
     },
     {
       "added_at": "2023-04-27 00:16:33",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
+        "name": "Mis 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"
+    },
+    {
+      "added_at": "2023-04-27 00:16:33",
+      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
       },
@@ -2023,34 +2039,18 @@
     {
       "added_at": "2023-04-27 00:16:33",
       "album": {
-        "name": "CicatrIIIces",
-        "url": "https://open.spotify.com/album/1VYDeQWyxknywWWMTLzpUW"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 166174,
-      "name": "CicatrIIIces",
-      "url": "https://open.spotify.com/track/4S5TXZJiBYatTkl17gwHq5"
-    },
-    {
-      "added_at": "2023-04-27 00:16:33",
-      "album": {
-        "name": "Mis 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 192522,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

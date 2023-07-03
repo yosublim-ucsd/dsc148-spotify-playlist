@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,191 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,177 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 24 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
 | 25 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
 | 26 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
-| 27 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
-| 28 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 |
+| 27 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 |
+| 28 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
 | 29 | [Man Or Muppet](https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB) | [Jason Segel](https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6), [Walter](https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 2:57 |
 | 30 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 |
 | 31 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [I Need To Wake Up](https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Greatest Hits: The Road Less Traveled](https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P) | 3:33 |
 | 56 | [Father Comes Home](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 
-Snapshot ID: `MCw3MzQwM2YyZGNmN2Y5NTUzMDM4YjQyMjFhMjg1MzkzYmMyMzBhZDI1`
+Snapshot ID: `MCw0OWM4ZmM4MGJmZGU3ZDkwZTYxYWJhMjY5YmEyNzFiNGM4OWU1YjMw`

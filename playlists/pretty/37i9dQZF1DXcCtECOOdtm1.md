@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,099 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,117 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Candy](https://open.spotify.com/track/5OUnJyo4Cb9bFPzDWb5GAK) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [URBAN BLUES Presents BEST OF NAOKO GUSHIMA](https://open.spotify.com/album/4qmd0MoQhHRudD3wXDHOmQ) | 4:40 |
 | 2 | [接吻 \- Single Version](https://open.spotify.com/track/087QkWr0BShyZUZyJT9Nk6) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Free Soul Original Love 90s\~EMI Years](https://open.spotify.com/album/1y4XMGzhAqUZcfpxh9zQ7R) | 5:01 |
 | 3 | [まわれ まわれ](https://open.spotify.com/track/1lZbxQcKkq7LPyWdzZUhkS) | [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ささやかれた夢の話](https://open.spotify.com/album/4vvaXPl77ekeetmDhltVOr) | 4:57 |
-| 4 | [Sweet Love](https://open.spotify.com/track/5WTCHYg9G27e9e5HFKGdd1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [THE BEST SONGS OF JUNKO OHASHI](https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI) | 4:49 |
+| 4 | [Sweet Love](https://open.spotify.com/track/6z36XjysOaMvwMTawM5l9J) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [For Tomorrow](https://open.spotify.com/album/0U8SaiOdEhmREO3dx9XABg) | 4:49 |
 | 5 | [MIND CIRCUS](https://open.spotify.com/track/0gqTHvXLAkAKimqY7E4ngQ) | [Miki Nakatani](https://open.spotify.com/artist/0lQqccMaSieqmC4KN96fgs) | [食物連鎖](https://open.spotify.com/album/0rAypOqCpgSzKzuNRfVsux) | 5:16 |
 | 6 | [私達を信じていて](https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 5:52 |
 | 7 | [Jolie](https://open.spotify.com/track/0JGEQ4bpgXwpwwEHfD4rL7) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [Jolie](https://open.spotify.com/album/2vyEwx01MpkV5b5uXr6Zjq) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCw5YmE3YmQ4OWM5ZDAyNTAzY2ZlMDEzY2E1OWZlYmFhNWYzMDFmMmFh`
+Snapshot ID: `MCwxYjNlMWZmODJmOGQ0MWJiNWQ3N2VkY2YwMzZhZjE4YjlmZDdiNzM4`

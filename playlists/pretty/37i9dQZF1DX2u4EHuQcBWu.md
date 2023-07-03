@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,320 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,379 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 62 | [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 |
 | 63 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 |
 | 64 | [El Mundo Que Nos Tocó Vivir](https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:00 |
-| 65 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
-| 66 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
+| 65 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
+| 66 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 67 | [La chusma inconsciente](https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [Juan Ayala](https://open.spotify.com/artist/0tP6QVPr0eyylpTyfEXqZn) | [La chusma inconsciente](https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj) | 5:54 |
 | 68 | [El Baile De Los Que Sobran](https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni Por La Razón, Ni Por La Fuerza \(Edición Especial\)](https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi) | 5:42 |
 | 69 | [El Padre Antonio \- Y El Monaguillo Andres](https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 8:03 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 81 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
 | 82 | [Prende la Mecha](https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8) | [Anarkia Tropikal](https://open.spotify.com/artist/5faoRgtvabwICan9170dvD), [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [la Chusma Inkonciente](https://open.spotify.com/artist/7fX6fTfOsJDHjTsnDeWjg5), [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [La Venganza de los Brujos](https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK) | 5:08 |
 | 83 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
-| 84 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 |
-| 85 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |
+| 84 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |
+| 85 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 |
 | 86 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 87 | [El Club de la Resistencia](https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Souvenir](https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE) | 3:30 |
 | 88 | [Se Me Ocurre](https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 96 | [Polyrics](https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas para Perderse o I.D.E.A.S](https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R) | 4:59 |
 | 97 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
 | 98 | [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 |
-| 99 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
-| 100 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
+| 99 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
+| 100 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 
-Snapshot ID: `MCw0MmJkZTJlOGRhZjcwM2ZkNDZkYTNiNDFjMDY2YjJhOTE3M2U4Mzcw`
+Snapshot ID: `MCwxMzVhOTU2YzRmMzcwMjhjMDg2Y2ZkODc5Nzk5NmRmYjE4OTFmYmFi`

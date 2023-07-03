@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. ElArturo & DAAZ en portada.",
-  "num_followers": 55219,
+  "num_followers": 55231,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDlhYzNjN2QzMjBjY2E1ZTliYjQ4ODI1ZTZhZjUxZjIxN2UwMWMy",
+  "snapshot_id": "MCw3ZWZkMDhkMzFlN2I4ZmY3MDZlMzJjMmNmYzFjNjU4MjQ4Y2Q3YTNk",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "La Vida Es Bella",
-        "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
+        "name": "Te Cre\u00ed",
+        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
       },
       "artists": [
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
         }
       ],
-      "duration_ms": 174546,
-      "name": "La Vida Es Bella",
-      "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
+      "duration_ms": 237953,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -611,18 +607,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Te Cre\u00ed",
-        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
+        "name": "La Vida Es Bella",
+        "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
       },
       "artists": [
         {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
         }
       ],
-      "duration_ms": 237953,
-      "name": "Te Cre\u00ed",
-      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
+      "duration_ms": 174546,
+      "name": "La Vida Es Bella",
+      "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Arrepentido",
-        "url": "https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI"
+        "name": "East LA",
+        "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
       },
       "artists": [
         {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
         }
       ],
-      "duration_ms": 203796,
-      "name": "Arrepentido",
-      "url": "https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS"
+      "duration_ms": 170506,
+      "name": "East LA",
+      "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -775,6 +775,22 @@
       "duration_ms": 214707,
       "name": "El Ni\u00f1o De La Amapola",
       "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Arrepentido",
+        "url": "https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 203796,
+      "name": "Arrepentido",
+      "url": "https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 258500,
       "name": "Juan Ayon",
       "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "East LA",
-        "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "East LA",
-      "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Solo Una Amiga",
         "url": "https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG"
       },
@@ -947,26 +931,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Ojitos Lindos",
-        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        },
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 165919,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
       },
@@ -983,6 +947,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Ojitos Lindos",
+        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 165919,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "\u00daltimo Chance",
         "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 174085,
       "name": "\u00daltimo Chance",
       "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "El Coquito",
+        "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "El Coquito",
+      "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "El Sello Adixion",
         "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
@@ -1239,38 +1255,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "El Coquito",
-        "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
-      },
-      "artists": [
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "El Coquito",
-      "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Vivir Sin Ti ( Version Acustica )",
         "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 172813,
       "name": "Vivir Sin Ti ( Version Acustica )",
       "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Peque\u00f1a y Frag\u00edl",
         "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173837,
       "name": "Peque\u00f1a y Frag\u00edl",
       "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "AS\u00cd ME ENAMOR\u00c9",
         "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
       },
@@ -1495,6 +1479,26 @@
       "duration_ms": 164096,
       "name": "\u00bfY que pensabas?",
       "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Calibrado",
+        "url": "https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz"
+      },
+      "artists": [
+        {
+          "name": "David Bernal",
+          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
+        },
+        {
+          "name": "Sebastian Romero",
+          "url": "https://open.spotify.com/artist/7xsHRG2SdyT7pOgHDW4RZN"
+        }
+      ],
+      "duration_ms": 142591,
+      "name": "Calibrado",
+      "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1519,6 +1523,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 201848,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Calibrado",
-        "url": "https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz"
-      },
-      "artists": [
-        {
-          "name": "David Bernal",
-          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
-        },
-        {
-          "name": "Sebastian Romero",
-          "url": "https://open.spotify.com/artist/7xsHRG2SdyT7pOgHDW4RZN"
-        }
-      ],
-      "duration_ms": 142591,
-      "name": "Calibrado",
-      "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Te Entiende (En Vivo)",
-        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
-      },
-      "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Qui\u00e9n Te Entiende - En Vivo",
-      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Con Tololoche y Charchetas (En Vivo)",
         "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 178150,
       "name": "Despu\u00e9s De Ella",
       "url": "https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Te Entiende (En Vivo)",
+        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Qui\u00e9n Te Entiende - En Vivo",
+      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     },
     {
       "added_at": "2023-06-23 06:00:00",

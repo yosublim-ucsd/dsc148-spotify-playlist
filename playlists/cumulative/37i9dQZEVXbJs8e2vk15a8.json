@@ -4764,7 +4764,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
@@ -6418,7 +6418,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 225319,
       "name": "Fall in luv",
       "url": "https://open.spotify.com/track/6EiVtwnD7dpfXkgkw5XPIQ"
@@ -13436,7 +13436,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 210600,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
@@ -16620,6 +16620,24 @@
       "duration_ms": 146783,
       "name": "Quiero Pelarme",
       "url": "https://open.spotify.com/track/5THQOgMI2EIIWiCiRu6Ltj"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme un Poquito",
+        "url": "https://open.spotify.com/album/0u6c9H07iAO74p6d1tpOsP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rekumbialo",
+          "url": "https://open.spotify.com/artist/6kCgAWXf5cE0N5DQYyUY9X"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192275,
+      "name": "Qui\u00e9reme un Poquito",
+      "url": "https://open.spotify.com/track/7fHcAsb2s3KLsTYGbOL7pl"
     },
     {
       "album": {

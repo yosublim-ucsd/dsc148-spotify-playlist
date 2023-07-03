@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Avenged Sevenfold",
-  "num_followers": 1119612,
+  "num_followers": 1119898,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQ3YzgwMzJmMDBhNmJjZDgyMDNhMzcyNjg1ODMyMWQ5ZDFkZDZj",
+  "snapshot_id": "MCxiMmVjYzA4NzJjNzAwZjU1ZjM4Y2Q1ODIzODFjM2ZkYWI4YWQ4Zjc0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Party in My Head",
-        "url": "https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 188111,
-      "name": "Party in My Head",
-      "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 276200,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Party in My Head",
+        "url": "https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 188111,
+      "name": "Party in My Head",
+      "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 253346,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "From Hell With Love",
         "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
         }
       ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 223866,
       "name": "Kings of Metal",
       "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "See What\u2019s On The Inside",
-        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 227266,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2yvIw3QVg06yAZkRiLTYP3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "See What\u2019s On The Inside",
+        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 165891,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "You Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 388035,
-      "name": "Catastrophist",
-      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Dark Connection",
         "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 338760,
       "name": "Moonlight Rendezvous",
       "url": "https://open.spotify.com/track/6P5Ma1HFYDsgOpLaGu6Jkz"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 388035,
+      "name": "Catastrophist",
+      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "You Will Be the Death of Me",
         "url": "https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 207844,
       "name": "Let Me Fall Apart",
       "url": "https://open.spotify.com/track/2NT3vBkWwhfob1dtxY68uV"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1971,6 +1971,22 @@
       "duration_ms": 183093,
       "name": "Slaughter Of The Soul",
       "url": "https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Damnation Flame",
+        "url": "https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Damnation Flame",
+      "url": "https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2083,22 +2099,6 @@
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Damnation Flame",
-        "url": "https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Damnation Flame",
-      "url": "https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Will Rise",
-        "url": "https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "The Fairies Dance",
-      "url": "https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Fabulous Disaster",
         "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 290280,
       "name": "The Toxic Waltz",
       "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "We Will Rise",
+        "url": "https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "The Fairies Dance",
+      "url": "https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD"
     },
     {
       "added_at": "2023-05-26 04:00:00",

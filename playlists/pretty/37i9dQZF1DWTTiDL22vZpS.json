@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 12926,
+  "num_followers": 12983,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQxZDcwMjI4NGM0NTM3ZjhmMjA2MDQ4Yjk1ODc0YmJmMGNkZGE4",
+  "snapshot_id": "MCw0NTk5YWJiMGQyY2FmODI3ZmVjMmYyN2M5ZjNjMzY2ODgxMWFlYzJk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Peque\u00f1ines",
         "url": "https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 227933,
       "name": "Peque\u00f1ines",
       "url": "https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -979,34 +979,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Desp\u00eddeme De Todxs",
-        "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
       "artists": [
         {
           "name": "Juan Pablo Vega",
           "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 109821,
-      "name": "Canyufilit",
-      "url": "https://open.spotify.com/track/61agIVNg8AM0FvTdK8kCTW"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Da Funk",
-        "url": "https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH"
-      },
-      "artists": [
+        },
         {
-          "name": "Caliope Family",
-          "url": "https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 153624,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0"
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1027,6 +1015,22 @@
       "duration_ms": 218580,
       "name": "Ritmo y Poes\u00eda",
       "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Da Funk",
+        "url": "https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH"
+      },
+      "artists": [
+        {
+          "name": "Caliope Family",
+          "url": "https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0"
     },
     {
       "added_at": "2023-06-30 04:01:00",

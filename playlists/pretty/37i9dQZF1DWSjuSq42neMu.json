@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 647593,
+  "num_followers": 647853,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGYzMTdhOGVlZjhkYTJmMDdmYzVkZjlhMDI4NTgwNDFiMDRkNzgz",
+  "snapshot_id": "MCxiOThjMDE1YTM3MTk1ZjczMjFiMzU0ZmIxODUwYWJjYmYzNGJlNjQ3",
   "tracks": [
     {
       "added_at": "2023-06-27 08:22:56",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-06-27 08:22:56",
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2023-06-27 08:22:56",
+      "album": {
         "name": "Toa la Vida",
         "url": "https://open.spotify.com/album/0ee6hUkkQZjprmTwnqBTwP"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 218969,
       "name": "Toa la Vida",
       "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
-    },
-    {
-      "added_at": "2023-06-27 08:22:56",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2023-06-27 08:22:56",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2023-06-27 08:22:56",
       "album": {
-        "name": "Respuesta Cero",
-        "url": "https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "BlueFire",
-          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
-        }
-      ],
-      "duration_ms": 203951,
-      "name": "Respuesta Cero",
-      "url": "https://open.spotify.com/track/07piZvs54drv7466oPLTt0"
-    },
-    {
-      "added_at": "2023-06-27 08:22:56",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 211130,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
+    },
+    {
+      "added_at": "2023-06-27 08:22:56",
+      "album": {
+        "name": "Respuesta Cero",
+        "url": "https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "BlueFire",
+          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
+        }
+      ],
+      "duration_ms": 203951,
+      "name": "Respuesta Cero",
+      "url": "https://open.spotify.com/track/07piZvs54drv7466oPLTt0"
     },
     {
       "added_at": "2023-06-27 08:22:56",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2023-06-27 08:22:56",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2023-06-27 08:22:56",
-      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2023-06-27 08:22:56",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-06-27 08:22:56",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2023-06-27 08:22:56",
       "album": {
-        "name": "Uno De Eses Gatos",
-        "url": "https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 165350,
-      "name": "Uno De Eses Gatos",
-      "url": "https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h"
-    },
-    {
-      "added_at": "2023-06-27 08:22:56",
-      "album": {
         "name": "Loquita",
         "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 199551,
       "name": "Loquita",
       "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
+    },
+    {
+      "added_at": "2023-06-27 08:22:56",
+      "album": {
+        "name": "Uno De Eses Gatos",
+        "url": "https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 165350,
+      "name": "Uno De Eses Gatos",
+      "url": "https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h"
     },
     {
       "added_at": "2023-06-27 08:22:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,320 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,346 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 54 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
 | 55 | [Dahan](https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Dahan](https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij) | 4:57 |
 | 56 | [The Way I Love You](https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [The Way I Love You](https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH) | 2:42 |
-| 57 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
-| 58 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
-| 59 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
+| 57 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
+| 58 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
+| 59 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
 | 60 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 |
 | 61 | [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 |
 | 62 | [Evidemment](https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Mi Vida \(Edition de Noël\)](https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk) | 3:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 64 | [Church](https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 3:50 |
 | 65 | [Tutto questo sei tu](https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Tutto questo sei tu](https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB) | 4:04 |
 | 66 | [別勉強](https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI), [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:22 |
-| 67 | [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 |
-| 68 | [Kahit Maputi Na Ang Buhok Ko](https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok Ko](https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY) | 3:39 |
+| 67 | [Kahit Maputi Na Ang Buhok Ko](https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok Ko](https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY) | 3:39 |
+| 68 | [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 |
 | 69 | [Bad Dreams \- Stripped](https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Bad Dreams \(Stripped\)](https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P) | 2:51 |
 | 70 | [Photo of My Mind](https://open.spotify.com/track/6ySOgvVNAx7qfWQjAuygwU) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom) | 4:32 |
 | 71 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 77 | [Салют, Вера](https://open.spotify.com/track/4MkpJLmeQX6D4ZMulyWxGO) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/75MrdzzI1A1pUlbzKnSvVM) | 3:22 |
 | 78 | [1000 REASONS](https://open.spotify.com/track/3KHoQ9Cty04ZcRTlQM1YVF) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [1000 REASONS](https://open.spotify.com/album/0tTfIrm3XUuUt7YshqNALo) | 3:38 |
 | 79 | [Dalan Liyane](https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea) | 4:16 |
-| 80 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 |
-| 81 | [Heaven](https://open.spotify.com/track/4oqf6MtycHSGQ1g1q6XFwc) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
+| 80 | [Heaven](https://open.spotify.com/track/4oqf6MtycHSGQ1g1q6XFwc) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
+| 81 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 |
 | 82 | [In Mezzo A Questo Inverno](https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Accetto Miracoli](https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw) | 3:45 |
 | 83 | [Tum Na Ho](https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [M Ajay Vaas](https://open.spotify.com/artist/1DHPAIC12KroWS0mXCK6qf) | [Tum Na Ho](https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7) | 3:30 |
 | 84 | [Sei Lá](https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Sei Lá](https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj) | 3:22 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 147 | [Patience](https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10) | 2:50 |
 | 148 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 149 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
-| 150 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 150 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 
-Snapshot ID: `MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4`
+Snapshot ID: `MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5`

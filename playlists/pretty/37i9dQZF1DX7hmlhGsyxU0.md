@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,557 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,682 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 22 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
 | 23 | [Calm Water](https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ) | 4:20 |
 | 24 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
-| 25 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
-| 26 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
+| 25 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
+| 26 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
 | 27 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
 | 28 | [To the Moon and Back](https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [To the Moon and Back](https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P) | 4:30 |
 | 29 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 39 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
 | 40 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 41 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
-| 42 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
-| 43 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 42 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 43 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
 | 44 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
 | 45 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
 | 46 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Perceptions](https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF) | 2:53 |
 | 63 | [Living Rooms](https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe) | 2:55 |
 
-Snapshot ID: `MCw2ZjQ1ZmU5ZDJmNDQ0NTllYzlmOWIwZGE4ZmU4NTc3ZGMyNzkwYTFl`
+Snapshot ID: `MCxkODcyOWVhZjE4NjcwM2UwNzQ1NjI3ODM0YmM5ZmUxNGMzNWQ0ZjYz`

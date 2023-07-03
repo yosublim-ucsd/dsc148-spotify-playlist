@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4wzWrWfeDDpklQSvyH9oqK"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/3y5LDvgjA1pb18RsKjSOoo"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01"
       },

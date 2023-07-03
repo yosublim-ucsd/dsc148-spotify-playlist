@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,858 likes - 51 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,888 likes - 51 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 10 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
 | 11 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 |
 | 12 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 |
-| 13 | [Back in Black](https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back in Black](https://open.spotify.com/album/736B83hbqftdlB7yewbdOF) | 3:12 |
-| 14 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 |
+| 13 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 |
+| 14 | [Back in Black](https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back in Black](https://open.spotify.com/album/736B83hbqftdlB7yewbdOF) | 3:12 |
 | 15 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
 | 16 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 |
 | 17 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 25 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/7GbLzRIAPkJSjyR5iPKLpg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 6:34 |
 | 26 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
 | 27 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 |
-| 28 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 |
-| 29 | [You Upset Me Baby](https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:35 |
+| 28 | [You Upset Me Baby](https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:35 |
+| 29 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 |
 | 30 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
 | 31 | [Known Unknowns \(Live\)](https://open.spotify.com/track/05cDF8gghsGciZ4bcDO1go) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 6:04 |
-| 32 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 |
-| 33 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
+| 32 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
+| 33 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 |
 | 34 | [Don't Talk to Me Like I'm Tiffany](https://open.spotify.com/track/1QXkca3GgoCzzcYUy7OG2P) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Antipodes](https://open.spotify.com/album/0f8qJlyAOGniS3MogPgEUH) | 3:32 |
 | 35 | [Curtain Call \(Live\)](https://open.spotify.com/track/4reEkK8HpRvVnYnzeGgUdW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 9:01 |
 | 36 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [Stronger Now In Broken Places \(Band Version\)](https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:42 |
 | 51 | [I Don't Live Any Where](https://open.spotify.com/track/1xFua1EOtJ7Xgtfl3HtDxI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:41 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDA2YzgxNjE1ODRjNWU4YjU0NDIwZDdmOWE2ZTNmMjE4Ng==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDBiNWE4M2JiZGE0OTFmMDMzYjQ0NTk1MDEzNGQ3MDFmMw==`

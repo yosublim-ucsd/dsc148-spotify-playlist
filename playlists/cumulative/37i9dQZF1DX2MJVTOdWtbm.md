@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-309 songs - 16 hr 21 min
+310 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 | 2022-09-13 | 2023-02-18 |
 | [El Día Que Me Odies](https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [El Día Que Me Odies](https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE) | 3:05 | 2022-02-11 | 2022-05-20 |
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-05-20 | 2023-05-13 |
-| [Elige Bien](https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Elige Bien](https://open.spotify.com/album/65izBXafV2afavC0J3JX5y) | 3:41 | 2023-06-30 |  |
+| [Elige Bien](https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Elige Bien](https://open.spotify.com/album/65izBXafV2afavC0J3JX5y) | 3:41 | 2023-06-30 | 2023-07-03 |
 | [Emiliana](https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Drama Vol\. 1](https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM) | 2:44 | 2023-06-23 |  |
 | [Empty Doors](https://open.spotify.com/track/6lZfjc2akugF9a71uLzhBk) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [En un Rinconcito](https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Fernanda Perochena](https://open.spotify.com/artist/3DxcAMHSrWV5c8PQafU2qS), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Lo Que Muere No Acaba](https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo) | 3:32 | 2022-02-11 | 2022-09-07 |
@@ -252,6 +252,7 @@
 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 | 2023-05-05 |  |
 | [Reina](https://open.spotify.com/track/4YrQP57RuG6lGCRyQBunCQ) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Reina](https://open.spotify.com/album/1JmyE0cMRfAOrSfgdiTz4G) | 2:04 | 2022-02-11 | 2022-07-28 |
 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 | 2023-05-12 |  |
+| [Romeo & Julieta](https://open.spotify.com/track/2AR6v4kAmHL5tgKE4XGdTf) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Greatest Hit´s \- Remastered](https://open.spotify.com/album/4dZiG1CRokkyFo55515xvq) | 3:25 | 2023-06-30 |  |
 | [Room 302](https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Room 302](https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV) | 3:02 | 2023-06-16 |  |
 | [rosas \(dímelo\)](https://open.spotify.com/track/36eeh1rlxM8Rq5uFTMog6t) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rosas \(dímelo\)](https://open.spotify.com/album/1D5uJ3gKp054hw4T2GYjXT) | 3:31 | 2022-02-11 | 2022-05-07 |
 | [Ruido](https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:57 | 2022-09-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 27124,
+  "num_followers": 27136,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM0MGZhNTJjNWJmZGVhZmE0MTk0Nzg5MDMzZjE4NWU2OTQwNTgx",
+  "snapshot_id": "MCw2NGY4YjVjNmU2ZDBmNjRmNjI1ZDIxNmY2ZTdkMDRjYTY3ZmQ2MzBk",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -131,22 +131,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 372484,
       "name": "Incroyable",
       "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -231,18 +231,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "The Very Best Of Jackito (Pou ti moun yo)",
-        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
       "artists": [
         {
-          "name": "Jackito",
-          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
         }
       ],
-      "duration_ms": 292362,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -263,18 +263,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+        "name": "The Very Best Of Jackito (Pou ti moun yo)",
+        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
       },
       "artists": [
         {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+          "name": "Jackito",
+          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
         }
       ],
-      "duration_ms": 271712,
-      "name": "Cheri Benyen M'",
-      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+      "duration_ms": 292362,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "She's a Freak",
-        "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
-      },
-      "artists": [
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 414024,
-      "name": "She's a Freak",
-      "url": "https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "No Dead End",
         "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 316706,
       "name": "Grev B\u00e8b\u00e8",
       "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "She's a Freak",
+        "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 414024,
+      "name": "She's a Freak",
+      "url": "https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD"
     },
     {
       "added_at": "2020-06-03 18:17:45",

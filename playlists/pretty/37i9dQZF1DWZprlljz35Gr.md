@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,996 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,012 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 25 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 |
 | 26 | [Stick Em Up](https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o), [Grid Division](https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt) | [Stick Em Up](https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk) | 3:56 |
 | 27 | [Sunroof Diesel Blues](https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 3:44 |
-| 28 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
+| 28 | [The Edge](https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [The Edge](https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix) | 3:45 |
 | 29 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 |
-| 30 | [The Edge](https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [The Edge](https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix) | 3:45 |
+| 30 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
 | 31 | [Roy's Toy](https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [You Had It Coming](https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft) | 3:35 |
 | 32 | [Electrified](https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 6:38 |
 | 33 | [Shuck Dub](https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:28 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 47 | [Hurricane](https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 4:15 |
 | 48 | [Swamp Thang](https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj) | [The Soul Of John Black](https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS) | [The Good Girl Blues](https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G) | 2:47 |
 | 49 | [Ride On](https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 5:21 |
-| 50 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 |
+| 50 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
 
-Snapshot ID: `MCwyN2JkMDQxNTQ2YWM4MWI4YTVlNjM2MDIyYzQwZjk2ZTZkY2Y1Y2Jk`
+Snapshot ID: `MCxmZDc3NTYyMzFjMjVjMjQ4ODYwNTFmZjljNzg0NDJlZjk4MDc4YTI2`

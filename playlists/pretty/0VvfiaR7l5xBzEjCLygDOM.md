@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0VvfiaR7l5xBzEjCLygDOM.md) - [plain]
 
 > 
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 5 likes - 33 songs - 1 hr 58 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 5 likes - 34 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/0VvfiaR7l5xBzEjCLygDOM.md) - [plain]
 | 31 | [My Favourite Game](https://open.spotify.com/track/7gjm1sq5ALU5svBSi9g178) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:37 |
 | 32 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
 | 33 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
+| 34 | [Coco Jambo](https://open.spotify.com/track/09oCB5vaPIgnzZgvluCP1y) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [Золото дискотек, Vol\. 1](https://open.spotify.com/album/1obSbPzD8v2ZOT7viB7B1B) | 3:39 |
 
-Snapshot ID: `MTEzLDU2OTc5Y2FkOGRjYjNiODhjNDIwM2FjMTFmMjM3MjlhNGUxMzUxNzk=`
+Snapshot ID: `MTE0LDY4OTYwOGQ5MjEyYTc5MmVhMWNkZThlOWMxZDRhY2FiY2M5ODdiZjY=`

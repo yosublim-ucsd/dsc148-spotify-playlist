@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 19882,
+  "num_followers": 19892,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTE0OThmMjZjNzNlYzNmNWUzM2YyMjA5OWY5NzYxZTVjMmNiNmVi",
+  "snapshot_id": "MCwwYThlNzBmMDdmMWFiMzM5NjUxMzljMWM3NGQ0MWE3NmIzZjE0MjMx",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -339,30 +339,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
-      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Vier letzte Lieder; Die Nacht; Allerseelen etc.",
         "url": "https://open.spotify.com/album/4UL1p3gGSK7TpjWr0OQX86"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 65706,
       "name": "5 Songs, Op. 21, Trv 160: 1. All mein' Gedanken",
       "url": "https://open.spotify.com/track/3zGDidjFezyu5zTmYjtCNd"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
+      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -655,34 +655,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Vier letzte Lieder & Opera Scenes",
-        "url": "https://open.spotify.com/album/2vOrba9gseKpKl4V976pSA"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Anne Schwanewilms",
-          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
-        },
-        {
-          "name": "G\u00fcrzenich Orchester K\u00f6ln",
-          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
-        },
-        {
-          "name": "Markus Stenz",
-          "url": "https://open.spotify.com/artist/6eQoCt8lxJwwl9XhUGhhk3"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Arabella, Op. 79, TrV 263: Das war sehr gut, Mandryka",
-      "url": "https://open.spotify.com/track/3ZKdNbMGZBPDYpPPJE4jmm"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -707,6 +679,34 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Vier letzte Lieder & Opera Scenes",
+        "url": "https://open.spotify.com/album/2vOrba9gseKpKl4V976pSA"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "G\u00fcrzenich Orchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+        },
+        {
+          "name": "Markus Stenz",
+          "url": "https://open.spotify.com/artist/6eQoCt8lxJwwl9XhUGhhk3"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Arabella, Op. 79, TrV 263: Das war sehr gut, Mandryka",
+      "url": "https://open.spotify.com/track/3ZKdNbMGZBPDYpPPJE4jmm"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -739,30 +739,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
-        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Weimar Staatskapelle",
-          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 364893,
-      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
-      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Piano Trios Nos. 1 & 2",
         "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 240306,
       "name": "Standchen, TrV 114",
       "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
+        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Weimar Staatskapelle",
+          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 364893,
+      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
+      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -891,30 +891,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 327266,
-      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
-      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -939,6 +915,58 @@
       "duration_ms": 265000,
       "name": "Alphorn, o. Op.",
       "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 327266,
+      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
+      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Solti - Richard Strauss - The Operas",
+        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 681213,
+      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
+      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1043,34 +1071,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Solti - Richard Strauss - The Operas",
-        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 681213,
-      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
-      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, Richard: Complete Orchestral Works",
         "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
       },
@@ -1091,6 +1091,30 @@
       "duration_ms": 217733,
       "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
       "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
+        "url": "https://open.spotify.com/album/7oEbgL8cKAyskzkWWq4JAG"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Zden\u011bk Ko\u0161ler",
+          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+        }
+      ],
+      "duration_ms": 756000,
+      "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
+      "url": "https://open.spotify.com/track/2kxYSROtAaWvkzGQExdyrx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1119,30 +1143,6 @@
       "duration_ms": 522960,
       "name": "3 Hymnen von Friedrich Holderlin, Op. 71, TrV 240: No. 1. Hymne an die Liebe",
       "url": "https://open.spotify.com/track/2GcpNElIe6a5nUCcXujryB"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
-        "url": "https://open.spotify.com/album/7oEbgL8cKAyskzkWWq4JAG"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
-        }
-      ],
-      "duration_ms": 756000,
-      "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
-      "url": "https://open.spotify.com/track/2kxYSROtAaWvkzGQExdyrx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1243,34 +1243,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: 3 Hymns - Opera arias",
-        "url": "https://open.spotify.com/album/5g5pDsEAVjQvO6WdAxQehK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Soile Isokoski",
-          "url": "https://open.spotify.com/artist/5NQ3MRv3HCYUP2DiT6bfwc"
-        },
-        {
-          "name": "Helsinki Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/7xe7rH5SJ5Z3PzZvqAU2nq"
-        },
-        {
-          "name": "Okko Kamu",
-          "url": "https://open.spotify.com/artist/0AONkUEodQkpkdO5Wul6hE"
-        }
-      ],
-      "duration_ms": 1199106,
-      "name": "Capriccio, Op. 85, TrV 279: Andante con moto - Morgen mittag um elf!",
-      "url": "https://open.spotify.com/track/24dlZ6GS4fK0aYQ6USmVwZ"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
         "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
       },
@@ -1299,6 +1271,34 @@
       "duration_ms": 311840,
       "name": "Die Agyptische Helena, Op. 75, TrV 255, Act II: Zweite Brautnacht! Zaubernacht",
       "url": "https://open.spotify.com/track/6iKuENO12ch6vV1wZXjPK1"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: 3 Hymns - Opera arias",
+        "url": "https://open.spotify.com/album/5g5pDsEAVjQvO6WdAxQehK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Soile Isokoski",
+          "url": "https://open.spotify.com/artist/5NQ3MRv3HCYUP2DiT6bfwc"
+        },
+        {
+          "name": "Helsinki Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/7xe7rH5SJ5Z3PzZvqAU2nq"
+        },
+        {
+          "name": "Okko Kamu",
+          "url": "https://open.spotify.com/artist/0AONkUEodQkpkdO5Wul6hE"
+        }
+      ],
+      "duration_ms": 1199106,
+      "name": "Capriccio, Op. 85, TrV 279: Andante con moto - Morgen mittag um elf!",
+      "url": "https://open.spotify.com/track/24dlZ6GS4fK0aYQ6USmVwZ"
     },
     {
       "added_at": "2022-06-20 09:55:21",

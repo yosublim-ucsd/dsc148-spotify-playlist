@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,601 songs - 3 day 12 hr 30 min
+1,602 songs - 3 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [127 Hours](https://open.spotify.com/track/4KUfErz2aWbIODxQ6GNBV8) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [127 Hours](https://open.spotify.com/album/0PTjTUsGj0F6MrmQN3WLUw) | 2:26 | 2022-02-25 | 2022-06-08 |
 | [15 Minutes](https://open.spotify.com/track/4zGJ5yybuyVgXRt9yCxem1) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [15 Minutes](https://open.spotify.com/album/7ewDoS5YHftJf70LZftQGV) | 2:59 | 2021-05-05 | 2022-04-16 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-25 | 2022-04-16 |
+| [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 |  |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
 | [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2023-02-25 |
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 |  |
@@ -1428,7 +1429,7 @@
 | [The Magician](https://open.spotify.com/track/1MA0Brb5DfaovmyTVNP7Jt) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [The Magician](https://open.spotify.com/album/54YSU1rpwZiIopfoW054zN) | 3:38 | 2020-10-20 | 2020-10-21 |
 | [The Middle of Nowhere](https://open.spotify.com/track/6j9cbCHQgQeQMlSngzaggO) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Middle of Nowhere](https://open.spotify.com/album/0C1xbHunjBjfnBZIo9N54b) | 2:48 | 2022-02-25 | 2022-04-19 |
 | [the movies](https://open.spotify.com/track/4RR9tI04ScTvVBCVTyTzhy) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [the movies](https://open.spotify.com/album/5lMbbv5F6eayTK3Fw1x4lZ) | 2:58 | 2020-10-20 | 2020-10-21 |
-| [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 | 2022-12-07 |  |
+| [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 | 2022-12-07 | 2023-07-03 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-02-24 | 2023-03-04 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 |  |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-22 | 2021-05-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Damalia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,967 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,973 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [No Doy Tanto Miedo](https://open.spotify.com/track/1j9YqJG8rII3jHefSdJhrr) | [Virya Cruz](https://open.spotify.com/artist/6n4rzYTrqXsgalllwRoySs) | [No Doy Tanto Miedo](https://open.spotify.com/album/2GnyfMB0nxPX79JvWDs7af) | 2:50 |
 | 50 | [Mis amigas](https://open.spotify.com/track/4IGR1gTG2Ng9tkoPHQzpyu) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A), [Precariada](https://open.spotify.com/artist/1xdnBT8rYFFBaoYlzVlnlM) | [Mis amigas](https://open.spotify.com/album/6xDu34A8Nns57EbWRe8mFQ) | 1:51 |
 
-Snapshot ID: `MCw3NTRmYjM2YWRiZDFjNTEzMzQ0ZWYwOTQ1NDFiZDRhMWRkNDJiMGNk`
+Snapshot ID: `MCw3MTFiN2ZlYTQ0ZTI1Y2RjNDgzMDlhZGY0NWM2Mjc5OGNmYjRhOGNm`

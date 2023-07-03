@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,952 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,972 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 27 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 |
 | 28 | [Free Shiest Life \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:47 |
 | 29 | [Who I Smoke](https://open.spotify.com/track/3093lstvMDfRjvimLc6ViU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe), [FastMoney Goon](https://open.spotify.com/artist/6VdfJb2OJp9dbZz0t5bedv), [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Life of Betrayal 2x](https://open.spotify.com/album/2T2cnxVLWceuy1QofrVNnn) | 2:14 |
-| 30 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
-| 31 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 |
+| 30 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 |
+| 31 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
 | 32 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 |
 | 33 | [No Time For Sleep \(Freestyle\)](https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [No Time For Sleep \(Freestyle\)](https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi) | 6:15 |
 | 34 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:23 |
 | 35 | [Thugged Out \(feat\. Kodak Black\)](https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just A Matter of Slime](https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx) | 3:06 |
 | 36 | [GD Anthem](https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh) | [Rooga](https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1) | [GD Anthem](https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo) | 3:10 |
-| 37 | [Steppers](https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Steppers](https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD) | 2:30 |
-| 38 | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T) | 2:44 |
+| 37 | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T) | 2:44 |
+| 38 | [Steppers](https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Steppers](https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD) | 2:30 |
 | 39 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |
 | 40 | [Brush Em \(feat\. Rah Swish\)](https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 2:30 |
 | 41 | [2055 \(feat\. Coi Leray\)](https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [2055 \(feat\. Coi Leray\)](https://open.spotify.com/album/2jGGIrYGbhJPHOmBF5R90N) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MCxhY2Q1Nzc5NDkxNzJiYThlMDA5OGE5OTg4MGU3ZDI2MDkxZGNmYjI3`
+Snapshot ID: `MCw0OTQ2NDNhZmQ5MTNjNTFhMmExZjEyNzQzYjAxOWIzYjVkY2ZiZDQw`

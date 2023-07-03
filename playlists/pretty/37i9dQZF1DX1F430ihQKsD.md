@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Velours Velours
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,487 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,497 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 |
 | 100 | [Feu intérieur](https://open.spotify.com/track/7wvj31idTR8xISawcFTobQ) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/2dYTTaU4SALFxt6MFOgdZ9) | 3:33 |
 
-Snapshot ID: `MCxlZmU1OTlmMDk1N2Y0YmFjOTExNDVjMDU4MzgwMTRhZmMzMTMzNWMy`
+Snapshot ID: `MCw1ZjkzNWI0M2E1YTk0NTg5ZGNmYjIxYzlmYzYzNGIzZGZjMjQzNjFj`

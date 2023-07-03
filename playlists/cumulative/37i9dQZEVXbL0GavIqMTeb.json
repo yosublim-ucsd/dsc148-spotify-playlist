@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
@@ -4462,7 +4462,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 285074,
       "name": "FANTASMA | AVC",
       "url": "https://open.spotify.com/track/2PFPDjSJpeZE889648rbUP"
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
@@ -8149,6 +8149,28 @@
     },
     {
       "album": {
+        "name": "Mi Bruja",
+        "url": "https://open.spotify.com/album/70HhZWcReCkPA1UQQkBkM7"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157793,
+      "name": "Mi Bruja",
+      "url": "https://open.spotify.com/track/0IsCKyajDh4QkLWqmRJdOJ"
+    },
+    {
+      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
@@ -8680,6 +8702,28 @@
       "duration_ms": 259591,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/5r7eJOBw5Yqik0efMbC3Eq"
+    },
+    {
+      "album": {
+        "name": "MUCHO TXT",
+        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149777,
+      "name": "Multiverso (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
     },
     {
       "album": {
@@ -9792,7 +9836,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 355795,
       "name": "PASIEMPRE",
       "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
@@ -12674,7 +12718,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 151117,
       "name": "TE EXO DE MENOS :(",
       "url": "https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI"
@@ -14392,7 +14436,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

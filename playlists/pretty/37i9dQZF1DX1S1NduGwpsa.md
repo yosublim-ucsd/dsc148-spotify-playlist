@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,011 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,135 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Nature Boy](https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ) | [Anne Bisson](https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF) | [Be My Lover](https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf) | 3:54 |
 | 50 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 
-Snapshot ID: `MCw3NzBhZTE4YTAwZjlkZDhmMmVmZmUyZmY0YzBlMTYwYjM2YzExZmMz`
+Snapshot ID: `MCwwMTQxY2Y0N2IyMDQ0NTUyYmI4NGE4NzI3MzhiNjEyM2ZjODNjNjIw`

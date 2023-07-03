@@ -4,7 +4,7 @@
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-116 songs - 7 hr 27 min
+117 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Qué Nivel De Mujer](https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:28 | 2021-04-23 |  |
 | [Rock DJ](https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 4:20 | 2021-04-23 |  |
 | [Sabes A Chocolate](https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Los Remixes 2.0](https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK) | 3:46 | 2021-04-23 | 2022-07-29 |
-| [Sabes A Chocolate](https://open.spotify.com/track/6pPNepnzBAMdPcE3vgyT3y) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Sabes A Chocolate](https://open.spotify.com/album/70KuCHT6XcptXyM4OjCu3c) | 3:46 | 2021-04-23 |  |
+| [Sabes A Chocolate](https://open.spotify.com/track/6pPNepnzBAMdPcE3vgyT3y) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Sabes A Chocolate](https://open.spotify.com/album/70KuCHT6XcptXyM4OjCu3c) | 3:46 | 2021-04-23 | 2023-07-03 |
+| [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 | 2023-02-14 |  |
 | [Sabes A Chocolate](https://open.spotify.com/track/4WhI8IxtNfGh9zEl85KZAN) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Latin Pop Bites Vol\. 3](https://open.spotify.com/album/0NmYWFjQM8ieoYL85kBnNH) | 3:47 | 2022-08-02 | 2022-11-13 |
 | [Sabor a Chocolate](https://open.spotify.com/track/6M6jSnH0XNPOKgJmPnFgGG) | [Dany Deglein](https://open.spotify.com/artist/4Q00Yqg0oob4RySWevNlBC), [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Sabor a Chocolate](https://open.spotify.com/album/3L9Kq7bC5SktAwxSZnKrrJ) | 4:01 | 2021-04-23 | 2022-08-03 |
 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 | 2021-04-23 |  |

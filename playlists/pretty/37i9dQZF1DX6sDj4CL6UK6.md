@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover\- Mali
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,427 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,451 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Mango Showers](https://open.spotify.com/track/2TNd3JXmvnnn4ueq8v90mG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mango Showers](https://open.spotify.com/album/2vfuil3OEVqia9k8FqeAiU) | 3:43 |
 | 75 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 |
 
-Snapshot ID: `MCw3MmZhMTNlYWU2MjIyZTljOTUxYjg5YTZlMzIxNmFjYzgxNTY0NDQ5`
+Snapshot ID: `MCw0YTZhYzY5MTdkNmM3MWRjMzk1YjdhMzAxN2IwOGVhNjM3MWQ4YWJm`

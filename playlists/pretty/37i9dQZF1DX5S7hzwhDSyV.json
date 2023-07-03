@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 80008,
+  "num_followers": 80122,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdkMDIzOGMwZGU4Y2FiNzcwNmFhNWM3YmNmNzc3YzYzZWI1ZDk5",
+  "snapshot_id": "MCw3ODk5YzA2M2NhNzdjMGM1ZmM4ZjNjYzRkYWY5YWZkYTJmYjFhNTEx",
   "tracks": [
     {
       "added_at": "2023-06-21 11:26:10",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
       "artists": [
         {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
         }
       ],
-      "duration_ms": 403360,
-      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
+      "duration_ms": 339533,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 339533,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
+      "duration_ms": 403360,
+      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 837813,
-      "name": "Lush Life - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 496893,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 837813,
+      "name": "Lush Life - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
         "name": "Pres and Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1195,22 +1215,18 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
+        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
+      "duration_ms": 191146,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1307,22 +1323,6 @@
       "duration_ms": 602173,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
-        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 424933,
+      "name": "Don't Blame Me (Retake 1)",
+      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1399,38 +1415,6 @@
       "duration_ms": 322333,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 424933,
-      "name": "Don't Blame Me (Retake 1)",
-      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1471,6 +1455,38 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
         "name": "Now!",
         "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1539,8 +1555,8 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Young Chet",
-        "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
       },
       "artists": [
         {
@@ -1548,25 +1564,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 155693,
-      "name": "Time After Time - Instrumental",
-      "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+      "duration_ms": 235560,
+      "name": "Stella By Starlight - Remaster/2004",
+      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1687,8 +1687,24 @@
     {
       "added_at": "2023-06-21 11:26:10",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+        "name": "Harmonica Jazz",
+        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 191621,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH"
+    },
+    {
+      "added_at": "2023-06-21 11:26:10",
+      "album": {
+        "name": "Young Chet",
+        "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
       },
       "artists": [
         {
@@ -1696,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Stella By Starlight - Remaster/2004",
-      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
+      "duration_ms": 155693,
+      "name": "Time After Time - Instrumental",
+      "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
     },
     {
       "added_at": "2023-06-21 11:26:10",
@@ -1715,22 +1731,6 @@
       "duration_ms": 457560,
       "name": "Love For Sale - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
-    },
-    {
-      "added_at": "2023-06-21 11:26:10",
-      "album": {
-        "name": "Harmonica Jazz",
-        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 191621,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH"
     },
     {
       "added_at": "2023-06-21 11:26:10",

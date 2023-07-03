@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA"
+    },
+    {
+      "album": {
         "name": "Flowers on earth",
         "url": "https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 285642,
       "name": "Please",
       "url": "https://open.spotify.com/track/7nElMqssjoTPpfm8kSN1y1"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 220500,
       "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Loser)",
       "url": "https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 193000,
       "name": "\u0e19\u0e31\u0e01\u0e23\u0e2d",
       "url": "https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE"
@@ -1887,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
         "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
       },
@@ -1902,6 +1938,24 @@
       "duration_ms": 264762,
       "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e32\u0e0b\u0e48\u0e32 \u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 (Love Planet)",
+        "url": "https://open.spotify.com/album/1bt91b6cucflg1OqQqNgzv"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235901,
+      "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e32\u0e0b\u0e48\u0e32 \u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 - Love Planet",
+      "url": "https://open.spotify.com/track/2pgxiktYFD3YByqVkYmGC5"
     },
     {
       "album": {

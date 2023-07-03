@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 241193,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
@@ -2312,6 +2312,24 @@
       "duration_ms": 206508,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/1gD8qr4YKd16C2tV1bnXOc"
+    },
+    {
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206508,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
     },
     {
       "album": {

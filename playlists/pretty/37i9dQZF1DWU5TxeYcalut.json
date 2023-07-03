@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 154668,
+  "num_followers": 154708,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjg3ZmIxNTIxZjZkN2UyNTJhM2JmOWQ4MTQxNmYxOWE1MTJiMTQ2",
+  "snapshot_id": "MCw0OGEwOWM5NjZlNDZjMThiMzVlNzMyNTFlNjYwNjEwYjYxMWUxZTVm",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -399,6 +399,30 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Rala Coxa",
+        "url": "https://open.spotify.com/album/48RtZ8vrAFhgM28pBL9FjO"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Lessa",
+          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Pagode Jazz Sardinha\u00b4s Club",
+          "url": "https://open.spotify.com/artist/2oXJiHIEM3qLNRlgsi00ga"
+        }
+      ],
+      "duration_ms": 359869,
+      "name": "Rala Coxa",
+      "url": "https://open.spotify.com/track/1nfItvLmyX2YO2q0D6E6Jq"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "O Enigma Lexeu",
         "url": "https://open.spotify.com/album/52Vs6AyLKN7Fzw22WKsUzl"
       },
@@ -431,30 +455,6 @@
       "duration_ms": 456503,
       "name": "Casa do Pai",
       "url": "https://open.spotify.com/track/5SthlSWzSjysVpA83OJ8T0"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Rala Coxa",
-        "url": "https://open.spotify.com/album/48RtZ8vrAFhgM28pBL9FjO"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Lessa",
-          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Pagode Jazz Sardinha\u00b4s Club",
-          "url": "https://open.spotify.com/artist/2oXJiHIEM3qLNRlgsi00ga"
-        }
-      ],
-      "duration_ms": 359869,
-      "name": "Rala Coxa",
-      "url": "https://open.spotify.com/track/1nfItvLmyX2YO2q0D6E6Jq"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
         "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 225184,
       "name": "Porto Rio",
       "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Sobrevoo",
+        "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        }
+      ],
+      "duration_ms": 382919,
+      "name": "Fluxo",
+      "url": "https://open.spotify.com/track/6OAwPPmQ6b50DdqzfMgGwZ"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Pro Carnaval Voltar",
         "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 481925,
       "name": "Pro Carnaval Voltar",
       "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Sobrevoo",
-        "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        }
-      ],
-      "duration_ms": 382919,
-      "name": "Fluxo",
-      "url": "https://open.spotify.com/track/6OAwPPmQ6b50DdqzfMgGwZ"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1091,6 +1091,46 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
+      },
+      "artists": [
+        {
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Sinal Dos Tempos - Cain\u00e3 Toca Garoto",
+        "url": "https://open.spotify.com/album/2SdgCo1lYhqmP7JdOQ8FGK"
+      },
+      "artists": [
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        },
+        {
+          "name": "Guto Wirtti",
+          "url": "https://open.spotify.com/artist/6G67mNrm0BRXVgdOOMk5nV"
+        },
+        {
+          "name": "Paulo Braga",
+          "url": "https://open.spotify.com/artist/51t7MZd7LXOkPwgSfjMm56"
+        }
+      ],
+      "duration_ms": 302417,
+      "name": "Lamentos do Morro",
+      "url": "https://open.spotify.com/track/6fpRybolHTa4gjcuBbJnAE"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "\u00c2mbar - os Afluentes da M\u00fasica",
         "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
       },
@@ -1127,22 +1167,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
-      },
-      "artists": [
-        {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Mirada Pervertida (Bossa Guitar)",
         "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 218174,
       "name": "Nadie Tiene El Alma Pura",
       "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Sinal Dos Tempos - Cain\u00e3 Toca Garoto",
-        "url": "https://open.spotify.com/album/2SdgCo1lYhqmP7JdOQ8FGK"
-      },
-      "artists": [
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        },
-        {
-          "name": "Guto Wirtti",
-          "url": "https://open.spotify.com/artist/6G67mNrm0BRXVgdOOMk5nV"
-        },
-        {
-          "name": "Paulo Braga",
-          "url": "https://open.spotify.com/artist/51t7MZd7LXOkPwgSfjMm56"
-        }
-      ],
-      "duration_ms": 302417,
-      "name": "Lamentos do Morro",
-      "url": "https://open.spotify.com/track/6fpRybolHTa4gjcuBbJnAE"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Mudan\u00e7as",
+        "url": "https://open.spotify.com/album/36KuzwqyNnhwHRbFsKBB7p"
+      },
+      "artists": [
+        {
+          "name": "Jorginho Neto",
+          "url": "https://open.spotify.com/artist/0VvWlL07E17nYkS6Lz9VvG"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        }
+      ],
+      "duration_ms": 448742,
+      "name": "Mudan\u00e7as",
+      "url": "https://open.spotify.com/track/00w0oCE7pW4egD1I8cv8gR"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Afinidades",
         "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 343211,
       "name": "Burlesque",
       "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Mudan\u00e7as",
-        "url": "https://open.spotify.com/album/36KuzwqyNnhwHRbFsKBB7p"
-      },
-      "artists": [
-        {
-          "name": "Jorginho Neto",
-          "url": "https://open.spotify.com/artist/0VvWlL07E17nYkS6Lz9VvG"
-        },
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
-        }
-      ],
-      "duration_ms": 448742,
-      "name": "Mudan\u00e7as",
-      "url": "https://open.spotify.com/track/00w0oCE7pW4egD1I8cv8gR"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1451,26 +1451,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Kurukere",
-        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
       },
       "artists": [
         {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+          "name": "Z\u00e9li Silva",
+          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
         },
         {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
-        },
-        {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+          "name": "Z\u00e9li Silva Quarteto",
+          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
         }
       ],
-      "duration_ms": 352329,
-      "name": "Kurukere",
-      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+      "duration_ms": 266226,
+      "name": "Novidade",
+      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1511,22 +1507,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+        "name": "Kurukere",
+        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
       },
       "artists": [
         {
-          "name": "Z\u00e9li Silva",
-          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
         },
         {
-          "name": "Z\u00e9li Silva Quarteto",
-          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+        },
+        {
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
         }
       ],
-      "duration_ms": 266226,
-      "name": "Novidade",
-      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+      "duration_ms": 352329,
+      "name": "Kurukere",
+      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 259320,
       "name": "Sete Coisas",
       "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Festa",
-        "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Monteiro",
-          "url": "https://open.spotify.com/artist/3GBt2bx1By1qA7JhvfMuq9"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Festa",
-      "url": "https://open.spotify.com/track/1yFDSsdKxTHHEop447JCLs"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Can\u00e7\u00e3o da Odalisca",
         "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 365120,
       "name": "Can\u00e7\u00e3o da Odalisca",
       "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Festa",
+        "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Monteiro",
+          "url": "https://open.spotify.com/artist/3GBt2bx1By1qA7JhvfMuq9"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/1yFDSsdKxTHHEop447JCLs"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1723,30 +1723,6 @@
       "duration_ms": 317986,
       "name": "Mem\u00f3rias",
       "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        },
-        {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
-        },
-        {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
-        }
-      ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1787,6 +1763,30 @@
       "duration_ms": 473410,
       "name": "BH",
       "url": "https://open.spotify.com/track/0DAZbzl6FHufvWxFy73GwY"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        },
+        {
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
+        },
+        {
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
+        }
+      ],
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1915,30 +1915,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Sobre a Lua e os Passos",
-        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
-      },
-      "artists": [
-        {
-          "name": "Trov\u00e3o Rocha",
-          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
-        },
-        {
-          "name": "Sebastian Cavallaro",
-          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
-        },
-        {
-          "name": "Victor Bub",
-          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
-        }
-      ],
-      "duration_ms": 247683,
-      "name": "Sobre a Lua e os Passos",
-      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Rosi",
         "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
       },
@@ -1959,30 +1935,6 @@
       "duration_ms": 239992,
       "name": "Rosi",
       "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Agora Aqui",
-        "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
-      },
-      "artists": [
-        {
-          "name": "Luca Raele",
-          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
-        },
-        {
-          "name": "Celio Barros",
-          "url": "https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX"
-        },
-        {
-          "name": "Andr\u00e9 Mehmari",
-          "url": "https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu"
-        }
-      ],
-      "duration_ms": 212416,
-      "name": "Talvez Certamente",
-      "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -2011,6 +1963,30 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Sobre a Lua e os Passos",
+        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
+      },
+      "artists": [
+        {
+          "name": "Trov\u00e3o Rocha",
+          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
+        },
+        {
+          "name": "Sebastian Cavallaro",
+          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
+        },
+        {
+          "name": "Victor Bub",
+          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
+        }
+      ],
+      "duration_ms": 247683,
+      "name": "Sobre a Lua e os Passos",
+      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Sidiel Vieira Quinteto",
         "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
       },
@@ -2031,18 +2007,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
+        "name": "Agora Aqui",
+        "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
       },
       "artists": [
         {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+          "name": "Luca Raele",
+          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
+        },
+        {
+          "name": "Celio Barros",
+          "url": "https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX"
+        },
+        {
+          "name": "Andr\u00e9 Mehmari",
+          "url": "https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu"
         }
       ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
+      "duration_ms": 212416,
+      "name": "Talvez Certamente",
+      "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -2063,6 +2047,22 @@
       "duration_ms": 502746,
       "name": "Domingo 27/09",
       "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
+      },
+      "artists": [
+        {
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2023-05-19 03:01:00",

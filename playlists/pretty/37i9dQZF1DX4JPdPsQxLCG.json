@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 53766,
+  "num_followers": 53986,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzBiN2Y4MjFlZjRjYjg3NjhkNzM1YmIyZThkM2U3Njg3ZDU0MmZk",
+  "snapshot_id": "MCwwOTA0ZTA4MTVlMGY1ZDVkOWY4MmY5YmQyMDRlNWM4ZWNmNzVlNDY5",
   "tracks": [
     {
       "added_at": "2023-06-28 17:03:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
-    },
-    {
-      "added_at": "2023-06-28 17:03:59",
-      "album": {
         "name": "Get Lucky",
         "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 221000,
       "name": "Working for the Weekend",
       "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
+    },
+    {
+      "added_at": "2023-06-28 17:03:59",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
     },
     {
       "added_at": "2023-06-28 17:03:59",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
+        "name": "Knock 'Em Dead Kid",
+        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
+      },
+      "artists": [
+        {
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "We're Here For A Good Time (Not A Long Time)",
+      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+    },
+    {
+      "added_at": "2023-06-28 17:03:59",
+      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/4bpKVnI4OEz0Akg57pTPIk"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
-        "name": "Knock 'Em Dead Kid",
-        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
+        "name": "Waiting For A Miracle",
+        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
       },
       "artists": [
         {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
         }
       ],
-      "duration_ms": 214253,
-      "name": "We're Here For A Good Time (Not A Long Time)",
-      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+      "duration_ms": 223826,
+      "name": "Wondering Where The Lions Are",
+      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
     },
     {
       "added_at": "2023-06-28 17:03:59",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
-        "name": "Waiting For A Miracle",
-        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Wondering Where The Lions Are",
-      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
-    },
-    {
-      "added_at": "2023-06-28 17:03:59",
-      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2023-06-28 17:03:59",
-      "album": {
         "name": "American Woman",
         "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 229906,
       "name": "No Time",
       "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+    },
+    {
+      "added_at": "2023-06-28 17:03:59",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2023-06-28 17:03:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Go Find Yourself or Whatever",
-      "url": "https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld"
-    },
-    {
-      "added_at": "2023-06-28 17:03:59",
-      "album": {
         "name": "The Sheepdogs (Deluxe)",
         "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 190133,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2023-06-28 17:03:59",
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Go Find Yourself or Whatever",
+      "url": "https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld"
     },
     {
       "added_at": "2023-06-28 17:03:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-28 17:03:59",
       "album": {
-        "name": "Furiosity",
-        "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
-      },
-      "artists": [
-        {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
-        }
-      ],
-      "duration_ms": 229945,
-      "name": "Sweet Mountain River",
-      "url": "https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf"
-    },
-    {
-      "added_at": "2023-06-28 17:03:59",
-      "album": {
         "name": "Dreams, Dreams, Dreams",
         "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 293970,
       "name": "Fly At Night (In The Morning We Land)",
       "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
+    },
+    {
+      "added_at": "2023-06-28 17:03:59",
+      "album": {
+        "name": "Furiosity",
+        "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
+      },
+      "artists": [
+        {
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+        }
+      ],
+      "duration_ms": 229945,
+      "name": "Sweet Mountain River",
+      "url": "https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf"
     },
     {
       "added_at": "2023-06-28 17:03:59",

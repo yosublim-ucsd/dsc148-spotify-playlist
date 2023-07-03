@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:2W8yFh0Ga6Yf3jiayVxwkE\u201d>Dove Cameron</a> ",
-  "num_followers": 40313,
+  "num_followers": 40327,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTdiYTdkNDBhYjJlMDUxNTkzNDZjYWEyMmMwMDVmODEyN2IxNmUy",
+  "snapshot_id": "MCxiNTYzMDE2YzE4M2NkYTg2MWVkOWY4NTFiN2E3YmZiYzgzODE1OWNh",
   "tracks": [
     {
       "added_at": "2023-06-07 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 100122,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
+      "added_at": "2023-06-07 04:00:00",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-06-07 04:00:00",
@@ -475,7 +475,7 @@
     {
       "added_at": "2023-06-07 04:00:00",
       "album": {
-        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
+        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
         "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
       },
       "artists": [
@@ -493,7 +493,7 @@
         }
       ],
       "duration_ms": 190902,
-      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
+      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 33339,
+  "num_followers": 33357,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjg1ZDc4NzdkOTFjNmMyZjc0M2QxNjBiMGYyYmFiNmFjMzFkOTgw",
+  "snapshot_id": "MCw2MmIyNTQxMDJkZjAxYWJjYzZiNWZlN2YzMzc1MDgxOWFiMGNiYzAw",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -715,22 +715,26 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+        "name": "The Boys Of Summer",
+        "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Geoff Duncan",
+          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
         }
       ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+      "duration_ms": 137142,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -755,26 +759,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "The Boys Of Summer",
-        "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
       "artists": [
         {
-          "name": "Lone Tusker",
-          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
         },
         {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "Geoff Duncan",
-          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 137142,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -855,6 +855,26 @@
       "duration_ms": 174193,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "ECH\u014cWALL",
-          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Feel Alive (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
       },
@@ -1231,22 +1211,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
       },
       "artists": [
         {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+          "name": "ECH\u014cWALL",
+          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
         }
       ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+      "duration_ms": 156375,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1271,6 +1251,46 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 161463,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Summer Stars",
         "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
       },
@@ -1283,22 +1303,6 @@
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1319,6 +1323,22 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1355,8 +1375,8 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
       },
       "artists": [
         {
@@ -1364,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
         }
       ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1447,22 +1467,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
         }
       ],
-      "duration_ms": 161463,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1483,38 +1499,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
     },
     {
       "added_at": "2023-06-29 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 134915,
+  "num_followers": 135245,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWE5M2QxYjA0NzhjZjRlMjcxNGFkNGIxMDk2Mjc4MzUwOTc5ZDVi",
+  "snapshot_id": "MCxkMTdkNTAzYzZkMWMyMzM5ZGJmZGEwOGYxYTlhMmMzMGI2MWNjOTIz",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Eyes (2020 Remaster)",
-        "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
-        }
-      ],
-      "duration_ms": 398733,
-      "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
-      "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Eyes (2020 Remaster)",
+        "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
+        }
+      ],
+      "duration_ms": 398733,
+      "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Future Disco: Visions of Love",
+        "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        },
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "duration_ms": 447775,
+      "name": "Italo Amore (Musumeci Edit)",
+      "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
       },
@@ -1235,26 +1259,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Future Disco: Visions of Love",
-        "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
       },
       "artists": [
         {
-          "name": "Lifelike",
-          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
-        },
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Musumeci",
-          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
         }
       ],
-      "duration_ms": 447775,
-      "name": "Italo Amore (Musumeci Edit)",
-      "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
-      },
-      "artists": [
-        {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
     },
     {
       "added_at": "2023-06-22 22:01:00",

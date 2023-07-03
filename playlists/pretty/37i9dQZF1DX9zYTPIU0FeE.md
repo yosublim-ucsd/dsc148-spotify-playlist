@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W?si=GP9jNBeSSn6r1Du3cc3Eww">Benjamin Jephta</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,721 likes - 51 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,733 likes - 51 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 50 | [Hold On](https://open.spotify.com/track/7l3IUci8Lmso5WNIUoF6Ml) | [Siya Makuzeni Sextet](https://open.spotify.com/artist/2G19JUF1zNF0IdKkQl8FEM) | [Out of This World](https://open.spotify.com/album/6ww7Y5vZUyaAcswPnpnMYe) | 11:47 |
 | 51 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 |
 
-Snapshot ID: `MCxhZWMzOGQ5ZjU5MDgwZGI5MzA4ZGNiNzMxOGI3MDVmYTMxMGMwODBh`
+Snapshot ID: `MCxiNDA4YzExOGE5ODMzYjRjOGQ0OWQzZjlhZGJiOTEyNmEyZjZjMDE4`

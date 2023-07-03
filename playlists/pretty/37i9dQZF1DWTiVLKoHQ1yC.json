@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 153761,
+  "num_followers": 153858,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODY3YjE1ZTE0MGQzYjFiNmQ4YTJjYTRmNTkyNDkwMDdhMGZhYTg2",
+  "snapshot_id": "MCxmMGNjMjFiN2VjMTgwYjM1ZjkxNjk5NmU3MzcyZmE3MDlkOGM4MWZi",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Aquatic",
+        "url": "https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 226229,
+      "name": "Aquatic",
+      "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 218000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Aquatic",
-        "url": "https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 226229,
-      "name": "Aquatic",
-      "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+        "name": "Was It The Wind That Stirred The Trees",
+        "url": "https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
         }
       ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+      "duration_ms": 228387,
+      "name": "Was It The Wind That Stirred The Trees",
+      "url": "https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -375,34 +375,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Was It The Wind That Stirred The Trees",
-        "url": "https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am"
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
       },
       "artists": [
         {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         }
       ],
-      "duration_ms": 228387,
-      "name": "Was It The Wind That Stirred The Trees",
-      "url": "https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -419,6 +403,22 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Alkantara",
-        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
-      },
-      "artists": [
-        {
-          "name": "Bottai",
-          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Alkantara",
-      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "My Stripes",
         "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Alkantara",
+        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
+      },
+      "artists": [
+        {
+          "name": "Bottai",
+          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Alkantara",
+      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 323302,
-      "name": "Selbst",
-      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "I Saw Good",
         "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 187500,
       "name": "I Saw Good",
       "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 323302,
+      "name": "Selbst",
+      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
     },
     {
       "added_at": "2022-11-25 16:56:36",

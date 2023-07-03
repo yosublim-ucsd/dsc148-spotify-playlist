@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -5926,7 +5926,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 200386,
       "name": "Super",
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
@@ -6514,6 +6514,24 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "album": {
@@ -8978,7 +8996,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 203221,
       "name": "\u5c31\u5fd8\u4e86\u5427",
       "url": "https://open.spotify.com/track/0DHk1BgLDEddRvZ4wy5s6a"
@@ -10192,6 +10210,24 @@
       "duration_ms": 244046,
       "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
       "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
+    },
+    {
+      "album": {
+        "name": "9522",
+        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235716,
+      "name": "\u6700\u597d\u7684\u6642\u5149",
+      "url": "https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo"
     },
     {
       "album": {

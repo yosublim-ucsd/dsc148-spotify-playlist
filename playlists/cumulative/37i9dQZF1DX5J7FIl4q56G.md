@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Amaranthe
 
-3,863 songs - 10 day 20 hr 45 min
+3,864 songs - 10 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,7 +893,8 @@
 | [Destiny Is Calling](https://open.spotify.com/track/2A7QH92lyXJS9hs1seLh9g) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Destiny Is Calling](https://open.spotify.com/album/2SpO7bwY4uJbQw0G5iiw7c) | 3:55 | 2023-02-24 | 2023-03-04 |
 | [Destroy All](https://open.spotify.com/track/5fvHAiHgoz4feao8IcrPIz) | [Entropy Zero](https://open.spotify.com/artist/5G4C2cJu2dxvgwDSh1FI3b) | [Destroy All](https://open.spotify.com/album/6SYXaYh246QX5ClKRkQPr9) | 2:22 | 2022-08-19 | 2022-08-27 |
 | [Destroy Us All](https://open.spotify.com/track/1trTYFVcCIy1jrVISOEKrp) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Destroy Us All](https://open.spotify.com/album/6IfPAtBr7R4RG5ZduMMImC) | 4:26 | 2022-07-22 | 2022-07-30 |
-| [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 | 2023-04-21 |  |
+| [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 | 2023-04-21 | 2023-07-03 |
+| [Destroyer](https://open.spotify.com/track/5QiwTyq3Ib6qWyuT63cW7e) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Stormbringers](https://open.spotify.com/album/575zNW5KWAnK5UBI0RH0lQ) | 4:30 | 2023-06-30 |  |
 | [Destroyer](https://open.spotify.com/track/7A72ibWcokpV3b4JueLoo7) | [Designer Disguise](https://open.spotify.com/artist/6CIDG937dHbankZzK4IlYu) | [Destroyer](https://open.spotify.com/album/1KDsvtmMuPPQYQsNfbL7VO) | 1:46 | 2022-08-12 | 2022-08-20 |
 | [Destruction Manual \- Single Edit](https://open.spotify.com/track/24kt556CrWVa5ksBQuYaUs) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Destruction Manual](https://open.spotify.com/album/3omOwJtgjxAQBfaJe2NP8c) | 2:51 | 2023-04-28 | 2023-05-06 |
 | [Determined To Rule](https://open.spotify.com/track/7xZmCA7BFugkY7kIqluKa6) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Determined To Rule](https://open.spotify.com/album/0vDJeTgxkGEW1KI7BEsaWw) | 3:17 | 2023-06-23 | 2023-07-01 |

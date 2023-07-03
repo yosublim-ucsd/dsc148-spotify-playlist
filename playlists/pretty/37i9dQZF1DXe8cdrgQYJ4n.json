@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 13487,
+  "num_followers": 13503,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDU5N2ViNzIzOGI0ZmE5YjU5OTEyMDQ1NTM3MzgwMTY1OGQ2OGQw",
+  "snapshot_id": "MCw3YzlmMjk3YzgyMWZiNzdjM2NlN2Y5YThiYzU3M2UyNjQ0ZWVhZWU2",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:36",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-06-13 08:58:36",
       "album": {
-        "name": "future island",
-        "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
-      },
-      "artists": [
-        {
-          "name": "kenessi",
-          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
-        },
-        {
-          "name": "2SO",
-          "url": "https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8"
-        }
-      ],
-      "duration_ms": 180987,
-      "name": "STUPID (feat. 2SO)",
-      "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
-    },
-    {
-      "added_at": "2023-06-13 08:58:36",
-      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 139093,
       "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
+    },
+    {
+      "added_at": "2023-06-13 08:58:36",
+      "album": {
+        "name": "future island",
+        "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
+      },
+      "artists": [
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        },
+        {
+          "name": "2SO",
+          "url": "https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8"
+        }
+      ],
+      "duration_ms": 180987,
+      "name": "STUPID (feat. 2SO)",
+      "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
     },
     {
       "added_at": "2023-06-13 08:58:36",

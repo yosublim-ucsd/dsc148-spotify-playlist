@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1369,
+  "num_followers": 1382,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk5OWJhZTg2ZWEzZWVjN2EzZDM4NWRhNTY1ODllOTRiM2NmNWQ2",
+  "snapshot_id": "MCw2Zjk0YjIyYmZhN2Q4ODI5YTk1MzlkNGI4MDIzNmYyMGU2NzIwNzM3",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+      },
+      "artists": [
+        {
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Tumeshinda",
         "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
-      },
-      "artists": [
-        {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
-        }
-      ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 283469,
       "name": "Yatupasa Kushukuru",
       "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+        }
+      ],
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
-      "album": {
-        "name": "Love Art Lust",
-        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
-      },
-      "artists": [
-        {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "SATISFIED",
@@ -753,20 +737,20 @@
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-06-02 00:01:00",
       "album": {
-        "name": "Yahwe Uhimidiwe",
-        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
       },
       "artists": [
         {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
         }
       ],
-      "duration_ms": 270968,
-      "name": "Uliniumba Nikuabudu",
-      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
+      "duration_ms": 160458,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -783,6 +767,22 @@
       "duration_ms": 229715,
       "name": "Kuna Sauti Yaita",
       "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Yahwe Uhimidiwe",
+        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza Muliri",
+          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Uliniumba Nikuabudu",
+      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -833,26 +833,6 @@
       "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "KELELE ZA USHINDI",
-        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
-      },
-      "artists": [
-        {
-          "name": "PAUL CLEMENT",
-          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
-        },
-        {
-          "name": "ZORAVO",
-          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
-        }
-      ],
-      "duration_ms": 221936,
-      "name": "KELELE ZA USHINDI",
-      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
-    },
-    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Praise Him",
@@ -871,6 +851,26 @@
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "KELELE ZA USHINDI",
+        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
+      },
+      "artists": [
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "ZORAVO",
+          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
+        }
+      ],
+      "duration_ms": 221936,
+      "name": "KELELE ZA USHINDI",
+      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
     },
     {
       "added_at": "2023-04-06 20:59:00",

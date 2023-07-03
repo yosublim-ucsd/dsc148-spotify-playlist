@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=p8zAWjqTRHiIp01hyVN\_TQ">Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,847 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,877 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 50 | [NO CARDIO](https://open.spotify.com/track/1qxr12k25ciFrYPKNf2Zt7) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK) | [NO CARDIO](https://open.spotify.com/album/7nxBXK21loevtxWZQeVDHr) | 2:18 |
 | 51 | [What We Lost](https://open.spotify.com/track/4LpU4wJa7CfnoXPLzMYZgz) | [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv), [Bonj](https://open.spotify.com/artist/69SzBlSnGFv8Fuz8JHBHfT) | [What We Lost](https://open.spotify.com/album/6rxlhCwC6jUk3wpoSXeH0i) | 3:44 |
 
-Snapshot ID: `MCw2NzMxZDZkM2JmMTM3MGNkYzk3OTMyY2FmNDNjYTI5MTBlZmIxMjkw`
+Snapshot ID: `MCwxYzIzYTljM2I2ODg4YTdhNDU3MTc4MzA1ZGMxNzgzZTViYjJhZjk0`

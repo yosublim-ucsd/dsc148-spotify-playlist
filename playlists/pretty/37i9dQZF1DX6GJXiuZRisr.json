@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1497193,
+  "num_followers": 1497572,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzQ1ZTRhNjJhZWUyMWM3OWM1MjQzZWY2MDEzODgzZGU1NzIyYjg0",
+  "snapshot_id": "MCwyNTNkOGQ4Nzg4MmY4NjhhMDQ5MzFiODdlNjVmODczNGRmZjQ5M2Y3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Cappadocia",
         "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 282063,
       "name": "Cappadocia",
       "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 198387,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 207360,
       "name": "I Want You - Edit",
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1339,26 +1339,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "It's Ours",
-        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 483779,
-      "name": "It's Ours",
-      "url": "https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy"
+      "duration_ms": 216393,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1383,22 +1379,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU"
+        "name": "It's Ours",
+        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
       },
       "artists": [
         {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         }
       ],
-      "duration_ms": 216393,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw"
+      "duration_ms": 483779,
+      "name": "It's Ours",
+      "url": "https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Zara (ALPHA 9 Remix)",
-        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "ALPHA 9",
-          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
-        }
-      ],
-      "duration_ms": 218507,
-      "name": "Zara - ALPHA 9 Remix",
-      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Time Keeper",
         "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 190354,
       "name": "Time Keeper",
       "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Zara (ALPHA 9 Remix)",
+        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Zara - ALPHA 9 Remix",
+      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 186666,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1771,6 +1767,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Metaphysical",
-        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 210725,
-      "name": "Radiation",
-      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Deep Space",
         "url": "https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F"
       },
@@ -1987,22 +1971,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
       },
       "artists": [
         {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+      "duration_ms": 210725,
+      "name": "Radiation",
+      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2023,6 +2003,26 @@
       "duration_ms": 247384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+      },
+      "artists": [
+        {
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2023-06-30 04:00:00",

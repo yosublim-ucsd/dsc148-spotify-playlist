@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Nill
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,670 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,669 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Pertence ao Crime](https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 2:45 |
 | 75 | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/track/2bnNGFhIubWO4PvEIlmSwC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/album/6Yck9pW5bltFmS87Trjv1u) | 4:36 |
 
-Snapshot ID: `MCw3OTVhNDcxYWM3NDM5OWFhZDBjNTIwYTFhYzI0M2UzZWNkNTA1ZmU2`
+Snapshot ID: `MCxhY2NiNDgwNWY1MjEwOWFlNjQwY2RlYmE1YTI5MTc4ZDk0OGVmM2Fl`

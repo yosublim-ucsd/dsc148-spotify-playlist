@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,706 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,730 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 23 | [Walk Away](https://open.spotify.com/track/1OUXLM84JFCDmliq4YGefC) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Walk Away](https://open.spotify.com/album/1HRBLYxSqYQGK2Z0LJOSXD) | 3:02 |
 | 24 | [Song of a Broken Heart](https://open.spotify.com/track/0zRjxy9NIytQwIP4jHZxEx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 4:01 |
 | 25 | [No Business](https://open.spotify.com/track/7bmDnmD3RiILoffwBo10mV) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 5:32 |
-| 26 | [FOREVER](https://open.spotify.com/track/6rAswyUJ2ckYCLDG1oPg1u) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [FOREVER](https://open.spotify.com/album/3VQ1BFX9dqOsr2zbiS0TQ3) | 2:36 |
-| 27 | [fast forward](https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [fast forward](https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs) | 2:07 |
+| 26 | [fast forward](https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [fast forward](https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs) | 2:07 |
+| 27 | [FOREVER](https://open.spotify.com/track/6rAswyUJ2ckYCLDG1oPg1u) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [FOREVER](https://open.spotify.com/album/3VQ1BFX9dqOsr2zbiS0TQ3) | 2:36 |
 | 28 | [I Will Follow](https://open.spotify.com/track/4EXGTpGRXFnvzM0DL6PFTj) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Little Songs](https://open.spotify.com/album/5n4kw77YDsDW8niS0MawJe) | 4:17 |
 | 29 | [Everything About You \(feat\. Marlee\)](https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Marlee](https://open.spotify.com/artist/4NrOT7BZU0GjwOyw2P0Vmb) | [Everything About You](https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX) | 3:27 |
 | 30 | [Movin' On \- Live](https://open.spotify.com/track/3XlnwrRvWSmK3mAygwhiaM) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 4:20 |
 | 31 | [Ain't The First Time](https://open.spotify.com/track/2kOfFQYXdYqave7rKo5hvh) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Ain't The First Time](https://open.spotify.com/album/0PNpJQdaCqnZaFVv0QvIsK) | 4:20 |
 | 32 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
-| 33 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
-| 34 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
-| 35 | [Brokenhearted \(with Marvin L\. Winans\)](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
+| 33 | [Brokenhearted \(with Marvin L\. Winans\)](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
+| 34 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
+| 35 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
 | 36 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
 | 37 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
 | 38 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 | 50 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 
-Snapshot ID: `MCw2NTNhNmUyY2NmYzVkODZiMWJmZDFhMDliMTZjYjlmNzZiYWQ0ZTU1`
+Snapshot ID: `MCxhMGU4ZDFkODJlYzQzZGQ3Nzk0YzdiYTkzNWQyOTg4ZTFlYjk5MWNm`

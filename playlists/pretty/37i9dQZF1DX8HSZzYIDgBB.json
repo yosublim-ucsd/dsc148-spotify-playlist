@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Foudeqush y Jesse Baez en portada.",
-  "num_followers": 32347,
+  "num_followers": 32368,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDkxMWQ0NGY5ZDk5MzYzNjZjMGU5ZTBhMmU1ZjBiNzViYTFkZDc2",
+  "snapshot_id": "MCw2MjEzMzE1YTQxZGExNGMzZmIzOTRmNzBmZjNkZThiYWZmMTcxOWMz",
   "tracks": [
     {
       "added_at": "2023-05-26 18:30:42",
@@ -265,20 +265,24 @@
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-06-01 16:51:17",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+        "name": "RAMA",
+        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+      "duration_ms": 307882,
+      "name": "Rama",
+      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -305,24 +309,20 @@
       "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
     },
     {
-      "added_at": "2023-06-01 16:51:17",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "RAMA",
-        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
       "artists": [
         {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 307882,
-      "name": "Rama",
-      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
+      "added_at": "2023-05-12 03:18:05",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Sue\u00f1o de Amapola",
+      "url": "https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Boleros Psicod\u00e9licos",
@@ -523,22 +539,6 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
-    },
-    {
-      "added_at": "2023-05-12 03:18:05",
-      "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Sue\u00f1o de Amapola",
-      "url": "https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ"
     },
     {
-      "added_at": "2023-06-02 01:07:56",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
       },
       "artists": [
         {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
         }
       ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
+      "duration_ms": 145746,
+      "name": "Oiseau Sauvage",
+      "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-06-02 01:07:56",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
       "artists": [
         {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
-      "duration_ms": 145746,
-      "name": "Oiseau Sauvage",
-      "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Mabanzo",
         "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Hoy Como Siempre",
-      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Sorpresa",
         "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 256947,
       "name": "Todo el D\u00eda en la Cama",
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Hoy Como Siempre",
+      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Manifest Tone EP",
+        "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 255435,
+      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
+      "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Manifest Tone EP",
-        "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
       },
       "artists": [
         {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
         }
       ],
-      "duration_ms": 255435,
-      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
-      "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1143,22 +1159,6 @@
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 191150,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Negro Santo",
         "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
       "added_at": "2023-05-05 23:46:53",

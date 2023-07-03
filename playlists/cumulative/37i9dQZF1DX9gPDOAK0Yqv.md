@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-273 songs - 1 day 0 hr 19 min
+274 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 |  |
 | [Frustration](https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w) | [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [X2](https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK) | 6:32 | 2022-11-23 | 2022-11-28 |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
-| [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 |  |
+| [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 | 2023-07-03 |
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 |  |
 | [Genie's Wish](https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Genie's Wish](https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C) | 6:07 | 2023-02-10 | 2023-02-18 |
 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 | 2023-05-12 |  |
@@ -136,6 +136,7 @@
 | [Let's Get It Right \- Innellea Remix](https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Let's Get It Right \(Innellea Remix\)](https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR) | 5:44 | 2023-04-07 | 2023-06-24 |
 | [Level One](https://open.spotify.com/track/3oCfybScespNWsvxK6l48B) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz) | 7:50 | 2023-04-21 |  |
 | [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-24 |  |
+| [Like An Old Dog \- Maceo Plex Remix](https://open.spotify.com/track/0QNSgg2CPslZbcvKmkFN0N) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Like An Old Dog \(Maceo Plex Remix\)](https://open.spotify.com/album/0eKC58ZvlGo6Xge3vAASYZ) | 6:30 | 2023-06-30 |  |
 | [Liquid Fantasy \- Edit](https://open.spotify.com/track/6fBTtzHK8itlE1mqgDTLmH) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 3:54 | 2023-02-04 | 2023-02-10 |
 | [Lithium](https://open.spotify.com/track/3JULDUED9hQQ94gXnuFl5p) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Amplify](https://open.spotify.com/album/2fnEK9AF3DqYemVCER91js) | 6:38 | 2023-04-07 | 2023-04-29 |
 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 | 2022-12-02 | 2023-05-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17364,
+  "num_followers": 17369,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2I4MTU4ZTYzZjYzY2U1ZDc5NjgzYjY2MGRiNDU4ODE4YjZlY2Fk",
+  "snapshot_id": "MCw0ZTFkZjY0NDYzNDY5MzE5YTVjZTY2ZDNhMGZhYTU4ODA4ZjM5MzEz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Glazin'",
-        "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
-      },
-      "artists": [
-        {
-          "name": "Jacuzzi Boys",
-          "url": "https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Glazin'",
-      "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 156773,
       "name": "Nerve Jamming",
       "url": "https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Glazin'",
+        "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
+      },
+      "artists": [
+        {
+          "name": "Jacuzzi Boys",
+          "url": "https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Glazin'",
+      "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
     },
     {
       "added_at": "2021-04-09 06:19:31",

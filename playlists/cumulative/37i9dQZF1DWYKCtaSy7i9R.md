@@ -4,7 +4,7 @@
 
 > Quiet spring mornings, wake up early with the birds\. <br/>Take a moment with nature for a positive start of your day.
 
-60 songs - 2 hr 27 min
+61 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,17 +20,18 @@
 | [Birds and Nest noise](https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4) | [Pájaros De La Mañana](https://open.spotify.com/artist/6O1qgGuqEKfKHjESGbyvxa) | [Birds and Nest Noise](https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY) | 2:15 | 2023-06-19 | 2023-06-29 |
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2022-10-28 |  |
 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 | 2022-10-28 | 2023-06-20 |
-| [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 |  |
+| [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 | 2023-07-03 |
 | [Black Birds in the park](https://open.spotify.com/track/2TcNxcpGr2EqwfA5lnb98y) | [Los Pájaros Cantores](https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA) | [Black Birds in the park](https://open.spotify.com/album/6KaD0DIs1XpXip1Aj29Xnr) | 2:29 | 2023-03-03 | 2023-06-30 |
 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 | 2022-10-28 |  |
 | [Blackbird Spring](https://open.spotify.com/track/3IWDjWLsyMVX7ntfUBHEH6) | [Aubrey Keiran](https://open.spotify.com/artist/1FZ6XLGVsDbgwOmlKBQUmJ) | [Blackbird Spring](https://open.spotify.com/album/6ihSrqduirhISrBX6lb6qo) | 2:05 | 2023-06-19 | 2023-06-22 |
 | [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-10-28 | 2023-06-20 |
-| [Calming River and Birds](https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:17 | 2023-06-19 |  |
+| [Calming River and Birds](https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:17 | 2023-06-19 | 2023-07-03 |
 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 | 2022-10-28 |  |
 | [Close to Nature](https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:19 | 2022-10-28 | 2023-06-20 |
 | [Crows In The Forest](https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Swedish Forest Birds](https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4) | 2:59 | 2023-03-03 | 2023-07-02 |
-| [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-06-19 | 2023-07-02 |
+| [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-06-19 |  |
 | [Early Bird Sound](https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Early Bird Sound](https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv) | 2:21 | 2022-10-28 | 2023-07-01 |
+| [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 | 2023-06-19 |  |
 | [Early Summer Birds](https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 2:10 | 2022-10-28 |  |
 | [Evening Twitter](https://open.spotify.com/track/56IQIsik0oPXERemlFafdu) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 2:52 | 2022-10-28 |  |
 | [Forest Bird](https://open.spotify.com/track/0GC8vCFKNHjC2myLf1o8v2) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 3:02 | 2022-10-28 |  |

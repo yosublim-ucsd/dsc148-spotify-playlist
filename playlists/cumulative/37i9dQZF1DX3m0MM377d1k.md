@@ -4,7 +4,7 @@
 
 > Music from "【OSHI NO KO】" /アニメ【推しの子】の楽曲を1つのプレイリストで。©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-118 songs - 4 hr 26 min
+119 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [YEARNING](https://open.spotify.com/track/3qZAhALfyVPayD1REznfOX) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:57 | 2023-06-27 |  |
 | [Yearning](https://open.spotify.com/track/5YZmxXfFeEcNUtHVb9TotI) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:57 | 2023-06-27 | 2023-06-29 |
 | [”True Friends” by Kengo Morimoto](https://open.spotify.com/track/0b671jYWev48cxHSg11iiv) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:26 | 2023-06-27 | 2023-06-29 |
-| [”TRUE FRIENDS” BY KENGO MORIMOTO \- W/O GT.SOLO](https://open.spotify.com/track/3bShTlzMJAA8YCrV385k9v) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:26 | 2023-06-27 |  |
+| [”TRUE FRIENDS” BY KENGO MORIMOTO](https://open.spotify.com/track/6ARUTkeFymA26Cbze9qMJu) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:26 | 2023-06-27 |  |
+| [”TRUE FRIENDS” BY KENGO MORIMOTO \- W/O GT.SOLO](https://open.spotify.com/track/3bShTlzMJAA8YCrV385k9v) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:26 | 2023-06-27 | 2023-07-03 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-06-27 |  |
 | [メフィスト](https://open.spotify.com/track/4kMnTtgP9nUlk5aPivK6pT) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/6Caa8HdL3LdWEbTmZEAIZ9) | 3:50 | 2023-06-27 |  |
 

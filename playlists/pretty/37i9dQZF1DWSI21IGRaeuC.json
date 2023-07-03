@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 21588,
+  "num_followers": 21631,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTIwNTI4ZTZkMmE5ODNiNmM5ZWVkM2E2MzJkZWIyZjhiNDhhYjdj",
+  "snapshot_id": "MCw2NGM3M2YyODdmZDhhNTIzYWVmZmM4NDBlOWQzMDk4MTkxYWUyMTQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 201172,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
-      },
-      "artists": [
-        {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
-        }
-      ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "NYWTF",
         "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 184761,
       "name": "NYWTF feat. Mikhail Beltran - Edit",
       "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "World Is Empty",
         "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "This Energy EP",
         "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198750,
       "name": "This Energy",
       "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Bueno",
-        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno",
-      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "No Bueno",
+        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 350125,
+      "name": "No Bueno",
+      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2023-06-30 04:00:00",

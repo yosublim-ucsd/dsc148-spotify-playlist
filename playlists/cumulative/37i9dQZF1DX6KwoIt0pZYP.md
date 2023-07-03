@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-606 songs - 1 day 9 hr 18 min
+607 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-26 | 2022-11-15 |
 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-08-26 |  |
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-01-28 | 2022-07-05 |
+| [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 | 2023-06-30 |  |
 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 | 2022-01-28 | 2023-01-13 |
 | [The Departure](https://open.spotify.com/track/6TN7BGFaqv62RReKpveqn0) | [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX) | [The Departure](https://open.spotify.com/album/6F58l5MmeXv2wNkFlEApp4) | 3:07 | 2023-03-02 | 2023-03-10 |
 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 | 2022-08-26 |  |
@@ -575,7 +576,7 @@
 | [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-01-28 | 2022-07-20 |
 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 | 2022-08-26 | 2022-09-03 |
 | [when you, were mine](https://open.spotify.com/track/2SNymnR8r90L9Ow5No9GSu) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [when you, were mine](https://open.spotify.com/album/4D9fNBLEPGhlMOc80DxUAC) | 3:37 | 2022-01-28 | 2022-07-26 |
-| [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2022-01-28 |  |
+| [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2022-01-28 | 2023-07-03 |
 | [White Lies \(feat\. Kvsh\)](https://open.spotify.com/track/6Y91iJavfXfioUk4uTtuC0) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [November](https://open.spotify.com/album/6HTCFrvyDgMFnFQPVtB6Hz) | 3:33 | 2022-03-29 | 2022-07-05 |
 | [Who Do You Love](https://open.spotify.com/track/0ZOPiQDN9XoSXUjcink66H) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4apvOjR5ybt6G5IlHBBGmA) | 4:33 | 2022-01-28 | 2022-04-21 |
 | [Who Is It](https://open.spotify.com/track/6rjEtr5eXC89xTntU4PLfo) | [Lady Owl](https://open.spotify.com/artist/2EYRLiZZ9961wOJ823Sl6b) | [Who Is It](https://open.spotify.com/album/1Txsqze4gWVZIbV6zopjkK) | 3:21 | 2023-01-06 | 2023-01-27 |

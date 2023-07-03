@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,565 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,572 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 17 | [Is It Me](https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E) | 4:16 |
 | 18 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
 | 19 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
-| 20 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
-| 21 | [Moving Still \- Reprise](https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [From The Ashes EP](https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856) | 2:18 |
+| 20 | [Moving Still \- Reprise](https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [From The Ashes EP](https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856) | 2:18 |
+| 21 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
 | 22 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 23 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
 | 24 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 28 | [Any Path to Touch the Stars](https://open.spotify.com/track/7M0LkuHgD4gxyJRq3vr7Ma) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [A Part of You in Everything](https://open.spotify.com/album/2dYQk5VDGP3ej703JnIaIp) | 5:52 |
 | 29 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 |
 | 30 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
-| 31 | [The Corner](https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Corner](https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi) | 3:40 |
-| 32 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
+| 31 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
+| 32 | [The Corner](https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Corner](https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi) | 3:40 |
 | 33 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
 | 34 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
 | 35 | [Change Your Mind](https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Change Your Mind](https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 |
 | 50 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 |
 
-Snapshot ID: `MCxmMjhhYzg5NWYzMzk3OGM3MWZlMmI1ZmZmZTc5N2YwMmFkYjE4MDJl`
+Snapshot ID: `MCxiNGE5ZDNkNDNhZWUyM2IyOWUxMzZkN2I1OTc5Yzc2NGVlMmQ4MDI3`

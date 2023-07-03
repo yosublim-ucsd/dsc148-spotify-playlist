@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Rodrigo \(pictured\), D\-Block Europe, Holly Humberstone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,301 likes - 145 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,340 likes - 145 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Have You Seen This Queen](https://open.spotify.com/track/0iYMXQSe4SsPqIcnM7hVYl) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd), [Roella Oloro](https://open.spotify.com/artist/3W4gAVUv2yhldRba1vE8Hu) | [Have You Seen This Queen](https://open.spotify.com/album/6l7P1b0pigacSs533pF5Zr) | 5:42 |
 | 145 | [Yellow Square](https://open.spotify.com/track/2AZJICwKB7MhdD6y99Mt8J) | [Elijah](https://open.spotify.com/artist/09ub5MJMcOlgG7WFbszSuf), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0), [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ) | [Make The Ting](https://open.spotify.com/album/1SLwF9yhLUHwsJDuG9Tmar) | 2:24 |
 
-Snapshot ID: `MCxkMDk5YTdhNjZhMjJhYTdlZmFkNDllNGIxMjI3MTMyNDFlYmQ2MWE3`
+Snapshot ID: `MCw0NDM1YjEwODkxZjBiYmViNmYyOTkzZjQ5OTU1OGE0YzY3YzNiZGZk`

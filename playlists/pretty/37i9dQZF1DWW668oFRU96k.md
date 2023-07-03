@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,512 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,520 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 64 | [I Know You Scared](https://open.spotify.com/track/4thTSB6i2Eokdm9C7FbeZg) | [Autodepth](https://open.spotify.com/artist/1UdV4KYu2FYUcEyuD1mbCz), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07) | [I Know You Scared](https://open.spotify.com/album/3KIZaxIak6jm8hqInbLemr) | 3:09 |
 | 65 | [Keeping Love \- Sola Fae Remix](https://open.spotify.com/track/5WS8LisAqu0oe1BYSEdv0u) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love \(Sola Fae Remix\)](https://open.spotify.com/album/6IpYlw9sPjon156HVs76kQ) | 2:50 |
 
-Snapshot ID: `MCxhODg2ZDhmMDRkNWEyYTkyYjVlYWM4MDVlOWRmODNlYWU2OTgxNDBl`
+Snapshot ID: `MCw2NzM4YjA1ZmE5YTFiOTkyZGJkMGQ5NjJmNTcyNjlhZjlkZjM3YTY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > RADAR is a Spotify program to promote exciting artists! RADAR BNLX: Siggy & D1ns \(cover\) Pommelien Thijs, MEAU, Zoë Tauran, Haunted Youth, DIKKE & Shermanology
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,499 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,530 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 39 | [The Things That You Are Not \(Part 1\)](https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Manic Pixie Dream Girl](https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n) | 2:52 |
 | 40 | [45 Fahrenheit Girl \- Acoustic](https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore Redux](https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re) | 2:23 |
 
-Snapshot ID: `MCwwYmVhZmIzNWQ0NWUwOGFkZGI0ZWJjMTkxZGQ5NDQyYmViZGUxZmU3`
+Snapshot ID: `MCwzYzlkZGYwOTYwNDc4NTMyMDc4NWFlZTZkZDRhNzc1MTJhODg0ZTI3`

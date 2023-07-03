@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,818 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,860 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 37 | [Le Secret](https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Le Secret](https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic) | 3:20 |
 | 38 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 |
 | 39 | [Chauffer le moteur](https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Chauffer le moteur](https://open.spotify.com/album/57EyQk4TpucFXj8yeMdCX3) | 2:47 |
-| 40 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 |
+| 40 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56I3J6X4mUPrF7bOrLoLSP) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 |
 
-Snapshot ID: `MCwyMGRlYzFjYTYwMTJiNmUzNjJmNjhkZjcxOTc3ODFlNzU4ZTBmOTE3`
+Snapshot ID: `MCwxYzkzNmU3Njc1YTFjOTRlOTlkZDc5ZDUzODBmODNjODI2OGZiMzZh`

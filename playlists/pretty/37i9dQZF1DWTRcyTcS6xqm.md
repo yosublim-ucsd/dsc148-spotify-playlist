@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,782 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,789 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 4 | [Riding With the King](https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:24 |
 | 5 | [Uptown to Harlem](https://open.spotify.com/track/7x4lvXYpRlmqpS5pWc2SJh) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Jellybean Johnson](https://open.spotify.com/artist/6nSWotZBWhRE2qQhbMzWTr) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 4:23 |
 | 6 | [Bad Woman Blues](https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena) | 3:35 |
-| 7 | [Back In A Cadillac](https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Can't Look Back](https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r) | 3:28 |
-| 8 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
+| 7 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
+| 8 | [Back In A Cadillac](https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Can't Look Back](https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r) | 3:28 |
 | 9 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
 | 10 | [Too Drunk To Drive Drunk](https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hellfire](https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA) | 3:56 |
 | 11 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 28 | [Get Your Groove On](https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 2:23 |
 | 29 | [Whatcha Gon' Do](https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 3:27 |
 | 30 | [Show Me](https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:59 |
-| 31 | [The Lucky Ones](https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 3:43 |
-| 32 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 |
+| 31 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 |
+| 32 | [The Lucky Ones](https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 3:43 |
 | 33 | [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 |
 | 34 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
 | 35 | [Palace Of The King \- Remastered](https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 | 50 | [She Got Some Money](https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [She Got Some Money](https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc) | 3:02 |
 
-Snapshot ID: `MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz`
+Snapshot ID: `MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2`

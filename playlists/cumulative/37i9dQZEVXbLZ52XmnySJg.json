@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
@@ -4438,6 +4438,24 @@
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
     },
     {
       "album": {
@@ -8398,7 +8416,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "Mann Mera",
       "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
@@ -11734,7 +11752,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 60000,
       "name": "Samandar Saraab",
       "url": "https://open.spotify.com/track/1NLzZjet3rY1fKVMtP3tTi"

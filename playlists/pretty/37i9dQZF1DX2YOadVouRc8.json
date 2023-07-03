@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 14026,
+  "num_followers": 14054,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTBjZDg2NzA2ZTU3YTkxMmQxMzQ5YjMxZTNkOWI1NjMyNThhNjhl",
+  "snapshot_id": "MCwyNjM1OTlkNTFiMmJhMjQ3ZTU5MWE5YWUzOWQ4MWRlNzhiOGM2ZDE3",
   "tracks": [
     {
       "added_at": "2023-06-30 07:43:50",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 180745,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
-    },
-    {
-      "added_at": "2023-06-30 07:43:50",
-      "album": {
         "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
         "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 180745,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
+    },
+    {
+      "added_at": "2023-06-30 07:43:50",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": "2023-06-30 07:43:50",
+      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2023-06-30 07:43:50",
-      "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": "2023-06-30 07:43:50",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 166271,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
+    },
+    {
+      "added_at": "2023-06-30 07:43:50",
+      "album": {
         "name": "Complete",
         "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
       },
@@ -1031,18 +1051,18 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
-        "name": "Don't Tell Anyone",
-        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+        "name": "Dues",
+        "url": "https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Sean Tizzle",
+          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
         }
       ],
-      "duration_ms": 177300,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+      "duration_ms": 196474,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O"
     },
     {
       "added_at": "2023-06-30 07:43:50",
@@ -1067,26 +1087,18 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
-        "name": "A Night In Cocody",
-        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
       },
       "artists": [
         {
-          "name": "Jeune Lio",
-          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 220264,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
     },
     {
       "added_at": "2023-06-30 07:43:50",
@@ -1115,38 +1127,26 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
         },
         {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 166271,
-      "name": "imagine",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
-    },
-    {
-      "added_at": "2023-06-30 07:43:50",
-      "album": {
-        "name": "Dues",
-        "url": "https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr"
-      },
-      "artists": [
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
         {
-          "name": "Sean Tizzle",
-          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
         }
       ],
-      "duration_ms": 196474,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O"
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
     },
     {
       "added_at": "2023-06-30 07:43:50",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
+        "name": "Mango Juice & Bad Decisions",
+        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        },
+        {
+          "name": "Andr\u0119 Wolff",
+          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "'00 Nostalgia",
+      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+    },
+    {
+      "added_at": "2023-06-30 07:43:50",
+      "album": {
         "name": "Jam One Kele",
         "url": "https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 149052,
       "name": "Jam One Kele",
       "url": "https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn"
-    },
-    {
-      "added_at": "2023-06-30 07:43:50",
-      "album": {
-        "name": "Mango Juice & Bad Decisions",
-        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
-      },
-      "artists": [
-        {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        },
-        {
-          "name": "Andr\u0119 Wolff",
-          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "'00 Nostalgia",
-      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
     },
     {
       "added_at": "2023-06-30 07:43:50",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
+        "name": "Beast Of Our Nation",
+        "url": "https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Tuzi",
+          "url": "https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ"
+        }
+      ],
+      "duration_ms": 198472,
+      "name": "Beast Of Our Nation",
+      "url": "https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH"
+    },
+    {
+      "added_at": "2023-06-30 07:43:50",
+      "album": {
         "name": "Many Man",
         "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
       },
@@ -1339,30 +1363,6 @@
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
-    },
-    {
-      "added_at": "2023-06-30 07:43:50",
-      "album": {
-        "name": "Beast Of Our Nation",
-        "url": "https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "Tuzi",
-          "url": "https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ"
-        }
-      ],
-      "duration_ms": 198472,
-      "name": "Beast Of Our Nation",
-      "url": "https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH"
     },
     {
       "added_at": "2023-06-30 07:43:50",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2023-06-30 07:43:50",
       "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+        "name": "Love Dimension",
+        "url": "https://open.spotify.com/album/5WwKRfcpYRBA8MSuLHoetx"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "MOONLIGHT AFRIQA",
+          "url": "https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF"
         }
       ],
-      "duration_ms": 228470,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
+      "duration_ms": 145871,
+      "name": "Love Dimension",
+      "url": "https://open.spotify.com/track/4UCwWL7cXSnRzQQzqnPZVN"
     }
   ],
   "unique_name": "Chill Bops",

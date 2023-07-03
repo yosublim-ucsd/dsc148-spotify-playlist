@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,471 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,537 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 40 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
 | 41 | [Cold, Cold Heart](https://open.spotify.com/track/7JKQQgFNw5RXiJBuLf7dXe) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 |
 | 42 | [Crying My Heart Out for You](https://open.spotify.com/track/1AkvPKQtV0IaHbMlw0cF8p) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:13 |
-| 43 | [I Hope She'll Be Happier with Him](https://open.spotify.com/track/4MWgDWsgpdHIOwIdLN9pNb) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hits & Rarities](https://open.spotify.com/album/6wZE4Eesz3b3wdrv9BRSKk) | 5:04 |
-| 44 | [Bad Luck](https://open.spotify.com/track/3OyEgS5Y0rdlnrapTke9sP) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 2:54 |
+| 43 | [Bad Luck](https://open.spotify.com/track/3OyEgS5Y0rdlnrapTke9sP) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 2:54 |
+| 44 | [I Hope She'll Be Happier with Him](https://open.spotify.com/track/4MWgDWsgpdHIOwIdLN9pNb) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hits & Rarities](https://open.spotify.com/album/6wZE4Eesz3b3wdrv9BRSKk) | 5:04 |
 | 45 | [Good Morning Heartache](https://open.spotify.com/track/0kXTWwLrFYtQeVXgPQzTiv) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady](https://open.spotify.com/album/7IR2bLGz2TpcpfVZXV8bRs) | 2:09 |
 | 46 | [Someone Else's Roses](https://open.spotify.com/track/0QAyWF4Sy1vTfW3eJEhVAx) | [Joan Regan](https://open.spotify.com/artist/6HviRceqvDGNfw8PXqQgc0) | [Smile!](https://open.spotify.com/album/1T2AnbgmSiq3ko8x4GdaGC) | 2:21 |
 | 47 | [Backwater Blues](https://open.spotify.com/track/26uFDxLujO2qtZQrpu7eTt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 3:02 |
 | 48 | [TODAY I SING THE BLUES](https://open.spotify.com/track/6xY3S5g4wqeyE1fItzNBPa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady \(International Version\)](https://open.spotify.com/album/5s2DFcjjTKMiL9HYHij0uH) | 3:20 |
 
-Snapshot ID: `MCwzNjYwYWZlOGM3MzAzNjk3Zjg1YThiNGI1ZTQzYWUxNDkwYmI1NTdi`
+Snapshot ID: `MCxjNWY2NzM3YmJmMGI3YjA5N2FiMWUzYzI0MDE1NTRiYTliMjcwMzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,453 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,405 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 14 | [Blanca Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Blanca Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH) | 2:39 |
 | 15 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
 | 16 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 |
-| 17 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:17 |
+| 17 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:17 |
 | 18 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 |
 | 19 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 |
 | 20 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 78 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 79 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MCw1MzMxMTE0NTBkNTlmYzA4MjI0YjNlMDE2MWY4NjdlMGM4NmQ3MGZl`
+Snapshot ID: `MCwwMzQwNTkxNTE2MThlYjgwZThhYmZjM2QzNmJjYWE2OWI4MmRiYzZh`

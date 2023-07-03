@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 55850,
+  "num_followers": 55879,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm",
+  "snapshot_id": "MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk",
   "tracks": [
     {
       "added_at": "2023-05-29 14:34:48",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Rancheras Populares 16 \u00c9xitos",
         "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
       },
@@ -223,18 +239,34 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
       "artists": [
         {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "La Nueva Cumbia del Pueblo",
+        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "El Aguacero",
+      "url": "https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -259,54 +291,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "La Nueva Cumbia del Pueblo",
-        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "El Aguacero",
-      "url": "https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
         "url": "https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 493347,
       "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
       "url": "https://open.spotify.com/track/3TnTaLEn3NxgjGGrxoMXZE"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Hecho y Derecho",
-        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+        "name": "De Fiesta Con los Braos",
+        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Con Quien Te Olvido",
-      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+      "duration_ms": 267335,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+        "name": "Hecho y Derecho",
+        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
       },
       "artists": [
         {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
         }
       ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+      "duration_ms": 208640,
+      "name": "Con Quien Te Olvido",
+      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -459,34 +459,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "De Fiesta Con los Braos",
-        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
         }
       ],
-      "duration_ms": 267335,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "En 3d y a Todo Color",
-        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
-      },
-      "artists": [
-        {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
-        }
-      ],
-      "duration_ms": 223085,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -523,22 +507,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Aliado del Tiempo",
-        "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "El R 15",
-      "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "En 3d y a Todo Color",
+        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
+      },
+      "artists": [
+        {
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+        }
+      ],
+      "duration_ms": 223085,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+        "name": "Aliado del Tiempo",
+        "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
       },
       "artists": [
         {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
         }
       ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+      "duration_ms": 186768,
+      "name": "El R 15",
+      "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -631,6 +615,22 @@
       "duration_ms": 391733,
       "name": "Te Amo y Te Amar\u00e9",
       "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 337535,
       "name": "Dime Qui\u00e9n Es",
       "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Rancheras Populares 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Negros",
-          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Te Lavaste la Cara y el Mono No",
-      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 494471,
       "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
       "url": "https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Rancheras Populares 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Negros",
+          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Te Lavaste la Cara y el Mono No",
+      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Ella, La Que No Quiso",
-        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 275676,
-      "name": "Ya Sup\u00e9rame",
-      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Cumbia y Sabor",
         "url": "https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+        "name": "Ella, La Que No Quiso",
+        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
       },
       "artists": [
         {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
         }
       ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
+      "duration_ms": 275676,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Ayer, Hoy y Siempre",
         "url": "https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 168973,
       "name": "El Lirio",
       "url": "https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1107,6 +1091,22 @@
       "duration_ms": 188156,
       "name": "Dame Tu Pelo Ni\u00f1a",
       "url": "https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Para Mi Gente Campesina",
-        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
-      },
-      "artists": [
-        {
-          "name": "Rel\u00e1mpagos de Chile",
-          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
-        }
-      ],
-      "duration_ms": 192776,
-      "name": "Vivo la Vida",
-      "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "La Diuca",
         "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 200248,
       "name": "La Diuca",
       "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Para Mi Gente Campesina",
+        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
+      },
+      "artists": [
+        {
+          "name": "Rel\u00e1mpagos de Chile",
+          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
+        }
+      ],
+      "duration_ms": 192776,
+      "name": "Vivo la Vida",
+      "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Siempre Arriba",
-        "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
-      },
-      "artists": [
-        {
-          "name": "Gran Sismo Tropikal",
-          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
-        }
-      ],
-      "duration_ms": 246230,
-      "name": "Con Que Derecho",
-      "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Palomita de Alas Blancas",
         "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+        "name": "Siempre Arriba",
+        "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
       },
       "artists": [
         {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+          "name": "Gran Sismo Tropikal",
+          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
         }
       ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+      "duration_ms": 246230,
+      "name": "Con Que Derecho",
+      "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1335,6 +1319,22 @@
       "duration_ms": 199527,
       "name": "Somos Infieles",
       "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Un Lobo Est\u00e1 Llorando",
-        "url": "https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos del Sur",
-          "url": "https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck"
-        }
-      ],
-      "duration_ms": 281986,
-      "name": "El Buque Con Mas Potencia",
-      "url": "https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Un Lobo Est\u00e1 Llorando",
+        "url": "https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos del Sur",
+          "url": "https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck"
+        }
+      ],
+      "duration_ms": 281986,
+      "name": "El Buque Con Mas Potencia",
+      "url": "https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "La Chupilca",
         "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
       },
       "artists": [
         {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
         }
       ],
-      "duration_ms": 194481,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 684016,
       "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
       "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
-      },
-      "artists": [
-        {
-          "name": "Los Halcones Negros",
-          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
-        }
-      ],
-      "duration_ms": 182317,
-      "name": "M\u00e1tame a Besos",
-      "url": "https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
+      },
+      "artists": [
+        {
+          "name": "Los Halcones Negros",
+          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
+        }
+      ],
+      "duration_ms": 182317,
+      "name": "M\u00e1tame a Besos",
+      "url": "https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Tarjetita de Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 224328,
-      "name": "Tarjetita de Invitacion",
-      "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Pisando Fuerte",
         "url": "https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 236000,
       "name": "La Paliza",
       "url": "https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Tarjetita de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 224328,
+      "name": "Tarjetita de Invitacion",
+      "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
     }
   ],
   "unique_name": "Ranchera Chilena",

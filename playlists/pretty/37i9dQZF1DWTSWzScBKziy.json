@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 88520,
+  "num_followers": 88558,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmNlZTE4NjUxODJmOGUxYWZkYTY4NTk2YjkwNGE5NzQ0MzlhNjJj",
+  "snapshot_id": "MCw2OWMzNWU5MGM4MDdlYmRlNDg5MWQ5NzY5ZjgzZGRjODZlOWJlYjZk",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I See Grace",
-        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 193865,
-      "name": "I See Grace",
-      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Running Home",
         "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 208801,
       "name": "Thank God For Sunday Morning",
       "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 201268,
       "name": "Arms of Jesus",
       "url": "https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 168096,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/6SnaZ0g8ysg1CgpNDKOgcf"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/3fHEMFGvaSfNzXFLboZQE2"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/6SnaZ0g8ysg1CgpNDKOgcf"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
       "artists": [
         {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 205080,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/3fHEMFGvaSfNzXFLboZQE2"
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1119,22 +1135,6 @@
       "duration_ms": 224573,
       "name": "Rest On Us - Single Version",
       "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 240357,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
       "artists": [
         {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 254099,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
         }
       ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
+        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
       },
       "artists": [
         {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+      "duration_ms": 206400,
+      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
+      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1395,6 +1395,38 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -1407,22 +1439,6 @@
       "duration_ms": 278001,
       "name": "Safe",
       "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
-        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
-      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
       "artists": [
         {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
         }
       ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1475,22 +1491,6 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 222693,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
       },
       "artists": [
         {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+      "duration_ms": 256600,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
     }
   ],
   "unique_name": "Sing A New Song",

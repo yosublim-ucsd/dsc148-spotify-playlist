@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,146 likes - 163 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,154 likes - 163 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 162 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 163 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCw1ODVhYjNkMmQxYjBiYzMwYWViODU2ZTNhNGNhMjFlYjQwMDBmNWE4`
+Snapshot ID: `MCxjMDVkM2FkYzliMDVlZDRiNTQxNGM4ZGNmNjZhZjc4MjI0M2YzZmFj`

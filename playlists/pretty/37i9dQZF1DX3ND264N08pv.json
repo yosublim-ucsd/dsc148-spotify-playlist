@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 48166,
+  "num_followers": 48220,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzlmZTBlNmZmNGIwNGQwMGQ5YzdjNGZkMGNhNzY2MmNhOTQyNjk0",
+  "snapshot_id": "MCwyNTQ1M2ZjZDlhZDJmOTIxMWM0ODFhZDBjZjZiYzc3MmJhNTcyYTNh",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
         "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 251368,
       "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
       "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "PartyRockerz",
+        "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+        }
+      ],
+      "duration_ms": 175151,
+      "name": "PartyRockerz",
+      "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
         "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 221368,
       "name": "Dope Sh!t",
       "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "PartyRockerz",
-        "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Elite Enemy",
-          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "PartyRockerz",
-      "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "The Ultimate Killing Machine",
         "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "HIT THA CLUB",
         "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166615,
       "name": "HIT THA CLUB",
       "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Somebody Scream",
-        "url": "https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 184461,
-      "name": "Somebody Scream",
-      "url": "https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Mythology of Hardcore (Official Masters of Hardcore Russia 2022 Anthem)",
         "url": "https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 295187,
       "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
       "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Somebody Scream",
+        "url": "https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 184461,
+      "name": "Somebody Scream",
+      "url": "https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1731,26 +1731,6 @@
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Gangsters Remixes",
-        "url": "https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "name": "Tears Of Fury",
-          "url": "https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Playing Terror - Tears of Fury Remix",
-      "url": "https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1811,6 +1791,26 @@
       "duration_ms": 168600,
       "name": "Ruthless For Life",
       "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Gangsters Remixes",
+        "url": "https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "name": "Tears Of Fury",
+          "url": "https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Playing Terror - Tears of Fury Remix",
+      "url": "https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht"
     },
     {
       "added_at": "2023-06-29 22:00:00",

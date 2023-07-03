@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,351 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,787 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 28 | [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 |
 | 29 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
 | 30 | [Maneater \- Reggae Version](https://open.spotify.com/track/1OiqnA0P1YOuiNPHPYhq6V) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Maneater \(Reggae Version\)](https://open.spotify.com/album/2yOQTfcph2iV1BLTPhnj51) | 5:23 |
-| 31 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
+| 31 | [Sunshine](https://open.spotify.com/track/5yzNWZVVkSTuxwG6qENxCi) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/6gaWh2FOUVD3BLKQ8CA6E2) | 4:22 |
 | 32 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
 | 33 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 |
 | 34 | [When She Loves](https://open.spotify.com/track/3D0l2V3pDLXoHV9Xmdoku1) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [When She Loves](https://open.spotify.com/album/2VtfSz5SWUFElw171LLCpC) | 3:52 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 65 | [Don't Start Now](https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP) | [Bristol Love](https://open.spotify.com/artist/25w54ChZ90U3nrnC4SNjfp), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Don't Start Now](https://open.spotify.com/album/6r55H42Pcw4fpChqvB5oZN) | 3:44 |
 | 66 | [Magic Potion \(feat\. Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 
-Snapshot ID: `MCxiNTY2NjZmNTE0MTNhZDBhODg0MDc1MDk2OWU0NTI1NGRlNmRhZThl`
+Snapshot ID: `MCxlMzZiMGZmZjI1MDBhYTg5NGI3YzA5MzY3M2FkYzAzNzY4OTY5OTE4`

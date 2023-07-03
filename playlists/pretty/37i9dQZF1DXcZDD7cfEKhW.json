@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Kylie Minogue",
-  "num_followers": 3413388,
+  "num_followers": 3413648,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTMyYTc5YzVhYzM1YWNlZTAzN2JjMmEzNDQ1ZjdmN2UzNWRkOTNi",
+  "snapshot_id": "MCxiYzkzMDA1YTRhNDY5ZWVhNGQ0ZGE3NzUyYWVhMmYwMTdkMzgxMTFh",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "By The End Of The Night (southstar Remix)",
-        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "By The End Of The Night - southstar Remix",
-      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 222800,
       "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "By The End Of The Night (southstar Remix)",
+        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "By The End Of The Night - southstar Remix",
+      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Eyes Closed (Lost Frequencies Remix)",
         "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 179529,
       "name": "Eyes Closed - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "golden hour (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "golden hour - R3HAB Remix",
-      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "My Head & My Heart (Claptone Remix)",
         "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 182450,
       "name": "My Head & My Heart - Claptone Remix",
       "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "golden hour (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "golden hour - R3HAB Remix",
+      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "mine (Ty Sunderland Remix)",
-        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Ty Sunderland",
-          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "mine (Ty Sunderland Remix)",
-      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 224908,
       "name": "My Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "mine (Ty Sunderland Remix)",
+        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Ty Sunderland",
+          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "mine (Ty Sunderland Remix)",
+      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Steal My Clothes",
         "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 205440,
       "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 215696,
-      "name": "Anti-Hero - Jayda G Remix",
-      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1603,22 +1603,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Million Dollar Baby (Nathan Dawe Remix)",
-        "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 185864,
-      "name": "Million Dollar Baby - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX"
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     }
   ],
   "unique_name": "Pop Remix",

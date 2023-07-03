@@ -1165,24 +1165,6 @@
     },
     {
       "album": {
-        "name": "parkjiyoon 20th anniversary photo&live album",
-        "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "date_added": "2021-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229862,
-      "name": "Precious Love - Live",
-      "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
-    },
-    {
-      "album": {
         "name": "Fine Killing Liberty : Blue Rain",
         "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
@@ -2258,6 +2240,24 @@
       "duration_ms": 262293,
       "name": "\uc120\uc0dd\ub2d8 \uc0ac\ub791\ud574\uc694",
       "url": "https://open.spotify.com/track/6EVwyBvdg5qGsgNzP957wu"
+    },
+    {
+      "album": {
+        "name": "parkjiyoon 20th anniversary photo&live album",
+        "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "date_added": "2021-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229862,
+      "name": "\uc18c\uc911\ud55c \uc0ac\ub791 - Live",
+      "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
     },
     {
       "album": {

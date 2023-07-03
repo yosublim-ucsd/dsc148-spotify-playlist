@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 756792,
+  "num_followers": 756944,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGEyOTQ5MzU5ZTBiYjM1ODBkMTY3Yjk1ZDdlMmMwOWYxN2ZkMjgy",
+  "snapshot_id": "MCxkNmU1YTQ4MDE0ODBjY2JhNzU1OTI4MThlZDM0MGVmOWZkN2E5Njkw",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 241979,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 231733,
       "name": "Waiting (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 241979,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Arrived Anxious, Left Bored",
         "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 212242,
       "name": "Chalk 1.3.3 [2017 Export Wav]",
       "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Pale Blue Dot",
-      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "I like u (ELIO Remix)",
+        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 152557,
+      "name": "I like u (ELIO Remix)",
+      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Need U (feat. Madishu)",
         "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
       },
@@ -899,30 +919,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
-        }
-      ],
-      "duration_ms": 226978,
-      "name": "Empty Room - Cabu Remix",
-      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -935,26 +931,6 @@
       "duration_ms": 279653,
       "name": "LULLABY",
       "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "I like u (ELIO Remix)",
-        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 152557,
-      "name": "I like u (ELIO Remix)",
-      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -991,6 +967,30 @@
       "duration_ms": 164506,
       "name": "SKY SKY 1.3 [2016 Export Wav]",
       "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Empty Room - Cabu Remix",
+      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        }
+      ],
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "AUTOPILOT",
         "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
       },
@@ -1143,26 +1163,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        }
-      ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
       },
@@ -1175,26 +1175,6 @@
       "duration_ms": 246315,
       "name": "I Love You.",
       "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "IDFLU",
-        "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "IDFLU",
-      "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1215,6 +1195,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "IDFLU",
+        "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "IDFLU",
+      "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 192729,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Snake Eyes",
         "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 113493,
       "name": "Torture Me (feat. Skrillex)",
       "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Electric Feel",
-        "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 192729,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
-      },
-      "artists": [
-        {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
-        }
-      ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "i know what i'm doing*",
         "url": "https://open.spotify.com/album/5mJMMs0ZPVEHgbj2S0EreT"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 200759,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/0UyMWzjPTnEaEEIkDtKKBW"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "sedatives",
         "url": "https://open.spotify.com/album/4GGM10hPG0dbjmbFbHfWaf"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 165217,
       "name": "sedatives",
       "url": "https://open.spotify.com/track/6XMBQ2Dk9oQoXBfoI53Sqt"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2215,50 +2215,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/4Q0s7rQh6BDtUnM8BfZYtV"
-      },
-      "artists": [
-        {
-          "name": "CAZZETTE",
-          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
-        },
-        {
-          "name": "The High",
-          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
-        },
-        {
-          "name": "KABL",
-          "url": "https://open.spotify.com/artist/2tvHo5GWaKHJxXrSxv34FB"
-        }
-      ],
-      "duration_ms": 164497,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/4a0X3DXvaoIUAL5BQ3gcDm"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI"
       },
@@ -2287,6 +2243,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Pillow Talk",
         "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
       },
@@ -2307,6 +2283,30 @@
       "duration_ms": 180000,
       "name": "Pillow Talk",
       "url": "https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/4Q0s7rQh6BDtUnM8BfZYtV"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        },
+        {
+          "name": "KABL",
+          "url": "https://open.spotify.com/artist/2tvHo5GWaKHJxXrSxv34FB"
+        }
+      ],
+      "duration_ms": 164497,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/4a0X3DXvaoIUAL5BQ3gcDm"
     },
     {
       "added_at": "2023-06-30 04:01:00",

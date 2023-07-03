@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 139610,
       "name": "Honest Decision",
       "url": "https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0"
@@ -2928,6 +2928,28 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "album": {
+        "name": "Loju (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Loju (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
     },
     {
       "album": {

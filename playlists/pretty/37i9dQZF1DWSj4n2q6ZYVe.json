@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 376675,
+  "num_followers": 377024,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
+  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Who Needs Guitars Anyway?",
         "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
       },
@@ -1291,26 +1307,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Gro\u00dfstadtm\u00e4rchen",
-        "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J"
-        }
-      ],
-      "duration_ms": 340560,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
       },
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+        "name": "Gro\u00dfstadtm\u00e4rchen",
+        "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
       },
       "artists": [
         {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J"
         }
       ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+      "duration_ms": 340560,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 223800,
       "name": "The Whistle Song",
       "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "The Stadium Techno Experience",
+        "url": "https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Weekend!",
+      "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 145764,
       "name": "Riverside - Radio Mix",
       "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "The Stadium Techno Experience",
-        "url": "https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Weekend!",
-      "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Vicious Delicious",
         "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 440266,
       "name": "Becoming Insane",
       "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Zoopreme Volume 01",
-        "url": "https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897"
-      },
-      "artists": [
-        {
-          "name": "Manian",
-          "url": "https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Welcome to the Club - Video Edit",
-      "url": "https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN"
     }
   ],
   "unique_name": "Dance Hits 2000s",

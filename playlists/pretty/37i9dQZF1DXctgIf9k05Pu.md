@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,569 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,640 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 17 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
 | 18 | [Running Away](https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR) | 1:51 |
 | 19 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
-| 20 | [Affection](https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY) | 1:57 |
-| 21 | [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 |
+| 20 | [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 |
+| 21 | [Affection](https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY) | 1:57 |
 | 22 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 |
 | 23 | [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 |
 | 24 | [i'm in love with u, sorry](https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [i'm in love with u, sorry](https://open.spotify.com/album/4bwwiOqoiN3PMKWjy4A8eD) | 1:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 49 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
 | 50 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 
-Snapshot ID: `MCw1NDc5NzEzZGVmNTM1ZmQ5OGQwNDMxODkyMDNjZDg5NGNiZDFhNmVj`
+Snapshot ID: `MCw0MjFhY2IxNTM4MjE3YmYyODkzYzlhMjIwZGM0YzVlNzcyY2IxNWQy`

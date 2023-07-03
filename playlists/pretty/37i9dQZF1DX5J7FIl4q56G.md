@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,498 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,747 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 19 | [Die as a King](https://open.spotify.com/track/62t6283mMLU6BYb5QFjI0r) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Die as a King](https://open.spotify.com/album/2oekcukwotYHNZzkpxOfuP) | 3:37 |
 | 20 | [Trial of Traitors](https://open.spotify.com/track/2tL69vfAaNm4LDYCuFnolw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [Trial of Traitors](https://open.spotify.com/album/4KErpSgSpftq3VNeC9qTL0) | 4:54 |
 | 21 | [Ritter Tod und Teufel \(Knightfall\)](https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv) | [Serenity](https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW) | [Ritter Tod und Teufel \(Knightfall\)](https://open.spotify.com/album/0vim1HOPOljUal09szUN1p) | 4:18 |
-| 22 | [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 |
+| 22 | [Destroyer](https://open.spotify.com/track/5QiwTyq3Ib6qWyuT63cW7e) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Stormbringers](https://open.spotify.com/album/575zNW5KWAnK5UBI0RH0lQ) | 4:30 |
 | 23 | [Blackout](https://open.spotify.com/track/5HcvyLVQgHszX7Fq11s2IW) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Blackout](https://open.spotify.com/album/4pSxHfOX1cOjhCLxpzFPJN) | 3:02 |
 | 24 | [Forever Soldiers Of Esther](https://open.spotify.com/track/6SYCJfd95tiL1xiCz3IFYf) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Forever Soldiers Of Esther](https://open.spotify.com/album/4BpIWBiCHnbDi8R9E11J84) | 2:31 |
 | 25 | [Scorpion](https://open.spotify.com/track/2JxlxDssmAHyRigZik38Fy) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Scorpion](https://open.spotify.com/album/1JxF9qHTv5atiG43b7xkYe) | 3:34 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Malignant Visions](https://open.spotify.com/track/6Tbsy7matHjDnOPz0lJxnk) | [Disguised Malignance](https://open.spotify.com/artist/0e5FD8Ns1BnTTOMEZk4Cvf) | [Malignant Visions](https://open.spotify.com/album/5a0BLnqAg66iQ7VNmfZl6q) | 4:43 |
 | 55 | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/track/4L9rjEyilWCD2U1NSYi0aR) | [AREIERA](https://open.spotify.com/artist/3jw3OCk2ruHi0dikIiFwR8), [Timo Tolkki](https://open.spotify.com/artist/7l18v4VkyEtRXHz9UzMo3r) | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/album/2k76mhH7O74uBmq8VlonyI) | 2:52 |
 
-Snapshot ID: `MCwzN2VhMjAxNDNjZjVlNjY0M2VhMmUwNjMzODZmYjg1ODU2MWZjODE2`
+Snapshot ID: `MCxjNzQ2MjYxMmFhMmJmNzI0Y2M1YmMzZDE3OWVkNWUwZmQ1MmE1NGRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,686 likes - 116 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,842 likes - 116 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 105 | [Hey Brother](https://open.spotify.com/track/6KjeFfePSDrlvsOb1aXqwy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid) | 3:41 |
 | 106 | [Dancing With Tears In My Eyes \- Bossa Nova Remix](https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0) | [Blended Colors](https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM) | [Dancing With Tears In My Eyes \(Bossa Nova Remix\)](https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a) | 3:36 |
 | 107 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf) | 3:35 |
-| 108 | [Wonderwall](https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 4:20 |
+| 108 | [Wonderwall](https://open.spotify.com/track/0iWxNXbC8UDuNHUjiLgR1t) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Brazilian Lounge Affair](https://open.spotify.com/album/7szBGyasdI77zIdb1BWN7G) | 4:20 |
 | 109 | [Stand By Me \(Bossa version\)](https://open.spotify.com/track/7C7qWqnoMSzm1Dqphcua78) | [Bruno Camurati](https://open.spotify.com/artist/5EfKwJn5Hq1F8hoZ8zXl0F) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 3:42 |
 | 110 | [Go Your Own Way](https://open.spotify.com/track/5UwOc7LbaoGEeemqLwSSTu) | [Nova Bossa Ltd.](https://open.spotify.com/artist/2jDHvU3y5xMaBc8u3O85nu), [Marvin](https://open.spotify.com/artist/1vS37gXPQ5Ne8eDbFzaMyF), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Go Your Own Way](https://open.spotify.com/album/0J44SaeuvNREQ6LDBFuFOa) | 2:47 |
 | 111 | [Summertime Sadness \(Bossa Nova Version\) \[Originally Performed By Lana Del Rey\]](https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 4:32 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 115 | [Goodbyes](https://open.spotify.com/track/7M1wP7mlIZwtKTEwBunSjw) | [Lo Cabana](https://open.spotify.com/artist/3zyCvzirdRdVPVUeawuuwC) | [Goodbyes](https://open.spotify.com/album/6clGJ2qeydc7HuUlVPU6b7) | 2:10 |
 | 116 | [Careless Whisper \(feat\. Stephenie Coker\)](https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:53 |
 
-Snapshot ID: `MCwwNzExNzgzMDMzZGVmNjY2NWNmM2E5NmQ3YzczNzhlY2E3Y2ZmN2Zl`
+Snapshot ID: `MCwyMjE3NmE3MmY4YWNhMDJhMmRkMWYxNWQyZTBiOWQ5ZmJiNTJhYjhm`

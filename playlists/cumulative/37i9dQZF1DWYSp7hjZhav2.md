@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-111 songs - 10 hr 45 min
+112 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-10-05 | 2023-02-16 |
 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 | 2022-10-05 |  |
 | [Madeleine](https://open.spotify.com/track/53ibRjjP5fWlD4yPp1OmKm) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Madeleine](https://open.spotify.com/album/3ONjtYzmF10Upmn4RshaG3) | 9:01 | 2022-10-05 |  |
-| [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2023-03-23 |  |
+| [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2023-03-23 | 2023-07-03 |
+| [Mind Control](https://open.spotify.com/track/4HSLPlVJBKKD0e6v3wrMNJ) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/7kcV8TW3tkiXJhlwJStE39) | 5:07 | 2023-06-08 |  |
 | [Monomono](https://open.spotify.com/track/2eS5Q1hbmRM3cNOSplrQuY) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Monomono](https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ) | 6:19 | 2022-10-05 |  |
 | [Morning After The Rave](https://open.spotify.com/track/6Y2o38HZkEr1VPuMMZSziX) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 8:41 | 2022-10-05 | 2023-02-16 |
 | [Moth To A Flame \(feat\. The Weeknd\) \- Adriatique Remix](https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame \(Adriatique Remix\)](https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC) | 6:29 | 2022-10-05 | 2023-02-16 |

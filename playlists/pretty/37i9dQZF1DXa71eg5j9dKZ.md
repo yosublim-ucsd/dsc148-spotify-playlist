@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,695 likes - 124 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,722 likes - 124 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 123 | [Reflections ft\. KiLLOWEN](https://open.spotify.com/track/0LtCpSLGkeHALMIIrbgAWs) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Reflections ft\. KiLLOWEN](https://open.spotify.com/album/565HXPzi2uPRVjcwHpFOBA) | 3:11 |
 | 124 | [Both](https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Both](https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY) | 2:53 |
 
-Snapshot ID: `MCw1MTE0ODRjMjg4NDJjMWU2OWY1NjRlNTFjMGJlMzg4MGZhYTU0OTI0`
+Snapshot ID: `MCxlNjQzNGRiZWRiZWQwMGEzNTA3MzE0YjA3YjNhZGRlMjY5N2U5NTNh`

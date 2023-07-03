@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 172546,
       "name": "El Toro Viejo - Huapango",
       "url": "https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8"
@@ -1246,10 +1246,36 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-03",
       "duration_ms": 219000,
       "name": "La Mam\u00e1 de la Mam\u00e1",
       "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+    },
+    {
+      "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
     },
     {
       "album": {
@@ -1402,7 +1428,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 158786,
       "name": "Las Mulas De Moreno",
       "url": "https://open.spotify.com/track/6E8hIsnaOcyzWScHmA27v2"

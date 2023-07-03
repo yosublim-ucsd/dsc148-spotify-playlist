@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 2 | [Melon \(feat\. Kap G, Sauce Walka & Bo Bundy\)](https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Melon \(feat\. Kap G, Sauce Walka & Bo Bundy\)](https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI) | 4:06 |
 | 3 | [Mi Barrio](https://open.spotify.com/track/3kfQEcsyEEYgQtXrXwkjZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:41 |
 | 4 | [Bofo](https://open.spotify.com/track/1w8E3O3yhbPGPBbVZf6TZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 2:44 |
-| 5 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
-| 6 | [Sola Y Triste](https://open.spotify.com/track/7B3dffBBy8YqJnWITEKOu4) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [El Terricola](https://open.spotify.com/artist/0TejuLSXdykDokkruhM9aF) | [Sola Y Triste](https://open.spotify.com/album/0ODvHoyygM4uAzueYPyFxb) | 4:22 |
+| 5 | [Sola Y Triste](https://open.spotify.com/track/7B3dffBBy8YqJnWITEKOu4) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [El Terricola](https://open.spotify.com/artist/0TejuLSXdykDokkruhM9aF) | [Sola Y Triste](https://open.spotify.com/album/0ODvHoyygM4uAzueYPyFxb) | 4:22 |
+| 6 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
 | 7 | [Colorados](https://open.spotify.com/track/0DBmi0hlNhVsU76vcxo1sh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:59 |
 | 8 | [Cleto's Cumbia](https://open.spotify.com/track/6FV2yWirHKhStM39YqTUZ6) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:43 |
 | 9 | [Uno Cuhh](https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Uno Cuhh](https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE) | 2:34 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 41 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
 | 42 | [Money Manziel](https://open.spotify.com/track/4ZlgEjgVTgnOgCC7uEI9XR) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Glock Simmons](https://open.spotify.com/artist/3HcXn8TlSRaOcRCtGNvCzL) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:51 |
 | 43 | [Beamer](https://open.spotify.com/track/3OL0bIhbnzpPgQlR8BWfRg) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Beamer](https://open.spotify.com/album/6Rs7o9wq4jXCnCJuwfo0Ce) | 1:57 |
-| 44 | [Slumped Freestyle](https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 4:16 |
-| 45 | [LA Nights](https://open.spotify.com/track/1eemI5NsZTYe5vkIDOlKR6) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:12 |
+| 44 | [LA Nights](https://open.spotify.com/track/1eemI5NsZTYe5vkIDOlKR6) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:12 |
+| 45 | [Slumped Freestyle](https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 4:16 |
 | 46 | [Iced Up](https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Trill Wavy](https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:28 |
 
-Snapshot ID: `MjgxMzY4ODIsMDAwMDAwMDAwMDU4NmY0NGZkNGEwYjFiMzE1NGVjZTExMWVlODBjMA==`
+Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDA5OTM3YjBkMGRiODNlNjA4NDVmYzgwODQ4NjUwZGI5Yw==`

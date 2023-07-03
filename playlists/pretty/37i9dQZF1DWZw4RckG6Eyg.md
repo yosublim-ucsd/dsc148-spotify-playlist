@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,954 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,953 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 7 | [si quieres](https://open.spotify.com/track/5nje4NlDYSGrRUp21tJj0q) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [CARIÑO](https://open.spotify.com/album/5MnbcBWYFBHXjXetorCMmd) | 2:46 |
 | 8 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 | 9 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
-| 10 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
-| 11 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 |
+| 10 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 |
+| 11 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 12 | [Love You By Myself](https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Love You By Myself](https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj) | 3:01 |
 | 13 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 |
 | 14 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 50 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
 | 51 | [Busy](https://open.spotify.com/track/1MotJM9gUDBLEPXn84V1U0) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Acting Funny](https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk) | 2:46 |
 | 52 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
-| 53 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
-| 54 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 |
+| 53 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 |
+| 54 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
 | 55 | [Se Eu Acordar](https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5) | [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Se Eu Acordar](https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2) | 2:30 |
 | 56 | [Strawberry](https://open.spotify.com/track/6y5kt39E6zh272WSGReg3p) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Seashell Cassette](https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL) | 2:42 |
 | 57 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 64 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 |
 | 65 | [strange love](https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m) | [byelian](https://open.spotify.com/artist/7ow8DBsuPdfjt83fdeDRzn) | [strange love](https://open.spotify.com/album/58rxRlN5yLTcZVSoBKYhlJ) | 3:44 |
 | 66 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
-| 67 | [Sugar Rush](https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag) | [lowe](https://open.spotify.com/artist/0ASFVsyFHBICfm61Gb4KLU), [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Sugar Rush](https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr) | 2:46 |
-| 68 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
+| 67 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
+| 68 | [Sugar Rush](https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag) | [lowe](https://open.spotify.com/artist/0ASFVsyFHBICfm61Gb4KLU), [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Sugar Rush](https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr) | 2:46 |
 | 69 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly Aziz](https://open.spotify.com/artist/4c7j9jUzYSNDKdNBb0W2P1), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 |
 | 70 | [Calendar](https://open.spotify.com/track/0MlK6FlikM8jgArfXluhSG) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [Our Precious Things Never Change](https://open.spotify.com/album/1fl87hYmIRPN63Llaw0u4l) | 4:09 |
 | 71 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 
-Snapshot ID: `MCxmMjUwMTMyZTJhZDI2YWM1ZTgxNTRiZGNjNWY0YTUxOWM3NWU0MGYx`
+Snapshot ID: `MCw3NTZhMmQyY2JmMGNjNDYwMDk3Njk0M2E4Nzc0N2M0NjEwNDA3ZjQ4`
