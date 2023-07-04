@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6260\)
+## Playlists \(6261\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -318,6 +318,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [ABAT∑RA](/playlists/pretty/37i9dQZF1DWYtEjm4ihp5w.md)
 - [ACM Awards 2023](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md)
 - [AGLF Playlist](/playlists/pretty/3g2x83PnE4udquzQctBOSF.md)
+- [ALL THINGS HOUSE \- CURBI PRESENTS](/playlists/pretty/3trfBa7jeme9hRFIwOhAMM.md)
 - [ALT NOW](/playlists/pretty/37i9dQZF1DWVqJMsgEN0F4.md)
 - [ALTER\-native](/playlists/pretty/37i9dQZF1DWVx80ckNwI92.md)
 - [ALT\_QC](/playlists/pretty/37i9dQZF1DX03FBMYrWi0n.md)
