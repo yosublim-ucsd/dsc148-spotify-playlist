@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8533,
+  "num_followers": 8529,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY0MjlkYjc4ZTQ1ZjdhMTA4OTg0ZmRiMDc4NjU1Mzc4Yjk2OWQ3",
+  "snapshot_id": "MCxhNzY2N2UyODk5YTc3ZmUyZmQxMTJmMjYxNTFhMDNjNTVlNGY5MjNk",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Tweety",
         "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/4tcu6pnwN5mTJJZVAE2Tlb"
-      },
-      "artists": [
-        {
-          "name": "Vardaan Arora",
-          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/2pk0oogNirjDQeOlp41seB"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "whatever u like",
         "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 200877,
       "name": "whatever u like",
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/4tcu6pnwN5mTJJZVAE2Tlb"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/2pk0oogNirjDQeOlp41seB"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Stay Proud of Me",
         "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 230000,
       "name": "Boys Aside",
       "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -439,38 +439,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
-      },
-      "artists": [
-        {
-          "name": "Holland",
-          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "NEVERLAND",
-      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Man Who Loves You",
-      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "good juju : vol. 1",
         "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+      },
+      "artists": [
+        {
+          "name": "Holland",
+          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "NEVERLAND",
+      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -547,6 +531,22 @@
       "duration_ms": 174295,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Man Who Loves You",
+      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Goals_",
+        "url": "https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a"
+      },
+      "artists": [
+        {
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Goals_",
+      "url": "https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 221820,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Goals_",
-        "url": "https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a"
-      },
-      "artists": [
-        {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Goals_",
-      "url": "https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND"
     },
     {
       "added_at": "2023-06-30 23:59:00",

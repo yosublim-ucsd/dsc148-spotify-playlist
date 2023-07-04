@@ -4,14 +4,14 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-292 songs - 17 hr 22 min
+294 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 | 2022-06-06 |  |
 | [123我愛你](https://open.spotify.com/track/3G6xzaTG4H5q1hF0O29Pcr) | [新樂塵符\-賀子玲](https://open.spotify.com/artist/1no9ABTWrrjgqPVRadC6XA) | [123我愛你](https://open.spotify.com/album/0YU1etKEY5LnAOGByT1MsQ) | 3:19 | 2022-06-20 | 2022-07-10 |
 | [123我爱你](https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u) | [新乐尘符](https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA) | [123我爱你](https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo) | 3:19 | 2022-07-25 |  |
-| [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 | 2022-06-06 |  |
+| [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 | 2022-06-06 | 2023-07-04 |
 | [Always Be with You\(電視劇《戀愛是科學》片頭曲\)](https://open.spotify.com/track/4ehqDwPzXQDkQqtGWR8vkD) | [王欣晨 Amanda](https://open.spotify.com/artist/4tAhv18fKUC8QOWNiWS5eJ) | [每天都是紀念日](https://open.spotify.com/album/4Gaah0qAyq762OOS1qfG1H) | 3:47 | 2022-06-13 | 2022-07-25 |
 | [ANYTHING YOU WANT](https://open.spotify.com/track/0ZmrEs9PVo8Ouks4DCeknO) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [ANYTHING YOU WANT](https://open.spotify.com/album/10jiV0i5TjmINUU5jIRIZn) | 3:17 | 2022-06-06 | 2022-07-25 |
 | [ANYTHING YOU WANT \- Duet Version](https://open.spotify.com/track/4QpK3n9kidFcEHU4rBfLoi) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW), [吳宇恆](https://open.spotify.com/artist/45bOOG6ExnhMFBjKLZNZ2M) | [ANYTHING YOU WANT \(Duet Version\)](https://open.spotify.com/album/0AWl8bgcO3k3uuT8kiOiXr) | 3:17 | 2022-06-13 | 2022-07-21 |
@@ -98,6 +98,7 @@
 | [倒數說愛你 \(電影《倒數說愛你》片尾曲\)](https://open.spotify.com/track/1SbuoSf7JTCAb6oqJoRbe9) | [艾熱AIR](https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0), [王以太](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [倒數說愛你 \(電影《倒數說愛你》片尾曲\)](https://open.spotify.com/album/2txX52Nr3UCpYrs7UtPxr0) | 3:36 | 2023-05-01 |  |
 | [借我一輩子](https://open.spotify.com/track/5VyoSXa2XCEWzD445lxDVL) | [O.J](https://open.spotify.com/artist/4xxiCcnghNjM9G8Ust7Wqx) | [完美的一刻](https://open.spotify.com/album/2JJFAj0E3MAaUuPwdfpUzh) | 3:55 | 2022-06-13 | 2022-07-04 |
 | [做我的Baby](https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x) | [吉娜](https://open.spotify.com/artist/37aJa5RefuVWG1pzIIlrT0), [娜娜](https://open.spotify.com/artist/7q7sSta579PAYXxIBXjU89) | [做我的Baby](https://open.spotify.com/album/4m6VzZgyiPpZiGoxzrdQR8) | 3:06 | 2023-04-17 | 2023-05-14 |
+| [偷偷喜歡你](https://open.spotify.com/track/15zmD6lAuAXhT3OsehC8PP) | [王宇彤](https://open.spotify.com/artist/2k3lWdz2zL38YgXlxY3GJO) | [偷偷喜歡你](https://open.spotify.com/album/15yMOiTpsvhzObXjrOIh8V) | 3:13 | 2023-07-03 |  |
 | [傻瓜](https://open.spotify.com/track/2lQNNJ3KsiIGaLAF7hYNzn) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [我可以](https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD) | 4:05 | 2022-07-11 | 2022-07-19 |
 | [像極了愛情](https://open.spotify.com/track/5pUZgW1mHL2BDO7alkxmJM) | [ZouHaoHao](https://open.spotify.com/artist/1nTcm5zOf9aYf7jYmmJStI) | [像極了愛情](https://open.spotify.com/album/4Tbw7aEOvvTyESuHvcwOKK) | 3:23 | 2022-06-06 | 2022-07-21 |
 | [兩人世界](https://open.spotify.com/track/57OQCjeVopFXR8hQhCu6lM) | [Huang Yali](https://open.spotify.com/artist/5nLnIboxUroy6N5HBGRTMe) | [黄雅莉的奇幻秀](https://open.spotify.com/album/0xqBcDVlh3ZLrjgmwDTh8U) | 3:41 | 2022-06-27 | 2022-07-05 |
@@ -203,6 +204,7 @@
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 | 2023-06-13 |
 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 | 2023-06-16 |
+| [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 | 2023-07-03 |  |
 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2022-07-25 |  |
 | [星晴](https://open.spotify.com/track/5oZh0gPKEioN2la70JsKHR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/6r6z1ChrXORrklFyEdRfNs) | 4:16 | 2022-06-06 | 2022-07-28 |
 | [是你啊](https://open.spotify.com/track/4Qu4L6TmIJoFzumjxp3lGw) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa) | [不枉年少](https://open.spotify.com/album/2WuKpPZ2qoabkAeyCU6Y9e) | 3:55 | 2022-06-13 | 2022-07-18 |
@@ -298,7 +300,7 @@
 | [靠近](https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu) | [一口甜](https://open.spotify.com/artist/3xyeMXp6JQR1J2tZKk0HIL), [二辰](https://open.spotify.com/artist/0aDQTS1mVAknIdfq1iYqaQ) | [靠近](https://open.spotify.com/album/0BoJn9SgzgcNQ93kGrov1J) | 2:58 | 2022-06-13 | 2022-06-17 |
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
-| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 |  |
+| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-07-04 |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

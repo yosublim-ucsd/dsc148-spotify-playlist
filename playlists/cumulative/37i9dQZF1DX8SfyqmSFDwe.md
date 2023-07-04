@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-271 songs - 16 hr 24 min
+272 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2021-12-09 |  |
 | [Caile](https://open.spotify.com/track/0vIx1UujIOIF512NlNDm5k) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Hits](https://open.spotify.com/album/5nFM7HjmcxHy3YdOAp3WG8) | 3:11 | 2022-04-07 | 2022-04-21 |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2021-12-09 | 2022-09-16 |
+| [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 | 2023-06-21 |  |
 | [Chica Ven Pa' Aca](https://open.spotify.com/track/5mmh6YyxJeS34vAe4M447R) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Los Matadores del Genero](https://open.spotify.com/album/5csCMnX1VNrZmzz1saqakQ) | 3:24 | 2021-12-09 | 2022-06-18 |
 | [Chica Ven Pa' Ca](https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Los Matadores del Genero](https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1) | 3:24 | 2022-07-01 | 2023-05-09 |
 | [Chica Virtual \(feat\. Arcangel\)](https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow la Discoteka 2](https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D) | 4:24 | 2021-12-09 | 2022-07-26 |
@@ -240,7 +241,7 @@
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w) | 3:29 | 2021-12-09 | 2022-07-29 |
 | [Taladro](https://open.spotify.com/track/78pULXTrLm6bkWxRqYMlkx) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:25 | 2022-04-05 | 2022-04-19 |
 | [Te Hago El Amor](https://open.spotify.com/track/09UY4wGNvk50nNZFOHRUfT) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [El Que Habla Con Las Manos](https://open.spotify.com/album/2IUhifuVuyLJhiUnkeDrrA) | 3:04 | 2022-04-05 | 2022-04-21 |
-| [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 | 2022-07-01 |  |
+| [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 | 2022-07-01 | 2023-07-04 |
 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/1NrKLroOjLcSXtlq8twPrc) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 4:14 | 2021-12-09 | 2022-07-29 |
 | [Te Iré a Buscar](https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/5juo8FAhKpHZrXkKnKe5BQ) | 3:03 | 2021-12-09 | 2022-07-24 |
 | [Te Iré a Buscar](https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:03 | 2022-10-25 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 30838,
+  "num_followers": 30908,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzRiYWE5MjEzODk0OGI2NzI2ZWYwZjExNDk0Njc5OTkyYzhiZmQz",
+  "snapshot_id": "MCwwNDQzNjQ2ZjBiM2UyYmVjMjViNzI2YTJiNzgzNWMyYmNjZWM1NWM1",
   "tracks": [
     {
       "added_at": "2023-06-30 15:22:50",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 405293,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
         "name": "What Color Is Love",
         "url": "https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 439240,
       "name": "You Goin' Miss Your Candyman",
       "url": "https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
         "name": "Raiding the Vaults",
         "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 237979,
       "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
       "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
+        "name": "Scented Trip",
+        "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "duration_ms": 380149,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 153231,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
-        "name": "Scented Trip",
-        "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
-      },
-      "artists": [
-        {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        }
-      ],
-      "duration_ms": 380149,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "Raw Cuts #3",
-        "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
-      },
-      "artists": [
-        {
-          "name": "Danilo Plessow",
-          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
-        },
-        {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
-        }
-      ],
-      "duration_ms": 414359,
-      "name": "Raw Cuts #3",
-      "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
         "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
         "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 477881,
       "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
       "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
+        "name": "Raw Cuts #3",
+        "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
+      },
+      "artists": [
+        {
+          "name": "Danilo Plessow",
+          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
+        },
+        {
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
+        }
+      ],
+      "duration_ms": 414359,
+      "name": "Raw Cuts #3",
+      "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "Posh (Remastered)",
-        "url": "https://open.spotify.com/album/45wverkThQijw67ZCPxuBP"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
         }
       ],
-      "duration_ms": 222933,
-      "name": "Look Up! - Remastered",
-      "url": "https://open.spotify.com/track/40FbUofNkwKnp74R0ohIZS"
+      "duration_ms": 231213,
+      "name": "Rap-O Clap-O - 2013 - Remaster",
+      "url": "https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q"
     }
   ],
   "unique_name": "Rooftop Sunset",

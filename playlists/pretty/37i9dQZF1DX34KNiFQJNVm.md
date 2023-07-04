@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Alok e Ava Max, Luan Pereira e Gustavo Mioto, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,276 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,398 likes - 96 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 3 | [MOLETOM](https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [MOLETOM](https://open.spotify.com/album/4As9gJpoGbUD1ZYQx9qyqK) | 3:27 |
 | 4 | [Não Apaixona Não](https://open.spotify.com/track/6JdP2Jv1ceiO9InW8H85ZB) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Não Apaixona Não](https://open.spotify.com/album/2qlqndmc969H4x0IaQUR9a) | 2:21 |
 | 5 | [Beija Eu Sem Amor \- Ao Vivo](https://open.spotify.com/track/3lCSd3WrJ3k0Cb2kkEceqw) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Beija Eu Sem Amor \(Ao Vivo\)](https://open.spotify.com/album/6ADnc0uEycoES7GkZLltVh) | 2:44 |
-| 6 | [Sarradinha](https://open.spotify.com/track/08tzA2Jt2HJ2y9av7LaAKd) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4) | [Sarradinha](https://open.spotify.com/album/0kB2irfxZQQEtWLZD4nPNG) | 3:04 |
+| 6 | [Sarradinha](https://open.spotify.com/track/08tzA2Jt2HJ2y9av7LaAKd) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Yuri Hawaiano](https://open.spotify.com/artist/2AJ4aGu5kFvxv7JwaVSPxW) | [Sarradinha](https://open.spotify.com/album/0kB2irfxZQQEtWLZD4nPNG) | 3:04 |
 | 7 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
 | 8 | [2H NA CAMA](https://open.spotify.com/track/1QEkVHaFwSFpwkm003tB9J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [O Poeta](https://open.spotify.com/artist/44joZFurg31HS9vvv64WpU), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [2H NA CAMA](https://open.spotify.com/album/26qtn0KjcgqWqyDwN2irPd) | 2:32 |
 | 9 | [Determinado](https://open.spotify.com/track/16kBGOawtRhGEuWxwaIUb6) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [Determinado](https://open.spotify.com/album/5M1bEiMWBB7qufR8wSgufR) | 2:22 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Pega e Se Cuida Bem](https://open.spotify.com/track/3vr8xF18gaIHQDzPVUGnfT) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at) | [Pega e Se Cuida Bem](https://open.spotify.com/album/2ZLMf6TRIDiVaYn6XS9CqV) | 2:16 |
 | 96 | [A Sorte](https://open.spotify.com/track/7mOXmp877CyqDwm5Hd3AMQ) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2) | [Rua Mundo Novo](https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ) | 3:09 |
 
-Snapshot ID: `MCwyN2YxZDk5YjMxYzM2ODAwYzc5OGYxMGQ2OGU2MjgyMWM3YjMxNTY5`
+Snapshot ID: `MCw4MzhmM2ZkNDNkOWI0ZGRlYTdmMGFmM2M1YzcwZWQ2OTY1ZWVhMWYy`

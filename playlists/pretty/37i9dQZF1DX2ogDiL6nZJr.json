@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 614317,
+  "num_followers": 614706,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTFkOTYwMTgzOTI5YTBjNmNjODJiNTEyZGYwZDVjNWQwYmZkYjQy",
+  "snapshot_id": "MCxmODZiNWQ0OGY0YzI3YjQyYzU5ZWY2OTFmYmE4MTk0ZGJmODNiZmY0",
   "tracks": [
     {
       "added_at": "2023-05-25 11:45:08",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 189706,
       "name": "she goes",
       "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
     },
     {
       "added_at": "2023-05-25 11:45:08",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
         "name": "ready now",
         "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "added_at": "2023-05-25 11:45:08",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-05-25 11:45:08",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
-        "name": "Unpack Your Bags (Radio Edit)",
-        "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 184692,
-      "name": "Unpack Your Bags - Radio Edit",
-      "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
         "name": "Golden Rope",
         "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 264045,
       "name": "Spark",
       "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
+        "name": "Unpack Your Bags (Radio Edit)",
+        "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 184692,
+      "name": "Unpack Your Bags - Radio Edit",
+      "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
     },
     {
       "added_at": "2023-05-25 11:45:08",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
-        "name": "My Guitar is too Loud",
-        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "My Guitar is too Loud",
-      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
         "name": "Through Water",
         "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 188800,
       "name": "Speaking of the End",
       "url": "https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
+        "name": "My Guitar is too Loud",
+        "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "My Guitar is too Loud",
+      "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
     },
     {
       "added_at": "2023-05-25 11:45:08",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
+        "name": "Here to Stay",
+        "url": "https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My"
+      },
+      "artists": [
+        {
+          "name": "Ian Hooper",
+          "url": "https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG"
+        }
+      ],
+      "duration_ms": 189538,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
         "name": "Le temps se fuit",
         "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
-        "name": "Here to Stay",
-        "url": "https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My"
-      },
-      "artists": [
-        {
-          "name": "Ian Hooper",
-          "url": "https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG"
-        }
-      ],
-      "duration_ms": 189538,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 255970,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "added_at": "2023-05-25 11:45:08",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
-        "name": "Ode to Joy",
-        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-25 11:45:08",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2023-05-25 11:45:08",
-      "album": {
         "name": "Cartoon People",
         "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 213539,
       "name": "Cartoon People",
       "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+    },
+    {
+      "added_at": "2023-05-25 11:45:08",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     }
   ],
   "unique_name": "Van Life",

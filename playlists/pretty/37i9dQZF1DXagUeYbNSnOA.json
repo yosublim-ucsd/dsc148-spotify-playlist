@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Oliva. Updates every Wednesday.",
-  "num_followers": 170781,
+  "num_followers": 170776,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY0Mjk3MmVmMTIyYTU4MzkzODljMjdjMzhlOWEzMmY2MjNhYTVk",
+  "snapshot_id": "MCwxMzkwNDg4OGM0OTQ4ZDY1MjliZjE2YmM5YmMzYjA3MDMwNmMzZDgy",
   "tracks": [
     {
       "added_at": "2023-06-28 05:01:00",
@@ -243,18 +243,22 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "SHAWTY NO HABLA ESPA\u00d1OL",
-        "url": "https://open.spotify.com/album/2q8RZlCoJcjkw90ZPW8tHO"
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
       "artists": [
         {
-          "name": "Sa!koro",
-          "url": "https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa"
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 135652,
-      "name": "SHAWTY NO HABLA ESPA\u00d1OL",
-      "url": "https://open.spotify.com/track/1DH2Xsmnf5vInERpoIbuLQ"
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -275,22 +279,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "tal vez, no s\u00e9",
-        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+        "name": "SHAWTY NO HABLA ESPA\u00d1OL",
+        "url": "https://open.spotify.com/album/2q8RZlCoJcjkw90ZPW8tHO"
       },
       "artists": [
         {
-          "name": "Poli Sallustro",
-          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Sa!koro",
+          "url": "https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa"
         }
       ],
-      "duration_ms": 224599,
-      "name": "tal vez, no s\u00e9",
-      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
+      "duration_ms": 135652,
+      "name": "SHAWTY NO HABLA ESPA\u00d1OL",
+      "url": "https://open.spotify.com/track/1DH2Xsmnf5vInERpoIbuLQ"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/0fmrxhFxOVs5py6DiHZtkE"
+      },
+      "artists": [
+        {
+          "name": "Christian White",
+          "url": "https://open.spotify.com/artist/5Dmhq7JGEuDLiqA5cnutGq"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Doce",
+      "url": "https://open.spotify.com/track/2oSkKilmqbFvtU19bzMLcA"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
         "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
         "url": "https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 191000,
       "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
       "url": "https://open.spotify.com/track/5BXFmljuSgquI0IkWs52BM"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/0fmrxhFxOVs5py6DiHZtkE"
-      },
-      "artists": [
-        {
-          "name": "Christian White",
-          "url": "https://open.spotify.com/artist/5Dmhq7JGEuDLiqA5cnutGq"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Doce",
-      "url": "https://open.spotify.com/track/2oSkKilmqbFvtU19bzMLcA"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -663,6 +663,22 @@
       "duration_ms": 170000,
       "name": "Arrullo",
       "url": "https://open.spotify.com/track/1dJdb3155A8MXl80DKR0NC"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ"
+      },
+      "artists": [
+        {
+          "name": "Dragon Rapid",
+          "url": "https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/6MOp3BJXbVNa4QZHtTrNxJ"
-      },
-      "artists": [
-        {
-          "name": "Dragon Rapid",
-          "url": "https://open.spotify.com/artist/2jpwQwRV1LWAGIPhlnvsXE"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/6dDAu6i73txYnDpejj5xzu"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "Las Cosas Como Son",
         "url": "https://open.spotify.com/album/1woqoQ6GJzQMxbnzMvdTCK"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 263230,
       "name": "Las Cosas Como Son",
       "url": "https://open.spotify.com/track/4qpc2x3fpFtbYtuArku7Az"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "AL BORDE DEL DESBORDE",
+        "url": "https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ"
+      },
+      "artists": [
+        {
+          "name": "Ulises Malo",
+          "url": "https://open.spotify.com/artist/07ojpr3XaWlEb6uawkobhy"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -763,22 +779,6 @@
       "duration_ms": 261398,
       "name": "Antropoceno",
       "url": "https://open.spotify.com/track/1YPwIWsPiq94452tbFmaGR"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
-        "name": "AL BORDE DEL DESBORDE",
-        "url": "https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ"
-      },
-      "artists": [
-        {
-          "name": "Ulises Malo",
-          "url": "https://open.spotify.com/artist/07ojpr3XaWlEb6uawkobhy"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "INSOMNIO",
-      "url": "https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt"
     },
     {
       "added_at": "2023-06-28 05:01:00",

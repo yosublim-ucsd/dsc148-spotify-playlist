@@ -1,12 +1,12 @@
 {
   "description": "The best current contemporary Reggae. Cover: Buju Banton",
-  "num_followers": 115129,
+  "num_followers": 115215,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDYzNmFlYzhlMGVkNjA2YmE5ZjkxODFiNDQ5M2ZkNzhlNjA2OWM0",
+  "snapshot_id": "MCxjMWM5YjI1OGQwNzJkMDA4MTg3NzBjMWRmMDFhZmYzYTY2MWZkZWU2",
   "tracks": [
     {
       "added_at": "2023-06-09 14:45:48",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 203077,
-      "name": "Higher Place",
-      "url": "https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl"
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -259,18 +255,42 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
       "artists": [
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+      "duration_ms": 203077,
+      "name": "Higher Place",
+      "url": "https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Switch It Up (feat. Koffee)",
+      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -331,22 +351,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+        "name": "Cool Down",
+        "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 234920,
-      "name": "Switch It Up (feat. Koffee)",
-      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
+      "duration_ms": 242230,
+      "name": "Cool Down",
+      "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -371,6 +387,30 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Sky Way",
+        "url": "https://open.spotify.com/album/6BMPftU5MJAu7mM2Z5DCrh"
+      },
+      "artists": [
+        {
+          "name": "Ras-I",
+          "url": "https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Koastal Kings",
+          "url": "https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Sky Way",
+      "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "The ExPerience",
         "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
       },
@@ -383,6 +423,26 @@
       "duration_ms": 243049,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "In Bloom (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -403,6 +463,22 @@
       "duration_ms": 208893,
       "name": "That's Not True",
       "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Perfectly With You",
+        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Perfectly With You",
+      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -435,62 +511,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Cool Down",
-        "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 242230,
-      "name": "Cool Down",
-      "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Sky Way",
-        "url": "https://open.spotify.com/album/6BMPftU5MJAu7mM2Z5DCrh"
-      },
-      "artists": [
-        {
-          "name": "Ras-I",
-          "url": "https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9"
-        },
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
-        },
-        {
-          "name": "Koastal Kings",
-          "url": "https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Sky Way",
-      "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Perfectly With You",
-        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Perfectly With You",
-      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "Pressure (feat. Buju Banton) [Remix]",
         "url": "https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2"
       },
@@ -511,58 +531,22 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0ZQoADyRu8QSfzXaUOrDHI"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         },
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "ZJ Chrome",
+          "url": "https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM"
         }
       ],
-      "duration_ms": 227613,
-      "name": "In Bloom (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+      "duration_ms": 160172,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -607,62 +591,22 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "What Do You Say (Move It Baby) [Damian \u201cJr Gong\" Marley Remix]",
-        "url": "https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        },
-        {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
-        }
-      ],
-      "duration_ms": 255839,
-      "name": "What Do You Say (Move It Baby) - Damian \u201cJr. Gong\" Marley Remix",
-      "url": "https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/0ZQoADyRu8QSfzXaUOrDHI"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "ZJ Chrome",
-          "url": "https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM"
-        }
-      ],
-      "duration_ms": 160172,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
       "artists": [
         {
           "name": "Skip Marley",
           "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -687,6 +631,30 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "What Do You Say (Move It Baby) [Damian \u201cJr Gong\" Marley Remix]",
+        "url": "https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 255839,
+      "name": "What Do You Say (Move It Baby) - Damian \u201cJr. Gong\" Marley Remix",
+      "url": "https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -743,6 +727,42 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Like Royalty (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Like Royalty (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -811,6 +815,22 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Keep Blazin'",
         "url": "https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 196949,
       "name": "Cold & Clear",
       "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Like Royalty (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Like Royalty (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Allow Me to Live",
+        "url": "https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib"
+      },
+      "artists": [
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        }
+      ],
+      "duration_ms": 183409,
+      "name": "Allow Me to Live",
+      "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Born A Rebel",
         "url": "https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 253205,
       "name": "Helping Hand (with Anthony B)",
       "url": "https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Allow Me to Live",
-        "url": "https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib"
-      },
-      "artists": [
-        {
-          "name": "Bugle",
-          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
-        }
-      ],
-      "duration_ms": 183409,
-      "name": "Allow Me to Live",
-      "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
     },
     {
       "added_at": "2023-06-09 14:45:48",

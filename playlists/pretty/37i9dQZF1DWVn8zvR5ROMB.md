@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Maddie & Tae, Russell Dickerson, Billy Currington and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,454 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,615 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 61 | [Burn That Bridge](https://open.spotify.com/track/1tGBMLdiQjJOGgf7FW4Qwp) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Burn That Bridge](https://open.spotify.com/album/3oY2qcj69oOiHIczQt3eiJ) | 3:11 |
 | 62 | [Slow Lane Life](https://open.spotify.com/track/2xaA80MZOD4DE7YUSTwA8u) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Slow Lane Life](https://open.spotify.com/album/2dcsK0TmJnmaLECn2iGZw7) | 2:46 |
 
-Snapshot ID: `MCwxNjhjYjhiMzUyYWEzZjA3MDI0M2YzMTNhMmM5OGU4MzQyMzQyMzRk`
+Snapshot ID: `MCxlZWYwYWU5OTY1Y2ZhODhiMGYwMDYzYzY0OWU2NjZjYmY4MmYxNzg1`

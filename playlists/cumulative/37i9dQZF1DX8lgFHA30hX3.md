@@ -1,0 +1,42 @@
+[pretty](/playlists/pretty/37i9dQZF1DX8lgFHA30hX3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8lgFHA30hX3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8lgFHA30hX3)
+
+### [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/playlist/37i9dQZF1DX8lgFHA30hX3)
+
+> Enjoy the ATEEZ world tour concert LIVE SET including the voices of members on stage! \(에이티즈 멤버들의 무대의 목소리가 포함된 월드 투어 콘서트 LIVE SET을 즐겨보세요!\)
+
+30 songs - 1 hr 32 min
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [Answer](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:39 | 2023-07-03 |  |
+| [Aurora](https://open.spotify.com/track/2J8tamzlBEX2DWLx9ASTvS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:24 | 2023-07-03 |  |
+| [Celebrate](https://open.spotify.com/track/1ptZH0pgnIjSG2mUYvMUjB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:16 | 2023-07-03 |  |
+| [Closing Ment](https://open.spotify.com/track/5eKS5uLMvRsqPRQIFLSML9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 5:28 | 2023-07-03 |  |
+| [Cyberpunk](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:44 | 2023-07-03 |  |
+| [Dazzling Light](https://open.spotify.com/track/7HyAzQHnTni37xGUlve1iD) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:09 | 2023-07-03 |  |
+| [Farewell](https://open.spotify.com/track/7pjkkGfyooslqdMtXdq5Lm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 0:22 | 2023-07-03 |  |
+| [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2023-07-03 |  |
+| [Greeting & Opening Comment](https://open.spotify.com/track/3Wa1kjlK9pKbHz7Pz638zQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 1:47 | 2023-07-03 |  |
+| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2023-07-03 |  |
+| [HALA HALA \(Hearts Awakened, Live Alive\)](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:22 | 2023-07-03 |  |
+| [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-07-03 |  |
+| [Horizon](https://open.spotify.com/track/7aq8t9D82PJuqH7TFT4W6O) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:11 | 2023-07-03 |  |
+| [Illusion](https://open.spotify.com/track/4hQHA562yLkVKlakkOkz5l) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:30 | 2023-07-03 |  |
+| [Ments from ATEEZ 1](https://open.spotify.com/track/2la1zOPA4Liq0h2u1CthIB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 1:30 | 2023-07-03 |  |
+| [Ments from ATEEZ 2](https://open.spotify.com/track/3VkvLqizS4tzWJgf6nc5k9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 0:36 | 2023-07-03 |  |
+| [Ments from ATEEZ 3](https://open.spotify.com/track/1AxchrvQw6yulIkbpi9jOV) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 2:02 | 2023-07-03 |  |
+| [Ments from ATEEZ 4](https://open.spotify.com/track/07bE2yDYcJp6Gwm8hg0y4M) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 0:41 | 2023-07-03 |  |
+| [Ments from ATEEZ 5](https://open.spotify.com/track/2iVviYb1ramfrXUwDXRLhw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 3:46 | 2023-07-03 |  |
+| [MIST](https://open.spotify.com/track/52PCrf2tqml44bWLNT58hF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2023-07-03 |  |
+| [ROCKY](https://open.spotify.com/track/1Idy1ndwsEhW10UlQFT0mF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:08 | 2023-07-03 |  |
+| [Say My Name](https://open.spotify.com/track/2UP7KnRSvc4taXbjOoSX0f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:42 | 2023-07-03 |  |
+| [Star 1117](https://open.spotify.com/track/0wuGxn6mILf918ZIaeiIG5) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:42 | 2023-07-03 |  |
+| [Sunrise](https://open.spotify.com/track/2jRQ7WRx7usY0xlCj2DNPH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:18 | 2023-07-03 |  |
+| [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2023-07-03 |  |
+| [The Ring](https://open.spotify.com/track/1s9dHDYdTjQo1Ow8MoF9nV) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 4:00 | 2023-07-03 |  |
+| [Turbulence](https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:19 | 2023-07-03 |  |
+| [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 | 2023-07-03 |  |
+| [WIN](https://open.spotify.com/track/6iaVgWHDlYxjjvj3PuKSQX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:22 | 2023-07-03 |  |
+| [WONDERLAND \(Symphony No.9 "From The Wonderland"\)](https://open.spotify.com/track/1JspDSeSVIiegIbk5niXkg) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 4:17 | 2023-07-03 |  |
+
+\*This playlist was first scraped on 2023-07-04. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-25",
-  "description": "",
+  "description": "NSWER! Wanna ride the Roller Coaster with NMIXX?",
   "name": "This Is NMIXX",
   "tracks": [
     {
@@ -704,6 +704,24 @@
       "duration_ms": 192466,
       "name": "PAXXWORD",
       "url": "https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9"
+    },
+    {
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
       "album": {

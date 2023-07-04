@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 
 > Music from "【OSHI NO KO】" /アニメ【推しの子】の楽曲を1つのプレイリストで。©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,325 likes - 60 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,577 likes - 60 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 | 57 | [LONLINESS AND SOLITUDE](https://open.spotify.com/track/4UjrLA5SaY2dsEC1jqdkbl) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 3:03 |
 | 58 | [HONEST FEELING \- II](https://open.spotify.com/track/7K5VPxApZa4XQUAiD6aYhw) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:11 |
 | 59 | [IMPATIENCE](https://open.spotify.com/track/5goyaDa51fW78rAyIk6LlL) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:07 |
-| 60 | [”TRUE FRIENDS” BY KENGO MORIMOTO](https://open.spotify.com/track/6ARUTkeFymA26Cbze9qMJu) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:26 |
+| 60 | [”TRUE FRIENDS” BY KENGO MORIMOTO \- W/O GT.SOLO](https://open.spotify.com/track/3bShTlzMJAA8YCrV385k9v) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:26 |
 
-Snapshot ID: `MCxkODIxNTQ3ZDU5MjNlNjAzOGQwY2MzODQ2M2YzMDhmNmQ1Y2U0MGJk`
+Snapshot ID: `MCxjOWRmMDZhYjUxODQ1Y2QyN2JiNmEyOGM4YThkNTA5ODBmYjNlNjdk`

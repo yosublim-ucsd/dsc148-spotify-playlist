@@ -4192,7 +4192,7 @@
     {
       "album": {
         "name": "Algo Para Decirte",
-        "url": "https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr"
+        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
       },
       "artists": [
         {
@@ -4203,6 +4203,24 @@
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255593,
+      "name": "Chinos Ojos Rojos",
+      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
+    },
+    {
+      "album": {
+        "name": "Algo Para Decirte",
+        "url": "https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
       "duration_ms": 255593,
       "name": "Chinos Ojos Rojos",
       "url": "https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy"

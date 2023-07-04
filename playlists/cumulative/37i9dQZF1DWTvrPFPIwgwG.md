@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Suellen Brum
 
-155 songs - 13 hr 0 min
+158 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,11 +100,13 @@
 | [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 | 2022-09-09 |  |
 | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Fábio Paixão](https://open.spotify.com/artist/0ZCCRYuNWy7ySsQyVDnTKr) | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/album/0bp3bCvhkPodACynHgxQoq) | 4:16 | 2023-03-03 | 2023-04-16 |
 | [O Laço Quebrou](https://open.spotify.com/track/62GyXwfo1upFdbx9MxonJh) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [O Laço Quebrou](https://open.spotify.com/album/3fmwuz2g3d8yvt8gQRYbER) | 4:18 | 2023-04-28 | 2023-06-03 |
-| [O Leão](https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [O Leão](https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD) | 4:27 | 2022-09-09 |  |
+| [O Leão](https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [O Leão](https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD) | 4:27 | 2022-09-09 | 2023-07-04 |
+| [O Leão](https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 | 2023-06-23 |  |
 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2022-11-04 |  |
 | [O Menor \(Ao Vivo\)](https://open.spotify.com/track/27sYTbQbEEqhgEFKuDyxlj) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x) | [O Menor \(Ao Vivo\)](https://open.spotify.com/album/6giUIvYzvLaogQc2jvomCi) | 5:22 | 2023-06-23 |  |
 | [O Mínimo de Mim](https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [O Mínimo de Mim](https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe) | 4:08 | 2022-09-09 |  |
-| [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 | 2022-09-09 |  |
+| [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 | 2022-09-09 | 2023-07-04 |
+| [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 | 2023-06-23 |  |
 | [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 | 2022-09-09 |  |
 | [O Rei e o Jumentinho](https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [O Rei e o Jumentinho](https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK) | 4:40 | 2022-10-15 | 2022-12-24 |
 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 | 2023-05-05 |  |
@@ -134,7 +136,8 @@
 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 | 2022-10-28 | 2023-04-22 |
 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 | 2022-09-09 | 2023-03-04 |
 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 | 2022-10-15 |  |
-| [Sou Eu](https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Sou Eu](https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L) | 5:12 | 2022-09-09 |  |
+| [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 | 2023-06-23 |  |
+| [Sou Eu](https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Sou Eu](https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L) | 5:12 | 2022-09-09 | 2023-07-04 |
 | [Sou Eu](https://open.spotify.com/track/3Jxxzv0FEqlL9rYaETaccs) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Sou Eu](https://open.spotify.com/album/0o8HSd47qb6yQxh8VKkFtz) | 5:06 | 2022-10-28 | 2023-02-25 |
 | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb) | 4:41 | 2023-06-02 |  |
 | [Sou Teu Deus](https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Sou Teu Deus](https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn) | 5:27 | 2022-09-09 |  |

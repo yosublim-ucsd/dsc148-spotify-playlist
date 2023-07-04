@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
         "name": "Anna's Theme",
         "url": "https://open.spotify.com/album/1NUN5BS2lgbM45AoMgLOcu"
       },
@@ -1490,6 +1508,28 @@
       "duration_ms": 247746,
       "name": "Fantasia on Greensleeves",
       "url": "https://open.spotify.com/track/5m45Tp0CImF2rlxfyHrEMJ"
+    },
+    {
+      "album": {
+        "name": "Farewell to Stromness",
+        "url": "https://open.spotify.com/album/3ap7McPprVo6NYuFkgnIEN"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        },
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223971,
+      "name": "Farewell to Stromness",
+      "url": "https://open.spotify.com/track/32TZt1GohBFxOVNYmwdwVU"
     },
     {
       "album": {
@@ -3425,6 +3465,32 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391172,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/1iz6vOyntcWB7irotdvlwK"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -4817,6 +4883,28 @@
     },
     {
       "album": {
+        "name": "Suite for String Orchestra No. 3 in D Major, BWV 1068: Air (Arr. for piano by A. Siloti)",
+        "url": "https://open.spotify.com/album/3iM0yCNjk0xEoGyi3j5Ey6"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269122,
+      "name": "Suite for String Orchestra No. 3 in D Major, BWV 1068: Air (Arr. for piano by A. Siloti)",
+      "url": "https://open.spotify.com/track/0QyjUVRu3BkQNSJkgJ4whZ"
+    },
+    {
+      "album": {
         "name": "Motherland",
         "url": "https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh"
       },
@@ -5138,6 +5226,36 @@
       "duration_ms": 218752,
       "name": "the first kiss",
       "url": "https://open.spotify.com/track/3SR2YkLGs17l8HAF00FQva"
+    },
+    {
+      "album": {
+        "name": "The Gadfly, Op. 97: III. Youth (Romance)",
+        "url": "https://open.spotify.com/album/1R3eukq6NNgRfF9iKs7j7J"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139291,
+      "name": "The Gadfly, Op. 97: III. Youth (Romance)",
+      "url": "https://open.spotify.com/track/4XfMV8Op08DmsEnXHsa704"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 886128,
+  "num_followers": 886205,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNhNmVlOGVhYTUyYzdjZGYwODlmN2Q1ZDIxZmJhOGRhYWM1YzQ2",
+  "snapshot_id": "MCxkNGQxNmU1OWUzMzE2YzEzMjNkODk0YjVhNzQ4YjgxYzJlYmJiNDc5",
   "tracks": [
     {
       "added_at": "2023-06-23 16:06:02",
@@ -263,22 +263,18 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+      "duration_ms": 239853,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -315,22 +311,6 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
         "name": "Blame (Tim Gunter Remix)",
         "url": "https://open.spotify.com/album/6NjGSlcPZwXDPRHcS7gVth"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 193714,
       "name": "Blame (Tim Gunter Remix)",
       "url": "https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 173413,
       "name": "Stars Tonight",
       "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
+        "name": "Shiawase",
+        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
-        "name": "Shiawase",
-        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Shiawase",
-      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
         "name": "Starman",
         "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211875,
       "name": "Kaleidoscope (Feat. Crystalline)",
       "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2023-06-23 16:06:02",
-      "album": {
         "name": "Blow the Roof",
         "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 245090,
       "name": "Do or Die (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
+    },
+    {
+      "added_at": "2023-06-23 16:06:02",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "SIDE2SIDE",
-        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
+        "name": "Active",
+        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
       },
       "artists": [
         {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
         }
       ],
-      "duration_ms": 233600,
-      "name": "SIDE2SIDE",
-      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
+      "duration_ms": 150370,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
     },
     {
       "added_at": "2023-06-23 16:06:02",
@@ -1871,18 +1867,22 @@
     {
       "added_at": "2023-06-23 16:06:02",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
+        "name": "SIDE2SIDE",
+        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
       },
       "artists": [
         {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
         }
       ],
-      "duration_ms": 150370,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
+      "duration_ms": 233600,
+      "name": "SIDE2SIDE",
+      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
     },
     {
       "added_at": "2023-06-23 16:06:02",

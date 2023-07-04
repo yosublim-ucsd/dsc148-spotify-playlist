@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-255 songs - 13 hr 54 min
+256 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 | 2023-01-14 |
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-01-13 | 2023-04-18 |
 | [Costume](https://open.spotify.com/track/6tQnC1uIY62jSpBPgVRrZZ) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Cheers \(Deluxe Version\)](https://open.spotify.com/album/4lX3DtoIaJWh0wMCOjsLTi) | 2:51 | 2023-04-12 | 2023-06-03 |
+| [Crocodile Tears](https://open.spotify.com/track/7MwYXhh2dTqc7fiwkwPZo1) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD) | 3:02 | 2023-07-03 |  |
 | [Cupid](https://open.spotify.com/track/2t7RNUa8I8fbZAEAmZOkBl) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Dinner Is Not Over / There's Something Happening / Keyman / Cupid](https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK) | 3:40 | 2023-03-27 |  |
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 | 2023-01-14 |
 | [Danke Schoen](https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ) | 2:38 | 2023-02-02 | 2023-02-05 |

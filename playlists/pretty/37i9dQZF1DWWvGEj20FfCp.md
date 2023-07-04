@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Where music meets fashion\. Soundtrack for designer Christopher John Rogers' Collection 012 Runway Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,702 likes - 58 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,758 likes - 58 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 57 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
 | 58 | [Kyle \(I Found You\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 
-Snapshot ID: `MCw3NTVhNmQ0NjQyMzYyMzQ4ZGIwZGY2ZTBiZDY2MDA3NGRmYmFkMWNm`
+Snapshot ID: `MCw0ODVlYzViMWUzNTA0NTUxMmU1ODE0MDAzMjE1MGIwODhjMTQ2YjU0`

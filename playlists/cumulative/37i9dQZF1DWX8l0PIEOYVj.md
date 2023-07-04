@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-385 songs - 23 hr 9 min
+386 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 | 2022-07-08 | 2023-03-04 |
 | [Hallelujah](https://open.spotify.com/track/3p34ioNEg5sjBhEwB1ycPr) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Devon Baldwin](https://open.spotify.com/artist/5JYReWgOGu4JKm5pqmACqG) | [Hallelujah](https://open.spotify.com/album/1WKoH6keTsd74roqzafGIG) | 4:18 | 2022-07-08 | 2022-08-06 |
 | [Hallowed](https://open.spotify.com/track/1mCuubKYj4wx69lWrSPmkW) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Hallowed](https://open.spotify.com/album/44AMc70Cs2l1IkuT6qzHhC) | 3:18 | 2023-03-10 | 2023-06-28 |
-| [Happy Tears](https://open.spotify.com/track/75yiYJ0pJqVTga43SY6V8T) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [AYMEN](https://open.spotify.com/artist/32lU7sOuIPtLOisKqlqNos) | [Happy Tears](https://open.spotify.com/album/3Wh4FHappW3aUJBx7pZxul) | 3:26 | 2022-09-16 |  |
+| [Happy Tears](https://open.spotify.com/track/75yiYJ0pJqVTga43SY6V8T) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [AYMEN](https://open.spotify.com/artist/32lU7sOuIPtLOisKqlqNos) | [Happy Tears](https://open.spotify.com/album/3Wh4FHappW3aUJBx7pZxul) | 3:26 | 2022-09-16 | 2023-07-04 |
 | [Hard Part's Over](https://open.spotify.com/track/2InIRfPZRlTO6k1qCxRsRj) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Page](https://open.spotify.com/artist/5Fzm75kD7tt6ldqv3TInbG) | [Hard Part's Over](https://open.spotify.com/album/2VCtXsszH8Ky5MXoYrCgP7) | 3:14 | 2022-10-07 |  |
 | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/0bMzCNqq4U5pQakqcyfJHR) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8) | 3:46 | 2022-07-08 | 2023-04-09 |
 | [Hate To Be](https://open.spotify.com/track/6n6lDrWRELr6FJRyebJTfb) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Hate To Be](https://open.spotify.com/album/6dnxO2SJpGbc1pDDcgLrTI) | 4:50 | 2022-07-18 | 2023-05-27 |
@@ -243,6 +243,7 @@
 | [Miss You](https://open.spotify.com/track/2fHznHYgWJ2nwk16rAA6gv) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8) | [Best Part Of Me EP](https://open.spotify.com/album/163FJeoQmdoWpqDFqV5TiB) | 3:05 | 2022-07-08 | 2022-07-24 |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-08 |  |
 | [Moments \(feat\. Rynn\)](https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Moments \(feat\. Rynn\)](https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8) | 3:02 | 2023-01-13 |  |
+| [More Than I Can Say](https://open.spotify.com/track/2T2kT4f02nSeRrEENBSIYl) | [BrillLion](https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq), [SUNHO](https://open.spotify.com/artist/70S0Ni9kqS1R56dJPs7k70) | [More Than I Can Say](https://open.spotify.com/album/36gx8N6RBR3uEyT6seZAtF) | 3:43 | 2023-06-30 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-07-08 | 2023-05-27 |
 | [NEED IT](https://open.spotify.com/track/6Ycrb9oeP1wqg2zDSjdeEF) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [NEED IT](https://open.spotify.com/album/6hRN1GU6dWV7MU81ZTbL7i) | 2:41 | 2023-03-03 |  |
 | [Never Get Like You](https://open.spotify.com/track/0ZVqAkTI1bubdASG5Rm62r) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [What It Used To Be EP](https://open.spotify.com/album/5zIoYzixuK56wDyqLOgylH) | 3:58 | 2022-07-08 | 2022-08-13 |

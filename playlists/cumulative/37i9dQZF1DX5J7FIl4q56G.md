@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Amaranthe
 
-3,864 songs - 10 day 20 hr 50 min
+3,865 songs - 10 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3662,7 +3662,8 @@
 | [Walk on Down](https://open.spotify.com/track/76p3kxe3kuXeJVYNmFNT99) | [Dragon's eye](https://open.spotify.com/artist/1vSOt1gKdPlD447pc8UB2x) | [Walk on Down](https://open.spotify.com/album/3GwWhzAXZyNSI6hPNJwJ13) | 5:03 | 2023-03-24 | 2023-04-01 |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Wall of Gloom](https://open.spotify.com/track/4zQedeJ151cKU8HZ9fTmea) | [Lacrimas Profundere](https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz) | [Wall of Gloom](https://open.spotify.com/album/4AAuKtqmMZDh1v0sYzEaqm) | 4:19 | 2022-06-17 | 2022-06-24 |
-| [Want](https://open.spotify.com/track/2gQlV04J10XlANyx1AgMM0) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Want](https://open.spotify.com/album/0wKIltPeWCAqAV2kwNTlcK) | 2:00 | 2023-06-30 |  |
+| [Want](https://open.spotify.com/track/2b1eBBHnRRU5oj71vOJxYg) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Systemic](https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb) | 2:00 | 2023-06-30 |  |
+| [Want](https://open.spotify.com/track/2gQlV04J10XlANyx1AgMM0) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Want](https://open.spotify.com/album/0wKIltPeWCAqAV2kwNTlcK) | 2:00 | 2023-06-30 | 2023-07-04 |
 | [War](https://open.spotify.com/track/1ljlzyOegPxZUspjhFpIs0) | [Kromheim](https://open.spotify.com/artist/5QnA6BnzlbyqtDe9oFucUl) | [War](https://open.spotify.com/album/0ZsCREXeMRZhgDMQcz5Sy0) | 4:03 | 2023-01-06 | 2023-01-14 |
 | [War Against All](https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/42itntO9qiIkUewMznm08m) | 3:26 | 2023-03-24 | 2023-04-01 |
 | [War Blood Hammer](https://open.spotify.com/track/0Etrk3mvodJ3pcM2KvMDNP) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Mortem Solis](https://open.spotify.com/album/5lQW7kHR5FlOWlrkfkbPLs) | 4:07 | 2022-07-29 | 2022-08-06 |

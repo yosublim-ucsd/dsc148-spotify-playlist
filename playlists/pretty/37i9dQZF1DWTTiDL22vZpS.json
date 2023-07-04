@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 12983,
+  "num_followers": 13031,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTk5YWJiMGQyY2FmODI3ZmVjMmYyN2M5ZjNjMzY2ODgxMWFlYzJk",
+  "snapshot_id": "MCwxNGQxZDcwMjI4NGM0NTM3ZjhmMjA2MDQ4Yjk1ODc0YmJmMGNkZGE4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -115,26 +115,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Hush (Still Woozy Remix)",
-        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Hush - Still Woozy Remix",
-      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Funk Your Bones (Side B)",
-        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Chango",
         "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 185994,
       "name": "Despacio",
       "url": "https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Funk Your Bones (Side B)",
+        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "\u00d3yeme Bien",
-        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "\u00d3yeme Bien",
-      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 275785,
       "name": "A\u00f1ejo",
       "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "\u00d3yeme Bien",
+        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "\u00d3yeme Bien",
+      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Cheo Pardo",
+          "url": "https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb"
         }
       ],
-      "duration_ms": 254218,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S"
+      "duration_ms": 260299,
+      "name": "Funky Fiesta",
+      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -475,6 +479,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 254218,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -487,42 +507,6 @@
       "duration_ms": 228466,
       "name": "Golden Choice",
       "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Cheo Pardo",
-          "url": "https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb"
-        }
-      ],
-      "duration_ms": 260299,
-      "name": "Funky Fiesta",
-      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Dorama",
         "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 290400,
       "name": "Lentes Negros",
       "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 211281,
-      "name": "Gobi\u00e9rname",
-      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -659,22 +643,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
+      "duration_ms": 211281,
+      "name": "Gobi\u00e9rname",
+      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -691,6 +671,26 @@
       "duration_ms": 225714,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Uno de nosotros (feat. Javiera Mena)",
+        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Unx de nosotrxs (feat. Javiera Mena)",
+      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Precipicio",
-        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 247430,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Youth Attraction",
         "url": "https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 333500,
       "name": "Midnight Caller",
       "url": "https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Precipicio",
+        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 247430,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1035,34 +1035,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "La Pel\u00edcula",
-        "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
+        "name": "Latin Boogie",
+        "url": "https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo"
       },
       "artists": [
         {
-          "name": "Pel\u00edculas Geniales",
-          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
-        },
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
           "name": "Ferraz",
           "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         }
       ],
-      "duration_ms": 199334,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
+      "duration_ms": 205823,
+      "name": "Latin Boogie",
+      "url": "https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn"
     }
   ],
   "unique_name": "feels like latin funk",

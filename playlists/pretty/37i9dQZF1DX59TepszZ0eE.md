@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz?si=9hLt7nr6SYiMzYnQrXbkgA">Lusanda Spiritual Group</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,956 likes - 80 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,013 likes - 80 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 79 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
 | 80 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 |
 
-Snapshot ID: `MCxhMDk1MWJmMDNkMDVjZjRhY2JhMDgxMmIyZTZlNjE0NzMxNjFiNjk0`
+Snapshot ID: `MCw4N2M2NTFiYzU4MjJiY2U5YzJkMDM4OGY3NzhjMjBlODJjYzM2NWU5`

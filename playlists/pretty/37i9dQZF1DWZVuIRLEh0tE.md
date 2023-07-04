@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,045 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,146 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 66 | [Miedo](https://open.spotify.com/track/1jCjfnzOnvmzyeKB7ikki5) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 2:40 |
 | 67 | [Tu Cojea](https://open.spotify.com/track/6drPETc7tuaelv5YsCyS0G) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Tu Cojea](https://open.spotify.com/album/3kCbDfRabyjGfrN5O6QOcW) | 2:44 |
 | 68 | [Voy Pa la Calle](https://open.spotify.com/track/0UoZ9LFPAFwnqGpO0nKSkX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Voy Pa la Calle](https://open.spotify.com/album/2P7G5Z6VhoEkvq5ukhjDHr) | 2:15 |
-| 69 | [Acuetate](https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Capitan Aloo](https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Acuetate](https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426) | 4:08 |
+| 69 | [Acuetate \(feat\. Tivi Gunz, Haraca Kiko, Capitan Aloo, El Fother & Kiko el Crazy\)](https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Capitan Aloo](https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Acuetate \(feat\. Tivi Gunz, Haraca Kiko, Capitan Aloo, El Fother & Kiko el Crazy\)](https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426) | 4:08 |
 | 70 | [Bajo Mundo](https://open.spotify.com/track/75QDxza3YsGW0Aihq1lIdj) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Bajo Mundo](https://open.spotify.com/album/4IY2qIObKzq3XBsnlJl5Gf) | 2:48 |
 | 71 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 |
 | 72 | [Mira el 30](https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mira el 30](https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D) | 2:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 |
 | 75 | [Un Poco De Amor](https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Un Poco De Amor](https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik) | 3:00 |
 
-Snapshot ID: `MCw2NjVlZmZiMzJhOWI1NDFmMzZhMmIyZTUwNGRiYmYzMWNlY2YxYTUz`
+Snapshot ID: `MCxjZGU2N2JhMzZmZmM1N2MzYmY2NjcwN2I2ZjM5YjIwMmY4MDA5MmIx`

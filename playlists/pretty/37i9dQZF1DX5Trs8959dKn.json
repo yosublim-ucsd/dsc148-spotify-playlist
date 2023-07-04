@@ -1,12 +1,12 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 6165,
+  "num_followers": 6229,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmQ1M2IyMmQ1N2RkMTk5NzgxMTY3ZTVlYmYxY2I0Y2ZlZjY1ZDYz",
+  "snapshot_id": "MCxlODIxOTRiNThmOTEzZmFhYzQ0Zjk3NTA1MmU2ZDk1ZmU5YjA1YzU0",
   "tracks": [
     {
       "added_at": "2023-06-30 06:20:28",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 318066,
+      "name": "You I Live For",
+      "url": "https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq"
+    },
+    {
+      "added_at": "2023-06-30 06:20:28",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 295262,
       "name": "More Than Gold",
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 318066,
-      "name": "You I Live For",
-      "url": "https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq"
     },
     {
       "added_at": "2023-06-30 06:20:28",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-06-30 06:20:28",
+      "album": {
         "name": "Kumama",
         "url": "https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 290530,
       "name": "Miracle Worker (feat. Nathaniel Bassey)",
       "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
     },
     {
       "added_at": "2023-06-30 06:20:28",
@@ -495,6 +495,26 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Micah Stampley",
+          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
+        }
+      ],
+      "duration_ms": 366497,
+      "name": "Onise Iyanu (feat. Micah Stampley)",
+      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
+    },
+    {
+      "added_at": "2023-06-30 06:20:28",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -523,22 +543,6 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 405890,
-      "name": "Incredible God",
-      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
         "name": "The Name of Jesus: Sinach Live in Concert",
         "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
       },
@@ -555,18 +559,18 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
-        "name": "Fearless Wrshp",
-        "url": "https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 373613,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7"
+      "duration_ms": 405890,
+      "name": "Incredible God",
+      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
     },
     {
       "added_at": "2023-06-30 06:20:28",
@@ -587,22 +591,34 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+        "name": "Fearless Wrshp",
+        "url": "https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "duration_ms": 373613,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7"
+    },
+    {
+      "added_at": "2023-06-30 06:20:28",
+      "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
       },
       "artists": [
         {
           "name": "Nathaniel Bassey",
           "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Micah Stampley",
-          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
         }
       ],
-      "duration_ms": 366497,
-      "name": "Onise Iyanu (feat. Micah Stampley)",
-      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
+      "duration_ms": 526421,
+      "name": "There Is a Place",
+      "url": "https://open.spotify.com/track/64rX585EFtuNmqIwPERF7y"
     },
     {
       "added_at": "2023-06-30 06:20:28",
@@ -671,6 +687,22 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 317204,
+      "name": "All the Glory",
+      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
+    },
+    {
+      "added_at": "2023-06-30 06:20:28",
+      "album": {
         "name": "Out of My Belly (Live)",
         "url": "https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM"
       },
@@ -695,38 +727,6 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 317204,
-      "name": "All the Glory",
-      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "The King Is Coming",
-        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 526421,
-      "name": "There Is a Place",
-      "url": "https://open.spotify.com/track/64rX585EFtuNmqIwPERF7y"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
         "name": "Chapter One",
         "url": "https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-06-30 06:20:28",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 455206,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I"
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2023-06-30 06:20:28",
@@ -771,22 +771,6 @@
       "duration_ms": 586443,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2023-06-30 06:20:28",
@@ -819,6 +803,22 @@
       "duration_ms": 257645,
       "name": "Kabi O Osi O",
       "url": "https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2"
+    },
+    {
+      "added_at": "2023-06-30 06:20:28",
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 455206,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I"
     },
     {
       "added_at": "2023-06-30 06:20:28",

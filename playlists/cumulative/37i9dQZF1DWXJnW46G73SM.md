@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية🤩 الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=b9CvGGw7SxqE65mfEWKF0Q"> حسين الجسمي </a>
 
-493 songs - 1 day 4 hr 16 min
+494 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Basseen Ala Bokra](https://open.spotify.com/track/1VbteZaK0u3rUWJKUGaY5K) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Basseen Ala Bokra](https://open.spotify.com/album/3bCSL9eeJHRQwBN5xae5xw) | 3:14 | 2021-12-23 | 2022-03-04 |
 | [Bataleny](https://open.spotify.com/track/1PbE0dZap84eVSIqlNRjIr) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bataleny](https://open.spotify.com/album/7s1bkOjp7V8wiWJY9Mf7iq) | 3:50 | 2023-02-23 | 2023-04-21 |
 | [Batasif Ala Al Taakhir](https://open.spotify.com/track/6UdCrARuFgY9HOujIpKp7v) | [Foulah Al Jazairiyah](https://open.spotify.com/artist/3oKCS4wPK5jUc1liywVGMG) | [Batasif Ala Al Taakhir](https://open.spotify.com/album/5i2RPeIet2dw9yR3D3VsaU) | 3:33 | 2021-12-23 | 2022-01-21 |
+| [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 | 2023-07-03 |  |
 | [Bent El Nas](https://open.spotify.com/track/61JQ7hNgNjIBdfjOAmrtZC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bent El Nas](https://open.spotify.com/album/7Mw6RzdygHFoN2Kd9fzSy8) | 3:00 | 2023-05-18 |  |
 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-01-25 | 2023-03-08 |
 | [Betaa Zaman](https://open.spotify.com/track/3tRFSAqNZRSi3tW09dVGNW) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Betaa Zaman](https://open.spotify.com/album/7pyyEiSY1qrUO6JXOrcPpK) | 4:10 | 2021-12-23 | 2022-03-10 |
@@ -339,7 +340,7 @@
 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 | 2023-05-01 | 2023-06-02 |
 | [To2 Nagaa \- From Harley Movie](https://open.spotify.com/track/1oTZxCosn7bDs1Hmfrq7qr) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [To2 Nagaa \(From Harley Movie\)](https://open.spotify.com/album/0IcjzokcAGHn6B1sAa1plf) | 2:43 | 2023-05-01 | 2023-06-02 |
 | [Touba \(Intro Of Touba Series\)](https://open.spotify.com/track/2hb9SS3ObGXd6MwwxiKPqr) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [Touba \(Intro Of Touba Series\)](https://open.spotify.com/album/50Bmb0N5qoDWY5H2FWXKiv) | 3:48 | 2022-04-07 | 2022-07-29 |
-| [Tushkar](https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tushkar](https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2) | 2:56 | 2023-06-29 |  |
+| [Tushkar](https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tushkar](https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2) | 2:56 | 2023-06-29 | 2023-07-04 |
 | [W Ba3deen](https://open.spotify.com/track/6b0AIr9qvPAcQqD8B0g645) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [W Ba3deen](https://open.spotify.com/album/16jZxdWMD778Q68o3ud5Jd) | 2:42 | 2023-02-23 | 2023-05-05 |
 | [W Bahleflak](https://open.spotify.com/track/6dl0rOeMbMYpqsnOjdaFLr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [W Bahleflak](https://open.spotify.com/album/4RG5kVZevsPgZrqhrfVc5Q) | 4:18 | 2021-12-23 | 2022-01-05 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2022-12-26 | 2023-02-17 |

@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-419 songs - 23 hr 38 min
+421 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2023-05-25 |  |
 | [Seventeen Going Under \- Edit](https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 3:57 | 2022-03-24 | 2023-05-20 |
 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 | 2021-08-13 | 2023-05-26 |
-| [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 | 2023-05-19 |  |
+| [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 | 2023-05-19 | 2023-07-04 |
 | [Sick](https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Sick](https://open.spotify.com/album/5l0kOd4WdDI44FLnEgpBkC) | 3:17 | 2021-08-13 | 2022-07-29 |
 | [Silhouettes](https://open.spotify.com/track/3asPRXvHMHqyxvLCkaW5k3) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Inflorescent](https://open.spotify.com/album/1rt1wud5H03IsmAx29ysJp) | 3:41 | 2022-03-24 | 2022-04-20 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-03-24 | 2022-10-07 |
@@ -312,6 +312,7 @@
 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2022-07-14 |  |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-05-06 | 2023-05-20 |
 | [Somebody Loves You](https://open.spotify.com/track/0RWolKaKzYDxm0lf8BR4co) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 3:26 | 2021-08-13 | 2022-07-27 |
+| [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2023-07-03 |  |
 | [Something About You](https://open.spotify.com/track/0kFFvTvmSgJeNkVKPFaplu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Something About You](https://open.spotify.com/album/16W9q4d4jeOqHsWqXvNQnU) | 2:33 | 2022-03-24 | 2022-04-20 |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2022-07-14 | 2023-05-20 |
 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 | 2021-08-13 | 2022-10-13 |
@@ -382,6 +383,7 @@
 | [TIME 2](https://open.spotify.com/track/3Q4jOnUZcpeqSY0CALbiOP) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [TIME 2](https://open.spotify.com/album/3BQPC6qqEnR0fl4j2cgFzV) | 3:57 | 2021-08-13 | 2022-06-04 |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2021-08-13 |  |
 | [Timee](https://open.spotify.com/track/72oK7vAQsxnk1a5wTvKvdu) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Just Kids](https://open.spotify.com/album/2oWg0mtskzLgK8K2GlTkCJ) | 3:23 | 2022-03-24 | 2022-04-21 |
+| [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-23 |  |
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2023-05-25 |  |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2021-08-13 |  |
 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 | 2021-08-13 | 2022-07-29 |
@@ -396,7 +398,7 @@
 | [Want](https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Want](https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf) | 4:24 | 2021-08-13 | 2022-06-21 |
 | [Wasting Time](https://open.spotify.com/track/6TTD2b8DnGfv6HwitYu0hE) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Wasting Time](https://open.spotify.com/album/2pIuUTvKlHTajz5skj8a2a) | 2:47 | 2021-08-13 | 2022-07-26 |
 | [Watch Me Break Apart](https://open.spotify.com/track/2Jz1wxAIf1GMP4Zamk79En) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Watch Me Break Apart](https://open.spotify.com/album/6kjvqn8olE0GLWe3vSzOrF) | 3:55 | 2021-08-13 | 2022-05-11 |
-| [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 |  |
+| [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 | 2023-07-04 |
 | [Waves](https://open.spotify.com/track/6BqqBaaQPILuPRKqwl7Gyq) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Waves](https://open.spotify.com/album/4BiUDSP16xxTY1xowEipas) | 4:04 | 2022-03-24 | 2022-06-25 |
 | [We Don't Know What Tomorrow Brings](https://open.spotify.com/track/0ks2zjjl7XhJVqBU60GhHR) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:16 | 2023-05-19 | 2023-05-26 |
 | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/album/6d0IKj81ve9Pj76Aw1wn6B) | 2:23 | 2022-03-24 | 2022-04-20 |

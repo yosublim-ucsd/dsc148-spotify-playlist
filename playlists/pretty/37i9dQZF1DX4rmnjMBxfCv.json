@@ -1,12 +1,12 @@
 {
   "description": "Dance and electronic Arabic songs. Cover: <a href=\"https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS?si=YxwaMq5IQm2YyF7DLjNHAQ\">Ash</a>",
-  "num_followers": 45712,
+  "num_followers": 45768,
   "original_name": "mint \u0646\u0639\u0646\u0639",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTZiYjM5YjU4ZDhmM2RiM2ViNzQ3NGE2OTJiYTllOWI3YzM0MWI4",
+  "snapshot_id": "MCxiZGU4MjZiMjczODEyM2UwM2U3NzQ3ZjgxZTUxZDk2YTEyNzEyYjky",
   "tracks": [
     {
       "added_at": "2023-07-02 14:20:09",
@@ -43,18 +43,26 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
-        "name": "Mawal",
-        "url": "https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe"
+        "name": "Premier Gaou (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c"
       },
       "artists": [
         {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
         }
       ],
-      "duration_ms": 169649,
-      "name": "Mawal",
-      "url": "https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K"
+      "duration_ms": 222295,
+      "name": "Premier Gaou - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -75,22 +83,58 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+        "name": "Baglami",
+        "url": "https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "DJ DALI",
+          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
         }
       ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+      "duration_ms": 330491,
+      "name": "Baglami",
+      "url": "https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
+        "name": "Fog Elna Khil (Tyrvnt Remix)",
+        "url": "https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA"
+      },
+      "artists": [
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        },
+        {
+          "name": "Zamane",
+          "url": "https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc"
+        },
+        {
+          "name": "Tyrvnt",
+          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
+        }
+      ],
+      "duration_ms": 252005,
+      "name": "Fog Elna Khil - Tyrvnt Remix",
+      "url": "https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
+        "name": "Mawal",
+        "url": "https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 169649,
+      "name": "Mawal",
+      "url": "https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -117,20 +161,56 @@
       "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
     },
     {
-      "added_at": "2023-07-02 14:20:09",
+      "added_at": "2023-07-03 09:45:31",
       "album": {
-        "name": "Chromosome",
-        "url": "https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ"
+        "name": "DABA",
+        "url": "https://open.spotify.com/album/6u6sRHXmetSsvVKFDySVpM"
       },
       "artists": [
         {
-          "name": "Dish Dash",
-          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
+          "name": "Kawtar Sadik",
+          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
+        },
+        {
+          "name": "Rabab Najid",
+          "url": "https://open.spotify.com/artist/65v8WqbomHyZ6St35xgg10"
+        },
+        {
+          "name": "Hamada Hammy",
+          "url": "https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl"
+        },
+        {
+          "name": "El Mahmoud",
+          "url": "https://open.spotify.com/artist/2kD42CAOYhdohJB6kbHRKB"
+        },
+        {
+          "name": "Karim Hasnaoui",
+          "url": "https://open.spotify.com/artist/54cF2GtCfm7LrMfzLurLEx"
         }
       ],
-      "duration_ms": 197007,
-      "name": "Chromosome - Edit",
-      "url": "https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp"
+      "duration_ms": 513015,
+      "name": "DABA",
+      "url": "https://open.spotify.com/track/4oMowo1TLJr06oACFD3h7K"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
+        "name": "Abu Simbel",
+        "url": "https://open.spotify.com/album/3HVXzuVnuaWJyflpsF8MWj"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Abu Simbel",
+      "url": "https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -159,22 +239,18 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
-        "name": "Rush (Moody Jones Remix)",
-        "url": "https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm"
+        "name": "Chromosome",
+        "url": "https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Moody Jones",
-          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+          "name": "Dish Dash",
+          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
         }
       ],
-      "duration_ms": 234723,
-      "name": "Rush - Moody Jones Remix",
-      "url": "https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF"
+      "duration_ms": 197007,
+      "name": "Chromosome - Edit",
+      "url": "https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -203,6 +279,46 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
+        "name": "Rush (Moody Jones Remix)",
+        "url": "https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Moody Jones",
+          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Rush - Moody Jones Remix",
+      "url": "https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
         "name": "Ksser Essouk",
         "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
       },
@@ -219,30 +335,6 @@
       "duration_ms": 326557,
       "name": "Ksser Essouk",
       "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
-        "name": "Fog Elna Khil (Tyrvnt Remix)",
-        "url": "https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA"
-      },
-      "artists": [
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        },
-        {
-          "name": "Zamane",
-          "url": "https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc"
-        },
-        {
-          "name": "Tyrvnt",
-          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
-        }
-      ],
-      "duration_ms": 252005,
-      "name": "Fog Elna Khil - Tyrvnt Remix",
-      "url": "https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -311,6 +403,22 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
         "name": "IRAQ FOREVER",
         "url": "https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l"
       },
@@ -359,22 +467,6 @@
       "duration_ms": 246720,
       "name": "Seret El Hob Remix",
       "url": "https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -463,22 +555,6 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
-        "name": "Baglami",
-        "url": "https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM"
-      },
-      "artists": [
-        {
-          "name": "DJ DALI",
-          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
-        }
-      ],
-      "duration_ms": 330491,
-      "name": "Baglami",
-      "url": "https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -503,50 +579,6 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
-        "name": "Premier Gaou (Nitefreak Remix)",
-        "url": "https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Magic System",
-          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        }
-      ],
-      "duration_ms": 222295,
-      "name": "Premier Gaou - Nitefreak Remix",
-      "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
-        "name": "Abu Simbel",
-        "url": "https://open.spotify.com/album/3HVXzuVnuaWJyflpsF8MWj"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Abu Simbel",
-      "url": "https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
         "name": "Heartbreak Fever",
         "url": "https://open.spotify.com/album/6HmP6py1Q2mpf3e1yq7MCU"
       },
@@ -563,26 +595,6 @@
       "duration_ms": 192914,
       "name": "Heartbreak Fever",
       "url": "https://open.spotify.com/track/152nakhbemxARzWXu224Hc"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
-        "name": "Sah Sah",
-        "url": "https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 171664,
-      "name": "Sah Sah",
-      "url": "https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -671,22 +683,22 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+        "name": "Sah Sah",
+        "url": "https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+      "duration_ms": 171664,
+      "name": "Sah Sah",
+      "url": "https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh"
     },
     {
       "added_at": "2023-07-02 14:20:09",
@@ -759,6 +771,26 @@
     {
       "added_at": "2023-07-02 14:20:09",
       "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2023-07-02 14:20:09",
+      "album": {
         "name": "Tangerines",
         "url": "https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt"
       },
@@ -811,22 +843,6 @@
       "duration_ms": 269231,
       "name": "Amira",
       "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
-    },
-    {
-      "added_at": "2023-07-02 14:20:09",
-      "album": {
-        "name": "Ya Fatenny",
-        "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 249448,
-      "name": "Wadina Baeid (Bonus Track)",
-      "url": "https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql"
     }
   ],
   "unique_name": "mint \u0646\u0639\u0646\u0639",

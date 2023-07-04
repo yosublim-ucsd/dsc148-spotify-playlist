@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-395 songs - 1 day 10 hr 53 min
+396 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 | 2023-06-30 |  |
 | [Live For The Music \(feat\. Erire\) \- Instrumental](https://open.spotify.com/track/0ff3N46RJWzrz1nMApRLdx) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Erire](https://open.spotify.com/artist/50tslRnDGmgFAunXL9q10K) | [Revisited EP](https://open.spotify.com/album/0ImuV2pJHgEnsHhKAwLmmf) | 7:52 | 2021-12-08 | 2022-07-29 |
 | [Live For The Music feat\. Erire \- Instrumental](https://open.spotify.com/track/0AYA7mZrC4SvoB8Bq5E7yA) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Live For The Music \(feat\. Erire\)](https://open.spotify.com/album/7JGm4r0XiqT1drx3agxFBb) | 7:48 | 2022-05-03 |  |
+| [Lonely](https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Lonely](https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp) | 4:10 | 2023-06-30 |  |
 | [Loops For Healing](https://open.spotify.com/track/1RL9gghbn6lqDyCTPteNfB) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [For Lovers](https://open.spotify.com/album/1kV1CYyGYVePD90IJ7ZzYZ) | 5:27 | 2021-12-08 | 2023-02-23 |
 | [Lost](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Lost](https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu) | 4:47 | 2023-02-03 |  |
 | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/track/5td5z2iVZ8n9cF95pxXTVW) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/album/20WgeTKy5S1nhrB7FakTR8) | 3:25 | 2021-12-08 | 2023-05-06 |
@@ -202,7 +203,7 @@
 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-10-28 |  |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-12-08 | 2022-11-20 |
 | [Mas](https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Mas](https://open.spotify.com/album/1dPZfWvc8Ojdpcz0naiIkH) | 7:46 | 2021-12-08 | 2022-11-17 |
-| [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2023-02-22 |  |
+| [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2023-02-22 | 2023-07-04 |
 | [Mellow](https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Mellow](https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB) | 7:56 | 2021-12-08 | 2022-05-22 |
 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 | 2021-12-08 | 2022-11-17 |
 | [Midnight \- Original Mix](https://open.spotify.com/track/5jAAoKfKfENn8EfjqfItKX) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Midnight EP](https://open.spotify.com/album/0IO4rC04ohE3akbw7dQX8v) | 6:59 | 2022-05-03 |  |

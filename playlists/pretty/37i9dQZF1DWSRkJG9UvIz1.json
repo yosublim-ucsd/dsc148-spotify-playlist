@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 128118,
+  "num_followers": 128147,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjI2ZWZhNTAyZjdkZDRkNWJmMmFhMDg5MDM5MDJhODIzOWE1Y2Vk",
+  "snapshot_id": "MCwzZmM0MjQwZWYzNTBmNjZkMTQ5NGMzMWM5ZTZmNzY0ZjZmOTc3OTc4",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 217135,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Brazilian Soul (feat. Sofi Tukker) [Remixes]",
         "url": "https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 250934,
       "name": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version",
       "url": "https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
+      },
+      "artists": [
+        {
+          "name": "Julian Campos",
+          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Notifica\u00e7\u00e3o Ligada",
+      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Bossatrap",
         "url": "https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 184868,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
-      },
-      "artists": [
-        {
-          "name": "Julian Campos",
-          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Notifica\u00e7\u00e3o Ligada",
-      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Qualquer Coisa",
+        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 302333,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Achados e Perdidos",
         "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
       },
@@ -611,18 +627,30 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Qualquer Coisa",
-        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
+        "name": "Ameixa",
+        "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
         }
       ],
-      "duration_ms": 302333,
-      "name": "For No One",
-      "url": "https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw"
+      "duration_ms": 246177,
+      "name": "Ameixa",
+      "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -655,34 +683,6 @@
       "duration_ms": 232476,
       "name": "Sonho Bossa Nova",
       "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Ameixa",
-        "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        }
-      ],
-      "duration_ms": 246177,
-      "name": "Ameixa",
-      "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -939,30 +939,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Quem Tem Um Amigo (Tem Tudo)",
-      "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -987,18 +963,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Beto Villares",
-        "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
       },
       "artists": [
         {
-          "name": "Beto Villares",
-          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 206386,
-      "name": "Rio da Bossa Nova",
-      "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
+      "duration_ms": 249000,
+      "name": "Quem Tem Um Amigo (Tem Tudo)",
+      "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 123596,
       "name": "Noite Quente de Ver\u00e3o",
       "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Beto Villares",
+        "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
+      },
+      "artists": [
+        {
+          "name": "Beto Villares",
+          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Rio da Bossa Nova",
+      "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Rio de Janeiro",
+        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
+      },
+      "artists": [
+        {
+          "name": "josefe",
+          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Rio de Janeiro",
+      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Rio de Janeiro",
-        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
-      },
-      "artists": [
-        {
-          "name": "josefe",
-          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Rio de Janeiro",
-      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
     }
   ],
   "unique_name": "Sol de Domingo",

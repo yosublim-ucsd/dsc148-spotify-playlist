@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 110120,
+  "num_followers": 110134,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3",
+  "snapshot_id": "MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 96405,
-      "name": "i love being with you",
-      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Luv(sic) Hexalogy",
         "url": "https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM"
       },
@@ -175,22 +159,6 @@
       "duration_ms": 286320,
       "name": "Luv (sic)",
       "url": "https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Penthouse",
-        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
-      },
-      "artists": [
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 143132,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -211,6 +179,54 @@
       "duration_ms": 218666,
       "name": "With U",
       "url": "https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 143132,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "ep seeds",
+        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "duration_ms": 118182,
+      "name": "m i s t",
+      "url": "https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -251,22 +267,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "ep seeds",
-        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        }
-      ],
-      "duration_ms": 118182,
-      "name": "m i s t",
-      "url": "https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 164800,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 84023,
-      "name": "crush on you",
-      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -331,6 +315,22 @@
       "duration_ms": 73846,
       "name": "Jocelyn",
       "url": "https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 84023,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
-      },
-      "artists": [
-        {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
-        }
-      ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Kids' Menu",
         "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "time off",
-        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
       },
       "artists": [
         {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
         }
       ],
-      "duration_ms": 122749,
-      "name": "we used to talk every night",
-      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -499,6 +483,22 @@
       "duration_ms": 122252,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "time off",
+        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122749,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
       "artists": [
         {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 128372,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
+      "duration_ms": 264000,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "v i d r i o",
         "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 110409,
       "name": "P a z",
       "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 128372,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Shanghai Nights",
-      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Discography",
         "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 118554,
       "name": "Water",
       "url": "https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 148014,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Away with the Fairies",
         "url": "https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 166153,
       "name": "Away with the Fairies",
       "url": "https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 148014,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf"
-      },
-      "artists": [
-        {
-          "name": "Knowmadic",
-          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
-        }
-      ],
-      "duration_ms": 133165,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf"
+      },
+      "artists": [
+        {
+          "name": "Knowmadic",
+          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
+        }
+      ],
+      "duration_ms": 133165,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Hills and Horizons",
-        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Hills and Horizons",
-      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Cats Walking",
         "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 136470,
       "name": "Cats Walking",
       "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Hills and Horizons",
+        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Hills and Horizons",
+      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",

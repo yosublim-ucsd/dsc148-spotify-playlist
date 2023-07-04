@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-1,024 songs - 2 day 8 hr 52 min
+1,025 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Hunger Dog](https://open.spotify.com/track/09rA6rMHCYw5h4e3vibm70) | [doc flawless](https://open.spotify.com/artist/7kQqFUxkHeDyqYlDDUtLvR), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Hunger Dog](https://open.spotify.com/album/0Oh9hgYcOFzAsRfTio245H) | 3:12 | 2023-06-05 | 2023-06-13 |
 | [HURRY UP!!!](https://open.spotify.com/track/6aO0KMUSHdlz5wnq7qgXlW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/65GDZ705N3kG0ZFSosu8W1) | 2:06 | 2023-03-20 | 2023-03-27 |
 | [I am here](https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [I am here](https://open.spotify.com/album/2T7x92ijvQLOaK7IUeP6Ar) | 3:23 | 2023-06-05 | 2023-06-13 |
+| [I am not cute \- KOTONOHOUSE Remix](https://open.spotify.com/track/3XuW3TfdXI8H3ATkLkwKvC) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [Computer Milk](https://open.spotify.com/album/27cmJZZHX7hvjPY650mWBC) | 3:48 | 2023-07-02 |  |
 | [I Can Feel My Heart](https://open.spotify.com/track/6Nv9l9YArHkUkeDHlEwVP9) | [Acidclank](https://open.spotify.com/artist/5F0j8hQsmTuCkgIkb0beLc) | [I Can Feel My Heart](https://open.spotify.com/album/35yvbnek3s9WOpoUsNU1o2) | 4:27 | 2023-06-18 | 2023-06-26 |
 | [I Can’t Party](https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [I Can’t Party](https://open.spotify.com/album/3DO4ANRqeIoaVPc4ALnhkz) | 2:25 | 2023-05-01 | 2023-05-08 |
 | [I go wiv da wind](https://open.spotify.com/track/5hyMLmkaFmd628J2DPfRpH) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [I go wiv da wind](https://open.spotify.com/album/5135A6GVHzDSxUH13Z24u0) | 2:21 | 2023-04-03 | 2023-04-10 |
@@ -989,7 +990,7 @@
 | [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-26 | 2023-04-04 |
 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4zWmFOjMYDaWaSaAOy9UP0) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/album/1DFSeBzfetJmnHaAvEJDei) | 3:45 | 2023-03-20 | 2023-03-27 |
 | [入れ歯](https://open.spotify.com/track/04Ik08oAXg3nPNP4yrw8IR) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [入れ歯](https://open.spotify.com/album/6Bd0XeFFytG5ilK1ZgkeSC) | 2:30 | 2023-05-07 | 2023-05-16 |
-| [可愛くない私 \- KOTONOHOUSE Remix](https://open.spotify.com/track/50n6dSShexFCKR5vosw3N9) | [cyber milk ちゃん](https://open.spotify.com/artist/0MQvFMFKevXG36BuRiCHLP), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [ଘ 電脳牛乳 ໒꒱](https://open.spotify.com/album/0gWbQWI2lx62pfROyjkMbm) | 3:48 | 2023-07-02 |  |
+| [可愛くない私 \- KOTONOHOUSE Remix](https://open.spotify.com/track/50n6dSShexFCKR5vosw3N9) | [cyber milk ちゃん](https://open.spotify.com/artist/0MQvFMFKevXG36BuRiCHLP), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [ଘ 電脳牛乳 ໒꒱](https://open.spotify.com/album/0gWbQWI2lx62pfROyjkMbm) | 3:48 | 2023-07-02 | 2023-07-04 |
 | [各停で行こう](https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [各停で行こう](https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX) | 2:47 | 2023-04-03 | 2023-04-10 |
 | [同じ街を見ている](https://open.spotify.com/track/2leB8GyY3F7WHObWxDR8yV) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [同じ街を見ている](https://open.spotify.com/album/53qmlLtEDEi6hQkLyPRZrK) | 7:45 | 2023-04-09 | 2023-04-17 |
 | [向日葵](https://open.spotify.com/track/7gApMTH54kCLmdFsgr7rT8) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [向日葵](https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr) | 3:19 | 2023-06-05 | 2023-06-13 |

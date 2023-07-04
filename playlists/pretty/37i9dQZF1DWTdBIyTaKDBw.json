@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 47139,
+  "num_followers": 47173,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGFlZDFiNGYyZDQwMTBjNzE4NzgyMDFiZjM0N2E1NjNlNmEzZTMx",
+  "snapshot_id": "MCwxMzZiMjU1YzM3YjFkNDI4OGQ0YTU1MmU4MDQ5NjBmZGFjYzY4NDVi",
   "tracks": [
     {
       "added_at": "2023-06-13 08:59:55",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
+        "name": "I made",
+        "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 220924,
+      "name": "Give Me Your",
+      "url": "https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA"
+    },
+    {
+      "added_at": "2023-06-13 08:59:55",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
       },
@@ -147,18 +163,18 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
-        "name": "I made",
-        "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 220924,
-      "name": "Give Me Your",
-      "url": "https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA"
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
     },
     {
       "added_at": "2023-06-13 08:59:55",
@@ -183,22 +199,6 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
-    },
-    {
-      "added_at": "2023-06-13 08:59:55",
-      "album": {
         "name": "Thought Of You",
         "url": "https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13"
       },
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
       "added_at": "2023-06-13 08:59:55",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
-    },
-    {
-      "added_at": "2023-06-13 08:59:55",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2023-06-13 08:59:55",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2023-06-13 08:59:55",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-06-13 08:59:55",
       "album": {
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
+    },
+    {
+      "added_at": "2023-06-13 08:59:55",
+      "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 194573,
       "name": "We don\u2019t talk (Feat. CHEEZE)",
       "url": "https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP"
-    },
-    {
-      "added_at": "2023-06-13 08:59:55",
-      "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2023-06-13 08:59:55",

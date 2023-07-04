@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "One Eyed Jacks (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0u8aUhsoeDWAYXM4uxmHPV"
+      },
+      "artists": [
+        {
+          "name": "Spear Of Destiny",
+          "url": "https://open.spotify.com/artist/4vJgvzfdA3q1KFsNl3GFvc"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Liberator",
+      "url": "https://open.spotify.com/track/4HdzJLko7FIZdnrUKkqCn3"
+    },
+    {
+      "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },

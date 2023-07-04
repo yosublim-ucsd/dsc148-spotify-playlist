@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aliocha Schneider",
-  "num_followers": 37099,
+  "num_followers": 37105,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWRhNzJiYjA0MDNmNTMxNjUyYzA0ZjYwMTYwOTU4YmIyOTNkZTcy",
+  "snapshot_id": "MCxmMzMyYzIzMTQyYTJlZjYzYWI3Mjc2Mjc3M2IxZjA4ZmM5NGI1NDUy",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -191,22 +191,50 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Melvin de Paris",
-        "url": "https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC"
+        "name": "Sign\u00e9",
+        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
       },
       "artists": [
         {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 202760,
-      "name": "Quoi de neuf b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
+      "duration_ms": 180968,
+      "name": "Sign\u00e9",
+      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Freestyle LVL UP 2",
+        "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 149064,
+      "name": "Freestyle LVL UP 2",
+      "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "patio / compte \u00e0 rebours",
+        "url": "https://open.spotify.com/album/6YXjiV0QLA95AuoUPB89uy"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "patio",
+      "url": "https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -235,38 +263,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "patio / compte \u00e0 rebours",
-        "url": "https://open.spotify.com/album/6YXjiV0QLA95AuoUPB89uy"
-      },
-      "artists": [
-        {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "patio",
-      "url": "https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Freestyle LVL UP 2",
-        "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 149064,
-      "name": "Freestyle LVL UP 2",
-      "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "La Fin du Monde",
         "url": "https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o"
       },
@@ -283,18 +279,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Sign\u00e9",
-        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
+        "name": "Melvin de Paris",
+        "url": "https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC"
       },
       "artists": [
         {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 180968,
-      "name": "Sign\u00e9",
-      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+      "duration_ms": 202760,
+      "name": "Quoi de neuf b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Macabre",
+        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 208841,
+      "name": "Macabre",
+      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "BORZ",
         "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
       },
@@ -411,6 +431,22 @@
       "duration_ms": 136635,
       "name": "BORZ",
       "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -431,22 +467,34 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Macabre",
-        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
-      "duration_ms": 208841,
-      "name": "Macabre",
-      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
+      "duration_ms": 134423,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Les choses qu'on fait",
+        "url": "https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 196725,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -471,8 +519,8 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Derni\u00e8re fois",
-        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
       },
       "artists": [
         {
@@ -480,57 +528,9 @@
           "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 198698,
-      "name": "Derni\u00e8re fois",
-      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Les choses qu'on fait",
-        "url": "https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 196725,
-      "name": "Les choses qu'on fait",
-      "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 134423,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Freestyle LVL UP 3",
-        "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 200976,
-      "name": "Freestyle LVL UP 3",
-      "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
+      "duration_ms": 182970,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -551,6 +551,22 @@
       "duration_ms": 166385,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Freestyle LVL UP 3",
+        "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 200976,
+      "name": "Freestyle LVL UP 3",
+      "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 179902,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Eyes Contact",
         "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
       },
@@ -639,18 +639,42 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "M\u00e9t\u00e9o",
-        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 182970,
-      "name": "M\u00e9t\u00e9o",
-      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
+      "duration_ms": 179902,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Chef D'orchestre",
+        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Cit\u00e9s de France",
+      "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -691,22 +715,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Je partirai",
-        "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Je partirai",
-      "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Derni\u00e8re danse",
         "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
       },
@@ -727,6 +735,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Je partirai",
+        "url": "https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Non conventionnel",
         "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 227320,
       "name": "I love U",
       "url": "https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Chef D'orchestre",
-        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "ZEG P",
-          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Cit\u00e9s de France",
-      "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Le stade",
         "url": "https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 143055,
       "name": "Le stade",
       "url": "https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2023-06-30 04:01:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-775 songs - 1 day 21 hr 21 min
+776 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Trivia 轉 : Seesaw](https://open.spotify.com/track/0mZI1NpihIVcho2f9MmqSW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:06 | 2022-03-05 | 2022-06-13 |
 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/album/6He7un0iQqrbVsmieoliGN) | 3:19 | 2021-03-27\* | 2021-10-12 |
 | [Trước Khi Em Tồn Tại](https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 3:14 | 2023-05-04 |  |
+| [Trước Khi Em Tồn Tại](https://open.spotify.com/track/06sp3j99RRlMFo6HQe9Ebg) | [Trần Quốc Cường](https://open.spotify.com/artist/4TT9Zof1edsC3Igp1wcQdw), [Việt Anh](https://open.spotify.com/artist/0Vu0a9eScaIqTGyVrLbZjr) | [Trước Khi Em Tồn Tại](https://open.spotify.com/album/5XM9KvcdVpti2JAkYfweKz) | 3:12 | 2023-07-03 |  |
 | [Trưởng Nữ Chạy Trốn](https://open.spotify.com/track/2Zos792uWaDCqqnmPaBH1x) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 | 2022-08-13 | 2022-08-22 |
 | [Trốn Tìm](https://open.spotify.com/track/34uOIsoy6ETS2sxOTWBRDF) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MTV band](https://open.spotify.com/artist/4yPMFGDr3rHwOyyS634Rzd) | [Trốn Tìm](https://open.spotify.com/album/1OWSGECq2oKMojwFp0EFvJ) | 4:08 | 2021-05-15 | 2022-01-13 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-23 | 2022-07-25 |
@@ -779,7 +780,7 @@
 | [Độ Tộc 2](https://open.spotify.com/track/6B4AdZzwagId7wvWeJEkiq) | [Độ Mixi](https://open.spotify.com/artist/0TZKKZG6WHl2aVFPDtND82), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Độ Tộc 2](https://open.spotify.com/album/42eEQcNJgON2LMvp3y2ihK) | 3:21 | 2021-09-25 | 2021-10-18 |
 | [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 | 2022-08-10 | 2022-10-03 |
 | [Đừng Gọi Anh Dậy](https://open.spotify.com/track/788R2DoEe7XIzeZamawv6U) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [1989s Entertainment](https://open.spotify.com/artist/2W8eKncv7oF0lp7KUVxndY) | [Trạm Cảm Xúc](https://open.spotify.com/album/5Jak81S9XSctPmtuVKEXA9) | 3:14 | 2021-06-07 | 2021-06-20 |
-| [ưng quá chừng](https://open.spotify.com/track/2ZJTmYNOA8k21yUtLXJG57) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [ưng quá chừng](https://open.spotify.com/album/69LfreeND1LkCiy0JPJr3l) | 1:21 | 2023-03-08 |  |
+| [ưng quá chừng](https://open.spotify.com/track/2ZJTmYNOA8k21yUtLXJG57) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [ưng quá chừng](https://open.spotify.com/album/69LfreeND1LkCiy0JPJr3l) | 1:21 | 2023-03-08 | 2023-07-04 |
 | [まつり](https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:45 | 2023-02-18 | 2023-02-20 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-09 | 2022-10-22 |
 | [進撃の防弾\(SONPUB REMIX\)](https://open.spotify.com/track/6xlrayjvJpj9nINodZRpOL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Danger \-Japanese Ver.\- 通常盤](https://open.spotify.com/album/3qFmYLvKcogx8DGSphUuXU) | 4:02 | 2022-01-25 | 2022-01-29 |

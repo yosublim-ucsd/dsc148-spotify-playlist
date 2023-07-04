@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Are You There",
+        "url": "https://open.spotify.com/album/3nMBXwSQ408EAaz8Cq9f6j"
+      },
+      "artists": [
+        {
+          "name": "BIMINI",
+          "url": "https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169680,
+      "name": "Are You There",
+      "url": "https://open.spotify.com/track/3po36dia1jvyPplG3NKlAe"
+    },
+    {
+      "album": {
         "name": "Away From Home",
         "url": "https://open.spotify.com/album/5T2CFeH0z9TW9SwostRiQq"
       },
@@ -266,7 +288,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
@@ -1110,7 +1132,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 214190,
       "name": "Out of Time - Instrumental",
       "url": "https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn"
@@ -1496,6 +1518,28 @@
       "duration_ms": 158916,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww"
+    },
+    {
+      "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/2GzF4J8KOdoZIjYJa2JH4X"
+      },
+      "artists": [
+        {
+          "name": "Yorina",
+          "url": "https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC"
+        },
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa"
     },
     {
       "album": {

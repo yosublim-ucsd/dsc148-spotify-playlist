@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,327 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,346 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 98 | [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 |
 | 99 | [Rise](https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Rise](https://open.spotify.com/album/3dyiC25i2f5CL3vjiIQ58b) | 2:32 |
 
-Snapshot ID: `MCxjZDY2OTc0OTM1NjE0MzcyYTU3MTE1NzA1ZDgzMmU2OWM2MjQ4MjIz`
+Snapshot ID: `MCwwNjRmYjZjMGZkNmQ2NDY1MzFmNmY4NjQ4OTM3ZDk1MDI0MjA5NmQ1`

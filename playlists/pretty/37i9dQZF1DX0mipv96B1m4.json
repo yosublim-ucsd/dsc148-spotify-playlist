@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 654,
+  "num_followers": 653,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjEyMWNjN2I2NDQ3ZWZlNzE4Zjc3YjdiMTFmNWM1NzIwNGUyNGYx",
+  "snapshot_id": "MCxhM2IzZjk3ZGIyYmRlMjEzOGFiMWE3OGJiMzQ2ZDU0NTgzZTZkYjM0",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -375,34 +375,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Go Down",
-        "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        },
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        },
-        {
-          "name": "Kent & flosso",
-          "url": "https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD"
-        },
-        {
-          "name": "Coco Finger",
-          "url": "https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib"
-        }
-      ],
-      "duration_ms": 207229,
-      "name": "Go Down",
-      "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Magazine",
         "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
       },
@@ -439,6 +411,34 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Go Down",
+        "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "Kent & flosso",
+          "url": "https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD"
+        },
+        {
+          "name": "Coco Finger",
+          "url": "https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib"
+        }
+      ],
+      "duration_ms": 207229,
+      "name": "Go Down",
+      "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
-      "added_at": "2022-06-28 08:35:51",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Wulira Omuziki",
@@ -527,58 +511,6 @@
       "duration_ms": 196205,
       "name": "Wulira Omuziki",
       "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
-      "added_at": "2022-11-10 20:59:00",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-05-27 05:48:37",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 217338,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -629,6 +561,38 @@
       "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
     },
     {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2022-06-28 08:35:51",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Feel Me",
@@ -647,6 +611,42 @@
       "duration_ms": 196963,
       "name": "Gyal A Bubble",
       "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+    },
+    {
+      "added_at": "2022-05-27 05:48:37",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 217338,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
     },
     {
       "added_at": "2023-01-12 20:59:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Kiriza Rmx",
+        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Kiriza Rmx",
+      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Misege",
         "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
@@ -889,24 +909,24 @@
       "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
+      "added_at": "2023-01-20 05:09:22",
       "album": {
-        "name": "Kiriza Rmx",
-        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
       },
       "artists": [
         {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+          "name": "Lilly Ahabwe",
+          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
         },
         {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Kiriza Rmx",
-      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
+      "duration_ms": 174315,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -927,26 +947,6 @@
       "duration_ms": 186000,
       "name": "Bakuwe",
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
-    },
-    {
-      "added_at": "2023-01-20 05:09:22",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahabwe",
-          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
       "added_at": "2022-03-31 17:42:20",

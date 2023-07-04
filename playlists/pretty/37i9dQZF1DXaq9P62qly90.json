@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12488,
+  "num_followers": 12491,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZmMDJlZmFhZWQwYzMyM2U5N2M1OWM1MTg2YzNjMGZlNzM4ODdk",
+  "snapshot_id": "MCwzMTk5NDEzMDc3MmJlNDBjZTc0NDA2OGJjZTgwNmM3ZDM4MDMxM2Yx",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
       },
       "artists": [
         {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
         }
       ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Stronger (Acoustic)",
         "url": "https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 234061,
       "name": "These Are My Roots",
       "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        },
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 262174,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Road Goes All Night",
         "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
       },
@@ -855,18 +835,34 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+        "name": "Heroin and Helicopters",
+        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 207485,
-      "name": "Lifeguard",
-      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+      "duration_ms": 239280,
+      "name": "Caribbean Skies",
+      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 349253,
+      "name": "Back to the Old",
+      "url": "https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut"
     }
   ],
   "unique_name": "Peace Of Mind",

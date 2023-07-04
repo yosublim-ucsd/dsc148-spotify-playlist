@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
       },
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 141941,
       "name": "Donde Nadas",
       "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 110294,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 177280,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/3m2AfO2MVWB1hgrEwFnwpA"
@@ -4399,6 +4417,28 @@
     },
     {
       "album": {
+        "name": "Inward Road (Piano Version)",
+        "url": "https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138704,
+      "name": "Inward Road - Piano Version",
+      "url": "https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite"
+    },
+    {
+      "album": {
         "name": "Irremplac\u0327able",
         "url": "https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW"
       },
@@ -4522,6 +4562,24 @@
       "duration_ms": 156000,
       "name": "June",
       "url": "https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ"
+    },
+    {
+      "album": {
+        "name": "Just One More Time",
+        "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196312,
+      "name": "Just One More Time",
+      "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
     },
     {
       "album": {
@@ -5098,6 +5156,24 @@
       "duration_ms": 119554,
       "name": "Light Heart",
       "url": "https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG"
+    },
+    {
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "album": {
@@ -7355,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "Real As Rain",
+        "url": "https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF"
+      },
+      "artists": [
+        {
+          "name": "Ellen Wince",
+          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126305,
+      "name": "Real As Rain",
+      "url": "https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5"
+    },
+    {
+      "album": {
         "name": "Reappearance",
         "url": "https://open.spotify.com/album/7Jhe5OaZ8wSQsCTiQgcdqG"
       },
@@ -8530,6 +8624,24 @@
       "duration_ms": 134750,
       "name": "Sleeping at last",
       "url": "https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS"
+    },
+    {
+      "album": {
+        "name": "Slow Morning",
+        "url": "https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu"
+      },
+      "artists": [
+        {
+          "name": "Cinthya Garcia",
+          "url": "https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Slow Morning",
+      "url": "https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S"
     },
     {
       "album": {
@@ -9941,6 +10053,24 @@
     },
     {
       "album": {
+        "name": "Towards Perfection",
+        "url": "https://open.spotify.com/album/6saaRnHoS7SRny6LhPWoLq"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124367,
+      "name": "Towards Perfection",
+      "url": "https://open.spotify.com/track/36hXU10yupqsRUftnTFAyy"
+    },
+    {
+      "album": {
         "name": "Training Wheels",
         "url": "https://open.spotify.com/album/5pBxsJkcluC0rriObZFAQ4"
       },
@@ -10456,7 +10586,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 231508,
       "name": "Veleta",
       "url": "https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1"

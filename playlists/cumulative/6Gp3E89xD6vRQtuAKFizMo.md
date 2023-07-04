@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-187 songs - 9 hr 15 min
+188 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/track/6HrgbjynD4n5qPwUFkyGMR) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/album/3QMSVLN7YlUUGeEzr9lObT) | 2:46 | 2023-03-02 | 2023-05-27 |
 | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm) | [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf) | 3:31 | 2022-09-27 | 2023-04-09 |
+| [Celebrate](https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Celebrate](https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M) | 3:14 | 2023-07-03 |  |
 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 | 2022-10-21 | 2023-06-17 |
 | [Chase Me](https://open.spotify.com/track/7r1BShTewnDTXf64CZixQT) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Chase Me](https://open.spotify.com/album/3BJXM7HyRTmBrTzl2zCkmt) | 2:56 | 2023-03-31 | 2023-05-27 |
 | [Check This \(with Kuhlosul\)](https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm) | [Check This \(with Kuhlosul\)](https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k) | 2:40 | 2022-10-17 | 2023-04-09 |

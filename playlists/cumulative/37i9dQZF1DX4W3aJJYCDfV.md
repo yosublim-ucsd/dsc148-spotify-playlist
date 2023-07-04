@@ -4,7 +4,7 @@
 
 > Brand new music from Olivia Rodrigo \(pictured\), D\-Block Europe, Holly Humberstone and more!
 
-4,483 songs - 10 day 2 hr 39 min
+4,484 songs - 10 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3494,6 +3494,7 @@
 | [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 | 2023-06-08 | 2023-06-16 |
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2022-10-28 | 2022-11-04 |
 | [Snowflake](https://open.spotify.com/track/1nlyrAbacErxuKUERc0az1) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [Confidence](https://open.spotify.com/album/6YSxOQCK8i1VmMQOQMGASR) | 2:47 | 2023-06-29 | 2023-07-01 |
+| [Snowflake](https://open.spotify.com/track/6xySSTIC6yuru34Oh3Q0lj) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [Snowflake](https://open.spotify.com/album/4IjW4nYRS1TCEcHghO9lIs) | 2:47 | 2023-07-03 |  |
 | [So Awake](https://open.spotify.com/track/4hed5goVWT1RXlDwIXy22a) | [Will Heggadon](https://open.spotify.com/artist/2Y0sh9cqZb8lhfWsIsByAO) | [So Awake](https://open.spotify.com/album/5eI6F1MKD42Dto45s3KBH0) | 2:22 | 2022-11-18 | 2022-11-25 |
 | [So Badly](https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [So Badly](https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9) | 3:50 | 2023-01-27 | 2023-02-03 |
 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 | 2023-03-18 |

@@ -16177,6 +16177,24 @@
     },
     {
       "album": {
+        "name": "Good To Ya",
+        "url": "https://open.spotify.com/album/3PloKOqH2eiBTrz8DBsorB"
+      },
+      "artists": [
+        {
+          "name": "Livvy Lauren",
+          "url": "https://open.spotify.com/artist/7H525GcgGfiktDgxDHGcX1"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168988,
+      "name": "Good To Ya",
+      "url": "https://open.spotify.com/track/0aqWRapnLhIuaTr1kDAfod"
+    },
+    {
+      "album": {
         "name": "Good Vibes Only",
         "url": "https://open.spotify.com/album/6lTzNk7q1KoTx36csUILeE"
       },
@@ -16872,7 +16890,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 202666,
       "name": "happysad",
       "url": "https://open.spotify.com/track/36K1XfRi0sAV8F46ZgLmnA"
@@ -23835,6 +23853,24 @@
     },
     {
       "album": {
+        "name": "Love Ain't Blind",
+        "url": "https://open.spotify.com/album/6wj4PLkEJ9msVOyaJi5ncX"
+      },
+      "artists": [
+        {
+          "name": "Richard Grand",
+          "url": "https://open.spotify.com/artist/4mXgLyMdxeaW37B8vXNrkR"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203080,
+      "name": "Love Ain't Blind",
+      "url": "https://open.spotify.com/track/3rYjZODFCRQoTadGWZi6Mb"
+    },
+    {
+      "album": {
         "name": "Magic & the Reel",
         "url": "https://open.spotify.com/album/6Q7ooV4QlxRP6Oq6d3UYik"
       },
@@ -24414,6 +24450,24 @@
       "duration_ms": 270360,
       "name": "LTWYLM",
       "url": "https://open.spotify.com/track/4TWJvu5iSNYhUgVBnqWvBY"
+    },
+    {
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/37809nVEgEhjfONXyfYc6l"
+      },
+      "artists": [
+        {
+          "name": "McKenna Mix",
+          "url": "https://open.spotify.com/artist/6mPTxtgVTryDZe5QF2y53G"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191322,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/5X9MCQkOzaDtvL5coFMdLs"
     },
     {
       "album": {
@@ -27019,6 +27073,24 @@
     },
     {
       "album": {
+        "name": "phone sex.",
+        "url": "https://open.spotify.com/album/0IlsOKILf4fjGQ8eivlSra"
+      },
+      "artists": [
+        {
+          "name": "DOMINICAN DOLL",
+          "url": "https://open.spotify.com/artist/2j2lz6osiCdJq32cC8Szmy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190920,
+      "name": "my call",
+      "url": "https://open.spotify.com/track/5FVW02kgtwdQ4YBzUqVgJo"
+    },
+    {
+      "album": {
         "name": "My Favorite Song",
         "url": "https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7"
       },
@@ -27558,7 +27630,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 240000,
       "name": "Neon",
       "url": "https://open.spotify.com/track/2kcGepwzAxbwTRyYIw2VF3"
@@ -33024,7 +33096,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 163500,
       "name": "Rough Old Friend",
       "url": "https://open.spotify.com/track/1ZiQ8AldPsAIKrq1n3OPta"
@@ -37822,7 +37894,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 212715,
       "name": "Sweet summer night",
       "url": "https://open.spotify.com/track/3ZhKbSA5EtBAIDTl8AR2Tj"
@@ -44083,6 +44155,28 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/20zIuIgiwTQgNUCMtI6gWG"
+      },
+      "artists": [
+        {
+          "name": "Kelsi",
+          "url": "https://open.spotify.com/artist/4cmBSBQWPOXgV2cnHuhBNr"
+        },
+        {
+          "name": "LILAC",
+          "url": "https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/7K4m6xetVm9iKsn91vfuAu"
+    },
+    {
+      "album": {
         "name": "With The Winds of Change",
         "url": "https://open.spotify.com/album/3KRYsVeDEfvqCzhyXKpGIy"
       },
@@ -45400,7 +45494,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 248794,
       "name": "Your Time",
       "url": "https://open.spotify.com/track/7mIcFQuZWCoRUug5O1A2pK"

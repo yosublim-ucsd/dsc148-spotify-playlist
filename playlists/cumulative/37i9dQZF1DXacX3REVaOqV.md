@@ -4,7 +4,7 @@
 
 > The best in house music
 
-330 songs - 23 hr 38 min
+331 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Get On Out](https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb) | [4NEY](https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh) | [Get On Out](https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU) | 2:58 | 2022-04-20 | 2022-07-29 |
 | [Gettin' Started](https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Labi Ramaj](https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Gettin' Started](https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn) | 2:36 | 2022-05-05 | 2023-04-25 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-03-09 |  |
+| [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-07-03 |  |
 | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/track/0pWn3bA7mOP38Vmx1lQNco) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/album/2hHgzsGpk9K4cebpE2VibI) | 4:30 | 2022-09-19 | 2022-10-07 |
 | [Good Times \- Radio Edit](https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ben Rainey](https://open.spotify.com/artist/7n7VU5WFgmKTwDIXHZSQgN) | [Good Times](https://open.spotify.com/album/23CkTM2VAbypE4c3RCHb9W) | 3:12 | 2022-04-14 | 2023-05-26 |
 | [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 |  |
@@ -219,7 +220,7 @@
 | [Oh Yes \(feat\. Marvin Gaye & Tammi Terrell\)](https://open.spotify.com/track/1CdlRy7UMR7Oz8pnUFFX2G) | [Paris Green](https://open.spotify.com/artist/5ECHe2MSGF8z12B7wv08x5), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Oh Yes \(feat\. Marvin Gaye & Tammi Terrell\)](https://open.spotify.com/album/1WQt1d6HXFKXMCtxN7Zpud) | 2:39 | 2022-04-14 |  |
 | [OK \- Cool \- Aight feat\. Conquer Jones](https://open.spotify.com/track/1Fp1C2kQBNPNL7nWgQ7hVs) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:29 | 2022-04-14 | 2023-01-27 |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2022-04-14 |  |
-| [On Da Groove](https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [On Da Groove](https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI) | 5:12 | 2022-04-14 |  |
+| [On Da Groove](https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [On Da Groove](https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI) | 5:12 | 2022-04-14 | 2023-07-04 |
 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 | 2022-04-14 | 2022-07-20 |
 | [On My Mind](https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [On My Mind](https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f) | 2:11 | 2022-04-14 |  |
 | [Once Again](https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Once Again](https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab) | 2:38 | 2022-05-19 |  |

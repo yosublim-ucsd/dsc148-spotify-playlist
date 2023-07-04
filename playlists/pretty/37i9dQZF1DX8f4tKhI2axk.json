@@ -1,12 +1,12 @@
 {
   "description": "Island vibes for the whole family.",
-  "num_followers": 36793,
+  "num_followers": 36895,
   "original_name": "Raised on Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODEyODE4YjQ5NGRiYWQ0NTk2NjM1OGFlYzcyYmQyOGU5Yjk0NmNm",
+  "snapshot_id": "MCwwNGEwMzVmY2FhNjhiZTZmNDRlMmRjZDIyZGUwNThlMDZkNzhhNDg4",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:33",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 204222,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2021-04-20 17:48:33",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
+        "name": "True Democracy",
+        "url": "https://open.spotify.com/album/26eFSibLfoQ0pIvnb02NDg"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/6PbtTwGUPPbnT7nRTA1gS3"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
         "name": "44/876 (Deluxe)",
         "url": "https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l"
       },
@@ -231,38 +247,6 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
-        "name": "True Democracy",
-        "url": "https://open.spotify.com/album/26eFSibLfoQ0pIvnb02NDg"
-      },
-      "artists": [
-        {
-          "name": "Steel Pulse",
-          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Your House",
-      "url": "https://open.spotify.com/track/6PbtTwGUPPbnT7nRTA1gS3"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
         "name": "Wonderful World, Beautiful People",
         "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
@@ -279,38 +263,18 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Cupid - Deluxe Edition Version",
-      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
-        "name": "Maxi",
-        "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
-      },
-      "artists": [
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
-        },
-        {
-          "name": "John Gallen",
-          "url": "https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2021-04-20 17:48:33",
@@ -351,6 +315,42 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Cupid - Deluxe Edition Version",
+      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
+        "name": "Maxi",
+        "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
+      },
+      "artists": [
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+        },
+        {
+          "name": "John Gallen",
+          "url": "https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm"
       },
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
         "name": "Police & Thieves",
         "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT"
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
       "added_at": "2021-04-20 17:48:33",
@@ -491,22 +507,6 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come",
-      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
         "name": "Night Food",
         "url": "https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
         "name": "Conscious Party",
         "url": "https://open.spotify.com/album/31dATgHjk7MwSkzrtNUurs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 218440,
       "name": "Tomorrow People",
       "url": "https://open.spotify.com/track/07QZEz7d4OS6vmS1iiwJCc"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9"
     },
     {
       "added_at": "2021-04-20 17:48:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
-        "name": "Funky Kingston",
-        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Country Road",
-      "url": "https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
         "name": "Bush Doctor",
         "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
       },
@@ -619,22 +603,6 @@
       "duration_ms": 320280,
       "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
       "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
-    },
-    {
-      "added_at": "2021-04-20 17:48:33",
-      "album": {
-        "name": "Pure Pleasure",
-        "url": "https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Oh Carolina",
-      "url": "https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn"
     },
     {
       "added_at": "2021-04-20 17:48:33",
@@ -655,6 +623,22 @@
     {
       "added_at": "2021-04-20 17:48:33",
       "album": {
+        "name": "Pure Pleasure",
+        "url": "https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Oh Carolina",
+      "url": "https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
         "name": "Most Wanted Series - Yellowman",
         "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 387306,
       "name": "Zungguzungguguzungguzeng",
       "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
+    },
+    {
+      "added_at": "2021-04-20 17:48:33",
+      "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Country Road",
+      "url": "https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B"
     },
     {
       "added_at": "2021-04-20 17:48:33",

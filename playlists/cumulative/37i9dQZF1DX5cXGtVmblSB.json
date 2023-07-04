@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
   "description": "Soft music to calm down cats, kittens and their humans.",
-  "name": "Calming Cat Music",
+  "name": "Cat Calming Music",
   "tracks": [
     {
       "album": {
@@ -77,6 +77,42 @@
     },
     {
       "album": {
+        "name": "Unending Silence",
+        "url": "https://open.spotify.com/album/6Qavh6mFHREtBkl9eelsSS"
+      },
+      "artists": [
+        {
+          "name": "Aerin Villegas",
+          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117835,
+      "name": "528 Hz - Unending Silence",
+      "url": "https://open.spotify.com/track/39IYyk3FebMt3ZuYmwhzrg"
+    },
+    {
+      "album": {
+        "name": "528 Hz Healing Journey",
+        "url": "https://open.spotify.com/album/2MTNpysnpcfKzgGEwUoivz"
+      },
+      "artists": [
+        {
+          "name": "Elnas",
+          "url": "https://open.spotify.com/artist/55WeSuvEkyLLgJjDU2zAO0"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158339,
+      "name": "528 Hz Positive Waves",
+      "url": "https://open.spotify.com/track/7qZ5aBw4BFPdudxXNHBfxt"
+    },
+    {
+      "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },
@@ -95,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Ambisonic",
+        "url": "https://open.spotify.com/album/6tURvUvjWCNmakAxeDfkak"
+      },
+      "artists": [
+        {
+          "name": "Dominum Nominum",
+          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163624,
+      "name": "Ambisonic",
+      "url": "https://open.spotify.com/track/2i65QryEKcbrFrk48fwepq"
+    },
+    {
+      "album": {
         "name": "Observer",
         "url": "https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg"
       },
@@ -106,7 +160,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 250589,
       "name": "Aware of Everything",
       "url": "https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU"
@@ -237,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Brilliant World & Blooming Peace",
+        "url": "https://open.spotify.com/album/1PIfE4jAici4b5icjZnsB8"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Brilliant World",
+      "url": "https://open.spotify.com/track/109tY81HO3zaLidHHiSBPU"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta"
       },
@@ -252,6 +324,42 @@
       "duration_ms": 185505,
       "name": "By Candlelight",
       "url": "https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh"
+    },
+    {
+      "album": {
+        "name": "Calm And Focused",
+        "url": "https://open.spotify.com/album/2t3ZSQ4qT66GZhVyX3YB9k"
+      },
+      "artists": [
+        {
+          "name": "Wings Of Silk",
+          "url": "https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182261,
+      "name": "Calm And Focused",
+      "url": "https://open.spotify.com/track/14tRCC9UU68DA2Rk8Szorw"
+    },
+    {
+      "album": {
+        "name": "Compass of Peace 528 Hz",
+        "url": "https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Compass of Peace 528 Hz",
+      "url": "https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k"
     },
     {
       "album": {
@@ -291,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Eternal Moonshine 741 Hz",
+        "url": "https://open.spotify.com/album/6XkeOuyw0OSUaxR3N2Q51k"
+      },
+      "artists": [
+        {
+          "name": "Gary Lovelin",
+          "url": "https://open.spotify.com/artist/1X0Pz328T2O3e2yioaDGTk"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137564,
+      "name": "Eternal Moonshine 741 Hz",
+      "url": "https://open.spotify.com/track/1e1RbrYKiKoSi6K63qfMU2"
+    },
+    {
+      "album": {
         "name": "Music for Cats Album Two",
         "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
       },
@@ -302,7 +428,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 544000,
       "name": "For I Will Consider My Cat Jeoffry",
       "url": "https://open.spotify.com/track/3SqawUAmaZGwmzleROyk4E"
@@ -320,7 +446,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 691000,
       "name": "Fostog's Touch",
       "url": "https://open.spotify.com/track/0Qp3kcosNRkoUlMmkyA9KJ"
@@ -338,7 +464,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 690750,
       "name": "Fostog's Touch Remix for People",
       "url": "https://open.spotify.com/track/08WfJZYIsb0jDEa21SkD5p"
@@ -461,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203353,
+      "name": "Kalmte",
+      "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
+    },
+    {
+      "album": {
         "name": "Music for Cats Album One",
         "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
       },
@@ -476,6 +620,42 @@
       "duration_ms": 518000,
       "name": "Katey Moss Catwalk",
       "url": "https://open.spotify.com/track/0KElSYgAOjxKY5M3onAD2i"
+    },
+    {
+      "album": {
+        "name": "Komal",
+        "url": "https://open.spotify.com/album/5mRadTZXGFtLaNioT37aom"
+      },
+      "artists": [
+        {
+          "name": "Shikha Chadha",
+          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181507,
+      "name": "Komal",
+      "url": "https://open.spotify.com/track/0hIIdNfezCtKDLoIT3ilx2"
+    },
+    {
+      "album": {
+        "name": "Lazily Floating 741 Hz",
+        "url": "https://open.spotify.com/album/6O4U237uU4UjhEhY8CcwO7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carpenter",
+          "url": "https://open.spotify.com/artist/6x9pLMFwxLKszDvJixBRuB"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Lazily Floating 741 Hz",
+      "url": "https://open.spotify.com/track/3JVNr2XrBVkfaAToTQ09q4"
     },
     {
       "album": {
@@ -544,7 +724,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 252500,
       "name": "Maurice's Melody",
       "url": "https://open.spotify.com/track/2HGTsS8Yo8AorkIQT3SZog"
@@ -654,7 +834,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 493860,
       "name": "Opus for Oliver",
       "url": "https://open.spotify.com/track/3Nda8HVJcMQmwRrg01u6ou"
@@ -672,7 +852,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 377520,
       "name": "Padma's Love",
       "url": "https://open.spotify.com/track/6OYcPLbRiymptR5AmbfDZo"
@@ -821,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Garden Heart: Reworks",
+        "url": "https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        },
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217324,
+      "name": "Reaping in Joy",
+      "url": "https://open.spotify.com/track/5GS1nPJBMHLmVlkpG8v5Zw"
+    },
+    {
+      "album": {
         "name": "Calming Music for Anxious Cats: Songs to Soothe Your Cat",
         "url": "https://open.spotify.com/album/6oJRshmkcJerjwLT6Pc8rO"
       },
@@ -843,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Right Path 852 Hz",
+        "url": "https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7"
+      },
+      "artists": [
+        {
+          "name": "Meodna",
+          "url": "https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Right Path 852 Hz",
+      "url": "https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK"
+    },
+    {
+      "album": {
         "name": "Rusty's Ballad",
         "url": "https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF"
       },
@@ -854,7 +1074,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 201760,
       "name": "Rusty's Ballad",
       "url": "https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI"
@@ -951,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP"
+      },
+      "artists": [
+        {
+          "name": "Damir Yamm",
+          "url": "https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155730,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc"
+    },
+    {
+      "album": {
         "name": "Spook's Ditty",
         "url": "https://open.spotify.com/album/4BNnFQGH2sQxxQZBxSuQxI"
       },
@@ -969,6 +1207,32 @@
     },
     {
       "album": {
+        "name": "M\u00e5nens hav",
+        "url": "https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        },
+        {
+          "name": "Jakob Lindhagen",
+          "url": "https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn"
+        },
+        {
+          "name": "Brueder Selke",
+          "url": "https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333600,
+      "name": "Stillhetens hav II",
+      "url": "https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ"
+    },
+    {
+      "album": {
         "name": "Strings Of Serenity",
         "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
       },
@@ -984,6 +1248,24 @@
       "duration_ms": 171250,
       "name": "Strings Of Serenity",
       "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
+    },
+    {
+      "album": {
+        "name": "The Heritage",
+        "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216063,
+      "name": "The Heritage",
+      "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
     },
     {
       "album": {
@@ -1046,6 +1328,24 @@
       "duration_ms": 336053,
       "name": "Tigerlili and Mimi's Mewsical",
       "url": "https://open.spotify.com/track/1NxgrJyQh1KTSslKIpieCi"
+    },
+    {
+      "album": {
+        "name": "Unresolved",
+        "url": "https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy"
+      },
+      "artists": [
+        {
+          "name": "Hibisc",
+          "url": "https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107740,
+      "name": "Unresolved",
+      "url": "https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5cXGtVmblSB"

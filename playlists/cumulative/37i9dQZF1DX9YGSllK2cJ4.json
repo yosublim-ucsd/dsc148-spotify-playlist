@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Perdono",
+        "url": "https://open.spotify.com/album/3l0o5eKMNP76OSjxFyi2ER"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Nucci",
+          "url": "https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Perdono",
+      "url": "https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS"
+    },
+    {
+      "album": {
         "name": "Perpendicular",
         "url": "https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY"
       },
@@ -5204,6 +5222,24 @@
       "duration_ms": 134750,
       "name": "Tou\u017eebn\u00fd",
       "url": "https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H"
+    },
+    {
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/1LeYfcGfsjrhHClQVB3bYz"
+      },
+      "artists": [
+        {
+          "name": "Cove Hollis",
+          "url": "https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182663,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/5zZuBsxhHTddDtotFUZ0Nw"
     },
     {
       "album": {

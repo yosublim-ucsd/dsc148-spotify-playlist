@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/319669?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,258 likes - 84 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,288 likes - 84 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [Fuzzy](https://open.spotify.com/track/6wOiypD8mvXz732pnbGX75) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Fuzzy](https://open.spotify.com/album/7ry322fIhLAxswrY2iQXeP) | 3:44 |
 | 84 | [Teenage Dreams,Teenage Kicks](https://open.spotify.com/track/0la4JrXeHmvdZZeep9VLnc) | [Puff](https://open.spotify.com/artist/5UhiiLdlZhWqyThTakJmkw) | [Teenage Dreams,Teenage Kicks](https://open.spotify.com/album/66avo0KmqNUIgB1XkYwoSS) | 3:55 |
 
-Snapshot ID: `MCw1OGUwNmIwYzg3YzNmNzUyYTlhOThmNzNmMDlkYmYxYjZjMGQ2NDQ1`
+Snapshot ID: `MCwzMTEyMmEyODA0N2Y0ZmVlNmFlYTFkYWU1NzYyNTRmZmZhNjdhNjRm`

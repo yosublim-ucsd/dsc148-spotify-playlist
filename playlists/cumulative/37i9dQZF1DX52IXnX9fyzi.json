@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
         "name": "Antwerp",
         "url": "https://open.spotify.com/album/765nVc9qoHX3bLF2tMsrig"
       },
@@ -2335,6 +2353,28 @@
     },
     {
       "album": {
+        "name": "Inward Road (Piano Version)",
+        "url": "https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138704,
+      "name": "Inward Road - Piano Version",
+      "url": "https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite"
+    },
+    {
+      "album": {
         "name": "Io e te",
         "url": "https://open.spotify.com/album/0Svky6kOkcaDUJb0woHTmz"
       },
@@ -2404,6 +2444,24 @@
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
+    },
+    {
+      "album": {
+        "name": "Just One More Time",
+        "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196312,
+      "name": "Just One More Time",
+      "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
     },
     {
       "album": {
@@ -4266,6 +4324,24 @@
       "duration_ms": 171213,
       "name": "Sea Change",
       "url": "https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1"
+    },
+    {
+      "album": {
+        "name": "Seagull's Feathers",
+        "url": "https://open.spotify.com/album/2OHdNwIAbyMWBAt3hGh81r"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129117,
+      "name": "Seagull's Feathers",
+      "url": "https://open.spotify.com/track/1UzBL7zD1kxJW2B2H3eaCf"
     },
     {
       "album": {

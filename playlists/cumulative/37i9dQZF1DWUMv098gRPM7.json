@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "FMU",
+        "url": "https://open.spotify.com/album/5R6v6HYbJ27x5LfI2ILJRm"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/7e2BZGkxyHRk74HYy8KJkz"
+    },
+    {
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ"
       },
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 211034,
       "name": "Stole My Love",
       "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"

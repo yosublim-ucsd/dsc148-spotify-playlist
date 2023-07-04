@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 622807,
+  "num_followers": 622856,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGVlYTQxOTljOGViMjBlZDNhZTBlOTI2Zjg3MDEwNDVkZDJhYWJi",
+  "snapshot_id": "MCxhMWI3NjZlZDU2MzBiOTEwN2RmMWJjMjJmZjNjYmQzYjkyN2RiZTdj",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 384093,
+      "name": "In Jesus Name",
+      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Love Theory",
         "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 251258,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Speak To Me",
-      "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 384093,
-      "name": "In Jesus Name",
-      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "From The Heart",
         "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
       },
@@ -339,26 +323,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Revealed",
         "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
       },
@@ -379,6 +343,42 @@
       "duration_ms": 198400,
       "name": "Love Him Like I Do",
       "url": "https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "You Waited (Radio Edit) [Live]",
+        "url": "https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 220849,
+      "name": "You Waited (Radio Edit) [Live]",
+      "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Just Like God",
         "url": "https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj"
       },
@@ -603,38 +619,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "You Waited (Radio Edit) [Live]",
-        "url": "https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 220849,
-      "name": "You Waited (Radio Edit) [Live]",
-      "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Avery*sunshine Album",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 384013,
       "name": "Father Jesus Spirit (Live)",
       "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": "2021-06-25 06:54:59",

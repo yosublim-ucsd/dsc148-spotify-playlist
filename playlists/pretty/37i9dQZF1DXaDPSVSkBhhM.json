@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 62415,
+  "num_followers": 62432,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGE4YTNlMTUwYjA4ZjhiYTc1NjUxNTg3MzU3MTRiNzMwZmI1ZmE4",
+  "snapshot_id": "MCw0NzUyYTBmNmJmMDk5MDcwZjU5OWM2MGVlY2YxYjg3ODExZWNjZDE0",
   "tracks": [
     {
       "added_at": "2023-06-30 02:32:22",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Masappan",
-        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
-      },
-      "artists": [
-        {
-          "name": "Masappan",
-          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
         "name": "Coraz\u00f3n D' Roto",
         "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+        "name": "Masappan",
+        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
       "artists": [
         {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+          "name": "Masappan",
+          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
+      "duration_ms": 164933,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -343,6 +327,22 @@
       "duration_ms": 190933,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
         "name": "Volumen 2",
         "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 139700,
       "name": "Ella Miente",
       "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
       "artists": [
         {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         }
       ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -695,34 +695,18 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
         }
       ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -743,6 +727,22 @@
       "duration_ms": 151829,
       "name": "Nunca Me Voy a Ir",
       "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Siempre Resistir / Nunca Desistir",
-        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
-      },
-      "artists": [
-        {
-          "name": "DON",
-          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Escribe Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
         "name": "Clavo",
         "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170400,
       "name": "Clavo",
       "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
+        "name": "Siempre Resistir / Nunca Desistir",
+        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
+      },
+      "artists": [
+        {
+          "name": "DON",
+          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Escribe Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     }
   ],
   "unique_name": "Escena Pop Punk",

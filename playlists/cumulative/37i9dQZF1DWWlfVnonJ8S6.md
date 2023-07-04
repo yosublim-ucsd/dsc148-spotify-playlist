@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-147 songs - 8 hr 21 min
+149 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Muskurane \- Lofi Flip](https://open.spotify.com/track/6ocwTKbnMqlKB5PwA9UPKz) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Muskurane \(Lofi Flip\)](https://open.spotify.com/album/1b4fZJ8UejFoBP1pvyiVn2) | 3:30 | 2022-05-27 |  |
 | [Naah \- Lofi Flip](https://open.spotify.com/track/1C2lVlJhCYWbOTOaa9h9Kj) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Naah \(Lofi Flip\)](https://open.spotify.com/album/40P4zkwRXL9Q3nqoJlLKIw) | 2:23 | 2022-05-27 | 2023-01-17 |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2022-05-27 |  |
+| [Nit Khair Manga Lofi Mix](https://open.spotify.com/track/3mrPkBXOdLUPdL8LWgfr1x) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Moodyboy](https://open.spotify.com/artist/12PLYvuXgxNYVYHMoxIkr1) | [Nit Khair Manga Lofi Mix](https://open.spotify.com/album/01BZF5voFFoIWaSExftNNh) | 4:48 | 2023-07-03 |  |
 | [O Sanam \- DJ NYK Lofi Remix](https://open.spotify.com/track/2cGRuloXezvHDpoHX2bVyu) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [O Sanam \(DJ NYK Lofi Remix\)](https://open.spotify.com/album/3FQh153Y5J24LW7dfvKPP8) | 3:06 | 2022-05-27 |  |
 | [Pal \- Lofi Flip](https://open.spotify.com/track/0Pe6XBhleBHeyuE23ZHETQ) | [Kritiman Mishra](https://open.spotify.com/artist/5OD147PIZedUodUrxiEqEX), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Pal \(Lofi Flip\)](https://open.spotify.com/album/2fn24w6YyI9U4c8WxhdIJK) | 4:23 | 2022-07-18 |  |
 | [Pee Loon Lofi Mix](https://open.spotify.com/track/5EIFtcs5653Xjgs1gAAB7a) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X) | [Pee Loon Lofi Mix](https://open.spotify.com/album/3PazOT6VxKjD76BXFOjCak) | 3:14 | 2022-07-18 |  |
@@ -150,6 +151,7 @@
 | [Until We Meet](https://open.spotify.com/track/7j0YOebrohxBaXp0bCFbnK) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Until We Meet](https://open.spotify.com/album/3en5RU3ddo7fUZahK6rc1i) | 2:55 | 2022-05-27 | 2023-05-20 |
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 | 2022-07-22 |  |
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/4YcGrrbJ5of8MHzLFRPNRb) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU), [Kuxh Beats](https://open.spotify.com/artist/7LSYV8cUBosvmspqoBVClx) | [LoFi Songs](https://open.spotify.com/album/6mfaRl7OwzCuWPlbkpQgzl) | 2:21 | 2022-05-27 | 2022-07-29 |
+| [Yeh Honsla \(Lofi\)](https://open.spotify.com/track/74QliJFFiR1k6L1Sxqvkls) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Yeh Honsla \(Lofi\)](https://open.spotify.com/album/1bVGrZZtlG6PPiYfz7AwpA) | 4:37 | 2023-07-03 |  |
 | [Your Eyes](https://open.spotify.com/track/5pebgx4IJ5YvZH2sYOHDRf) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Taqiya Zaman](https://open.spotify.com/artist/0PabKDsomoLc4uPtBGNodI) | [Your Eyes](https://open.spotify.com/album/04NKJp5REYxjBzQdNAbByt) | 1:47 | 2022-05-27 |  |
 | [Zara Sa \- Lofi Flip](https://open.spotify.com/track/4uZnwiu2fnfTKWn8zt6XZx) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR) | [Zara Sa \(Lofi Flip\)](https://open.spotify.com/album/6rqYAZTOUBmczFEJM4iNi9) | 3:31 | 2022-05-27 |  |
 | [Zara Zara](https://open.spotify.com/track/5KNEYJyQNBmOqGTWGCgNt4) | [Shany Haider](https://open.spotify.com/artist/0oNaaHupBSFSQHZPXiGICF) | [Zara Zara](https://open.spotify.com/album/3IxTao5P0LrRR9YpuJqi5d) | 2:33 | 2022-10-24 | 2022-12-01 |

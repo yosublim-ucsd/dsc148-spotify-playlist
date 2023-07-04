@@ -5097,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "Pra Vaquejada Eu Vou",
+        "url": "https://open.spotify.com/album/6UFlPyIRdWi2dlXe2vgIut"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Pra Vaquejada Eu Vou",
+      "url": "https://open.spotify.com/track/3akLlnOdrJOZYtBdaYbXhp"
+    },
+    {
+      "album": {
         "name": "Primeiro Beck",
         "url": "https://open.spotify.com/album/2wNWu9WSJynNKZrQZndTPB"
       },

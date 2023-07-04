@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Drillionaire, Lazza, BLANCO, Sfera Ebbasta
 
-320 songs - 15 hr 48 min
+321 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [ARMAGEDDON](https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [ARMAGEDDON](https://open.spotify.com/album/0cTvIkr8DgCyEFRYfzHfyd) | 2:33 | 2022-05-19 | 2022-06-03 |
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 |  |
 | [Aspettative \(feat\. Medy\)](https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Aspettative \(feat\. Medy\)](https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi) | 2:34 | 2023-05-11 | 2023-06-23 |
+| [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 | 2023-07-03 |  |
 | [AU REVOIR \(feat\. Guè, Rose Villain, JVLI\)](https://open.spotify.com/track/05vUar73P3iMZUr40QLJWT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:21 | 2022-05-09 | 2022-05-28 |
 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 | 2022-12-01 | 2022-12-14 |
 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 | 2022-12-12 | 2023-03-03 |
@@ -78,7 +79,7 @@
 | [ch1 5ei te](https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:03 | 2022-05-24 | 2022-09-09 |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 | 2022-06-30 | 2022-09-30 |
 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 | 2022-10-27 | 2023-06-02 |
-| [CHIARA](https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CHIARA](https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1) | 2:54 | 2023-06-06 |  |
+| [CHIARA](https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CHIARA](https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1) | 2:54 | 2023-06-06 | 2023-07-04 |
 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 | 2022-05-19 | 2022-09-02 |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 | 2023-01-06 |
 | [Ciò Che Splende](https://open.spotify.com/track/0WFGPmBLaG0z9JoanZAhHL) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Ciò Che Splende](https://open.spotify.com/album/24mmv1BYsv0NBUnNu69mxA) | 3:21 | 2023-04-20 | 2023-05-05 |

@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-327 songs - 14 hr 40 min
+329 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2022-08-01 |  |
 | [Passing By](https://open.spotify.com/track/1yFrpr1M9Yv5QkYPoaz3i9) | [Jan Groenteman](https://open.spotify.com/artist/4tlKMjzOqKfbNZX7NsNlE9) | [Passing By](https://open.spotify.com/album/6In0e6NOyQEAc3ttd8V4PN) | 2:31 | 2022-10-24 | 2023-03-23 |
 | [Passing By](https://open.spotify.com/track/0qEHOhUjIAXsuuUwPFNrdC) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Passing By](https://open.spotify.com/album/6OrkACiAGGp3Zf7P5Epomq) | 2:31 | 2023-01-31 |  |
+| [Perdono](https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Perdono](https://open.spotify.com/album/3l0o5eKMNP76OSjxFyi2ER) | 3:18 | 2023-07-03 |  |
 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 | 2023-01-19 |  |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2022-08-01 |  |
 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-12 |  |
@@ -293,6 +294,7 @@
 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-01-27 |  |
 | [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-03-07 |  |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2022-08-01 | 2023-03-23 |
+| [Tranquility](https://open.spotify.com/track/5zZuBsxhHTddDtotFUZ0Nw) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tranquility](https://open.spotify.com/album/1LeYfcGfsjrhHClQVB3bYz) | 3:02 | 2023-07-03 |  |
 | [Tranquillo](https://open.spotify.com/track/72kzlLev3gbe93hKa4oHnh) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Tranquillo](https://open.spotify.com/album/2Ef8kD6MMZg9FkvMZZ8kyk) | 2:08 | 2022-11-14 |  |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2022-08-01 | 2023-05-10 |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-08-01 | 2022-10-25 |

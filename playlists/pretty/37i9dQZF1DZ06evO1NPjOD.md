@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,506 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,517 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Handle It](https://open.spotify.com/track/61PcyQZqlHDf4hiYPdHGGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kali Cass](https://open.spotify.com/artist/2BhAM5ZQjA4rH0JmsyfuRe) | [Handle It](https://open.spotify.com/album/78Ov02ocDiQ5aNk5cFUm9M) | 2:04 |
 | 50 | [Broke Boy](https://open.spotify.com/track/3E7jehnxsH4xZAuxDQg4zC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:08 |
 
-Snapshot ID: `MjgxMzgzODAsMDAwMDAwMDBhOTU5YjMzYTJjZWUzZWYzYzIyOTBkMWNjNGZiNjVjNA==`
+Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDA0YjI5YWMwNGJmMjliY2U3OTU4ZDk0YWNiODAwMzEyMw==`

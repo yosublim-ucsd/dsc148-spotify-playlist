@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: bule
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,547 likes - 72 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,550 likes - 72 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 71 | [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 |
 | 72 | [MONTANHA RUSSA](https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [MONTANHA RUSSA](https://open.spotify.com/album/4QJTU1v37HrAEc0JlJwReF) | 3:13 |
 
-Snapshot ID: `MCw4YmNjYjljZjNiYjBlMDJhOWNlMzBiZGQ3ZGM5ZmY4OWIyY2QxZWQw`
+Snapshot ID: `MCxiYzE4NGNiMTE5NzgzZWNiN2JlN2ExMTliYjExZWFlNWFmMzRiZjM4`

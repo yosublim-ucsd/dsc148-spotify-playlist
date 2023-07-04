@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 188745,
       "name": "Never Saw It Coming",
       "url": "https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96"
@@ -5322,7 +5322,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 212626,
       "name": "Only Child",
       "url": "https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT"
@@ -6044,6 +6044,24 @@
       "duration_ms": 170745,
       "name": "Skin",
       "url": "https://open.spotify.com/track/3pD7ouIW65U6DAXoaIJsYN"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/05tDXSt6J7HcJoTRA0Rxyg"
+      },
+      "artists": [
+        {
+          "name": "Jada Weazel",
+          "url": "https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206736,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/2dgaPHVtFCgsylWa64Ypau"
     },
     {
       "album": {
@@ -7326,6 +7344,24 @@
       "duration_ms": 176128,
       "name": "Unforgivingly Me",
       "url": "https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9"
+    },
+    {
+      "album": {
+        "name": "NEVER AGAIN!",
+        "url": "https://open.spotify.com/album/1faeXEYCz0R4mExwxspGy6"
+      },
+      "artists": [
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/6pxSZ1zNjsrAQRBvVk5H5f"
     },
     {
       "album": {

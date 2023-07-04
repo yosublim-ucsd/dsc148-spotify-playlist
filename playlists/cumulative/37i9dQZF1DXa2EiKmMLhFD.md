@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Daniel Caesar, Tiara Andini serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari James Arthur, Putri Ariani serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 87 songs - 5 hr 24 min
 

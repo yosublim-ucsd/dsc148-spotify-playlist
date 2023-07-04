@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Nina Suárez en portada.
 
-1,445 songs - 3 day 13 hr 12 min
+1,446 songs - 3 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 | 2022-10-14 | 2022-10-29 |
 | [Chez Toi](https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Chez Toi](https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2) | 4:41 | 2023-06-23 |  |
 | [Chinga Tu Padre](https://open.spotify.com/track/2lxtpW8aRd6UC57FJhjN4u) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Chinga Tu Padre](https://open.spotify.com/album/2y5ItRFqCN6TT9C8QlbB6Q) | 3:00 | 2022-10-14 | 2022-10-29 |
-| [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 |  |
+| [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 |  |
+| [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 | 2022-08-26 | 2022-09-10 |
 | [Chubi Chubi](https://open.spotify.com/track/68GHOthvZAK3L0wlf8mRts) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK), [Kiliki](https://open.spotify.com/artist/2x6JVTDJNTmVZxxOGYZKND) | [Chubi Chubi](https://open.spotify.com/album/3Ds0XY5VU4AENgikAjHXCE) | 3:20 | 2022-11-18 | 2022-12-03 |
 | [Chula](https://open.spotify.com/track/5g8632mIOUvoZXPY5xDne2) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Chula](https://open.spotify.com/album/03IyihKt4d4xpIJsNfj5gp) | 3:43 | 2023-05-19 | 2023-06-03 |

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-358 songs - 19 hr 39 min
+359 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 | 2022-12-02 | 2023-01-21 |
 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 | 2022-09-01 | 2022-09-30 |
 | [Bandida](https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Bandida](https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq) | 2:53 | 2023-06-08 | 2023-06-30 |
+| [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 | 2023-07-03 |  |
 | [Be Free](https://open.spotify.com/track/29znaDmtQgktCpwPFaE2YE) | [Daxuva](https://open.spotify.com/artist/752OuY81ZX07jkHLw1eBR2), [Itaya](https://open.spotify.com/artist/5YvFDsN1VX5PxvtA0MIVOp) | [Punk Selva](https://open.spotify.com/album/57R1K6WPgo4cU9iswHE1kp) | 3:30 | 2022-09-16 | 2022-10-07 |
 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 | 2023-03-01 | 2023-03-25 |
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-09-01 | 2022-09-30 |
@@ -181,7 +182,7 @@
 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 | 2022-12-23 |  |
 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 | 2023-04-13 | 2023-06-30 |
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-07 |  |
-| [Lua \(feat\. Ivandro\)](https://open.spotify.com/track/407Lr8uglW2I4pdrmVukwU) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua \(feat\. Ivandro\)](https://open.spotify.com/album/1imTEfm7By2slSw55cMJGq) | 3:29 | 2023-06-29 |  |
+| [Lua \(feat\. Ivandro\)](https://open.spotify.com/track/407Lr8uglW2I4pdrmVukwU) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua \(feat\. Ivandro\)](https://open.spotify.com/album/1imTEfm7By2slSw55cMJGq) | 3:29 | 2023-06-29 | 2023-07-04 |
 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 2:11 | 2022-11-11 | 2022-12-02 |
 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 | 2022-10-06 | 2022-12-02 |
 | [Lágrima na Mão](https://open.spotify.com/track/1JuohEccDVgCrOEtHZhq4M) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu) | [Lágrima na Mão](https://open.spotify.com/album/5JpFm0EZf3mL0IllJQraku) | 3:15 | 2023-06-08 | 2023-06-30 |

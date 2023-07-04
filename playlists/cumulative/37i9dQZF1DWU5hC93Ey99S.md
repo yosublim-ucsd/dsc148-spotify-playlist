@@ -2,7 +2,7 @@
 
 ### [Emotional Dance](https://open.spotify.com/playlist/37i9dQZF1DWU5hC93Ey99S)
 
-> all the feels
+> all the stutter, all the feels
 
 172 songs - 9 hr 36 min
 

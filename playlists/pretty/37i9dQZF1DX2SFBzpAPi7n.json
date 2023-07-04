@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kim Sung Kyu(\uae40\uc131\uaddc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 214770,
+  "num_followers": 214808,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTJlOGRlY2Y1MjE2MDI0YmRhMjdjNWFhNDIyMmQ4YWNiNzdmMjcz",
+  "snapshot_id": "MCxjNTg3OGUyNjFiOTliNTc5ZDcyZTFkMWQ5OGY4ZThlZTJjNGExMDJh",
   "tracks": [
     {
       "added_at": "2023-06-29 02:53:38",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -363,54 +363,6 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
       },
@@ -423,6 +375,22 @@
       "duration_ms": 175836,
       "name": "Shoot Me",
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -459,24 +427,24 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "FLY HIGH PROJECT #2 'Rooftop'",
-        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 210652,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
     },
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
       },
       "artists": [
         {
@@ -484,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -507,34 +475,18 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "name": "FLY HIGH PROJECT #2 'Rooftop'",
+        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 218737,
-      "name": "I Need Somebody",
-      "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
+      "duration_ms": 210652,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -567,6 +519,38 @@
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218737,
+      "name": "I Need Somebody",
+      "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -619,8 +603,8 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
@@ -628,25 +612,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 222021,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-06-29 02:53:38",
@@ -715,6 +683,22 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
         "name": "Grey Suit - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 222021,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
         "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
@@ -779,38 +779,6 @@
     {
       "added_at": "2023-06-29 02:53:38",
       "album": {
-        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2023-06-29 02:53:38",
-      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "PIRI",
+      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
+    },
+    {
+      "added_at": "2023-06-29 02:53:38",
+      "album": {
+        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

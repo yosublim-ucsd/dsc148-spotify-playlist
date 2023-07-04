@@ -10776,10 +10776,32 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 118766,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo"
+    },
+    {
+      "album": {
+        "name": "Idiot",
+        "url": "https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "PandaPanda",
+          "url": "https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118766,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=TWV7FF\_vS\_eBk7x6VUGKkQ">Stonebwoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,924 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,948 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 |
 | 80 | [MY BABY](https://open.spotify.com/track/5WocaJtnBuISqoXTq89FYp) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [MY BABY](https://open.spotify.com/album/2AqYpbpzd2v0soNVJfDKWW) | 2:53 |
 
-Snapshot ID: `MCw1NDE0YmEwYTllMzVjMTE2NDU0ZDkxNjlkNDI4MGFmMzc0NjI2OTA0`
+Snapshot ID: `MCw0ZTY4ZTIyNWU4NTAzYzNlOTY4NTUyMTZlYmFhZGVjNTdhOWU0ODVl`

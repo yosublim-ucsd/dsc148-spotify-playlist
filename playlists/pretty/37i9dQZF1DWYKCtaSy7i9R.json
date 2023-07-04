@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 4019,
+  "num_followers": 4035,
   "original_name": "Morning Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDM2NDczZGRhYzhlODk1MWUzMjhmYzUwOTYyZDFmNzcwOTYxMDg4",
+  "snapshot_id": "MCw0MWQwNGE2NmE3NzVjMjk1OWIxMGUwOTM5YzNkNmM2Y2RjMTE0Yjhl",
   "tracks": [
     {
       "added_at": "2023-06-19 13:58:02",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
+        "name": "Forest Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "duration_ms": 160496,
+      "name": "3am Midsummer Birds",
+      "url": "https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
         "name": "Woodlands",
         "url": "https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 271200,
       "name": "Morning in the Mist",
       "url": "https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Spring Birds",
-        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
-      },
-      "artists": [
-        {
-          "name": "Nano Sounds",
-          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Forest Birds HD",
-      "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -171,34 +171,18 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
-        "name": "Forest Bird Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
       },
       "artists": [
         {
-          "name": "KEI NATURE",
-          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+          "name": "Nano Sounds",
+          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
         }
       ],
-      "duration_ms": 160496,
-      "name": "3am Midsummer Birds",
-      "url": "https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Epic Birds - vol.1",
-        "url": "https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P"
-      },
-      "artists": [
-        {
-          "name": "Epic Soundscapes",
-          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
-        }
-      ],
-      "duration_ms": 172211,
-      "name": "Evening Twitter",
-      "url": "https://open.spotify.com/track/56IQIsik0oPXERemlFafdu"
+      "duration_ms": 158267,
+      "name": "Forest Birds HD",
+      "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -219,6 +203,22 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
+        "name": "Epic Birds - vol.1",
+        "url": "https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "duration_ms": 172211,
+      "name": "Evening Twitter",
+      "url": "https://open.spotify.com/track/56IQIsik0oPXERemlFafdu"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 175373,
       "name": "Birds at the Cemetery",
       "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
+        "name": "Forest Bird Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Soothing Morning Birds",
+      "url": "https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -267,38 +283,6 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
-        "name": "Ambient Nature Serenity",
-        "url": "https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL"
-      },
-      "artists": [
-        {
-          "name": "Sleep Sounds of Nature",
-          "url": "https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH"
-        }
-      ],
-      "duration_ms": 230233,
-      "name": "Park Bird Fountain",
-      "url": "https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Forest Bird Sounds Vol. 2",
-        "url": "https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk"
-      },
-      "artists": [
-        {
-          "name": "KEI NATURE",
-          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Soothing Morning Birds",
-      "url": "https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
         "name": "Soothing Green Noise",
         "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 166500,
       "name": "Blackbird Singing",
       "url": "https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
+        "name": "Ambient Nature Serenity",
+        "url": "https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sounds of Nature",
+          "url": "https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH"
+        }
+      ],
+      "duration_ms": 230233,
+      "name": "Park Bird Fountain",
+      "url": "https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
+        "name": "Summer Afternoon Birds",
+        "url": "https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm"
+      },
+      "artists": [
+        {
+          "name": "Jungleur",
+          "url": "https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna"
+        }
+      ],
+      "duration_ms": 140654,
+      "name": "Summer Afternoon Birds",
+      "url": "https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
         "name": "Lake Side Bird Sound",
         "url": "https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
-        "name": "Summer Afternoon Birds",
-        "url": "https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm"
+        "name": "Wonderful Morning",
+        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
       },
       "artists": [
         {
-          "name": "Jungleur",
-          "url": "https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna"
+          "name": "Sounds on Earth",
+          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
         }
       ],
-      "duration_ms": 140654,
-      "name": "Summer Afternoon Birds",
-      "url": "https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ"
+      "duration_ms": 174300,
+      "name": "Wonderful Morning",
+      "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -443,38 +459,6 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
-        "name": "Orchid Stories",
-        "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
-      },
-      "artists": [
-        {
-          "name": "Oerwoud",
-          "url": "https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Orchid Stories",
-      "url": "https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Wonderful Morning",
-        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
-      },
-      "artists": [
-        {
-          "name": "Sounds on Earth",
-          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "Wonderful Morning",
-      "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
         "name": "Peaceful Birds Singing",
         "url": "https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY"
       },
@@ -487,38 +471,6 @@
       "duration_ms": 120820,
       "name": "Peaceful Birds Singing",
       "url": "https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
-      },
-      "artists": [
-        {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Cuckoo & Other Birds",
-        "url": "https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb"
-      },
-      "artists": [
-        {
-          "name": "Drakir Nature",
-          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
-        }
-      ],
-      "duration_ms": 208409,
-      "name": "Cuckoo & Other Birds",
-      "url": "https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -539,6 +491,22 @@
     {
       "added_at": "2023-06-19 13:58:02",
       "album": {
+        "name": "Orchid Stories",
+        "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
+      },
+      "artists": [
+        {
+          "name": "Oerwoud",
+          "url": "https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Orchid Stories",
+      "url": "https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
         "name": "Embrace The Nature",
         "url": "https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ"
       },
@@ -551,6 +519,54 @@
       "duration_ms": 112800,
       "name": "Surrounded by Nature",
       "url": "https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
+        "name": "Cuckoo & Other Birds",
+        "url": "https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb"
+      },
+      "artists": [
+        {
+          "name": "Drakir Nature",
+          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
+        }
+      ],
+      "duration_ms": 208409,
+      "name": "Cuckoo & Other Birds",
+      "url": "https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
+    },
+    {
+      "added_at": "2023-06-19 13:58:02",
+      "album": {
+        "name": "Wide Forest Birds",
+        "url": "https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5"
+      },
+      "artists": [
+        {
+          "name": "House Bird",
+          "url": "https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg"
+        }
+      ],
+      "duration_ms": 157525,
+      "name": "Wide Forest Birds",
+      "url": "https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr"
     },
     {
       "added_at": "2023-06-19 13:58:02",
@@ -599,22 +615,6 @@
       "duration_ms": 139805,
       "name": "Birds and Creeks",
       "url": "https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8"
-    },
-    {
-      "added_at": "2023-06-19 13:58:02",
-      "album": {
-        "name": "Wide Forest Birds",
-        "url": "https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5"
-      },
-      "artists": [
-        {
-          "name": "House Bird",
-          "url": "https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg"
-        }
-      ],
-      "duration_ms": 157525,
-      "name": "Wide Forest Birds",
-      "url": "https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr"
     }
   ],
   "unique_name": "Morning Birds",

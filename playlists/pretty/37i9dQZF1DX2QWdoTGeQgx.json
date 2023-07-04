@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 46133,
+  "num_followers": 46144,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
+  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 132000,
       "name": "my type",
       "url": "https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -303,18 +303,34 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -387,8 +403,8 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+        "name": "Favourite Things",
+        "url": "https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg"
       },
       "artists": [
         {
@@ -396,9 +412,9 @@
           "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+      "duration_ms": 173333,
+      "name": "Favourite Things",
+      "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 148571,
-      "name": "move",
-      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -519,6 +519,38 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "move",
+      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Other Half",
+        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "Other Half",
+      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 212224,
       "name": "BEAUTiFUL",
       "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Favourite Things",
-        "url": "https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Favourite Things",
-      "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -635,6 +651,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "relationshit",
         "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
       },
@@ -651,22 +683,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Other Half",
-        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "Other Half",
-      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "dear me,",
         "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 165967,
       "name": "dear me,",
       "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 155923,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 203990,
       "name": "Bedroom (feat. Anne-Marie)",
       "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "your love",
+        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 155923,
+      "name": "your love",
+      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
-      },
-      "artists": [
-        {
-          "name": "JAIE",
-          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
-        },
-        {
-          "name": "NYK",
-          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 166000,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
+      },
+      "artists": [
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        },
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Guess We're Good",
+        "url": "https://open.spotify.com/album/0kOBqvusIRhk2pfYzE8OYv"
+      },
+      "artists": [
+        {
+          "name": "CIRCO",
+          "url": "https://open.spotify.com/artist/5FGWGXau8CRHFD5DUUJCGt"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Guess We're Good",
+      "url": "https://open.spotify.com/track/3Nws6vS8MB5qMM171ZqcER"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 269893,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Guess We're Good",
-        "url": "https://open.spotify.com/album/0kOBqvusIRhk2pfYzE8OYv"
-      },
-      "artists": [
-        {
-          "name": "CIRCO",
-          "url": "https://open.spotify.com/artist/5FGWGXau8CRHFD5DUUJCGt"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Guess We're Good",
-      "url": "https://open.spotify.com/track/3Nws6vS8MB5qMM171ZqcER"
     },
     {
       "added_at": "2023-04-20 15:55:01",

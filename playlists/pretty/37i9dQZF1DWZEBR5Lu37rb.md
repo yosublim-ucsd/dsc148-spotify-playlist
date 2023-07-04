@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,952 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,068 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 69 | [NTA](https://open.spotify.com/track/1Asv77Jhpw1FA6YjA5wwuV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [NTA](https://open.spotify.com/album/1BBx9Jp1fkh2yDd68hQXEG) | 3:26 |
 | 70 | [Bembeleza](https://open.spotify.com/track/47S0nvI30nN9VgDcIyGxBo) | [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL) | [Sungura Na Fisi](https://open.spotify.com/album/6cTRrJGMTZmF1wAtGFVbah) | 4:42 |
 | 71 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
-| 72 | [Akanamali \(feat\. Samthing Soweto\)](https://open.spotify.com/track/2OaBQc07gJ9ZcDJJhhCMSf) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Akanamali \(feat\. Samthing Soweto\)](https://open.spotify.com/album/57jBRm6pXwxvjm3SlWyi8I) | 5:21 |
+| 72 | [Akanamali](https://open.spotify.com/track/0gKL5HGvDcDwSbfFO2Rmaw) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Africa to the World](https://open.spotify.com/album/2kwSoxZIESwNMdTQ5NwQ2d) | 5:22 |
 | 73 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
 | 74 | [Queen](https://open.spotify.com/track/6jaAEpzi900M0MA1vRzfdG) | [Longombas](https://open.spotify.com/artist/06hcKIysyVVRvDn8IfZYes) | [Queen](https://open.spotify.com/album/0ZYhdNjWGxWqEKUBfULLs6) | 3:38 |
 | 75 | [Mi Amor](https://open.spotify.com/track/6gHBmW8qoHfbMagrkgCeBK) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Mi Amor](https://open.spotify.com/album/7FpmHyaVwir21jhEICHbJ7) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MCwzZTNmZDBhMDRmZDVjMTllYzFmMDY0ZmQ0MzU3NTNjYzVmOGY0ZjMx`
+Snapshot ID: `MCwyOGZiNmJhMjQ5NDkxODEyZDliYmI1ZjcxNjBlZThhNWM1YWVmZWRk`

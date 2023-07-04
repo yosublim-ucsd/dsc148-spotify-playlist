@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Fly Like an Eagle",
+        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272586,
+      "name": "Fly Like an Eagle",
+      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
+    },
+    {
+      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -655,6 +673,24 @@
     },
     {
       "album": {
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv"
+    },
+    {
+      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
       },
@@ -666,7 +702,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 295493,
       "name": "How Can I Do",
       "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
@@ -760,6 +796,28 @@
       "duration_ms": 213506,
       "name": "King and Cross",
       "url": "https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB"
+    },
+    {
+      "album": {
+        "name": "Laissez-moi danser",
+        "url": "https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK"
+      },
+      "artists": [
+        {
+          "name": "Waxx",
+          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172360,
+      "name": "Laissez-moi danser",
+      "url": "https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37"
     },
     {
       "album": {
@@ -940,7 +998,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
@@ -976,7 +1034,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 189586,
       "name": "No Other Way",
       "url": "https://open.spotify.com/track/1jnnieDkF1hOlRil2Sgv9i"
@@ -1030,7 +1088,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 192189,
       "name": "On the Road - Radio Edit",
       "url": "https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw"
@@ -1164,7 +1222,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 266432,
       "name": "Stoned at the Nail Salon",
       "url": "https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS"
@@ -1182,7 +1240,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 236853,
       "name": "Sublime & Silence",
       "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
@@ -1222,6 +1280,24 @@
       "duration_ms": 252576,
       "name": "Sweet - Single Version",
       "url": "https://open.spotify.com/track/5eVyyvVlqzxUt77LWXXo3H"
+    },
+    {
+      "album": {
+        "name": "Like A Million Dreams (Live)",
+        "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229464,
+      "name": "Talk to Me - Live",
+      "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
     },
     {
       "album": {
@@ -1326,7 +1402,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
@@ -1456,6 +1532,24 @@
       "duration_ms": 309240,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5Tw2HCe45FErCET2mfaJj8"
+    },
+    {
+      "album": {
+        "name": "Unfurl",
+        "url": "https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229533,
+      "name": "YaYaYa",
+      "url": "https://open.spotify.com/track/1gmj9SGmFea50SyyVYgFkP"
     },
     {
       "album": {

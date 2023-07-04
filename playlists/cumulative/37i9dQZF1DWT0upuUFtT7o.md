@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-1,644 songs - 3 day 17 hr 54 min
+1,645 songs - 3 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Fire](https://open.spotify.com/track/3e8tFKLCzQgokzFuEFOmqW) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Fire](https://open.spotify.com/album/3UZy0yzNrCgwlp9TRE1GDR) | 2:28 | 2022-02-22 | 2022-03-17 |
 | [Fire Eyes](https://open.spotify.com/track/0nXZ4ce5pUr3oOGNxfc2ZJ) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Fire Eyes](https://open.spotify.com/album/2wjMI8baH8TRM1YVs1jusO) | 3:03 | 2022-06-15 | 2022-07-28 |
 | [Fireworks](https://open.spotify.com/track/61zdF5AXTsmr7eZ4bQBvnM) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [Fireworks](https://open.spotify.com/album/2ALIhcb3aDJs0MFWtlJvC8) | 3:28 | 2021-12-01 | 2022-01-13 |
+| [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 | 2023-07-03 |  |
 | [First Time](https://open.spotify.com/track/5paTZFpCis3pMJc2VwONuR) | [11 Roses](https://open.spotify.com/artist/51ODAATeVPRJvesdcuDYzA) | [First Time](https://open.spotify.com/album/3qXh4c3Q57EkHoAMXcDqS3) | 3:26 | 2022-07-27 | 2022-08-25 |
 | [First to Love](https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [First To Love](https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt) | 4:38 | 2022-01-26 | 2022-03-17 |
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-01-26 | 2022-02-10 |
@@ -693,7 +694,7 @@
 | [I Dare You](https://open.spotify.com/track/33948g0QTA5uP9Hn3kYZBO) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [I Dare You](https://open.spotify.com/album/2RI5OP3wh2VnWZ1JzI1ZpU) | 2:11 | 2022-01-12 | 2022-01-27 |
 | [I Don't Know If I Treated It Right](https://open.spotify.com/track/6QzPWxqfDwvDdaOFG1nX7Y) | [Solitude is Bliss](https://open.spotify.com/artist/5BLLhENK8t8r0PP0klTBZx) | [I Don't Know If I Treated It Right](https://open.spotify.com/album/1aZ96zuE5I2Oljnj53HmwP) | 4:16 | 2023-06-21 |  |
 | [I Don't Know Why I Don't Leave You](https://open.spotify.com/track/0rnr29AKXifEZuGZWETZVG) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [I Don't Know Why I Don't Leave You](https://open.spotify.com/album/18db1ozBHypbbaovttXGEx) | 3:22 | 2022-05-11 | 2022-06-30 |
-| [I Don't Think You Do](https://open.spotify.com/track/74xVKLa9xDlQXYNx6LNQAq) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr), [and the agony](https://open.spotify.com/artist/4JSlrvvgR7F4rN6pbUTewq) | [And The Agony \- EP](https://open.spotify.com/album/6JzxwL7HMuHmjUnsh8lo3Z) | 3:14 | 2023-06-14 |  |
+| [I Don't Think You Do](https://open.spotify.com/track/74xVKLa9xDlQXYNx6LNQAq) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr), [and the agony](https://open.spotify.com/artist/4JSlrvvgR7F4rN6pbUTewq) | [And The Agony \- EP](https://open.spotify.com/album/6JzxwL7HMuHmjUnsh8lo3Z) | 3:14 | 2023-06-14 | 2023-07-04 |
 | [I Don't Wanna Be Strong](https://open.spotify.com/track/0xubojJoftLTsiM8tzIqmB) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/29LGWbz1h6EmM4Mt5Y4w1U) | 3:08 | 2022-09-06 | 2022-10-15 |
 | [I Don't Wanna Be Strong](https://open.spotify.com/track/4tGPfKyW5ofKFLbQuNwINd) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/34uhq6GwqaXrwfIHboPqSQ) | 3:08 | 2022-09-06 | 2022-10-20 |
 | [I Got It](https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:27 | 2022-11-30 | 2023-01-12 |

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 6716,
+  "num_followers": 6742,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTM0ZDg4OTcwZjM1Y2M2Y2JhYTgyOTJlN2RkZDc1ZmMwYTU1Nzcx",
+  "snapshot_id": "MCw1YTU1YWJiNzA4ZmU1ZDY0NWY3NjcyYzkwMWQ3MjM0ZDAwNGEzNWRm",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -247,38 +247,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "In The Light - Remastered 2013",
-      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "As Family We Go",
-        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Joy Of The Lord",
-      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -291,6 +259,22 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -311,18 +295,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sunday School Songs",
-        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+        "name": "As Family We Go",
+        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
       },
       "artists": [
         {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 93786,
-      "name": "I've Got Peace Like A River",
-      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
+      "duration_ms": 226373,
+      "name": "Joy Of The Lord",
+      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -343,18 +327,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+      "duration_ms": 93786,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -411,6 +395,22 @@
       "duration_ms": 287173,
       "name": "Jesus Freak",
       "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -515,26 +515,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Won't Let Me Down",
-      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Great Big God",
         "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 199440,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 126333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 180000,
       "name": "My Strength (feat. Emily Hearn)",
       "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
     },
     {
       "added_at": "2021-06-29 13:36:02",

@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-50 songs - 2 hr 1 min
+51 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 | 2023-06-26 |  |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2023-06-26 |  |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-06-26 |  |
-| [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 | 2023-06-26 |  |
+| [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 | 2023-06-26 | 2023-07-04 |
 | [Confete e serpentina](https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [BOSSIFY](https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR) | [Confete e serpentina](https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR) | 2:18 | 2023-06-26 |  |
 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 | 2023-06-26 |  |
 | [Dalia](https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Dalia](https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV) | 2:53 | 2023-06-26 |  |
@@ -50,6 +50,7 @@
 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 | 2023-06-26 |  |
 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 | 2023-06-26 |  |
 | [Perdido en Memorias](https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Perdido en Memorias](https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A) | 2:09 | 2023-06-26 |  |
+| [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 | 2023-06-26 |  |
 | [spirits](https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [spirits](https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm) | 2:17 | 2023-06-26 |  |
 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 | 2023-06-26 |  |
 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 | 2023-06-26 |  |

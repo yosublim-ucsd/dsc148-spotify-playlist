@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-545 songs - 1 day 1 hr 4 min
+546 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 | 2022-04-04 | 2022-10-15 |
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-04-04 | 2022-10-15 |
 | [No Tellin'](https://open.spotify.com/track/2durxb17bXcmQJHSt8JAdO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:10 | 2022-05-19 | 2022-07-13 |
-| [Nonfiction](https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Nonfiction](https://open.spotify.com/album/6hvewHei5ApnrOPrfGp1uq) | 2:21 | 2023-02-03 |  |
+| [Nonfiction](https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Nonfiction](https://open.spotify.com/album/6hvewHei5ApnrOPrfGp1uq) | 2:21 | 2023-02-03 | 2023-07-04 |
 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 | 2023-03-17 |  |
 | [Not Another Summer Jam](https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [High More Often](https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb) | 2:41 | 2023-06-30 |  |
 | [NOTHING IS REAL](https://open.spotify.com/track/6bzQq9ucC73NrFeycJGkkQ) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [NOTHING IS REAL](https://open.spotify.com/album/2iWRrUK85hwDRSaBT35BFX) | 2:23 | 2022-10-28 | 2022-11-30 |
@@ -442,6 +442,7 @@
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-11 | 2022-10-14 |
 | [Solo](https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Solo](https://open.spotify.com/album/2W3oBE7aeeUYGvzwKKKaLL) | 2:37 | 2022-08-26 | 2022-10-15 |
 | [Somebody Else](https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Somebody Else](https://open.spotify.com/album/1p4YRsrgs9cUDNbtXN25AP) | 2:03 | 2021-11-16 | 2022-02-19 |
+| [Someday](https://open.spotify.com/track/1zZO31X6KgID8JllCNMxEW) | [SMILEZ](https://open.spotify.com/artist/0lRdxaQbuLSVm4DpUPCinB) | [Ur in My World](https://open.spotify.com/album/7jtuIiYuftTgdkZzPLn3pL) | 2:06 | 2023-07-03 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 | 2022-10-13 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/3pq8h5l46v9qk2Cx03qX0q) | 2:40 | 2022-09-09 | 2022-10-15 |
 | [spilled drinks](https://open.spotify.com/track/78zcMX1Gpla399x1Clykdh) | [Eian Blue](https://open.spotify.com/artist/72n6CG0Bz1LM5zLWK54gVQ), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [spilled drinks](https://open.spotify.com/album/12lilHxzKXof8gLRxAILiW) | 1:55 | 2022-01-11 | 2022-02-19 |

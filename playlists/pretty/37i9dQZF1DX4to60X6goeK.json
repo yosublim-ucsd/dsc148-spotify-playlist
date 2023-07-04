@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 44884,
+  "num_followers": 44910,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm",
+  "snapshot_id": "MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
-      },
-      "artists": [
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        },
-        {
-          "name": "Patch Edison",
-          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
-        }
-      ],
-      "duration_ms": 237284,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Patch Edison",
+          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
+        }
+      ],
+      "duration_ms": 237284,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "High Roller",
         "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Do It Like Me",
         "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 327945,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Kickons",
         "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 235862,
       "name": "Kickons",
       "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 327945,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Cool Out Son",
+        "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        },
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
+        }
+      ],
+      "duration_ms": 208457,
+      "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
+      "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Money Moves (The Remixes)",
         "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 264802,
       "name": "Money Moves - Remix",
       "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Cool Out Son",
-        "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        },
-        {
-          "name": "Benny Page",
-          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
-        },
-        {
-          "name": "Isaac Maya",
-          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
-        }
-      ],
-      "duration_ms": 208457,
-      "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
-      "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
     }
   ],
   "unique_name": "Jump Up!",

@@ -7907,6 +7907,28 @@
     },
     {
       "album": {
+        "name": "Computer Milk",
+        "url": "https://open.spotify.com/album/27cmJZZHX7hvjPY650mWBC"
+      },
+      "artists": [
+        {
+          "name": "cyber milk chan",
+          "url": "https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228217,
+      "name": "I am not cute - KOTONOHOUSE Remix",
+      "url": "https://open.spotify.com/track/3XuW3TfdXI8H3ATkLkwKvC"
+    },
+    {
+      "album": {
         "name": "I Can Feel My Heart",
         "url": "https://open.spotify.com/album/35yvbnek3s9WOpoUsNU1o2"
       },
@@ -20606,7 +20628,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 228217,
       "name": "\u53ef\u611b\u304f\u306a\u3044\u79c1 - KOTONOHOUSE Remix",
       "url": "https://open.spotify.com/track/50n6dSShexFCKR5vosw3N9"

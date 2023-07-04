@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-192 songs - 11 hr 2 min
+193 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bezaar Nahi](https://open.spotify.com/track/5LojDGdQJ21H1dJXgAJuXX) | [Honeyjamn](https://open.spotify.com/artist/1nZvrjuAjn0d1LHzoOjjUi), [Nadir Shahzad](https://open.spotify.com/artist/31POWkRUIfTWjL5QEmiGTS) | [Bezaar Nahi](https://open.spotify.com/album/4z23FFAXCBYUb9RDhO2CXF) | 3:25 | 2021-12-06 | 2022-06-04 |
 | [Bhoola](https://open.spotify.com/track/1tu2kfE4UWlxyGqJQNkgmT) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Bhoola](https://open.spotify.com/album/44rLZfcM9MN87XVSDk0GCi) | 2:56 | 2022-09-14 | 2023-04-09 |
 | [BIBA](https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Slick Trick](https://open.spotify.com/artist/6ENmrRecdouZ74WXpHjQZl), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [OFIVE1](https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG) | 3:36 | 2022-11-30 |  |
+| [Bijli](https://open.spotify.com/track/3dGjm4MAro2jCe3I4cnK3X) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Bijli](https://open.spotify.com/album/6DxW5U5IR0VeRSFZA8kIuC) | 3:20 | 2023-07-03 |  |
 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2022-04-29 |  |
 | [Billo](https://open.spotify.com/track/2gOBjTTYEXbf0yR688Hyf0) | [Billu](https://open.spotify.com/artist/44bKDT0b5fb8PtSP7kwC1v) | [Billo](https://open.spotify.com/album/2twDMb2SXFNQVCg6Fwjlus) | 3:12 | 2021-12-06 | 2022-01-29 |
 | [Bubbleboi](https://open.spotify.com/track/1plhMT0F6Lqz8whTq1t7zB) | [Ali Suhail](https://open.spotify.com/artist/4kLAjoQyEFKD34AWugeUnj) | [Bubbleboi](https://open.spotify.com/album/5JyuRZ3x0de7HOgWTqVGRu) | 3:39 | 2021-12-06 | 2022-03-05 |

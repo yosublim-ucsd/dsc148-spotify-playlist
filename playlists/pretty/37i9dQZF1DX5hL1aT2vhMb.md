@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,230 likes - 74 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,241 likes - 74 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 73 | [Twelve Preludes For Piano \(1953\): I](https://open.spotify.com/track/0WSWXSsIoIRe0grvGTE43T) | [Galina Ustvolskaya](https://open.spotify.com/artist/43FqjuAdZNLw8BKi4YPJt6), [Marianne Schroeder](https://open.spotify.com/artist/59bnSGgBPFGzTZjYQNdKrA) | [Galina Ustvolskaya: 2](https://open.spotify.com/album/4lBE0md9NuXIiS6XmB7NjI) | 2:56 |
 | 74 | [Vespers for a New Dark Age: I\. Wayward Free Radical Dreams](https://open.spotify.com/track/7s4rXsF2uAeechqkvLrwK6) | [Missy Mazzoli](https://open.spotify.com/artist/61O7PTMoyars8V5kcaYov4), [Victoire](https://open.spotify.com/artist/7K9iFURUa9rPbdlX3WLfQW), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs), [Lorna Dune](https://open.spotify.com/artist/4kqHmnvE50ZrmByhpLktXU) | [Missy Mazzoli: Vespers for a New Dark Age](https://open.spotify.com/album/0j7PNuSnzWiX6edoVzVfL2) | 5:13 |
 
-Snapshot ID: `MCwyNjNiZTRiYTM3YWQxYTVjZmVhZDMzNzUzNmJlMzM3MGMwMzcwOGJk`
+Snapshot ID: `MCw1YWFhZGM2MDhiMjJkMWVmYzhmOWQwNDAyY2NjYWU3Yjc4YTNiYmIy`

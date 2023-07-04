@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 263450,
+  "num_followers": 263633,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjkyNjFmNmI5ZGY5ZDVhN2JiYzg0ZWVjYjE0YTRhYTRmZjIxNmZh",
+  "snapshot_id": "MCxiMTVkNTkxYjhhZDljNzQzMGY4YjA4OWFlMWUyNTgyYWVmM2Y4NmQx",
   "tracks": [
     {
       "added_at": "2023-05-12 19:27:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Talking Timbuktu (with Ry Cooder)",
-        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Bonde (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
         "name": "El Aaiun Egdat",
         "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 263440,
       "name": "Tadieu Bone",
       "url": "https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Tahabort",
-      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
         "name": "Segu Blue",
         "url": "https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 106680,
       "name": "Tabali te",
       "url": "https://open.spotify.com/track/6F28CLAzz6JwhfkBjyEgKx"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
         "name": "Toumani & Sidiki",
         "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
         "name": "Shouka",
         "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202253,
       "name": "Haiyu",
       "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
+        "name": "Sequana",
+        "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 218076,
       "name": "Mawarniha Tartit",
       "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
-        "name": "Sequana",
-        "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        },
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -815,38 +815,6 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Abbar el Hamada",
-        "url": "https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3"
-      },
-      "artists": [
-        {
-          "name": "Aziza Brahim",
-          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
-      },
-      "artists": [
-        {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Akaline Akaline",
-      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
         "name": "Chatma",
         "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
       },
@@ -863,6 +831,22 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
+        "name": "Abbar el Hamada",
+        "url": "https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3"
+      },
+      "artists": [
+        {
+          "name": "Aziza Brahim",
+          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
         "name": "Akh Issudar",
         "url": "https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 201200,
       "name": "Tahra a Issasnane",
       "url": "https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Akaline Akaline",
+      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
     },
     {
       "added_at": "2023-05-12 19:27:00",

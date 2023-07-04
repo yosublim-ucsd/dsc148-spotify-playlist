@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,927 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,018 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 85 | [Always and Forever](https://open.spotify.com/track/3K0cFv7cqIId26HwEkDHgp) | [SERRA](https://open.spotify.com/artist/2I3vpxuhRNZU69R2kGbBOk) | [Always and Forever](https://open.spotify.com/album/5vUK0yiI60vWqkp53ZvlLn) | 4:52 |
 
-Snapshot ID: `MCw5NWM5N2YzOWM0MDdkZjU4YTNkZmM0M2U1MjE5NGI4MjU3OGM1YjI5`
+Snapshot ID: `MCw4ZjNiNzM5ODM5ZTY2Mzk2MTE3NWEyM2ZiMjQyMTY2ZjJmNjA2ODkw`

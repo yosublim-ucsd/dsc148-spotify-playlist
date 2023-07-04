@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 89792,
+  "num_followers": 89968,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWM0ZjQ0OGY3NWQ0MTRhN2I5NzdhOWFjMTIyOWU5ZjMzNTgzZDdh",
+  "snapshot_id": "MCwwMGViNjlkZWUzNTZjMzMyY2Y0NzE1ZDM0MGMwN2YwN2VkODI5YzM3",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Midnight Blue",
         "url": "https://open.spotify.com/album/3eE5mAeyPFKkOfqmvMY3UL"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
         }
       ],
-      "duration_ms": 464040,
+      "duration_ms": 288426,
       "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Woman Across The River",
         "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 373920,
       "name": "Same Old Blues Again",
       "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Love Letter To The Blues - Bonus Track",
-      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 295666,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Connor Selby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Love Letter To The Blues - Bonus Track",
+      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Major League Blues",
-        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
-      },
-      "artists": [
-        {
-          "name": "Jose Ramirez",
-          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Here in the Delta",
-      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Someday You'll Have These Blues",
         "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 247040,
       "name": "Beaumont Blues",
       "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Major League Blues",
+        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
+      },
+      "artists": [
+        {
+          "name": "Jose Ramirez",
+          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Here in the Delta",
+      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 293851,
-      "name": "Blues For Lonnie Johnson",
-      "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Nail Jumping",
         "url": "https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 148003,
       "name": "Blue Because Of You",
       "url": "https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 293851,
+      "name": "Blues For Lonnie Johnson",
+      "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
     },
     {
       "added_at": "2023-06-09 14:58:01",

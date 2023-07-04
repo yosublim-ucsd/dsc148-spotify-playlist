@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Drillionaire, Lazza, BLANCO, Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,004 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,454 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 39 | [Stylist \(feat\. Guè\)](https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Stylist \(feat\. Guè\)](https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5) | 2:19 |
 | 40 | [Fantasmi \(feat\. Geolier\)](https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:13 |
 | 41 | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9) | 2:19 |
-| 42 | [Yamamay](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Yamamay](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 |
-| 43 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
-| 44 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
-| 45 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
-| 46 | [Sole nel blocco](https://open.spotify.com/track/5lD27Apjkk7ywgklSgqA2R) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [JONES](https://open.spotify.com/album/4hFntmcak16iqTZ8KaBdnh) | 2:50 |
-| 47 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
-| 48 | [PLAYA](https://open.spotify.com/track/4cRafb32DQSDpvIxe5awk5) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7) | 2:17 |
-| 49 | [CHIARA](https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CHIARA](https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1) | 2:54 |
+| 42 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 |
+| 43 | [Yamamay](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Yamamay](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 |
+| 44 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
+| 45 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
+| 46 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
+| 47 | [Sole nel blocco](https://open.spotify.com/track/5lD27Apjkk7ywgklSgqA2R) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [JONES](https://open.spotify.com/album/4hFntmcak16iqTZ8KaBdnh) | 2:50 |
+| 48 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
+| 49 | [PLAYA](https://open.spotify.com/track/4cRafb32DQSDpvIxe5awk5) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7) | 2:17 |
 | 50 | [FRAGILE](https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/01ZdL53MnBydytqMj22cIH) | 3:32 |
 
-Snapshot ID: `MCxkMzIwMjkyOGNmZjM3YjUzZTViYzM3M2E4ZTViYWRlM2Q1OGQyY2Iy`
+Snapshot ID: `MCxkODBkZmNkOTIyZWM3Zjc3MzgxNWI5MGM5MGRmNmEwNmE0YTYyNTZm`

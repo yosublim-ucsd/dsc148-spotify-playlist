@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 54062,
+  "num_followers": 54149,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDUxOTEyN2RmOGY5ZDdlZTU1ZmY0NDYwNzEzYjFjODE1YWFiZTAx",
+  "snapshot_id": "MCw2YWZhMGYxNzhhY2FhNzEzOTQ4M2FmNDdhZmMzMGQzNWM5MjViZWRk",
   "tracks": [
     {
       "added_at": "2023-06-29 15:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Laideronnette",
-        "url": "https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs"
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
       },
       "artists": [
         {
-          "name": "matryoshka",
-          "url": "https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 317547,
-      "name": "Sacred Play Secret Place",
-      "url": "https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9"
+      "duration_ms": 354693,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+        "name": "Laideronnette",
+        "url": "https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs"
       },
       "artists": [
         {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+          "name": "matryoshka",
+          "url": "https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+      "duration_ms": 317547,
+      "name": "Sacred Play Secret Place",
+      "url": "https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Music for Nine Post Cards",
-        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
         }
       ],
-      "duration_ms": 354693,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 264207,
-      "name": "Ch\u014dchin",
-      "url": "https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Music for Nine Post Cards",
         "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 375600,
       "name": "View from My Window",
       "url": "https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 208478,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 208478,
-      "name": "Ike",
-      "url": "https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Heavenly Me Last Days",
         "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Music for Nine Post Cards",
-        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
         "name": "Saunter",
         "url": "https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 224298,
       "name": "vi (almost equal to) ix",
       "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 264207,
+      "name": "Ch\u014dchin",
+      "url": "https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+      "duration_ms": 373973,
+      "name": "FEET",
+      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -695,34 +695,18 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
         }
       ],
-      "duration_ms": 373973,
-      "name": "FEET",
-      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
-        "name": "heavenly tone",
-        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "a beautiful day",
-      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 255178,
       "name": "Utano",
       "url": "https://open.spotify.com/track/0h7IkhjykGhsXardJtErat"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
+        "name": "heavenly tone",
+        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "a beautiful day",
+      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
     },
     {
       "added_at": "2023-06-29 15:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-06-29 15:00:00",
       "album": {
+        "name": "Pause (almost equal to) Play",
+        "url": "https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 285711,
+      "name": "pause (almost equal to) play",
+      "url": "https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS"
+    },
+    {
+      "added_at": "2023-06-29 15:00:00",
+      "album": {
         "name": "Re.sort",
         "url": "https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 97866,
       "name": "Going To The Sea",
       "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
-    },
-    {
-      "added_at": "2023-06-29 15:00:00",
-      "album": {
-        "name": "\u30cf\u30f3\u30b5\u30e0",
-        "url": "https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun"
-      },
-      "artists": [
-        {
-          "name": "\u5c3e\u5cf6\u7531\u90ce",
-          "url": "https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw"
-        }
-      ],
-      "duration_ms": 413693,
-      "name": "Biodome",
-      "url": "https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt"
     }
   ],
   "unique_name": "Ambient Tokyo",

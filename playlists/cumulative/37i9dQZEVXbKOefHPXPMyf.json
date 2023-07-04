@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
@@ -2147,6 +2147,36 @@
     },
     {
       "album": {
+        "name": "Automotivo Blindado",
+        "url": "https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8"
+      },
+      "artists": [
+        {
+          "name": "DJ Rossini ZS",
+          "url": "https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G"
+        },
+        {
+          "name": "DJ MENOR DA Z.O",
+          "url": "https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI"
+        },
+        {
+          "name": "MC Zudo Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7"
+        },
+        {
+          "name": "MC LUIS DO GRAU",
+          "url": "https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226152,
+      "name": "Automotivo Blindado",
+      "url": "https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO"
+    },
+    {
+      "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/111EWQtg07nn7Rt44ONX0A"
       },
@@ -3030,7 +3060,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 157531,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
@@ -7344,7 +7374,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 212600,
       "name": "El Passa Passa del Marciano",
       "url": "https://open.spotify.com/track/6gqv6duQLi8kCTDoGtrQaJ"
@@ -11506,7 +11536,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
@@ -13328,7 +13358,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -19506,7 +19536,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
@@ -27472,7 +27502,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,264 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,267 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [In Theory Depression](https://open.spotify.com/track/5KDqKsWZzi1B3onTrubOZB) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Easy Out](https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY) | 3:09 |
 | 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy`
+Snapshot ID: `MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl`

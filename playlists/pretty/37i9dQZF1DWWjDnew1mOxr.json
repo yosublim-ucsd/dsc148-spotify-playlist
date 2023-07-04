@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Jamie T",
-  "num_followers": 109958,
+  "num_followers": 110560,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGJjZjZmZTBjYmM1YzczMDJhMTUzYmRmNmY4NjI5MWNhNTA4MTVj",
+  "snapshot_id": "MCxjMjQwMTQxZjM2MGU2NjBkYzY5Yzg5ZmU0NzU5MDgyZDQ5ZmVlMTIz",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Baggio",
+        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 221389,
+      "name": "Baggio",
+      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Chancer",
         "url": "https://open.spotify.com/album/4e5Wq8BfWIoW5sRe72mbqI"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 198647,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2SL3kWWD9lt3YaVtF2kATH"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Baggio",
-        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 221389,
-      "name": "Baggio",
-      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
-      },
-      "artists": [
-        {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
-        }
-      ],
-      "duration_ms": 292435,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 292435,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Bullet Farm",
-        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 190614,
-      "name": "Bullet Farm",
-      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "I Let Go",
         "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 141265,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "The Dance You Sell",
-        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
-      },
-      "artists": [
-        {
-          "name": "L'objectif",
-          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
-        }
-      ],
-      "duration_ms": 242512,
-      "name": "The Dance You Sell",
-      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "THE WALL",
         "url": "https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk"
       },
@@ -987,50 +971,18 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Out of My Mind",
-        "url": "https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33"
+        "name": "The Dance You Sell",
+        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
         }
       ],
-      "duration_ms": 212964,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Hummus and Pitta",
-        "url": "https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 137319,
-      "name": "Hummus and Pitta",
-      "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
-    },
-    {
-      "added_at": "2023-06-28 10:49:55",
-      "album": {
-        "name": "Panic Prevention",
-        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sheila",
-      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
+      "duration_ms": 242512,
+      "name": "The Dance You Sell",
+      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1051,6 +1003,38 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
+    },
+    {
+      "added_at": "2023-06-28 10:49:55",
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Emergency (15 Year Anniversary Version)",
         "url": "https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS"
       },
@@ -1063,6 +1047,38 @@
       "duration_ms": 154453,
       "name": "Lets Stay out Tonight",
       "url": "https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Hummus and Pitta",
+        "url": "https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 137319,
+      "name": "Hummus and Pitta",
+      "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Slowly Break My Heart",
+        "url": "https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF"
+      },
+      "artists": [
+        {
+          "name": "Frankie Beetlestone",
+          "url": "https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Slowly Break My Heart",
+      "url": "https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1115,38 +1131,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Propaganda",
-        "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Slowly Break My Heart",
-        "url": "https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF"
-      },
-      "artists": [
-        {
-          "name": "Frankie Beetlestone",
-          "url": "https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Slowly Break My Heart",
-      "url": "https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 202450,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
     },
     {
       "added_at": "2023-06-13 08:58:04",

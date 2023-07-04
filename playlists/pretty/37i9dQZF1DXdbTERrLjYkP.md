@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Meg Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,915 likes - 78 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,927 likes - 78 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 77 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 |
 | 78 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 
-Snapshot ID: `MCxjZWQwZTU3MjJkYWE3ZWRmODJhYmYwMzA4NGQ1MjMzMDBlMmIxOThi`
+Snapshot ID: `MCw2Yjk3ODM4MmM2ZjA0Yjc3NGUyNDJmNmVlMTY1YzhkNjA3YWEwMjYw`

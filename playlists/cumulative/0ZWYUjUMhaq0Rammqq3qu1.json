@@ -843,6 +843,32 @@
     },
     {
       "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/3g0e5RFurzcTBt4Ozh3MGs"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        },
+        {
+          "name": "Theff",
+          "url": "https://open.spotify.com/artist/1z378XZX0bmNMnwtu9x64p"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/0XB3UigycQE75lWN6noCLm"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7uCJbAjUNki8L9qO5IGHE1"
       },
@@ -902,6 +928,32 @@
       "duration_ms": 144000,
       "name": "Crossing Borders",
       "url": "https://open.spotify.com/track/4DH9hdyQqiQWnsEdSgFQ3N"
+    },
+    {
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
     },
     {
       "album": {
@@ -1262,7 +1314,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 166817,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2Px6ovf0vMZsH5SPPfgM1N"
@@ -2438,7 +2490,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 156788,
       "name": "Love 2 U",
       "url": "https://open.spotify.com/track/5IdjonofmOR2iPNjAeQ0PW"
@@ -2788,7 +2840,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 132228,
       "name": "New York ft. mazie",
       "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
@@ -4008,10 +4060,32 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 172500,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/0TVxYGhoA41WiJbxF7Ji47"
+    },
+    {
+      "album": {
+        "name": "Summer Simmer",
+        "url": "https://open.spotify.com/album/0y0VU3Bz8qrMyPiJR8f9kf"
+      },
+      "artists": [
+        {
+          "name": "Orang Utan",
+          "url": "https://open.spotify.com/artist/6W0z5p18xVZQ65Jd3XDbOZ"
+        },
+        {
+          "name": "West Rose",
+          "url": "https://open.spotify.com/artist/5eyYXtzwLllunpuoTUvRof"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Summer Simmer",
+      "url": "https://open.spotify.com/track/7LyHF0jzJ7CloonHBO8xTB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-948 songs - 2 day 9 hr 53 min
+949 songs - 2 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-04-01 | 2022-11-13 |
 | [Missing \- Acoustic Version](https://open.spotify.com/track/5gb0NtkB9dNRnZZVgShfDu) | [Justin Morgan](https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw) | [Missing \(Acoustic Version\)](https://open.spotify.com/album/07paSMJcpkBLpnBaYrMcVh) | 3:02 | 2022-03-28 | 2022-04-10 |
 | [Misterio](https://open.spotify.com/track/6hycXjtlaCrTR6ErFKfHq1) | [Franny Glass](https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w), [Silvestre de la Sierra](https://open.spotify.com/artist/7u8uOQzPWU3uS3ZmwUmWr8) | [La Teoría de los Vidrios Rotos \(Banda Sonora Original\)](https://open.spotify.com/album/2uBxQR6p380z6ZdHl0s2MS) | 1:43 | 2022-03-24 | 2022-04-08 |
+| [MKOB](https://open.spotify.com/track/1fsv79A1dFFlyZoTP9XJLG) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:16 | 2023-07-03 |  |
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2022-04-01 | 2022-04-14 |
 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 | 2022-04-01 | 2022-04-20 |
 | [Monte Adentro](https://open.spotify.com/track/6japMHJTJyhGRCM0ChfUV2) | [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [Monte Adentro](https://open.spotify.com/album/2qevwu4R55bngCs579KmHK) | 4:06 | 2022-03-28 | 2022-03-31 |
@@ -948,7 +949,7 @@
 | [Ya No Me Siento Solo](https://open.spotify.com/track/7rv7xwuYCQz6LOvmrIJWJW) | [Son De Ahi](https://open.spotify.com/artist/4cNcu87QWS5dHHaRHMXTgE) | [Ya No Me Siento Solo](https://open.spotify.com/album/3wfj6UdOyZjz8c6ZIhv2tR) | 3:24 | 2022-04-01 | 2022-04-19 |
 | [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 | 2022-09-23 | 2023-04-29 |
 | [Yo Quiero Ver Un Tren \- Live](https://open.spotify.com/track/5r6xyRtNLEXZ5L9cWpzryO) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Obras Cumbres](https://open.spotify.com/album/2jRV6FSPqiJaNSwgVBD4G4) | 4:59 | 2022-03-24 | 2022-04-11 |
-| [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 |  |
+| [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 | 2023-07-04 |
 | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/track/3RiO4NBbz19Syk0VRCSswm) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Facundo Guevara](https://open.spotify.com/artist/6964LUCtdUXz5FyLEeTgK4) | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/album/5HmPgOERsgqZ66AHx26vJD) | 3:42 | 2022-03-28 | 2022-04-14 |
 | [Zoe](https://open.spotify.com/track/4ukRrm8X7wezPgdgdqOaTf) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 3:34 | 2022-03-24 | 2022-04-16 |
 | [¡Gracias!](https://open.spotify.com/track/0mWxVghJRM3kwzIosQCxY1) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [¡Gracias!](https://open.spotify.com/album/3z654rjwdbqHAU9PdrrZMu) | 3:21 | 2022-04-13 | 2022-04-16 |

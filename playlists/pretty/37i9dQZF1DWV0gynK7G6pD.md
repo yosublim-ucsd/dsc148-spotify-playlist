@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Víkingur Ólafsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,506 likes - 58 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,552 likes - 58 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 57 | [Három weöres\-dal, 3 Songs on Poems by Sándor Weöres: I\. Táncol a hold](https://open.spotify.com/track/6RnetfhSBXQtaqEd7Bgkkc) | [György Ligeti](https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg), [Katalin Károlyi](https://open.spotify.com/artist/0bAsonQhLCM38XGCuSC8Cy), [Klára Würtz](https://open.spotify.com/artist/6tmD8b0VdHX1k3RVDf1krI) | [Hungarian Songs: Bartók, Kodály & Ligeti](https://open.spotify.com/album/14vmuGyhltTjETSZL2rvul) | 0:51 |
 | 58 | [Intermezzo \- Clarinet and String Orchestra](https://open.spotify.com/track/69P8S1phjoe6UCgM8jfQZl) | [Michele Mangani](https://open.spotify.com/artist/6fFmXFi71QPRNc6cCPSIGR), [Seunghee Lee](https://open.spotify.com/artist/1mAiJ44C7FclKQ12EwWpeO), [Manhattan Chamber Players](https://open.spotify.com/artist/2ICmzeLTcjeWcnbcAgZOie) | [Intermezzo \(Clarinet and String Orchestra\)](https://open.spotify.com/album/0moYPTnfU0kyl3a4uARQ0i) | 3:53 |
 
-Snapshot ID: `MCwxMDkwNjAzZjQ2YTRlNTljZTJkMDJkOWM2ZTdhODg5ZGNiYmFjOWM5`
+Snapshot ID: `MCwyYzRiMGJjMjhlMmZhOWNkNWZlOTczNDc0MjYzNGI0NTAwN2U1OGQ3`

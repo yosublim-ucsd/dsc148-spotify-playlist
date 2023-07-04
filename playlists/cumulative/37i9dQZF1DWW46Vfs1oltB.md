@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:YUNHWAY\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:Beenzino\)
 
-919 songs - 2 day 2 hr 51 min
+921 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Rosario](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 | 2021-12-21 | 2022-06-29 |
 | [Rosario \(Feat\. CL, ZICO\)](https://open.spotify.com/track/0OWBz5FCeATA2zhHgAk7Uh) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:50 | 2022-09-17 | 2022-10-30 |
 | [Routine](https://open.spotify.com/track/2xlPC8QQTT3MVoxX64EvdK) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Routine](https://open.spotify.com/album/5ijIMGX1ePma3opNeb9GAe) | 3:38 | 2021-12-29 | 2022-07-01 |
+| [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 | 2023-07-03 |  |
 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 | 2023-01-03 | 2023-01-11 |
 | [RUN AWAY](https://open.spotify.com/track/54QnwP0o6MPBo4UNTbXrUO) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Taxidriver OST Part.5](https://open.spotify.com/album/48OOn8rhiGD0fAIndTcC5w) | 3:15 | 2021-12-18 | 2022-07-08 |
 | [run! \(feat\. JUSTHIS\)](https://open.spotify.com/track/5UKf82epsMYtjpZR9QGtns) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 3:47 | 2021-12-18 | 2022-07-04 |
@@ -824,6 +825,7 @@
 | [To the Moon \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/6MVhgdbH0AKZlEef2dgJ92) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [To the Moon \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/album/6hjS0olvdEdxAGTemnblls) | 3:16 | 2021-12-21 | 2022-06-28 |
 | [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 | 2023-04-21 |  |
 | [Toronto \(Feat\. Tommy Strate, Don Mills\)](https://open.spotify.com/track/3nke8ydw4IWYjaKsyNkBa8) | [IMEANSEOUL](https://open.spotify.com/artist/4YGDRGtYWgNRjm5x06rlUn), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Toronto \(Feat\. Tommy Strate, Don Mills\)](https://open.spotify.com/album/70GeJKPizT4VGS3VQsKvvG) | 2:20 | 2022-03-26 | 2022-04-20 |
+| [Travel Again \(Feat\. Cautious Clay\)](https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 4:17 | 2023-07-03 |  |
 | [Tree](https://open.spotify.com/track/5fL0pFoAi6V6OWOgIRdraP) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Tree](https://open.spotify.com/album/7nFtvzOlA00mF9huq3D4ao) | 3:01 | 2021-12-18 | 2022-07-06 |
 | [Trend setter \(feat\. Coogie & JUSTHIS\)](https://open.spotify.com/track/2CQdgtrbvZ5itizY7WB5K8) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Trend setter \(feat\. Coogie & JUSTHIS\)](https://open.spotify.com/album/21hmwsxug8RxtKUrRQgqEP) | 3:43 | 2022-02-03 | 2022-06-30 |
 | [Trippy](https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Trippy](https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5) | 3:27 | 2023-01-30 | 2023-06-14 |

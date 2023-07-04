@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-187 songs - 11 hr 8 min
+188 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2022-07-14 |  |
 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 | 2021-12-06 |  |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2021-12-06 | 2023-02-18 |
+| [Foli](https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol) | [Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga) | [Foli](https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm) | 2:57 | 2023-06-09 |  |
 | [For Gerard](https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv) | 3:23 | 2022-09-30 |  |
 | [For Gerard](https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7) | 3:23 | 2021-12-06 | 2022-10-13 |
 | [Gas](https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe) | [Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga), [Z The Vibe Doctor](https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh), [Benny D](https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu), [Machi](https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy), [Julian Mendoza](https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4) | [Gas](https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI) | 3:00 | 2023-03-17 |  |
@@ -133,7 +134,7 @@
 | [Oublier](https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:46 | 2021-12-06 | 2023-02-18 |
 | [Overdose](https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Kamasootra](https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF) | 4:29 | 2021-12-06 | 2023-02-18 |
 | [P's & Q's](https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3), [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [P's & Q's](https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m) | 3:16 | 2023-03-17 |  |
-| [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 | 2021-12-06 |  |
+| [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 | 2021-12-06 | 2023-07-04 |
 | [Party Girls \(feat\. Buju Banton\) \- Michaël Brun Dancehall Remix](https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Party Girls \(feat\. Buju Banton\) \[Michaël Brun Dancehall Remix\]](https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU) | 3:19 | 2023-05-26 |  |
 | [PARTY IN LA](https://open.spotify.com/track/58QFByzczFVzQ1gihExSX8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/0tfgaDFmMBBdrV3DQxtLOG) | 2:33 | 2021-12-06 | 2022-05-13 |
 | [Paré](https://open.spotify.com/track/2sVFUPt8rf9DhxH3D2vqgs) | [FREAKEYZ](https://open.spotify.com/artist/73vqo4qBPp4Qfw1TzAbqJl) | [Paré](https://open.spotify.com/album/1rjfm8ZnkOyQtSHzpg1pHy) | 3:00 | 2021-12-06 | 2022-05-13 |

@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Blusher
 
-428 songs - 23 hr 6 min
+430 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Naked](https://open.spotify.com/track/5mUt693rCV1aMGHIuMe0pu) | [Jess Day](https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk) | [Naked](https://open.spotify.com/album/2NIRrSHvc3qbJ4LWrLAYtJ) | 3:12 | 2022-02-03 | 2022-07-04 |
 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 | 2022-07-03 | 2023-04-01 |
 | [Never Get To Fuck Any1](https://open.spotify.com/track/1PPJitPB8C3JWJouTgYrwB) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Never Get To Fuck Any1](https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x) | 2:24 | 2022-02-03 | 2022-03-07 |
-| [Never Saw It Coming](https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 3:08 | 2023-06-30 |  |
+| [Never Saw It Coming](https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 3:08 | 2023-06-30 | 2023-07-04 |
 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-04-05 | 2022-05-03 |
 | [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 | 2022-05-02 | 2022-12-16 |
 | [next life](https://open.spotify.com/track/5poPzk8gK11QCegSKXGJbU) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:01 | 2022-11-30 | 2023-02-01 |
@@ -297,7 +297,7 @@
 | [On the Rocks](https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [On the Rocks](https://open.spotify.com/album/0QlPy2vcgaSJkhvbrY0VAk) | 2:50 | 2023-04-30 |  |
 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 | 2023-05-31 |  |
 | [On Your Mind](https://open.spotify.com/track/4guGo1F4CfF2IbsSFKR8dF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [On Your Mind](https://open.spotify.com/album/5Jv3U8CHmOBL1mTeR94c39) | 3:56 | 2022-04-05 | 2022-05-28 |
-| [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 | 2022-09-05 |  |
+| [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 | 2022-09-05 | 2023-07-04 |
 | [Only Love](https://open.spotify.com/track/6H29rXPIM9nCqRUwDTpE1I) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/1qPTIdE56XHvxHGfwXhDhR) | 3:05 | 2022-05-27 | 2022-07-29 |
 | [Only Love](https://open.spotify.com/track/5a4LapS7L0iMuic84bXigB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/5HSPiHE3WHEjLfjVl8sIc1) | 3:05 | 2022-07-03 | 2022-09-06 |
 | [Only One](https://open.spotify.com/track/29Vaym55qNHaG2IrHpCTA9) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:08 | 2022-10-31 | 2022-12-01 |
@@ -337,6 +337,7 @@
 | [Sick To My Stomach](https://open.spotify.com/track/54m0ShUEWaiYTqnsidhYvM) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/0y5iNHmiygdkqhEgSCHDRV) | 3:14 | 2022-07-03 | 2022-09-06 |
 | [Sixth Sense](https://open.spotify.com/track/3sfbnQJgdgvAwVygAf6qZ1) | [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [Sixth Sense](https://open.spotify.com/album/2dIyeoPQ9kmSDbFst4dogk) | 3:09 | 2022-11-30 |  |
 | [Skin](https://open.spotify.com/track/3pD7ouIW65U6DAXoaIJsYN) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Skin](https://open.spotify.com/album/2AxVopmpBrUglkTcjOWfiB) | 2:50 | 2023-01-31 |  |
+| [Skin](https://open.spotify.com/track/2dgaPHVtFCgsylWa64Ypau) | [Jada Weazel](https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm) | [Skin](https://open.spotify.com/album/05tDXSt6J7HcJoTRA0Rxyg) | 3:26 | 2023-07-03 |  |
 | [skin deep](https://open.spotify.com/track/5CmTPL7QXwZoWKjIX6apTB) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 3:24 | 2023-03-06 | 2023-03-12 |
 | [skin deep](https://open.spotify.com/track/7jPd3Glmzd6qZhRus2aTPg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [skin deep](https://open.spotify.com/album/1HwVaqdiURRRGz3fji43lI) | 3:24 | 2022-12-31 | 2023-03-11 |
 | [sleep in](https://open.spotify.com/track/6x25b9ZpImUz4pniORsgvA) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [sleep in](https://open.spotify.com/album/5DsgOv6IVWT98bHh3zl7F8) | 2:37 | 2022-07-03 | 2023-04-01 |
@@ -408,6 +409,7 @@
 | [Understand](https://open.spotify.com/track/4JkRISoAHFRP40FGzNymNp) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 2:57 | 2022-09-05 | 2023-03-01 |
 | [Understand](https://open.spotify.com/track/7qbF7t9vmBaAVS7VJ6gP82) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Understand](https://open.spotify.com/album/5QxQ9fuQFnYqqRfF3oyLXg) | 2:57 | 2022-09-05 | 2022-09-21 |
 | [Unforgivingly Me](https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Unforgivingly Me](https://open.spotify.com/album/01hoYJaRqNuMi06xhfvcLF) | 2:56 | 2023-03-31 |  |
+| [UP!](https://open.spotify.com/track/6pxSZ1zNjsrAQRBvVk5H5f) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [NEVER AGAIN!](https://open.spotify.com/album/1faeXEYCz0R4mExwxspGy6) | 3:01 | 2023-07-03 |  |
 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 | 2022-07-31 | 2023-05-01 |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2022-02-03 | 2022-08-01 |
 | [Waiting Game](https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Morning Sun EP](https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC) | 4:00 | 2023-01-31 |  |

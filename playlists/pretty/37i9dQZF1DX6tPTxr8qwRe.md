@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: SNOW WIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,969 likes - 81 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,183 likes - 81 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 80 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
 | 81 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCwzNDQ2NzMxZjBkMDJlYzQ2OGFjMTk5YWU4ZDQzY2VkZDE2MzE5NDdh`
+Snapshot ID: `MCw2MDA5ZDlmNzc1Nzk0ZTYxMTQ2ZjUzZGZjNzc5OTIwZDFiM2M4OWEz`

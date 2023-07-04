@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 236547,
+  "num_followers": 236599,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWUyZjlhODUzYTdjZWI0NzQ0OWNhNTBmYTBjMzdlNmMyMjkwNmFk",
+  "snapshot_id": "MCxhZjkyZGQyNjdkNTI3NTNjODFhYTRmNDU5MjQzYjI4YjZhOGM0OWE1",
   "tracks": [
     {
       "added_at": "2023-02-27 20:56:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-02-27 20:56:19",
       "album": {
-        "name": "Memoir",
-        "url": "https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI"
-      },
-      "artists": [
-        {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
-        }
-      ],
-      "duration_ms": 110518,
-      "name": "Jiy\u016b",
-      "url": "https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv"
-    },
-    {
-      "added_at": "2023-02-27 20:56:19",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 173337,
       "name": "Melanine",
       "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
+    },
+    {
+      "added_at": "2023-02-27 20:56:19",
+      "album": {
+        "name": "Memoir",
+        "url": "https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI"
+      },
+      "artists": [
+        {
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+        }
+      ],
+      "duration_ms": 110518,
+      "name": "Jiy\u016b",
+      "url": "https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv"
     },
     {
       "added_at": "2023-02-27 20:56:19",

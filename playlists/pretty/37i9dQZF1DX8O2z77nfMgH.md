@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Ovy On The Drums, Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,535 likes - 62 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,585 likes - 62 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 47 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 |
 | 48 | [Buscando Dinero](https://open.spotify.com/track/4QqCyGvL8wk3sLiVQx5UQj) | [El Yman](https://open.spotify.com/artist/41uM3sXgEOqlu3bKBlkuNh), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Buscando Dinero](https://open.spotify.com/album/2lT89pXNOBPTYtkq9yT7Fu) | 2:55 |
 | 49 | [Yo No Sé Si Tu](https://open.spotify.com/track/2Q0b7lrcnjAuxmzJtWEnIB) | [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg) | [Yo No Sé Si Tu](https://open.spotify.com/album/1ZVLR31qUNjxqD4gZ36ijb) | 3:02 |
-| 50 | [Sarradinha](https://open.spotify.com/track/08tzA2Jt2HJ2y9av7LaAKd) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4) | [Sarradinha](https://open.spotify.com/album/0kB2irfxZQQEtWLZD4nPNG) | 3:04 |
+| 50 | [Sarradinha](https://open.spotify.com/track/08tzA2Jt2HJ2y9av7LaAKd) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Yuri Hawaiano](https://open.spotify.com/artist/2AJ4aGu5kFvxv7JwaVSPxW) | [Sarradinha](https://open.spotify.com/album/0kB2irfxZQQEtWLZD4nPNG) | 3:04 |
 | 51 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
 | 52 | [Mami no llores](https://open.spotify.com/track/2KKIJwDbT4tbF9RdMg2aHC) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Del Infierno Al Cielo](https://open.spotify.com/album/30kEwSfr0p2jC2QCreyC9I) | 3:22 |
 | 53 | [Malamor](https://open.spotify.com/track/2Pm5NnhmdZX8u7gLoU6fva) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln) | [Malamor](https://open.spotify.com/album/7fgfmAKjY0torZ0eWRBVNH) | 2:17 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 61 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 |
 | 62 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 
-Snapshot ID: `MCxiMTE2YzMwYTk1MTA4NDZiMDkzYTk0YWNjMThiMDgzM2VjOTBkYTk5`
+Snapshot ID: `MCw2MzQyN2FjZTlhYTMyOWE4YWFkNDRkNmE0Nzg1MDA5M2I3MDgxZTQ2`

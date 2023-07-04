@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-221 songs - 12 hr 3 min
+223 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2023-02-27 |  |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2023-03-06 | 2023-06-06 |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2022-06-06 |  |
-| [I Feel Like Dancing](https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Feel Like Dancing](https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR) | 3:38 | 2023-02-21 |  |
+| [I Feel Like Dancing](https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Feel Like Dancing](https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR) | 3:38 | 2023-02-21 | 2023-07-04 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-06 | 2022-07-29 |
 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 | 2022-12-12 | 2023-05-03 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2022-07-25 | 2022-09-29 |
@@ -98,6 +98,7 @@
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-09-19 | 2022-11-13 |
 | [If I Can't Have You](https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [If I Can't Have You](https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD) | 3:10 | 2022-07-25 |  |
 | [if i don't have your love](https://open.spotify.com/track/1CxImGOa5w53prpeB3F7uA) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:47 | 2022-06-06 | 2022-07-29 |
+| [If We Ever Broke Up \(feat\. Zack Tabudlo\) \- Remix](https://open.spotify.com/track/4eGD9nC7r8npeJMJclBbKc) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [If We Ever Broke Up \(feat\. Zack Tabudlo\) \[Remix\]](https://open.spotify.com/album/6PMJzBTQ6vKeKxtco1FqKU) | 2:22 | 2023-07-03 |  |
 | [Illusion](https://open.spotify.com/track/74WIjSs3N0fI3LtC0rB2Gs) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Illusion EP](https://open.spotify.com/album/7dRKHBi8oyyDjb5uQrro8N) | 2:49 | 2022-06-06 | 2022-07-28 |
 | [is it cool?](https://open.spotify.com/track/6NmMyDDd74hWU8UlmxF47d) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [is it cool?](https://open.spotify.com/album/7x2IK86XxyIi1hw5lJqGbY) | 2:09 | 2022-06-06 | 2022-07-28 |
 | [Is This A Game](https://open.spotify.com/track/4spfk3QA3CL2RfWXVYgDRn) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [Is This A Game](https://open.spotify.com/album/1G7X6Dmj2fTsa7UaJGckWd) | 3:08 | 2022-06-06 | 2022-07-27 |
@@ -169,6 +170,7 @@
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-07-25 |  |
 | [Scenery](https://open.spotify.com/track/2BKvuUNunH9q9UoQhaDLmJ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Scenery](https://open.spotify.com/album/2mEDVox5VIgw7y7KaqPSxy) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2022-06-06 | 2022-07-29 |
+| [see\-thru](https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4) | [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [see\-thru](https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp) | 2:23 | 2023-07-03 |  |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2022-07-25 |  |
 | [She Moves](https://open.spotify.com/track/5WwbjsprKOV8d6B8KzOs8q) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Undertones](https://open.spotify.com/album/0Ho75sMbhcRbZLtEYK00it) | 3:03 | 2022-06-06 | 2022-07-29 |
 | [Side To Side](https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:46 | 2023-02-13 |  |
@@ -178,7 +180,7 @@
 | [so fire](https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [so fire](https://open.spotify.com/album/3fSD8ylQNPfUx1fGEAZLb8) | 2:35 | 2023-05-15 | 2023-05-23 |
 | [so good](https://open.spotify.com/track/5viDyBHBnJHCF1XTcROFkF) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so good](https://open.spotify.com/album/37KP5nrRhwvBAD8QDqMYWe) | 2:31 | 2022-06-06 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/7gEVqV2uGyP34Mklu7jYr5) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Sober](https://open.spotify.com/album/3Uk1j4TxLk0ylBR4k8icmp) | 3:45 | 2023-01-23 | 2023-02-01 |
-| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-04-03 |  |
+| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-04-03 | 2023-07-04 |
 | [Some Things Never Change](https://open.spotify.com/track/04ZQVZvFadkN5wA88owIxv) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Some Things Never Change](https://open.spotify.com/album/573Vfx55DSu8ysefBIU3QP) | 2:54 | 2022-06-13 | 2022-07-17 |
 | [something special](https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [something special \(hi\)](https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy) | 2:37 | 2022-06-06 | 2022-07-29 |
 | [STAY](https://open.spotify.com/track/453LUWCXecCS234CYjtnoL) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [STAY](https://open.spotify.com/album/6MUZsclNb2Ve2A5lSzmPQ7) | 3:33 | 2022-06-06 | 2022-07-29 |

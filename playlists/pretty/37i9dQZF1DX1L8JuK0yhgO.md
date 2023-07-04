@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,238 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,251 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 56 | [touch you](https://open.spotify.com/track/7InwHN0bEJ95EfAK9h2DWx) | [tomodati](https://open.spotify.com/artist/2jUHyOTAww2DwD3RDGwjzd) | [touch you](https://open.spotify.com/album/6DzFWL0uIGFCP6knqDHKYn) | 3:30 |
 | 57 | [Save m3](https://open.spotify.com/track/6xdFGdGCsxWO0L99t8RwSx) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ), [Cyprus](https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv) | [Save m3](https://open.spotify.com/album/5RdiciuJ46epDl134ZOzbv) | 2:20 |
 | 58 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 |
-| 59 | [可愛くない私 \- KOTONOHOUSE Remix](https://open.spotify.com/track/50n6dSShexFCKR5vosw3N9) | [cyber milk ちゃん](https://open.spotify.com/artist/0MQvFMFKevXG36BuRiCHLP), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [ଘ 電脳牛乳 ໒꒱](https://open.spotify.com/album/0gWbQWI2lx62pfROyjkMbm) | 3:48 |
+| 59 | [I am not cute \- KOTONOHOUSE Remix](https://open.spotify.com/track/3XuW3TfdXI8H3ATkLkwKvC) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [Computer Milk](https://open.spotify.com/album/27cmJZZHX7hvjPY650mWBC) | 3:48 |
 | 60 | [Doki Doki](https://open.spotify.com/track/4gNjNP24fwMaua972eySGF) | [Baku](https://open.spotify.com/artist/5m3CibdsoEKP2HxjyRBuGZ), [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa) | [Doki Doki](https://open.spotify.com/album/2AD2Iz81EawEpMsfszK68n) | 2:51 |
 
-Snapshot ID: `MCwzMjU5YmI2ZGI2NWUzMjQxNGZkZDdjM2E4OTEzNzExNDExNWFjN2Jj`
+Snapshot ID: `MCw2NDk1MDBhMWI1MWI4ZDlhY2VmM2JjZWMwNTQ1ZDU5MGM2MDliMDY4`

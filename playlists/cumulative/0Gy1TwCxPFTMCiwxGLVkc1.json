@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/33ucCfGMl6jd9tp0jvTtlc"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "Feelin' Good",
+      "url": "https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt"
+    },
+    {
+      "album": {
         "name": "Take Note (Original Music from the Series)",
         "url": "https://open.spotify.com/album/5f2VvJLIoTqmJV54kACmMM"
       },
@@ -872,7 +890,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 111553,
       "name": "It's A Snow Day",
       "url": "https://open.spotify.com/track/2XO6U3D3h3dnlEMq9jp6zy"
@@ -1218,6 +1236,24 @@
       "duration_ms": 166510,
       "name": "Monster Mash - 2022",
       "url": "https://open.spotify.com/track/49BcwXjtSMF2c1hChSDrns"
+    },
+    {
+      "album": {
+        "name": "Erin & Aaron Theme Song & More!",
+        "url": "https://open.spotify.com/album/1ewjmBeBuBcjaLYERI0fwm"
+      },
+      "artists": [
+        {
+          "name": "Erin & Aaron Cast",
+          "url": "https://open.spotify.com/artist/05Zt5V7mDbKur77ljEaFp0"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122344,
+      "name": "More Than Family - Erin & Aaron Theme Song",
+      "url": "https://open.spotify.com/track/5jkqAlstXrpTfMFYhAv2Rb"
     },
     {
       "album": {
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 48520,
       "name": "Snowflake Drop",
       "url": "https://open.spotify.com/track/3GlSbCm2GfBzkvDqACsEXJ"

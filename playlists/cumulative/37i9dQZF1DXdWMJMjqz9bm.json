@@ -6530,7 +6530,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 141951,
       "name": "Nonfiction",
       "url": "https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO"
@@ -8390,6 +8390,24 @@
       "duration_ms": 123448,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/03gx1ylVNRQQtpv1VRIsHL"
+    },
+    {
+      "album": {
+        "name": "Ur in My World",
+        "url": "https://open.spotify.com/album/7jtuIiYuftTgdkZzPLn3pL"
+      },
+      "artists": [
+        {
+          "name": "SMILEZ",
+          "url": "https://open.spotify.com/artist/0lRdxaQbuLSVm4DpUPCinB"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126738,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1zZO31X6KgID8JllCNMxEW"
     },
     {
       "album": {

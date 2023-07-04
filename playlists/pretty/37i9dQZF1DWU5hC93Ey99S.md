@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 ### [Emotional Dance](https://open.spotify.com/playlist/37i9dQZF1DWU5hC93Ey99S)
 
-> all the feels
+> all the stutter, all the feels
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,007 likes - 166 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,028 likes - 166 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 165 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 166 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw3YzJjZWEyMDBiN2Q4NzlhYTAzZjQxMTNkOTI5NjA4YjJiM2EzYjFj`
+Snapshot ID: `MCw3YzIxYzdkMDI0NDI1NDU2OTFjZjIxMDNkMjY1YzFiN2JkZGFiYjJj`

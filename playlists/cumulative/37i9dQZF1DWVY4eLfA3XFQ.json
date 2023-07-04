@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "ALGORHYTHM",
+        "url": "https://open.spotify.com/album/1rCSTxIcDdmKY6sAP1myUy"
+      },
+      "artists": [
+        {
+          "name": "BOX CAR",
+          "url": "https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV"
+        },
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "AGAIN & AGAIN",
+      "url": "https://open.spotify.com/track/6OfWwbl8qitbHNkqAcQd5M"
+    },
+    {
+      "album": {
         "name": "Aguila ft. Cumbiafrica",
         "url": "https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs"
       },
@@ -590,6 +612,24 @@
       "duration_ms": 176835,
       "name": "ALALA",
       "url": "https://open.spotify.com/track/0EA7SaogHX4PgvNe1cGjQ0"
+    },
+    {
+      "album": {
+        "name": "Alexandria",
+        "url": "https://open.spotify.com/album/3MaoVh0H7ouhC27BRFlTpa"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6dermalm",
+          "url": "https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Alexandria",
+      "url": "https://open.spotify.com/track/6PLsM2tuwhN5msceTeOFZH"
     },
     {
       "album": {
@@ -906,7 +946,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 227812,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1ucjf1pWo2hO5Ekqw3VZ7p"
@@ -5436,6 +5476,28 @@
       "duration_ms": 256614,
       "name": "Drummers Mind - Original Edit",
       "url": "https://open.spotify.com/track/0iq6bJBeZYstW81rYEY5yT"
+    },
+    {
+      "album": {
+        "name": "Ducati",
+        "url": "https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Ducati",
+      "url": "https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235"
     },
     {
       "album": {
@@ -12966,7 +13028,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 327319,
       "name": "Moon Light",
       "url": "https://open.spotify.com/track/1sln9ExqMPmRURnujkU4qX"
@@ -18388,7 +18450,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 170476,
       "name": "So Fucking High",
       "url": "https://open.spotify.com/track/0TyGAqRO5bB5YJjUFuhZwm"

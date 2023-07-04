@@ -343,6 +343,28 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/5uE6rPTznwSR9IXxgUHcpi"
+      },
+      "artists": [
+        {
+          "name": "Vijay Krishna",
+          "url": "https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW"
+        },
+        {
+          "name": "Subash Mouli",
+          "url": "https://open.spotify.com/artist/6u7Hv6H979EzkmglgndHKh"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251502,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/46uVjOchiOzNChMb36MKN2"
+    },
+    {
+      "album": {
         "name": "Eechi",
         "url": "https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx"
       },

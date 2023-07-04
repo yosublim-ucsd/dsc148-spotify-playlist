@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-215 songs - 9 hr 42 min
+216 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Notre Dame](https://open.spotify.com/track/6eaGeLT6gaZ5Elz47wET2o) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Notre Dame](https://open.spotify.com/album/19h0scD8R1YD7UWNL75x5B) | 3:12 | 2022-11-10 |  |
 | [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |
-| [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 |  |
+| [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 | 2023-07-04 |
 | [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 |  |
 | [Orgia](https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:06 | 2022-04-21 | 2022-12-09 |
 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 | 2023-02-23 |  |
@@ -185,6 +185,7 @@
 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 | 2022-04-21 |  |
 | [Sogni](https://open.spotify.com/track/3buQxxhqMFJlHAsvfsplnG) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Tempo](https://open.spotify.com/album/19HiQkbCvtCDfTtjCG3RJw) | 2:28 | 2022-12-15 | 2023-04-06 |
 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 | 2022-08-12 |  |
+| [sola \(con me\)](https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [sola \(con me\)](https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM) | 2:51 | 2023-06-29 |  |
 | [Soli assieme](https://open.spotify.com/track/6W8sIhqfWYgwzYvwRUQ9iG) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Soli assieme](https://open.spotify.com/album/747G8oEEwQcHz1alvW6Rpv) | 2:42 | 2022-07-28 | 2023-01-13 |
 | [Solita](https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [Solita](https://open.spotify.com/album/5kK7COihWbhVwFllUuD8gx) | 2:58 | 2022-04-21 | 2022-08-13 |
 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 | 2022-04-21 |  |

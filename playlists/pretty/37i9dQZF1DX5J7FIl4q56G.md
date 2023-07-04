@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,747 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,947 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 41 | [light.blooms](https://open.spotify.com/track/3NmBTAawO5frrzsgMcPtlW) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [light.blooms](https://open.spotify.com/album/3ycBkBSKgJvgZtOymF7lCe) | 3:52 |
 | 42 | [Endless Torment](https://open.spotify.com/track/0Wx5aMbQMihpYBVbCk8lzd) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [Endless Torment](https://open.spotify.com/album/3pmANMJYRSIcUHREZvvdjT) | 4:06 |
 | 43 | [Eat Me Alive](https://open.spotify.com/track/6BvNz6G2pv8woNEqfARPDB) | [Arrow Minds](https://open.spotify.com/artist/3hbsahnDfum7FiOyCLS4Wq) | [Eat Me Alive](https://open.spotify.com/album/7nsXHzDIQN3WA4Drk0z96I) | 3:08 |
-| 44 | [Want](https://open.spotify.com/track/2gQlV04J10XlANyx1AgMM0) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Want](https://open.spotify.com/album/0wKIltPeWCAqAV2kwNTlcK) | 2:00 |
+| 44 | [Want](https://open.spotify.com/track/2b1eBBHnRRU5oj71vOJxYg) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Systemic](https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb) | 2:00 |
 | 45 | [Existential](https://open.spotify.com/track/6C8E6hcSe93gK7OX7O3iH3) | [Red Keep](https://open.spotify.com/artist/1725duX98HxfXbWaJ1c4Gc) | [Existential](https://open.spotify.com/album/6m7jYuJfRXw5lVMNArH6C5) | 3:36 |
 | 46 | [W.A.P\. \(Wet Ass Plutonium\)](https://open.spotify.com/track/7kmc3emHDelu73qPdP9UXK) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [W.A.P\. \(Wet Ass Plutonium\)](https://open.spotify.com/album/3p5N1cC5hvJwRRxRdIKK21) | 5:05 |
 | 47 | [Gemini](https://open.spotify.com/track/7oaFaeyXMDWkc8QFbP7ZpW) | [Astralborne](https://open.spotify.com/artist/45l3HSYbJXF1odSKY3UbTO) | [Gemini](https://open.spotify.com/album/3P80Y0M7qD2VjqtPagZYXt) | 5:02 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Malignant Visions](https://open.spotify.com/track/6Tbsy7matHjDnOPz0lJxnk) | [Disguised Malignance](https://open.spotify.com/artist/0e5FD8Ns1BnTTOMEZk4Cvf) | [Malignant Visions](https://open.spotify.com/album/5a0BLnqAg66iQ7VNmfZl6q) | 4:43 |
 | 55 | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/track/4L9rjEyilWCD2U1NSYi0aR) | [AREIERA](https://open.spotify.com/artist/3jw3OCk2ruHi0dikIiFwR8), [Timo Tolkki](https://open.spotify.com/artist/7l18v4VkyEtRXHz9UzMo3r) | [Time Has Come \(feat\. Timo Tolkki\)](https://open.spotify.com/album/2k76mhH7O74uBmq8VlonyI) | 2:52 |
 
-Snapshot ID: `MCxjNzQ2MjYxMmFhMmJmNzI0Y2M1YmMzZDE3OWVkNWUwZmQ1MmE1NGRh`
+Snapshot ID: `MCwzN2VhMjAxNDNjZjVlNjY0M2VhMmUwNjMzODZmYjg1ODU2MWZjODE2`

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 57767,
+  "num_followers": 57880,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDRmM2JkNTkyM2ZlMDk3OWIzYzI4ODVhYWEwYzBkYWM3OThmYjA0",
+  "snapshot_id": "MCw0ODczNzdmZTI3M2NlMDFiN2QzY2EzMTcyZDYyODM0ZWM2YWFmNWEy",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
       },
@@ -587,22 +567,6 @@
       "duration_ms": 83940,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -631,6 +595,42 @@
       "duration_ms": 190615,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Cupid, Pt. 2",
-        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 102948,
-      "name": "Cupid, Pt. 2",
-      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "#miles (OMG edit)",
         "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 137727,
       "name": "#miles (OMG edit)",
       "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Cupid, Pt. 2",
+        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 102948,
+      "name": "Cupid, Pt. 2",
+      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "c\u00f3mo t va?",
-        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 126000,
-      "name": "c\u00f3mo t va?",
-      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+        "name": "c\u00f3mo t va?",
+        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+      "duration_ms": 126000,
+      "name": "c\u00f3mo t va?",
+      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -927,30 +927,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
-      },
-      "artists": [
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        },
-        {
-          "name": "Kajun Waters",
-          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
-        }
-      ],
-      "duration_ms": 140298,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sounds Of A Menace (Jersey Club)",
         "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 145293,
       "name": "Back Stabbers Jersey Club Mix",
       "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        }
+      ],
+      "duration_ms": 140298,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "My Back (Jersey Club)",
-        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 127503,
-      "name": "My Back (Jersey Club)",
-      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 152727,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "My Back (Jersey Club)",
+        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 127503,
+      "name": "My Back (Jersey Club)",
+      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "New Jersey Club EP",
-        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
-      },
-      "artists": [
-        {
-          "name": "DJ Tray",
-          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
-        }
-      ],
-      "duration_ms": 98208,
-      "name": "Nobody's Perfect - Original Mix",
-      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Hips Real Sturdy (Touch Dem Hips) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/4D2FHFxy9ZgobqaAlxxEVS"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 85861,
-      "name": "Hips Real Sturdy (Touch Dem Hips) - Sped Up Version",
-      "url": "https://open.spotify.com/track/3jZPyE3RMZLTFfGoBrsK17"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "BaDinga (Reloaded)",
         "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
@@ -1427,6 +1395,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+      },
+      "artists": [
+        {
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+        }
+      ],
+      "duration_ms": 98208,
+      "name": "Nobody's Perfect - Original Mix",
+      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Can You Bounce? (Remix)",
         "url": "https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 126955,
       "name": "Can You Bounce? - Remix",
       "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+      },
+      "artists": [
+        {
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
     }
   ],
   "unique_name": "Jersey Club Heat",

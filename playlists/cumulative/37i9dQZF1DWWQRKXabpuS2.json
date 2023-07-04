@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0633\u0644\u0637\u0627\u0646 \u062e\u0644\u064a\u0641\u0629",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u062e\u0627\u0644\u062f \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 200504,
       "name": "Ana Al Sadeq",
       "url": "https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p"
@@ -1798,6 +1798,24 @@
       "duration_ms": 159339,
       "name": "Keda Wala Keda",
       "url": "https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK"
+    },
+    {
+      "album": {
+        "name": "Kellahe El Shouq",
+        "url": "https://open.spotify.com/album/6RBuponLlbtQMbtKh5uJ53"
+      },
+      "artists": [
+        {
+          "name": "Khaled Abdul Rahman",
+          "url": "https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351553,
+      "name": "Kellahe El Shouq",
+      "url": "https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ"
     },
     {
       "album": {

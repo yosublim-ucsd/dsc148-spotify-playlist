@@ -4,7 +4,7 @@
 
 > eu so qria um quentao um curau e uma barraca do bjo
 
-294 songs - 13 hr 31 min
+295 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2022-12-28 | 2023-04-12 |
 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 | 2022-05-26 | 2022-07-19 |
 | [Posturado E Calmo](https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Another One](https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ) | 3:07 | 2023-06-28 |  |
+| [Pra Vaquejada Eu Vou](https://open.spotify.com/track/3akLlnOdrJOZYtBdaYbXhp) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/6UFlPyIRdWi2dlXe2vgIut) | 2:54 | 2023-07-03 |  |
 | [Primeiro Beck](https://open.spotify.com/track/3IN6ZKDzAsOUuOtmIqnAYX) | [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [Primeiro Beck](https://open.spotify.com/album/2wNWu9WSJynNKZrQZndTPB) | 2:19 | 2022-09-02 | 2022-09-07 |
 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/3DNgjjNmVUj5z1uvLVd343) | [ascendingboy](https://open.spotify.com/artist/2d05ivGt1JcxoIcbMB7g48) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1Q7VZ0frBrYW1T2SoWKg2U) | 1:54 | 2022-08-31 | 2022-09-03 |
 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc) | 2:19 | 2022-09-02 | 2023-03-28 |

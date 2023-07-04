@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22503,
+  "num_followers": 22506,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy",
+  "snapshot_id": "MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Coraz\u00f3n de Mel\u00f3n",
-        "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Coraz\u00f3n de Mel\u00f3n",
-      "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "ME MATA(S)",
         "url": "https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 184533,
       "name": "ME MATA(S)",
       "url": "https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Coraz\u00f3n de Mel\u00f3n",
+        "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Coraz\u00f3n de Mel\u00f3n",
+      "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -167,38 +167,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "T\u00c1NGER Y ZAHARA",
-        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "ZAHARA",
-      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "De Charco En Charco",
         "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
@@ -215,6 +183,22 @@
       "duration_ms": 160589,
       "name": "De Charco En Charco",
       "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "T\u00c1NGER Y ZAHARA",
+        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "ZAHARA",
+      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -259,6 +243,22 @@
       "duration_ms": 151156,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "\u00bfQui\u00e9n es Billie Max?",
         "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 156800,
       "name": "C\u00e1psula Espacial",
       "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "NO ME PASA NADA",
-        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Nada ha cambiado",
-      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Solo me gustas cuando yo te gusto a ti",
         "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "NO ME PASA NADA",
+        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Nada ha cambiado",
+      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Pensando mucho y mal",
-        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Ca\u00edmos las dos",
-      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "por qu\u00e9 vuelvo a quererte?",
         "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+        "name": "Pensando mucho y mal",
+        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
+      "duration_ms": 165882,
+      "name": "Ca\u00edmos las dos",
+      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -611,6 +595,22 @@
       "duration_ms": 190344,
       "name": "Del cielo",
       "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "La Broma De Mis Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
+        "name": "Muchas gracias por venir",
+        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 173200,
-      "name": "La Broma De Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
+      "duration_ms": 202156,
+      "name": "Muchas gracias por venir",
+      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Muchas gracias por venir",
-        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
+        "name": "La Broma De Mis Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 202156,
-      "name": "Muchas gracias por venir",
-      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
+      "duration_ms": 173200,
+      "name": "La Broma De Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
     },
     {
       "added_at": "2023-05-19 09:08:21",

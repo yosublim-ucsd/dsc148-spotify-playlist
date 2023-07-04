@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: HanSeungWoo(\ud55c\uc2b9\uc6b0))",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: SWAN(\uc218\uc548))",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 188615,
       "name": "3 2 1",
       "url": "https://open.spotify.com/track/5TncLR6ObofNMz6VvuUjSz"
@@ -1748,6 +1748,24 @@
       "duration_ms": 249886,
       "name": "9th Wonder",
       "url": "https://open.spotify.com/track/6fRjht382AKK6aToUwVFCu"
+    },
+    {
+      "album": {
+        "name": ";;",
+        "url": "https://open.spotify.com/album/0IKvuCjdm4DMbC29PF1DQf"
+      },
+      "artists": [
+        {
+          "name": "Yuja",
+          "url": "https://open.spotify.com/artist/2gQ5AJZbeVZ9aeZcH3JBqf"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": ";;",
+      "url": "https://open.spotify.com/track/05s3XtbyBxyYKJqIzuSt2H"
     },
     {
       "album": {
@@ -4705,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "All the way up",
+        "url": "https://open.spotify.com/album/3DJpNJWCHyOS5LUTMoahcd"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/21pZ2vLoPfOxnwv5ihs7av"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "All the way up",
+      "url": "https://open.spotify.com/track/0f8G9xJ2y34gjS5urTCgxc"
+    },
+    {
+      "album": {
         "name": "All together",
         "url": "https://open.spotify.com/album/3qgwYtq5AXiDl2yLPIBAll"
       },
@@ -6958,6 +6994,24 @@
       "duration_ms": 179080,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/64DebBSTbprOC4KMgmZ4sw"
+    },
+    {
+      "album": {
+        "name": "AWAY!",
+        "url": "https://open.spotify.com/album/23Jq448Adf1xKxutE1BRmc"
+      },
+      "artists": [
+        {
+          "name": "YELLA",
+          "url": "https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202222,
+      "name": "AWAY!",
+      "url": "https://open.spotify.com/track/1q5EZRd03cuUEONNo6z20l"
     },
     {
       "album": {
@@ -18090,6 +18144,32 @@
       "duration_ms": 196581,
       "name": "Come Through (Feat. Minsung)",
       "url": "https://open.spotify.com/track/2MLrgmAn8NXKeGphuTfTHL"
+    },
+    {
+      "album": {
+        "name": "come thru",
+        "url": "https://open.spotify.com/album/0mS7wjOlNtGzb9GFa95YgN"
+      },
+      "artists": [
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        },
+        {
+          "name": "Faver",
+          "url": "https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag"
+        },
+        {
+          "name": "\ubcf4\uc774\ube44",
+          "url": "https://open.spotify.com/artist/1ZyODLbzFaAzRMMix9Gdcb"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210430,
+      "name": "come thru (Feat. Boi B)",
+      "url": "https://open.spotify.com/track/2o1ymSLgsb0VGNqkB6MpIm"
     },
     {
       "album": {
@@ -38599,6 +38679,24 @@
     },
     {
       "album": {
+        "name": "ALBUM ABOUT U",
+        "url": "https://open.spotify.com/album/7ci0C64F0qUFT8wdHonEiX"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201224,
+      "name": "Hidden Catch",
+      "url": "https://open.spotify.com/track/3jAgyHlsq1wp0Rf2reBCmo"
+    },
+    {
+      "album": {
         "name": "'Truth or Lie' - 1st MINI ALBUM",
         "url": "https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB"
       },
@@ -38694,6 +38792,24 @@
       "duration_ms": 248600,
       "name": "Hide into Night",
       "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
+    },
+    {
+      "album": {
+        "name": "Hiding In The Rain",
+        "url": "https://open.spotify.com/album/7CxzRikGUHaary9Mc6UUOS"
+      },
+      "artists": [
+        {
+          "name": "BJJJ",
+          "url": "https://open.spotify.com/artist/01U7bhTr1hHMe5VWqZd3zH"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Hiding In The Rain",
+      "url": "https://open.spotify.com/track/7znupQoCVvn2sSLqNwsGYb"
     },
     {
       "album": {
@@ -62132,7 +62248,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 208314,
       "name": "MOVE (T5)",
       "url": "https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs"
@@ -74201,6 +74317,24 @@
     },
     {
       "album": {
+        "name": "Raining all day here",
+        "url": "https://open.spotify.com/album/4pcEJT0FKmEUuRILVJbZV4"
+      },
+      "artists": [
+        {
+          "name": "An Nyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274303,
+      "name": "Raining all day here",
+      "url": "https://open.spotify.com/track/3M10sq8eeuh9WzTwKRVsdO"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp"
       },
@@ -76318,6 +76452,24 @@
       "duration_ms": 183346,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV"
+    },
+    {
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
       "album": {
@@ -95327,6 +95479,28 @@
     },
     {
       "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "Travel Again (Feat. Cautious Clay)",
+      "url": "https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb"
+    },
+    {
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/4R7yiB3Okl4YUanDk9ed0k"
       },
@@ -100447,6 +100621,24 @@
     },
     {
       "album": {
+        "name": "What about you",
+        "url": "https://open.spotify.com/album/74iRQmZCtluvJVIwhIDZcB"
+      },
+      "artists": [
+        {
+          "name": "Joo Yein",
+          "url": "https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "What about you",
+      "url": "https://open.spotify.com/track/3tuPIdqvsw4L05BTOoK2Pi"
+    },
+    {
+      "album": {
         "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
       },
@@ -101158,6 +101350,24 @@
       "duration_ms": 259000,
       "name": "When I\u2019m Weak",
       "url": "https://open.spotify.com/track/2E2671cXLRM7LT1QyNgsNK"
+    },
+    {
+      "album": {
+        "name": "re.MAKE20 #11 When Spring Comes",
+        "url": "https://open.spotify.com/album/3FKAjRtt2jQ8xSPVEqFLDP"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272693,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/2cP7RSO113NOGM8jjoVGbt"
     },
     {
       "album": {

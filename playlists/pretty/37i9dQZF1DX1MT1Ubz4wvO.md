@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Nina Suárez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,888 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,890 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 |
+| 1 | [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 |
 | 2 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 |
 | 3 | [Dos pasajeros](https://open.spotify.com/track/7lnlEPoBm83Ai4q1hpXLeM) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Dos pasajeros](https://open.spotify.com/album/1wxJ0l3lCFlUUi5FzaKQDu) | 5:28 |
 | 4 | [Contracorriente](https://open.spotify.com/track/6FNI6bzYyUhzWJ3OZwXsP7) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [Contracorriente](https://open.spotify.com/album/4xtRNng8YVgDS8gTEFy1Sz) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Pájaro Herido](https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI) | [Pancho Varona](https://open.spotify.com/artist/0F9zkPxJs5duaybGwqipyC) | [Pájaro Herido](https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78) | 4:05 |
 | 50 | [Cinco Pistolas](https://open.spotify.com/track/2sx2uWxKHggfG7pOJnu0AK) | [Mario Duarte](https://open.spotify.com/artist/7G24om7NKr8dpoa1EVHSIT) | [Cinco Pistolas](https://open.spotify.com/album/3W7XA8fIcNozYoCAFBfsQK) | 3:39 |
 
-Snapshot ID: `MCwxMjA1ZDRlZjg0YTNmNzRiYjgzMWVhMWYwMmM5YTZmZDU1ZDJmMDZi`
+Snapshot ID: `MCxhYmJlZDBlMDc1OTY1YTdhNGRkMWRlMWI3ZmQyMGUyOGU1NGYyNzgz`

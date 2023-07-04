@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Samantha Barrón en portada.
 
-144 songs - 6 hr 49 min
+145 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cadenas de Oro](https://open.spotify.com/track/3k9RFNpf8U6RjvPkd8bfpJ) | [Enzo Durand](https://open.spotify.com/artist/0ECfs4mghN42V6VnC6VrQQ), [JP\-I](https://open.spotify.com/artist/1r6f97D6f13dIpP1iefiQr) | [Cadenas de Oro](https://open.spotify.com/album/41e7z4DLZFHdG0b3EBIIoC) | 3:11 | 2023-06-09 |  |
 | [Callejero](https://open.spotify.com/track/2sA17dwArdeg02m5z2MbyV) | [Yorking HB](https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Callejero](https://open.spotify.com/album/7gMhXbN3Rg6xeAybGtPvXg) | 4:14 | 2023-06-09 |  |
 | [Capítulo 1: El Loco](https://open.spotify.com/track/2lLOk0V60S8OFdxUfR1Nxe) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n) | [Capítulo 1: El Loco](https://open.spotify.com/album/4BmxGlMJttejXXLEx2aRV3) | 2:45 | 2023-06-09 |  |
+| [CDMX](https://open.spotify.com/track/7xuq3E5t2kJcuAZqkNDOvG) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Trap Ejecutivo](https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh) | 2:13 | 2023-07-03 |  |
 | [Ceniza](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Ceniza](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 | 2023-06-09 | 2023-07-01 |
 | [Charlie Sheen](https://open.spotify.com/track/4ZMn7rErtXSIRAMTaiP6of) | [Prxblxm](https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5), [Rplcmnts](https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88) | [Charlie Sheen](https://open.spotify.com/album/14mPKa8xiqVb9CN5OnIClH) | 1:49 | 2023-06-16 |  |
 | [Chicago](https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Chicago](https://open.spotify.com/album/0qxOUAIDnMLYqvRYmicgjm) | 2:44 | 2023-06-09 |  |
@@ -46,7 +47,7 @@
 | [Como Árabe](https://open.spotify.com/track/11yUEHPquTRkBG0yk6b8uH) | [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq) | [Como Árabe](https://open.spotify.com/album/4PMTPKw0hkP19d2mQnUWoL) | 2:51 | 2023-06-09 | 2023-07-01 |
 | [Contracorriente](https://open.spotify.com/track/3hKiiQ4sNkUpGR6zAxv0q7) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Contracorriente](https://open.spotify.com/album/3nncczUw88uWd2HqC2y0VI) | 2:15 | 2023-06-09 |  |
 | [Corazón](https://open.spotify.com/track/1ZVO9HcHEXoy6MrU7dWN5S) | [GAUUTAMA](https://open.spotify.com/artist/1hFd74OqMugjIhVvWYaHz8) | [ANAHATA](https://open.spotify.com/album/5sLHNu0gjKuvuCZ9A1wdap) | 2:18 | 2023-06-09 |  |
-| [Cri Cri](https://open.spotify.com/track/6yy6Pt1i4C2vnt9oGfo0ik) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Cri Cri](https://open.spotify.com/album/1QKJ47fiyUQ5aLM7IXG95q) | 2:48 | 2023-06-09 |  |
+| [Cri Cri](https://open.spotify.com/track/6yy6Pt1i4C2vnt9oGfo0ik) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Cri Cri](https://open.spotify.com/album/1QKJ47fiyUQ5aLM7IXG95q) | 2:48 | 2023-06-09 | 2023-07-04 |
 | [D3Monio Millonari0](https://open.spotify.com/track/5yTsDXd4O8ycHNG721VsIy) | [NO DRXMA KID](https://open.spotify.com/artist/1kXCNgVEaGsLJujEDyZi7m) | [D3Monio Millonari0](https://open.spotify.com/album/4lUwMU1weH9ALUdtmExaX3) | 2:33 | 2023-06-09 |  |
 | [DDEVERAS](https://open.spotify.com/track/1UEMzAH06AVWnsgnANkAc6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [DDEVERAS](https://open.spotify.com/album/3cfUapXkbzZnF9MYK0pycZ) | 2:22 | 2023-06-09 |  |
 | [Deja Vú](https://open.spotify.com/track/5Y0TXblxH8xcEF9ggXOL2E) | [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Pepe Nungaray](https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Deja Vú](https://open.spotify.com/album/18ZffmxARUqg9VnptWX46I) | 2:14 | 2023-06-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86860,
+  "num_followers": 86864,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc3MzU0NzY1NmQ3MDJmNzMxMDRhNmIwN2ZjNjQ2MzhhYmU3NmE3",
+  "snapshot_id": "MCw0NjM2NjZhMTQ4MzE3N2RmNzQ0ZmNhZGYzZTFlMjIyMjE3MDU1ODZi",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "i don't like it, you're not the same",
-        "url": "https://open.spotify.com/album/5vlCaAYiVdrp7RvDoEjBW6"
-      },
-      "artists": [
-        {
-          "name": "meynus",
-          "url": "https://open.spotify.com/artist/2h36lqLlhIyJt4UpCJrLG5"
-        }
-      ],
-      "duration_ms": 97685,
-      "name": "i don't like it, you're not the same",
-      "url": "https://open.spotify.com/track/6OXJL2HaygePLxP2ICvVh0"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Clearest of Signs",
         "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
       },
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
+        "name": "i don't like it, you're not the same",
+        "url": "https://open.spotify.com/album/5vlCaAYiVdrp7RvDoEjBW6"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "meynus",
+          "url": "https://open.spotify.com/artist/2h36lqLlhIyJt4UpCJrLG5"
         }
       ],
-      "duration_ms": 193714,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
+      "duration_ms": 97685,
+      "name": "i don't like it, you're not the same",
+      "url": "https://open.spotify.com/track/6OXJL2HaygePLxP2ICvVh0"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
       },
@@ -287,18 +271,34 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
         }
       ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Die Young",
         "url": "https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 192566,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Talking Stage",
-        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "Talking Stage",
-      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 195558,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Derby To Moston",
+        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 182648,
+      "name": "Derby To Moston",
+      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Derby To Moston",
-        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 182648,
-      "name": "Derby To Moston",
-      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "House Invasions",
         "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
       },
@@ -1115,26 +1115,6 @@
       "duration_ms": 209345,
       "name": "House Invasions",
       "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Lowkey '",
-        "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Halllow",
-          "url": "https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P"
-        },
-        {
-          "name": "Nyc Drill Rap",
-          "url": "https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA"
-        }
-      ],
-      "duration_ms": 154157,
-      "name": "Lowkey '",
-      "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1155,6 +1135,26 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Lowkey '",
+        "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Halllow",
+          "url": "https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P"
+        },
+        {
+          "name": "Nyc Drill Rap",
+          "url": "https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA"
+        }
+      ],
+      "duration_ms": 154157,
+      "name": "Lowkey '",
+      "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Scorpio Trait",
         "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
       },
@@ -1287,6 +1271,38 @@
       "duration_ms": 249600,
       "name": "Scorpio Trait",
       "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Akhirah",
         "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 221570,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1391,22 +1375,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1427,18 +1395,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
         }
       ],
-      "duration_ms": 110759,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1459,6 +1427,38 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 110759,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",

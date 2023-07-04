@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
         "name": "Anoesis",
         "url": "https://open.spotify.com/album/1ohZ2YMU7a0qrDtTWrRKLj"
       },
@@ -5419,6 +5437,28 @@
     },
     {
       "album": {
+        "name": "Inward Road (Piano Version)",
+        "url": "https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138704,
+      "name": "Inward Road - Piano Version",
+      "url": "https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite"
+    },
+    {
+      "album": {
         "name": "Irises",
         "url": "https://open.spotify.com/album/4JBuho1GiboA519o6hz6Wd"
       },
@@ -5560,6 +5600,24 @@
       "duration_ms": 126979,
       "name": "Juniper Dreams",
       "url": "https://open.spotify.com/track/2ny13L1veunc7p6SCnvQ8K"
+    },
+    {
+      "album": {
+        "name": "Just One More Time",
+        "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196312,
+      "name": "Just One More Time",
+      "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
     },
     {
       "album": {
@@ -8803,6 +8861,24 @@
     },
     {
       "album": {
+        "name": "Real As Rain",
+        "url": "https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF"
+      },
+      "artists": [
+        {
+          "name": "Ellen Wince",
+          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126305,
+      "name": "Real As Rain",
+      "url": "https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5"
+    },
+    {
+      "album": {
         "name": "Reconciliation",
         "url": "https://open.spotify.com/album/3F9e9cv97VVFmoO9AU54Yl"
       },
@@ -10248,6 +10324,24 @@
       "duration_ms": 123452,
       "name": "Spring",
       "url": "https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy"
+    },
+    {
+      "album": {
+        "name": "Spruces and pines",
+        "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Spruces and pines",
+      "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
     },
     {
       "album": {

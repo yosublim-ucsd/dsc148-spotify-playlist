@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Bulugu Sokkaa Pilagadu",
+        "url": "https://open.spotify.com/album/0UftZb5FmjKiinWVIq79Nn"
+      },
+      "artists": [
+        {
+          "name": "Uma Neha",
+          "url": "https://open.spotify.com/artist/2sRYoKkvb2apFZ58rb5717"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210375,
+      "name": "Bulugu Sokkaa Pilagadu",
+      "url": "https://open.spotify.com/track/7uZDuC1sW3YJ3iv7PVBGWX"
+    },
+    {
+      "album": {
         "name": "Chelimidata",
         "url": "https://open.spotify.com/album/5hbNVbA6Z5rq0XnT7lKcK0"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 275744,
       "name": "Cheliya",
       "url": "https://open.spotify.com/track/2jiVEfxgGsN4Q1oQ2f2QFy"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 225614,
       "name": "In Search Of Life",
       "url": "https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 125825,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 212992,
       "name": "Taithom",
       "url": "https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55"
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 330731,
       "name": "Thamara Poovai",
       "url": "https://open.spotify.com/track/5bvJPJZGprkIDqLSXmRdSf"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 234000,
       "name": "Thanuvantha",
       "url": "https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 92182,
       "name": "Uppenalaa",
       "url": "https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL"

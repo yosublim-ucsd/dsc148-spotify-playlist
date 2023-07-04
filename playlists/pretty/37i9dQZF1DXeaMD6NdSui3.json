@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 121932,
+  "num_followers": 122025,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1",
+  "snapshot_id": "MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Fitchburg Street",
-        "url": "https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw"
-      },
-      "artists": [
-        {
-          "name": "Doyle Bramhall",
-          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Life by the Drop",
-      "url": "https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "The Real Deal: Greatest Hits Volume 1",
@@ -187,6 +171,22 @@
       "duration_ms": 219840,
       "name": "Pride and Joy",
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Fitchburg Street",
+        "url": "https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw"
+      },
+      "artists": [
+        {
+          "name": "Doyle Bramhall",
+          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -207,38 +207,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Have Blues, Will Travel",
         "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
@@ -255,18 +223,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "We The People",
-        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
       "artists": [
         {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         }
       ],
-      "duration_ms": 260200,
-      "name": "We The People",
-      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -283,38 +251,6 @@
       "duration_ms": 261920,
       "name": "Good Texan",
       "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "I Got My Mojo Working",
-      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -335,18 +271,50 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
       "artists": [
         {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+      },
+      "artists": [
+        {
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -363,6 +331,38 @@
       "duration_ms": 268160,
       "name": "Honey, Hush aka Talking Woman Blues",
       "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+      },
+      "artists": [
+        {
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Things I Used To Do",
@@ -431,22 +447,6 @@
       "duration_ms": 197813,
       "name": "Shake",
       "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -759,26 +759,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Texas Bluesmen",
-        "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
-      },
-      "artists": [
-        {
-          "name": "Texas Bluesmen",
-          "url": "https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1"
-        },
-        {
-          "name": "Robert Ealey",
-          "url": "https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd"
-        }
-      ],
-      "duration_ms": 385453,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Electric Blues",
         "url": "https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 299853,
       "name": "I'm About to Lose My Mind",
       "url": "https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Texas Bluesmen",
+        "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
+      },
+      "artists": [
+        {
+          "name": "Texas Bluesmen",
+          "url": "https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1"
+        },
+        {
+          "name": "Robert Ealey",
+          "url": "https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd"
+        }
+      ],
+      "duration_ms": 385453,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
     },
     {
       "added_at": "2018-02-27 16:43:49",

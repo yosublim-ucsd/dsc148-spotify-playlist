@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natanel Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,853 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,974 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Qué Hubiera Pasado](https://open.spotify.com/track/3BjyrmaWg8S8VJaPWXn4l1) | [Seo Jaleo](https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r) | [Qué Hubiera Pasado](https://open.spotify.com/album/4j8lQd0opfhUCFSp6bl30l) | 3:11 |
 | 52 | [IBIZA](https://open.spotify.com/track/12OXga7qXimTSumRQNXQtQ) | [Tiago Carlotto](https://open.spotify.com/artist/0iU9FuqQutt77QUEq3urBd) | [IBIZA](https://open.spotify.com/album/0xYCoAp2NITMRXCxdrf9ND) | 2:52 |
 
-Snapshot ID: `MCw1N2RiMGQzYTFhZTM0M2Q1NDBhOTU3MjRiZWVkNDQxOGM4ZmJhYjdk`
+Snapshot ID: `MCxlOWE3ZmJjOWIzNDI3N2E3YjdiM2RkZTVlNTEwMWNhZTZkZjIwNDY5`

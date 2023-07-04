@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-847 songs - 1 day 19 hr 59 min
+848 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-19 | 2022-12-17 |
 | [Marketa](https://open.spotify.com/track/5FzxcTskThKSLcSUadwZ90) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Connecting Visitors to Fun](https://open.spotify.com/album/14mNMkX1Us89c1VcXzNlPq) | 3:45 | 2020-03-29 | 2021-04-13 |
 | [Material Things](https://open.spotify.com/track/1Mgv7as2OzvJrUc3kphZxn) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Material Things](https://open.spotify.com/album/29T5p7BP5ZHsPuvX1qBadv) | 2:16 | 2021-10-08 | 2022-04-21 |
-| [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 |  |
+| [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 | 2023-07-04 |
 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/0rDqIh1ugZmukdvkgYZb1X) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 2:53 | 2021-06-04 | 2022-04-21 |
 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/7pD4yoAj7TIIqZLDhAwHfq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/album/2GUjxWI2nDtp1u5Op0Um1C) | 2:53 | 2021-03-02 | 2021-07-08 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-06-14 | 2023-04-18 |
@@ -830,6 +830,7 @@
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-09-03 | 2021-08-24 |
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-14 | 2022-06-23 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-10-08 | 2022-07-18 |
+| [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 |  |
 | [Work It On Out](https://open.spotify.com/track/2pPWGBZzE1h46lgYv6CgYn) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 3:45 | 2021-05-01 | 2022-06-22 |
 | [WYWD](https://open.spotify.com/track/1vJe79Mia6uqgQaktxqa4f) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [WYWD](https://open.spotify.com/album/188kbvQhJ4WOQerO0w5SDJ) | 2:57 | 2021-04-28 | 2022-05-24 |
 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2019-07-31 | 2021-07-20 |

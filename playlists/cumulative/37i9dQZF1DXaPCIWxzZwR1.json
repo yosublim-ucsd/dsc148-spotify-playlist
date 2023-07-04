@@ -2665,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "best friends with your girlfriend",
+        "url": "https://open.spotify.com/album/0xM2UtJHnHQAQoBab3e8Eb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123400,
+      "name": "best friends with your girlfriend",
+      "url": "https://open.spotify.com/track/0Qq11qgCAABtz7WNcnpOpK"
+    },
+    {
+      "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs"
       },

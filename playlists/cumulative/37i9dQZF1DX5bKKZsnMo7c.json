@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 5 Part 2 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182799,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/7MwYXhh2dTqc7fiwkwPZo1"
+    },
+    {
+      "album": {
         "name": "Dinner Is Not Over / There's Something Happening / Keyman / Cupid",
         "url": "https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK"
       },

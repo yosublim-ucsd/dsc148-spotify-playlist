@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Casper
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,120 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,265 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We) | 2:16 |
 | 75 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 
-Snapshot ID: `MCxmNGIyYzY0OGQ5MGVkN2NiMWZmOTcxM2ZjZTZiNWU5MGQzZTFkYTk4`
+Snapshot ID: `MCwwMGE0NmQ4M2ZjYmMzOGE2NWU4OTdmYjlkMmY5NzNkYTNkNjVjODMz`

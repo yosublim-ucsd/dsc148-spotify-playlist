@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Cancamusa.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,173 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,175 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,21 +38,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 28 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
 | 29 | [No más me dio](https://open.spotify.com/track/2EjZ0hlW8Pk4VE0adAgckR) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [No más me dio](https://open.spotify.com/album/69K23XEPiqueK7o88Kdgdk) | 3:13 |
 | 30 | [Somos de Piel](https://open.spotify.com/track/38RSlANvajbgMeT8uziKau) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 3:30 |
-| 31 | [Cielo](https://open.spotify.com/track/0L5c13t2CV26l6rDGOGVnI) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Cielo](https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev) | 4:34 |
-| 32 | [Canción para acunar](https://open.spotify.com/track/6hlnMvvpi4TBakIkbCJUtX) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 2:52 |
+| 31 | [Canción para acunar](https://open.spotify.com/track/6hlnMvvpi4TBakIkbCJUtX) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 2:52 |
+| 32 | [Cielo](https://open.spotify.com/track/0L5c13t2CV26l6rDGOGVnI) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Cielo](https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev) | 4:34 |
 | 33 | [tus margaritas](https://open.spotify.com/track/7I31c1ByCDdrFUsz8Tehhy) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE) | [tus margaritas](https://open.spotify.com/album/3nBmsKtCyx9QZIPqr2FBoT) | 2:26 |
 | 34 | [Inseguridad](https://open.spotify.com/track/7uAhfsVbcbmy2IzIJBz7cD) | [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Universando](https://open.spotify.com/album/3StI1ax0T9EllHaRek7pzI) | 3:16 |
 | 35 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 | 36 | [Amores](https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 3:56 |
-| 37 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 |
-| 38 | [te doy mi cuerpo, me das tu amor](https://open.spotify.com/track/2S8Ll6UzjGILD5LtNlyJ5B) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [te doy mi cuerpo, me das tu amor](https://open.spotify.com/album/1oFiVsZdqVV0yAUJBrfjk9) | 3:56 |
+| 37 | [te doy mi cuerpo, me das tu amor](https://open.spotify.com/track/2S8Ll6UzjGILD5LtNlyJ5B) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [te doy mi cuerpo, me das tu amor](https://open.spotify.com/album/1oFiVsZdqVV0yAUJBrfjk9) | 3:56 |
+| 38 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 |
 | 39 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
-| 40 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
-| 41 | [Pijamas](https://open.spotify.com/track/19ozP1l7TddQNbmxQ7ZbIV) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Pijamas](https://open.spotify.com/album/3uTm2bif9Wy04SaB4hcCO7) | 1:58 |
+| 40 | [Pijamas](https://open.spotify.com/track/19ozP1l7TddQNbmxQ7ZbIV) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Pijamas](https://open.spotify.com/album/3uTm2bif9Wy04SaB4hcCO7) | 1:58 |
+| 41 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 | 42 | [Arpegi](https://open.spotify.com/track/1pmnJn47cfPuzQmdpzJAsA) | [Yaney](https://open.spotify.com/artist/2JncMdQl5LMeSKFJ89UZ6f) | [1992](https://open.spotify.com/album/3bmlCtBUdpRby79nY3Arbw) | 4:44 |
 | 43 | [Lentes](https://open.spotify.com/track/5XILTdIY7uhBq4nV9Knoqx) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Lentes](https://open.spotify.com/album/3Vrwjvb1yUIn67BP4tUOkr) | 2:57 |
 | 44 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 |
 | 45 | [Porvenir](https://open.spotify.com/track/170UqUn09dtqEsIPYAtmb1) | [Rosario Mena](https://open.spotify.com/artist/6A2zL3dCkfJN5EE6nP83WM) | [Porvenir](https://open.spotify.com/album/1374pzoDs69OvTAjMltWG7) | 4:03 |
 | 46 | [Amatista](https://open.spotify.com/track/5qnCVshMtFjniqwe6pfJ9E) | [Maria Magdalena](https://open.spotify.com/artist/4QfXdT47dRy46J1HAYRBba) | [Amatista](https://open.spotify.com/album/0r1FA4okmztis713UrJ0e7) | 4:06 |
 
-Snapshot ID: `MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0`
+Snapshot ID: `MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz`

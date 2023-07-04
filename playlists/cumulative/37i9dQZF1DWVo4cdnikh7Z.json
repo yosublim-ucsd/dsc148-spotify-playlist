@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 121247,
       "name": "Adi Kalli Kadey",
       "url": "https://open.spotify.com/track/5fFRgxD8ndZBwDKYp3nRz2"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 208000,
       "name": "Adi Kattazhagu Karuvaachi - From \"Kalvan\"",
       "url": "https://open.spotify.com/track/0E00EuJ1GOMPiRQ7CJiuet"
@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Announcement Theme (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/1LvcMAe2Ob4r8evADGZC0V"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125739,
+      "name": "Announcement Theme (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/5p1pZim92MwJcNwJJDeJHV"
+    },
+    {
+      "album": {
         "name": "Appa En Appa (From \"Thiruvin Kural\")",
         "url": "https://open.spotify.com/album/5OWOmrKThLb9ogOI1U9dn7"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 243634,
       "name": "Ava Kanna Paatha - From \"Kazhuvethi Moorkkan\"",
       "url": "https://open.spotify.com/track/5aKJABq5gHZL8QzT1NrhWw"
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 238291,
       "name": "Bikili (From \"Pichaikkaran 2\")",
       "url": "https://open.spotify.com/track/0z2uE6TNb6FOP1HBcFCh4a"
@@ -2265,6 +2283,32 @@
     },
     {
       "album": {
+        "name": "Sweet Kaaram Coffee (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3N29wpPW6HTgYr8t6N7QV6"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Keerthana Vaidyanathan",
+          "url": "https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117966,
+      "name": "Cargaalamey",
+      "url": "https://open.spotify.com/track/67uNsHiNloytecntiAbKf2"
+    },
+    {
+      "album": {
         "name": "Celebration Of Varisu (From \"Varisu\")",
         "url": "https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh"
       },
@@ -2276,7 +2320,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 168153,
       "name": "Celebration Of Varisu (From \"Varisu\")",
       "url": "https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N"
@@ -2560,7 +2604,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 208874,
       "name": "Chinnanjiru Nilave",
       "url": "https://open.spotify.com/track/6iolBQ6ZcLv6gDSo7NDLGX"
@@ -2864,7 +2908,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 184000,
       "name": "Deiveega Raagam",
       "url": "https://open.spotify.com/track/1rJwuh2sv1z3yPUzNQPNqf"
@@ -4392,7 +4436,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 204000,
       "name": "Hey Papa (From \"Paayum Oli Nee Yenakku\")",
       "url": "https://open.spotify.com/track/7zOHX0h61gVW4CQQCbsQPq"
@@ -4658,7 +4702,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 222051,
       "name": "Imaithidathe (From \"Yaadhum Oore Yaavarum Kelir\")",
       "url": "https://open.spotify.com/track/0BsIU599bIGl5yMnxyIVo3"
@@ -6590,7 +6634,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 209323,
       "name": "Kirutu Kirutu - From \"DADA\"",
       "url": "https://open.spotify.com/track/40ZJkA8wezwoU0qiwuiBCU"
@@ -6990,7 +7034,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 172653,
       "name": "Kukunnu",
       "url": "https://open.spotify.com/track/57eEC8OndWnuQxct2juUnW"
@@ -8403,6 +8447,28 @@
     },
     {
       "album": {
+        "name": "Sweet Kaaram Coffee (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3N29wpPW6HTgYr8t6N7QV6"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "Minmini",
+      "url": "https://open.spotify.com/track/4H65icyKRxSfuJZ0PMz5ig"
+    },
+    {
+      "album": {
         "name": "Minnal Kannile (From \"Pizza 3\")",
         "url": "https://open.spotify.com/album/4jVYlDstzcVRH6z1bXCOC7"
       },
@@ -8692,7 +8758,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 236000,
       "name": "Mudhal Muththam",
       "url": "https://open.spotify.com/track/55m1HjFrEWyHnEfc7XmL6I"
@@ -9032,7 +9098,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 203900,
       "name": "Naadodi Mannan",
       "url": "https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM"
@@ -9316,7 +9382,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 217440,
       "name": "Nam Ooru Pen",
       "url": "https://open.spotify.com/track/0axJpGlVC5vxfsr0keVzym"
@@ -9390,7 +9456,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 273750,
       "name": "Namma Thamizh Folku - From \"DADA\"",
       "url": "https://open.spotify.com/track/36uVcqw4anmPxyhsNQLml7"
@@ -9442,6 +9508,24 @@
       "duration_ms": 259437,
       "name": "Nana Buluku (From \"Pichaikkaran 2\")",
       "url": "https://open.spotify.com/track/6PoVFlUdAXngez43DlWy4q"
+    },
+    {
+      "album": {
+        "name": "Vimanam (Tamil)",
+        "url": "https://open.spotify.com/album/0C8u3TZvhTuRARNvYSNOuw"
+      },
+      "artists": [
+        {
+          "name": "Charan Arjun, Siddharth Shandilyasa, Muruganandam",
+          "url": "https://open.spotify.com/artist/7mlU0sdoRJq76OkvZvtmvY"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113887,
+      "name": "Nanna",
+      "url": "https://open.spotify.com/track/3Qz0kFZknwXI2lCIWWu5Gn"
     },
     {
       "album": {
@@ -10692,7 +10776,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 287391,
       "name": "Paadatha Pattellam (From \"Rudhran\")",
       "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
@@ -10804,6 +10888,44 @@
       "duration_ms": 370769,
       "name": "Paathi Nee Paathi Naan (From \"Nitham Oru Vaanam\")",
       "url": "https://open.spotify.com/track/670iKfSnpak9BdFsrArKSB"
+    },
+    {
+      "album": {
+        "name": "Paavakka Padalmela (From \"Erumbu\")",
+        "url": "https://open.spotify.com/album/0G4d2PhzxMpa2ffAKhpkbv"
+      },
+      "artists": [
+        {
+          "name": "Shakthi Rithvik",
+          "url": "https://open.spotify.com/artist/4HmetGdtuwmeUsZm0233rU"
+        },
+        {
+          "name": "Laya",
+          "url": "https://open.spotify.com/artist/4planS8d97oTHa8JnDELwb"
+        },
+        {
+          "name": "Ajitha",
+          "url": "https://open.spotify.com/artist/4kFxpgyclBLaCQGja0wO0K"
+        },
+        {
+          "name": "Mehul",
+          "url": "https://open.spotify.com/artist/0Ji57sIKdFpKpiD8I7Da7F"
+        },
+        {
+          "name": "Arun Raj",
+          "url": "https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF"
+        },
+        {
+          "name": "Thamizhanandan",
+          "url": "https://open.spotify.com/artist/0qOqdDpocheVG8RWQHQUjF"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152054,
+      "name": "Paavakka Padalmela (From \"Erumbu\")",
+      "url": "https://open.spotify.com/track/78W3VM2WCu7Yp1G2yWULEf"
     },
     {
       "album": {
@@ -11426,7 +11548,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 322666,
       "name": "Pogathey",
       "url": "https://open.spotify.com/track/5cnNOLWNZhnqM6IY8joHiu"
@@ -11824,7 +11946,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 183212,
       "name": "PS Anthem (From \u201cPonniyin Selvan Part-2\")",
       "url": "https://open.spotify.com/track/4NWU1K9iYVMMBWSQvlZgSV"
@@ -13346,7 +13468,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 205195,
       "name": "Sollaati - From \"Theera Kaadhal\"",
       "url": "https://open.spotify.com/track/3W75RPDTvqlXiixFCl8NGX"
@@ -13836,7 +13958,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 234117,
       "name": "Thaaragayae (From \"Halal Shawarma\")",
       "url": "https://open.spotify.com/track/1oWZn9j0c23q2nQyFu5ncv"
@@ -14670,6 +14792,36 @@
       "duration_ms": 285333,
       "name": "Thikatta Thikatta Kadhalippom - From \"Aneethi\"",
       "url": "https://open.spotify.com/track/2H6mH6NcOyh5an0au8TVra"
+    },
+    {
+      "album": {
+        "name": "Sweet Kaaram Coffee (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3N29wpPW6HTgYr8t6N7QV6"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Aditya Rao",
+          "url": "https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Keerthana Vaidyanathan",
+          "url": "https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257894,
+      "name": "Thirunaal",
+      "url": "https://open.spotify.com/track/2fUj0fAA2ao2DBGmwuqiJf"
     },
     {
       "album": {
@@ -15660,7 +15812,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 222500,
       "name": "Urugi Urugi - From \"Joe\"",
       "url": "https://open.spotify.com/track/1pTkmFDgxz09fg6Mu1mBpH"
@@ -15962,7 +16114,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 252083,
       "name": "Vaa Senthaazhini - From \"Adiye\"",
       "url": "https://open.spotify.com/track/4EkYBqzQCGDVNoL3NU4WZo"
@@ -16802,7 +16954,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 253372,
       "name": "Veerane",
       "url": "https://open.spotify.com/track/6jvGWgoy3QFbxAtdupph4P"
@@ -17572,7 +17724,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 230895,
       "name": "Yennadaa Nadakkudhu",
       "url": "https://open.spotify.com/track/5wNdq2n49WQ797wfbZRuEt"

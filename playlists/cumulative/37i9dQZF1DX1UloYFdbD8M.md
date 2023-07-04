@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-73 songs - 4 hr 48 min
+75 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk) | [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o) | 2:01 | 2023-05-19 |  |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 | 2023-06-27 |
+| [Irul](https://open.spotify.com/track/3zVr8z8gPkr469hbNhiJL2) | [Kannan Brahmamangalam](https://open.spotify.com/artist/4nidUdkbOcuwtyVQhoAJWR), [Alwin Leena Martin](https://open.spotify.com/artist/1FAUvU1UW8d7qwbGJITRD0) | [Irul](https://open.spotify.com/album/3bJ7vvpAJCp7vpKxw9uVNE) | 5:28 | 2023-07-03 |  |
 | [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 |  |
 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 | 2022-06-23 |  |
 | [Kaalam \- Hope Project](https://open.spotify.com/track/46UYJcjYixI76qsA8RBrrC) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Kaalam \(Hope Project\)](https://open.spotify.com/album/7gslmJ0SdG9UcuyznLSWty) | 3:48 | 2022-06-23 |  |
@@ -42,6 +43,7 @@
 | [Kaantha](https://open.spotify.com/track/2XtoLKNhRErtraFincrU7p) | [Lohar The Blacksmiths](https://open.spotify.com/artist/6HeWvZTa6qiSLyACNbSaNJ) | [Kaantha](https://open.spotify.com/album/5wOulpoyEWQobfeyDEujDQ) | 4:35 | 2022-11-21 |  |
 | [Kaantha Reprised](https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kaantha Reprised](https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF) | 3:46 | 2022-12-22 |  |
 | [Kali](https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kali](https://open.spotify.com/album/4CAmWr6UQROx0HPSbb1PIJ) | 2:31 | 2023-05-26 |  |
+| [Kanavellam](https://open.spotify.com/track/3X7wafdT1bXxUVFzsnw1hw) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanavellam](https://open.spotify.com/album/7HYSdLk9eNmEY6804fOQpU) | 4:30 | 2023-07-03 |  |
 | [Kanmani](https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kanmani](https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe) | 5:29 | 2023-06-26 |  |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 |  |

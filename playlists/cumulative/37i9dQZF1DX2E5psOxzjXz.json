@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Bijli",
+        "url": "https://open.spotify.com/album/6DxW5U5IR0VeRSFZA8kIuC"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Maloof",
+          "url": "https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "Bijli",
+      "url": "https://open.spotify.com/track/3dGjm4MAro2jCe3I4cnK3X"
+    },
+    {
+      "album": {
         "name": "Bikhra",
         "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
       },

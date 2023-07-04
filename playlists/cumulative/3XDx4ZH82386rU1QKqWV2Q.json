@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "astronimals",
+        "url": "https://open.spotify.com/album/7FD9aLK4297YbiTfu1TO0H"
+      },
+      "artists": [
+        {
+          "name": "hypernaut",
+          "url": "https://open.spotify.com/artist/21LYQfaU4iEC9jqu4tzG0o"
+        },
+        {
+          "name": "Sloth",
+          "url": "https://open.spotify.com/artist/2R8PPmEGSs8qYtV7qlHjt4"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "astronimals",
+      "url": "https://open.spotify.com/track/63SurArpGSwUlVB8KwYFVy"
+    },
+    {
+      "album": {
         "name": "Babel",
         "url": "https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo"
       },
@@ -877,6 +899,28 @@
     },
     {
       "album": {
+        "name": "THE OUTSIDER",
+        "url": "https://open.spotify.com/album/5hjlO9o1y5uf4GdaaTpBdn"
+      },
+      "artists": [
+        {
+          "name": "hix",
+          "url": "https://open.spotify.com/artist/4Eqq0H4QPYpM3U8SKFTJDq"
+        },
+        {
+          "name": "ething",
+          "url": "https://open.spotify.com/artist/4c6MrhMBcutKWe7Blqqnct"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107407,
+      "name": "DO NOT RESUSCITATE",
+      "url": "https://open.spotify.com/track/6J0pQxIy3vFORwI8MTqByk"
+    },
+    {
+      "album": {
         "name": "Drive Forever",
         "url": "https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO"
       },
@@ -892,6 +936,24 @@
       "duration_ms": 145555,
       "name": "Drive Forever",
       "url": "https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N"
+    },
+    {
+      "album": {
+        "name": "ECSTASY",
+        "url": "https://open.spotify.com/album/26s9hu1W8xrnlsJQ4ygCGc"
+      },
+      "artists": [
+        {
+          "name": "$ubRosa",
+          "url": "https://open.spotify.com/artist/06WoXV6MZbiAEyjA7q37QM"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112170,
+      "name": "ECSTASY",
+      "url": "https://open.spotify.com/track/2KD9czprFfRftJ0tPJq0bD"
     },
     {
       "album": {
@@ -1162,7 +1224,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 157714,
       "name": "Gain Up",
       "url": "https://open.spotify.com/track/6UV0YZurgcVJ7TTGzcva1E"
@@ -1582,10 +1644,46 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 124615,
       "name": "In The End",
       "url": "https://open.spotify.com/track/0ry62QA95mn0I47TcTsU1q"
+    },
+    {
+      "album": {
+        "name": "IN THE END",
+        "url": "https://open.spotify.com/album/2FjIV3lGlm2F9nkugnuTYw"
+      },
+      "artists": [
+        {
+          "name": "CLOUD ZERO",
+          "url": "https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "IN THE END",
+      "url": "https://open.spotify.com/track/5cRYL7w9PxnHYeEPkW1ECG"
+    },
+    {
+      "album": {
+        "name": "inuria 2",
+        "url": "https://open.spotify.com/album/0FGOFLczPiI0HQ9SDlQQCl"
+      },
+      "artists": [
+        {
+          "name": "motty",
+          "url": "https://open.spotify.com/artist/6rJaeIeEwGvYH6PyIMz0WG"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "inuria 2",
+      "url": "https://open.spotify.com/track/3gMwwWrcp8knZ2LNn01ddm"
     },
     {
       "album": {
@@ -2775,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/65yvXsR8utZSgj5jZawDNI"
+      },
+      "artists": [
+        {
+          "name": "NUMJA",
+          "url": "https://open.spotify.com/artist/291QipJFhiK4dCiCsmXTZ2"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/30rWGQPZb3yNrzLL5bLBrd"
+    },
+    {
+      "album": {
         "name": "RiCK (feat. Warhol.SS)",
         "url": "https://open.spotify.com/album/3qlkaDKZCqQZhDn4whLkbX"
       },
@@ -2812,7 +2928,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 102307,
       "name": "Riley Reid - harley quinn remix",
       "url": "https://open.spotify.com/track/3HpbKIcnPI4cTuPBTBNILs"
@@ -3013,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "MEMORIAE EP",
+        "url": "https://open.spotify.com/album/1h1AN6CRREDOKBeXJQkz2x"
+      },
+      "artists": [
+        {
+          "name": "StxneVI",
+          "url": "https://open.spotify.com/artist/47mmYnN4KzgnIX3aQDIGby"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125423,
+      "name": "SEPLECHRUM",
+      "url": "https://open.spotify.com/track/5fwAm8SgZ1cV5bAjnXdgHm"
+    },
+    {
+      "album": {
         "name": "SEX OBSESSION",
         "url": "https://open.spotify.com/album/3yicIOeeL6ce5vaj5D0SJt"
       },
@@ -3028,7 +3162,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 170736,
       "name": "SEX OBSESSION",
       "url": "https://open.spotify.com/track/2fDTXpFM0Rchh3LvMhpnmv"
@@ -3054,6 +3188,24 @@
       "duration_ms": 173296,
       "name": "Shadow Lady - DePaul Remix",
       "url": "https://open.spotify.com/track/41wpYulxmi9TURWSFVgo4c"
+    },
+    {
+      "album": {
+        "name": "Xenna",
+        "url": "https://open.spotify.com/album/2bA82XnXDnyLcLtSRn4Kkh"
+      },
+      "artists": [
+        {
+          "name": "AYR Majesty",
+          "url": "https://open.spotify.com/artist/2UbAneUDU1qxSNko0QQ4l5"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "She's A Samurai - Original Version",
+      "url": "https://open.spotify.com/track/6VKSWYSUxRETfgrOc8sT63"
     },
     {
       "album": {
@@ -3112,7 +3264,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 256836,
       "name": "Shrapnel",
       "url": "https://open.spotify.com/track/4GtRQmv1VgyCKG8NTMSxEn"
@@ -3134,6 +3286,24 @@
       "duration_ms": 109325,
       "name": "SKULLcrusher",
       "url": "https://open.spotify.com/track/7fDHtRKuVKXU555SsX8hAc"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/1OQiTRJVr4aJjJiBZ7Ax81"
+      },
+      "artists": [
+        {
+          "name": "Astrani",
+          "url": "https://open.spotify.com/artist/5qqwQ9tQhy8USkdYB3VE8P"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250344,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/3GTNPbq9ycUnBfIZBq7ko1"
     },
     {
       "album": {
@@ -3276,6 +3446,28 @@
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f"
+    },
+    {
+      "album": {
+        "name": "SOURCEOFSTATIC",
+        "url": "https://open.spotify.com/album/6WnF3JGYXnyAGrVIriqsbU"
+      },
+      "artists": [
+        {
+          "name": "Killhollow",
+          "url": "https://open.spotify.com/artist/3mZDbuKlvYt5z4forbtZX9"
+        },
+        {
+          "name": "Skill Syrup",
+          "url": "https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "SOURCEOFSTATIC",
+      "url": "https://open.spotify.com/track/7zxFUBW9GbRNCynZFZozus"
     },
     {
       "album": {
@@ -3472,6 +3664,24 @@
       "duration_ms": 88476,
       "name": "Td Up",
       "url": "https://open.spotify.com/track/1ycQgsJvs81PKvCx1nVjSw"
+    },
+    {
+      "album": {
+        "name": "Teenage Madness",
+        "url": "https://open.spotify.com/album/6iWwhjsX10Bz7bM0hxvWTg"
+      },
+      "artists": [
+        {
+          "name": "Blonde Banger",
+          "url": "https://open.spotify.com/artist/1TFYlO2uEtVIi4yUYVPCNe"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203230,
+      "name": "Teenage Madness",
+      "url": "https://open.spotify.com/track/3aLAxPtdDfPDfYzpf0A5uA"
     },
     {
       "album": {

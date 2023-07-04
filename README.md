@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6258\)
+## Playlists \(6260\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -337,6 +337,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [ASMR Massage](/playlists/pretty/37i9dQZF1DWV9VLC4toEmg.md)
 - [ASMR Sleep](/playlists/pretty/37i9dQZF1DWUAeTOoyNaqm.md)
 - [ASMR Sleep Whispers](/playlists/pretty/37i9dQZF1DXbZmKskFbVct.md)
+- [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](/playlists/pretty/37i9dQZF1DX8lgFHA30hX3.md)
 - [AUGE](/playlists/pretty/37i9dQZF1DWZylNQMXNhNe.md)
 - [AULAS](/playlists/pretty/37i9dQZF1DWSIvbYYt1Dvi.md)
 - [AVIRA's DJ Mix](/playlists/pretty/37i9dQZF1DWVP2LZyJjTuU.md)
@@ -454,6 +455,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Alternative 70s](/playlists/pretty/37i9dQZF1DXb3ZjVksUlfu.md)
 - [Alternative 80s](/playlists/pretty/37i9dQZF1DWTSKFpOdYF1r.md)
 - [Alternative 90s](/playlists/pretty/37i9dQZF1DXaLI8a395lse.md)
+- [Alternative Avenue](/playlists/pretty/37i9dQZF1DXcZue9qdu9pH.md)
 - [Alternative Beats](/playlists/pretty/37i9dQZF1DWXMg4uP5o3dm.md)
 - [Alternative Hip\-Hop](/playlists/pretty/37i9dQZF1DWTggY0yqBxES.md)
 - [Alternative Metal](/playlists/pretty/37i9dQZF1DWY5ai7gxfuaS.md)
@@ -945,7 +947,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Calm Kids](/playlists/pretty/37i9dQZF1DXcr2UzLGERUU.md)
 - [Calming Acoustic](/playlists/pretty/37i9dQZF1DXaImRpG7HXqp.md)
 - [Calming Carols](/playlists/pretty/37i9dQZF1DX27YQi4aQ8cE.md)
-- [Calming Cat Music](/playlists/pretty/37i9dQZF1DX5cXGtVmblSB.md)
 - [Calming Christian](/playlists/pretty/37i9dQZF1DXbhg05xUNqBY.md)
 - [Calming Classical](/playlists/pretty/37i9dQZF1DWVFeEut75IAL.md)
 - [Calming Instrumental Covers](/playlists/pretty/37i9dQZF1DX9j444F9NCBa.md)
@@ -986,6 +987,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Carta Malaysia 50](/playlists/pretty/37i9dQZF1DXb1RLKxkHZ77.md)
 - [Casa Spotify Puerto Rico](/playlists/pretty/37i9dQZF1DX7q2IbWQxB4U.md)
 - [Casal Mandrake](/playlists/pretty/37i9dQZF1DX0prPGsXNyt4.md)
+- [Cat Calming Music](/playlists/pretty/37i9dQZF1DX5cXGtVmblSB.md)
 - [Catz 'n Dogz' track IDs](/playlists/pretty/37i9dQZF1DX6h7s1SXA0eN.md)
 - [Celtic Punk](/playlists/pretty/37i9dQZF1DXb1IUaS6F7Z8.md)
 - [Cena con Amigos](/playlists/pretty/37i9dQZF1DWWLmaNnR9HlL.md)

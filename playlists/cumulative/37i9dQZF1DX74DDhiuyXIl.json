@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 231266,
       "name": "\u4f60\u8d70\u5f8c",
       "url": "https://open.spotify.com/track/5Ap6CNzIbmWjNncT1oQfTR"
@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "\u5916\u4eba",
+        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        },
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
+      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
+    },
+    {
+      "album": {
         "name": "\u5920\u611b2.0",
         "url": "https://open.spotify.com/album/7IbEd4My8qefgQl242gd69"
       },
@@ -2188,7 +2210,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "\u592a\u9633\u4e0e\u5730\u7403",
       "url": "https://open.spotify.com/track/2dyHXh5dfquUdH2ci30ZSI"
@@ -2440,7 +2462,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 237985,
       "name": "\u5c0b\u5149\u800c\u4f86 (\u96fb\u8996\u5287\u300a\u7167\u4eae\u4f60\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/3aJPpo62uoNsrWgwvm7FD6"

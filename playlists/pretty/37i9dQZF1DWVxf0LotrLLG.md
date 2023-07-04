@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Chris Palace
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,196 likes - 201 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,235 likes - 201 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 200 | [Drip Splash \(feat\. Polimá Westcoast & ARON\)](https://open.spotify.com/track/4sIQDTbwH0G3ebd0mtGaQd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:38 |
 | 201 | [Verde Y Azul \(feat\. Piero47\)](https://open.spotify.com/track/4KF2MBeVqVhMhzD6H4qIMs) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Piero47](https://open.spotify.com/artist/1hZ98ETOVbMiizlzIh6AfP) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 2:24 |
 
-Snapshot ID: `MCw0Y2RhNjM1ZGQzZjk0ZGNiY2MxNGYzMWI2M2UzZGEyNDc1OTFjNWRm`
+Snapshot ID: `MCw2M2JmNmM2ZWE5MDA0MjI3NmYyZTg5MDQ5YjM1MDFlNjQ3OTM5ZTI5`

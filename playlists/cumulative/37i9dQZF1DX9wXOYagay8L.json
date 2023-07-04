@@ -2141,6 +2141,40 @@
     },
     {
       "album": {
+        "name": "Hamba Wena",
+        "url": "https://open.spotify.com/album/4VOqLcMcg7hDCPBhGNFPrl"
+      },
+      "artists": [
+        {
+          "name": "Dr Dope",
+          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
+        },
+        {
+          "name": "Pro Tee",
+          "url": "https://open.spotify.com/artist/0y4RBCciLIHdZESz40TaLy"
+        },
+        {
+          "name": "Qveen-rsa",
+          "url": "https://open.spotify.com/artist/6D1N5l5dWca4qiwcyBRzj5"
+        },
+        {
+          "name": "Mzwilili",
+          "url": "https://open.spotify.com/artist/6hFXBf1EU52jzIb3x9BOq7"
+        },
+        {
+          "name": "Kitso Nave",
+          "url": "https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308031,
+      "name": "Hamba Wena",
+      "url": "https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI"
+    },
+    {
+      "album": {
         "name": "Hata",
         "url": "https://open.spotify.com/album/3Jc2d07Cl2rm3ST6T2DcZe"
       },
@@ -7070,7 +7104,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"

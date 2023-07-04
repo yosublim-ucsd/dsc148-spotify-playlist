@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Ellize
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,413 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,418 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Oi Nihtes Oi Monahikes Mou](https://open.spotify.com/track/2gu6wZm9n1Uy2CcjMkllVk) | [Malu](https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah) | [Oi Nihtes Oi Monahikes Mou](https://open.spotify.com/album/1oHI6G9Pkd1xDix1iyLmIW) | 3:56 |
 | 50 | [LATHI](https://open.spotify.com/track/5lQfoQ3mPD7hDomKjjMwhV) | [Rima](https://open.spotify.com/artist/57YDpbS3CGnSQfRNpSsiNK), [LADELE](https://open.spotify.com/artist/0XpIr8mls2t9j5bNsjbw7C), [City Center](https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [POV](https://open.spotify.com/album/56qe0cN1r6xtHLpli7lYjz) | 2:59 |
 
-Snapshot ID: `MCwwNDkyM2I0YzQzODI5ZDMyYmJlYjFlN2Q3MTAwNWNjNmQyMWJjMDg4`
+Snapshot ID: `MCxjNmRhOTg2YmVlZDg1NWQ3NjIxMWY2OWU2YjcwM2QyOTUzMDE2MjU5`

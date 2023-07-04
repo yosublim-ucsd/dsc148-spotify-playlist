@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 413655,
+  "num_followers": 413954,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQyZTA2YTMzNjJmMzQzN2JjNjU0OTQ2MTQ1Zjg3OWMxMmJiNzYx",
+  "snapshot_id": "MCw5MGY0YjczYTRiMGVlMmYxNzU5ZWJlOWIwNzZiYmY4NDcwYmI2ZTA2",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -183,58 +199,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Midnight In A Perfect World",
-      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Tracey Thorn",
-          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
-        }
-      ],
-      "duration_ms": 471560,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -267,6 +231,38 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Deadringer: Deluxe",
         "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
@@ -283,6 +279,26 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Tracey Thorn",
+          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
+        }
+      ],
+      "duration_ms": 471560,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Suzuki",
         "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
       },
@@ -295,6 +311,26 @@
       "duration_ms": 364453,
       "name": "Suzuki",
       "url": "https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+        }
+      ],
+      "duration_ms": 533013,
+      "name": "Lonely Soul",
+      "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -327,58 +363,6 @@
       "duration_ms": 399026,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
-      },
-      "artists": [
-        {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
-        }
-      ],
-      "duration_ms": 533013,
-      "name": "Lonely Soul",
-      "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -427,6 +411,42 @@
       "duration_ms": 242800,
       "name": "A grand love theme",
       "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 376160,
+      "name": "Rabbit in Your Headlights",
+      "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -499,26 +519,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
-      },
-      "artists": [
-        {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 376160,
-      "name": "Rabbit in Your Headlights",
-      "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Cold Water Music",
-        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
-      },
-      "artists": [
-        {
-          "name": "Aim",
-          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Cold Water Music",
-      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Cold Water Music",
+        "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
+      },
+      "artists": [
+        {
+          "name": "Aim",
+          "url": "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "Cold Water Music",
+      "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -663,38 +663,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "DJ Food",
-          "url": "https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Dark Lady",
-      "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "King Size",
         "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
@@ -711,6 +679,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Turn The Dark Off",
         "url": "https://open.spotify.com/album/4t0n6rx2Y2yZKX9rXZ3lId"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 264573,
       "name": "Who's Got The Bacon?",
       "url": "https://open.spotify.com/track/5NrhncrVseX744Lh505exA"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "DJ Food",
+          "url": "https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Dark Lady",
+      "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 428265,
+      "name": "The bootleggers",
+      "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
       "artists": [
         {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 428265,
-      "name": "The bootleggers",
-      "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like, Pt. 2",
+      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Natural Born Killa (2015 Remaster)",
         "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 321932,
       "name": "Into the 90's",
       "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like, Pt. 2",
-      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Ponderosa",
+      "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Ponderosa",
-      "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 351693,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Hed Phone Sex",
+        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 441866,
+      "name": "B Monkey",
+      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1171,22 +1187,6 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Hed Phone Sex",
-        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 441866,
-      "name": "B Monkey",
-      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
     },
     {
       "added_at": "2023-06-20 20:30:21",

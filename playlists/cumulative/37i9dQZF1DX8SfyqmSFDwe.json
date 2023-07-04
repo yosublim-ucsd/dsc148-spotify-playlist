@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Luny Tunes Presents ERRE XI",
+        "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
+      },
+      "artists": [
+        {
+          "name": "Erre XI",
+          "url": "https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed"
+        },
+        {
+          "name": "PeeWee",
+          "url": "https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254320,
+      "name": "Carita Bonita",
+      "url": "https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4"
+    },
+    {
+      "album": {
         "name": "Los Matadores del Genero",
         "url": "https://open.spotify.com/album/5csCMnX1VNrZmzz1saqakQ"
       },
@@ -4976,7 +4998,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 253893,
       "name": "Te He Querido, Te He Llorado",
       "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"

@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 687579,
+  "num_followers": 687782,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjIyZWJlYmJiMWUwMDEyMzZlZmE5MGUwMzY0ZTBkYzgwZDAwNTk5",
+  "snapshot_id": "MCwyZWFhN2RlNGM1ODFlNzQ3MGUxY2VhZWUwYWM0YTk1YzkyZWEyNDI0",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "John Michael Montgomery",
         "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 152186,
       "name": "Sold (The Grundy County Auction Incident)",
       "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Diamond Rio",
         "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198333,
       "name": "Meet In the Middle",
       "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "The Man I Want To Be",
-        "url": "https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH"
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
       "artists": [
         {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 212133,
-      "name": "Gettin' You Home",
-      "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
+      "duration_ms": 181973,
+      "name": "Watermelon Crawl",
+      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+        "name": "The Man I Want To Be",
+        "url": "https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Watermelon Crawl",
-      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
+      "duration_ms": 212133,
+      "name": "Gettin' You Home",
+      "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "She Won't Be Lonely Long",
+        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "She Won't Be Lonely Long",
+      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 252626,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "She Won't Be Lonely Long",
-        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "She Won't Be Lonely Long",
-      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "See You Try",
-        "url": "https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP"
-      },
-      "artists": [
-        {
-          "name": "Craig Campbell",
-          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 259893,
       "name": "Gone Country",
       "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "See You Try",
+        "url": "https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP"
+      },
+      "artists": [
+        {
+          "name": "Craig Campbell",
+          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+        "name": "Vinyl",
+        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
       },
       "artists": [
         {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+          "name": "William Michael Morgan",
+          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Ten Thousand Angels",
-      "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
+      "duration_ms": 201533,
+      "name": "I Met a Girl",
+      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
     },
     {
       "added_at": "2023-06-09 04:01:00",

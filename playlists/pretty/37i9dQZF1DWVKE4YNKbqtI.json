@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 8943,
+  "num_followers": 8952,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjYzMjVmZmFlZWVkZjM2OTZiNjM0NzZmNTUzNjkyYzQ1Nzc3N2Ji",
+  "snapshot_id": "MCxjYmQwOWYzNGJhYjA5ODE4NGMxOTc1MDg4ZGNmZWE4OGMzYjRiZGIz",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Shake My Hand",
         "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
       },
@@ -195,26 +211,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "The Resurrection Of Pigboy Crabshaw",
         "url": "https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs"
       },
@@ -227,38 +223,6 @@
       "duration_ms": 220480,
       "name": "One More Headache",
       "url": "https://open.spotify.com/track/5uPWILEXkNy1D0MJzi9ByM"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Have A Good Time",
-      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -279,6 +243,42 @@
       "duration_ms": 217226,
       "name": "Diggin' My Potatoes",
       "url": "https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Shoulder To Shoulder",
         "url": "https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV"
       },
@@ -439,22 +423,6 @@
       "duration_ms": 202960,
       "name": "Ain't Seen My Baby",
       "url": "https://open.spotify.com/track/5r1gF2DneZC8pBL86SDarK"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Heartaches And Pain",
-        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Carey Bell Rocks",
-      "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -511,22 +479,34 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
       },
       "artists": [
         {
           "name": "James Cotton",
           "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Heartaches And Pain",
+        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Carey Bell Rocks",
+      "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -583,6 +563,26 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "One Wrong Turn",
         "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Whoopin'",
-        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "Sonny's Whoopin' The Doop",
-      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Code Blue",
         "url": "https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 337246,
       "name": "Who's the Fool",
       "url": "https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Whoopin'",
+        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Sonny's Whoopin' The Doop",
+      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -775,6 +775,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Jazz Gillum Vol. 2 1938-1941",
+        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
+      },
+      "artists": [
+        {
+          "name": "Jazz Gillum",
+          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Flash Forward",
         "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Jazz Gillum Vol. 2 1938-1941",
-        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN"
       },
       "artists": [
         {
-          "name": "Jazz Gillum",
-          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
         }
       ],
-      "duration_ms": 163527,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
+      "duration_ms": 194586,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -823,22 +839,6 @@
       "duration_ms": 250653,
       "name": "The Hucklebuck",
       "url": "https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN"
-      },
-      "artists": [
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir"
     },
     {
       "added_at": "2020-10-22 17:19:34",

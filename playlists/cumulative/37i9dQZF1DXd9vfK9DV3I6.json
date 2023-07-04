@@ -20,7 +20,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 219508,
       "name": "3 to 1",
       "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "album": {
         "name": "Hebele Hubulu & Belantash",
         "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 192262,
       "name": "Larg",
       "url": "https://open.spotify.com/track/66GUwtlP1t61yBOMwhBaAb"
@@ -4810,7 +4828,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 262641,
       "name": "Vestido Preto",
       "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 196015,
       "name": "Your Love - Anthony Keyrouz Remix",
       "url": "https://open.spotify.com/track/1mAUF7W9YkFUZec9cMJG5Z"

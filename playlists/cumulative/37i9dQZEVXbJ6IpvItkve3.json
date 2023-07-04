@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -4970,7 +4970,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -8796,7 +8796,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 177425,
       "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05dc\u05e4\u05e0\u05d9\u05d9",
       "url": "https://open.spotify.com/track/3XZrh1WNu0a7uzaJNYuHAQ"
@@ -10802,7 +10802,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 195163,
       "name": "\u05dc\u05d9\u05e8\u05d6",
       "url": "https://open.spotify.com/track/50uspwzqbMxkpyHzMLwUVy"
@@ -12732,6 +12732,24 @@
       "duration_ms": 132309,
       "name": "\u05e2\u05d6\u05d5\u05d1 \u05d0\u05d5\u05ea\u05d9 \u05de\u05d8\u05db\u05e0\u05d5",
       "url": "https://open.spotify.com/track/3V6HZxYj1rrGYhXvapbqUJ"
+    },
+    {
+      "album": {
+        "name": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/2bku6qb6eo1fbkHvnd6J8o"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/58m9mqwBLliFpIFSYzprSn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141519,
+  "num_followers": 141526,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTM2NGVlYmZhNGY2ZDhkY2UxYzAwY2EzOWMzMmMyOTZlNzNhMjY3",
+  "snapshot_id": "MCw5NmU4NWE5NTAzMzk0ZmUzM2RmOTIxNTY0NTVkOGU3YzEwY2U5YzIx",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Do Watcha Wanna",
         "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Jazz King Of New Orleans",
         "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 192426,
       "name": "Black Bottom Stomp - 2002 Remastered",
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -259,22 +275,6 @@
       "duration_ms": 163533,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -539,38 +539,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Michael White",
-          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Canal Street Blues",
-      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Hotter Than That",
-      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Rebirth For Life",
         "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
       },
@@ -587,6 +555,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Ultimate Mardi Gras",
         "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201146,
       "name": "Mardi Gras In New Orleans",
       "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -691,6 +691,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Atlantic Jazz: New Orleans",
+        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Shreveport Stomp",
+      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Jazz In Hi-Fi",
         "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 164200,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Atlantic Jazz: New Orleans",
-        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Shreveport Stomp",
-      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -811,6 +811,30 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
+        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
+      },
+      "artists": [
+        {
+          "name": "Kid Thomas",
+          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
+        },
+        {
+          "name": "Thomas Jefferson",
+          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
+        },
+        {
+          "name": "Percy Humphrey",
+          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+        }
+      ],
+      "duration_ms": 267093,
+      "name": "When You're Smiling",
+      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "The Luis Russell Story",
         "url": "https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 187333,
       "name": "Saratoga Drag",
       "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
-        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
-      },
-      "artists": [
-        {
-          "name": "Kid Thomas",
-          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
-        },
-        {
-          "name": "Thomas Jefferson",
-          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
-        },
-        {
-          "name": "Percy Humphrey",
-          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
     },
     {
       "added_at": "2021-04-26 16:53:52",

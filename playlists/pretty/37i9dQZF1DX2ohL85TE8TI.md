@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,997 likes - 111 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,246 likes - 111 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 110 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 111 | [Cut Off Love](https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Red Balloon OST Part.5](https://open.spotify.com/album/2BMfj8pXtoZl17MRjSAeXG) | 3:12 |
 
-Snapshot ID: `MCwyMmNjZWY1Mzg1NDU4ZjlkMzg0MzA3MjdjMjU5ZTQ2MWIxYmQ0NjRm`
+Snapshot ID: `MCw1YjBmMzgwZDdlZjI1ZjM2MmJlN2Q2NzEzYTZlMjA5MWVkNTk5ZTA4`

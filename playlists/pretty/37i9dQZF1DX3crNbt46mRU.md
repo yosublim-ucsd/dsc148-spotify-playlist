@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,304 likes - 117 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,315 likes - 117 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 116 | [Velocità](https://open.spotify.com/track/0fDb1Us6GLRPrY4LkgEUIc) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Velocità](https://open.spotify.com/album/0nuR2emckKgR48TWtu53uD) | 3:01 |
 | 117 | [Icke!](https://open.spotify.com/track/2AI6fZvldOKMjRVLv9ZHzT) | [Grossstadtgeflüster](https://open.spotify.com/artist/03SZv6slUnLnHI3IfwG0gl) | [Icke!](https://open.spotify.com/album/2ym6hik6kIGRqeDLekiW5e) | 4:04 |
 
-Snapshot ID: `MCw1YzYzOWExYmVlYzAyOWJmNDc1MjQwYjQwMDdmNThkOTAyMzBmNmEx`
+Snapshot ID: `MCwxNWQwZWE1ODM4MTE5MjliYmZjNjE1ZDY0MmNiMGNkNzljMzEwNWJl`

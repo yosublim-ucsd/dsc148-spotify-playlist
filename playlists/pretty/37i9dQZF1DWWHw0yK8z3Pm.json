@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Goldie Boutilier",
-  "num_followers": 43649,
+  "num_followers": 43668,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDVjMTUyZWZlNDA5ZDhmNzQwMzQ0MzI0OTZlM2MzNzIyNjE2YzYy",
+  "snapshot_id": "MCxkNzNlM2JkMGJhMjUxZTAyMzNjZjY3MDI5YTJjYmFjODYxOWY1N2Ey",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Better Off High",
-      "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Nightroamer",
         "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 166248,
       "name": "Talkin' to Myself",
       "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Better Off High",
+      "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "Communion - Country version",
+      "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
       },
@@ -1291,18 +1307,34 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "Hot Sun",
+        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
         }
       ],
-      "duration_ms": 234626,
-      "name": "Communion - Country version",
-      "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
+      "duration_ms": 181866,
+      "name": "Hot Sun",
+      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Homemaker",
+        "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 187491,
+      "name": "Instant Cash for Gold",
+      "url": "https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1323,22 +1355,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hot Sun",
-        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
-      },
-      "artists": [
-        {
-          "name": "Daniel James McFadyen",
-          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Hot Sun",
-      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 310402,
       "name": "Dooley's Farm - Spotify Sessions",
       "url": "https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Homemaker",
-        "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 187491,
-      "name": "Instant Cash for Gold",
-      "url": "https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 203788,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 198511,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "duration_ms": 203788,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON"
     },
     {
       "added_at": "2023-06-30 04:00:00",

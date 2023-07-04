@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44457,
+  "num_followers": 44456,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjI3MyxlNzYzNmZlM2E4MTEyNmQ1ZWJjYTUzYmI4NWNiM2M5YTY4OTgwZDdj",
+  "snapshot_id": "NjI3NCwzYWE3YTBmZTk0NTQ0ZjQ4ZjViODZjYTBlOGM0YjJlMTIyZWY2MWQ2",
   "tracks": [
+    {
+      "added_at": "2023-07-03 12:20:14",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv"
+    },
     {
       "added_at": "2023-06-29 17:43:46",
       "album": {

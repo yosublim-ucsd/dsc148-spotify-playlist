@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Chez Toi",
+        "url": "https://open.spotify.com/album/7en4PuHhcFXFYrYJ2xflY2"
+      },
+      "artists": [
+        {
+          "name": "La Bande-Son Imaginaire",
+          "url": "https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Chez Toi",
+      "url": "https://open.spotify.com/track/69VjPausWbwW7f2ytRdULI"
+    },
+    {
+      "album": {
         "name": "Cherish The Light Years",
         "url": "https://open.spotify.com/album/3tn29g1LKcdGcOJLcegl1k"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 291666,
       "name": "Durdu D\u00fcnya",
       "url": "https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 165500,
       "name": "Narc",
       "url": "https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj"
@@ -2340,6 +2358,24 @@
       "duration_ms": 219106,
       "name": "This World Couldn\u2019t See Us",
       "url": "https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG"
+    },
+    {
+      "album": {
+        "name": "Two Point Zero",
+        "url": "https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd"
+      },
+      "artists": [
+        {
+          "name": "Cloudland Canyon",
+          "url": "https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283501,
+      "name": "Two Point Zero",
+      "url": "https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ"
     },
     {
       "album": {

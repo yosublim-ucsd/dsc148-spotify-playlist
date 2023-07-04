@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: OPEN TILL L8
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,545 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,595 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 101 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 |
 | 102 | [Carhartt Jacket](https://open.spotify.com/track/4iVvjsdDvxibDx3XAbaYVa) | [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V), [Shush](https://open.spotify.com/artist/6ENz2sCA2z0BlNfSxWaAVN) | [Carhartt Jacket](https://open.spotify.com/album/7IONkcgZ8rJ9qCBfqHVisa) | 2:27 |
 
-Snapshot ID: `MCw3YTQ4MmFhYTgzNTMwMTIwMDM0NDRmMGQyNzBjMmI5MjJjYWVjMGZl`
+Snapshot ID: `MCw0NWMxNzZmNzRmYzk5YTYwOWVjYjBjNWQwNzM2ODkzMjVlNzY0YjZh`

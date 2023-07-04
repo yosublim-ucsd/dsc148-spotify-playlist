@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 104572,
+  "num_followers": 104578,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGE5ZDNkNDNhZWUyM2IyOWUxMzZkN2I1OTc5Yzc2NGVlMmQ4MDI3",
+  "snapshot_id": "MCxmMjhhYzg5NWYzMzk3OGM3MWZlMmI1ZmZmZTc5N2YwMmFkYjE4MDJl",
   "tracks": [
     {
       "added_at": "2023-06-29 14:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 225021,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
-    },
-    {
-      "added_at": "2023-06-29 14:00:00",
-      "album": {
         "name": "From The Ashes EP",
         "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 138337,
       "name": "Moving Still - Reprise",
       "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 225021,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
     },
     {
       "added_at": "2023-06-29 14:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2023-06-29 14:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-06-29 14:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
-    },
-    {
-      "added_at": "2023-06-29 14:00:00",
-      "album": {
         "name": "Electronic Arts",
         "url": "https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 351304,
       "name": "Strange Sounds",
       "url": "https://open.spotify.com/track/62dLbHvGjxAOwWt38CwQ2w"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "added_at": "2023-06-29 14:00:00",

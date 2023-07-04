@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-118 songs - 10 hr 24 min
+119 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [Stool Pigeon](https://open.spotify.com/track/6ORoJZ2ghHkOXSBpLwns0N) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:57 | 2020-12-01 |  |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2020-12-01 |  |
 | [Take Me Along](https://open.spotify.com/track/79ClEN88eW7d9uSqfztPah) | [Empress](https://open.spotify.com/artist/27AaPr7ZZQK7ONBgeESbB1) | [Dyin' to Be Dancin'](https://open.spotify.com/album/54IFhVdCyxqMkIjvXNYivr) | 6:08 | 2020-12-01 | 2022-09-28 |
-| [Take Your Time](https://open.spotify.com/track/3E3GNsyyc81SHubfiA2ndz) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Genre Funk](https://open.spotify.com/album/1AJ455jytvwXvvFh6O3zBC) | 7:45 | 2020-12-01 |  |
+| [Take Your Time](https://open.spotify.com/track/3E3GNsyyc81SHubfiA2ndz) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Genre Funk](https://open.spotify.com/album/1AJ455jytvwXvvFh6O3zBC) | 7:45 | 2020-12-01 | 2023-07-04 |
 | [Take Your Time](https://open.spotify.com/track/7AMbZs3gWTlx2azi5sFwow) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Dj Chabin présente : Fonky Funk planète](https://open.spotify.com/album/0DXei2VwBUwRf9T5jS17X2) | 7:45 | 2020-12-01 | 2023-02-16 |
+| [Take Your Time \(Do It Right\)](https://open.spotify.com/track/7zYuVTJ5mE2kHm6mD1pjDD) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [1980 Best of by uDiscover](https://open.spotify.com/album/3GmxilfNvqzcxsQHiEFJHG) | 7:40 | 2020-12-01 |  |
 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 | 2020-12-01 |  |
 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 | 2020-12-01 |  |
 | [Tie Me Up](https://open.spotify.com/track/09nHziVFmEdVtguyIRlBVM) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [You, Me And He](https://open.spotify.com/album/0X7IwYZpOn6qyfiI9RLiR6) | 5:49 | 2020-12-01 |  |

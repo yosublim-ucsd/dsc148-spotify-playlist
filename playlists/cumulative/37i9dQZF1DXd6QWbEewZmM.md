@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-358 songs - 20 hr 26 min
+359 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [La Tarde](https://open.spotify.com/track/6q0NKpIwLRKy60Fal8dbTP) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:36 | 2022-07-22 | 2022-09-24 |
 | [La Vi Llorar](https://open.spotify.com/track/3G8WaQkwVSwlcDGRHniG3w) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:45 | 2022-01-01 |  |
 | [La Única](https://open.spotify.com/track/1h5pJVUM9U1Lt9rIsykiiz) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [La Única](https://open.spotify.com/album/2Xeg01yBwDBKhOt8QOa1gT) | 3:44 | 2022-01-01 | 2022-07-19 |
-| [La Única](https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 3:44 | 2022-01-01 | 2023-02-25 |
+| [La Única](https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 3:44 | 2022-01-01 |  |
 | [Labios Cereza](https://open.spotify.com/track/64luTJa3lsA4ZvwFyoBcUM) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [Labios Cereza](https://open.spotify.com/album/7wwopAa9IVFw3oDPxn6Zes) | 2:50 | 2022-01-01 | 2022-07-22 |
 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 | 2022-07-22 |  |
 | [Labios Rojos](https://open.spotify.com/track/24niWFc3cHyW8HrSZ5PJ7R) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/4D4El43QaxMwXXPBKieDXu) | 4:01 | 2022-01-01 | 2022-07-29 |
@@ -253,6 +253,7 @@
 | [Que Paso](https://open.spotify.com/track/42FkXinFSP5oxSqnt241ek) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/3X39s5ygkWwqvGKFhIAqzJ) | 3:51 | 2022-01-01 | 2022-02-10 |
 | [Que Salga De Ti](https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Que Salga De Ti](https://open.spotify.com/album/3WiG7Qdw9f0bsFgywnrrrJ) | 3:16 | 2022-06-03 | 2022-07-11 |
 | [Querido San Valentin](https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Querido San Valentin](https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu) | 4:21 | 2022-02-11 | 2022-11-01 |
+| [Quien Es El?](https://open.spotify.com/track/2JVHzNBq01Mf4pmSDagtPA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:50 | 2023-07-03 |  |
 | [Quien Soy Yo?](https://open.spotify.com/track/2M6kObWK07igzo7Newr16N) | [Los Disidentes](https://open.spotify.com/artist/6IyKGUc7TMv7KHGHj5KpnA) | [Quien Soy Yo?](https://open.spotify.com/album/7kgxvbU1PDpKOTsD3Zdyya) | 2:27 | 2022-10-14 | 2023-01-06 |
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-06-03 | 2022-06-11 |
 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 | 2022-01-01 |  |
@@ -271,8 +272,8 @@
 | [Sentimental](https://open.spotify.com/track/5UC3eepiSagX0bjGMOzEwa) | [Edgar Baldovino](https://open.spotify.com/artist/4bvkbZuxxVl8pvbMjzAjog) | [Sentimental](https://open.spotify.com/album/5jP6KNobUTPPnjWge0FJUC) | 3:21 | 2022-02-25 | 2022-07-05 |
 | [Sentimental](https://open.spotify.com/track/1E7fM9oEA8irF9mFkvPAgY) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Sentimental](https://open.spotify.com/album/67cHoXvLUTqGmm1UWGdbms) | 2:11 | 2022-03-21 | 2022-07-22 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-01-01 | 2022-03-22 |
-| [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-06-10 |  |
-| [Si Te Vas \(feat\. Los Aptos\)](https://open.spotify.com/track/6nf6tNacf31z8npZtl5FjV) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:55 | 2023-04-14 |  |
+| [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-06-10 | 2023-07-04 |
+| [Si Te Vas \(feat\. Los Aptos\)](https://open.spotify.com/track/6nf6tNacf31z8npZtl5FjV) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:55 | 2023-04-14 | 2023-07-04 |
 | [Siempre Te Voy a Amar](https://open.spotify.com/track/45lBHDg7x2hQoYjCms9aDb) | [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siempre Te Voy a Amar](https://open.spotify.com/album/6zaqcGLUycFwvCqEozNvI1) | 2:54 | 2022-01-01 | 2022-07-25 |
 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 | 2022-01-01 |  |
 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 | 2022-01-01 |  |

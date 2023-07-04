@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, Mark Barrott curates a finely chosen selection of Ambient for full immersion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,837 likes - 30 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,850 likes - 30 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 29 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
 | 30 | [Kyoto \(京都\)](https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:15 |
 
-Snapshot ID: `MCwyZWZkN2NiMDk1YmI1ZWYxMDM2YWEyZmJkOTMyNWIxNjRhNzQ2YTRk`
+Snapshot ID: `MCwyOTM3OTljNTZmYTdiZTc2ZTA2NTY5ZjRjM2FjYTg1YTFhNjdlMjFm`

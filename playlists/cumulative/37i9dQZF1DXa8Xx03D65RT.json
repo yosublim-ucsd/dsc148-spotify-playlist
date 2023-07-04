@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 233000,
       "name": "Akeleie",
       "url": "https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu"
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Drawing A Fish For Iwamoto's Retirement",
+        "url": "https://open.spotify.com/album/6afoB6Q0lXOJFwQyN8Ube9"
+      },
+      "artists": [
+        {
+          "name": "Tim Linghaus",
+          "url": "https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132375,
+      "name": "Drawing A Fish For Iwamoto's Retirement",
+      "url": "https://open.spotify.com/track/0IlkQFAlC4F0goadpgzmwg"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5XLOW58DygV2CWsoXvMzOk"
       },
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 116000,
       "name": "fabienne",
       "url": "https://open.spotify.com/track/2FxwP5bwUPpYZUzkhoATvL"
@@ -6528,7 +6546,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 107067,
       "name": "Mysterious ways",
       "url": "https://open.spotify.com/track/4o9MHjbd1w6fLk1aqA1JKn"
@@ -6618,7 +6636,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 119522,
       "name": "Never Before",
       "url": "https://open.spotify.com/track/0MDFVZGO3we7Usiy2YrB41"
@@ -8260,7 +8278,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 82872,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2OQ6G0qZfRq0bCCRI6R0yi"
@@ -8404,7 +8422,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 185620,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl"
@@ -8890,7 +8908,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 120603,
       "name": "Smukke Sm\u00e5Ting",
       "url": "https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR"
@@ -10291,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Traumt\u00e4nzer",
+        "url": "https://open.spotify.com/album/4uSHjDIZrc1wxbZmlIQUEE"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122473,
+      "name": "Traumt\u00e4nzer",
+      "url": "https://open.spotify.com/track/07cIvi3D7cHWRkJLTY0JCh"
+    },
+    {
+      "album": {
         "name": "Traunstein",
         "url": "https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY"
       },
@@ -10644,7 +10680,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Unsere Reise",
       "url": "https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC"

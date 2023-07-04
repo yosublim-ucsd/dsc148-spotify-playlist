@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-52 songs - 2 hr 59 min
+57 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,16 +23,19 @@
 | [first love](https://open.spotify.com/track/1FRvRsa1hNH9ykwnmINJIr) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Na Yun Gwon](https://open.spotify.com/artist/0UCjY4RwfRkBzabQbwykhT) | [First Love](https://open.spotify.com/album/1owA0EttITvg87XbfiAPHz) | 4:17 | 2023-06-15 |  |
 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 | 2023-06-15 |  |
 | [Gold Dust](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 4:09 | 2023-06-15 |  |
+| [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl) | 4:05 | 2023-07-03 |  |
 | [HAWAIIAN COUPLE \(feat\. Brown Bunny & Ashley\)](https://open.spotify.com/track/6h1DFkq91YcMrEzWeUDRyA) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [Ashley](https://open.spotify.com/artist/18N8DuSJz8OW5wvVkqxO6z), [Brown Bunny](https://open.spotify.com/artist/5ExR3ZNqNnDG6UERt20NHo) | [REFORM](https://open.spotify.com/album/3wnAkM2CZcrvxWZdbVsilr) | 3:40 | 2023-06-15 |  |
 | [Hold On](https://open.spotify.com/track/15ouO5mVTnfZnHkShDqioD) | [Kim Soo Cheol](https://open.spotify.com/artist/1a53QOnOG1EJ6ppKrnM97t) | [Kim Soo Chul One Man Band](https://open.spotify.com/album/2srwhj4UhJ3qe0fK1gHj3n) | 3:45 | 2023-06-15 |  |
 | [I happen to Love You](https://open.spotify.com/track/4fwQfkIhcvnx32WoHnpKNn) | [Gain](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo), [Jo Gwon](https://open.spotify.com/artist/72jRMaTfrofz2xIVDfru5w) | [I happen to Love You](https://open.spotify.com/album/2mQctK0OktEQkSa5HfsbFF) | 3:40 | 2023-06-15 |  |
 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 | 2023-06-15 |  |
+| [Kiss The Rain](https://open.spotify.com/track/7vd1j4IDTU0koES9M8dvBQ) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [From The Yellow Room \(The Original & the Very First Recording\)](https://open.spotify.com/album/29tE32FrVIR0L7cz9LeykK) | 4:20 | 2023-07-03 |  |
 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 | 2023-06-15 |  |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-06-15 |  |
 | [Love](https://open.spotify.com/track/5VeXj6AN1SDRfvcjafPKCc) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Love](https://open.spotify.com/album/2lyGDRXefXaQLpkO9LFchu) | 3:43 | 2023-06-15 |  |
 | [LOVE DAY](https://open.spotify.com/track/1obtU03RXYzuNnzGe31arn) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [Jeong EunJi \(Apink\)](https://open.spotify.com/artist/3Y7kskm3Wc6XaVRHi9skaN) | [\`A CUBE\` FOR SEASON \# GREEN](https://open.spotify.com/album/0d9rKDxur1VVQxgJOQawaA) | 3:57 | 2023-06-15 |  |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2023-06-23 |  |
 | [Message by Lee Seok Hoon](https://open.spotify.com/track/0MjronzCtDF43QGqID7QTA) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Ssulply audio liner](https://open.spotify.com/album/7cPhc0XndeO1owLvpL35sr) | 0:34 | 2023-06-15 |  |
+| [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2023-07-03 |  |
 | [Monthly Project 2012 June Yoon Jong Shin \- Uphill Road](https://open.spotify.com/track/1i4nfd0n3FurIFsXcJGxdq) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2012 June Yoon Jong Shin \- Uphill Road](https://open.spotify.com/album/2HJUf6esRJKgY4ceH92mxt) | 4:43 | 2023-06-23 |  |
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2023-06-15 |  |
 | [Nitpicking](https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Nitpicking](https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT) | 3:33 | 2023-06-15 |  |
@@ -49,6 +52,7 @@
 | [So What](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:18 | 2023-06-15 |  |
 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 | 2023-06-15 |  |
 | [Stars over me](https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:20 | 2023-06-15 |  |
+| [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 | 2023-07-03 |  |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-06-15 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2023-06-15 |  |
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2023-06-23 |  |
@@ -59,6 +63,7 @@
 | [Your Knight](https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv) | 3:11 | 2023-06-15 |  |
 | [새벽기차](https://open.spotify.com/track/6NGfh35DLX4MGelPQsWkD1) | [다섯손가락](https://open.spotify.com/artist/54OHfAKmQDzDFfXFjmxHuk) | [다섯손가락 골든 힛트곡 모음](https://open.spotify.com/album/0OKu2x5KBTXYjmACGASREU) | 3:58 | 2023-06-15 |  |
 | [연예인](https://open.spotify.com/track/5s3ESdthJZaA4Tuqj3Nz8V) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [싸집](https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63) | 3:24 | 2023-06-23 |  |
+| [이별 아닌 이별](https://open.spotify.com/track/6X6ex9jjNkJ3FYoXRDO4hE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:20 | 2023-07-03 |  |
 | [첫눈에 뿅!](https://open.spotify.com/track/3I8yVMehwPY6poafWii5Fc) | [바니](https://open.spotify.com/artist/2NHtAhs5l0gcVwp8AcDbD9) | [첫눈에 뿅!](https://open.spotify.com/album/6MnDjLA0vALGHkguvGAu1n) | 3:12 | 2023-06-15 |  |
 
 \*This playlist was first scraped on 2023-06-16. Prior content cannot be recovered.

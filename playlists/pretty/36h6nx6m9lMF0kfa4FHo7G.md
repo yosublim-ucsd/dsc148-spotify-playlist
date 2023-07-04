@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,904 likes - 179 songs - 11 hr 38 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,902 likes - 180 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,6 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 177 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 178 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 179 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
+| 180 | [Liberator](https://open.spotify.com/track/4HdzJLko7FIZdnrUKkqCn3) | [Spear Of Destiny](https://open.spotify.com/artist/4vJgvzfdA3q1KFsNl3GFvc) | [One Eyed Jacks \(Expanded Edition\)](https://open.spotify.com/album/0u8aUhsoeDWAYXM4uxmHPV) | 3:39 |
 
-Snapshot ID: `NDY4LDgzNjk1ZmUzZGIwOTgwMjQyODcxZDJkMTI5ZTRiOTgwMTRmNjc3Yjk=`
+Snapshot ID: `NDY5LGM1ODc5NDA4ODc3NmU4ZGExODRjOGIwN2MzNDc4MTViZDBmNzAxOWI=`

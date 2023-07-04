@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-422 songs - 1 day 1 hr 3 min
+423 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [KuKuLaLa](https://open.spotify.com/track/3l9oVezOaCNCAVqQN1xi79) | [Mr.5K](https://open.spotify.com/artist/3GGIEIL34jlfQ8ACSX0KLm), [Prem Jr.](https://open.spotify.com/artist/2xTuEvMZ4BPpMUj57089LV), [DK Dinesh Kumar](https://open.spotify.com/artist/0oOdOPbeOZovoN5TheQL1t) | [KuKuLaLa](https://open.spotify.com/album/7s0VJTlnVh4qiXBEq85me8) | 3:33 | 2022-11-10 | 2023-02-07 |
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 | 2022-07-18 |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2022-11-25 | 2023-03-09 |
+| [Lambo Lambo](https://open.spotify.com/track/7K5pyTmRA4qqu3ZfS71Flf) | [Nincy Vincent](https://open.spotify.com/artist/3YztabPkmM6fDWVUZJ51AH) | [Lambo Lambo](https://open.spotify.com/album/333wx95hhctae7PSkl6Cob) | 4:19 | 2023-07-03 |  |
 | [Lityananda](https://open.spotify.com/track/3uLjbFmhCeVBtBXwueAAYx) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Lityananda](https://open.spotify.com/album/2IniUlFtmoXBSMCu6Uro57) | 2:53 | 2021-12-01 | 2023-02-07 |
 | [Love Loop](https://open.spotify.com/track/7ELwPXWWDZExDD29QpMKdL) | [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Sudarshan Arumugam](https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E) | [Love Loop](https://open.spotify.com/album/2i08qgD1ApF4srqqEopOMP) | 3:44 | 2022-07-08 | 2022-08-16 |
 | [Love Meter](https://open.spotify.com/track/6IGhRREqgIPISI2PYWWoMT) | [NIlan Ratnarajah](https://open.spotify.com/artist/71omujW4dIU5qSEcDJWGYF), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Love Meter](https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X) | 3:13 | 2022-11-28 | 2023-03-09 |

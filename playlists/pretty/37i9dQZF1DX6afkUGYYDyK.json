@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16975,
+  "num_followers": 16982,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1",
+  "snapshot_id": "MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -99,34 +99,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
       },
@@ -163,6 +135,34 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+        "name": "Pour Your Spirit Out (Live)",
+        "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
         }
       ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+      "duration_ms": 353282,
+      "name": "Always So Good - Live",
+      "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -659,22 +675,6 @@
       "duration_ms": 254426,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Pour Your Spirit Out (Live)",
-        "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 353282,
-      "name": "Always So Good - Live",
-      "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank You (Famine Or Feast)",
-        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Thank You (Famine Or Feast)",
-      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 193413,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You (Famine Or Feast)",
+        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Thank You (Famine Or Feast)",
+      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 271211,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Strength (feat. John P. Kee)",
         "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 314600,
       "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 271211,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
     },
     {
       "added_at": "2022-11-23 15:01:23",

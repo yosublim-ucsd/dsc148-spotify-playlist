@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Beck & Phoenix
 
-1,162 songs - 2 day 14 hr 2 min
+1,163 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1106,6 +1106,7 @@
 | [Waterproof](https://open.spotify.com/track/6lFdL2AaWZ70APkyCUf19r) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [Waterproof](https://open.spotify.com/album/5YSVFYYju0F0POQlkCT5db) | 3:39 | 2021-11-26 | 2022-02-12 |
 | [We Are All Insane](https://open.spotify.com/track/2N175zTqPQhQ5FHOrgsW3h) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5ymWKh4Tp382PsDDSimpNI) | 3:31 | 2022-11-04 | 2023-02-11 |
 | [We Are Who We Are](https://open.spotify.com/track/72UkgyI10D8loPSUsLFfGy) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Say Something](https://open.spotify.com/album/1gSb4c69L9ritg9SBpzZqo) | 3:33 | 2022-04-22 | 2022-07-02 |
+| [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-07-03 |  |
 | [We Got To Get Together To Be Free](https://open.spotify.com/track/585cCDYHDGJn6M1pZBUPjl) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [We Got To Get Together To Be Free](https://open.spotify.com/album/3J1VaRG5DMK2MaAsAfJT2f) | 2:48 | 2023-03-24 | 2023-05-13 |
 | [We're Not In Orbit Yet…](https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [We're Not In Orbit Yet…](https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT) | 5:10 | 2022-07-08 | 2022-09-24 |
 | [Weeds](https://open.spotify.com/track/18VKRCSACNmFwlkTJaEAN5) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3SOztDjLYPYH0BPlPncpoI) | 3:22 | 2022-07-22 | 2022-07-29 |

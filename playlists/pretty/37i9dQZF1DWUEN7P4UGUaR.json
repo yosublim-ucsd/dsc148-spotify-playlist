@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 1696,
+  "num_followers": 1727,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2UwZWZlNzZmZjFkYzQ0ZDFjNDZhMTA2MmViNDBmODY3ZTk5MWI0",
+  "snapshot_id": "MCw1NGFkNThhNDZmZTYzODNkZDgzNGQyMzg0MzEyOWJkMmRhYmM2ZTQ4",
   "tracks": [
     {
       "added_at": "2023-06-30 06:20:46",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "Onyame Tumfo (The Prayer Song)",
+        "url": "https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Siisi Baidoo",
+          "url": "https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ"
         }
       ],
-      "duration_ms": 288990,
-      "name": "Turning Around(Live)",
-      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
+      "duration_ms": 584041,
+      "name": "Onyame Tumfo (The Prayer Song)",
+      "url": "https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -251,34 +251,18 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "Onyame Tumfo (The Prayer Song)",
-        "url": "https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Siisi Baidoo",
-          "url": "https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 584041,
-      "name": "Onyame Tumfo (The Prayer Song)",
-      "url": "https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+      "duration_ms": 288990,
+      "name": "Turning Around(Live)",
+      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -335,18 +319,18 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -363,6 +347,22 @@
       "duration_ms": 365808,
       "name": "Matwen 20",
       "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 218928,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
+        "name": "Golden Oil",
+        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 274599,
+      "name": "Se Mekume Ho",
+      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
         "name": "Me Dan Wo (feat. Kweku Teye)",
         "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 372240,
       "name": "Me Dan Wo (feat. Kweku Teye)",
       "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
-        "name": "Golden Oil",
-        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 274599,
-      "name": "Se Mekume Ho",
-      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -583,6 +583,22 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "MOVE VOL 1",
-        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        }
-      ],
-      "duration_ms": 433646,
-      "name": "Glory Chants",
-      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
         "name": "Onwanwani",
         "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+        "name": "MOVE VOL 1",
+        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
       },
       "artists": [
         {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
         }
       ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+      "duration_ms": 433646,
+      "name": "Glory Chants",
+      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
     },
     {
       "added_at": "2023-06-30 06:20:46",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
+        "name": "Final Say (Live)",
+        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 408235,
+      "name": "Amenuveve (Grace) - Live",
+      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
+    },
+    {
+      "added_at": "2023-06-30 06:20:46",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
       },
@@ -847,34 +863,18 @@
     {
       "added_at": "2023-06-30 06:20:46",
       "album": {
-        "name": "Prayer for deliverance",
-        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
+        "name": "My Alabaster",
+        "url": "https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl"
       },
       "artists": [
         {
-          "name": "Broda Harrison",
-          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
+          "name": "DenniS",
+          "url": "https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ"
         }
       ],
-      "duration_ms": 94111,
-      "name": "Prayer for deliverance",
-      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
-    },
-    {
-      "added_at": "2023-06-30 06:20:46",
-      "album": {
-        "name": "Final Say (Live)",
-        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 408235,
-      "name": "Amenuveve (Grace) - Live",
-      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
+      "duration_ms": 514302,
+      "name": "My Alabaster",
+      "url": "https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y"
     }
   ],
   "unique_name": "Aseda",

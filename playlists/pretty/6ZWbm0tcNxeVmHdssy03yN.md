@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,579 likes - 92 songs - 4 hr 46 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,587 likes - 92 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [UK Guys](https://open.spotify.com/track/7E1Bm26mTabpKLXwo7zPk7) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [UK Guys](https://open.spotify.com/album/5cEZuddvoNDGjv3OcWMETV) | 3:26 |
-| 2 | [How I Do It](https://open.spotify.com/track/3qjKXohEXdZJHcmfTQff6e) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [How I Do It](https://open.spotify.com/album/4pi4Dve5HaOZivF8ZkHVsy) | 3:15 |
+| 1 | [UK Guys \(feat\. Russ Millions\)](https://open.spotify.com/track/7E1Bm26mTabpKLXwo7zPk7) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [UK Guys \(feat\. Russ Millions\)](https://open.spotify.com/album/5cEZuddvoNDGjv3OcWMETV) | 3:26 |
+| 2 | [How I Do It \(feat\. D\-Block Europe\)](https://open.spotify.com/track/3qjKXohEXdZJHcmfTQff6e) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [How I Do It \(feat\. D\-Block Europe\)](https://open.spotify.com/album/4pi4Dve5HaOZivF8ZkHVsy) | 3:15 |
 | 3 | [Let Me](https://open.spotify.com/track/56fLFZWpYO0EqSZmiVhW94) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Let Me](https://open.spotify.com/album/1vTZS5DZT4jslmHu5hWic2) | 3:04 |
 | 4 | [La Pinga](https://open.spotify.com/track/4mvanhAKpuoAnOu6has3uu) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [La Pinga](https://open.spotify.com/album/6SJ0S33d8shQBAHf3wHQyw) | 2:16 |
 | 5 | [ORALE WEY](https://open.spotify.com/track/54Tc7Jjg4jlBGZey2RA1rE) | [Dj Ballesteros](https://open.spotify.com/artist/0WZUXURYEjlsknOYcpWmyd), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Migueltom](https://open.spotify.com/artist/3DF9AdPGgujc9E4mjT4UDa) | [ORALE WEY](https://open.spotify.com/album/4daANSWbVUSuq8CueZzKNa) | 3:09 |

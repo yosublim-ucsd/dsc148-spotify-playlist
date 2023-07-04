@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 218701,
       "name": "I Feel Like Dancing",
       "url": "https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP"
@@ -1750,6 +1750,28 @@
       "duration_ms": 167319,
       "name": "if i don't have your love",
       "url": "https://open.spotify.com/track/1CxImGOa5w53prpeB3F7uA"
+    },
+    {
+      "album": {
+        "name": "If We Ever Broke Up (feat. Zack Tabudlo) [Remix]",
+        "url": "https://open.spotify.com/album/6PMJzBTQ6vKeKxtco1FqKU"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        },
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up (feat. Zack Tabudlo) - Remix",
+      "url": "https://open.spotify.com/track/4eGD9nC7r8npeJMJclBbKc"
     },
     {
       "album": {
@@ -3143,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "see-thru",
+        "url": "https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp"
+      },
+      "artists": [
+        {
+          "name": "Pseudo",
+          "url": "https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "see-thru",
+      "url": "https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4"
+    },
+    {
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -3332,7 +3372,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 164282,
       "name": "Softest Touch",
       "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"

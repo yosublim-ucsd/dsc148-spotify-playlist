@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos urbanos de RD, pa' lo t\u00edgueres de alta gama. En portada: Rochy RD",
-  "num_followers": 214045,
+  "num_followers": 214146,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjVlZmZiMzJhOWI1NDFmMzZhMmIyZTUwNGRiYmYzMWNlY2YxYTUz",
+  "snapshot_id": "MCxjZGU2N2JhMzZmZmM1N2MzYmY2NjcwN2I2ZjM5YjIwMmY4MDA5MmIx",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1459,7 +1459,7 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Acuetate",
+        "name": "Acuetate (feat. Tivi Gunz, Haraca Kiko, Capitan Aloo, El Fother & Kiko el Crazy)",
         "url": "https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426"
       },
       "artists": [
@@ -1476,6 +1476,14 @@
           "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
         },
         {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
           "name": "Capitan Aloo",
           "url": "https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k"
         },
@@ -1484,20 +1492,12 @@
           "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
         },
         {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        },
-        {
           "name": "Kiko el Crazy",
           "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         }
       ],
       "duration_ms": 248000,
-      "name": "Acuetate",
+      "name": "Acuetate (feat. Tivi Gunz, Haraca Kiko, Capitan Aloo, El Fother & Kiko el Crazy)",
       "url": "https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb"
     },
     {

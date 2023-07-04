@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 893558,
+  "num_followers": 894297,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWI0ZjM1ZDc2MGIzZWIzM2IwNmYwNTNmNTA2MmEyYzVjYzhmYWY5",
+  "snapshot_id": "MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh",
   "tracks": [
     {
       "added_at": "2023-06-01 19:04:27",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "go - Lower & Slower",
-      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
         "name": "Angel Baby (Slowed)",
         "url": "https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 262623,
       "name": "Angel Baby - Slowed",
       "url": "https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "go - Lower & Slower",
+      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
+        "name": "Happier (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Happier - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 138646,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
-        "name": "Happier (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Happier - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
+      },
+      "artists": [
+        {
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
         "name": "Wrap Me In Plastic",
         "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
       },
@@ -955,22 +975,6 @@
       "duration_ms": 167369,
       "name": "dirty laundry - slowed",
       "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
-        "name": "Desolation (Slowed)",
-        "url": "https://open.spotify.com/album/2G6duQAkO8EpK1BvnvpqQD"
-      },
-      "artists": [
-        {
-          "name": "CREEPYMANE",
-          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
-        }
-      ],
-      "duration_ms": 120009,
-      "name": "Desolation - Slowed",
-      "url": "https://open.spotify.com/track/1AjVuojxTZXTdea148KbHJ"
     }
   ],
   "unique_name": "slowed and reverbed",

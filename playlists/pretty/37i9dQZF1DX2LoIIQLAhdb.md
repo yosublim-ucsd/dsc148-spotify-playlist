@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,532 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,620 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [M'en Aller](https://open.spotify.com/track/298V78s5qaoPu1xC4go6QV) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [M'en Aller](https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh) | 2:34 |
 | 40 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 |
 
-Snapshot ID: `MCw4OWM1MzFjNGZmZDJjZWQ1ZjU0ZDFhZmI1ZmE1MWI2NzMwMzhkMmJh`
+Snapshot ID: `MCw5YjExMWFhOWRmMDQ5MzRhNTkxMTAyYTcwYmU3MjBmNzczMTQ0OGMw`

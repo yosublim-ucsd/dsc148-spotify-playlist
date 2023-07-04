@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,682 likes - 536 songs - 20 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,861 likes - 536 songs - 20 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -545,4 +545,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 535 | [Red Flowers](https://open.spotify.com/track/0VxqtLxLyvQq2KjTq5Zddm) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Tavolo Fantastico](https://open.spotify.com/album/2FdG8vYQLA0CnxKpiiEZQ8) | 1:58 |
 | 536 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 |
 
-Snapshot ID: `MCw4NDUxMWE1NjMwY2E5YTE1YzhjMTVkZGY2NzMyMzBhOGVkNjc1ZDRh`
+Snapshot ID: `MCwzYjBjNjRhODhlYmQ2YjUxM2Q3Y2ZhM2VmMGQ5ZDk4ZWQ0MjQ3OWFi`

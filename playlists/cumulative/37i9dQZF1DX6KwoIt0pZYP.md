@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-607 songs - 1 day 9 hr 21 min
+608 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [COLD LOVE](https://open.spotify.com/track/4lyJXFhjQ6D0XMMAddhzZP) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [COLD LOVE](https://open.spotify.com/album/3aOrMwQ4CXnSROnZlIZqbB) | 3:35 | 2022-01-28 | 2022-04-19 |
 | [cold these days](https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [michigan/missinghim](https://open.spotify.com/album/3CUpup4zXABeyEfMZNDfA8) | 2:39 | 2022-01-28 | 2022-07-26 |
 | [Collide](https://open.spotify.com/track/0OopWuQ3JrNrin9q7te8Rv) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Collide](https://open.spotify.com/album/06yG0Rnee21gWAfNtP0PjZ) | 2:40 | 2022-01-28 | 2022-07-24 |
+| [Come My Way](https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Come My Way](https://open.spotify.com/album/5vjaJfEugqmEFxItbDYiZS) | 2:57 | 2023-07-03 |  |
 | [Come Over](https://open.spotify.com/track/2r3ucwEGZDSmAnkn6NKopr) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Come Over](https://open.spotify.com/album/3FXybInWSDFkMiHf2RxgcR) | 3:06 | 2023-06-08 | 2023-06-16 |
 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 | 2022-01-28 | 2023-03-25 |
 | [Comme des Garçons](https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Maison](https://open.spotify.com/album/7hUJWPUKJHdYF59nRjeEEy) | 4:58 | 2022-01-28 | 2022-10-15 |
@@ -376,7 +377,7 @@
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-10 |
 | [Nobody Knows](https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Christopher Chu](https://open.spotify.com/artist/1Qy8AVuvIVgC27FXE8Nvhl) | [Nobody Knows](https://open.spotify.com/album/6Y7fCc18cmVYNCs4wHpPpc) | 3:21 | 2022-01-28 | 2022-10-15 |
 | [None Of My Business](https://open.spotify.com/track/0FErJR0yZYjnGqgbWUTxWh) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [None Of My Business](https://open.spotify.com/album/47nlIqeRk8eWpGq31y6yX1) | 2:18 | 2023-06-08 | 2023-06-16 |
-| [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-28 |  |
+| [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-28 | 2023-07-04 |
 | [Not For Me](https://open.spotify.com/track/6Q7gbt3fBClwFmyYaKubzy) | [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Not For Me](https://open.spotify.com/album/7sArAacrchjAciDMJ1cEkR) | 3:16 | 2022-01-28 | 2022-04-21 |
 | [not for us](https://open.spotify.com/track/1zdk2tQyjIEUcTD6mknPvP) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [not for us](https://open.spotify.com/album/4m6XD3OXhqtrwms9XUAr6r) | 4:19 | 2022-03-29 | 2022-04-20 |
 | [Not Ready](https://open.spotify.com/track/3KoT2C0iwMIy08MPzIWGx1) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Not Ready](https://open.spotify.com/album/6LSLJPHxMeSEm69w90ojGd) | 3:23 | 2022-09-26 | 2022-10-15 |

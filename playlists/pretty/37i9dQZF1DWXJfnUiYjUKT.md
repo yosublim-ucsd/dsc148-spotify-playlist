@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,053 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,223 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Kamikaze](https://open.spotify.com/track/1qMPDuh8E1E0fhFVOiCNSv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd) | [Kamikaze](https://open.spotify.com/album/53wCzAlDpewIIBv071K7xL) | 3:00 |
 | 100 | [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 |
 
-Snapshot ID: `MCw5NGQ5ZTRlY2VmN2ZlM2IzZTc0MTIyMTg2NzQyN2NjZDk2MDc1YWIz`
+Snapshot ID: `MCw1NWUyMmI0MGRiY2Q3YTFkNDQwMjc0MzVjMzgyNzg2OWZmNzdlYzI1`

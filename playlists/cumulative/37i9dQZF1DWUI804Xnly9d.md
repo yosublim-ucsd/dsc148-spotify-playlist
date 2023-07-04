@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-117 songs - 6 hr 35 min
+118 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bolo Na](https://open.spotify.com/track/3lX88j758RWOL5B7uAM3tR) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Bolo Na](https://open.spotify.com/album/58XBnOka4Z1C8NEyvbAd38) | 3:10 | 2023-06-05 | 2023-07-01 |
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 |  |
-| [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 |  |
+| [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 | 2023-07-04 |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 |  |
 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 | 2023-05-17 |  |
 | [Dheemi](https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Dheemi](https://open.spotify.com/album/39Br7xTBLeUQaZ8JPg2J9S) | 3:55 | 2023-05-17 | 2023-06-01 |
@@ -99,6 +99,7 @@
 | [Raaz](https://open.spotify.com/track/5ogvk1sG1Qg08j2DYDiyp9) | [Yash Joshi](https://open.spotify.com/artist/6hP4cbviLwKKjoIe01qGNu), [Amogh Agarwal](https://open.spotify.com/artist/2MaX9AAWNy1TdrQQXOyqqY) | [Raaz](https://open.spotify.com/album/0yCdEgqwvcCQrhpPr7lVsT) | 3:49 | 2023-05-17 | 2023-05-24 |
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 |  |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |
+| [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 |  |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 |  |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 |  |

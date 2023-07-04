@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,934 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,954 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 |
 | 50 | [Just For Me](https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Lay It Down](https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK) | 3:58 |
 
-Snapshot ID: `MCw2YTIzYzZjZWY1MWMyOWI4M2EwODE5NzJhYzEyZmYzOTA5YmYzODRk`
+Snapshot ID: `MCxkZmZiMDM5MzViZmNiZjY0NjM2MTMwZWY3NjUyZjk2OWEwNWZkYjEw`

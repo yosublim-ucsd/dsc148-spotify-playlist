@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,789 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,958 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 35 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 36 | [Give Me Your Love](https://open.spotify.com/track/6zd0fq9l8LAewtVeeXFxd5) | [Sylvia Striplin](https://open.spotify.com/artist/7FwBTyY30JFZ0kLsbh29yQ) | [Give Me Your Love](https://open.spotify.com/album/4BvObKMQpMh6BTQ2YMXnew) | 6:20 |
 | 37 | [Hyper Space](https://open.spotify.com/track/6gkcCRjsQ99Pv9Q6Uup7HG) | [Sweat Band](https://open.spotify.com/artist/2SwF6OJKP8ARpeMfc81JXt) | [Sweat Band \(Expanded Edition\)](https://open.spotify.com/album/0FUSlfZQFmHMw5Q6qBRTCE) | 4:39 |
-| 38 | [Take Your Time](https://open.spotify.com/track/3E3GNsyyc81SHubfiA2ndz) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Genre Funk](https://open.spotify.com/album/1AJ455jytvwXvvFh6O3zBC) | 7:45 |
+| 38 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/7zYuVTJ5mE2kHm6mD1pjDD) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [1980 Best of by uDiscover](https://open.spotify.com/album/3GmxilfNvqzcxsQHiEFJHG) | 7:40 |
 | 39 | [Feel My Love](https://open.spotify.com/track/7w7D6vVWMiOSU36R6ynlki) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 4:30 |
 | 40 | [Another Part of Me \- 2012 Remaster](https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:54 |
 | 41 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
 
-Snapshot ID: `MCw5Y2YzNDAwNDQ0ZWFkOWE2MDFkODFmMGQ4ZjQ3MTE5N2Q3MjNmNDY3`
+Snapshot ID: `MCw5YjYyM2FmYmEyZjNjYjA0NzFmZjU4OWUyZGYxNGE4OWVhNDc1NGEz`

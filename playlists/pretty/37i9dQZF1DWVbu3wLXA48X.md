@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: lost spaces
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,076 likes - 85 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,081 likes - 85 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Macaroon](https://open.spotify.com/track/4htHe9CbVRTYlzjdM09rE7) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 3:07 |
 | 85 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 
-Snapshot ID: `MCw0MTg4OWIxODNiNTJlOGZiMGE1NTY3OTU3NTAxMDI4ZDA1OWI4YjBh`
+Snapshot ID: `MCxmNDA4MjA4N2Y4NzFkZGUwODM1Mzc3MzBhMzM4NmI0OTFmYzdhMmVl`

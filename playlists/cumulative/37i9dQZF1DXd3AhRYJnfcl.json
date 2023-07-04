@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 254617,
       "name": "Akher Esdar",
       "url": "https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD"
@@ -3626,6 +3626,24 @@
       "duration_ms": 136000,
       "name": "\u0645\u062a\u063a\u0627\u0638\u064a\u0646",
       "url": "https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+        "url": "https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+      "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"
     },
     {
       "album": {

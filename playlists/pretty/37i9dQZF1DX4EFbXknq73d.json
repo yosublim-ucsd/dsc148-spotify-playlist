@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 33110,
+  "num_followers": 33213,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx",
+  "snapshot_id": "MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Blues for Allah (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 274942,
-      "name": "Franklin's Tower - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Hoist",
         "url": "https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 281000,
       "name": "Sample in a Jar",
       "url": "https://open.spotify.com/track/6MCUdqOifrEomDtrgZlJ8O"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Blues for Allah (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 274942,
+      "name": "Franklin's Tower - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dither",
-        "url": "https://open.spotify.com/album/39ECCmwxjPPp26lKTr7a80"
-      },
-      "artists": [
-        {
-          "name": "moe.",
-          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "In A Big Country",
-      "url": "https://open.spotify.com/track/11WtZDdbNlLxLyMo9xozCb"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Fire Up +",
         "url": "https://open.spotify.com/album/2b85gbWiMbAg3cvSUTMIBp"
       },
@@ -235,18 +219,34 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Wake of the Flood (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+        "name": "Dither",
+        "url": "https://open.spotify.com/album/39ECCmwxjPPp26lKTr7a80"
       },
       "artists": [
         {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
         }
       ],
-      "duration_ms": 320502,
-      "name": "Eyes of the World - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
+      "duration_ms": 216360,
+      "name": "In A Big Country",
+      "url": "https://open.spotify.com/track/11WtZDdbNlLxLyMo9xozCb"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -263,6 +263,22 @@
       "duration_ms": 255933,
       "name": "Cayman Review",
       "url": "https://open.spotify.com/track/2XXGM19E3Zp32Tkr0S4vEA"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 320502,
+      "name": "Eyes of the World - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -299,18 +315,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Free Somehow",
-        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
+        "name": "tin cans & car tires",
+        "url": "https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7"
       },
       "artists": [
         {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
+      "duration_ms": 229666,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -347,18 +363,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "tin cans & car tires",
-        "url": "https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7"
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
       },
       "artists": [
         {
-          "name": "moe.",
-          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Nebraska",
-      "url": "https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4"
+      "duration_ms": 277866,
+      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -391,22 +407,6 @@
       "duration_ms": 556746,
       "name": "Three Weeks",
       "url": "https://open.spotify.com/track/1h0z8J8SDzIrc5pSnTxLEv"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
-      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live From The Fox Oakland",
-        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 650746,
-      "name": "Keep On Growing - Live",
-      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Interludes For The Dead (feat. Neal Casal)",
         "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
@@ -547,22 +531,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "After Midnight: Kean College, 2/28/80",
-        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
       },
       "artists": [
         {
-          "name": "Jerry Garcia Band",
-          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
         }
       ],
-      "duration_ms": 200186,
-      "name": "Eleanor Rigby - Live",
-      "url": "https://open.spotify.com/track/24HAdFPR0bkgoyGrRWToF4"
+      "duration_ms": 223066,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -583,18 +563,38 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
       },
       "artists": [
         {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Greatest Story Ever Told",
-      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "After Midnight: Kean College, 2/28/80",
+        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Eleanor Rigby - Live",
+      "url": "https://open.spotify.com/track/24HAdFPR0bkgoyGrRWToF4"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 571894,
+      "name": "Arcadia (7.27.19)",
+      "url": "https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Trouble No More: 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 281960,
       "name": "Regarding Steven",
       "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Alive and Well",
-        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 571894,
-      "name": "Arcadia (7.27.19)",
-      "url": "https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Sacred Fire: Santana Live In South America",
-        "url": "https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 446800,
-      "name": "Soul Sacrifice/ Don't Try This At Home",
-      "url": "https://open.spotify.com/track/0Jbx2TXRJ3P5cTE6MsPUFS"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live Trax Vol. 28: John Paul Jones Arena",
         "url": "https://open.spotify.com/album/3vmwJoGCdbSWwnwBp2SMEQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 388586,
       "name": "Grey Street - Live at John Paul Jones Arena, Charlottesville, VA, 11.19.10",
       "url": "https://open.spotify.com/track/0B5JeH08VM4bgik0WJwP9Z"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Sacred Fire: Santana Live In South America",
+        "url": "https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 446800,
+      "name": "Soul Sacrifice/ Don't Try This At Home",
+      "url": "https://open.spotify.com/track/0Jbx2TXRJ3P5cTE6MsPUFS"
     },
     {
       "added_at": "2023-04-06 15:04:32",

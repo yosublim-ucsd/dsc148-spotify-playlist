@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, anni 70 e anni 80!",
-  "num_followers": 15335,
+  "num_followers": 15407,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
+  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Made In Italy",
+        "url": "https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "duration_ms": 208614,
+      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
+      "url": "https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Made In Italy",
-        "url": "https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu"
-      },
-      "artists": [
-        {
-          "name": "Renato Carosone",
-          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
-        }
-      ],
-      "duration_ms": 208614,
-      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
-      "url": "https://open.spotify.com/track/79LnSU3iFdQTVnmK8BX50Y"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Le pi\u00f9 belle canzoni di Milva",
         "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     }
   ],
   "unique_name": "Sapore di Sale",

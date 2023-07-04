@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 215646,
+  "num_followers": 215793,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTdlZDdmZTMyZjg1NDNiNzRjYWZkYWVlYzEwYTY4MGZlYTBkYzU5",
+  "snapshot_id": "MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
-        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Haven't Seen It Yet - Acoustic",
-      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "It's a Wonderful Life",
         "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 249321,
       "name": "It's a Wonderful Life",
       "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
+        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Haven't Seen It Yet - Acoustic",
+      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Soul",
         "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 227813,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -435,26 +435,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "There Is More (Live)",
-        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Reuben Morgan",
-          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
-        }
-      ],
-      "duration_ms": 191920,
-      "name": "Who You Say I Am - Live/Acoustic",
-      "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+        }
+      ],
+      "duration_ms": 191920,
+      "name": "Who You Say I Am - Live/Acoustic",
+      "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "In Every Way",
-        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "In Every Way",
-      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Heavenly Father",
-        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
-      },
-      "artists": [
-        {
-          "name": "York Worship",
-          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
-        }
-      ],
-      "duration_ms": 374117,
-      "name": "Heavenly Father",
-      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Wide Place",
         "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 262889,
       "name": "Wide Place",
       "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+      },
+      "artists": [
+        {
+          "name": "York Worship",
+          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+        }
+      ],
+      "duration_ms": 374117,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -963,22 +963,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "YOUR NAME IS POWER (Acoustic)",
         "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Soul's on Fire",
         "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 209545,
       "name": "Soul's on Fire",
       "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
-        "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
-      },
-      "artists": [
-        {
-          "name": "Greg LaFollette",
-          "url": "https://open.spotify.com/artist/0v3ZpML2fBNsLBV4b58QMb"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "Thomas Merton",
-          "url": "https://open.spotify.com/artist/5cbZWpDFL5y0BX6FAYy8LJ"
-        }
-      ],
-      "duration_ms": 300746,
-      "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
-      "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1059,18 +1035,26 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+        "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
+        "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Greg LaFollette",
+          "url": "https://open.spotify.com/artist/0v3ZpML2fBNsLBV4b58QMb"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "Thomas Merton",
+          "url": "https://open.spotify.com/artist/5cbZWpDFL5y0BX6FAYy8LJ"
         }
       ],
-      "duration_ms": 188563,
-      "name": "Broken Things - Acoustic",
-      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
+      "duration_ms": 300746,
+      "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
+      "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1087,6 +1071,22 @@
       "duration_ms": 254666,
       "name": "If It Wasn\u2019t for the Cross",
       "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 188563,
+      "name": "Broken Things - Acoustic",
+      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Magnified (Acoustic)",
-        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Magnified (Acoustic)",
-      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 216436,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Magnified (Acoustic)",
+        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Magnified (Acoustic)",
+      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
+        "name": "The Word Remains",
+        "url": "https://open.spotify.com/album/0sZsZtYQfj2PNZ9THp2fFo"
       },
       "artists": [
         {
-          "name": "Michael Hughes Watson",
-          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
+          "name": "Woodside Worship",
+          "url": "https://open.spotify.com/artist/51TNr4se0ZZqdT55ydHiRX"
         }
       ],
-      "duration_ms": 289411,
-      "name": "Hanging onto Every Word That You Say",
-      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
+      "duration_ms": 289315,
+      "name": "The Word Remains",
+      "url": "https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR"
     }
   ],
   "unique_name": "Love Coffee, Love Jesus",

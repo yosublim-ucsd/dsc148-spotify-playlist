@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Los Aptos x Cuco.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Sebasti\u00e1n Cort\u00e9s.",
   "name": "borderless",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 190161,
       "name": "4.20 <3",
       "url": "https://open.spotify.com/track/5ODS0Rchzp5heME6vetD7j"
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "bittersweet heartbreak",
+        "url": "https://open.spotify.com/album/5eRQ8VlWhrsAKr8JD1M6a7"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215190,
+      "name": "bittersweet heartbreak",
+      "url": "https://open.spotify.com/track/3fJFhSjiMFsTe73m7KINJo"
+    },
+    {
+      "album": {
         "name": "blood pareil",
         "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
       },
@@ -1704,6 +1722,24 @@
       "duration_ms": 201882,
       "name": "Change",
       "url": "https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI"
+    },
+    {
+      "album": {
+        "name": "Change and Vanish",
+        "url": "https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228401,
+      "name": "Change and Vanish",
+      "url": "https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg"
     },
     {
       "album": {
@@ -3150,7 +3186,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 190431,
       "name": "d\u00e9sert alimentaire",
       "url": "https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse"
@@ -3924,6 +3960,24 @@
       "duration_ms": 234700,
       "name": "Feelin' Blue",
       "url": "https://open.spotify.com/track/1znjrRlUdy0gX9QHaKxl4s"
+    },
+    {
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217650,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE"
     },
     {
       "album": {
@@ -4775,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "happy (?)",
+        "url": "https://open.spotify.com/album/4fLFc0f9qSXCGo7AP49NZf"
+      },
+      "artists": [
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230496,
+      "name": "happy (?)",
+      "url": "https://open.spotify.com/track/4YTle9Uf905PKVUD8brtWW"
+    },
+    {
+      "album": {
         "name": "Better Off Without",
         "url": "https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3"
       },
@@ -4840,7 +4912,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 227442,
       "name": "Healing House",
       "url": "https://open.spotify.com/track/2stvHSku5bcgxrVuN50oYX"
@@ -6468,7 +6540,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
@@ -7173,6 +7245,24 @@
     },
     {
       "album": {
+        "name": "Meninas",
+        "url": "https://open.spotify.com/album/5DyuxeT1qw2IcI0BDXGkbm"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Meninas",
+      "url": "https://open.spotify.com/track/3hR4c1LJiqwdyKIiT4V8JL"
+    },
+    {
+      "album": {
         "name": "Merry Midnight",
         "url": "https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK"
       },
@@ -7392,7 +7482,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 179631,
       "name": "MOCHILA",
       "url": "https://open.spotify.com/track/3gVj2X3AlTpWEZTrxHRh7N"
@@ -7590,7 +7680,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 197472,
       "name": "Mr. Daydream",
       "url": "https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8"
@@ -8151,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "Residencia Azul",
+        "url": "https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL"
+      },
+      "artists": [
+        {
+          "name": "Da Pawn",
+          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280031,
+      "name": "Nudos",
+      "url": "https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM"
+    },
+    {
+      "album": {
         "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg"
       },
@@ -8372,7 +8480,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 205958,
       "name": "on s'en fou",
       "url": "https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV"
@@ -8492,7 +8600,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 162000,
       "name": "Otra Madrugada",
       "url": "https://open.spotify.com/track/2JG0iWBiXNbiYRNGvsTedP"
@@ -9037,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "Pinstripe",
+        "url": "https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2"
+      },
+      "artists": [
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202564,
+      "name": "Pinstripe",
+      "url": "https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS"
+    },
+    {
+      "album": {
         "name": "Marci",
         "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
       },
@@ -9449,6 +9575,24 @@
     },
     {
       "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
+    },
+    {
+      "album": {
         "name": "Questo Momento",
         "url": "https://open.spotify.com/album/5gx7JQtUyC9EXNWvMKJTQC"
       },
@@ -9464,6 +9608,28 @@
       "duration_ms": 185539,
       "name": "Questo Momento",
       "url": "https://open.spotify.com/track/3IspJb3gWk032r0JHIZwLI"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 tal? Yo igual",
+        "url": "https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185421,
+      "name": "Qu\u00e9 tal? Yo igual",
+      "url": "https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3"
     },
     {
       "album": {
@@ -9814,6 +9980,24 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "album": {
+        "name": "Robot Mayordomo",
+        "url": "https://open.spotify.com/album/2YuQcrnbw6TC2inBfN0KUl"
+      },
+      "artists": [
+        {
+          "name": "Joan Miquel Oliver",
+          "url": "https://open.spotify.com/artist/6zXhOyC07G4spYTHFLm7oo"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "Robot mayordomo",
+      "url": "https://open.spotify.com/track/5OwLMBAXYguwH9BjsGFqN1"
     },
     {
       "album": {
@@ -10736,7 +10920,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 262856,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP"
@@ -11115,6 +11299,24 @@
     },
     {
       "album": {
+        "name": "Fresh As A Head Of Lettuce",
+        "url": "https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221356,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/16LiikrNSmBq35Fp7s9PjJ"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL"
       },
@@ -11260,7 +11462,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 193332,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/3W9aku7UEJPrVDzVQAG7yf"
@@ -11554,7 +11756,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 137932,
       "name": "the biggest nobody",
       "url": "https://open.spotify.com/track/4QsMs9jnlfwEcAuKmgkRGU"
@@ -11772,6 +11974,24 @@
       "duration_ms": 278749,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg"
+    },
+    {
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "album": {

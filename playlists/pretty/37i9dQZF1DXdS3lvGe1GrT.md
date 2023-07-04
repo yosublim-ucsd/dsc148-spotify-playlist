@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Lutalo \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,027 likes - 101 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,043 likes - 101 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Way That We Love](https://open.spotify.com/track/2tWN4BIy9uobcvJSgZBwnp) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Delicate Cycle](https://open.spotify.com/album/7Bjd9U0fgTSaGnrE3RVFbd) | 3:17 |
 | 101 | [Superman](https://open.spotify.com/track/1yn5la6jJycj0gDFlDD2wx) | [Deathcruiser](https://open.spotify.com/artist/2TsHAB2qyWpuSKBYhpRxu3) | [Superman](https://open.spotify.com/album/13uwADBU6y8sZN7JDjB24y) | 3:07 |
 
-Snapshot ID: `MCw0NGM3YTgxOTA1MzFhNjFkZmIzNGM3OGNjYTdhMDg4ZDIxNDBhNDQx`
+Snapshot ID: `MCxlODM3YTYwZWYxNmQ1YWZhNzQzOGJlMzQ1YzEyMjdlZDcwNTUzMTM3`

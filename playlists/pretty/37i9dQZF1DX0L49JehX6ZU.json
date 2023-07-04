@@ -1,12 +1,12 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 119246,
+  "num_followers": 119313,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTUyN2ZiOGRhZWMzZGIyM2QwNTg1ZjkyZjdmOTkwZmE2ODBhZGVk",
+  "snapshot_id": "MCwyN2FhMmJiODk4ZjdhOWVmMzhiOGZkMmIxODUxY2RmMjRhMWZhMWNl",
   "tracks": [
     {
       "added_at": "2023-06-30 05:40:17",
@@ -283,22 +283,18 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Khwab",
-        "url": "https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7"
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
       },
       "artists": [
         {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        },
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
         }
       ],
-      "duration_ms": 158910,
-      "name": "Khwab",
-      "url": "https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv"
+      "duration_ms": 178421,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Khwaab",
-        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
+        "name": "Khwab",
+        "url": "https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7"
       },
       "artists": [
         {
-          "name": "Anumita Nadesan",
-          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
         }
       ],
-      "duration_ms": 178421,
-      "name": "Khwaab",
-      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
+      "duration_ms": 158910,
+      "name": "Khwab",
+      "url": "https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Khoya",
-        "url": "https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA"
-      },
-      "artists": [
-        {
-          "name": "Zariya",
-          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
-        },
-        {
-          "name": "Aseem",
-          "url": "https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1"
-        }
-      ],
-      "duration_ms": 178197,
-      "name": "Khoya",
-      "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
         "name": "Dil Beparvah (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 250000,
       "name": "Dil Beparvah - The Dewarists, Season 5",
       "url": "https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Khoya",
+        "url": "https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA"
+      },
+      "artists": [
+        {
+          "name": "Zariya",
+          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
+        },
+        {
+          "name": "Aseem",
+          "url": "https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1"
+        }
+      ],
+      "duration_ms": 178197,
+      "name": "Khoya",
+      "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw"
-      },
-      "artists": [
-        {
-          "name": "Shamoon Ismail",
-          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
-        }
-      ],
-      "duration_ms": 183942,
-      "name": "Rung",
-      "url": "https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
         "name": "Bombay Dreams",
         "url": "https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 208000,
       "name": "Shaayad",
       "url": "https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        }
+      ],
+      "duration_ms": 183942,
+      "name": "Rung",
+      "url": "https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM"
     },
     {
       "added_at": "2023-06-30 05:40:17",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-06-30 05:40:17",
       "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Aao Chalein",
+      "url": "https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar"
+    },
+    {
+      "added_at": "2023-06-30 05:40:17",
+      "album": {
         "name": "Genesis 1:1",
         "url": "https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f"
       },
@@ -887,26 +903,6 @@
       "duration_ms": 152523,
       "name": "intezaar",
       "url": "https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh"
-    },
-    {
-      "added_at": "2023-06-30 05:40:17",
-      "album": {
-        "name": "Dev",
-        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        },
-        {
-          "name": "Karan Kanchan",
-          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Khamoshi",
-      "url": "https://open.spotify.com/track/7I1nwZimETiRW83xZv023W"
     }
   ],
   "unique_name": "Indie Shower Tunes",

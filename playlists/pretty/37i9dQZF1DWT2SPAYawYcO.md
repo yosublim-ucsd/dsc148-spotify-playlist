@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,181 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,193 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [The Place to Start](https://open.spotify.com/track/4I88en1kLWPxnsuzUU08nE) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Joshua Keogh](https://open.spotify.com/artist/0S2io7UGVUCQq31bs623Ip) | [The Place to Start](https://open.spotify.com/album/4BsZ4xtTtxD8LtI9qKuYG1) | 3:40 |
 | 78 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 |
 | 79 | [WHANTS](https://open.spotify.com/track/6llOcEpxJIyiPBD0ymZVgN) | [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [Burn SZN II: Higher Learrning](https://open.spotify.com/album/6XN9d358SzEVdnjuuWRpo5) | 2:19 |
-| 80 | [Tuned In](https://open.spotify.com/track/0xM9w2EI5meB4T0tHYJIOD) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/1FxIIPrjELjY7jrrLPGmMv) | 3:23 |
+| 80 | [Tuned In](https://open.spotify.com/track/6o8gvOohMxEhiUD8FPbvdt) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Tuned In](https://open.spotify.com/album/7IvscbpWjhklzgKySKueZy) | 3:13 |
 | 81 | [Do You Want Me](https://open.spotify.com/track/47ZuuTb6dmzEMvj8hurPLI) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Do You Want Me](https://open.spotify.com/album/0fnGrV3TnZwxnfa3mgyiZo) | 3:41 |
 | 82 | [2019](https://open.spotify.com/track/5gQlHUydL3EVsM4cjDck2A) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [2019](https://open.spotify.com/album/7CAn7LZRhCrJJ5GtIE7SBP) | 1:56 |
 | 83 | [Dragonfly](https://open.spotify.com/track/3zuBPTpwfkuZtLDpNgrtY5) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Earth Radio](https://open.spotify.com/album/5YUeuJItsQgx55RCw7QUyn) | 3:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 89 | [Lovin'](https://open.spotify.com/track/0Dj3AbuVklKH5ls23aLpvM) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Lovin'](https://open.spotify.com/album/3d1DVhGpmRRodPVziWJV1r) | 2:08 |
 | 90 | [Nowhere](https://open.spotify.com/track/1VZwQ8OfNR8oQ50CflAveV) | [CANISHA](https://open.spotify.com/artist/1gQ6RBQFW1RmEMDN2XQQt9) | [Nowhere](https://open.spotify.com/album/2QZLZVgSb7ViWOJaRV495q) | 3:19 |
 
-Snapshot ID: `MCwzOGMxMDNlNjAzNWUzZTA4YWYxZWIwY2E0N2IwNDUzYWY3NTBiZDQ1`
+Snapshot ID: `MCxmNjAyMTYyMzgwZWYxZTYyNjk2MjNmZWE1ZTg0ZjlmMWZiOTQ2NWRi`

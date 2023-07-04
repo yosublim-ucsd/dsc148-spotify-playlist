@@ -4,7 +4,7 @@
 
 > love peace techno
 
-121 songs - 8 hr 33 min
+122 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 | 2023-03-10 | 2023-07-01 |
 | [Neo Eros](https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R) | [BXTR](https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA), [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Neo Eros](https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD) | 5:27 | 2023-05-05 | 2023-05-11 |
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-10 | 2023-05-06 |
+| [No More \- Original Mix](https://open.spotify.com/track/21xponj6jDAFNyDv0VyJcT) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 7:01 | 2023-07-03 |  |
 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 | 2023-03-10 |  |
 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 | 2023-04-27 | 2023-06-10 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-09 |  |
@@ -127,7 +128,7 @@
 | [Wholes](https://open.spotify.com/track/60t2ICAU2uCUrSHii0VSB2) | [Abstraxion](https://open.spotify.com/artist/42Rm3uPICrqZINjvxC2grb) | [Wholes](https://open.spotify.com/album/2pVFV5QWG3WSw3sf3Z8b2Z) | 5:01 | 2023-03-10 | 2023-04-02 |
 | [Wild](https://open.spotify.com/track/5Z1OpvU8xkJl3Sc2et5No6) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Wild](https://open.spotify.com/album/0T3Thh9OTgxYSx4gOe1Apn) | 5:30 | 2023-03-10 |  |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2023-03-10 |  |
-| [Yoyoyo](https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Yoyoyo](https://open.spotify.com/album/5EZ9za0ULGWOTaLEfPj6aw) | 4:35 | 2023-06-09 |  |
+| [Yoyoyo](https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Yoyoyo](https://open.spotify.com/album/5EZ9za0ULGWOTaLEfPj6aw) | 4:35 | 2023-06-09 | 2023-07-04 |
 | [♥one love♥](https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK) | [dracodraco](https://open.spotify.com/artist/3GooQnFk2ozVG59lQXIdiH), [LYFE4M](https://open.spotify.com/artist/0BShgKKWNc6kEyR5LXWnzL) | [♥one love♥](https://open.spotify.com/album/4TP5cGeoTSOWYC20fRFYtL) | 2:30 | 2023-06-09 | 2023-06-16 |
 
 \*This playlist was first scraped on 2023-03-14. Prior content cannot be recovered.

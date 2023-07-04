@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3, featuring Bizarrap & Rauw Alejandro.",
-  "num_followers": 52026,
+  "num_followers": 52067,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM3MzFjNDY5OTEyMzEzNjQwMjRiZDZmMDk3YzlkZjczNzUzNzA4",
+  "snapshot_id": "MCxhM2U4Mzk0NzBmNDdhM2ZjMzEyNzZmMDZkYzg0OWNhZDVmYzZmM2M0",
   "tracks": [
     {
       "added_at": "2023-06-30 20:27:56",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "AMARGURA",
-      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -255,6 +239,26 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -295,26 +299,6 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "AMARGURA",
+      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "X SI VOLVEMOS",
-        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "X SI VOLVEMOS",
-      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "X SI VOLVEMOS",
+        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "X SI VOLVEMOS",
+      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -567,30 +567,6 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "OJOS FERRARI",
-      "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 176293,
       "name": "Cuando Te Toca",
       "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "OJOS FERRARI",
+      "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -839,26 +839,26 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "De Revista (Remix)",
-        "url": "https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3"
+        "name": "Dembow Worldwide Hits Teteo 42",
+        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
       },
       "artists": [
         {
-          "name": "Sahir",
-          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 239921,
-      "name": "De Revista - Remix",
-      "url": "https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR"
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -883,6 +883,30 @@
       "duration_ms": 187826,
       "name": "Southwezzzt",
       "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "De Revista (Remix)",
+        "url": "https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3"
+      },
+      "artists": [
+        {
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 239921,
+      "name": "De Revista - Remix",
+      "url": "https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -923,30 +947,6 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "Dembow Worldwide Hits Teteo 42",
-        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 199304,
-      "name": "LOS POBRES Y LOS RICOS",
-      "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
         "name": "Vete Lejos",
         "url": "https://open.spotify.com/album/7dCPIJNrIpEoUA1c40gt8y"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 221176,
       "name": "Vete Lejos - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/1DUT0RmMziQGKyFmoPppb9"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
-        "name": "La Popola",
-        "url": "https://open.spotify.com/album/1EvrXhte5nqYQV84X1HLcG"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "L Kimii",
-          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
-        }
-      ],
-      "duration_ms": 179884,
-      "name": "La Popola",
-      "url": "https://open.spotify.com/track/54Jjni92Qtv6OOgdMYA7Q1"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -999,6 +979,26 @@
       "duration_ms": 126666,
       "name": "Un Cuerpazo",
       "url": "https://open.spotify.com/track/1Q5vuDabWdu2cEibvVHDsR"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "La Popola",
+        "url": "https://open.spotify.com/album/1EvrXhte5nqYQV84X1HLcG"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "L Kimii",
+          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
+        }
+      ],
+      "duration_ms": 179884,
+      "name": "La Popola",
+      "url": "https://open.spotify.com/track/54Jjni92Qtv6OOgdMYA7Q1"
     },
     {
       "added_at": "2023-06-30 20:27:56",

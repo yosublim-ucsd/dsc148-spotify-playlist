@@ -2,7 +2,7 @@
 
 ### [Kollywood Cream](https://open.spotify.com/playlist/37i9dQZF1DX0TyiNWW7uUQ)
 
-> Finest collection of Tamil Music from the past 10 years<br/>Cover : Vaarisu
+> Finest collection of Tamil Music from the past 10 years<br/>Cover : LEO
 
 129 songs - 8 hr 19 min
 

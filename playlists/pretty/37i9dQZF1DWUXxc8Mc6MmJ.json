@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 652574,
+  "num_followers": 653178,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDY2ZDI2ZDMwNGM5MTg3YTg4ZTRlOGI2NTEzYWIwNjYxYTIzYzhl",
+  "snapshot_id": "MCw3MWQ1OTA1NGIxYzZiMTk2ZjdiMDBmZmQyNjA5MjM0NWI4NjJiZjE4",
   "tracks": [
     {
       "added_at": "2023-03-13 05:57:41",
@@ -89,7 +89,7 @@
       "artists": [
         {
           "name": "V",
-          "url": "https://open.spotify.com/artist/7GN9TRlB1i1dv6xsV4dfLp"
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
       "duration_ms": 214258,
@@ -231,30 +231,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 196549,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
         "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
       },
@@ -283,22 +259,6 @@
       "duration_ms": 205192,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -335,6 +295,46 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 196549,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -383,6 +399,22 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "\uc2dc\uc791",
+      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
       },
@@ -415,22 +447,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "Twenty-Five Twenty-One OST Part 1",
         "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 225817,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "\uc2dc\uc791",
-      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
         "name": "Doom at Your Service (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "duration_ms": 226991,
+      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
+      "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
+        "name": "While You Were Sleeping, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM"
       },
       "artists": [
         {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
         }
       ],
-      "duration_ms": 226991,
-      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
-      "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
+      "duration_ms": 264543,
+      "name": "I Love You Boy",
+      "url": "https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -783,22 +799,6 @@
       "duration_ms": 265613,
       "name": "If",
       "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
-        "name": "While You Were Sleeping, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 264543,
-      "name": "I Love You Boy",
-      "url": "https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7"
     },
     {
       "added_at": "2023-03-13 05:57:41",

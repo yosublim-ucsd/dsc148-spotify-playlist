@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=dKnzhFKjQMa6Nb5_eCwxhQ\">Nasty C</a>",
-  "num_followers": 58597,
+  "num_followers": 58710,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkyNWFmMDhhNDUxNDIwNWY3M2U4YmFmMzY5N2ViODJlNmQ5ZTgy",
+  "snapshot_id": "MCw0ZDljNjY0ODNlNmQzMjJkNjM0MDQ0ZWIzZTI5NTRjNzc1ZjY2YTVh",
   "tracks": [
     {
       "added_at": "2023-06-30 00:00:00",
@@ -201,6 +201,78 @@
       "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
     },
     {
+      "added_at": "2023-06-30 00:00:00",
+      "album": {
+        "name": "Umhlonyane",
+        "url": "https://open.spotify.com/album/6S76oei9SyLRidfBQ6pPt9"
+      },
+      "artists": [
+        {
+          "name": "WayWard Sounds",
+          "url": "https://open.spotify.com/artist/6ZciWl4s8GNlcrUmJmhXIp"
+        },
+        {
+          "name": "K-Zaka",
+          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
+        },
+        {
+          "name": "Mzulu Kakhulu",
+          "url": "https://open.spotify.com/artist/2HIPHxJYqbegJSBxZdb8Hf"
+        },
+        {
+          "name": "Rufaro Rcrds",
+          "url": "https://open.spotify.com/artist/2aYzzfKnuL4i4WIsc90lyE"
+        },
+        {
+          "name": "Simple T",
+          "url": "https://open.spotify.com/artist/0N85CSTVPVpCSl97qWL3Eg"
+        }
+      ],
+      "duration_ms": 194687,
+      "name": "Umhlonyane",
+      "url": "https://open.spotify.com/track/3rZOWkWUqRs1JETDpXXK6Q"
+    },
+    {
+      "added_at": "2023-06-30 00:00:00",
+      "album": {
+        "name": "Igazi, Iinyembezi Nombilo",
+        "url": "https://open.spotify.com/album/0OSKkWOh1BNpYGJJ0V11nl"
+      },
+      "artists": [
+        {
+          "name": "Bravo Le Roux",
+          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "duration_ms": 210308,
+      "name": "Which One?",
+      "url": "https://open.spotify.com/track/3HUyTrcgJM5NvM5JafLnpw"
+    },
+    {
+      "added_at": "2023-06-30 00:00:00",
+      "album": {
+        "name": "timing (feat. Blxckie)",
+        "url": "https://open.spotify.com/album/0KW9EhLg0zd1bKYr8cHTlm"
+      },
+      "artists": [
+        {
+          "name": "BELO SALO",
+          "url": "https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "timing (feat. Blxckie)",
+      "url": "https://open.spotify.com/track/4vg4ouYt7n6tU5MGrQn695"
+    },
+    {
       "added_at": "2023-06-23 00:00:00",
       "album": {
         "name": "Hot Property",
@@ -215,6 +287,58 @@
       "duration_ms": 222000,
       "name": "Hot Property",
       "url": "https://open.spotify.com/track/0QV4hHHHYfhmhpf6estDFk"
+    },
+    {
+      "added_at": "2023-06-30 00:00:00",
+      "album": {
+        "name": "LOVE LETTERS",
+        "url": "https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3"
+      },
+      "artists": [
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        },
+        {
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+        }
+      ],
+      "duration_ms": 178977,
+      "name": "TAKE IT SLOW",
+      "url": "https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2"
+    },
+    {
+      "added_at": "2023-06-15 21:59:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/25MStF8zJhGRecfc2ERh5p"
+      },
+      "artists": [
+        {
+          "name": "J-Smash",
+          "url": "https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/2PV0oAxSLLZfQSMooCFoo7"
     },
     {
       "added_at": "2023-06-15 21:59:00",
@@ -259,38 +383,6 @@
       "duration_ms": 134450,
       "name": "Pramis, Swuh",
       "url": "https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/25MStF8zJhGRecfc2ERh5p"
-      },
-      "artists": [
-        {
-          "name": "J-Smash",
-          "url": "https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD"
-        },
-        {
-          "name": "Thato Saul",
-          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
-        },
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Flow Jones Jr.",
-          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/2PV0oAxSLLZfQSMooCFoo7"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -363,58 +455,6 @@
       "duration_ms": 268085,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/0gnZj2ZJIdSZ87W43RapTr"
-    },
-    {
-      "added_at": "2023-06-30 00:00:00",
-      "album": {
-        "name": "Umhlonyane",
-        "url": "https://open.spotify.com/album/6S76oei9SyLRidfBQ6pPt9"
-      },
-      "artists": [
-        {
-          "name": "WayWard Sounds",
-          "url": "https://open.spotify.com/artist/6ZciWl4s8GNlcrUmJmhXIp"
-        },
-        {
-          "name": "K-Zaka",
-          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
-        },
-        {
-          "name": "Mzulu Kakhulu",
-          "url": "https://open.spotify.com/artist/2HIPHxJYqbegJSBxZdb8Hf"
-        },
-        {
-          "name": "Rufaro Rcrds",
-          "url": "https://open.spotify.com/artist/2aYzzfKnuL4i4WIsc90lyE"
-        },
-        {
-          "name": "Simple T",
-          "url": "https://open.spotify.com/artist/0N85CSTVPVpCSl97qWL3Eg"
-        }
-      ],
-      "duration_ms": 194687,
-      "name": "Umhlonyane",
-      "url": "https://open.spotify.com/track/3rZOWkWUqRs1JETDpXXK6Q"
-    },
-    {
-      "added_at": "2023-06-30 00:00:00",
-      "album": {
-        "name": "Igazi, Iinyembezi Nombilo",
-        "url": "https://open.spotify.com/album/0OSKkWOh1BNpYGJJ0V11nl"
-      },
-      "artists": [
-        {
-          "name": "Bravo Le Roux",
-          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        }
-      ],
-      "duration_ms": 210308,
-      "name": "Which One?",
-      "url": "https://open.spotify.com/track/3HUyTrcgJM5NvM5JafLnpw"
     },
     {
       "added_at": "2023-06-09 09:02:34",
@@ -621,26 +661,6 @@
       "url": "https://open.spotify.com/track/071zULQTyEyVmunaIBr38t"
     },
     {
-      "added_at": "2023-06-30 00:00:00",
-      "album": {
-        "name": "timing (feat. Blxckie)",
-        "url": "https://open.spotify.com/album/0KW9EhLg0zd1bKYr8cHTlm"
-      },
-      "artists": [
-        {
-          "name": "BELO SALO",
-          "url": "https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "timing (feat. Blxckie)",
-      "url": "https://open.spotify.com/track/4vg4ouYt7n6tU5MGrQn695"
-    },
-    {
       "added_at": "2023-06-09 09:02:34",
       "album": {
         "name": "Sta Soft",
@@ -667,26 +687,6 @@
       "duration_ms": 205423,
       "name": "Sta Soft",
       "url": "https://open.spotify.com/track/1rc0ZjnYsncDh81BHyFRQ6"
-    },
-    {
-      "added_at": "2023-06-30 00:00:00",
-      "album": {
-        "name": "LOVE LETTERS",
-        "url": "https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3"
-      },
-      "artists": [
-        {
-          "name": "Kashcpt",
-          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
-        },
-        {
-          "name": "Aida Lae",
-          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
-        }
-      ],
-      "duration_ms": 178977,
-      "name": "TAKE IT SLOW",
-      "url": "https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2"
     },
     {
       "added_at": "2023-06-30 00:00:00",

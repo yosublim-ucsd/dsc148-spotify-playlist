@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-244 songs - 1 day 2 hr 11 min
+245 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Caribbean Queen \(No More Love on the Run\) \- Extended Mix](https://open.spotify.com/track/3pfJpM4ZrTAoFVi0uSnybS) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 8:14 | 2022-06-10 |  |
 | [Change \- Extended Version](https://open.spotify.com/track/57HhVS1e5EtfQF1Y7RgM8w) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3lP0Pu6a0jUWGPM83XYPip) | 6:00 | 2021-12-22 | 2022-07-29 |
 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 | 2020-08-07 |  |
-| [Cruel Summer \- Extended Version](https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 4:55 | 2022-12-23 |  |
+| [Cruel Summer \- Extended Version](https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 4:55 | 2022-12-23 | 2023-07-04 |
 | [Dance Hall Days](https://open.spotify.com/track/7KxvOqV1fMmlV48pZ4asWI) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Everybody Wang Chung Tonight..\. Wang Chung's Greatest Hits](https://open.spotify.com/album/6kTeyTiuWlacZnUWjZdiKp) | 3:59 | 2020-08-07 | 2022-07-29 |
 | [Dance Hall Days](https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Points On The Curve](https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P) | 4:00 | 2022-06-10 |  |
 | [Dancing On The Ceiling \- 12" Version](https://open.spotify.com/track/3hCsLasVlmTBQu7QDw1isr) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 7:10 | 2021-03-22 | 2022-07-29 |
@@ -39,6 +39,7 @@
 | [Doctor! Doctor! \(12" Extended Mix\) \- Extended Version](https://open.spotify.com/track/2baOM44WjfFGKTC1PecnDS) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Dance Vault Remixes](https://open.spotify.com/album/2ixmiR5clA86tVD3pWVlyT) | 7:53 | 2020-08-07 | 2022-07-24 |
 | [Dolce Vita](https://open.spotify.com/track/2mRgBTwCtP7zdtzQWjkSN1) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/6sbpamlKLWPBUVLCOwxvjk) | 7:31 | 2020-08-07 | 2022-07-29 |
 | [Dolce Vita](https://open.spotify.com/track/6AsF1pBjFMIEMXuA8JgRag) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/58tXa8CpjYSGAJpUEhgKsb) | 7:31 | 2022-06-10 | 2023-06-26 |
+| [Dolce Vita \(Extended Version\)](https://open.spotify.com/track/2eQomd6Smp8EGRjvvkIs56) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Dolce Vita](https://open.spotify.com/album/5fqLQ6AOBdz8CaHswljPSe) | 7:32 | 2022-12-23 |  |
 | [Domino Dancing \- 2001 Remaster](https://open.spotify.com/track/0R4mVKev4tWhSs1JSv7h1g) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/5rV1l8OgNRlryYfEzJ2IER) | 7:40 | 2022-06-10 | 2022-07-22 |
 | [Domino Dancing \- 2001 Remastered Version](https://open.spotify.com/track/0OB3ic6dpirm9lJdhbf5Wf) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA) | 7:40 | 2020-08-07 | 2022-07-29 |
 | [Domino Dancing \- 2018 Remaster](https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 7:40 | 2022-06-10 |  |

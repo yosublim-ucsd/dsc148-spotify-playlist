@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-821 songs - 2 day 10 hr 58 min
+822 songs - 2 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Grieg: Peer Gynt \(Death Of Aase\) \- Solomon Grey's Paradise Lost Rework](https://open.spotify.com/track/4HK3N5xqVguP5Sk583EazM) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [National Philharmonic Orchestra](https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd), [Willi Boskovsky](https://open.spotify.com/artist/0KE7MPlNGYZugOqQngcqQV), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [re:works](https://open.spotify.com/album/2hfzcziOuaZXs4H3gZSbRv) | 4:07 | 2019-06-23 | 2020-08-26 |
 | [Guerilla Project](https://open.spotify.com/track/4tzSk097iBjarEFpA8Z8vz) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [Fortress](https://open.spotify.com/album/5PTWIBYDbND050i40YfEHF) | 3:36 | 2019-06-19\* | 2020-10-19 |
 | [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2023-03-19 |
-| [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 |  |
+| [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 | 2023-07-04 |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 | 2022-07-27 |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2022-04-20 |
 | [Haul \(Max Cooper Remix\)](https://open.spotify.com/track/6WXXOjaynxjyiyXwD6Wh2g) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 7:15 | 2019-06-19\* | 2022-04-18 |
@@ -828,6 +828,7 @@
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 | 2022-04-21 |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
+| [Zone 3 \(City Limits\) \- Beatrice Dillon Remix](https://open.spotify.com/track/7JPugeDFZ8ng7r1fYmreum) | [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Beatrrice Dillon](https://open.spotify.com/artist/6pBCJNDSuspHDk71uMaMAf) | [City Planning \(Remixes\)](https://open.spotify.com/album/1WPSvjKzgjyse929PO9g6i) | 1:39 | 2023-07-03 |  |
 | [╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌](https://open.spotify.com/track/2YF4eWmwwFA8fkx2IE0djt) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 0:33 | 2019-06-19\* | 2020-10-19 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

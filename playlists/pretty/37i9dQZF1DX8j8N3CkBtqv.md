@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Aditya Bhardwaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,960 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,988 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Raahiya](https://open.spotify.com/track/4kn6joNgish5zSFjNMh2eW) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Raahiya](https://open.spotify.com/album/5Q1m9WyfNWGfpSXpPCXTLU) | 3:37 |
 | 50 | [Khamakha](https://open.spotify.com/track/3qW5asPgcMSJkfecq4ktxJ) | [Madhubanti Bagchi](https://open.spotify.com/artist/0NKNtzhUO3OtwseGKr0O1b), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Khamakha](https://open.spotify.com/album/4zqR3MCe5cPyIbsIwf5yxp) | 2:49 |
 
-Snapshot ID: `MCxmNGMyMzdmM2E3Y2RkMTI5MjExYzQ1MzYyN2M4ZDBhMTU1ZDZjNTYw`
+Snapshot ID: `MCwyMzFiMDlmZGI5YjllMmRjN2Y0ZTk3Y2I2ZGIxMzE3MmJhODU0YmM1`

@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142435,
+  "num_followers": 142437,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTg5MjAyZjgxY2FhM2U3YTZmMjhiZjcyNGZlYjAyMmZjNWUxOTMx",
+  "snapshot_id": "MCxlNmFjODEyMzQ0ZDM2YmUwNzc1ODA2OTg5ZTNhM2QwZTU5MTE5N2Rl",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -123,6 +123,22 @@
       "duration_ms": 201374,
       "name": "Que Voy A Hacer",
       "url": "https://open.spotify.com/track/0HD0RNHrLyM1yKJaWkR56R"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+      },
+      "artists": [
+        {
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -287,6 +303,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Raspar Zapato",
+        "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
+      },
+      "artists": [
+        {
+          "name": "Tejano Highway 281",
+          "url": "https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Raspar Zapato",
+      "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd"
       },
@@ -307,22 +339,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Raspar Zapato",
-        "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
-      },
-      "artists": [
-        {
-          "name": "Tejano Highway 281",
-          "url": "https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Raspar Zapato",
-      "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Coleccion De Canciones",
         "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 191824,
       "name": "Cuatro O Cinco Farolasos",
       "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Jam Session El Besito Y Voy Navegando",
-        "url": "https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI"
-      },
-      "artists": [
-        {
-          "name": "Carlos y Los Cachorros",
-          "url": "https://open.spotify.com/artist/6j2ViCjLAVLUTBxDHFECka"
-        }
-      ],
-      "duration_ms": 302789,
-      "name": "Jam Session El Besito Y Voy Navegando",
-      "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Te Llevo En Mi Alma",
-        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
+        "name": "Jam Session El Besito Y Voy Navegando",
+        "url": "https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI"
       },
       "artists": [
         {
-          "name": "Mike Gonzalez Iconiczz",
-          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
+          "name": "Carlos y Los Cachorros",
+          "url": "https://open.spotify.com/artist/6j2ViCjLAVLUTBxDHFECka"
         }
       ],
-      "duration_ms": 224256,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
+      "duration_ms": 302789,
+      "name": "Jam Session El Besito Y Voy Navegando",
+      "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Santa Borrachera",
-        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+        "name": "Te Llevo En Mi Alma",
+        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
       },
       "artists": [
         {
-          "name": "SuenaTron",
-          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+          "name": "Mike Gonzalez Iconiczz",
+          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
         }
       ],
-      "duration_ms": 177777,
-      "name": "Santa Borrachera",
-      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
+      "duration_ms": 224256,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -435,6 +435,22 @@
       "duration_ms": 186453,
       "name": "Dame Un Besito",
       "url": "https://open.spotify.com/track/1eujaqtBOGkVnY3oVkcTnG"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Santa Borrachera",
+        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+      },
+      "artists": [
+        {
+          "name": "SuenaTron",
+          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Santa Borrachera",
+      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -467,22 +483,6 @@
       "duration_ms": 180949,
       "name": "Estoy Encari\u00f1ado",
       "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
-      },
-      "artists": [
-        {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Camino al Progreso",
-        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alamo",
-          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
-        }
-      ],
-      "duration_ms": 229950,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Sientes Igual",
         "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 170316,
       "name": "Sientes Igual",
       "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Camino al Progreso",
+        "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alamo",
+          "url": "https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy"
+        }
+      ],
+      "duration_ms": 229950,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
+      },
+      "artists": [
+        {
+          "name": "ALICIA C",
+          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 179908,
       "name": "Soy Ella",
       "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
-      },
-      "artists": [
-        {
-          "name": "ALICIA C",
-          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
-      },
-      "artists": [
-        {
-          "name": "Pablo Urbina",
-          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Toda Una Vida",
         "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 180410,
       "name": "Toda Una Vida",
       "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Urbina",
+          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
-      },
-      "artists": [
-        {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
-        }
-      ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 161623,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+      },
+      "artists": [
+        {
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
+      },
+      "artists": [
+        {
+          "name": "Erika Ren\u00e9e",
+          "url": "https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw"
+        },
+        {
+          "name": "Aliz\u00e9 Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Como Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 191800,
       "name": "Dime Por Qu\u00e9",
       "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
-      },
-      "artists": [
-        {
-          "name": "Erika Ren\u00e9e",
-          "url": "https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw"
-        },
-        {
-          "name": "Aliz\u00e9 Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
     },
     {
       "added_at": "2023-03-10 18:43:28",

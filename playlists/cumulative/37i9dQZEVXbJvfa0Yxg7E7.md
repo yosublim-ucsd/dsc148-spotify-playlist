@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,175 songs - 2 day 12 hr 45 min
+1,176 songs - 2 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,8 @@
 | [IBN ADAM](https://open.spotify.com/track/51eQgwl8wIOcNprwwb1eK1) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [Omar Sheriff](https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7) | 4:21 | 2022-01-29 | 2022-03-13 |
 | [IBOPROFEN](https://open.spotify.com/track/5vtRUF1yqzWWwZe5rN901j) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [Omar Sheriff](https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7) | 2:10 | 2022-01-29 | 2022-09-15 |
 | [Idiot](https://open.spotify.com/track/1dD5RfTAEDEk19GhAz9hUG) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/4mn6Db6CFWf05QqKKTsSS1) | 1:58 | 2023-05-27 | 2023-06-07 |
-| [Idiot](https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/12GMWOXclPuWUmygCmvKrk) | 1:58 | 2023-06-06 |  |
+| [Idiot](https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/12GMWOXclPuWUmygCmvKrk) | 1:58 | 2023-06-06 | 2023-07-04 |
+| [Idiot](https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n) | 1:58 | 2023-07-03 |  |
 | [Idyll](https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:23 | 2023-06-11 |  |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-03-05 | 2022-03-21 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-11 | 2023-03-19 |

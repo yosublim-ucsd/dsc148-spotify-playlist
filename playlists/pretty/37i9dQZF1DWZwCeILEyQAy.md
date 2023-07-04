@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: City Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,938 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,982 likes - 54 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 16 | [Problem](https://open.spotify.com/track/7LFN9ERrNzpsVg5BYcJCqt) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Problem](https://open.spotify.com/album/3OTsLgRdYM4OMNa8U4TaIq) | 2:24 |
 | 17 | [10!](https://open.spotify.com/track/2JGkw6gknuCYH0RZ2FYzzr) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [10!](https://open.spotify.com/album/0WiRWTGXavt4yZfb8HZxyG) | 2:19 |
 | 18 | [HOOD RAT SHIT](https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Chenzehn](https://open.spotify.com/artist/4f6mzHylkFqgtpggUv7qdq) | [HOOD RAT SHIT](https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut) | 2:42 |
-| 19 | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/track/0K6igArm92Tiq9kSdzIoY9) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/album/3yAXqiis6ilpIUgUMn1eRV) | 2:18 |
+| 19 | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/track/0K6igArm92Tiq9kSdzIoY9) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/album/3yAXqiis6ilpIUgUMn1eRV) | 2:18 |
 | 20 | [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 |
 | 21 | [Agatha](https://open.spotify.com/track/4FKzLOsMTwz9A00P9lVyrh) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 3:00 |
 | 22 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
@@ -56,12 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 46 | [Gangsta Activity](https://open.spotify.com/track/2p5rwAzV8JuCGaN9f9LxbN) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Gangsta Activity](https://open.spotify.com/album/6Cl7ak9lrKHxUcftD4Rlzi) | 1:58 |
 | 47 | [Countdown](https://open.spotify.com/track/1iUBXA98sGpUkcFakDDo6k) | [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Countdown](https://open.spotify.com/album/51IzT7nGKdjOXPAogxrhyM) | 2:22 |
 | 48 | [Twenty\-Three](https://open.spotify.com/track/1Ur55lBBn5XsslFnG73Mpc) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Twenty\-Three](https://open.spotify.com/album/2IW0Vor0pK6Amxikga1onI) | 2:14 |
-| 49 | [Rich Baby Mama](https://open.spotify.com/track/25zgoxL9MmTCVpWPiN8Lk9) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Rich Baby Mama](https://open.spotify.com/album/7IvVb6HodS1L4ggPZmUQvu) | 2:01 |
-| 50 | [SUKISADA](https://open.spotify.com/track/1uawwhj5sMN2M535rWd4Xs) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [SUKISADA](https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr) | 3:41 |
-| 51 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 |
-| 52 | [Nope Shemix](https://open.spotify.com/track/39fyKFM1q92YzWTQiDFF47) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Nope Shemix](https://open.spotify.com/album/0AKBMWlWpVd7zpUUf3eGgS) | 2:48 |
-| 53 | [Silly Heaux](https://open.spotify.com/track/4dqToym9mPeED3cSkpRogr) | [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Silly Heaux](https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA) | 2:10 |
-| 54 | [N.B.L\. \(N\*\*\*as Be Lying\)](https://open.spotify.com/track/7MI8SSzAsYwOMoN7MPOtzZ) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Top 2, Not 2](https://open.spotify.com/album/64kKh4BAgxGLrK77AITYAe) | 1:50 |
-| 55 | [Move](https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Move](https://open.spotify.com/album/5gGGPT54RzsFtdyjtfxQrm) | 1:41 |
+| 49 | [SUKISADA](https://open.spotify.com/track/1uawwhj5sMN2M535rWd4Xs) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [SUKISADA](https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr) | 3:41 |
+| 50 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 |
+| 51 | [Nope Shemix](https://open.spotify.com/track/39fyKFM1q92YzWTQiDFF47) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Nope Shemix](https://open.spotify.com/album/0AKBMWlWpVd7zpUUf3eGgS) | 2:48 |
+| 52 | [Silly Heaux](https://open.spotify.com/track/4dqToym9mPeED3cSkpRogr) | [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Silly Heaux](https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA) | 2:10 |
+| 53 | [N.B.L\. \(N\*\*\*as Be Lying\)](https://open.spotify.com/track/7MI8SSzAsYwOMoN7MPOtzZ) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Top 2, Not 2](https://open.spotify.com/album/64kKh4BAgxGLrK77AITYAe) | 1:50 |
+| 54 | [Move](https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Move](https://open.spotify.com/album/5gGGPT54RzsFtdyjtfxQrm) | 1:41 |
 
-Snapshot ID: `MCwwMjkwODM4MDU3NTlhMjUwMDAwOWUzYmZkYTY4NWI3YjQ1YmZhNjdj`
+Snapshot ID: `MCw3M2RmMDEyNmExMDkzNGY0NmQ5OTRmZGRkNGZjMDU2NTdhNDcwYzAy`

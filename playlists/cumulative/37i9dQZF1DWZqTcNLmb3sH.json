@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 217031,
       "name": "Bengaluru Boys - From \"Bengaluru Boys\"",
       "url": "https://open.spotify.com/track/26tM5eowQXtvpwCbEIKCb2"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 225048,
       "name": "Chadurida Baligondu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/1Rfawh8P5ICDU8EDttn8jb"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 196599,
       "name": "Dikku Daari Tochutilla (From \"Bisilu Kudure\")",
       "url": "https://open.spotify.com/track/53dygLK4tSFoGXA901DSJA"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 316001,
       "name": "Enthaha Mysore (From \"Barisu Kannada Dindimava\")",
       "url": "https://open.spotify.com/track/6xKriaoqsLOY6CWFxkBOam"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 262143,
       "name": "Enu Maadide",
       "url": "https://open.spotify.com/track/7oMXEQ4k3eKJzX8DJUZbTr"
@@ -6494,10 +6494,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 154666,
       "name": "Idu Bengaluru Kananna - From \"Tales of Mahanagara\"",
       "url": "https://open.spotify.com/track/3dqM7LnrA4YdCSIHXkf15C"
+    },
+    {
+      "album": {
+        "name": "Damayana",
+        "url": "https://open.spotify.com/album/7FyBN0JUMBxjm5hVmvNKIp"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171454,
+      "name": "Idu Damayana Title Track",
+      "url": "https://open.spotify.com/track/5LDGqaTQuc2lwgqRMrpeHE"
     },
     {
       "album": {
@@ -10091,6 +10109,28 @@
     },
     {
       "album": {
+        "name": "Damayana",
+        "url": "https://open.spotify.com/album/7FyBN0JUMBxjm5hVmvNKIp"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Ninada U Nayak",
+          "url": "https://open.spotify.com/artist/6OHKmmbUtWcy8ETZIQ11Rz"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209078,
+      "name": "Muddu Peddu Medulugalu",
+      "url": "https://open.spotify.com/track/3i2pNybghzTQy8or2MOqjd"
+    },
+    {
+      "album": {
         "name": "Mugile Mathadu (From \"Dandi\")",
         "url": "https://open.spotify.com/album/373bKTDVgo972LthLCZ2Hi"
       },
@@ -12206,7 +12246,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 226666,
       "name": "Nooraru Rangiro (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/6J1TFwhIUNiPizswwZ6rEx"
@@ -12564,6 +12604,32 @@
       "duration_ms": 227241,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/5wgzimZEr50a7XbWZtvQAt"
+    },
+    {
+      "album": {
+        "name": "Oh My Love (From \"Ambuja\")",
+        "url": "https://open.spotify.com/album/7dtx3ahcyU90I6YYA6Rvp0"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/4tgEJqEEB2jSPmD3qhzp84"
+        },
+        {
+          "name": "Kashinath D Madiwalar",
+          "url": "https://open.spotify.com/artist/5FgMCC5kXWNwU3ChcHNuPx"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237250,
+      "name": "Oh My Love - From \"Ambuja\"",
+      "url": "https://open.spotify.com/track/51Vp53MR4How58rfSycArK"
     },
     {
       "album": {
@@ -13076,7 +13142,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 177129,
       "name": "Onthara Aaythade (from \"Mr Natwarlal\" )",
       "url": "https://open.spotify.com/track/6shmhLZhXNe8T4748GhVMj"
@@ -14446,7 +14512,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 231666,
       "name": "Sainikaa Sainikaa (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/2MS78VuNWtewCZvzlNQVJ9"
@@ -16066,7 +16132,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 250441,
       "name": "Udugoreya Kodali - From \"O Manase\"",
       "url": "https://open.spotify.com/track/5EqqN0bJzmxyHHz44n3hFV"

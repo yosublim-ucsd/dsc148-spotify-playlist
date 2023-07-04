@@ -2,7 +2,7 @@
 
 ### [HÏ IBIZA's Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
 
-> Voted \#1 Club in the World ’22 & ’23, the futuristic club <a href="https://www.hiibiza.com/">HÏ IBIZA</a>, hosts the most vital artists from across electronic music.
+> Voted \#1 Club in the World ’22 & ’23, the futuristic club <a href="https://open.spotify.com/user/31coqoicovg7m5ugwuaoty2ls5ia?si=7a89c12a9c12487c">HÏ IBIZA</a>, hosts the most vital artists from across electronic music.
 
 578 songs - 1 day 19 hr 20 min
 

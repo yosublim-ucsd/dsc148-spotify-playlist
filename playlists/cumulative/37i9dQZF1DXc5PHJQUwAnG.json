@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Trap Ejecutivo",
+        "url": "https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133175,
+      "name": "CDMX",
+      "url": "https://open.spotify.com/track/7xuq3E5t2kJcuAZqkNDOvG"
+    },
+    {
+      "album": {
         "name": "Ceniza",
         "url": "https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 168857,
       "name": "Cri Cri",
       "url": "https://open.spotify.com/track/6yy6Pt1i4C2vnt9oGfo0ik"

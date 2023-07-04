@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current, every week\. Cover: Hemlocke Springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,834 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,843 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 64 | [Can't Wait](https://open.spotify.com/track/3GEhHEU3nkK2vGFqmKWKc3) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [Can't Wait](https://open.spotify.com/album/02OI10erl4E2J2WUOp5mv0) | 3:47 |
 | 65 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 |
 
-Snapshot ID: `MCxhYTlhMzIwZDBjYTIzY2U3YjI3MzdkMGZhMGQxZmFhMzhmZmYyN2M2`
+Snapshot ID: `MCxlODVjMTViMTQ3MmZiNWQzOGFlYzI0NGMxZjlkODA0MTVhNzcyYmIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Listen to all of the music from the Minions and Despicable Me movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,360 likes - 38 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,366 likes - 38 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 | 37 | [Kung Fu Suite \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/54bzmzTCRJjStJ7t3Rm6b9) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Kung Fu Suite \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3Z4O9z29ikbbKkToDNByIO) | 1:32 |
 | 38 | [Minions: The Rise of Gru Score Suite \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/1wtXJyAZjEQAApvfP7ACOQ) | [Heitor Pereira](https://open.spotify.com/artist/2RaHCHhZWBXn460JpMaicz) | [Minions: The Rise of Gru Score Suite \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6rehimSKuEx4c2JCRyivSI) | 3:50 |
 
-Snapshot ID: `MCw0OTg4YjMzN2IxNjNiYTYwZjM3ODc4N2FiOGQ3M2Q2ZDJkZjMyZjNi`
+Snapshot ID: `MCxjYmRkYjhjZDExMmY2MjJiNzIyYTcwNzMwYzc2ODhiYTE2NDNmZTZm`

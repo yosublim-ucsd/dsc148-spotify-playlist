@@ -1,29 +1,13 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 36396,
+  "num_followers": 36422,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzI2MTllYTNhNzJiZjY4YjZiYjdhOGY1YWYwOTM1ZjkxMDViMTgy",
+  "snapshot_id": "MCw4YTQwN2E0ODY5MDNiZGVlNWRlODIzMmFkNGFmOGE5Njg0ZmMwNWZl",
   "tracks": [
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
-    },
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 229160,
       "name": "Cuando Pase El Temblor - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -171,38 +187,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 321413,
-      "name": "El Genio del Dub - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -223,22 +207,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Los Viejos Vinagres",
-      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -255,18 +223,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
+      "duration_ms": 321413,
+      "name": "El Genio del Dub - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -287,6 +255,38 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -303,6 +303,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Amor Descartable",
+      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Rata Blanca",
         "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 432866,
       "name": "El Sue\u00f1oDe La Gitana",
       "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -367,34 +367,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Amor Descartable",
-      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Divididos Por La Felicidad",
-        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Mejor No Hablar de Ciertas Cosas",
-      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
+      "duration_ms": 237866,
+      "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -447,18 +431,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "20 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
       },
       "artists": [
         {
-          "name": "Roque Narvaja (F)",
-          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Menta y lim\u00f3n",
-      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
+      "duration_ms": 286813,
+      "name": "Mejor No Hablar de Ciertas Cosas",
+      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -479,18 +463,34 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 214146,
-      "name": "Estallando Desde el Oc\u00e9ano",
-      "url": "https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj"
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "20 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+      },
+      "artists": [
+        {
+          "name": "Roque Narvaja (F)",
+          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Menta y lim\u00f3n",
+      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -507,22 +507,6 @@
       "duration_ms": 251026,
       "name": "Mundo Agradable",
       "url": "https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -559,6 +543,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Wadu Wadu",
+        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Wadu Wadu",
+      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 151493,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Estallando Desde el Oc\u00e9ano",
+      "url": "https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -671,22 +687,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Wadu Wadu",
-        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Wadu Wadu",
-      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "20 Caras Bonitas",
         "url": "https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Cataratas Musicales",
-        "url": "https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq"
+        "name": "Noche y D\u00eda",
+        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
       "artists": [
         {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+          "name": "Raul Porchetto",
+          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
         }
       ],
-      "duration_ms": 203866,
-      "name": "Ricardo Ruben",
-      "url": "https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS"
+      "duration_ms": 226946,
+      "name": "Corazones Muertos",
+      "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -767,34 +767,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Noche y D\u00eda",
-        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
+        "name": "Cataratas Musicales",
+        "url": "https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq"
       },
       "artists": [
         {
-          "name": "Raul Porchetto",
-          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
         }
       ],
-      "duration_ms": 226946,
-      "name": "Corazones Muertos",
-      "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Identikit",
-        "url": "https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy"
-      },
-      "artists": [
-        {
-          "name": "Identikit",
-          "url": "https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i"
-        }
-      ],
-      "duration_ms": 275553,
-      "name": "Varias Horas So\u00f1ando",
-      "url": "https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs"
+      "duration_ms": 203866,
+      "name": "Ricardo Ruben",
+      "url": "https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -811,6 +795,22 @@
       "duration_ms": 194954,
       "name": "Sin Gamul\u00e1n",
       "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "El Ritual De La Banana",
+      "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
     }
   ],
   "unique_name": "Jet Set",

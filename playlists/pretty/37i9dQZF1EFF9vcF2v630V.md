@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 17 | [Birthday Suit](https://open.spotify.com/track/41DBopd0o6IX2N8sjTE0AJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:56 |
 | 18 | [Million Miles](https://open.spotify.com/track/1Y7GyVbTNyIVBJr25hmVxm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:28 |
 | 19 | [I Will Fight](https://open.spotify.com/track/0X1bdT5WEYL2wtAvNDsbt9) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:58 |
-| 20 | [Deeper](https://open.spotify.com/track/27oOAuxSK69G8PN3UrkeoA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 2:36 |
-| 21 | [Temporary](https://open.spotify.com/track/5lolDjzgFQm7t27CwnRekB) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/0G6d32qLhiRE0tbFk4PxK1) | 3:10 |
+| 20 | [Temporary](https://open.spotify.com/track/5lolDjzgFQm7t27CwnRekB) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/0G6d32qLhiRE0tbFk4PxK1) | 3:10 |
+| 21 | [Deeper](https://open.spotify.com/track/27oOAuxSK69G8PN3UrkeoA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 2:36 |
 | 22 | [Down with Ya \(feat\. Madcon\)](https://open.spotify.com/track/6t43w43IpQxBt5IrEUqgdy) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Head for the stars](https://open.spotify.com/album/2pvzF6KG5eCbmSTgmTTiHe) | 3:44 |
 | 23 | [Heart Of Yours](https://open.spotify.com/track/7gtPeJcz77AaxCDokiySwl) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:25 |
 | 24 | [Tuxedo](https://open.spotify.com/track/5wEnFcmoUs8ExWLhJlxlxd) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 64 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 65 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `MjgxMzkxNjAsMDAwMDAwMDBjMTNjOTVkYWQyYjVmZjA5NWNmNDJlMzIzMmJjZDIyNQ==`
+Snapshot ID: `MjgxNDA2MDAsMDAwMDAwMDBkMGIwZjA4ODhmZjI3ZGVmY2U3YjU4NGRiZTcwZTg0Zg==`

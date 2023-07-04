@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Candles",
+        "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172399,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "album": {
         "name": "Trustful Hearts",
         "url": "https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe"
       },
@@ -7793,6 +7811,24 @@
     },
     {
       "album": {
+        "name": "Unfinished Letter",
+        "url": "https://open.spotify.com/album/2UvacRcaEAPlFOUuPBB2Vq"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110259,
+      "name": "Unfinished Letter",
+      "url": "https://open.spotify.com/track/5qjp7GhgW7HW0fy5JXRs3l"
+    },
+    {
+      "album": {
         "name": "unkai",
         "url": "https://open.spotify.com/album/7ujkaYYK3zTOSpovl6piTa"
       },
@@ -7826,6 +7862,24 @@
       "duration_ms": 125500,
       "name": "Vc\u030ceraj",
       "url": "https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4"
+    },
+    {
+      "album": {
+        "name": "velvet void",
+        "url": "https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148299,
+      "name": "velvet void",
+      "url": "https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb"
     },
     {
       "album": {

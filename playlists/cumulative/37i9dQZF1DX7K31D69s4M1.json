@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
         "name": "Ann's Lullaby",
         "url": "https://open.spotify.com/album/5YQt0lCeryPlyl6ffqcaFQ"
       },
@@ -3333,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Cascading",
+        "url": "https://open.spotify.com/album/3PNj2Ma8KLiKCqEZ3mMD5N"
+      },
+      "artists": [
+        {
+          "name": "Gina Ordonieva",
+          "url": "https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125752,
+      "name": "Cascading",
+      "url": "https://open.spotify.com/track/3Z481RyDb4PfD4JemWsag6"
+    },
+    {
+      "album": {
         "name": "Cassiopeia",
         "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
       },
@@ -3784,6 +3820,24 @@
       "duration_ms": 197875,
       "name": "Clear Blue Skies",
       "url": "https://open.spotify.com/track/4w1xTWbbO1BcOvf6X8ywzG"
+    },
+    {
+      "album": {
+        "name": "Clear View",
+        "url": "https://open.spotify.com/album/6Fx8MCfIvZafSQUUvU5FJD"
+      },
+      "artists": [
+        {
+          "name": "Lotus Laverne",
+          "url": "https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Clear View",
+      "url": "https://open.spotify.com/track/63OnbQzyCqoQqIsgT6QXGq"
     },
     {
       "album": {
@@ -13772,7 +13826,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 137169,
       "name": "Mandeville",
       "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
@@ -13790,7 +13844,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 180720,
       "name": "Manus in Mano",
       "url": "https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr"
@@ -17852,7 +17906,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 144576,
       "name": "Pour toujours",
       "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
@@ -18806,7 +18860,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 129671,
       "name": "Respire",
       "url": "https://open.spotify.com/track/0KBgZ0jaeEbRrpFIRLFg9D"
@@ -18864,6 +18918,24 @@
       "duration_ms": 138000,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/3A8lD4bNXWQpN8hXPml2rU"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4YbW3QbBHQzdtNKHnyyPqN"
     },
     {
       "album": {
@@ -21349,6 +21421,24 @@
     },
     {
       "album": {
+        "name": "Spruces and pines",
+        "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Spruces and pines",
+      "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
+    },
+    {
+      "album": {
         "name": "Spur Of The Moment",
         "url": "https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz"
       },
@@ -21976,7 +22066,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-04",
       "duration_ms": 138833,
       "name": "Sv\u00e6rmer",
       "url": "https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh"

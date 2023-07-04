@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-243 songs - 13 hr 52 min
+244 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [La Flechita](https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 2:14 | 2022-04-08 |  |
 | [La Gripa](https://open.spotify.com/track/2xRxYAw3XRcT1LGI0AnZuz) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:23 | 2022-04-08 | 2023-02-25 |
 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 | 2022-04-08 |  |
-| [La Macarena \(Mere\-huapango\) \(En Vivo\)](https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic) | [Adixion Aktivada](https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk) | [Puro Note Primo / En Vivo Vol.1](https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu) | 2:56 | 2022-04-08 |  |
+| [La Macarena \(Mere\-huapango\) \(En Vivo\)](https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic) | [Adixion Aktivada](https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk) | [Puro Note Primo / En Vivo Vol.1](https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu) | 2:56 | 2022-04-08 | 2023-07-04 |
 | [La Manzanita](https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 2:21 | 2022-04-08 |  |
 | [La María](https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:26 | 2022-08-01 | 2022-12-10 |
 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 | 2022-04-08 |  |
@@ -168,6 +168,7 @@
 | [Le Quito Lo Fresa](https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:52 | 2022-04-08 | 2022-12-10 |
 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 | 2022-12-16 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 | 2022-12-09 | 2023-07-01 |
+| [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 | 2023-04-21 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/3I2aj9TDz80eTFtjUgWI6q) | 3:37 | 2023-04-21 | 2023-06-25 |
 | [Los Males De Micaela](https://open.spotify.com/track/29MBOL7DgVi8iJvKbraaPY) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Dominando](https://open.spotify.com/album/6diTSPCsoezkD8cSHuCOSA) | 2:46 | 2022-04-08 | 2023-02-25 |
 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 | 2022-04-08 |  |
