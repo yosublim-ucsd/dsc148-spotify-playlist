@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-166 songs - 8 hr 52 min
+167 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All For You](https://open.spotify.com/track/53QivzNjgJPblrcmDP0LLv) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [All For You](https://open.spotify.com/album/4Qz9R5WkVwQfAl1oq6ZSFn) | 3:33 | 2022-09-12 |  |
 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 | 2022-06-15 |  |
 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 | 2022-04-19 | 2022-11-08 |
-| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 |  |
+| [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-03-26 |  |
+| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-07-05 |
 | [April](https://open.spotify.com/track/3izibnOkKCvSjKWYXAS2BO) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [April](https://open.spotify.com/album/7Mbs5Pd9ytp5plVaYrCANS) | 2:34 | 2022-04-19 | 2022-09-13 |
 | [April](https://open.spotify.com/track/5c9NYoGdCrvQCa5EwjsBZv) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [April](https://open.spotify.com/album/5a6I3KFSH6MLRR1grwFqXY) | 3:16 | 2022-04-19 | 2023-01-25 |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-28 |  |

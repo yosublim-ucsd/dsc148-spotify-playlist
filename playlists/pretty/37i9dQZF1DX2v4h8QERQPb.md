@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,906 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,980 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 44 | [Pensando en Verte](https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Pensando en Verte](https://open.spotify.com/album/40yd4gGPM83Kwde7EO79aW) | 3:02 |
 | 45 | [All Black](https://open.spotify.com/track/1A6CTLJKEHv92ECpwD81mS) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [All Black](https://open.spotify.com/album/5dIe8uCD707rNp7eVzkC55) | 2:41 |
 | 46 | [sin city](https://open.spotify.com/track/1XPYay2kkyau86btrVGlwp) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [Terminos & Condiciones](https://open.spotify.com/album/0BI76JQjQs4e8cfWKHJyEX) | 2:36 |
-| 47 | [Avengers en el Juego](https://open.spotify.com/track/5Igbr0gEDnBxALPNCAL2ZE) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/4YPlAH4YDCHwiYfIzRFxvX) | 4:33 |
+| 47 | [Avengers en el Juego](https://open.spotify.com/track/0Yqd1lDCZnLCNfZxztoCUg) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/6FkR745h9h0Nf0AebzSqUC) | 4:33 |
 | 48 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 49 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 |
 | 50 | [No Tiene Nombre](https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con La Bolsa Al Hombro](https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [XL](https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [XL](https://open.spotify.com/album/5DGbD9cul3TZcq8NPzhhbe) | 2:54 |
 | 100 | [Paquetes](https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Paquetes](https://open.spotify.com/album/2yPAPnynCHDjYi69UF1UUI) | 2:51 |
 
-Snapshot ID: `MCw5M2Q4MWFkNGNmZjJjMmJmNmYwZjYwYmIwNmEwOTViMzExZGRlMDI4`
+Snapshot ID: `MCw0NDA3MzBjZDU5MDA5NTlhOWMxZWFhZmMwYjIxMWNkN2UwZjQyMjRh`

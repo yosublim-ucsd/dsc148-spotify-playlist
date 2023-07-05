@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 324568,
       "name": "Afgan",
       "url": "https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -15422,7 +15422,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 114768,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/2YchwAgiYkBg32kI1wWqFr"
@@ -17599,6 +17599,24 @@
     },
     {
       "album": {
+        "name": "P.M.D",
+        "url": "https://open.spotify.com/album/47LGg9z96WERhqUZvxDn0B"
+      },
+      "artists": [
+        {
+          "name": "R-JAY Aka Eldorodo Regg",
+          "url": "https://open.spotify.com/artist/3niThvCAhJV5mR3AbI9UoT"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188454,
+      "name": "P.M.D",
+      "url": "https://open.spotify.com/track/1a8xKXwgcbXpO8hYtXUs7h"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -19700,7 +19718,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"

@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 134637,
+  "num_followers": 134705,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm",
+  "snapshot_id": "MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Mule Train",
+      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "16 Great Songs of the Old West",
         "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 137856,
       "name": "Whopee Ti Yi Yo",
       "url": "https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Mule Train",
-      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Rhythm & Booze",
-        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
+        "name": "Country Hoedown",
+        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
       },
       "artists": [
         {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+          "name": "Pee Wee King",
+          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
         }
       ],
-      "duration_ms": 164506,
-      "name": "Beer Drinking Blues",
-      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+      "duration_ms": 176573,
+      "name": "Slowpoke",
+      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country Hoedown",
-        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
+        "name": "Rhythm & Booze",
+        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
       "artists": [
         {
-          "name": "Pee Wee King",
-          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
         }
       ],
-      "duration_ms": 176573,
-      "name": "Slowpoke",
-      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
+      "duration_ms": 164506,
+      "name": "Beer Drinking Blues",
+      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
     },
     {
       "added_at": "2023-01-02 21:50:32",

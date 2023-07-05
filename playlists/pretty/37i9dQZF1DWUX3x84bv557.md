@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Sleeq
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,614 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,627 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 4 | [Buitenspel](https://open.spotify.com/track/7fgNzQkswlJDjQZQPUoeRt) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Buitenspel](https://open.spotify.com/album/2Dq3zVPAKWwxdMVRvfkEzr) | 2:28 |
 | 5 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 |
 | 6 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 |
-| 7 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 |
-| 8 | [Hete Vuren](https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Melissa Lopes](https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP) | [Hete Vuren](https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa) | 2:27 |
-| 9 | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/album/1qSK8rW3dXofGpdZmtWg61) | 2:54 |
-| 10 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 |
-| 11 | [Zwaaien Naar Het Verleden](https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Mella](https://open.spotify.com/album/4xXNRMUoZ63lFC8zb0bV86) | 3:01 |
-| 12 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
-| 13 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 |
-| 14 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
-| 15 | [Dit Is Wat Mijn Mama Zei](https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 2:57 |
+| 7 | [Dit Is Wat Mijn Mama Zei](https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 2:57 |
+| 8 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 |
+| 9 | [Hete Vuren](https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Melissa Lopes](https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP) | [Hete Vuren](https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa) | 2:27 |
+| 10 | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/album/1qSK8rW3dXofGpdZmtWg61) | 2:54 |
+| 11 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 |
+| 12 | [Zwaaien Naar Het Verleden](https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Mella](https://open.spotify.com/album/4xXNRMUoZ63lFC8zb0bV86) | 3:01 |
+| 13 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
+| 14 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 |
+| 15 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
 | 16 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 |
 | 17 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 |
 | 18 | [Zoveel Mooie Dagen](https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Zoveel Mooie Dagen](https://open.spotify.com/album/1ksQKLepRaX5VQ7EnklmDm) | 2:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 |
 | 90 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCwyY2ZjNGNmMzM5N2MwMDg1YWNjMWNlMmM1ZjY5NWYzODY1ZGMxOTU4`
+Snapshot ID: `MCxlMTUzNmU3ZjRkYzgxMzc2YmIwNjc5ZGE1Zjg3M2VjOTZlMDY3M2Fi`

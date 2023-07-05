@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-159 songs - 13 hr 57 min
+160 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,12 +115,13 @@
 | [Pink Footpath\(\) \- Back to Instrumental Mix](https://open.spotify.com/track/72XgwgXnJj1HQ6FJO5Al7y) | [Loui$](https://open.spotify.com/artist/1OEPRDZIAa0cXgwwngMmyL) | [Blow Up Disco, Vol.3 \- Back to Italodisco](https://open.spotify.com/album/5AYVrkxjfQBv5Abrg46PJv) | 6:08 | 2022-02-11 | 2022-08-11 |
 | [Pop Corn](https://open.spotify.com/track/4xTLv2bhUJGv6XyxmVXOme) | [La Strana Società](https://open.spotify.com/artist/4HdZRhcAqc3WSM3AtlJnOg) | [Pop Corn](https://open.spotify.com/album/2YkM4AHvii9gA4LGfGcUNJ) | 3:53 | 2022-02-11 | 2022-03-21 |
 | [Pretty Face \- Radio Edit](https://open.spotify.com/track/7hEvlW79zzFLn4fPvvrf3w) | [Stylóo](https://open.spotify.com/artist/3G9IdXpX2JfZYyg6zCqM6e) | [Pretty Face \(Original Maxi Single\)](https://open.spotify.com/album/56d2EoKtvf5xhfslTsf0ZN) | 3:00 | 2022-02-11 | 2022-03-22 |
+| [Químico Amor](https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Químico Amor](https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ) | 4:10 | 2023-07-04 |  |
 | [Reset](https://open.spotify.com/track/3w8x0OvRhqvwjSOyHdLhJz) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Reset](https://open.spotify.com/album/7tXdGpglPbHoZxBENtPc8m) | 5:52 | 2022-09-08 | 2022-11-21 |
 | [Reset](https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 5:52 | 2022-10-07 |  |
 | [Reset](https://open.spotify.com/track/6TXKgF6m6LyoaC6a3ecnoV) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp) | 5:52 | 2022-10-07 | 2022-11-24 |
 | [Resta cu' 'mme](https://open.spotify.com/track/1D764Rj1VMCMXagvqYPhKi) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Bella](https://open.spotify.com/album/5je9NSA5d4IxGAfWqDemlA) | 3:50 | 2022-02-11 | 2022-02-23 |
 | [San Lorenzo](https://open.spotify.com/track/4URvOqZEpHoluNp7haMeOL) | [Kocleo](https://open.spotify.com/artist/4cwrq8imMfkANc1FtHhtpp) | [San Lorenzo](https://open.spotify.com/album/1QOo8G0mlEPqqpYtm0VHwP) | 6:25 | 2022-02-11 | 2022-07-29 |
-| [San Salvador \- Single Version](https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz \(Expanded Edition\)](https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk) | 3:05 | 2022-02-11 |  |
+| [San Salvador \- Single Version](https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz \(Expanded Edition\)](https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk) | 3:05 | 2022-02-11 | 2023-07-05 |
 | [Sciura Milanese](https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2) | 3:10 | 2023-04-19 |  |
 | [Self Control](https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self Control](https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev) | 3:58 | 2022-07-01 |  |
 | [Self Control](https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self control](https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP) | 3:58 | 2022-02-11 | 2022-07-29 |

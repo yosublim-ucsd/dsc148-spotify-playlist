@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-121 songs - 5 hr 15 min
+122 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aves del bosque y lluvia ligera](https://open.spotify.com/track/6uS10tj1xSGwpOaxvvgwoo) | [Hector's Nature Sounds](https://open.spotify.com/artist/33BDxeH7SAKTv1gJAol8wk) | [Ruido del bosque: pájaros y lluvia](https://open.spotify.com/album/2qEkPg5waJBvxjBX1E8v0p) | 1:55 | 2021-11-11 | 2023-06-20 |
 | [Beautiful Bird & Rain Noise](https://open.spotify.com/track/2pmugk13iWAVy280WYWOj8) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Beautiful Bird & Rain Noise](https://open.spotify.com/album/6fJw6eP08VlrQ0BUDagv8L) | 1:56 | 2021-11-11 | 2023-06-20 |
 | [Before Sunrise \(Birds In The Rain\)](https://open.spotify.com/track/5ONr2pQX2T4F14hQYb7Qjt) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:16 | 2023-06-19 | 2023-07-04 |
+| [Bird Calls in the forest](https://open.spotify.com/track/4w0lp9LARJbhI6Axp32izH) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [A Song of the Wild](https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM) | 2:18 | 2023-06-20 |  |
 | [Bird Of Prey In Rain \- Seamless](https://open.spotify.com/track/2zx68fVUdFNxXucoyonBxE) | [Wet Feathered Friends](https://open.spotify.com/artist/0Ijxat55Vixh6PJvZJZPkB) | [Birds In The Wet](https://open.spotify.com/album/3Z0mEyfnRL4TCz03KUBSy7) | 2:37 | 2022-03-29 |  |
 | [Birds & Rain Loop Asmr](https://open.spotify.com/track/6N8Ziz91GxoVKj9gU2wRfI) | [Best Rain Sounds ASMR](https://open.spotify.com/artist/1UbP72nKVxMLhSsuqoD02m) | [Birds & Rain Loop Asmr](https://open.spotify.com/album/00YnSGxgLXk4tWeDW6kGDd) | 2:16 | 2021-11-11 |  |
 | [Birds Bathing In Rainstorm](https://open.spotify.com/track/29ry81Bqr6v6WfSYykdk1e) | [The Nature Of Sleep](https://open.spotify.com/artist/5vRKeZ7zo5UP0awLNAi32m) | [The Nature Of Rain](https://open.spotify.com/album/0OMpxBs2S0Al3NOJLagqyU) | 2:40 | 2021-11-11 |  |
@@ -48,7 +49,7 @@
 | [Forest Rain & Birds](https://open.spotify.com/track/2W7uRJ6OlbTrudt9DXCWbj) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Chirping in the Rain](https://open.spotify.com/album/2ZBWsgvOcDN21lSTEuO7su) | 3:22 | 2021-11-11 |  |
 | [Forest Rain Birds](https://open.spotify.com/track/3fSoGPWW8MqrnD0Wsv5CJO) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Rain Is A Beautiful Thing](https://open.spotify.com/album/1zrFylUbEzedemFnZH4oUT) | 2:54 | 2021-11-11 |  |
 | [Foresta Fresca](https://open.spotify.com/track/4rhd06UzhfqNnclbVuNz3k) | [Pio Ivan](https://open.spotify.com/artist/54YMFslLApsdO56HNDFv0P) | [Foresta Fresca](https://open.spotify.com/album/6l0ZbKfxrIS8DB56GNPv1Q) | 2:30 | 2021-11-11 |  |
-| [Fresh Rainfall](https://open.spotify.com/track/0GFsf0ejUguZ966Rov1LkT) | [NATURALSOUND](https://open.spotify.com/artist/1aKwCfowxoqvstcBsPXUHw) | [Feel The Rain](https://open.spotify.com/album/5Na8vHndapwKax9CslkUUB) | 2:36 | 2021-11-11 |  |
+| [Fresh Rainfall](https://open.spotify.com/track/0GFsf0ejUguZ966Rov1LkT) | [NATURALSOUND](https://open.spotify.com/artist/1aKwCfowxoqvstcBsPXUHw) | [Feel The Rain](https://open.spotify.com/album/5Na8vHndapwKax9CslkUUB) | 2:36 | 2021-11-11 | 2023-07-05 |
 | [Fåglar i Regn](https://open.spotify.com/track/76DI4bKgwhIFC7lQ5CTr5m) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Fåglar](https://open.spotify.com/album/0UF685ROQzeXZelWiT4nwc) | 3:26 | 2021-11-11 |  |
 | [garden escape](https://open.spotify.com/track/1laSIfJvQhSJ9gL2GpS3ar) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [lo\-fly zone](https://open.spotify.com/album/5InjXAxHwEjzZX9iAtt5c2) | 2:40 | 2021-11-11 |  |
 | [Green Noise \- Early Summer Birds](https://open.spotify.com/track/2K0J7mQTEpY1Vhus3usBT4) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:19 | 2023-06-20 | 2023-07-01 |

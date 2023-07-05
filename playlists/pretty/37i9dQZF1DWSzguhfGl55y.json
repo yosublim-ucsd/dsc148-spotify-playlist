@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 609399,
+  "num_followers": 609507,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJlZjQ3NWQyNmFlOGJmNGYwMTZlYzNjNTIyZmI0ZDg5ZGFiMDYx",
+  "snapshot_id": "MCw2MmZhOWI0YWVmYmRkNmVhMDhmMGIwOGE5N2U4MjU0ODViYmE1YWUy",
   "tracks": [
     {
       "added_at": "2023-05-31 15:07:35",
@@ -483,30 +483,6 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Joshi Mizu",
-          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "Ol\u00e9 Ol\u00e9",
-      "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
         "name": "Party 2020",
         "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
       },
@@ -531,18 +507,26 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Joshi Mizu",
+          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
+      "duration_ms": 153146,
+      "name": "Ol\u00e9 Ol\u00e9",
+      "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -559,6 +543,22 @@
       "duration_ms": 343226,
       "name": "Weck mich auf",
       "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 323253,
       "name": "Neuruppin",
       "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Up2Date XXL",
+        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Poesie Album",
+      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Up2Date XXL",
-        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
       },
       "artists": [
         {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
         }
       ],
-      "duration_ms": 230546,
-      "name": "Poesie Album",
-      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
     },
     {
       "added_at": "2023-05-31 15:07:35",

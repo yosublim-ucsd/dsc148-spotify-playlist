@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u7d50\u96c6\u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: Luna Is A Bep)",
+  "description": "\u7d50\u96c6\u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: kayan9896)",
   "name": "EQUAL Hong Kong",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 194000,
       "name": "@princejoyce",
       "url": "https://open.spotify.com/track/0MCuH8pcS50dyNTfr30xoQ"
+    },
+    {
+      "album": {
+        "name": "Be around",
+        "url": "https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172458,
+      "name": "Be around",
+      "url": "https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh"
     },
     {
       "album": {
@@ -294,6 +312,32 @@
       "duration_ms": 186101,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq"
+    },
+    {
+      "album": {
+        "name": "GET WILD (feat. AKIKO)",
+        "url": "https://open.spotify.com/album/2xPIIW6H5UcWKaplgKp0wT"
+      },
+      "artists": [
+        {
+          "name": "ANSONBEAN",
+          "url": "https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L"
+        },
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        },
+        {
+          "name": "AKIKO",
+          "url": "https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171770,
+      "name": "GET WILD (feat. AKIKO)",
+      "url": "https://open.spotify.com/track/12NPhma0x5yqWaak5KDfly"
     },
     {
       "album": {
@@ -769,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Not Too Close",
+        "url": "https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175009,
+      "name": "Not too close",
+      "url": "https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR"
+    },
+    {
+      "album": {
         "name": "Now You See Me",
         "url": "https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4"
       },
@@ -1096,6 +1158,24 @@
       "duration_ms": 144283,
       "name": "The Sea (feat. Peace Lo)",
       "url": "https://open.spotify.com/track/7nDzjK7VTX20ZEK87DJt22"
+    },
+    {
+      "album": {
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141738,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt"
     },
     {
       "album": {

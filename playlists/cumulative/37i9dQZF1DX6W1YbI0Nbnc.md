@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Luna Is A Bep\)
+> 結集香港EQUAL女聲力量！\(cover: kayan9896\)
 
-236 songs - 15 hr 6 min
+240 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [830](https://open.spotify.com/track/3YC4FwGXLyjcn9zHGp1n3s) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [Chapter 0](https://open.spotify.com/album/3TOnz47hVLJFHzC4Cz7B3U) | 3:23 | 2022-03-07 | 2022-04-06 |
 | [8SEC](https://open.spotify.com/track/5iUu6TerlD7QGVeJyXRd3r) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [8SEC](https://open.spotify.com/album/4Rej6saAxyu8MQD21E8QeN) | 3:37 | 2022-08-02 | 2022-12-01 |
 | [@princejoyce](https://open.spotify.com/track/0MCuH8pcS50dyNTfr30xoQ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:14 | 2022-01-04 | 2022-02-03 |
+| [Be around](https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around](https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp) | 2:52 | 2023-07-04 |  |
 | [Before Bed](https://open.spotify.com/track/6PQLLy6iTTAAghxUrDBwly) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [God in My Dreams](https://open.spotify.com/album/0nRE05u9tCYROuOaH1GOvh) | 4:00 | 2022-05-03 | 2022-08-03 |
 | [But I'm Not Lonely](https://open.spotify.com/track/1YU243lVfy5OSUpPRc08qU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 2:49 | 2022-01-04 | 2022-03-08 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-04-05 | 2022-05-04 |
@@ -24,6 +25,7 @@
 | [Freedom](https://open.spotify.com/track/4sOKdzcg7KJlFKagX4rpSQ) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Freedom](https://open.spotify.com/album/3qdYJEfZSbEzJY1H1omOyQ) | 3:52 | 2022-01-04 | 2022-03-08 |
 | [Fuvk The Fairytale](https://open.spotify.com/track/2ZhqxECWfMxBF4YoLFTZ0U) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 3:55 | 2021-12-07 | 2022-01-05 |
 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 | 2022-03-07 | 2022-11-02 |
+| [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/track/12NPhma0x5yqWaak5KDfly) | [ANSONBEAN](https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/album/2xPIIW6H5UcWKaplgKp0wT) | 2:51 | 2023-07-04 |  |
 | [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-03 | 2022-08-03 |
 | [Grey is the New Blue](https://open.spotify.com/track/4rwBzrDw4KJYCfaxlQaunW) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [Grey is the New Blue](https://open.spotify.com/album/0bqRnMd1qwAfb7I1M7upVT) | 5:03 | 2022-04-05 | 2022-05-04 |
 | [Hey u](https://open.spotify.com/track/3vJKrE9ZYD4qOuHShG8vrf) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Hey u](https://open.spotify.com/album/5EGo1lAzXuQZtM4aEkNEgt) | 3:32 | 2022-11-30 |  |
@@ -50,6 +52,7 @@
 | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/track/4s8bxtk4eKTilYs0IbfztA) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/album/1PRYfE5EGQ5g8Gf21wZoT2) | 4:14 | 2021-12-07 | 2022-01-05 |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-05 |  |
 | [Neverland](https://open.spotify.com/track/7pO9B12E4T2E77osXssCm5) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Neverland](https://open.spotify.com/album/3Nnur1VDPCFr1sh6JoyTEa) | 3:36 | 2022-01-04 | 2022-03-08 |
+| [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 | 2023-07-04 |  |
 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 | 2023-01-03 |  |
 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 | 2022-08-02 |  |
 | [on the right track](https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHY AM I HERE](https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2) | 2:53 | 2022-03-07 | 2022-08-03 |
@@ -67,6 +70,7 @@
 | [Sympathy](https://open.spotify.com/track/3C6aaaQ73DYqlQqUbZ8m8p) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Sympathy](https://open.spotify.com/album/1M19JDKFDaQvAI4BTv3Gn5) | 4:20 | 2022-03-07 | 2022-08-03 |
 | [Temporary](https://open.spotify.com/track/4m8YKBc6vv2KDatDGmKGx0) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:43 | 2022-08-02 | 2022-12-01 |
 | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/track/7nDzjK7VTX20ZEK87DJt22) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/album/3mXyrQE4KOxpmYsEoh0yBQ) | 2:24 | 2022-02-02 | 2022-03-08 |
+| [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2023-07-04 |  |
 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-11-30 |  |
 | [u owe me $$](https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [u owe me $$](https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC) | 2:37 | 2022-08-02 | 2022-12-01 |
 | [What Am I Living For?](https://open.spotify.com/track/3E57cdzOQQmS2UTdCI1Oiz) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [What Am I Living For?](https://open.spotify.com/album/683hVWbcmRGo878DimrQ1X) | 2:52 | 2022-01-04 | 2022-05-04 |

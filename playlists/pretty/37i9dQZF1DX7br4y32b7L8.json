@@ -1,15 +1,15 @@
 {
   "description": "Sabri \"We willen die mulala mulala\"\n",
-  "num_followers": 14119,
+  "num_followers": 14152,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzhkNzc2YzkyMzNmYzk0MzA5MDc2YzFiMzk0YWJiNjU3MDcxYjgw",
+  "snapshot_id": "MCw1Nzg4OTE0MTRhZGRhODMyZjVhMTNiODM3ZTEzOTIzYzM5OTRjNGE0",
   "tracks": [
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Mulala",
         "url": "https://open.spotify.com/album/1IvhCuXq0CkOPbgr8BOvaH"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Space Train",
         "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
+      "album": {
+        "name": "Vreemde Eend",
+        "url": "https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm"
+      },
+      "artists": [
+        {
+          "name": "Lisanne Dijkstra",
+          "url": "https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Vreemde Eend",
+      "url": "https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj"
+    },
+    {
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
         "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
@@ -85,7 +101,23 @@
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
+      "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Makeba (Radio Edit)",
         "url": "https://open.spotify.com/album/4GtRTtBrGPlgzhuXTuGFx1"
@@ -101,7 +133,7 @@
       "url": "https://open.spotify.com/track/5FkBFIGzG8lYFktLyZNUq6"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Smooth Operator",
         "url": "https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp"
@@ -117,7 +149,7 @@
       "url": "https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Anne-Fleur Vakantie",
         "url": "https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B"
@@ -133,7 +165,23 @@
       "url": "https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
+      "album": {
+        "name": "VIER",
+        "url": "https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 194827,
+      "name": "Volg Je Niet",
+      "url": "https://open.spotify.com/track/4gfHKRWnz0TJUNodIOv1tw"
+    },
+    {
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Piccolo Amore",
         "url": "https://open.spotify.com/album/7744rXPM3L298rcwG4bX44"
@@ -149,7 +197,27 @@
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
+      "album": {
+        "name": "Koekje Met Je Moeder",
+        "url": "https://open.spotify.com/album/5aC24MWtXJZpy3NhZJ6hNS"
+      },
+      "artists": [
+        {
+          "name": "Kalvijn",
+          "url": "https://open.spotify.com/artist/11X2JfCZ9k1u9xMKTGkpdK"
+        },
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/6flKo6gEeGkXDriW0feXYk"
+        }
+      ],
+      "duration_ms": 125600,
+      "name": "Koekje Met Je Moeder",
+      "url": "https://open.spotify.com/track/6LS9fogxPFK44XKwJeDPtM"
+    },
+    {
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
@@ -165,7 +233,7 @@
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
@@ -181,7 +249,7 @@
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
@@ -221,7 +289,7 @@
       "url": "https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/2laThtkIUEl6V3IzGBfwRs"
@@ -237,7 +305,7 @@
       "url": "https://open.spotify.com/track/5dlnBde2bY8vxNDE4sUQbA"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Schultenbr\u00e4u",
         "url": "https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu"
@@ -257,7 +325,7 @@
       "url": "https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
@@ -273,7 +341,7 @@
       "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
@@ -289,23 +357,7 @@
       "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
-      "album": {
-        "name": "Past Lives",
-        "url": "https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8"
-      },
-      "artists": [
-        {
-          "name": "Farizki",
-          "url": "https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui"
-        }
-      ],
-      "duration_ms": 153170,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj"
-    },
-    {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Een Aperolletje",
         "url": "https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB"
@@ -333,7 +385,7 @@
       "url": "https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "My Barn My Rules",
         "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
@@ -353,7 +405,7 @@
       "url": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Wil Je Weten",
         "url": "https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D"
@@ -389,7 +441,7 @@
       "url": "https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Trainingspak",
         "url": "https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS"
@@ -405,7 +457,7 @@
       "url": "https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
@@ -425,35 +477,7 @@
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
-      "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "The Girl From Ipanema - Single Version",
-      "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg"
-    },
-    {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -469,23 +493,7 @@
       "url": "https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
-      "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
-    },
-    {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
@@ -501,7 +509,7 @@
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Vatos Locos",
         "url": "https://open.spotify.com/album/2VFcrKgzoVwpYAFTZZXv3a"
@@ -517,7 +525,7 @@
       "url": "https://open.spotify.com/track/26xpfGNfaSxz3Ci7L6rVqv"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Friesenjung",
         "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
@@ -541,7 +549,7 @@
       "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
@@ -557,7 +565,7 @@
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Disc Charge",
         "url": "https://open.spotify.com/album/6aVh29cSNxXPvQwn5YhqGZ"
@@ -573,7 +581,7 @@
       "url": "https://open.spotify.com/track/566U7bjbnK0I3RxObVVpA9"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Zusje",
         "url": "https://open.spotify.com/album/0SNid4vYygVVvwph9bueos"
@@ -589,23 +597,7 @@
       "url": "https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
-      "album": {
-        "name": "Pieter Post (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/1pcUQuEDexrIUlcXFGtUAE"
-      },
-      "artists": [
-        {
-          "name": "Nederlandse Hardstyle",
-          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Pieter Post - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/63R6Iv1eljlrS0Mt5PQ2Rf"
-    },
-    {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
@@ -625,7 +617,7 @@
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
@@ -641,7 +633,7 @@
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Allemaal Een Droom",
         "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
@@ -665,7 +657,7 @@
       "url": "https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Rocketship",
         "url": "https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ"
@@ -681,7 +673,7 @@
       "url": "https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Sremm 4 Life",
         "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
@@ -697,7 +689,7 @@
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
@@ -717,7 +709,7 @@
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr"
@@ -737,7 +729,7 @@
       "url": "https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
@@ -757,7 +749,7 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Gewoon BOEF",
         "url": "https://open.spotify.com/album/3vJ9aTYd6r9klB1SsMcpqr"
@@ -773,7 +765,7 @@
       "url": "https://open.spotify.com/track/3pupFhUH3n5CfXQ8KO70S0"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "7 Layers",
         "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
@@ -789,7 +781,7 @@
       "url": "https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Kakkerlak Met Nagellak",
         "url": "https://open.spotify.com/album/6hmC6NuXWwQjdQYtY4PmLf"
@@ -805,7 +797,7 @@
       "url": "https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -821,7 +813,7 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "DUMMY BOY",
         "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
@@ -841,7 +833,7 @@
       "url": "https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Het Beste Van: De Paladijns",
         "url": "https://open.spotify.com/album/7m9P64LLeRpFAObUwWrHhj"
@@ -857,7 +849,7 @@
       "url": "https://open.spotify.com/track/75KLtwkL3536HI37ko5A1c"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
@@ -873,7 +865,7 @@
       "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
@@ -897,7 +889,7 @@
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
@@ -925,7 +917,7 @@
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "This Is The Life (eDeluxe)",
         "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
@@ -941,7 +933,7 @@
       "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Banaan Meloen Kiwi & Citroen",
         "url": "https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os"
@@ -961,7 +953,7 @@
       "url": "https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
@@ -977,7 +969,7 @@
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
@@ -993,7 +985,7 @@
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Padellen",
         "url": "https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1"
@@ -1013,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl"
@@ -1029,7 +1021,7 @@
       "url": "https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Dyscalculie",
         "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
@@ -1045,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Engelbewaarder",
         "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
@@ -1061,39 +1053,7 @@
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
-      "album": {
-        "name": "En Die Dingen Daar",
-        "url": "https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2"
-      },
-      "artists": [
-        {
-          "name": "Naro",
-          "url": "https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y"
-        }
-      ],
-      "duration_ms": 133146,
-      "name": "En Die Dingen Daar",
-      "url": "https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa"
-    },
-    {
-      "added_at": "2023-06-26 12:13:07",
-      "album": {
-        "name": "House of Pain (Fine Malt Lyrics)",
-        "url": "https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph"
-      },
-      "artists": [
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Jump Around",
-      "url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH"
-    },
-    {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "I Know (PR1SVX Edit)",
         "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
@@ -1113,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Leidseplein",
         "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
@@ -1133,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
@@ -1149,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "Mad Love (Versions)",
         "url": "https://open.spotify.com/album/5TIOahpFKiz3Qlcc5Agkov"
@@ -1169,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4R4kVENgrhlwymPZFxuhdK"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -1185,7 +1145,7 @@
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
-      "added_at": "2023-06-26 12:13:07",
+      "added_at": "2023-07-04 20:31:43",
       "album": {
         "name": "It's a Beautiful Day (Reprise)",
         "url": "https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP"

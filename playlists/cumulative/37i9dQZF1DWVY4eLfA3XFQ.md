@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Lucas Estrada & Raffa FL
 
-1,152 songs - 2 day 18 hr 59 min
+1,153 songs - 2 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ain't Me Without You \- Westend Remix](https://open.spotify.com/track/5gWVXOFCt97krDtcssAqVO) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Ain't Me Without You \(Westend Remix\)](https://open.spotify.com/album/2XCm0Vh31YwUbSzjWOh9cd) | 3:17 | 2022-02-25 | 2022-03-12 |
 | [Al Chica](https://open.spotify.com/track/4zR81TArni7T3acxg9drQF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Al Chica](https://open.spotify.com/album/5wcpuA5GZ8XdlJbppL5yJH) | 2:25 | 2022-12-09 | 2023-02-11 |
 | [ALALA](https://open.spotify.com/track/0EA7SaogHX4PgvNe1cGjQ0) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [ALALA](https://open.spotify.com/album/0hPgKedmjPqkylrDeo86ho) | 2:56 | 2023-03-24 | 2023-06-10 |
-| [Alexandria](https://open.spotify.com/track/6PLsM2tuwhN5msceTeOFZH) | [Södermalm](https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R) | [Alexandria](https://open.spotify.com/album/3MaoVh0H7ouhC27BRFlTpa) | 3:23 | 2023-06-30 |  |
+| [Alexandria](https://open.spotify.com/track/6PLsM2tuwhN5msceTeOFZH) | [Södermalm](https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R) | [Alexandria](https://open.spotify.com/album/3MaoVh0H7ouhC27BRFlTpa) | 3:23 | 2023-06-30 | 2023-07-05 |
 | [Alive](https://open.spotify.com/track/7AK89zOn9njvVrArXUHPav) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM) | [Mr Magic](https://open.spotify.com/album/2tah8ii91iPaiMLi925msT) | 5:42 | 2022-12-28 | 2023-01-06 |
 | [Alive \(with Roland Clark\)](https://open.spotify.com/track/6nGtbklEfeXapvjTbV8kzn) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive \(with Roland Clark\)](https://open.spotify.com/album/3t0DyF5O7pPimFm7lv0zJm) | 3:41 | 2022-01-21 | 2022-04-23 |
 | [ALL DAY / ALL NIGHT \- Radio Edit](https://open.spotify.com/track/3qdJ0t9CO3WRxzKcoJhSBY) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [ALL DAY / ALL NIGHT](https://open.spotify.com/album/6p0jkK5G6CHQZRLQ8TXYaF) | 3:39 | 2021-11-26 | 2022-04-23 |
@@ -50,6 +50,7 @@
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-03-24 |  |
 | [All The Night](https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [All The Night](https://open.spotify.com/album/2IMOvEknlvMR8XdyvyKF19) | 2:41 | 2022-12-02 | 2023-03-11 |
 | [All The People](https://open.spotify.com/track/3DIbhNca59R5jLzq7AHnlr) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Get High / All The People](https://open.spotify.com/album/5UsOV3iYkxO92bTfXqhLzc) | 3:47 | 2021-11-26 | 2022-01-06 |
+| [All The Way](https://open.spotify.com/track/6t4KvBSTG8J4u50RZiEob6) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz), [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [All The Way](https://open.spotify.com/album/3FdDfyX2JsStc0nVNSzKAY) | 3:22 | 2023-06-30 |  |
 | [All We Got](https://open.spotify.com/track/6t4wyAmIr2RNyr4NgflEHI) | [Shy Baboon](https://open.spotify.com/artist/6avFwlvVwfIA6uz8OAryva), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [All We Got](https://open.spotify.com/album/5FyoJk2EX4h0wVGTZvCYpE) | 3:31 | 2021-11-26 | 2022-01-06 |
 | [All You Need](https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [All You Need](https://open.spotify.com/album/5XHqjPYI5mRWF6EDNF4FiT) | 3:43 | 2022-04-01 | 2022-06-25 |
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-01-21 | 2022-06-11 |

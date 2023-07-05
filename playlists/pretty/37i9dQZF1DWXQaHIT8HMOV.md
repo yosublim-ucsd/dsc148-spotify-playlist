@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,568 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 36 | [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 |
 | 37 | [Let Me Be](https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Let Me Be](https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03) | 2:59 |
 | 38 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 |
-| 39 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
-| 40 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
-| 41 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
-| 42 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
-| 43 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 |
+| 39 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 |
+| 40 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
+| 41 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
+| 42 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
+| 43 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
 | 44 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 |
 | 45 | [Never Let Me Go](https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp) | [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8) | [Longitude 20](https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K) | 3:42 |
 | 46 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
 | 47 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
-| 48 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
-| 49 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 |
-| 50 | [More Love](https://open.spotify.com/track/1C6KQftJvaupHvNSSIIN9D) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [More Love](https://open.spotify.com/album/5Tw7909lweMrp0K45iqYOQ) | 3:14 |
+| 48 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 |
+| 49 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
+| 50 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 |
 
-Snapshot ID: `MCw5MmNmZDkxMzFlYTMxZWUxYzBiOTU4ODc2YzE1ZjgwOGFkOGVjNzZj`
+Snapshot ID: `MCwwOTgxZDhlZTBjODQ1M2Q4OTk4NzhkZDEyMGRhN2IyNzRhNzA0Mzk0`

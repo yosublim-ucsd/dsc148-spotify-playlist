@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 717036,
+  "num_followers": 717073,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFmZDEzNGM4MDlmY2NkOWQzNzIwY2VhZWM5YmI5OTI4NzFjMGE2",
+  "snapshot_id": "MCw5MDU1YzU1NGRkNDQ0YzRhNzRkNGUwZTNiZDJiMmZkMmY5M2VjNTZm",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Numbered Doors",
+        "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 213249,
+      "name": "The Time I've Wasted",
+      "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "I Forget Myself (feat. Darlingside)",
         "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Numbered Doors",
-        "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 213249,
-      "name": "The Time I've Wasted",
-      "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Far from Home",
-        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 232373,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 234320,
       "name": "Find Me Here - Broke Down",
       "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Without A Word",
-        "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 236226,
       "name": "half of my hometown - ballerini album version",
       "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Without A Word",
+        "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 220000,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2023-02-17 05:00:00",

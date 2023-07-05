@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
         "name": "Anointed",
         "url": "https://open.spotify.com/album/39CNJPF5pFr35SjTYMDWjE"
       },
@@ -3006,6 +3024,24 @@
       "duration_ms": 153902,
       "name": "Feels like home",
       "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
+    },
+    {
+      "album": {
+        "name": "Felt Improv No. 2",
+        "url": "https://open.spotify.com/album/24cbiNZw3ZWwz3VnrZvndX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Felt Improv No. 2",
+      "url": "https://open.spotify.com/track/5ZR3kgNxgTsWXdGhnAbZLy"
     },
     {
       "album": {
@@ -6636,7 +6672,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 119522,
       "name": "Never Before",
       "url": "https://open.spotify.com/track/0MDFVZGO3we7Usiy2YrB41"
@@ -6950,6 +6986,24 @@
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
+    },
+    {
+      "album": {
+        "name": "nyvallen",
+        "url": "https://open.spotify.com/album/2dnicxYzWPd2TJg1qz6qxp"
+      },
+      "artists": [
+        {
+          "name": "Ove Roos",
+          "url": "https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "nyvallen",
+      "url": "https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz"
     },
     {
       "album": {
@@ -10644,7 +10698,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 185670,
       "name": "Undulations",
       "url": "https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP"
@@ -10770,7 +10824,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 142323,
       "name": "Vale of Tears",
       "url": "https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG"
@@ -10900,6 +10954,24 @@
       "duration_ms": 180260,
       "name": "Vento leggero",
       "url": "https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ"
+    },
+    {
+      "album": {
+        "name": "Verse and stanza",
+        "url": "https://open.spotify.com/album/0NJMGKE0TSmqujdeu2Dspx"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120380,
+      "name": "Verse and stanza",
+      "url": "https://open.spotify.com/track/3E1huSmDgsuGGeFlxzNXUp"
     },
     {
       "album": {
@@ -11094,7 +11166,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 155500,
       "name": "wandering bird",
       "url": "https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR"

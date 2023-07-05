@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 58225,
+  "num_followers": 58250,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzZlN2UzNjAwYzJkYzYzYjQzNjZjNjk1OTljZmMyZDVmMWFiMGM4",
+  "snapshot_id": "MCw0MTg5ZDdkNzhlN2YzMGYwYjBiYTU5ZWNkODNmODhjOGY2OWMxZjQ2",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Paparanoja",
         "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 187640,
       "name": "Kamie\u0144 z Napisem Love",
       "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Marek Grechuta - 40 piosenek",
-        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
-      },
-      "artists": [
-        {
-          "name": "Marek Grechuta",
-          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
-        },
-        {
-          "name": "Anawa",
-          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
-        }
-      ],
-      "duration_ms": 104733,
-      "name": "B\u0119dziesz moj\u0105 pani\u0105",
-      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 263853,
       "name": "Trudno Tak (Razem Byc Nam Ze Soba)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Marek Grechuta - 40 piosenek",
+        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
+      },
+      "artists": [
+        {
+          "name": "Marek Grechuta",
+          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
+        },
+        {
+          "name": "Anawa",
+          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
+        }
+      ],
+      "duration_ms": 104733,
+      "name": "B\u0119dziesz moj\u0105 pani\u0105",
+      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
     },
     {
       "added_at": "2023-04-03 09:53:55",

@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 35058,
+  "num_followers": 35075,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjFmYzcxYWViNjk0ZGJmZmRlYWM4ZTU5MWRjMjc2N2M2ZjhlNjA5",
+  "snapshot_id": "MCwyM2JmZDUwMTkyMjA2ZjgzNmE3Mzg5ZGFjYTk3ZjhjMTUwZDIyYWYy",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+        "name": "Buena Vista Social Club at Carnegie Hall (Live)",
+        "url": "https://open.spotify.com/album/7gIpPRE9VDKCrMk08okn59"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
         }
       ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+      "duration_ms": 227760,
+      "name": "Quiz\u00e1s, Quiz\u00e1s - Live",
+      "url": "https://open.spotify.com/track/2GVDX9MYgot3QdNe7xv1Yb"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Buena Vista Social Club at Carnegie Hall (Live)",
-        "url": "https://open.spotify.com/album/7gIpPRE9VDKCrMk08okn59"
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 227760,
-      "name": "Quiz\u00e1s, Quiz\u00e1s - Live",
-      "url": "https://open.spotify.com/track/2GVDX9MYgot3QdNe7xv1Yb"
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Curanderas",
-        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
-      },
-      "artists": [
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Una De Mambo",
-      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 153663,
       "name": "(Poor Mi) Israelites",
       "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Curanderas",
+        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
+      },
+      "artists": [
+        {
+          "name": "Kelvis Ochoa",
+          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Una De Mambo",
+      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Captain Bacardi",
-      "url": "https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Latin Piece of Soul",
         "url": "https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 186698,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Captain Bacardi",
+      "url": "https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Astrud Gilberto W/ Stanley Turrentine",
-        "url": "https://open.spotify.com/album/1pBySyoanBiqZr7h4eYERr"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Zazueira (with Stanley Turrentine)",
-      "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 223866,
       "name": "Soy Loco Por Ti America - Remastered 2006",
       "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Astrud Gilberto W/ Stanley Turrentine",
+        "url": "https://open.spotify.com/album/1pBySyoanBiqZr7h4eYERr"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Zazueira (with Stanley Turrentine)",
+      "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"
     },
     {
       "added_at": "2021-03-15 16:04:53",

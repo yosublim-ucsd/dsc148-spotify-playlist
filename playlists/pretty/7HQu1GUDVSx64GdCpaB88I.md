@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 
 > Get your freak on with golden era of rap music! All the 90s hip hop throwbacks including classic old school songs from Biggie, Missy Elliott, Nas, 2Pac, Outkast and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,885 likes - 90 songs - 6 hr 29 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 536,873 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 | 60 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 |
 | 61 | [Big Momma Thang](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
 | 62 | [Poison](https://open.spotify.com/track/0j7UX4XEd3PXGOmmcn84xY) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded\)](https://open.spotify.com/album/6MvzZcF9TtJEEkrQdDVaHn) | 4:21 |
-| 63 | [Tennessee \- Remastered](https://open.spotify.com/track/5K8qwhQQSAj9ebIvlNJY8q) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Classic Masters](https://open.spotify.com/album/4Q0QBX3Td4FfHeG7fiJcVW) | 4:32 |
+| 63 | [Tennessee \- Remastered 2001](https://open.spotify.com/track/5K8qwhQQSAj9ebIvlNJY8q) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Classic Masters](https://open.spotify.com/album/4Q0QBX3Td4FfHeG7fiJcVW) | 4:32 |
 | 64 | [Around The Way Girl](https://open.spotify.com/track/4Qxv2L4JICAWLFrBV6QeH8) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out \(Deluxe Edition\)](https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe) | 4:06 |
 | 65 | [Can't You See \(feat\. The Notorious B.I.G.\) \- 2016 Remaster](https://open.spotify.com/track/3vHCKWXrrqjkUJrh394Tou) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:39 |
 | 66 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |

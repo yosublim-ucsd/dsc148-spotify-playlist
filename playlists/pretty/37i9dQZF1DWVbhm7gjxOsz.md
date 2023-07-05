@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,250 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,579 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 32 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 |
 | 33 | [I'm Still in Love with You](https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 3:11 |
 | 34 | [Gimme Little Sign](https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:21 |
-| 35 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
-| 36 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
+| 35 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
+| 36 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
 | 37 | [You've Really Got A Hold On Me \- Alternate Stereo Mix](https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [OOO Baby Baby: The Anthlogy](https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4) | 3:12 |
 | 38 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
-| 39 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
+| 39 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 |
 | 40 | [Angel Baby](https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Unavailable 16 & The Original Nitty Gritty](https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj) | 3:47 |
-| 41 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 |
+| 41 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
 | 42 | [Me And You](https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 3:02 |
 | 43 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 44 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 61 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 |
 | 62 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:39 |
 | 63 | [I Want to Be Your Man](https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:09 |
-| 64 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
-| 65 | [I Want You Back \- Remastered](https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY) | [Don Julian & The Larks](https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y) | [East Side Story Volume 5](https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl) | 3:08 |
-| 66 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
+| 64 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
+| 65 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
+| 66 | [I Want You Back \- Remastered](https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY) | [Don Julian & The Larks](https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y) | [East Side Story Volume 5](https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl) | 3:08 |
 | 67 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
 | 68 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
 | 69 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Boy With the Angel Eyes](https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY) | [Vicky Tafoya and the Big Beat](https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v) | [Never Let Go, Vol\. 1](https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU) | 4:04 |
 | 150 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/5rsL7vz0rU31i1Ugd5lyQY) | [Hector Rivera](https://open.spotify.com/artist/5QBCiKjgFTznZwKUiiDTXA) | [The Sweeter Side Of Latin Soul](https://open.spotify.com/album/3K4UkNHO8AGTI1mVSbMr0w) | 4:15 |
 
-Snapshot ID: `MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj`
+Snapshot ID: `MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk`

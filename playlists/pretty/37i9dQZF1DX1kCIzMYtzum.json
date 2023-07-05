@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 165525,
+  "num_followers": 165735,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmIwNjhjMjIyZmE1YjYyNjIyMzJiMzg0OTgyN2U5ZjJlZjE5NTI0",
+  "snapshot_id": "MCxhYzQ5M2RlZmQzOGViYjJlNzk5ZmRiNzhjMjgxMDhhZGUzYjA4MDI3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 154838,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
@@ -1059,6 +1039,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 155409,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lucid Dream",
+        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 193235,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1115,18 +1131,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lucid Dream",
-        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 193235,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
+      "duration_ms": 183495,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1147,26 +1167,6 @@
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
-      },
-      "artists": [
-        {
-          "name": "Theresa Rex",
-          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Esta Vida (Deorro Remix)",
-        "url": "https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl"
+        "name": "Numb (Alok Remix)",
+        "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
       "artists": [
         {
@@ -1392,17 +1392,49 @@
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         }
       ],
-      "duration_ms": 239896,
-      "name": "Esta Vida - Deorro Remix",
-      "url": "https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj"
+      "duration_ms": 172913,
+      "name": "Numb - Alok Remix",
+      "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "BANG BANG! (My Neurodivergent Anthem)",
+        "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "BANG BANG! (My Neurodivergent Anthem)",
+      "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1427,38 +1459,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "BANG BANG! (My Neurodivergent Anthem)",
-        "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "BANG BANG! (My Neurodivergent Anthem)",
-      "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Lay Low (Ti\u00ebsto VIP Mix)",
-        "url": "https://open.spotify.com/album/2eoM5rDP2qp7MV5FE7p3wr"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Lay Low (Ti\u00ebsto VIP Mix)",
-      "url": "https://open.spotify.com/track/3arD8N1yRHfbNe6kI3vyZF"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1579,8 +1579,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Numb (Alok Remix)",
-        "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
+        "name": "Esta Vida (Deorro Remix)",
+        "url": "https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl"
       },
       "artists": [
         {
@@ -1588,17 +1588,17 @@
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 172913,
-      "name": "Numb - Alok Remix",
-      "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+      "duration_ms": 239896,
+      "name": "Esta Vida - Deorro Remix",
+      "url": "https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 487359,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "I'm Good (Blue) [Remixes]",
         "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 178124,
       "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 487359,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 216796,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Love You Back",
         "url": "https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 214838,
       "name": "Dance on My Own (feat. Richard Judge)",
       "url": "https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     }
   ],
   "unique_name": "EDM 2023",

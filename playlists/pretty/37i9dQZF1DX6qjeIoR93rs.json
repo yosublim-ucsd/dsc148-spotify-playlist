@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 45707,
+  "num_followers": 45735,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTkzZGFkMDhmMjhkNDA4NmQ1MTM1YjZmZDhmZGQyY2UwZGUzZGQx",
+  "snapshot_id": "MCxiN2YyMzI5MzRkMjljODZlNmJhMTA1YWI4NjM5MjJhYzRjZGRlNDk4",
   "tracks": [
     {
       "added_at": "2023-06-15 07:02:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Muntasib Alqamah Amshi",
-        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 240195,
-      "name": "Dammi Falastini",
-      "url": "https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Jdeed, Vol. 3",
         "url": "https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 312032,
       "name": "Hada el 7aki 3eh",
       "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Muntasib Alqamah Amshi",
+        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 240195,
+      "name": "Dammi Falastini",
+      "url": "https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Dalaa Dalouna",
-        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 199334,
-      "name": "Dalaa Dalouna",
-      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Kounili El Musica",
         "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
       },
@@ -303,22 +287,6 @@
       "duration_ms": 175626,
       "name": "Kounili El Musica",
       "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -339,6 +307,22 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Dalaa Dalouna",
+        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 199334,
+      "name": "Dalaa Dalouna",
+      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
     },
     {
       "added_at": "2023-06-15 07:02:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-15 07:02:44",
       "album": {
-        "name": "Today Is the day",
-        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Today is the day",
-      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2023-06-15 07:02:44",
-      "album": {
         "name": "Nai 1",
         "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 328773,
       "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
       "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
+    },
+    {
+      "added_at": "2023-06-15 07:02:44",
+      "album": {
+        "name": "Today Is the day",
+        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Today is the day",
+      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
     },
     {
       "added_at": "2023-06-15 07:02:44",

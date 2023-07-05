@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó, featuring Bizarrap & Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,067 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,106 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 24 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
 | 25 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 |
 | 26 | [La Receta](https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [La Receta](https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y) | 2:55 |
-| 27 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 |
-| 28 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
+| 27 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
+| 28 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 |
 | 29 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
 | 30 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 |
 | 31 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 44 | [De Revista \- Remix](https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [De Revista \(Remix\)](https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3) | 3:59 |
 | 45 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
 | 46 | [Men2](https://open.spotify.com/track/3rsR6s7AkrzzUB1xEOxy25) | [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu) | [Men2](https://open.spotify.com/album/7MQyeVe7Tu5FfzmrQiCVUd) | 3:58 |
-| 47 | [Vete Lejos \- Prod\. by Dj Cham](https://open.spotify.com/track/1DUT0RmMziQGKyFmoPppb9) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Vete Lejos](https://open.spotify.com/album/7dCPIJNrIpEoUA1c40gt8y) | 3:41 |
-| 48 | [Un Cuerpazo](https://open.spotify.com/track/1Q5vuDabWdu2cEibvVHDsR) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Cuerpazo](https://open.spotify.com/album/6kWEAdQ6zbegtqDZjYIxtk) | 2:06 |
+| 47 | [Un Cuerpazo](https://open.spotify.com/track/1Q5vuDabWdu2cEibvVHDsR) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Cuerpazo](https://open.spotify.com/album/6kWEAdQ6zbegtqDZjYIxtk) | 2:06 |
+| 48 | [Vete Lejos \- Prod\. by Dj Cham](https://open.spotify.com/track/1DUT0RmMziQGKyFmoPppb9) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Vete Lejos](https://open.spotify.com/album/7dCPIJNrIpEoUA1c40gt8y) | 3:41 |
 | 49 | [La Popola](https://open.spotify.com/track/54Jjni92Qtv6OOgdMYA7Q1) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh) | [La Popola](https://open.spotify.com/album/1EvrXhte5nqYQV84X1HLcG) | 2:59 |
-| 50 | [No Te Bote](https://open.spotify.com/track/15pBzHFFi56qdMfJ2xR9YW) | [LKM](https://open.spotify.com/artist/72bHPNx6XJlnOXdZz5nsce) | [No Te Bote](https://open.spotify.com/album/0V8U6k2SHb0d0sU9SXxXSd) | 3:21 |
+| 50 | [Un Inclinao \- Prod\. by Ernesto Losa, Cuban Deejays](https://open.spotify.com/track/0Cl4Uf9dFMnOeAsPnOF222) | [Bebeshito](https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Un Inclinao \(Prod\. by Ernesto Losa, Cuban Deejays\)](https://open.spotify.com/album/4hRclDUmKnI7jBR4nDERZG) | 2:53 |
 
-Snapshot ID: `MCxhM2U4Mzk0NzBmNDdhM2ZjMzEyNzZmMDZkYzg0OWNhZDVmYzZmM2M0`
+Snapshot ID: `MCwyMjM3MzFjNDY5OTEyMzEzNjQwMjRiZDZmMDk3YzlkZjczNzUzNzA4`

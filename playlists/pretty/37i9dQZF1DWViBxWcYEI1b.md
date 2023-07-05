@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,696 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,701 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [WHERE YOU BELONG](https://open.spotify.com/track/3W1FAAdNDVdyJxJwV8Lps2) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [WHERE YOU BELONG](https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO) | 2:56 |
 | 100 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
 
-Snapshot ID: `MCwxMDIyMTUzM2E3ODA5ODE0YjcxMjEzMzEwMzcwNDNmN2JmZGMxY2Fl`
+Snapshot ID: `MCxmYjkwOWM0MDcwN2M5ZjkzNTg1NTg1YjY4OGJkY2FhZDM4NmU3MDQ0`

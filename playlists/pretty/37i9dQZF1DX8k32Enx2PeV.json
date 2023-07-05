@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6462,
+  "num_followers": 6481,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTUyZDgwN2I1MGNjZTc4YWMzOWY2MzhmZjlhNmM4YzVmMWVjNTA3",
+  "snapshot_id": "MCxjY2M2NjU0NjM3ZjE3N2NjZWU3Y2YwYWNlNGIwNjBiNmY1MDJhZjQy",
   "tracks": [
     {
       "added_at": "2023-06-30 05:46:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "M\u00e1quina Del Tiempo",
-        "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "M\u00e1quina Del Tiempo",
-      "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "M\u00e1quina Del Tiempo",
+        "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "M\u00e1quina Del Tiempo",
+      "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 221346,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Sun a Shine",
-        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
-      },
-      "artists": [
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Sun a Shine",
-      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 155613,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Sun a Shine",
+        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
+      },
+      "artists": [
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "Sun a Shine",
+      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 225304,
       "name": "Este Momento",
       "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 217366,
       "name": "Loco Playa",
       "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-06-30 05:46:00",

@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: YSN Fab
 
-1,035 songs - 1 day 23 hr 55 min
+1,036 songs - 1 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Champion](https://open.spotify.com/track/1NqotoOdhbCWquCz6Vuv9U) | [TkMN](https://open.spotify.com/artist/61A2QGJWZ3b8mlVtQ552qU) | [Champion](https://open.spotify.com/album/6eZtCKeoOzZBNLvZBKGvH4) | 3:07 | 2023-06-23 |  |
 | [Change](https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE) | [Meeco](https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T), [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv) | [Change](https://open.spotify.com/album/0C7TBWsRhx5h6VDUwxfOlP) | 3:00 | 2022-12-16 | 2023-03-18 |
 | [Chapel Hill](https://open.spotify.com/track/1QG2qGJRli4auNMoXp2FTj) | [John River](https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg) | [Chapel Hill](https://open.spotify.com/album/5jmuvTs6bZ3IJNA8GXbUZi) | 2:40 | 2023-04-07 |  |
-| [Charge It To The Game](https://open.spotify.com/track/2yDWiAUGbn9mO2gKeuKCKJ) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [How Did I End Up Here \(Deluxe\)](https://open.spotify.com/album/2XpCNiDKLOB8kWh1P6154H) | 2:35 | 2023-04-14 |  |
+| [Charge It To The Game](https://open.spotify.com/track/2yDWiAUGbn9mO2gKeuKCKJ) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [How Did I End Up Here \(Deluxe\)](https://open.spotify.com/album/2XpCNiDKLOB8kWh1P6154H) | 2:35 | 2023-04-14 | 2023-07-05 |
 | [Chatter](https://open.spotify.com/track/3ScpH2KJqBfRlTHhdNeBqn) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Chatter](https://open.spotify.com/album/55HYWfQQTWzwrFffFIltvv) | 2:20 | 2022-12-02 | 2023-02-25 |
 | [CHECK THE STATS](https://open.spotify.com/track/5o8sujjo7xS7eqe40Fahtd) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Made 4 More 2](https://open.spotify.com/album/1BTRlRnUM0XZaLGJBJoBqy) | 3:14 | 2022-01-07 | 2022-01-22 |
 | [Cheffin Up](https://open.spotify.com/track/2kdWA7SAn6CqVSRCQWyaFT) | [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5), [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Cheffin Up](https://open.spotify.com/album/3fHD8Y5Gu8XCQfplZtL6Du) | 2:53 | 2022-05-28 | 2022-10-08 |
@@ -303,6 +303,7 @@
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2022-01-07 | 2022-02-19 |
 | [Fake Love](https://open.spotify.com/track/33mNDcTmeCtV96Xcc5YUgM) | [K\-Cuzz](https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0) | [Eyes On Me](https://open.spotify.com/album/500tV5hhb6NPj6RWq3BxQ8) | 2:25 | 2023-04-21 | 2023-06-17 |
 | [FALLEN STAR \(feat\. Y2K\)](https://open.spotify.com/track/2e3XcLWd1SzB5jlJu53blm) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [FALLEN STAR \(feat\. Y2K\)](https://open.spotify.com/album/25mw8OfaL2uShDPDb9Oieg) | 2:31 | 2022-04-29 | 2022-09-10 |
+| [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 | 2023-07-04 |  |
 | [Fam Without Blood](https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Fam Without Blood](https://open.spotify.com/album/0BAZrp2yemAgUY2RiKQt3k) | 3:01 | 2022-12-09 | 2023-03-25 |
 | [Fast Life](https://open.spotify.com/track/6qv2lBdSdFof7UY0FLQMvu) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Fast Life](https://open.spotify.com/album/5w5Qyq7m9ZpQPmoRPx0IkF) | 1:55 | 2022-01-07 | 2022-03-05 |
 | [Fast Route](https://open.spotify.com/track/5jO9sTjyQKyayUmYnobf1d) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Fast Route](https://open.spotify.com/album/2pBXTzlMiG0H7o4koiswWy) | 2:59 | 2023-06-09 |  |

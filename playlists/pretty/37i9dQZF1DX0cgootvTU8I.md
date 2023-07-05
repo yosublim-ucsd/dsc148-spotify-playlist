@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,636 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,674 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 46 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
 | 47 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 48 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
-| 49 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
-| 50 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
+| 49 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
+| 50 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
 
-Snapshot ID: `MCwzZDZiZWQ0YThiOGEwYmRlOGNhMGI0M2RkZTY2MDc2ZDJlNjJhMWZi`
+Snapshot ID: `MCxhYzRlOGY3Mjc4NjUyZDk3ZDI4MTQ2YzMzOGFhYzgyYzk2NzMwNDhi`

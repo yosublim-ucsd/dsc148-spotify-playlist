@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2330262,
+  "num_followers": 2330522,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGNlZGI5MjQyZWRhYjE1NWEwNjY3ZGQ1YWIzM2JhNzI4ZGYwZTBj",
+  "snapshot_id": "MCw0NGQ2MjFkYTBlNWI5OTc0ODg1YzA4MTA0ODJlOGM2Zjc0MmM4MmQ1",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Days Of The New",
-        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "Touch, Peel And Stand",
-      "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Stay (I Missed You)",
         "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Days Of The New",
+        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "Touch, Peel And Stand",
+      "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
     },
     {
       "added_at": "2020-11-18 19:14:53",

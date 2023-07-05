@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Daniel](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 3 likes - 64 songs - 3 hr 32 min
+[Daniel](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 4 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 62 | [Comics](https://open.spotify.com/track/6mW6lEKUw4or42IEwBCXJe) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:32 |
 | 63 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 |
 | 64 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 |
+| 65 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 
-Snapshot ID: `ODgsZmQzOTQzZmY5MGNhNzBjNDVjOWI3MTdhZTc3ZjJlMzFmY2JhNDcxMw==`
+Snapshot ID: `ODksMGQzZThhMDc4YjE1MzVkODhkMWZkYWFlNDIwM2ZjOTkwYjc1ZjQ1Mw==`

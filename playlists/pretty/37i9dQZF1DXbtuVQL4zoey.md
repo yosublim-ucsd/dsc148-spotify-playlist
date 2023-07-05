@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,583 likes - 322 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,834 likes - 322 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,4 +331,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 321 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 |
 | 322 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 
-Snapshot ID: `MCw2ZmY2OTcyMDY0MjU3NDExOTBiZjY4ZTZmOGI0NDgwMGE2NjJhNTFi`
+Snapshot ID: `MCwzYWI5NGQ0N2UyMzMxM2QxMjYyOTQ2YmFmNjU2ZTA1NjA4MzdjM2M1`

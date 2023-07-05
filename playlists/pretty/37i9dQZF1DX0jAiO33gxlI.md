@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Nill
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,675 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,693 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sol](https://open.spotify.com/track/3nh2epfcWTwQIQdXDZbJIX) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Bonbap](https://open.spotify.com/artist/0I0iUZ8SnWxEFPhSDCMfrw), [Mbeattz](https://open.spotify.com/artist/1MDnJ2vb1OP6ytire9Ai5W) | [O Resgate do Maestro](https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1) | 2:50 |
 | 2 | [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 |
 | 3 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 |
-| 4 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 4 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
 | 5 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 6 | [Complexo Conflito](https://open.spotify.com/track/3qqU31jQ6XUzqqDGD81dA6) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Lukeny Bamba Fortunato](https://open.spotify.com/artist/6evdS0ItviCNYAGyjgIUbM), [DJ RM Brasil](https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G) | [Complexo Conflito](https://open.spotify.com/album/43jev1IsnFQmZ4RK9zEMaE) | 3:04 |
 | 7 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Pertence ao Crime](https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 2:45 |
 | 75 | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/track/2bnNGFhIubWO4PvEIlmSwC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/album/6Yck9pW5bltFmS87Trjv1u) | 4:36 |
 
-Snapshot ID: `MCw3OTVhNDcxYWM3NDM5OWFhZDBjNTIwYTFhYzI0M2UzZWNkNTA1ZmU2`
+Snapshot ID: `MCxhY2NiNDgwNWY1MjEwOWFlNjQwY2RlYmE1YTI5MTc4ZDk0OGVmM2Fl`

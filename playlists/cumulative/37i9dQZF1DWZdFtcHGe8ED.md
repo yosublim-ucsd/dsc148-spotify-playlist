@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-377 songs - 1 day 2 hr 54 min
+378 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Kai Tangata](https://open.spotify.com/track/15ns9F2JQwRrZuV81YUmfy) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/2CjKczzR0K77kUR7R1G2Di) | 6:35 | 2021-12-17 | 2022-07-27 |
 | [Khomaniac](https://open.spotify.com/track/7hdr0UMDjWCKZKDaN2zWlT) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [Deadly Relics](https://open.spotify.com/album/200a6DqACwMAgATqO1I2W7) | 6:41 | 2022-07-13 | 2022-07-29 |
 | [Kill as One](https://open.spotify.com/track/3U7bYEYs8GEAh2yyyhErly) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [The Ultra\-Violence](https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA) | 4:59 | 2022-07-13 | 2022-07-26 |
-| [Kill the Silence](https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Downfall of Mankind](https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj) | 3:29 | 2021-12-17 |  |
+| [Kill the Silence](https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Downfall of Mankind](https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj) | 3:29 | 2021-12-17 | 2023-07-05 |
 | [Killer Of Killers](https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v) | [Zig Zags](https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3) | [Killer Of Killers](https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk) | 3:48 | 2021-12-17 | 2022-07-29 |
 | [King Of The Kill](https://open.spotify.com/track/7tuk6FriAW7gYbFevTGhUB) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Feast](https://open.spotify.com/album/5GGfaOLrxK4U38Y6b2gLoY) | 3:15 | 2022-07-13 | 2022-07-29 |
 | [King of the Kill \- 2013 Version](https://open.spotify.com/track/1gEV4KEZ7QNo7hO8ClhIGl) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Re\-Kill](https://open.spotify.com/album/7hNLVrrT1IUaqM9ltDwGWl) | 3:15 | 2022-07-13 |  |
@@ -234,6 +234,7 @@
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-08-26 |  |
 | [Out of Time](https://open.spotify.com/track/0ecCcO3gk2USR2o18UCBCf) | [The Curse Within](https://open.spotify.com/artist/1ILgHQXlqAxKPwQZCJsSKH) | [Seeking Vengeance](https://open.spotify.com/album/3aa6ckgxUKPXOyf1u4WlJM) | 4:06 | 2021-12-17 | 2022-07-25 |
 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [Outsider God Creation](https://open.spotify.com/album/5nOqZJVn2duMUUnKG1VLGQ) | 3:43 | 2021-12-17 | 2022-12-16 |
+| [Over the Wall](https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW) | 4:06 | 2023-06-27 |  |
 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 | 2022-07-13 | 2023-06-22 |
 | [Paranormalium](https://open.spotify.com/track/1qnJF3sdfkV2HLHwZRMPEP) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/2JZN65DjGzT65ondXiQDHI) | 5:34 | 2022-02-25 | 2022-02-28 |
 | [Paranormalium](https://open.spotify.com/track/3634Lir0Zjbiq3SIivY5Qv) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Paranormalium](https://open.spotify.com/album/7Lft05qgM4TCVH1LhRzm1i) | 5:34 | 2022-01-07 | 2022-01-29 |

@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-278 songs - 14 hr 36 min
+279 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-07-28 | 2022-12-25 |
 | [KEEP TO MYSELF](https://open.spotify.com/track/7CR8H5Ys9btayZxKOih86O) | [Rushafella](https://open.spotify.com/artist/065WVnGOLwLxfGTuejvA6W), [R.S](https://open.spotify.com/artist/0SlyxGFsFrA8GFOPgbrPIL), [BigMoon](https://open.spotify.com/artist/6BpUKH159fTXYSEFfEgW6J) | [RUSHAFELLA TO THE WORLD](https://open.spotify.com/album/6S4PAxvRROYepV9KJ2Ov6P) | 2:46 | 2023-05-15 | 2023-05-27 |
 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 | 2023-06-22 |  |
-| [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
+| [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 | 2023-07-05 |
 | [Knocking \(Remix\)](https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM) | [Knocking \(Remix\)](https://open.spotify.com/album/7e1Vbnaoy1o4i5ebxqAfgt) | 3:14 | 2022-10-30 | 2023-01-21 |
 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 | 2022-09-09 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-06-09 | 2023-01-21 |
@@ -179,6 +179,7 @@
 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 | 2022-11-14 |
 | [NNEKA \(feat\. Tekno\)](https://open.spotify.com/track/0mYgEZ0CNnEAGBKpxD1fgv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:15 | 2023-06-16 | 2023-06-23 |
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-25 | 2023-05-12 |
+| [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-30 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-06-09 | 2022-10-31 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2023-01-21 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-06-09 | 2023-03-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 35199,
+  "num_followers": 35229,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzNkMjU0MWY3OGZkNTM1NDBjODk1MzM0MmY2YjM4NWY2ZjBiN2Vk",
+  "snapshot_id": "MCxjYmY2YjViNWM4YTI0NDcwZGYzZmZhY2QwMTM4MTU2YThlMDBkMmNi",
   "tracks": [
     {
       "added_at": "2023-07-03 10:55:17",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-03 10:55:17",
       "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
-    },
-    {
-      "added_at": "2023-07-03 10:55:17",
-      "album": {
         "name": "O Brilho de Viver",
         "url": "https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 255652,
       "name": "O Brilho de Viver",
       "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
+    },
+    {
+      "added_at": "2023-07-03 10:55:17",
+      "album": {
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Tequila (Studio Version)",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-07-03 10:55:17",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-07-03 10:55:17",
       "album": {
-        "name": "\u00c0s Vezes",
-        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
-      },
-      "artists": [
-        {
-          "name": "Sien Flamuri",
-          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
-        },
-        {
-          "name": "mizt",
-          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
-        }
-      ],
-      "duration_ms": 163061,
-      "name": "\u00c0s Vezes",
-      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
-    },
-    {
-      "added_at": "2023-07-03 10:55:17",
-      "album": {
         "name": "J\u00e1 Sei",
         "url": "https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 144092,
       "name": "J\u00e1 Sei",
       "url": "https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR"
+    },
+    {
+      "added_at": "2023-07-03 10:55:17",
+      "album": {
+        "name": "\u00c0s Vezes",
+        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
+      },
+      "artists": [
+        {
+          "name": "Sien Flamuri",
+          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
+        },
+        {
+          "name": "mizt",
+          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
+        }
+      ],
+      "duration_ms": 163061,
+      "name": "\u00c0s Vezes",
+      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
     },
     {
       "added_at": "2023-07-03 10:55:17",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-07-03 10:55:17",
       "album": {
+        "name": "Bday",
+        "url": "https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5"
+      },
+      "artists": [
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "Bday",
+      "url": "https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL"
+    },
+    {
+      "added_at": "2023-07-03 10:55:17",
+      "album": {
         "name": "Mais ningu\u00e9m",
         "url": "https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 179722,
       "name": "Mais ningu\u00e9m",
       "url": "https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI"
-    },
-    {
-      "added_at": "2023-07-03 10:55:17",
-      "album": {
-        "name": "Bday",
-        "url": "https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5"
-      },
-      "artists": [
-        {
-          "name": "MDO (Menino de Ouro)",
-          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Bday",
-      "url": "https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL"
     },
     {
       "added_at": "2023-07-03 10:55:17",

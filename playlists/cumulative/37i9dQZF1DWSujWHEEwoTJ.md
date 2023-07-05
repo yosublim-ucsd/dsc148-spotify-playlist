@@ -4,7 +4,7 @@
 
 > Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile.
 
-100 songs - 5 hr 18 min
+101 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 | 2023-01-30 |  |
 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 | 2022-01-20 | 2023-04-15 |
 | [Pica Perica \(En Vivo\)](https://open.spotify.com/track/0aZNpdsyVJi2GBvvVWRA48) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:44 | 2022-01-20 |  |
-| [Piénsalo \- Inédita](https://open.spotify.com/track/33i30iRaIfo7ABAaT5oqDy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 2:35 | 2022-01-20 |  |
+| [Piénsalo \- Inédita](https://open.spotify.com/track/1zsW8lKqfC2IpO6p05WMAW) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ) | 2:35 | 2023-04-14 |  |
+| [Piénsalo \- Inédita](https://open.spotify.com/track/33i30iRaIfo7ABAaT5oqDy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 2:35 | 2022-01-20 | 2023-07-05 |
 | [Popurrí Ranchero \- En Vivo](https://open.spotify.com/track/7FgLx7CNxdhLMbHXQFdarp) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo CDMX](https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT) | 8:37 | 2022-01-20 |  |
 | [Popurrí: Las Vaquillas Cabronas](https://open.spotify.com/track/0mFUqKd7VxTNNMfHefoxwS) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 8:29 | 2022-01-20 |  |
 | [Prefiero Empedarme](https://open.spotify.com/track/0x2DmQvuFXVNHBlPrs4cYC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Prefiero Empedarme](https://open.spotify.com/album/5CxAtFbcNiBzdeSr1RSx0l) | 3:12 | 2023-01-30 |  |

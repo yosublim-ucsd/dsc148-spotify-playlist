@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 212413,
       "name": "26 Blvd",
       "url": "https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 212413,
       "name": "26 Blvd",
       "url": "https://open.spotify.com/track/3v83EFDmAWMH96r3XUf8AJ"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
@@ -1681,7 +1681,7 @@
       "artists": [
         {
           "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP"
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
         }
       ],
       "date_added": "2023-06-23",

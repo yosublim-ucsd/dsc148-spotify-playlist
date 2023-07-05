@@ -4,7 +4,7 @@
 
 > Olivia Rodrigo deze week op de cover van Fresh Pop.
 
-246 songs - 12 hr 24 min
+247 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 | 2023-03-09 | 2023-06-09 |
 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 | 2023-02-24 | 2023-04-14 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-02-24 | 2023-03-03 |
-| [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/track/15HbiGaVmP7Bbyh2yMWpzH) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/album/0rwBcjeWsQKmmCBkD0UTi4) | 2:46 | 2023-04-06 |  |
+| [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/track/15HbiGaVmP7Bbyh2yMWpzH) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/album/0rwBcjeWsQKmmCBkD0UTi4) | 2:46 | 2023-04-06 | 2023-07-05 |
 | [me and my big mouth](https://open.spotify.com/track/6bAMtverQa0Aryho6wGmkV) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [me and my big mouth](https://open.spotify.com/album/3GSXrqL19GsJQciZUcuy41) | 2:48 | 2023-02-24 | 2023-03-31 |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-15 |  |
@@ -179,6 +179,7 @@
 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 | 2023-04-27 |  |
 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 | 2023-04-13 |  |
 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 | 2023-05-11 |  |
+| [Outta Love](https://open.spotify.com/track/5dlnBde2bY8vxNDE4sUQbA) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Outta Love](https://open.spotify.com/album/2laThtkIUEl6V3IzGBfwRs) | 2:19 | 2023-07-04 |  |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-22 |  |
 | [Parents](https://open.spotify.com/track/4SS47eWF7RWiq5zyasU8zV) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Parents](https://open.spotify.com/album/4bf1bKu2bY066vvjVH6acz) | 2:44 | 2023-03-02 | 2023-05-26 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-24 | 2023-04-14 |

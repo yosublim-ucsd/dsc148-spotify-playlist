@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-640 songs - 1 day 13 hr 38 min
+642 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2022-09-18 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [My Universe \- Instrumental](https://open.spotify.com/track/2sp32rIevQhpbo0Z4aQzoe) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-09-27 |
+| [My You](https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [My You](https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU) | 2:45 | 2023-07-04 |  |
 | [My Youth](https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:56 | 2021-05-12 | 2021-05-15 |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-24 | 2022-11-27 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-16 | 2021-09-07 |
@@ -372,6 +373,7 @@
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-09-19 | 2021-10-06 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 | 2022-04-23 |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-03 | 2022-12-14 |
+| [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-04 |  |
 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 | 2022-07-16 | 2022-07-20 |
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-10-21 | 2021-10-22 |
 | [Style](https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 | 2021-11-23 | 2022-02-07 |
@@ -406,7 +408,7 @@
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-16 | 2022-04-30 |
 | [Tomboy](https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Tomboy](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) | 3:23 | 2021-03-27\* | 2021-04-14 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-05 | 2022-02-07 |
-| [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2022-11-07 |  |
+| [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2022-11-07 | 2023-07-05 |
 | [TRUTH](https://open.spotify.com/track/5fHsQ2MSaBD1wId7lGGBaK) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:06 | 2022-05-24 | 2022-05-27 |
 | [Two](https://open.spotify.com/track/3aAgLPtl0SMPmrY6go45pe) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:15 | 2022-05-24 | 2022-05-27 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-10-30 |
@@ -622,7 +624,7 @@
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2022-11-14 |  |
 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2021-03-27\* | 2021-08-03 |
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/7vnw2nU0xpc9RABEgc3pxQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6RRpP4CaftCir8eUBwG5mh) | 3:57 | 2021-08-03 | 2021-11-17 |
-| [โต๊ะริม](https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 4:07 | 2022-08-02 |  |
+| [โต๊ะริม](https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 4:07 | 2022-08-02 | 2023-07-05 |
 | [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-21 | 2022-08-03 |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 | 2022-10-04 |
 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 | 2022-12-15 |  |

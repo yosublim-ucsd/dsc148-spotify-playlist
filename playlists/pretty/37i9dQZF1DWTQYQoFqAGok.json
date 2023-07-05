@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 56400,
+  "num_followers": 56415,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx",
+  "snapshot_id": "MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Dilo! Homenaje a P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
-      },
-      "artists": [
-        {
-          "name": "Los M\u00fasicos De Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz Vinil",
         "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 251586,
       "name": "Fijate Que Suave",
       "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Dilo! Homenaje a P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+      },
+      "artists": [
+        {
+          "name": "Los M\u00fasicos De Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
-        }
-      ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Electratoaster - EP",
         "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Andamos Huyendo",
+        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tovalin",
+          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
+        }
+      ],
+      "duration_ms": 291647,
+      "name": "Andamos Huyendo",
+      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
     },
     {
       "added_at": "2021-07-28 16:44:28",

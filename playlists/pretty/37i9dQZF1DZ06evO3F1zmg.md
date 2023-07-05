@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,020 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,037 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [P.U.S.S.Y\. \(Powerful, Utopia, Supreme, Sacred, Yummy\)](https://open.spotify.com/track/5gG8sYCZ22yJI8jBt0623H) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 3:04 |
 | 50 | [Dipped In Ice](https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:49 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDAzYTgyZGZlZjVkMjk3YTFhMTdkZTc1NTEzM2M5MDJkZg==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDA2OWIzOTY2ZWE5ZWMzNzhkMTYxYWU4NDJhYTViNGU2Mw==`

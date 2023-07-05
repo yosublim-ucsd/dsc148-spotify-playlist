@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > tasha e kyan, tracie e gregory é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,497 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,524 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 5 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
 | 6 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
 | 7 | [Energia](https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Energia](https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp) | 5:01 |
-| 8 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 8 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
 | 9 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
 | 10 | [Sem Serifa](https://open.spotify.com/track/3RJ705rFIqUook9nitZCm4) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Miss Fya](https://open.spotify.com/artist/6onTY4vMOYNfudPL1OueWH) | [Sem Serifa](https://open.spotify.com/album/0OGsEu2WUBDf0z9rcrLSHA) | 4:26 |
 | 11 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 | 50 | [RIO SUL](https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:20 |
 
-Snapshot ID: `MCw3ZmJlNjA3OWY0ODlhMGI1ZjgxY2U3NGNiNzQ4NTgzZWMzZDAzNzRh`
+Snapshot ID: `MCxlMTNkNmM0YTAwN2NkODFhYjE2NjdlNzkyN2QzMTA0NWNjM2E3OGRh`

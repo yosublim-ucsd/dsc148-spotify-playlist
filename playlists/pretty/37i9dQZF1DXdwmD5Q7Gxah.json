@@ -1,13 +1,29 @@
 {
-  "description": "All the indescribable feelings that music gives you. cover: TV Girl",
-  "num_followers": 1062157,
+  "description": "a little Padam for your Fourth. Cover: TV Girl",
+  "num_followers": 1062284,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzhhMjE0OWU2YjViNjEzZWRjY2RiMjUxZjA1MjUzYzc1MzNiODQz",
+  "snapshot_id": "MCw0ZGM4YjJjYjU0MTEzMGY4MjM5OGM2NzE5M2ZjOWVkMDRjODE1ZTVl",
   "tracks": [
+    {
+      "added_at": "2023-07-04 04:00:00",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
     {
       "added_at": "2023-06-30 04:05:22",
       "album": {

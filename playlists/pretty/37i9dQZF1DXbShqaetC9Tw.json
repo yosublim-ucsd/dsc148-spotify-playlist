@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 89467,
+  "num_followers": 89522,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWEwYTc5NmNjNzdlOWViZWU4ZGEwY2FlNzlhNTVmZjc1MWZlMTMw",
+  "snapshot_id": "MCxhNzk2ZTMwNTljYTNhMDYyYmIwMzA2YTcyYTE1NmE4MjZmNzBmZTFl",
   "tracks": [
     {
       "added_at": "2023-06-20 05:12:48",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
+    },
+    {
+      "added_at": "2023-06-20 05:12:48",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
-    },
-    {
-      "added_at": "2023-06-20 05:12:48",
-      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -179,22 +179,18 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+        "name": "CR\u00c8ME",
+        "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 236666,
-      "name": "When Dawn Comes Again (feat. BAEKHYUN)",
-      "url": "https://open.spotify.com/track/0mrgAyhYrP2JWT9yoUUFRj"
+      "duration_ms": 116086,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -215,18 +211,22 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "CR\u00c8ME",
-        "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
       "artists": [
         {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 116086,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I"
+      "duration_ms": 236666,
+      "name": "When Dawn Comes Again (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/0mrgAyhYrP2JWT9yoUUFRj"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
-    },
-    {
-      "added_at": "2023-06-20 05:12:48",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -331,26 +315,6 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "Lost Mood",
-        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Blue mood",
-      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
-    },
-    {
-      "added_at": "2023-06-20 05:12:48",
-      "album": {
         "name": "11:59 (feat. Goopy)",
         "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
@@ -367,6 +331,42 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2023-06-20 05:12:48",
+      "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+    },
+    {
+      "added_at": "2023-06-20 05:12:48",
+      "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "SINK",
-        "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
-      },
-      "artists": [
-        {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "This Night",
-      "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
-    },
-    {
-      "added_at": "2023-06-20 05:12:48",
-      "album": {
         "name": "[ Rorschach ] Part 2",
         "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 178013,
       "name": "23 Pt.2",
       "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
+    },
+    {
+      "added_at": "2023-06-20 05:12:48",
+      "album": {
+        "name": "SINK",
+        "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -743,6 +743,22 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "added_at": "2023-06-20 05:12:48",
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 145613,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -847,22 +863,6 @@
       "duration_ms": 182062,
       "name": "Sad Love Song (feat. slchld & Rheehab)",
       "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
-    },
-    {
-      "added_at": "2023-06-20 05:12:48",
-      "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
     },
     {
       "added_at": "2023-06-20 05:12:48",

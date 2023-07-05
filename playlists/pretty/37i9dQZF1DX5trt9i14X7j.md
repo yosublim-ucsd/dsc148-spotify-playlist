@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,924 likes - 117 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,033 likes - 117 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 7 | [Monsters Theme](https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 4:55 |
 | 8 | [Cotton Spheres](https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 2:54 |
 | 9 | [Day One \(Interstellar Theme\)](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 |
-| 10 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [XX](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
+| 10 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
 | 11 | [Symmetry Systems \(Emerald\)](https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Symmetry Systems](https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj) | 3:22 |
 | 12 | [Winter Sun](https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Winter Sun](https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi) | 2:22 |
 | 13 | [Fire and Light](https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 1:15 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 116 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |
 | 117 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
 
-Snapshot ID: `MCxlY2UxMTc5ZDU0ZTY3MjZlMDEwZjViYTA4MWQ2NDEyMDYzMTk0MmE5`
+Snapshot ID: `MCxiM2NjNmI0N2I5YjdmZjFmMzc4Mzc0NGU5ZWYxYmMwZTBkYmRjMjJk`

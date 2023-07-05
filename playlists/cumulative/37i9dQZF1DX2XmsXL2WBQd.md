@@ -4,7 +4,7 @@
 
 > Anthems from the early days of recorded rap music.
 
-145 songs - 12 hr 15 min
+146 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Boogie Down Bronx](https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:18 | 2021-12-21 | 2022-11-14 |
 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [The Best Of N.W.A: The Strength Of Street Knowledge](https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0) | 5:36 | 2021-12-21 | 2022-07-29 |
 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/45nWPWka5usNPZokYvmS2G) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Straight Outta Compton \(Music From The Motion Picture\)](https://open.spotify.com/album/1rMnLDmzyEBRiCj7yoGK2n) | 5:37 | 2022-09-21 | 2022-11-13 |
+| [Boyz\-N\-The\-Hood](https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [ドライブが楽しくなる洋楽ヒッツ!80年代 METAL](https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS) | 5:38 | 2023-06-22 |  |
 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [N.W.A\. And The Posse](https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy) | 5:39 | 2022-07-07 | 2023-07-03 |
 | [Brass Monkey](https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 2:37 | 2022-07-07 |  |
 | [Brass Monkey](https://open.spotify.com/track/6MzdzJ4hkHJWROmUzED9yP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/5izHWBylmEjk1yTVPAYJWj) | 2:37 | 2021-12-21 | 2022-07-29 |
@@ -52,7 +53,7 @@
 | [Friends](https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:39 | 2022-07-07 | 2022-11-27 |
 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 | 2021-12-21 |  |
 | [Funk You Up \- 12'' Version](https://open.spotify.com/track/4c4CGU8qpVmIqn6HkETZBt) | [The Sequence](https://open.spotify.com/artist/0PvnF7nV4B3zOHF3qW4LlG) | [A Complete Introduction to Sugar Hill Records](https://open.spotify.com/album/09tnjtNXU0lHOxVsJ7jsAg) | 10:52 | 2021-12-21 | 2022-07-27 |
-| [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 | 2021-12-21 |  |
+| [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 | 2021-12-21 | 2023-07-05 |
 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 | 2021-12-21 | 2023-01-27 |
 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 | 2021-12-21 |  |
 | [Go See the Doctor](https://open.spotify.com/track/60z5ezmI1iL3s2pPEct4wh) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Kool Moe Dee](https://open.spotify.com/album/2gDDmbIsGzPKdHERy8ozIt) | 5:33 | 2022-09-21 | 2022-11-13 |

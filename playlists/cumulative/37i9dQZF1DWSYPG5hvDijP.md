@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-122 songs - 6 hr 37 min
+124 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-29 | 2023-04-17 |
 | [Beast Mode](https://open.spotify.com/track/5zNASHCNyoKgVoPN1Rq9HI) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Beast Mode](https://open.spotify.com/album/2Nl4A1lvPTUWluWq80vjjy) | 2:34 | 2023-04-28 |  |
 | [Bevda Freestyle](https://open.spotify.com/track/63Bssbm8a8ZGaXrnCrFD0K) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Bevda Freestyle](https://open.spotify.com/album/3RSQ2zXVBcZdHTjUKdEnug) | 2:14 | 2023-03-29 | 2023-06-02 |
+| [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-04 |  |
 | [Blue Bandana](https://open.spotify.com/track/6OyaAyFZ6nzOwe6hoPa72N) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Blue Bandana](https://open.spotify.com/album/2R032taLxn2FdTdKUIWNpb) | 2:29 | 2023-05-12 |  |
 | [Bombay Circle](https://open.spotify.com/track/0tG08mgXKpGLBUT1Kd8f2W) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [Chemical Reaction](https://open.spotify.com/album/4avCrGvAoyiwRbSQUdyaHf) | 3:05 | 2023-04-28 |  |
 | [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 |  |
@@ -93,6 +94,7 @@
 | [Makeover](https://open.spotify.com/track/4r9fmK2cSewxKWrFi6rPq1) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Makeover](https://open.spotify.com/album/3WiVrqwlihz0i7I8eFMh4s) | 2:51 | 2023-04-12 |  |
 | [Making The Moves](https://open.spotify.com/track/61LflvrT3qT2P3nvgeJPpW) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Making The Moves](https://open.spotify.com/album/5LIFHZSsZpwmk7CBpq2uDz) | 2:48 | 2023-03-29 | 2023-06-02 |
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 |  |
+| [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 |  |
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-29 | 2023-04-25 |
 | [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 | 2023-06-02 |
 | [My Time](https://open.spotify.com/track/1Y5D5ru6mwruztcdnnk2XB) | [B\-Deep](https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y), [Rhymster](https://open.spotify.com/artist/3ZdzS4lByIrWU8bXbeDwnN) | [My Time](https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh) | 2:42 | 2023-03-29 | 2023-04-25 |

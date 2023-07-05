@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 194872,
+  "num_followers": 194879,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMyYzFjNDdjYjA4NDRiNzg1OTQ5Yjg4ZjU0YWVhMGE1NGVlZmI3",
+  "snapshot_id": "MCw2MDc2NDRjZTZjMWExOWY4NmFjYzJjZWE5Y2VhMzYyNWJlNzdlYTUy",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Under n\u00e5gon ny",
-        "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        },
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 247790,
-      "name": "Under n\u00e5gon ny",
-      "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Din l\u00e5t",
         "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 165045,
       "name": "Din l\u00e5t",
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Under n\u00e5gon ny",
+        "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 247790,
+      "name": "Under n\u00e5gon ny",
+      "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "En liten l\u00e5tid\u00e9",
-        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Hon sa",
-      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Neon Lights",
         "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 209200,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "En liten l\u00e5tid\u00e9",
+        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Hon sa",
+      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "V\u00e5gar",
-        "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 158644,
-      "name": "V\u00e5gar",
-      "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "V\u00e5gar",
+        "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 158644,
+      "name": "V\u00e5gar",
+      "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+        "name": "Tumbling Dice",
+        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+      "duration_ms": 175991,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 192496,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1039,6 +1039,22 @@
       "duration_ms": 159609,
       "name": "Okomplicerat",
       "url": "https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 192496,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1095,6 +1111,38 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Easy Go!",
         "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
       },
@@ -1107,22 +1155,6 @@
       "duration_ms": 150308,
       "name": "Easy Go!",
       "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Tumbling Dice",
-        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 175991,
-      "name": "Tumbling Dice",
-      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1147,22 +1179,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
-      },
-      "artists": [
-        {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "I Feel It In The Wind",
         "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
@@ -1179,22 +1195,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "White Ferrari",
-        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        },
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         }
       ],
-      "duration_ms": 229426,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
+      "duration_ms": 192970,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1219,18 +1231,38 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 192970,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
+      "duration_ms": 172198,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "White Ferrari",
+        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        },
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1247,22 +1279,6 @@
       "duration_ms": 205000,
       "name": "June/July",
       "url": "https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 199657,
       "name": "Du f\u00f6rtj\u00e4nar det",
       "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Grammofon",
-        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Grammofon",
-      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Slugs of Love",
         "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Grammofon",
+        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Grammofon",
+      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Airforce blue",
         "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Salt och socker",
-        "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 171995,
-      "name": "Salt och socker",
-      "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Dina \u00d6gon",
         "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 238053,
       "name": "Undantag",
       "url": "https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Salt och socker",
+        "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 171995,
+      "name": "Salt och socker",
+      "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+        "name": "Poetiska f\u00f6rs\u00f6k",
+        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 233500,
-      "name": "Looking For Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
+      "duration_ms": 344013,
+      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
+      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Poetiska f\u00f6rs\u00f6k",
-        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
-      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 189529,
       "name": "Julia",
       "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Looking For Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "S\u00e4g N\u00e5t",
-        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "S\u00e4g N\u00e5t",
-      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Where the Tragic Happens",
         "url": "https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 173854,
       "name": "We Fall in Love Sometimes",
       "url": "https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
     }
   ],
   "unique_name": "Made in Sweden",

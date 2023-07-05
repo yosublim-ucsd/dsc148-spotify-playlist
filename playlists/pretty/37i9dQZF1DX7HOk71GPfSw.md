@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > music to play for your parents\. Cover: 8485
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,705 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,942 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 85 | [glittr](https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:38 |
 | 86 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
 | 87 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
-| 88 | [IRIS](https://open.spotify.com/track/0YrewJziQkJ1jsoM0fjLg9) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/5ZbQXbqd5O0JeOVRSeVjf9) | 1:42 |
+| 88 | [IRIS](https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM) | 1:42 |
 | 89 | [every night i lose you](https://open.spotify.com/track/2ktUfqbz9FtFQC78DIRw9Y) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [every night i lose you](https://open.spotify.com/album/0yuGQd9Dne3g5zniolB8Sb) | 3:02 |
 | 90 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 |
 | 91 | [homesick](https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [homesick](https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [ᎶᏗᏒᎴᏋᏁ ᎧᎦ ᏰᏝᎥᏕᏕ](https://open.spotify.com/track/5kRpkWrH6lqTRVaJ5cuNXv) | [saikyo](https://open.spotify.com/artist/4iO68o0utKje9nNaTxKRgy) | [ᎶᏗᏒᎴᏋᏁ ᎧᎦ ᏰᏝᎥᏕᏕ](https://open.spotify.com/album/0it6cShh9tf8YKcneq7OJM) | 1:07 |
 | 100 | [with my eyes](https://open.spotify.com/track/50MNRG3QscZOkJcOApElDe) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [with my eyes](https://open.spotify.com/album/1bEZAzce2li8Kiwh5uqyCO) | 2:15 |
 
-Snapshot ID: `MCwxYzk1Yjk4MGNiMWQ2ZjAyZTRmOWUyOGYwNDIyNjMzZDllODQ1ZDBj`
+Snapshot ID: `MCwwYWUyMTAwYjZhYjM3YWU1YWNjOWM0MDA3NTBkN2U5MGI4N2I0NTcz`

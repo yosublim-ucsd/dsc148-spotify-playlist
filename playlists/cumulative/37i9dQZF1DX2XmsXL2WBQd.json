@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 METAL",
+        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338320,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
+    },
+    {
+      "album": {
         "name": "N.W.A. And The Posse",
         "url": "https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 280866,
       "name": "Genius Rap - 7\" Single Version",
       "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"

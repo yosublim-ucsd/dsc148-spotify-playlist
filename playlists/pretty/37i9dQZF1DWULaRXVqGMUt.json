@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 38911,
+  "num_followers": 38950,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTk0ODU1ZGFkZGFiMDUwYTdkYTMzYjFlZDQ3YmY2OGZkNGNhMTE3",
+  "snapshot_id": "MCxmMWZlYTMxN2RiOWU0NTdkY2ViYjEwOTE4ZjQ1YTNmYzlmMTQ4NzYy",
   "tracks": [
     {
       "added_at": "2023-05-04 16:53:25",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie, Vol. 4",
         "url": "https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 221657,
       "name": "Memphis Blues",
       "url": "https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -863,6 +863,38 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -875,6 +907,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -915,54 +963,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Door to Sun Records: Ballads (30 Timeless Favorites)",
-        "url": "https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T"
-      },
-      "artists": [
-        {
-          "name": "Carl Mcvoy",
-          "url": "https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS"
-        }
-      ],
-      "duration_ms": 141415,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 177933,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "The Door to Sun Records: Ballads (30 Timeless Favorites)",
+        "url": "https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T"
+      },
+      "artists": [
+        {
+          "name": "Carl Mcvoy",
+          "url": "https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS"
+        }
+      ],
+      "duration_ms": 141415,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA"
     },
     {
       "added_at": "2023-05-04 16:53:25",

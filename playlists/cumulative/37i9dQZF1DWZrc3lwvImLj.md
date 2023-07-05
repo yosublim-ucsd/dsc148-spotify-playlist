@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-308 songs - 13 hr 38 min
+312 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Con Cupido](https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Con Cupido](https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95) | 1:56 | 2023-02-28 |  |
 | [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2022-09-13 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 |  |
-| [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2021-12-14 |  |
+| [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2021-12-14 | 2023-07-05 |
 | [De perdidos, al río](https://open.spotify.com/track/77axyFLRvnyWiI6abb8cbB) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [De perdidos, al río](https://open.spotify.com/album/1rIa8uQewnc0QDar4v6cDh) | 1:57 | 2022-03-30 |  |
 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 | 2022-02-02 |  |
 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 | 2022-08-03 |  |
@@ -98,7 +98,7 @@
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2021-12-14 |  |
 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 | 2022-05-04 |  |
 | [Fuchs](https://open.spotify.com/track/7p1XGhzrdCMUXe0aB3ppJv) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Libelle](https://open.spotify.com/album/7jEAxJGVRHJOAxfdOq1VNy) | 4:28 | 2022-04-22 |  |
-| [Fuji \- Futatabi](https://open.spotify.com/track/2tVRVbSH9OhRhS88cGS4iG) | [Magnùs Cour](https://open.spotify.com/artist/21qSsfOHPvjfaQLFcEMjqS) | [Fuji \- Futatabi](https://open.spotify.com/album/3YPpT1A5QFruYfcabFLMxU) | 3:09 | 2022-08-03 |  |
+| [Fuji \- Futatabi](https://open.spotify.com/track/2tVRVbSH9OhRhS88cGS4iG) | [Magnùs Cour](https://open.spotify.com/artist/21qSsfOHPvjfaQLFcEMjqS) | [Fuji \- Futatabi](https://open.spotify.com/album/3YPpT1A5QFruYfcabFLMxU) | 3:09 | 2022-08-03 | 2023-07-05 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2021-12-14 | 2022-05-05 |
 | [Golden Hour](https://open.spotify.com/track/6WMqwT9YNk3hONbnMaf6NG) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Agamon Hula](https://open.spotify.com/album/4MPv3fcMvl3OFc0iNJoDsY) | 2:09 | 2023-01-27 | 2023-03-08 |
 | [Gradational](https://open.spotify.com/track/7uam2Tyu6KZjGLauONQLk7) | [Martha Stone](https://open.spotify.com/artist/3Jk5F5o75NTajdLCYSYlbw) | [Gradational](https://open.spotify.com/album/1BNVlgLGu0gcQEroSXMhal) | 2:47 | 2022-03-30 |  |
@@ -170,7 +170,7 @@
 | [Mursejler](https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:58 | 2022-07-28 |  |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-14 | 2022-07-29 |
 | [My](https://open.spotify.com/track/0sTrOSCppal1A15Pv3SmBY) | [Agnieszka Hajduk\-Wiese](https://open.spotify.com/artist/7g7nufHvsNpDFcU3qC3DUI), [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [My](https://open.spotify.com/album/7agm6WUUUVumFV4u7Q7v9u) | 2:24 | 2023-02-28 |  |
-| [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-14 |  |
+| [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-14 | 2023-07-05 |
 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 | 2023-01-27 |  |
 | [Nature Shift](https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Nature Shift](https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl) | 2:13 | 2023-01-09 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2021-12-14 | 2022-02-17 |
@@ -213,6 +213,7 @@
 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2021-12-14 |  |
 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 | 2022-04-22 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-14 |  |
+| [Real As Rain](https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Real As Rain](https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF) | 2:06 | 2023-07-04 |  |
 | [Reflections](https://open.spotify.com/track/52GgYnigt5XKncqm9sEjHw) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Reflections](https://open.spotify.com/album/3gJ78a3igJbhbBCE5uXeYG) | 2:36 | 2022-08-03 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2021-12-14 |  |
 | [Reflective](https://open.spotify.com/track/0qVrRwBeIne9ggGfU31U8V) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reflective](https://open.spotify.com/album/5Txt4c0EKgZKufA2eanyun) | 2:15 | 2023-01-09 | 2023-02-15 |
@@ -225,6 +226,7 @@
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2022-08-03 | 2023-03-08 |
 | [Sanctum Sonar](https://open.spotify.com/track/3uxgJoFbUUUPEVnq00Jw8X) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Sanctum Sonar](https://open.spotify.com/album/2tXnv5H1XHnmOBb1HZy3N1) | 2:38 | 2022-12-21 |  |
 | [Saudade \(larmes et sourires\)](https://open.spotify.com/track/62MXCFTb1Ao3t7SH7v5daV) | [Alexander Ardelan](https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R) | [Saudade](https://open.spotify.com/album/2P0LRL1vg6759KzEwnlP9U) | 2:48 | 2022-03-30 | 2022-04-15 |
+| [Seagull's Feathers](https://open.spotify.com/track/1UzBL7zD1kxJW2B2H3eaCf) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Seagull's Feathers](https://open.spotify.com/album/2OHdNwIAbyMWBAt3hGh81r) | 2:09 | 2023-07-04 |  |
 | [Secret Garden](https://open.spotify.com/track/3yYGXW4XlXXqSRYNIC2YNH) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Secret Garden](https://open.spotify.com/album/36tCR1GpEOq3oftaSTyIKx) | 2:15 | 2023-02-28 |  |
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2021-12-14 | 2022-06-07 |
 | [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 | 2022-03-17 |  |
@@ -302,6 +304,7 @@
 | [Welkin](https://open.spotify.com/track/6eEpm85ZhjGfBTTV0dTbKn) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Welkin](https://open.spotify.com/album/1Sg3AUFWHFGb5el1azce0G) | 3:05 | 2022-06-06 |  |
 | [When Feeling Blue](https://open.spotify.com/track/6kcQ0eZ69cdUZQYTfchSw9) | [Hans Francken](https://open.spotify.com/artist/1YLooLbQVz1H7EzYfU0gWO) | [When Feeling Blue](https://open.spotify.com/album/2eya6umAHIPoMyInrYqhuA) | 2:24 | 2021-12-14 | 2022-05-21 |
 | [When We Beat The Odds](https://open.spotify.com/track/4CREi2evM6PjRU6Y6lIYIT) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [When We Beat The Odds](https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF) | 2:00 | 2021-12-14 |  |
+| [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-07-04 |  |
 | [Whispered Winds](https://open.spotify.com/track/3Ts6C6TMvIzPIvdudMX7bH) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Whispered Winds](https://open.spotify.com/album/0et0WwbdnUCOzoDMQ4K8yQ) | 2:28 | 2021-12-14 | 2023-06-21 |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2021-12-14 |  |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2021-12-14 |  |
@@ -309,12 +312,13 @@
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-21 |  |
 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2021-12-14 | 2022-04-23 |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2021-12-14 |  |
+| [XV...with gravitas](https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:22 | 2023-07-04 |  |
 | [Yearning](https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Yearning](https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9) | 2:10 | 2022-02-02 |  |
 | [Yekaterinburg](https://open.spotify.com/track/5NjQakjUez8p0AVLo06jhr) | [Hoverchild](https://open.spotify.com/artist/4fCWcDzEkEqgDNUq1OiOwc) | [Yekaterinburg](https://open.spotify.com/album/5n5u8rBXPw4ZyNi3G5nVyf) | 2:46 | 2021-12-14 |  |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2021-12-14 |  |
 | [Your Memories](https://open.spotify.com/track/0WlzfkoOkTChgPQa8PPxvc) | [Yonder](https://open.spotify.com/artist/1LSDwMlME9lO9Nc03I0AGb) | [Unsung](https://open.spotify.com/album/2uvZnUBP6i5tfQOTJbvK4q) | 3:22 | 2022-04-14 | 2022-04-23 |
 | [\|Part of Humanity\| One](https://open.spotify.com/track/7JSoA8XgP0jKT3QzSoyfPk) | [Paavo Virtanen](https://open.spotify.com/artist/6mOatairX8bcnnkiVw7gYy) | [\|Part of Humanity\| One](https://open.spotify.com/album/51jtNaIbPibuSHoXv75Nzv) | 3:38 | 2022-03-30 |  |
-| [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2021-12-14 |  |
+| [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2021-12-14 | 2023-07-05 |
 | [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 | 2021-12-14 | 2022-06-07 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

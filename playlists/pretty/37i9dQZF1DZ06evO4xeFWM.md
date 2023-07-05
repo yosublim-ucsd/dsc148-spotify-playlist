@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,656 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,711 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [No Bad Days](https://open.spotify.com/track/4NM72r7orR4QPkgox7astH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [No Bad Days](https://open.spotify.com/album/6QwZ44ldGwp9W7DoJ8bwyw) | 3:05 |
 | 52 | [No One’s Here To Sleep](https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 4:32 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDAxNTk4NjU1MjI0MWI4ODhhZGVlNjg2NWZhZmFkMGZmOQ==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDA4ZWJhNzVhMWQzNGVhNGMxMWI2ODc1ZmVmZTE4ODQzNQ==`

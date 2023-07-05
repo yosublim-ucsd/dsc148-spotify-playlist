@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=lWYQvAmoTiCg3s5VX84gJA"> Nyashinski </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,446 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,501 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Witness](https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Dues](https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr) | 3:16 |
 | 80 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 |
 
-Snapshot ID: `MCwxZDFmNjgyNjFiNmY2ZjFiMjQwZWMxMzA4ZjRjMTVhNDkyZDczNGIz`
+Snapshot ID: `MCwwZGMyNTExYTAxMzY2YmQ3MDA3MTE5YTY3MjljZGJhMjJiMTYzNTIx`

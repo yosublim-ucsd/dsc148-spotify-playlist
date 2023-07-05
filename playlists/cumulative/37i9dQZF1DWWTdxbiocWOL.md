@@ -4,7 +4,7 @@
 
 > Thunder is coming.
 
-93 songs - 10 hr 40 min
+94 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Pat Stains](https://open.spotify.com/track/0kT4AiVp3A2kO17pBp2Uzm) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/5FiUVE5D5I3TFQbixwbcK4) | 6:55 | 2021-02-19 | 2022-07-29 |
 | [Pat Stains](https://open.spotify.com/track/6AUEBEvvQcwptYx6AeAQ1s) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 6:55 | 2022-01-17 |  |
 | [Radio Protector](https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Radio Protector](https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg) | 5:28 | 2020-10-20\* |  |
-| [Safety in Numbers](https://open.spotify.com/track/2SYI01bYGiTS9J4OzRRB4F) | [Jakob](https://open.spotify.com/artist/1rRk0aScbAjuf5lAnnTe6n) | [Solace](https://open.spotify.com/album/7jMbWLMw2mJOrIgxFxbPop) | 7:53 | 2022-01-17 |  |
+| [Safety in Numbers](https://open.spotify.com/track/2SYI01bYGiTS9J4OzRRB4F) | [Jakob](https://open.spotify.com/artist/1rRk0aScbAjuf5lAnnTe6n) | [Solace](https://open.spotify.com/album/7jMbWLMw2mJOrIgxFxbPop) | 7:53 | 2022-01-17 | 2023-07-05 |
+| [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 7:53 | 2023-02-28 |  |
 | [Safety In Numbers](https://open.spotify.com/track/5vSFLlXrLyiPq8xXxhQnqk) | [Jakob](https://open.spotify.com/artist/1rRk0aScbAjuf5lAnnTe6n) | [Solace](https://open.spotify.com/album/1hZTQ36k7kHMdVVsjKwIQb) | 7:53 | 2020-10-20\* | 2022-07-29 |
 | [Screen Shot](https://open.spotify.com/track/23cFxNXbwYcb6gfSOzL55H) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [To Be Kind](https://open.spotify.com/album/4dq7JNcHKrnozzFQg5bpmn) | 8:04 | 2022-01-17 | 2022-10-01 |
 | [Screen Shot](https://open.spotify.com/track/2PzNFF5P9ezfuGpuyHPdyV) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [To Be Kind](https://open.spotify.com/album/1WwiyWxa40PKucRxIKlEVM) | 8:04 | 2021-06-09 | 2022-07-29 |

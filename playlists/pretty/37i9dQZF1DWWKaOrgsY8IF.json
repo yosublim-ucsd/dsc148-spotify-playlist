@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 127847,
+  "num_followers": 127864,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWJhYTAxN2NmNWMwZmIyNWYxZDQ2MTZjMTA3M2I5MjE5MjIyZjc4",
+  "snapshot_id": "MCxkZjBlM2MyNDc3MGE2M2NkMDgyYjZmYWRjODk0MmI5YTJlNGNkOGNh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 197393,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
     },
     {
       "added_at": "2020-12-01 05:03:00",

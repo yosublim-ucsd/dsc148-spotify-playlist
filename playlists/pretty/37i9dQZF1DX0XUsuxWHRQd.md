@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Uzi Vert and 42 Dugg.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,418,161 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,421,183 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 | 50 | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo) | 4:13 |
 
-Snapshot ID: `MCxhNzQxYjdjM2NjZmEwMjA0NWViNmFlZGUzYzczZTBlMmJhNGViMjFj`
+Snapshot ID: `MCw0Mjg1NzRjMmYwMWY1NTA2N2Y5YWNiNTg4OTE3MDY4ZmVkZGEyYTFl`

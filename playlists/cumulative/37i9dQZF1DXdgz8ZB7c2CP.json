@@ -5074,7 +5074,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 163800,
       "name": "Lights Out - Remix",
       "url": "https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n"
@@ -6098,6 +6098,24 @@
       "duration_ms": 181242,
       "name": "overwhelmed - Ookay remix",
       "url": "https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB"
+    },
+    {
+      "album": {
+        "name": "Arpeggio EP",
+        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223714,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
     },
     {
       "album": {

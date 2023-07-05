@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Christmas Jazz 2: Instrumental Jazz For The Holidays",
+        "url": "https://open.spotify.com/album/3PxUEXG9yUTdT9vcopnWD9"
+      },
+      "artists": [
+        {
+          "name": "Leif Shires",
+          "url": "https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237946,
+      "name": "I Wonder As I Wander",
+      "url": "https://open.spotify.com/track/0kzHQzoXWk9lBrXgKPXMNz"
+    },
+    {
+      "album": {
         "name": "Christmas Jazz 2",
         "url": "https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2"
       },
@@ -798,7 +816,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 237946,
       "name": "I Wonder as I Wander",
       "url": "https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t"

@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
 
-100 songs - 5 hr 27 min
+101 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Lonely](https://open.spotify.com/track/1LYB3WsXbT6pYrlEyFEQ0d) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w) | [Lonely](https://open.spotify.com/album/6k8yBB7gP23Bj9lGGJB0Et) | 3:34 | 2023-03-17 | 2023-04-25 |
 | [Maante Naahi Haar](https://open.spotify.com/track/6vXNKXDTkT2QDf6RtJqmWL) | [Minta](https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MAANTE NAAHI HAAR](https://open.spotify.com/album/1KOyVm4Ej43o4mZTuW6Tlr) | 3:15 | 2023-03-17 | 2023-04-25 |
 | [MACHAYENGE 4](https://open.spotify.com/track/0TeH0rRFmef6eqk86MPyUA) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MACHAYENGE 4](https://open.spotify.com/album/0ceqAnBLEDesQ0leQZjDwz) | 10:05 | 2023-03-17 |  |
+| [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 |  |
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-17 | 2023-04-25 |
 | [Mera](https://open.spotify.com/track/0hTqg0XBQqzVyyXKJzKAdF) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera](https://open.spotify.com/album/5tG8txHqfFoaVGep5gysrC) | 3:01 | 2023-03-17 |  |
 | [Mera Bhai](https://open.spotify.com/track/5g7GYTSDalAE8fBlL9cFkx) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Mera Bhai](https://open.spotify.com/album/7rKV4EYJaJicUWyGnub7ip) | 3:02 | 2023-03-17 | 2023-04-25 |

@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 注目の新進クリエイターを紹介するRADAR（レイダー）がスタート！お気に入りの番組を発掘しよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxiOWJkNzc4M2NhNmZkYTdhMzVkYjIyMjAzMzI3M2E5OTY3Y2RlNDFh`
+Snapshot ID: `MCxmODEwN2JkMGRiYTMyMmI3YWM2ZmU2YWNlNjIwNTdhODFhNjNkNmY5`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: legallyrxx",
-  "num_followers": 64907,
+  "num_followers": 64927,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDBmOTYzYjI5MjQwMTM5NDg4OTg0MDcxODg1MjdjODcyMTRkYjg4",
+  "snapshot_id": "MCwwZGJkYjE2ODYwMGIwZThhZTc5ZWJjZmJmMTBiN2U4MmU2MDIzMGFh",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "La del Tik Tok",
+        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 257592,
+      "name": "La del Tik Tok",
+      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "COLABORACIONES",
         "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 125026,
       "name": "TNT",
       "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Baby Schai (Remix)",
         "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 328148,
       "name": "Baby Schai - Remix",
       "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "MAMi QU\u00c9 FUE?",
-        "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
-      },
-      "artists": [
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 167814,
-      "name": "MAMi QU\u00c9 FUE?",
-      "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "MAMi QU\u00c9 FUE?",
+        "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
+      },
+      "artists": [
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 167814,
+      "name": "MAMi QU\u00c9 FUE?",
+      "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
     },
     {
       "added_at": "2023-06-29 22:00:00",

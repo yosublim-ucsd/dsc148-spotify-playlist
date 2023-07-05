@@ -4373,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Douce M\u00e9lancolie",
+        "url": "https://open.spotify.com/album/1sIaEWB3LdKLCKhhORkmx4"
+      },
+      "artists": [
+        {
+          "name": "Martin La Pelle",
+          "url": "https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Soleil De Printemps",
+      "url": "https://open.spotify.com/track/11Q02wEHJQc7eSIOAB38qN"
+    },
+    {
+      "album": {
         "name": "Soleil De Printemps",
         "url": "https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY"
       },
@@ -4402,7 +4420,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 177386,
       "name": "Soleil De Printemps",
       "url": "https://open.spotify.com/track/35lOwNQTacGaz71H7SWrEm"

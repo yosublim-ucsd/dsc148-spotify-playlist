@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 69347,
+  "num_followers": 69462,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzgyNjE1Y2FjYWM1OGMxM2JjMTY5NjU0MDdmZjU0MjYyODU0MGQy",
+  "snapshot_id": "MCxkYTU1YmUzYjY3ZDRlNDBhZmY0MDkxZDFmOGJhOGJjNTkxMGZlOTM0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Being Human In Public",
+        "url": "https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Being Human In Public",
-        "url": "https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 8063,
+  "num_followers": 8140,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODlkNjEyZWI5ZjVlODBkNjUyODAwN2M4ODQwN2IyMzBjZmNhOTRi",
+  "snapshot_id": "MCxjMWM3ODY0NTJkOTQ0YzBjNGQ1OTUyMGIyNDQxNjlmNjhlY2I5MmVk",
   "tracks": [
     {
       "added_at": "2023-06-21 13:04:36",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Airegin",
+      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 377039,
       "name": "Donna Lee",
       "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Airegin",
-      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "The Genius Of Charlie Parker",
-        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 255533,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/2yclkgCz6boR9JYvIVQDZl"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "The Genius Of Charlie Parker",
+        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+        "name": "Nippon Soul",
+        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
       },
       "artists": [
         {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+          "name": "Cannonball Adderley Sextet",
+          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
         }
       ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
+      "duration_ms": 226933,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Nippon Soul",
-        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley Sextet",
-          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 267773,
       "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
       "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 615426,
+      "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
         "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 263853,
       "name": "Airegin - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3gjQNAmT3MUd4Q0nf5p6hu"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 615426,
-      "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Red Clay",
-        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 643706,
-      "name": "The Intrepid Fox",
-      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
-    },
-    {
-      "added_at": "2023-06-21 13:04:36",
-      "album": {
         "name": "The Cooker",
         "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 436733,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
+    },
+    {
+      "added_at": "2023-06-21 13:04:36",
+      "album": {
+        "name": "Red Clay",
+        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 643706,
+      "name": "The Intrepid Fox",
+      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
     },
     {
       "added_at": "2023-06-21 13:04:36",
@@ -1499,8 +1499,8 @@
     {
       "added_at": "2023-06-21 13:04:36",
       "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+        "name": "For Musicians Only",
+        "url": "https://open.spotify.com/album/1RHZ13bNTtG39NaapJmWlW"
       },
       "artists": [
         {
@@ -1508,17 +1508,13 @@
           "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         },
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 330064,
-      "name": "I Know That You Know",
-      "url": "https://open.spotify.com/track/4HjJh260ibYagtkgQIhxNR"
+      "duration_ms": 766493,
+      "name": "Be-Bop",
+      "url": "https://open.spotify.com/track/73jGUrktmtsqOZDRndlOoI"
     },
     {
       "added_at": "2023-06-21 13:04:36",

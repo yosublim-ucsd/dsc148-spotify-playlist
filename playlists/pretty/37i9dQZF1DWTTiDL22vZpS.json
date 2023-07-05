@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 13031,
+  "num_followers": 13081,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQxZDcwMjI4NGM0NTM3ZjhmMjA2MDQ4Yjk1ODc0YmJmMGNkZGE4",
+  "snapshot_id": "MCw0NTk5YWJiMGQyY2FmODI3ZmVjMmYyN2M5ZjNjMzY2ODgxMWFlYzJk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "NQP (No Quiero Parar)",
         "url": "https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 182324,
       "name": "NQP (No Quiero Parar)",
       "url": "https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "The New Sound of the Venezuelan Gozadera",
+        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Ultra-Funk",
+      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "The New Sound of the Venezuelan Gozadera",
-        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Ultra-Funk",
-      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 332546,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Precipicio",
-        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 247430,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Cool Love",
         "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 204172,
       "name": "Tuyonama (feat. Charles Ans)",
       "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Precipicio",
+        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 247430,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1019,6 +1019,38 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "La Pel\u00edcula",
+        "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00edculas Geniales",
+          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        },
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        },
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 199334,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Da Funk",
         "url": "https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH"
       },
@@ -1031,22 +1063,6 @@
       "duration_ms": 153624,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Latin Boogie",
-        "url": "https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 205823,
-      "name": "Latin Boogie",
-      "url": "https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn"
     }
   ],
   "unique_name": "feels like latin funk",

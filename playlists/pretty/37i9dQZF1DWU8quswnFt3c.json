@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 916809,
+  "num_followers": 916790,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmNlN2Q4YTc0YWEwZTQwYjczMDVlMDZmZTBhZGJmZTYzZDVhOTRi",
+  "snapshot_id": "MCwwNGRkNDAzNjkxZWUwYjA2ZTMxMTNmMzM3M2JjYjRhMmM3NmIzYjFm",
   "tracks": [
     {
       "added_at": "2023-06-19 04:28:38",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "Me He Pillao x Ti",
         "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 202250,
       "name": "Me He Pillao x Ti",
       "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
-        "name": "If I Weren't Me",
-        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Menjaga Cintamu (Original Soundtrack From Anwar, The Untold Story)",
-        "url": "https://open.spotify.com/album/2M4JbauEhpLEdVBi98d5BH"
-      },
-      "artists": [
-        {
-          "name": "Dato' Sri Siti Nurhaliza",
-          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
-        }
-      ],
-      "duration_ms": 246230,
-      "name": "Menjaga Cintamu - Original Soundtrack From Anwar, The Untold Story",
-      "url": "https://open.spotify.com/track/24iGu5nS2Cxa0Y3E2IehzJ"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Ge\u00e7miyor Zaman",
         "url": "https://open.spotify.com/album/4hEL3qcKI1SJ7OCHAsVT8c"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 283718,
       "name": "Ge\u00e7miyor Zaman",
       "url": "https://open.spotify.com/track/2wliOkyRvEsbgpndpaaTgF"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Menjaga Cintamu (Original Soundtrack From Anwar, The Untold Story)",
+        "url": "https://open.spotify.com/album/2M4JbauEhpLEdVBi98d5BH"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "duration_ms": 246230,
+      "name": "Menjaga Cintamu - Original Soundtrack From Anwar, The Untold Story",
+      "url": "https://open.spotify.com/track/24iGu5nS2Cxa0Y3E2IehzJ"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/4r6dmmEA1V7wR7yZt9pceH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6AlAW7I6mgE7rzUOb5ed5v"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 189077,
       "name": "Prom\u00e9teme",
       "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/4r6dmmEA1V7wR7yZt9pceH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6AlAW7I6mgE7rzUOb5ed5v"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "An'da",
+        "url": "https://open.spotify.com/album/1QIMREJO5VuRJX2sj1erQY"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcliz Ayla",
+          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
+        }
+      ],
+      "duration_ms": 217749,
+      "name": "An'da",
+      "url": "https://open.spotify.com/track/2kXnGAd5HTPjdBcXdPewlG"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "Jordan 1s",
         "url": "https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 189115,
       "name": "Jordan 1s",
       "url": "https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
-        "name": "An'da",
-        "url": "https://open.spotify.com/album/1QIMREJO5VuRJX2sj1erQY"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcliz Ayla",
-          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
-        }
-      ],
-      "duration_ms": 217749,
-      "name": "An'da",
-      "url": "https://open.spotify.com/track/2kXnGAd5HTPjdBcXdPewlG"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/48kaxa9fTixkT5K0H2ioUP"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 178456,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/3ysRMe1l4YDLgTLrENUMWK"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Eternal Lover",
-        "url": "https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX"
-      },
-      "artists": [
-        {
-          "name": "Silly Boy Blue",
-          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "SISTEMATIIK",
         "url": "https://open.spotify.com/album/5YdQTTlEUsBRiK44pzRUal"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 180000,
       "name": "TSINGLING",
       "url": "https://open.spotify.com/track/0DHiNHMyCZIym1lcMSqusW"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Eternal Lover",
+        "url": "https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC"
     },
     {
       "added_at": "2023-06-19 04:28:38",

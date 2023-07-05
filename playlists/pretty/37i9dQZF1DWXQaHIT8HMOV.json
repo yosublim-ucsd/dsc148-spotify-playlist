@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist",
-  "num_followers": 1568,
+  "num_followers": 1572,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmNmZDkxMzFlYTMxZWUxYzBiOTU4ODc2YzE1ZjgwOGFkOGVjNzZj",
+  "snapshot_id": "MCwwOTgxZDhlZTBjODQ1M2Q4OTk4NzhkZDEyMGRhN2IyNzRhNzA0Mzk0",
   "tracks": [
     {
       "added_at": "2023-06-30 09:37:04",
@@ -719,6 +719,42 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
+        "name": "Wanting Me",
+        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Wanting Me",
+      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
         "name": "BESTIE",
         "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
       },
@@ -731,26 +767,6 @@
       "duration_ms": 173949,
       "name": "BESTIE",
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -779,38 +795,22 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
-        "name": "Wanting Me",
-        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
       },
       "artists": [
         {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Wanting Me",
-      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
         },
         {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
         }
       ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
       },
@@ -919,26 +935,6 @@
       "duration_ms": 194526,
       "name": "Plan Ki",
       "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "More Love",
-        "url": "https://open.spotify.com/album/5Tw7909lweMrp0K45iqYOQ"
-      },
-      "artists": [
-        {
-          "name": "Mugaba",
-          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
-        },
-        {
-          "name": "Amani Greene",
-          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "More Love",
-      "url": "https://open.spotify.com/track/1C6KQftJvaupHvNSSIIN9D"
     }
   ],
   "unique_name": "Made In Uganda",

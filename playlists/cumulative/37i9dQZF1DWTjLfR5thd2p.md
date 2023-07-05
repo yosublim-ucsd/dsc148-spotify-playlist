@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-393 songs - 17 hr 14 min
+396 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Arabesca](https://open.spotify.com/track/2fnmga0QCLLsPW8Es5o29r) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [Arabesca](https://open.spotify.com/album/3PPAPtSQVgEtl06ev5gUea) | 3:14 | 2022-05-20 |  |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2022-05-20 |  |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2022-05-20 |  |
-| [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-20 |  |
+| [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-20 | 2023-07-05 |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2022-05-20 |  |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2022-05-20 |  |
 | [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-05-20 |  |
@@ -175,7 +175,7 @@
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2022-05-20 |  |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2022-05-20 |  |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-05-20 |  |
-| [La vérité sera dite](https://open.spotify.com/track/0BCprO6kUA7NzuhXMPctag) | [Marcel Cote](https://open.spotify.com/artist/32mJwpV7mqeU7ACpejFeYS) | [La vérité sera dite](https://open.spotify.com/album/3rJbQjEYzWlfZa5F51PFEx) | 2:27 | 2022-05-20 |  |
+| [La vérité sera dite](https://open.spotify.com/track/0BCprO6kUA7NzuhXMPctag) | [Marcel Cote](https://open.spotify.com/artist/32mJwpV7mqeU7ACpejFeYS) | [La vérité sera dite](https://open.spotify.com/album/3rJbQjEYzWlfZa5F51PFEx) | 2:27 | 2022-05-20 | 2023-07-05 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-05-20 |  |
 | [Last Dance](https://open.spotify.com/track/4mPxFBPVeyxzlRiujVXQsW) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Last Dance](https://open.spotify.com/album/3OeUVcECdHTIkPkqr5g8cN) | 3:28 | 2022-05-20 | 2022-07-29 |
 | [Last Dance](https://open.spotify.com/track/6mNmevMMkhsbPf65R4GW3o) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Last Dance](https://open.spotify.com/album/2XKNS639TUasvrLXsgRI8z) | 3:28 | 2022-07-20 |  |
@@ -251,6 +251,7 @@
 | [Passing](https://open.spotify.com/track/5zcpF7WRlnOavcP5fCqOlK) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:28 | 2022-05-20 |  |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2022-05-20 |  |
 | [Peace In Water](https://open.spotify.com/track/6MOyr6CW5FmSSC3yWDOynt) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Peace In Water](https://open.spotify.com/album/41O9tKGlJ6FIIJemBI5qF1) | 2:12 | 2022-05-20 |  |
+| [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-07-04 |  |
 | [Perdono](https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Perdono](https://open.spotify.com/album/3l0o5eKMNP76OSjxFyi2ER) | 3:18 | 2023-06-27 |  |
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-05-20 |  |
 | [Place to Remember](https://open.spotify.com/track/235xEvc5AelB56CsNzYew3) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Place to Remember](https://open.spotify.com/album/57IkfgPpu5NwSW1AKeV9c8) | 1:38 | 2023-06-19 |  |
@@ -308,10 +309,12 @@
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-05-20 |  |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2022-05-20 |  |
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2022-05-20 |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [Sonnenblume](https://open.spotify.com/track/5OwyqAz6sXFkq6Ny60M12h) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Sonnenblume](https://open.spotify.com/album/5fSmW7WWjIwYt5xtOgbu7t) | 2:12 | 2022-05-20 |  |
 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-06-27 |  |
 | [Sono innamorato](https://open.spotify.com/track/3QrzFS2f3ARIKlZNAROUDB) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Sono innamorato](https://open.spotify.com/album/25UUV79Ir4jFcopJDYu20R) | 2:30 | 2022-05-20 |  |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2022-05-20 |  |
+| [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 | 2023-07-04 |  |
 | [Standing Sitting Rising Falling](https://open.spotify.com/track/4R7Xd4Voa8lgrslFMzo0rZ) | [Will Monrose](https://open.spotify.com/artist/7jsTCpVLW1GPtvwaBG7LCI) | [Standing Sitting Rising Falling](https://open.spotify.com/album/47rHTF6JLIj2aruiBpjhKo) | 2:12 | 2022-05-20 |  |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-05-20 |  |
 | [Stay The Night](https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stay The Night](https://open.spotify.com/album/4vYZPIYks7WPspZHdcwvdG) | 2:02 | 2022-05-20 |  |
@@ -330,7 +333,7 @@
 | [Synchronicity](https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Synchronicity](https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel) | 2:30 | 2022-05-20 |  |
 | [Talawanda](https://open.spotify.com/track/0y3yFju7xqGgYx6TD0ygau) | [Rhyan Zorn](https://open.spotify.com/artist/1TD7bf1cP0VzpRtt8CT45Y) | [Rhyan Zorn](https://open.spotify.com/album/4HdvF8BeHiKut35IcPsDu4) | 3:09 | 2022-05-20 |  |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2022-05-20 |  |
-| [Tanken för oss vidare](https://open.spotify.com/track/3C4ZKKPtMbexPnb09lPB6n) | [Melvin Norberg](https://open.spotify.com/artist/4RchcrG8Z6KMGWob3D8Oe0) | [Tanken för oss vidare](https://open.spotify.com/album/6Elc1jsVKdtmqIbnCc0rij) | 2:11 | 2022-05-20 |  |
+| [Tanken för oss vidare](https://open.spotify.com/track/3C4ZKKPtMbexPnb09lPB6n) | [Melvin Norberg](https://open.spotify.com/artist/4RchcrG8Z6KMGWob3D8Oe0) | [Tanken för oss vidare](https://open.spotify.com/album/6Elc1jsVKdtmqIbnCc0rij) | 2:11 | 2022-05-20 | 2023-07-05 |
 | [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-05-20 |  |
 | [Temps perdu](https://open.spotify.com/track/3Nn9FtU41jUR4TiPKxXxuh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Soirées sans toi](https://open.spotify.com/album/2jr93PoNSOId5WOYxIJtgJ) | 2:02 | 2022-05-20 |  |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2022-05-20 |  |
@@ -343,7 +346,7 @@
 | [The Kimberley](https://open.spotify.com/track/3cZPbtGWtcv4DnsCwgTuUD) | [Rory Whitford](https://open.spotify.com/artist/5VzjMIYvFYcB4sUmiH5vL2) | [The Kimberley](https://open.spotify.com/album/7uxYx8RGqVKvzRRLXpx8l7) | 1:48 | 2022-05-20 |  |
 | [The Northern Fairy](https://open.spotify.com/track/1hwfxmyMPUvuuihQY1PLOK) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [The Northern Fairy](https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws) | 2:10 | 2022-05-20 |  |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-05-20 |  |
-| [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2022-05-20 |  |
+| [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2022-05-20 | 2023-07-05 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-05-20 |  |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-06-19 |  |
 | [Thoughts](https://open.spotify.com/track/5UoH0KvzaaVEVpFDyNKdZC) | [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Thoughts](https://open.spotify.com/album/7nGp3GtIunmPymQtCyaap4) | 2:21 | 2022-05-20 |  |
@@ -382,7 +385,7 @@
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2022-05-20 |  |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2022-05-20 |  |
 | [Where Stars Are Born](https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Where Stars Are Born](https://open.spotify.com/album/37eYaKUwjBSJaO15PIrc7L) | 3:07 | 2022-05-20 |  |
-| [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2022-05-20 |  |
+| [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2022-05-20 | 2023-07-05 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-05-20 |  |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-05-20 |  |
 | [Whole Breaths](https://open.spotify.com/track/2kUno3T4aQEZcX96iRWxTO) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:58 | 2022-05-20 |  |

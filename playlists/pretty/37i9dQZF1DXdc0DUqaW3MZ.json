@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 308851,
+  "num_followers": 308922,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj",
+  "snapshot_id": "MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 196441,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 196441,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
     },
     {
       "added_at": "2022-06-20 14:19:42",

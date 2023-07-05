@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-180 songs - 10 hr 31 min
+182 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,12 +59,14 @@
 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 | 2022-11-18 | 2022-11-26 |
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-18 |  |
 | [Every Breath You Take](https://open.spotify.com/track/6Hm6g48FZM25d7LkjmXQfN) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Famous Piano Covers](https://open.spotify.com/album/6m1HH5v5pJ4bw5sQX2mOt3) | 3:39 | 2023-03-07 |  |
+| [Eyes Closed \(arr\. piano\)](https://open.spotify.com/track/7mpppbKD33V9hPAzb7Q7ux) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/album/0QaQ14xUNTN6rM5irex6P6) | 3:02 | 2023-07-04 |  |
 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 | 2022-11-18 | 2022-11-26 |
 | [Fast Car](https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [I Play Yours, Vol\. 2](https://open.spotify.com/album/5Mv4Ksk5HM3my8S7jaZIpP) | 3:52 | 2021-11-25 |  |
 | [Fields Of Gold](https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Fields Of Gold](https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD) | 2:37 | 2023-04-04 |  |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2021-11-25 | 2023-04-05 |
 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 | 2022-01-28 | 2023-06-24 |
 | [Fireflies](https://open.spotify.com/track/18b2wZBDyaiQzRitdYOuXg) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Owl City's Fireflies](https://open.spotify.com/album/3igoQSJBfxk4FHtJatKToG) | 2:57 | 2022-11-18 | 2022-11-26 |
+| [Fix You](https://open.spotify.com/track/1lxXCaDvyePyJbuERiARnB) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Fix You](https://open.spotify.com/album/06s6vxLzZhhiep295nhpQ1) | 3:45 | 2023-07-04 |  |
 | [Fix You](https://open.spotify.com/track/5tX811j5HONCKNTE3pux6d) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Piano EP1](https://open.spotify.com/album/2qt5TL7O3Bo4AiGrnYGKxr) | 5:29 | 2022-09-09 | 2022-11-14 |
 | [Fix You](https://open.spotify.com/track/7B0jMqIk8icAL7jn0XdF1D) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Piano EP1](https://open.spotify.com/album/10Gvmhuqt3zXhtAAnM41Nu) | 5:29 | 2021-11-25 | 2022-07-29 |
 | [Fix You](https://open.spotify.com/track/2ZzqC4NSi374IufPYvGMP6) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Music Lab Collective](https://open.spotify.com/album/1hJMoMK9kIQFlF6mbqG9nU) | 5:32 | 2022-07-15 | 2023-06-24 |

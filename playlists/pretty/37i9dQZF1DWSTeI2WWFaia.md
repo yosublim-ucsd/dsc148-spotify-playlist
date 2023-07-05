@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,620,091 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,620,315 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 39 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 40 | [PENSION](https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [PENSION](https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro) | 3:17 |
 | 41 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
-| 42 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
+| 42 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
 | 43 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 |
-| 44 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
+| 44 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 45 | [Top G](https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Top G](https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK) | 3:33 |
 | 46 | [The Game](https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [The Game](https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH) | 3:53 |
 | 47 | [Game 6](https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6), [halfBREED](https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj) | [3P](https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
 | 50 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
 
-Snapshot ID: `MCwxZTFjNWQ4NjE0MzIyMjA1YTk2ZDVhYTgzYjFlMjAzMmEwZmIzZDFk`
+Snapshot ID: `MCw5MzI1NWJjNDJlZGJlZDMzZjYxMDMwOWMxMTkwZWEyNWE5YWRjMWIw`

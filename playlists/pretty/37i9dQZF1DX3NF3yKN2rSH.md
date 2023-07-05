@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,004 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,999 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 | 100 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 |
 
-Snapshot ID: `MCxhMDRmYWNkOGE1NDJmZDEyNDc4MGRhM2FjMzAyOTU3ZDNmZGRmYWNl`
+Snapshot ID: `MCw5YTEzNTZmMmRmYWQwMWZlMTYxMDBlZTA1NjRkNzFmYjk5OGMxMWY4`

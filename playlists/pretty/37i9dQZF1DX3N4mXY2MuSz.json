@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTMzOTU2MmJlMjY2M2IwNTIwYzM3YjhmYWE0YjFjMTBjM2IxNWU4",
+  "snapshot_id": "MCw4NGRkNWQxYWM0NjcyNjMxNWJmZWE5ZmFjZTdjYzllNTY1NDU1YzE2",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "This Christmas (I'll Burn It To The Ground)",
-      "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Believers Never Die - Greatest Hits",
         "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 221013,
       "name": "Yule Shoot Your Eye Out - Bonus Track",
       "url": "https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "This Christmas (I'll Burn It To The Ground)",
+      "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -667,6 +667,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Lost Messengers: The Outtakes",
         "url": "https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 81080,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The Human Highlight Reel",
-        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Decemberism",
-      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 158408,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "The Human Highlight Reel",
+        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
+      },
+      "artists": [
+        {
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Decemberism",
+      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 228868,
-      "name": "Skank For Christmas",
-      "url": "https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Somewhere in My Memory",
         "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 149173,
       "name": "Somewhere in My Memory",
       "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 228868,
+      "name": "Skank For Christmas",
+      "url": "https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 189260,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas Calling",
         "url": "https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183466,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "A GC Christmas, Pt. 1",
+        "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 181991,
+      "name": "Christmas by the Phone",
+      "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
     }
   ],
   "unique_name": "Punk Christmas",

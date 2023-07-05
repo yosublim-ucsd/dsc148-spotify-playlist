@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: JABBERLOOP
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: jizue
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,813 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,850 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 |
+| 1 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 |
 | 2 | [Abeam](https://open.spotify.com/track/6V4RTBeWU0h4OTRAMV9k5H) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [Abeam](https://open.spotify.com/album/5gQa4AbKZcnu8blwLA5gT7) | 7:38 |
 | 3 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 |
-| 4 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 |
+| 4 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 |
 | 5 | [Long Way](https://open.spotify.com/track/1pj3uHbRdGqR74BinsUQtb) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Yusuke Sase](https://open.spotify.com/artist/2IIu2bokBK7Ypa8ayaT7a7), [Tomoaki Baba](https://open.spotify.com/artist/33cOkvm7eN6eLevzqCuBTZ), [Shota Watanabe](https://open.spotify.com/artist/51aJHn1DtpKe23KBp5igP0), [Keisuke Furuki](https://open.spotify.com/artist/0j1X1NUzqVm0iHZkeXXrx9) | [Long Way](https://open.spotify.com/album/3ZFqID6ShRS5h1jp7pzaH1) | 5:20 |
 | 6 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
-| 7 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 |
+| 7 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 |
 | 8 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 |
 | 9 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 |
 | 10 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 |
 | 11 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 |
-| 12 | [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 |
+| 12 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 |
 | 13 | [Face To Face \- Live at 100BAN Hall, Kobe, 2022](https://open.spotify.com/track/3Wzhjs5i3i9T5KJ9xN9rKH) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx) | [Folds \(Live at 100BAN Hall, Kobe, 2022\)](https://open.spotify.com/album/19uLSbnTCzQqDn6csaIH8O) | 9:13 |
 | 14 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 |
 | 15 | [Rhapsody in Summer](https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/2niNBQtovVrAXXS4hixZhU) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 50 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 |
 
-Snapshot ID: `MCxhNWZmYTdjZjNmMmZiNmJiYjYxNjJlMTRhMmVjZDE0NGQ0YzJiZTg4`
+Snapshot ID: `MCwxYjUyZDRlNThiMjIwNzJhYmIzMzQwOGU5Y2NkMzNkYjNhOGQ3OGRh`

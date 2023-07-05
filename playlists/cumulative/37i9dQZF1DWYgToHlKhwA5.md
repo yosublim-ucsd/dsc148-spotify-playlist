@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-431 songs - 19 hr 33 min
+432 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 | 2023-06-15 |  |
 | [Non Stop Rain Sounds](https://open.spotify.com/track/1cgb4yVuDdTfaatFq6xhgD) | [Raning Spot](https://open.spotify.com/artist/1L6FHdVeI2MvaYCAMS1yQl) | [Raning Spot](https://open.spotify.com/album/537EhlekNxtPA37kkOeobY) | 3:02 | 2023-06-15 |  |
 | [Nonstop Rain](https://open.spotify.com/track/2pWeiW8PnZ6W7ThO9UKDFT) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Rainy Weather](https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF) | 2:16 | 2023-06-15 |  |
-| [Northern Thunder](https://open.spotify.com/track/1nM1KVbx4nHwsuw5oIJUET) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Northern Thunder](https://open.spotify.com/album/3LIYmvq3IcnN6amdl0Tf2U) | 2:34 | 2022-07-19 |  |
+| [Northern Thunder](https://open.spotify.com/track/1nM1KVbx4nHwsuw5oIJUET) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Northern Thunder](https://open.spotify.com/album/3LIYmvq3IcnN6amdl0Tf2U) | 2:34 | 2022-07-19 | 2023-07-05 |
 | [Nuage Froid](https://open.spotify.com/track/5Bwc0m1mEGgtMOTtJell0T) | [Elise Édouard](https://open.spotify.com/artist/5BCk7QdCsT8O9EO3EF18SB) | [Nuage Froid](https://open.spotify.com/album/6I0XXsyriPTf9gRdK9MOlQ) | 2:07 | 2023-04-07 |  |
 | [Nuevos Sonidos De Lluvia](https://open.spotify.com/track/26i94jI0wRp1huqUAAjMEM) | [Dormir Cayendo Del Cielo](https://open.spotify.com/artist/3yq47PqWL6fgWAjGHiFkw3) | [Sueño De Aguacero](https://open.spotify.com/album/6AayrUIWYdRtMZQJ2tukPk) | 2:46 | 2023-06-15 |  |
 | [Oddly Comforting Rain](https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1) | [Muggy Forecast](https://open.spotify.com/artist/37NFZB0swR3yaCGntPM9f9) | [Current Affairs](https://open.spotify.com/album/3wYZkK01LPqIowyDN4Wubv) | 2:00 | 2023-06-15 |  |
@@ -347,6 +347,7 @@
 | [Stormy Dreams](https://open.spotify.com/track/3tCznlqVJy40oV68edDA4o) | [Shipibo](https://open.spotify.com/artist/5vgyBPjmH74rsob0Ribq6f) | [Storm Lockdown](https://open.spotify.com/album/23YpGMcHhz5bvgk874pS7P) | 2:39 | 2022-07-19 |  |
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2023-04-07 |  |
 | [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2023-04-07 |  |
+| [Stormy Nap](https://open.spotify.com/track/7ocQfDMNB4SkHMETPIlZ8C) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Mountain Nap](https://open.spotify.com/album/1EvbTiOvW6mCaEEV8NOxzq) | 2:35 | 2023-06-15 |  |
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2023-06-15 |  |
 | [Stormy Nights And Days](https://open.spotify.com/track/3yIzotqlArHD8rDU4uGLZl) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [Maelstrom](https://open.spotify.com/album/0cEnjF7hkDTrlJWVjRug6O) | 2:40 | 2023-06-15 |  |
 | [Stormy Rain](https://open.spotify.com/track/2ovzsu0useW9oyDCoDPxKe) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Fairytale Rain](https://open.spotify.com/album/7qZG7K1lwjwOzgRZZeyiPL) | 2:56 | 2022-07-19 |  |

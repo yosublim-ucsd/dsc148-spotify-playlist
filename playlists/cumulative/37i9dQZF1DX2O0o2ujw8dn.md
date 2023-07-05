@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-26 songs - 1 hr 18 min
+27 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Did It Myself](https://open.spotify.com/track/014UbcvltWdvq1h6oNL17Y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7tvF6pG0ePx0GFwmNPKpqX) | 2:51 | 2023-06-08 |  |
 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2023-06-07 |  |
 | [EVITA!](https://open.spotify.com/track/1cLWh6iYg05XcuviJTgjPq) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 3:27 | 2023-06-07 |  |
-| [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-06-07 |  |
+| [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 | 2023-06-14 |  |
+| [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-06-07 | 2023-07-05 |
 | [FU \(feat\. French Montana\)](https://open.spotify.com/track/6dDIOU6AqgLkrjFNPgvKY6) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:49 | 2023-06-07 |  |
 | [Good Life \(with G\-Eazy & Kehlani\)](https://open.spotify.com/track/1Eck97uRMlprKOOJN9oO1E) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Life \(with G\-Eazy & Kehlani\)](https://open.spotify.com/album/5PO2cqkBjAUOSHdxSDJOL4) | 3:45 | 2023-06-07 |  |
 | [Hate you](https://open.spotify.com/track/0xMwZLKcL91gNZD8xdUz4b) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [tellusboutyourself](https://open.spotify.com/album/5Cy3gR0zInwvK8DqKku5C0) | 3:39 | 2023-06-07 |  |

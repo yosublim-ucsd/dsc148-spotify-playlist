@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-235 songs - 13 hr 46 min
+236 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
 | [Como Olvidarme](https://open.spotify.com/track/54cC0r3qzqOhYjNsYU73Wn) | [Banda Juarez](https://open.spotify.com/artist/1nxRQ22XbIRuydkNM3SsUv), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Como Olvidarme](https://open.spotify.com/album/5lNYf7MItETO0R0JwrekHN) | 4:44 | 2023-03-24 | 2023-04-12 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-01-17 |  |
-| [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2021-12-24 |  |
+| [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2021-12-24 | 2023-07-05 |
 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 | 2022-08-14 |
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-12 |  |
 | [Cumbia Cumbia Cumbia](https://open.spotify.com/track/6TGMcOJ33TcHL3rAJuREMp) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [Cumbia Cumbia Cumbia](https://open.spotify.com/album/6upbBKdqb1xtf5OhVZA8Bw) | 2:45 | 2022-12-09 | 2023-01-14 |
@@ -208,6 +208,7 @@
 | [Tu Despertador](https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Tu Despertador](https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS) | 2:30 | 2023-06-09 |  |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-24 | 2022-12-24 |
 | [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 | 2023-01-06 |  |
+| [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-04 |  |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 | 2022-07-02 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 |  |
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-07 |  |

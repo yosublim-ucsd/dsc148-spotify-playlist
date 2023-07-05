@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,784 likes - 26 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,920 likes - 26 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 | 19 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
 | 20 | [Can't Lie](https://open.spotify.com/track/3qWZuhWi4lsHa7jUwhqfMr) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Lie](https://open.spotify.com/album/5ZKqZ7cUWUx17GsOBVN0BZ) | 3:15 |
 | 21 | [Curated by Yoo Jung\-hoo](https://open.spotify.com/track/2mDkIViMzLbc7cy2TjnXAT) | [BXXCH x RICH](https://open.spotify.com/artist/18lnEPtOewbEE3G4v96I9B) | [BXXCH x RICH Audio Liners](https://open.spotify.com/album/1pGR27gNvzdGBSRUJNPfKo) | 0:30 |
-| 22 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 |
+| 22 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 |
 | 23 | [I Can't!](https://open.spotify.com/track/7Hc4jMa01bO5UKGuOGgBU1) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [I Can't!](https://open.spotify.com/album/7lVoY3Nw5yr4FZQ1YAw9H0) | 3:05 |
 | 24 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 |
 | 25 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 26 | [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/3rFsv0HmPQyh6WEbb8T4Ar) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [SYNDROMEZ](https://open.spotify.com/album/5FXgrFAzwOOZpT3KBhgfxy) | 4:06 |
 
-Snapshot ID: `MCw5YWExMzA0OTYwZTk3OGU1MjhkYzgxYmY0NTFmZTFjYTE1M2JkNjFj`
+Snapshot ID: `MCwxOWY5MTlmOWYwZWM0MWM3YjMzNzk3YWM1ZTQ4YmYyNjRjMzI2NDg5`

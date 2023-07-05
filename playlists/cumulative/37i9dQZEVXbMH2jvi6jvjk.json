@@ -852,7 +852,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2192,6 +2192,36 @@
       "duration_ms": 331415,
       "name": "Awoa",
       "url": "https://open.spotify.com/track/5M89cRY3rjyaaLLmqx80Aa"
+    },
+    {
+      "album": {
+        "name": "My Journey Continues",
+        "url": "https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Ommit",
+          "url": "https://open.spotify.com/artist/7BwJrYm7GIu2HfrUO7gNEg"
+        },
+        {
+          "name": "Sobzeen",
+          "url": "https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw"
+        },
+        {
+          "name": "Zee_nhle",
+          "url": "https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492617,
+      "name": "Awukhuzeki",
+      "url": "https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr"
     },
     {
       "album": {
@@ -5592,7 +5622,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -5898,7 +5928,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 287142,
       "name": "Dali Wam",
       "url": "https://open.spotify.com/track/4HrTGHLIffBYPFan9QaAjg"
@@ -6076,7 +6106,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -13936,7 +13966,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 329073,
       "name": "Kilimanjaro (feat. Justin99, Mema_Percent & Mr JazziQ)",
       "url": "https://open.spotify.com/track/4aAxUQUNTtBhDgDcyCfXUu"
@@ -13954,7 +13984,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -16248,7 +16278,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 273640,
       "name": "Malume (Nta Swi Byela Mani Revisit)",
       "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
@@ -19048,7 +19078,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -20786,6 +20816,32 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
+    },
+    {
+      "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "album": {
@@ -23424,7 +23480,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 416316,
       "name": "Shona Kwelanga (feat. Mawhoo, Da Muziqal Chef & Kabza De Small)",
       "url": "https://open.spotify.com/track/4VrYIDyFUN4IYU3wtjbF8p"
@@ -23625,7 +23681,7 @@
     },
     {
       "album": {
-        "name": "Sisekakeni Babies (feat. Skillz Musiq)",
+        "name": "Sisekakeni Babies (feat. Skillz Musiq & RudeBoyz)",
         "url": "https://open.spotify.com/album/3rgyWDy5SH3WLGRHZc2kiA"
       },
       "artists": [
@@ -23636,13 +23692,17 @@
         {
           "name": "Skillz Musiq",
           "url": "https://open.spotify.com/artist/7m5wTG7hotsoPNRoAD2win"
+        },
+        {
+          "name": "Rudeboyz",
+          "url": "https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk"
         }
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 343414,
-      "name": "Sisekakeni Babies (feat. Skillz Musiq)",
+      "name": "Sisekakeni Babies (feat. Skillz Musiq & RudeBoyz)",
       "url": "https://open.spotify.com/track/30KX5p3u1xN8TF83eGY0bQ"
     },
     {
@@ -26196,7 +26256,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 290248,
       "name": "Thando",
       "url": "https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH"
@@ -28364,7 +28424,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -29688,7 +29748,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"

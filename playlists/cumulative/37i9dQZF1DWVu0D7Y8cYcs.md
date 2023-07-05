@@ -4,7 +4,7 @@
 
 > Come on, man\. Just smile!
 
-85 songs - 4 hr 59 min
+86 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Roots & Chalice](https://open.spotify.com/track/7yEuDcNgsZYmiNiKmUcHCG) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Roots & Chalice](https://open.spotify.com/album/5CAhDjreHUyDeG6QwGoysV) | 4:12 | 2021-10-24 |  |
 | [Scorpio's Letter](https://open.spotify.com/track/1YCa08t9po5O8BfuyzuCUE) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA), [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 2:55 | 2022-10-13 | 2023-07-02 |
 | [Scorpio's Letter](https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio’s Letter](https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW) | 2:55 | 2021-10-24 | 2023-02-15 |
+| [Scorpio's Letter](https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio's Letter](https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E) | 2:56 | 2022-10-13 |  |
 | [Sunday Morning](https://open.spotify.com/track/3gonK3rQEsWNMyETqnOyxl) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Strictly Roots](https://open.spotify.com/album/2wF68GbQuZQxui1sOq385l) | 3:56 | 2021-10-24 | 2022-07-29 |
 | [Sunday Morning](https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Strictly Roots](https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX) | 3:56 | 2022-06-20 |  |
 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 | 2022-09-23 |  |
@@ -80,7 +81,7 @@
 | [True Love](https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn) | 4:16 | 2022-06-20 | 2022-11-11 |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2021-10-24 |  |
 | [Ups And Downs](https://open.spotify.com/track/50XYu0huetyDixA0Nvv6S9) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw) | [Ups And Downs](https://open.spotify.com/album/11wUMGuN8BrCaeAdjbriic) | 3:34 | 2022-06-20 | 2022-12-06 |
-| [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 | 2021-10-24 |  |
+| [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 | 2021-10-24 | 2023-07-05 |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 | 2022-06-20 |  |
 | [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 | 2021-10-24 | 2022-09-05 |
 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 | 2022-10-13 |  |

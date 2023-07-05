@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-859 songs - 1 day 23 hr 28 min
+860 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,7 +448,7 @@
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2021-08-01 | 2021-08-05 |
 | [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 | 2023-05-13 |  |
 | [Louis V, Menina Linda](https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Louis V, Menina Linda](https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ) | 3:35 | 2021-10-04 | 2021-11-24 |
-| [Love Again](https://open.spotify.com/track/4G3SXR53RWS5hplFJ53jbA) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 3:28 | 2023-03-18 |  |
+| [Love Again](https://open.spotify.com/track/4G3SXR53RWS5hplFJ53jbA) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 3:28 | 2023-03-18 | 2023-07-05 |
 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 | 2022-12-14 | 2023-03-19 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-10 |
 | [Love Is On My Side](https://open.spotify.com/track/4S4RWAA749dKyJQ5CiKEBJ) | [The Black Mamba](https://open.spotify.com/artist/2huzXUiBGRUJ8iRFD4NHc7) | [Love Is On My Side](https://open.spotify.com/album/1HFvagCE5ckzZAb4yXY3yE) | 2:55 | 2021-05-25 | 2021-05-26 |
@@ -601,6 +601,7 @@
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-21 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-07 |
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-07-01 | 2023-05-31 |
+| [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 | 2023-07-04 |  |
 | [Planeta](https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Planeta](https://open.spotify.com/album/68WbQweOEDySKYhftpKfcE) | 2:47 | 2023-03-25 |  |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2022-12-25 | 2022-12-27 |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2021-06-07 | 2021-07-24 |

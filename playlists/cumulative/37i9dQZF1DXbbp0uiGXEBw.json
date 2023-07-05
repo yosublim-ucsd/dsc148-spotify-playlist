@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: O.lew",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Suni H\u1ea1 Linh",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -414,6 +414,24 @@
       "duration_ms": 261573,
       "name": "c\u00f4 \u0111\u01a1n s\u1edbm t\u1ed1i",
       "url": "https://open.spotify.com/track/6nwPpjXk97fYF2aOUq2fcp"
+    },
+    {
+      "album": {
+        "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
+        "url": "https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5"
+      },
+      "artists": [
+        {
+          "name": "H\u1ed3 Ng\u1ecdc H\u00e0",
+          "url": "https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263362,
+      "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
+      "url": "https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia"
     },
     {
       "album": {
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 210285,
       "name": "H\u1eb9n G\u1eb7p Anh",
       "url": "https://open.spotify.com/track/64f07abwvPcAe6zzpHYeKy"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 225000,
       "name": "Ph\u1ea3i L\u00f2ng Anh - English Version",
       "url": "https://open.spotify.com/track/25SMvP3ET2NfTNjWkwmAEW"
@@ -2018,6 +2036,28 @@
       "duration_ms": 243934,
       "name": "Real Love - The Heroes Version",
       "url": "https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8"
+    },
+    {
+      "album": {
+        "name": "R\u1ed3i M\u00ecnh S\u1ebd G\u1eb7p Nhau (M\u01b0\u1eddi: L\u1eddi Nguy\u1ec1n Tr\u1edf L\u1ea1i Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3AqaeDf1JPGGPtRiyJY9w8"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Duy\u00ean",
+          "url": "https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d"
+        },
+        {
+          "name": "Han Sara",
+          "url": "https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244827,
+      "name": "R\u1ed3i M\u00ecnh S\u1ebd G\u1eb7p Nhau - M\u01b0\u1eddi: L\u1eddi Nguy\u1ec1n Tr\u1edf L\u1ea1i Original Soundtrack",
+      "url": "https://open.spotify.com/track/5EHV4QKIcf95NDmXH8nMg7"
     },
     {
       "album": {

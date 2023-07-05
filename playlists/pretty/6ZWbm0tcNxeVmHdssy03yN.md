@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,587 likes - 92 songs - 4 hr 46 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,602 likes - 92 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 60 | [500 Caras](https://open.spotify.com/track/1rHwnUmveFw5Uzcfqxw7Pw) | [MARTIN](https://open.spotify.com/artist/0WaT9IZwWiA0LuYWlVrKtL) | [500 Caras](https://open.spotify.com/album/7fwxOYaBFeQOJnMuLXuePP) | 3:10 |
 | 61 | [Tartamudeo](https://open.spotify.com/track/27HTdO4Bo548D2PqA8Ymat) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [Tartamudeo](https://open.spotify.com/album/45134iKVCzl2qyXovQuVCb) | 2:26 |
 | 62 | [No Rush It](https://open.spotify.com/track/75ZwZ4mD4Eaz46gwIx8RU1) | [Riggs](https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj), [Kato Jimenez](https://open.spotify.com/artist/6fOrbsBc3NEsbbm4xIe9Wc) | [No Rush It](https://open.spotify.com/album/4b3uST6aRZAmtfjkM2o09O) | 2:33 |
-| 63 | [Buatku Gila](https://open.spotify.com/track/26gGdbwokQXFuKi9RjzTt7) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD) | [New Kicks For Goofies](https://open.spotify.com/album/1FHvj5QZkFnQVsh2XE4vke) | 3:12 |
+| 63 | [Buatku Gila](https://open.spotify.com/track/26gGdbwokQXFuKi9RjzTt7) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [New Kicks For Goofies](https://open.spotify.com/album/1FHvj5QZkFnQVsh2XE4vke) | 3:12 |
 | 64 | [Most Hated](https://open.spotify.com/track/6O51f6U6GckhpPh5ztbpy5) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Most Hated](https://open.spotify.com/album/3vc7nRCD7qypDXAYYsAvgW) | 2:15 |
 | 65 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 |
 | 66 | [Pink Cheeks](https://open.spotify.com/track/0RG2ZO1My36ZT9kAoDTcsi) | [Poppy Jean Crawford](https://open.spotify.com/artist/4kmE1cIX5AhDFxOLOY5HNM) | [Pink Cheeks](https://open.spotify.com/album/5oaakBzBL1lnD5Kqf0xXMz) | 3:28 |

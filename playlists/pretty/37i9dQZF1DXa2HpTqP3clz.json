@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Dan Tyminski",
-  "num_followers": 122678,
+  "num_followers": 122712,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBlZTZjYjU1Y2UxMjI0ZTFkNzhkOTRlZDY0YmJjOGI1NWY3NjQ0",
+  "snapshot_id": "MCwyMGFjZGQwMmUwMDlmYzUyNTg5YTUxZDdlMjYxYzdhMjA3OTYzMDEy",
   "tracks": [
     {
       "added_at": "2023-06-23 04:12:40",
@@ -455,22 +455,18 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
-        "name": "Blue Railroad Train",
-        "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Blue Railroad Train",
-      "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
+      "duration_ms": 280669,
+      "name": "Shamrock",
+      "url": "https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -531,22 +527,6 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 280669,
-      "name": "Shamrock",
-      "url": "https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
         "name": "Arm in Arm",
         "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
+        "name": "Blue Railroad Train",
+        "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Blue Railroad Train",
+      "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Tejon Street Corner Thieves",
+          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
         }
       ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+      "duration_ms": 241013,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
         "name": "When I'm Free",
         "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 182120,
       "name": "You Were on My Mind This Morning",
       "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
-      },
-      "artists": [
-        {
-          "name": "Tejon Street Corner Thieves",
-          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 188573,
       "name": "Ain\u2019t That Fine",
       "url": "https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
         "name": "All the Mornings Have an Echo",
         "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
         "name": "Grey Eagle / A Distant Land to Roam",
         "url": "https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 153015,
       "name": "A Distant Land to Roam",
       "url": "https://open.spotify.com/track/06qDaLk1pCIRiOuOW5R2gM"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-06-23 04:12:40",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1655,22 +1655,6 @@
       "duration_ms": 160525,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-06-23 04:12:40",
-      "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2023-06-23 04:12:40",
@@ -1719,6 +1703,22 @@
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
+    },
+    {
+      "added_at": "2023-06-23 04:12:40",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2023-06-23 04:12:40",

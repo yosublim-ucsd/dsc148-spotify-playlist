@@ -1086,12 +1086,12 @@
       },
       "artists": [
         {
-          "name": "Brandon Hartt",
-          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
-        },
-        {
           "name": "Dusty Leigh",
           "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Brandon Hartt",
+          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
         }
       ],
       "date_added": "2023-06-30",

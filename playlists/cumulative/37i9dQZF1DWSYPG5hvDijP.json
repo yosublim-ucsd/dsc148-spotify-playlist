@@ -385,6 +385,32 @@
     },
     {
       "album": {
+        "name": "Bhussi",
+        "url": "https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Bhussi",
+      "url": "https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd"
+    },
+    {
+      "album": {
         "name": "Blue Bandana",
         "url": "https://open.spotify.com/album/2R032taLxn2FdTdKUIWNpb"
       },
@@ -1828,6 +1854,28 @@
       "duration_ms": 243148,
       "name": "Mar Jaayega",
       "url": "https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv"
+    },
+    {
+      "album": {
+        "name": "Masroor",
+        "url": "https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Katoptris",
+          "url": "https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Masroor",
+      "url": "https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj"
     },
     {
       "album": {

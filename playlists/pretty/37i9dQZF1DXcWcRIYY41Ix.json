@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Feli Colina.",
-  "num_followers": 113290,
+  "num_followers": 113337,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjE0MWJkNWYxZjc5MGVmMzBjMGYwZWFjNDNkYTI0OTMzN2EyMDE4",
+  "snapshot_id": "MCwwMjc0NDZkZTYxOWM4ZjdiYzFlZTg0NWI5YWIyODc2NzFmMDg0MTM5",
   "tracks": [
     {
       "added_at": "2023-06-30 06:00:00",
@@ -195,18 +195,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Perot\u00e1 Ching\u00f3",
-        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+        "name": "Tocando tierra",
+        "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
       },
       "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
         {
           "name": "Perot\u00e1 Ching\u00f3",
           "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 309044,
-      "name": "Rie Chinito",
-      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
+      "duration_ms": 253813,
+      "name": "Semillas (con Perota Chingo)",
+      "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Tocando tierra",
-        "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
+        "name": "Perot\u00e1 Ching\u00f3",
+        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
       },
       "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
         {
           "name": "Perot\u00e1 Ching\u00f3",
           "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 253813,
-      "name": "Semillas (con Perota Chingo)",
-      "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
+      "duration_ms": 309044,
+      "name": "Rie Chinito",
+      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Corazoncito M\u00edo",
-      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Versiones Desnudas",
-        "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
       "artists": [
         {
-          "name": "RIOLA",
-          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
-        },
-        {
-          "name": "Borja Pic\u00f3",
-          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Dame M\u00e1s (En Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
+      "duration_ms": 195744,
+      "name": "Corazoncito M\u00edo",
+      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1423,6 +1403,26 @@
       "duration_ms": 210272,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Versiones Desnudas",
+        "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
+      },
+      "artists": [
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Dame M\u00e1s (En Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1795,26 +1795,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Pilares",
-        "url": "https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e"
+        "name": "El Mundo y la Nada",
+        "url": "https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1"
       },
       "artists": [
         {
-          "name": "Chiki Lora",
-          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
         },
         {
-          "name": "Canteca de macao",
-          "url": "https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL"
-        },
-        {
-          "name": "Miryam Latrece",
-          "url": "https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 195240,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm"
+      "duration_ms": 122821,
+      "name": "Despi\u00e9rtame Cuando Llegues",
+      "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
     }
   ],
   "unique_name": "Cancionistas",

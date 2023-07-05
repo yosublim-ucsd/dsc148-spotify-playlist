@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49978,
+  "num_followers": 49994,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWMwNTgwMjM4ODhhMjlhZDZjNjA1Yjk2NjcwZDU3ZGRmMzEwOWE4",
+  "snapshot_id": "MCw4NGZhMTBkN2M1OTA0MjA2MzIyNjJkMWZmMmEzNzZjYmQ0ODZlODcx",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -33,26 +33,6 @@
       "url": "https://open.spotify.com/track/171etuRcF92SOVIuHnDm4u"
     },
     {
-      "added_at": "2023-06-22 11:47:39",
-      "album": {
-        "name": "Dhaga Dhaga (from \"Baang\")",
-        "url": "https://open.spotify.com/album/5RfWt52snyaPdKN6WFa0lu"
-      },
-      "artists": [
-        {
-          "name": "Chethan Gandharva",
-          "url": "https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5"
-        },
-        {
-          "name": "Charvi Muralidhar",
-          "url": "https://open.spotify.com/artist/3VzlnjCSTd24PIxrA4oclu"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "Dhaga Dhaga (from \"Baang\")",
-      "url": "https://open.spotify.com/track/1owLlr4yO68aumRNQ2gMwp"
-    },
-    {
       "added_at": "2023-05-29 08:32:58",
       "album": {
         "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
@@ -75,6 +55,30 @@
       "duration_ms": 230202,
       "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
       "url": "https://open.spotify.com/track/2gqLAvFuVOno5cYwEMEP6J"
+    },
+    {
+      "added_at": "2023-07-04 11:00:31",
+      "album": {
+        "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
+        "url": "https://open.spotify.com/album/12c9Uhc8SAb80LasWprlLP"
+      },
+      "artists": [
+        {
+          "name": "Shashikala Sunil",
+          "url": "https://open.spotify.com/artist/3vkjAE9Pk7fDnluZlEcBoV"
+        },
+        {
+          "name": "Sachin Araballi",
+          "url": "https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo"
+        },
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        }
+      ],
+      "duration_ms": 260094,
+      "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
+      "url": "https://open.spotify.com/track/28wJVYrC30oHCncNURR2Ws"
     },
     {
       "added_at": "2023-05-20 08:05:14",
@@ -235,22 +239,6 @@
       "duration_ms": 237250,
       "name": "Oh My Love - From \"Ambuja\"",
       "url": "https://open.spotify.com/track/51Vp53MR4How58rfSycArK"
-    },
-    {
-      "added_at": "2023-06-26 06:21:19",
-      "album": {
-        "name": "Abhiramachandra First Glimpse (From \"ABHIRAMACHANDRA\")",
-        "url": "https://open.spotify.com/album/2AI8RHTzskK9YS3zbqQ8zA"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 72029,
-      "name": "Abhiramachandra First Glimpse (From \"ABHIRAMACHANDRA\")",
-      "url": "https://open.spotify.com/track/4FpqZZYDr8GD3bSkrrPB6i"
     },
     {
       "added_at": "2023-07-03 10:32:24",

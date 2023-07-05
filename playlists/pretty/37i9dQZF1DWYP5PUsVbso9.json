@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 262216,
+  "num_followers": 262468,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmIzMDZjOGMzNWVjZDI0ZGM3YjJhOTEzODkwYmUzNDdhYjJlZTFl",
+  "snapshot_id": "MCxjNzZhYTJhODg2ZDcxZmE4MTZiNzI5MGQ4MDlhYjQ3YTYwZWU1MTk0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Good 'N' Country",
         "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 139466,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
       "added_at": "2023-02-24 05:00:00",

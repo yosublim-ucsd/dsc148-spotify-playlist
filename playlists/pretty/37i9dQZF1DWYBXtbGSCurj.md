@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Nagalli, Borges, Veigh, Kyan, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,291 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,444 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 2 | [Alma](https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Alma](https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9) | 3:36 |
 | 3 | [Imaginar](https://open.spotify.com/track/3C9uvw1sMHegRGVrUsTy6J) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Intenção](https://open.spotify.com/album/7wdJveXfB0dVqbbPdR5zUD) | 2:38 |
 | 4 | [ELAS ACHA QUE EU SOU GRINGO](https://open.spotify.com/track/2Xb1ZmF2bsN1llZgdgr4Ag) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [ELAS ACHA QUE EU SOU GRINGO](https://open.spotify.com/album/3iFSc9CmYUUJGvi5Xxfjnp) | 3:35 |
-| 5 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 5 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
 | 6 | [Sarradeira](https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 4:55 |
 | 7 | [10 Chamadas](https://open.spotify.com/track/4XhCfLZZ9QTjTcmZTu74Nw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [10 Chamadas](https://open.spotify.com/album/2RZCp0cnLrXZOvCVgF4joj) | 2:44 |
 | 8 | [Frozone](https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Frozone](https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 |
 | 75 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 
-Snapshot ID: `MCw4MGM2YzA2OTQ0NmJiMDhlZDQ5YmVkYTYwYzkzOWRhNTVjOWVkYmZi`
+Snapshot ID: `MCwwYThmN2VmZGExNWYyYWVjMmNkMzJjZGYzMzlkOGNlYmE0ZGYyY2U5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: PK, IGOR, OIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,310 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,326 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 75 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
 
-Snapshot ID: `MCwxMmFiYzhjMmYxMmNhNDliYjIwN2M1OTljZDc4Nzk3ZTAzYWU4MTQ2`
+Snapshot ID: `MCwxODJhZWVlOGQzMjQ4YjQ3MDVlMTUwZWRmYTU4M2E0MTRhNTM2MDI0`

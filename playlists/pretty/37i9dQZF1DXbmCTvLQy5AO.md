@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,315 likes - 91 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,713 likes - 91 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 90 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
 | 91 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 
-Snapshot ID: `MCxlMDE0MGMxZjQ0MTQ0M2JkMjM4NjZjMDlkODJiODNkYTg5NzM1ODU0`
+Snapshot ID: `MCxiMDZhN2RjNzlhZGY0N2JmYjI2MTVhNjUwODAzNDZjZGI2YWVhZjM1`

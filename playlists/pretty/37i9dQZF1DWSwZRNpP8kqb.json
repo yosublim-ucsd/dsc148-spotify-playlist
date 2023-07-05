@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 18528,
+  "num_followers": 18545,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDAxNGY4ZDUxOTA3MzlmNDJjYzllMGRmZmIyZmE4Yzg3MjQ5NGMy",
+  "snapshot_id": "MCxiZWViNDI5ZDY2ZThmMjRkNzRmMmE3Yjg3ZDRjMzUxNjUyMTg5ZGE3",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Remedio Pal Alma",
-        "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
+        "name": "Entre Valles y Quebradas",
+        "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
       "artists": [
         {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+          "name": "Leda Valladares",
+          "url": "https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34"
+        },
+        {
+          "name": "Mar\u00eda Elena Walsh",
+          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
         }
       ],
-      "duration_ms": 218893,
-      "name": "De Los Dias, Los Mas Lindos",
-      "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
+      "duration_ms": 211200,
+      "name": "Viene Clareando",
+      "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Entre Valles y Quebradas",
-        "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
+        "name": "Remedio Pal Alma",
+        "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
       },
       "artists": [
         {
-          "name": "Leda Valladares",
-          "url": "https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34"
-        },
-        {
-          "name": "Mar\u00eda Elena Walsh",
-          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Viene Clareando",
-      "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
+      "duration_ms": 218893,
+      "name": "De Los Dias, Los Mas Lindos",
+      "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Melod\u00edas que sobran",
-        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
-      },
-      "artists": [
-        {
-          "name": "Nosas",
-          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
-        }
-      ],
-      "duration_ms": 208540,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Entre Algarroba y Durazno",
         "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Cr\u00eda",
-        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
+        "name": "Melod\u00edas que sobran",
+        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
       },
       "artists": [
         {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+          "name": "Nosas",
+          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
         }
       ],
-      "duration_ms": 340040,
-      "name": "En el Fresco de la Noche",
-      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
+      "duration_ms": 208540,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 260623,
       "name": "Lavanderas de Rio Chico",
       "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Cr\u00eda",
+        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
+      },
+      "artists": [
+        {
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "En el Fresco de la Noche",
+      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
+        "name": "Verdeado Dulzor",
+        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
       },
       "artists": [
         {
-          "name": "Suna Rocha",
-          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        },
+        {
+          "name": "Matias Betti",
+          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
         }
       ],
-      "duration_ms": 286627,
-      "name": "El seclante\u00f1o",
-      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
+      "duration_ms": 151771,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Verdeado Dulzor",
-        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+        "name": "Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
       "artists": [
         {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        },
-        {
-          "name": "Matias Betti",
-          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+          "name": "Suna Rocha",
+          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
         }
       ],
-      "duration_ms": 151771,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
+      "duration_ms": 286627,
+      "name": "El seclante\u00f1o",
+      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
     },
     {
       "added_at": "2023-06-09 03:00:00",

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 229520,
       "name": "4Runner",
       "url": "https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 273513,
       "name": "A Prayer Of My Own",
       "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
@@ -266,6 +266,24 @@
       "duration_ms": 217875,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7JYzvdXx2apa4twRQfVOah"
+    },
+    {
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "album": {
@@ -1573,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+    },
+    {
+      "album": {
         "name": "Go (Radio Edit)",
         "url": "https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1"
       },
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 211630,
       "name": "I Guess This is Life",
       "url": "https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT"
@@ -3608,6 +3644,24 @@
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
     },
     {
       "album": {

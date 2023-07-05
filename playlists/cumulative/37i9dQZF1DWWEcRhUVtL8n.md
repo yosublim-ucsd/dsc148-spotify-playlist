@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,606 songs - 3 day 12 hr 44 min
+1,607 songs - 3 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Belong](https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Belong](https://open.spotify.com/album/0JH3NgJkj2IKNxHpiK0wLh) | 3:06 | 2022-08-12 | 2022-08-20 |
 | [Beluga Baby](https://open.spotify.com/track/051j6UH25Tkif0uPdsBybg) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Beluga Baby](https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ) | 2:40 | 2021-02-23 | 2021-03-15 |
 | [Best](https://open.spotify.com/track/3B4eW2VXGdOdsbTyfF5oDE) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 3:53 | 2023-02-28 | 2023-04-29 |
+| [Best](https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:53 | 2023-03-24 |  |
 | [best friends \(bonus track\)](https://open.spotify.com/track/2i6Rv1qXMPq0zPsIWFH5bZ) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [best friends \(bonus track\)](https://open.spotify.com/album/4g2QQPHJ7R08QjgAJ2W8U8) | 3:31 | 2020-10-13\* | 2021-01-15 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-05-03 | 2022-04-20 |
 | [best u ever had <3](https://open.spotify.com/track/4hRZhP4YuDU44uv6SLodJ6) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [best u ever had <3](https://open.spotify.com/album/54OU5EKjpz9XjbnnzqJOg5) | 2:57 | 2021-07-19 | 2022-04-15 |
@@ -847,7 +848,7 @@
 | [Let You Let Me Down](https://open.spotify.com/track/476tWNIROvxwoKxPVKt71E) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Let You Let Me Down](https://open.spotify.com/album/4MFwABGKohheRHL0JWg9cR) | 3:07 | 2021-02-22 | 2021-05-27 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-10-20 | 2021-06-03 |
 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-13 | 2023-03-16 |
-| [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-16 |  |
+| [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-16 | 2023-07-05 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-07-01 |

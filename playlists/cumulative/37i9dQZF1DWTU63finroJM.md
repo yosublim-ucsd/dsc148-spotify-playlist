@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,049 songs - 2 day 10 hr 37 min
+1,050 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2022-02-03 | 2022-07-29 |
 | [Kebyar Kebyar](https://open.spotify.com/track/1ZvNAOQk9uvqNDaSmWVJX0) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kebyar Kebyar](https://open.spotify.com/album/1aenBmEoyGlTl8ozxY6HQC) | 3:47 | 2022-06-03 | 2023-05-09 |
 | [Keep Up](https://open.spotify.com/track/1ypGYiTfQ7t6M6SkTozZeY) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [Keep Up](https://open.spotify.com/album/0Cz4M6d0VmPIShBHxqs5zD) | 3:02 | 2022-03-21 | 2022-06-23 |
+| [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 | 2023-07-04 |  |
 | [Kelede](https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Kelede](https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb) | 2:39 | 2022-03-24 | 2022-09-16 |
 | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/track/5PpPbVrs8A420BrabyPOGa) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/album/15g03MvPSXzmvra2cLxvgc) | 2:36 | 2022-02-10 | 2022-03-01 |
 | [Kippe](https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Kippe](https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk) | 2:39 | 2022-09-16 | 2022-12-03 |
@@ -473,7 +474,7 @@
 | [Law Sarakhna](https://open.spotify.com/track/6gLkcjfA3DXyyXROJcvAEO) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Law Sarakhna](https://open.spotify.com/album/4n8mdqj3DZQpr7ea4nLKhL) | 4:33 | 2022-03-24 | 2022-04-07 |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2022-04-07 | 2022-04-20 |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-03-31 | 2022-04-20 |
-| [Lemonade](https://open.spotify.com/track/4p8Hbw6wPv0u0w7LFj8n78) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Lemonade](https://open.spotify.com/album/65zVZXGlHRn46RPsh7Bnbz) | 2:34 | 2023-05-30 |  |
+| [Lemonade](https://open.spotify.com/track/4p8Hbw6wPv0u0w7LFj8n78) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Lemonade](https://open.spotify.com/album/65zVZXGlHRn46RPsh7Bnbz) | 2:34 | 2023-05-30 | 2023-07-05 |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2022-03-24 | 2023-01-21 |
 | [Les gens qui doutent](https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Les gens qui doutent](https://open.spotify.com/album/4qa4kWwOe8wH1SRrE4kx7U) | 3:16 | 2022-06-29 | 2022-11-26 |
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-03-24 | 2022-04-18 |
@@ -890,7 +891,7 @@
 | [What?](https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:30 | 2022-02-03 | 2022-03-17 |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-02-03 | 2022-03-18 |
 | [Who Do I Call?](https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Who Do I Call?](https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n) | 1:54 | 2022-03-24 | 2022-08-02 |
-| [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2023-05-04 |  |
+| [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2023-05-04 | 2023-07-05 |
 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 | 2022-08-26 | 2023-05-31 |
 | [Widzę cię](https://open.spotify.com/track/604JqwQja2CNEc36UA1Rsr) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Nocą \- EP](https://open.spotify.com/album/4AjfDklZyFtkc54hAF99kg) | 3:40 | 2022-03-24 | 2022-08-02 |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-03 | 2023-06-10 |

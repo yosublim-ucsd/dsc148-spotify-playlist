@@ -1,12 +1,12 @@
 {
   "description": "Country rap hits of today and tomorrow.",
-  "num_followers": 29477,
+  "num_followers": 29702,
   "original_name": "Country Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2E0YzYzZTQ3Mzc2NzI1ZjQ4ODEyNTdiZmM0MzQ5OGE2OGFlM2Ji",
+  "snapshot_id": "MCw0MzhmYzVhYmU1NTFhYThlYjNlNzcyNjJkMDFlNjVkODhkMmRhYmJk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -756,12 +756,12 @@
       },
       "artists": [
         {
-          "name": "Brandon Hartt",
-          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
-        },
-        {
           "name": "Dusty Leigh",
           "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Brandon Hartt",
+          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
         }
       ],
       "duration_ms": 146889,

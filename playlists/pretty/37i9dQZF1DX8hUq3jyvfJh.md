@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,836 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,959 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Mulher Feia](https://open.spotify.com/track/7h7PS0rDRau7mIZBAY6jSc) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Mulher Feia](https://open.spotify.com/album/5kMX8zHva5DbmG0KWMuiKx) | 3:12 |
 | 41 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 |
 | 42 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
-| 43 | [Basta](https://open.spotify.com/track/3gs0Pn6FKhwAfsf4fOYkGY) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9) | [Basta](https://open.spotify.com/album/5dISg5YCW7cDiEosyLk6Fv) | 2:21 |
+| 43 | [Basta](https://open.spotify.com/track/3gs0Pn6FKhwAfsf4fOYkGY) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9), [William Santos](https://open.spotify.com/artist/6P8kyx8CHky00iuxUaI7Zb) | [Basta](https://open.spotify.com/album/5dISg5YCW7cDiEosyLk6Fv) | 2:21 |
 | 44 | [Aguenta o Sofrimento](https://open.spotify.com/track/1fGQYggHxscWV3LZDdoOcZ) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Aguenta o Sofrimento](https://open.spotify.com/album/6UR3uayIt7lSK0o1hAP9kE) | 2:17 |
 | 45 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
 | 46 | [Mentir Pra Que \- Ao Vivo](https://open.spotify.com/track/0HTvCeTBhY5TJqupRLm7Ef) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
 | 50 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 
-Snapshot ID: `MCxhNzM5ZTU5ZTM0YmU5NDlkYzgwNjJjODJhYThlY2Q1NDU0MjY3MGU1`
+Snapshot ID: `MCwwMjE4MDQzZTJkMDJhNGNlYTRjMjAyYTMyOWI4NGMwYjhkNTFkYjE1`

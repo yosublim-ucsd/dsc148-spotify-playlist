@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-167 songs - 19 hr 34 min
+168 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 | 2022-06-09 |  |
 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 | 2022-06-09 | 2023-06-06 |
 | [Blessing Now](https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Blessing Now](https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM) | 3:28 | 2022-08-25 |  |
-| [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 | 2023-03-17 |  |
+| [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 | 2023-03-17 | 2023-07-05 |
 | [Bonk'abantu](https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Mussie Fisseha](https://open.spotify.com/artist/0pqfLLrl7qVsHhCjwXqVOw) | [Bonk'abantu](https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui) | 4:05 | 2023-06-16 | 2023-06-30 |
 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 | 2022-06-09 |  |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2022-06-09 |  |
@@ -163,6 +163,7 @@
 | [Worship Medley](https://open.spotify.com/track/33uzJMAazub75TIKdsEQIV) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Worship Medley](https://open.spotify.com/album/4Lc6LKskIMuD18YhiImsbt) | 31:25 | 2022-09-01 | 2023-02-17 |
 | [Worship Medley](https://open.spotify.com/track/7HkX83YLeW3kh0qHnOshsJ) | [Toluwani](https://open.spotify.com/artist/43ANlDUE9h33tYuIQCmHj5) | [Kos'oluwa Laye](https://open.spotify.com/album/59mTp41rtwoWJG1oIZ9l7v) | 8:47 | 2022-10-14 | 2022-11-05 |
 | [Yabo Da Sujada \(Remake\)](https://open.spotify.com/track/23RE8EyR2GHxgh5ndXAJ65) | [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu) | [Overflow](https://open.spotify.com/album/6O7bLJ0d9fXFfsK2JQ7I4h) | 6:32 | 2022-10-14 | 2022-11-05 |
+| [Yahweh Be Praised](https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yahweh Be Praised](https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO) | 5:27 | 2023-06-30 |  |
 | [Yahweh: Song of Moses](https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Yahweh: Song of Moses](https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj) | 7:44 | 2022-06-09 | 2023-01-23 |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2022-06-09 |  |
 | [Yhwh](https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yhwh](https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a) | 9:43 | 2022-09-09 |  |

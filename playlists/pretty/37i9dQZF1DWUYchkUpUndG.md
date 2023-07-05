@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT?si=DYP4R9XuQUO3\-kYzJ77bvg">Moses Akoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,756 likes - 70 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,875 likes - 70 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 69 | [Ton amour](https://open.spotify.com/track/6sgMgLPaQisdJ5Tdlyaeo8) | [Noémie K.B](https://open.spotify.com/artist/6mwZWNs7CsUQH04gNlpAL5) | [Ton amour](https://open.spotify.com/album/3H2tTgpPYiXSHC5fDGSEzR) | 3:02 |
 | 70 | [Little Boy](https://open.spotify.com/track/2qyWrqT9Rpn036zklKhSIH) | [ASHOKE JNR](https://open.spotify.com/artist/7HIYRRf1WZ8SjPUL12bHyt) | [Little Boy](https://open.spotify.com/album/71wPlgnEhFUZZibuuZ2ZmZ) | 2:32 |
 
-Snapshot ID: `MCw0YzhlYTc0Y2QyMjg2ODU1ZGEwMTk1YzA5OTc2M2FlYjk5ZmRhM2Vk`
+Snapshot ID: `MCwxY2Y0ZTkyYmUwMTY4YThiNzY2MGE2NmZkYjJlODI3NWVkYzkyN2I5`

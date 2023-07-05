@@ -4,11 +4,12 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-106 songs - 6 hr 6 min
+107 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2023-05-26 |  |
+| [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 | 2023-06-30 |  |
+| [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2023-05-26 | 2023-07-05 |
 | [15 Segundos](https://open.spotify.com/track/7duzx5AkBs15CcKPAV1Loq) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [15 Segundos](https://open.spotify.com/album/6T5pgUDIlTGXquM2iysJCD) | 3:44 | 2023-05-26 |  |
 | [6 Am](https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [6 Am](https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx) | 2:56 | 2023-05-26 |  |
 | [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2023-05-26 |  |

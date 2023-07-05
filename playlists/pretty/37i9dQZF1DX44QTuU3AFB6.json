@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 227852,
+  "num_followers": 228156,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTMwNTAxMjI3NjZjOTU1MGMxZjNjZDQ5ZDlhNGIxZjFlYjE3MGQ4",
+  "snapshot_id": "MCw1OGFjYTliZmY2ZWUwOTk1NGM5ZWNjNjgyNjUyYjM4ZTcwNGJjYjA1",
   "tracks": [
     {
       "added_at": "2023-05-15 21:37:27",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Top Norte\u00f1o",
-        "url": "https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "El Clavo",
-      "url": "https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 217283,
       "name": "As\u00ed Quer\u00eda Mirarte",
       "url": "https://open.spotify.com/track/1U0TaW2UNfdD8Hr5IEJXXv"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Top Norte\u00f1o",
+        "url": "https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "El Clavo",
+      "url": "https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2587,18 +2587,18 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+        "name": "En El Tiempo",
+        "url": "https://open.spotify.com/album/5lUF7dc1FSAWTL1hEAD4uA"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 169080,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
+      "duration_ms": 222093,
+      "name": "Nomas Por Tu Culpa",
+      "url": "https://open.spotify.com/track/2z3YMDoay4i17qy1QiNcuy"
     }
   ],
   "unique_name": "Puras Pa' Pistear",

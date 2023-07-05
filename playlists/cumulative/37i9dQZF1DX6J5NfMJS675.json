@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 369880,
       "name": "Action",
       "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
@@ -1874,6 +1874,28 @@
       "duration_ms": 384000,
       "name": "Cosmic Transition",
       "url": "https://open.spotify.com/track/6sfGx2y7ssDXCg7lcC0XiL"
+    },
+    {
+      "album": {
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/3jX2LlPJdLJo9l4q6OUEe1"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262299,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw"
     },
     {
       "album": {
@@ -4350,7 +4372,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
@@ -4728,7 +4750,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 215653,
       "name": "Janfry",
       "url": "https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW"
@@ -5483,6 +5505,24 @@
     },
     {
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4Nhmrg5hFJlJVttNIrMzfv"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393012,
+      "name": "Melodrama",
+      "url": "https://open.spotify.com/track/5nQhot82EiDVqafaSriZqY"
+    },
+    {
+      "album": {
         "name": "Mental Cinema",
         "url": "https://open.spotify.com/album/0GrJWZOB7nHueIoCn8p2B1"
       },
@@ -5770,6 +5810,28 @@
       "duration_ms": 372122,
       "name": "Mr. Robot",
       "url": "https://open.spotify.com/track/4AR42SbzytfWeuA0E39kU7"
+    },
+    {
+      "album": {
+        "name": "Rave the Planet: Supporter Series, Vol. 016",
+        "url": "https://open.spotify.com/album/1qnzikl5o7EW52FxTMXdgR"
+      },
+      "artists": [
+        {
+          "name": "Dr. Motte",
+          "url": "https://open.spotify.com/artist/16XHmIkkg5P1YR2EoBFPOp"
+        },
+        {
+          "name": "Jam El Mar",
+          "url": "https://open.spotify.com/artist/0UmSf9lDFeavYgD65VrtHs"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222599,
+      "name": "Music Is The Answer - Short Version",
+      "url": "https://open.spotify.com/track/704Rw7OlcdzuvSd2nk1cNB"
     },
     {
       "album": {
@@ -6759,6 +6821,24 @@
     },
     {
       "album": {
+        "name": "Quarth",
+        "url": "https://open.spotify.com/album/4XQNQT0rtJM1J3aR08uabn"
+      },
+      "artists": [
+        {
+          "name": "The YellowHeads",
+          "url": "https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347192,
+      "name": "Quarth",
+      "url": "https://open.spotify.com/track/4qHSNroR0Vts9zR7vMcKuo"
+    },
+    {
+      "album": {
         "name": "Quiet Woman",
         "url": "https://open.spotify.com/album/3CVBDukXHdeMX4Tntt1O98"
       },
@@ -6992,7 +7072,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 373026,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/4prvj25xjRhb9LkXOFjGhH"
@@ -7018,6 +7098,24 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
+    },
+    {
+      "album": {
+        "name": "Resist",
+        "url": "https://open.spotify.com/album/22haSyl2D5sWsF4mheiGDV"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229852,
+      "name": "Resist",
+      "url": "https://open.spotify.com/track/5lRrhdbtPXkrBGkjzoFxh6"
     },
     {
       "album": {
@@ -9098,7 +9196,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 347294,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/5JyafhDS6oapE6GCQMY0SD"

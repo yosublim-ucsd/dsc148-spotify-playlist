@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: YongYong\(용용\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,474 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,486 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 41 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
 | 42 | [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 |
 | 43 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
-| 44 | [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 |
-| 45 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
+| 44 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
+| 45 | [CLIONE \(feat\. Sion\)](https://open.spotify.com/track/6fvbR4Sd9uMSj4nnoVbIDh) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:08 |
 | 46 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
 | 47 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 48 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
 | 49 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
 | 50 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
 
-Snapshot ID: `MCxmNzE0NTMwN2MzNmVlNjZjMzQ3YTgxMjhjZDRjZjMyNzhhMjAzOGJm`
+Snapshot ID: `MCxjYTFjYmY2NTljZWYyZjIzYjU1YmMwMTFmMTIzN2U0YjE0YzBlYmZl`

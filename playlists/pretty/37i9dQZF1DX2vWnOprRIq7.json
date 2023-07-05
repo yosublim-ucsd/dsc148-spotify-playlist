@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Julais.",
-  "num_followers": 15918,
+  "num_followers": 15922,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTEzMGQzYTE2NzEzYzYxMDYzMjVjZDg2NGY3ZDQyNWVlZjk0MDBi",
+  "snapshot_id": "MCw4MjRlNzAwMGUwMTA2ZDQ4YTRmNjA2OTYwYjVhNTkzNDc5ZTViNTA1",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 232173,
       "name": "Detonaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Sur",
-        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
       "artists": [
         {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 220081,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
+      "duration_ms": 180867,
+      "name": "HYPERREAL",
+      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
       },
       "artists": [
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
         }
       ],
-      "duration_ms": 180867,
-      "name": "HYPERREAL",
-      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
+      "duration_ms": 220081,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "MIXTO",
+        "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "duration_ms": 243538,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "En el Palacio (REMIX)",
         "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "MIXTO",
-        "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
       },
       "artists": [
         {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 243538,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
+      "duration_ms": 196020,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 253500,
       "name": "Modernos",
       "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 196020,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "NO MAS PROMESAS",
-        "url": "https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw"
+        "name": "Cicuta",
+        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
       },
       "artists": [
         {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
-        },
-        {
-          "name": "ill quentin",
-          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
         }
       ],
-      "duration_ms": 173793,
-      "name": "SIN TITULOS (feat. Ill Quentin)",
-      "url": "https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc"
+      "duration_ms": 149950,
+      "name": "Cicuta",
+      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Cicuta",
-        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
+        "name": "NO MAS PROMESAS",
+        "url": "https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw"
       },
       "artists": [
         {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+        },
+        {
+          "name": "ill quentin",
+          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
         }
       ],
-      "duration_ms": 149950,
-      "name": "Cicuta",
-      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+      "duration_ms": 173793,
+      "name": "SIN TITULOS (feat. Ill Quentin)",
+      "url": "https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "San Menace",
-        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
-      },
-      "artists": [
-        {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "San Menace",
-      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "FRONTERAS",
         "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 213000,
       "name": "FRONTERAS",
       "url": "https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Sin Prisa No Quiero Morir",
+        "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Nana para Mam\u00e1",
+      "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "CASI ANGELES <3",
         "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 225493,
       "name": "@CLOSEFRIENDS",
       "url": "https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Sin Prisa No Quiero Morir",
-        "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Nana para Mam\u00e1",
-      "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
     },
     {
       "added_at": "2023-06-23 03:00:00",

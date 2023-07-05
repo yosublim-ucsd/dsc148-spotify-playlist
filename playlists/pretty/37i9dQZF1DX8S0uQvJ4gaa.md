@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: John Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,454 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,947 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [All Or Nothing](https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [All Or Nothing](https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s) | 3:13 |
 | 100 | [I Should Have Married You](https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Should Have Married You](https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr) | 2:43 |
 
-Snapshot ID: `MCw2YmY1OGY3ZjhlZWE2N2E2MTY5OTIzMzE0ZDhlMjc1ODYyMjEyOTk5`
+Snapshot ID: `MCw1NDEyMzQ5NTIyY2ZjMzg2ZGE0YzJjZmUzNGE3NjU1ZTFiODQ4NjI2`

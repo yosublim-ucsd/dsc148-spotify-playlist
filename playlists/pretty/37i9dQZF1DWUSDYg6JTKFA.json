@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 149128,
+  "num_followers": 149211,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTU3N2Q4OTQ3ZDg4NzlmYTNhOThmNTY1NzFlNjdiZjk4YTYyNjRi",
+  "snapshot_id": "MCxkZDdlYTIyNTUyMzA3NWQxNjhkM2NiYTM2ZTMxMGZiMjFiNjczMTA0",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Who You Say I Am (Live)",
         "url": "https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 329080,
       "name": "Who You Say I Am - Live",
       "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
     },
     {
       "added_at": "2020-07-23 14:38:16",

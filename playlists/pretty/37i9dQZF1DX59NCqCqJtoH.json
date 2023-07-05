@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1144306,
+  "num_followers": 1144328,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjJkMGJhOTM0MGQ0OWNhNjVmMzdiNmM5Y2U2ZGI1MjVlNTg1NmRl",
+  "snapshot_id": "MCxmZTRjN2VhMTFlZDdkODdhMjY0NWEzZDk0YjJiZjMwMzBlNzA2MjM2",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
+        "name": "ALLERGIC",
+        "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
         }
       ],
-      "duration_ms": 107344,
-      "name": "i'll never fall in love with myself (demo)",
-      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
+      "duration_ms": 155200,
+      "name": "ALLERGIC",
+      "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -247,22 +247,6 @@
       "duration_ms": 195467,
       "name": "If I Showed You",
       "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "ALLERGIC",
-        "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
-      },
-      "artists": [
-        {
-          "name": "clide",
-          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "ALLERGIC",
-      "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -287,22 +271,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Rabbit Hearted.",
         "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
       },
@@ -315,6 +283,22 @@
       "duration_ms": 198807,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249705,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 249705,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -731,22 +715,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "crush (demos)",
         "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 91206,
       "name": "what does he have that i don't?",
       "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -875,22 +859,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 139354,
       "name": "Feel Again (Feat. Au/Ra)",
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 161201,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -1127,6 +1095,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 161201,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1383,22 +1367,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1411,6 +1379,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "CLOUDS (Music From The Disney+ Original Movie)",
         "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
       },
@@ -1563,6 +1531,22 @@
       "duration_ms": 175321,
       "name": "afterthoughts",
       "url": "https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1639,26 +1623,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "hit the road",
-        "url": "https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53"
-      },
-      "artists": [
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        },
-        {
-          "name": "Jomie",
-          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
-        }
-      ],
-      "duration_ms": 184663,
-      "name": "hit the road",
-      "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Long Distance",
         "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
       },
@@ -1703,6 +1667,42 @@
       "duration_ms": 200750,
       "name": "Time",
       "url": "https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "hit the road",
+        "url": "https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53"
+      },
+      "artists": [
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        },
+        {
+          "name": "Jomie",
+          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
+        }
+      ],
+      "duration_ms": 184663,
+      "name": "hit the road",
+      "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "608",
+        "url": "https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "608",
+      "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
     }
   ],
   "unique_name": "idk.",

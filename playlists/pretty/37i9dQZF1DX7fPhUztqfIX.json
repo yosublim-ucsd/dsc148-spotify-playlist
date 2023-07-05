@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 106978,
+  "num_followers": 107008,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4",
+  "snapshot_id": "MCxjZDc4MzlhMjA1ZTk2MzFjYmNkZGJhNzc0MzNhYWVhOWRjODE5ODI3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -583,26 +583,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/42533BnNm29YUkyVzcJ9Dg"
-      },
-      "artists": [
-        {
-          "name": "Here Be Lions",
-          "url": "https://open.spotify.com/artist/4DKidGMzaf7OVw7FKxihqc"
-        },
-        {
-          "name": "Darlene Zschech",
-          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
-        }
-      ],
-      "duration_ms": 319546,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/4CR34P33feukzoErl3KXCK"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/42533BnNm29YUkyVzcJ9Dg"
+      },
+      "artists": [
+        {
+          "name": "Here Be Lions",
+          "url": "https://open.spotify.com/artist/4DKidGMzaf7OVw7FKxihqc"
+        },
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        }
+      ],
+      "duration_ms": 319546,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/4CR34P33feukzoErl3KXCK"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Spirit Of God",
+        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 289480,
+      "name": "Jesus My Treasure",
+      "url": "https://open.spotify.com/track/5gK1uutVAMPNMVNlFmrmjg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Spirit Of God",
-        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 289480,
-      "name": "Jesus My Treasure",
-      "url": "https://open.spotify.com/track/5gK1uutVAMPNMVNlFmrmjg"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Exalt (Worship Version)",
+        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 292840,
+      "name": "Come Holy Spirit - Worship Version",
+      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Exalt (Worship Version)",
-        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 292840,
-      "name": "Come Holy Spirit - Worship Version",
-      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Savior Of The World",
         "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 230444,
       "name": "YEAR OF VICTORY",
       "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fountain (I Am Good) [Live]",
-        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 318874,
-      "name": "Fountain (I Am Good) - Live",
-      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fountain (I Am Good) [Live]",
+        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 318874,
+      "name": "Fountain (I Am Good) - Live",
+      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Find a Reason",
-        "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Desi Raines",
-          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
-        }
-      ],
-      "duration_ms": 254310,
-      "name": "Praise Your Name (feat. Desi Raines)",
-      "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1991,6 +1971,46 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Find a Reason",
+        "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Desi Raines",
+          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
+        }
+      ],
+      "duration_ms": 254310,
+      "name": "Praise Your Name (feat. Desi Raines)",
+      "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Kingdom Dreamers",
+        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Tom Eccleshall",
+          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
+        }
+      ],
+      "duration_ms": 297070,
+      "name": "Kingdom Dreamers",
+      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2027,26 +2047,6 @@
       "duration_ms": 281746,
       "name": "Living Proof - Live",
       "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Kingdom Dreamers",
-        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
-      },
-      "artists": [
-        {
-          "name": "KXC",
-          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
-        },
-        {
-          "name": "Tom Eccleshall",
-          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
-        }
-      ],
-      "duration_ms": 297070,
-      "name": "Kingdom Dreamers",
-      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "Both Sides",
-      "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "He Wears A Crown (Live At CrossBridge)",
         "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Altars",
+        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "Both Sides",
+      "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
     },
     {
       "added_at": "2021-06-12 04:00:40",

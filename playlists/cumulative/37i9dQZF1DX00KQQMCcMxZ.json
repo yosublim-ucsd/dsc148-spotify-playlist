@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 139805,
       "name": "Birds and Creeks",
       "url": "https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8"
@@ -182,6 +182,24 @@
       "duration_ms": 175373,
       "name": "Birds at the Cemetery",
       "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
+    },
+    {
+      "album": {
+        "name": "Birds Chorus",
+        "url": "https://open.spotify.com/album/4BFzcd0oGaWid53qU2MD4R"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds For Sleeping",
+          "url": "https://open.spotify.com/artist/6Ph6DcY2qlTEHtyDYodJLO"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133989,
+      "name": "Birds Chorus",
+      "url": "https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz"
     },
     {
       "album": {
@@ -394,7 +412,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 157671,
       "name": "Early Birds Light Wind",
       "url": "https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 129962,
       "name": "More Morning Birds in the Summer Forest",
       "url": "https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle"

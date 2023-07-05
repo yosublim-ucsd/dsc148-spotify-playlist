@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Sampha
 
-888 songs - 2 day 0 hr 0 min
+889 songs - 2 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2022-04-01 | 2022-04-15 |
 | [All Masks \[Feat\. Masego\]](https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [All Masks](https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx) | 4:30 | 2022-07-29 | 2022-09-24 |
 | [all on me](https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [all on me](https://open.spotify.com/album/0lNXXDUQyEWrpnQJXWuO8S) | 2:47 | 2022-08-19 | 2022-09-10 |
-| [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 | 2023-04-07 |  |
+| [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 | 2023-04-07 | 2023-07-05 |
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-06-10 | 2022-07-22 |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2021-03-25 | 2022-06-28 |
 | [ALLSTAR](https://open.spotify.com/track/3n7u7AU8FErKTgTfWWhBTR) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [ALLSTAR](https://open.spotify.com/album/6b7DRAlZbBgMt3pYVgmqiX) | 2:54 | 2021-03-19 | 2022-07-21 |
@@ -846,6 +846,7 @@
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-23 | 2022-01-29 |
 | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/5lkzzFYLVQ4PAjCM32Ef7m) | 3:01 | 2022-04-01 | 2022-04-07 |
 | [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-11 |  |
+| [what comes next \(feat\. 24hoursav & Dua Saleh\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 | 2023-06-30 |  |
 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 | 2021-03-19 | 2022-07-01 |
 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 | 2023-01-13 | 2023-01-28 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-01 | 2022-08-09 |

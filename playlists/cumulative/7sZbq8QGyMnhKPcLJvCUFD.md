@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-313 songs - 15 hr 45 min
+314 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Tonight](https://open.spotify.com/track/5HButdKodhRVg82OnkeI3I) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Tonight](https://open.spotify.com/album/11spxNqtn2Nz7Y3tJUPIyN) | 2:32 | 2022-09-06 | 2023-04-28 |
 | [Too Far](https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Too Far](https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc) | 2:23 | 2023-06-20 |  |
 | [Too Hot To Handle](https://open.spotify.com/track/5k768a973EOTJtVjc7PPWg) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Too Hot To Handle](https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l) | 2:15 | 2022-07-28 | 2023-04-28 |
+| [Too Late](https://open.spotify.com/track/5fhvwVytoYeA8hyrUylEzD) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [Brogs](https://open.spotify.com/artist/0Zu5rxrWkTZlu2EcnZx7sz) | [Too Late](https://open.spotify.com/album/4aYR1txtnHpWbVQV4ybmdQ) | 2:23 | 2023-07-04 |  |
 | [Trust Me](https://open.spotify.com/track/7psbubFtP18fobEg1wYYTu) | [Blackryst](https://open.spotify.com/artist/4QxhZGr3RazauGRW2f2Y5N) | [Trust Me](https://open.spotify.com/album/66U7wvqr4YpV2CYWRuGwRM) | 2:36 | 2023-02-24 |  |
 | [Try Again](https://open.spotify.com/track/4flLtCXV7u5UrKU82Ts20T) | [Goodknight.](https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM) | [Try Again](https://open.spotify.com/album/4TROC7IgMT7vPvcD3R1isC) | 2:30 | 2023-01-18 | 2023-04-28 |
 | [TumDaDaDum](https://open.spotify.com/track/7uQXHHfiHS6818O5a7ol5e) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [TumDaDaDum](https://open.spotify.com/album/1MEZLy5chESv3uvoHF5YAg) | 3:45 | 2023-06-30 |  |

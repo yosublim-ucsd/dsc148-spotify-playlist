@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-596 songs - 2 day 11 hr 54 min
+597 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [High](https://open.spotify.com/track/0z4gZd4JAgJMIcgL8lNOtZ) | [DJ Clipps](https://open.spotify.com/artist/2Le4H0DnhGgI8EGhx1kEUQ), [Bthelick](https://open.spotify.com/artist/2UYyL9j9Rrdy0qF9U8jOdI), [9Ts](https://open.spotify.com/artist/3sBq2rREGEiDBAjqJ0lUgl), [Skarl](https://open.spotify.com/artist/541ltjMOvk5K6NDTqw0lAN) | [I Am High](https://open.spotify.com/album/1FBv8CVnAqMcelZTRKyL7c) | 4:17 | 2020-01-16 | 2020-06-20 |
 | [Hold You \(Edit\)](https://open.spotify.com/track/54De3Tjp79SY322CKGbosc) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Hold You](https://open.spotify.com/album/0FYlBNjQQNNkd2d27n7RPY) | 3:46 | 2022-07-01 | 2022-07-22 |
 | [Hollow \- Edit](https://open.spotify.com/track/5833ck9XB9euhAaRVc3xpq) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Brascon](https://open.spotify.com/artist/5ec60qNwkpxDGbKMuvCZqX), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Hollow](https://open.spotify.com/album/3CdEpyPxeXaQzYWwZs8Jmj) | 5:51 | 2020-05-30 | 2021-06-19 |
+| [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 | 2023-06-30 |  |
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2020-07-18 | 2022-04-20 |
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2020-11-07 | 2022-10-01 |
 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-05-30 |  |
@@ -471,7 +472,7 @@
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-20 | 2020-07-18 |
 | [Something Was Missing \- PARIS Remix](https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Something Was Missing \(PARIS Remix\)](https://open.spotify.com/album/25IgyccLzfoOzT0SwBn43v) | 4:39 | 2021-10-14 | 2022-07-29 |
 | [Somewhere Along The Way](https://open.spotify.com/track/0PpyKy4AiSH3BSKKsqpSk4) | [Koen Groeneveld](https://open.spotify.com/artist/1z62XaHX2iYbxLARSBLoua) | [Somewhere Along The Way](https://open.spotify.com/album/42IB73dSb0WmvDLPyinNtV) | 2:48 | 2019-08-06\* | 2019-09-06 |
-| [Song To The Siren](https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Song To The Siren](https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7) | 3:26 | 2022-10-28 |  |
+| [Song To The Siren](https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Song To The Siren](https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7) | 3:26 | 2022-10-28 | 2023-07-05 |
 | [Space](https://open.spotify.com/track/5XV6h626zICHZjbXXgSl1R) | [Austin Pettit](https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn), [Ornery](https://open.spotify.com/artist/7fvMgVTb0XO1Xct2Y1o7Ho) | [Space](https://open.spotify.com/album/6sYjN7bz6xaOoyqcKVhvfp) | 6:13 | 2020-01-01 | 2020-01-04 |
 | [Sparks](https://open.spotify.com/track/6qrWlSKebAvv0EdVkp39fL) | [Starkato](https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z) | [Flight Of Ares EP](https://open.spotify.com/album/6KOX7k4yrwQVPT0sfemjyu) | 7:31 | 2019-08-06\* | 2020-03-11 |
 | [Speak Sweetly](https://open.spotify.com/track/5wSvyaeCqyICC1fBGFNLpQ) | [Sid Le Rock](https://open.spotify.com/artist/3oBdslS0EdWkL0YjOXYfl3) | [Scenic Route](https://open.spotify.com/album/3Rtk4fogDm1QJ5PILp7mH3) | 5:23 | 2019-08-06\* | 2020-06-12 |

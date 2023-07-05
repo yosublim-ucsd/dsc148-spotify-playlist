@@ -4,7 +4,7 @@
 
 > 
 
-1,787 songs - 4 day 0 hr 48 min
+1,788 songs - 4 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1551,6 +1551,7 @@
 | [The Devil in I](https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:42 | 2021-08-05 |  |
 | [The Divine Zero](https://open.spotify.com/track/7trZFY6J0ZfnZYUg3NIHot) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:08 | 2022-04-15 |  |
 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 | 2021-08-05 |  |
+| [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:07 | 2023-07-05 |  |
 | [The Fever \(Aye Aye\)](https://open.spotify.com/track/5lq6hpsabgw22xRYPHVV5c) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:06 | 2021-11-30 |  |
 | [The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:59 | 2022-04-18 |  |
 | [The Fortress \(The Blood Inside...\)](https://open.spotify.com/track/0wpngjB3B8E17wssLZk9Gj) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:42 | 2023-02-04 |  |

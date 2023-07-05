@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 32 | [Hannett and Delia synth exchanges track 5](https://open.spotify.com/track/70uqGMtFCdPxNxRQQfjMWf) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 3:40 |
 | 33 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:59 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDA3NDFjZDBmNTI5ZmFjYzdjMjAyNWY4MzU4ZDY3Mjg4NQ==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDA3MmVhMGJjNjM1ZTJjYmVlYWI3MzRjYmE1ZGYwMGU1MA==`

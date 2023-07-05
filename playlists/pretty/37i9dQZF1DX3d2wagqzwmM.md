@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,989 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,459 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 68 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 |
 | 69 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 70 | [Hurricane \(feat\. SHIBUI\) \- Festival Mix](https://open.spotify.com/track/3oAioabSUIFV7nCLUD2oI4) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\) \[Festival Mix\]](https://open.spotify.com/album/00630cytMT6FPwlRSZTqE5) | 3:03 |
-| 71 | [MAIA](https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAIA](https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1) | 3:08 |
-| 72 | [SICK](https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [SICK](https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc) | 3:03 |
+| 71 | [SICK](https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [SICK](https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc) | 3:03 |
+| 72 | [MAIA](https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAIA](https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1) | 3:08 |
 | 73 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
 | 74 | [I Want You \- Hardwell Remix](https://open.spotify.com/track/2Q5l502BJ5lvjZFGmnRQ5B) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I Want You \(Hardwell Remix\)](https://open.spotify.com/album/2LJGzMSAnbMlLWR7MwnFJW) | 3:16 |
 | 75 | [Apex](https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Apex](https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J) | 4:21 |
 | 76 | [Silence \- KAAZE Mix](https://open.spotify.com/track/3b4YKOb5I16PneRNGiy5bR) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Silence \(KAAZE Mix\)](https://open.spotify.com/album/3UxLfS40JbI3AFB3btzlz7) | 2:54 |
 | 77 | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e) | 3:19 |
-| 78 | [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 |
-| 79 | [Activating](https://open.spotify.com/track/0paBCCeeoquqN6sKrD3ocr) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Activating](https://open.spotify.com/album/7H8uxwCVQlJEaBMkwgGwde) | 2:43 |
+| 78 | [Activating](https://open.spotify.com/track/0paBCCeeoquqN6sKrD3ocr) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Activating](https://open.spotify.com/album/7H8uxwCVQlJEaBMkwgGwde) | 2:43 |
+| 79 | [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 |
 | 80 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 |
 
-Snapshot ID: `MCwwNzg4M2U0MjMyMGQ3YjdiZTIzMWQwZWY1OTc0OWM5YzRmMDdkMTlk`
+Snapshot ID: `MCw1ZTZkOWEyOGU3MTNlZjBiZmE0MzY4YmY3M2QwMjRiM2E2YzE3MDZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,122 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,142 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 60 | [The Moment \(feat\. Jimmy Nevis & Emtee\)](https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh), [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [The Moment \(feat\. Jimmy Nevis & Emtee\)](https://open.spotify.com/album/78zdmPv8xePsLa2e6Z6agw) | 3:17 |
 
-Snapshot ID: `MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2`
+Snapshot ID: `MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1`

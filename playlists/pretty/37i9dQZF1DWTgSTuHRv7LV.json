@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: YOVNGCHIMI",
-  "num_followers": 478849,
+  "num_followers": 479043,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2IxOTM5NTM0MjZmMmMyOWIzYmNhMzI1ZjQ3NDVmNmZmNjE4ZTMz",
+  "snapshot_id": "MCw2MzM2MjQyYjYzNDkyNTkwZGUwNDdlNDE1NTFkZjRhZjk4OGYyMmVj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/3kxXMYZKZka5g4SyqNsk09"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Prohibida",
         "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 206200,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 228349,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3kxXMYZKZka5g4SyqNsk09"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Te Metas",
-        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 219452,
-      "name": "No Te Metas",
-      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Todo Menso",
         "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 191917,
       "name": "Todo Menso",
       "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Bombas",
+        "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 245857,
+      "name": "Bombas",
+      "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "HELLCAT",
         "url": "https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 186322,
       "name": "HELLCAT",
       "url": "https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Bombas",
-        "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 245857,
-      "name": "Bombas",
-      "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Lolita Ayala",
+          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
+        }
+      ],
+      "duration_ms": 108266,
+      "name": "Tocando Tierra",
+      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -1051,6 +1071,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "CLASE G",
         "url": "https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ"
       },
@@ -1071,22 +1107,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1096,13 +1116,21 @@
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Lolita Ayala",
-          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         }
       ],
-      "duration_ms": 108266,
-      "name": "Tocando Tierra",
-      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+      "duration_ms": 289913,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1143,22 +1171,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
-        "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 328346,
-      "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
-      "url": "https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/3PRkKoLsKPc29sBq8jbYC2"
       },
@@ -1179,30 +1191,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+        "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
+        "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"
       },
       "artists": [
         {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 289913,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
+      "duration_ms": 328346,
+      "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
+      "url": "https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Que Oso",
-        "url": "https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 150259,
-      "name": "Que Oso",
-      "url": "https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Jaguar",
         "url": "https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "CALI KUSH",
-        "url": "https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ"
+        "name": "Que Oso",
+        "url": "https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF"
       },
       "artists": [
         {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 143500,
-      "name": "Cali Kush",
-      "url": "https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL"
+      "duration_ms": 150259,
+      "name": "Que Oso",
+      "url": "https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+        "name": "CALI KUSH",
+        "url": "https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
         }
       ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+      "duration_ms": 143500,
+      "name": "Cali Kush",
+      "url": "https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Una Pistola y Un Toque",
-        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 234726,
-      "name": "Una Pistola y Un Toque",
-      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
         "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Una Pistola y Un Toque",
+        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 234726,
+      "name": "Una Pistola y Un Toque",
+      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 157553,
+      "name": "FUCK EL POLICE",
+      "url": "https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "FERRAGAMO",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 218785,
       "name": "FERRAGAMO",
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "FUCK EL POLICE",
-      "url": "https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t"
+      },
+      "artists": [
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 224004,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG"
       },
@@ -1787,22 +1807,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LQRA Session #14",
-        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
+        "name": "\u00bfQu\u00e9 Hay Que Hacer?",
+        "url": "https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76"
       },
       "artists": [
         {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 193714,
-      "name": "LQRA Session #14",
-      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
+      "duration_ms": 155897,
+      "name": "\u00bfQu\u00e9 Hay Que Hacer?",
+      "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1827,38 +1843,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Hay Que Hacer?",
-        "url": "https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76"
+        "name": "LQRA Session #14",
+        "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "\u00bfQu\u00e9 Hay Que Hacer?",
-      "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t"
-      },
-      "artists": [
-        {
-          "name": "Badguychapo",
-          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 224004,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA"
+      "duration_ms": 193714,
+      "name": "LQRA Session #14",
+      "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2023,38 +2023,6 @@
       "duration_ms": 212316,
       "name": "Posdata",
       "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 349297,
-      "name": "Todos en la Cuadra Bien Locos",
-      "url": "https://open.spotify.com/track/7uFe6VpeiWbLvBGbTwKkXX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2275,6 +2243,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Mexicanos Bravos",
+        "url": "https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Mexicanos Bravos",
+      "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "ANGOLA",
         "url": "https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Mexicanos Bravos",
-        "url": "https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I"
+        "name": "Bajo Mundo",
+        "url": "https://open.spotify.com/album/03trWbp7cIj02CukpUXNZo"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 218706,
-      "name": "Mexicanos Bravos",
-      "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
+      "duration_ms": 216000,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/452jgIQvMmcaVj2EZjeZRu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2343,22 +2327,6 @@
       "duration_ms": 144714,
       "name": "ST\u00dcSSY",
       "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Bajo Mundo",
-        "url": "https://open.spotify.com/album/03trWbp7cIj02CukpUXNZo"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/452jgIQvMmcaVj2EZjeZRu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2435,46 +2403,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Ta To Saldo",
-      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 175142,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Apokalypsis 2",
         "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
@@ -2499,6 +2427,26 @@
       "duration_ms": 330196,
       "name": "Patr\u00f3n",
       "url": "https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Ta To Saldo",
+      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2719,22 +2667,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "WYS",
-        "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "WYS",
-      "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Surfeando el Tsunami",
         "url": "https://open.spotify.com/album/6zeSnARpo1iYSwPhgdfKdv"
       },
@@ -2755,6 +2687,22 @@
       "duration_ms": 161311,
       "name": "Surfeando el Tsunami",
       "url": "https://open.spotify.com/track/5VxQlDyKX3gpdOXKTXUngX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "WYS",
+        "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "WYS",
+      "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2887,6 +2835,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Rap Real",
+        "url": "https://open.spotify.com/album/1JJUAAKZTXMCiL4xVExIr1"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 254642,
+      "name": "Rap Real",
+      "url": "https://open.spotify.com/track/0KQ8p68z7SxYLZVkqxGST0"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "POCHOCLOS",
         "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
       },
@@ -2915,46 +2879,6 @@
       "duration_ms": 208205,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Rap Real",
-        "url": "https://open.spotify.com/album/1JJUAAKZTXMCiL4xVExIr1"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 254642,
-      "name": "Rap Real",
-      "url": "https://open.spotify.com/track/0KQ8p68z7SxYLZVkqxGST0"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Triple AAA",
-        "url": "https://open.spotify.com/album/4Qb2HD2mCm5rS6g1UD2MEs"
-      },
-      "artists": [
-        {
-          "name": "Junior Caldera",
-          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
-        },
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        },
-        {
-          "name": "Trainer",
-          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Triple AAA",
-      "url": "https://open.spotify.com/track/1a6775Z53Ga6QuMWeJse5E"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -3011,6 +2935,62 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Triple AAA",
+        "url": "https://open.spotify.com/album/4Qb2HD2mCm5rS6g1UD2MEs"
+      },
+      "artists": [
+        {
+          "name": "Junior Caldera",
+          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
+        },
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        },
+        {
+          "name": "Trainer",
+          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Triple AAA",
+      "url": "https://open.spotify.com/track/1a6775Z53Ga6QuMWeJse5E"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 349297,
+      "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Ojos Chiquitos",
         "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
       },
@@ -3027,6 +3007,22 @@
       "duration_ms": 152796,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh"
     }
   ],
   "unique_name": "Mucho Rap",

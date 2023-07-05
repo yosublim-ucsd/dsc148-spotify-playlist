@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-739 songs - 1 day 15 hr 5 min
+740 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Something Unreal](https://open.spotify.com/track/0eL459KLWfWjAJswx9MysK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Last Time](https://open.spotify.com/album/3hB121yuKWnt1sRyJV9UK3) | 3:31 | 2019-12-08 | 2020-10-21 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-09 |  |
 | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE) | 3:34 | 2019-05-30 | 2020-01-03 |
+| [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-30 |  |
 | [Spicy \(with Diplo & Charli XCX\)](https://open.spotify.com/track/54z0kLF0skj0Hdb9wCqPJt) | [Herve Pagez](https://open.spotify.com/artist/31JFnMfmvwzZGdEnXaKGek), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Spicy \(with Diplo & Charli XCX\)](https://open.spotify.com/album/7J5VpxOH7WctwtGuFYydUz) | 2:37 | 2019-06-24 | 2019-08-10 |
 | [Stargazing](https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:56 | 2019-06-27 | 2020-01-04 |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-04-23 | 2022-07-29 |
@@ -710,7 +711,7 @@
 | [We Got Love](https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [We Got Love](https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy) | 3:33 | 2019-11-08 | 2020-10-21 |
 | [Wearing Nothing](https://open.spotify.com/track/5c0aiERRxHjbvu5tQ9jwAE) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Wearing Nothing](https://open.spotify.com/album/6AQ4jx9tfVaq7oGzEJp8EO) | 3:17 | 2019-07-06 | 2019-08-13 |
 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 | 2021-01-17 | 2022-07-29 |
-| [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2021-02-27 |  |
+| [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2021-02-27 | 2023-07-05 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2020-01-20 |  |
 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 | 2019-05-26\* | 2022-04-21 |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2022-03-17 | 2023-02-19 |

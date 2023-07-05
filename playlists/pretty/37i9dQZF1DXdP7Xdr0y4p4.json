@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 8687,
+  "num_followers": 8704,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm",
+  "snapshot_id": "MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "When God Ran",
+        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "When God Ran",
+      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Just Sing!",
         "url": "https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 457853,
       "name": "Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need",
       "url": "https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "When God Ran",
-        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "When God Ran",
-      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Great Is His Faithfulness",
-        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
-      },
-      "artists": [
-        {
-          "name": "The Collingsworth Family",
-          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
-        },
-        {
-          "name": "Olivia Collingsworth",
-          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Great Is His Faithfulness",
-      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "You Are More",
         "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
       },
@@ -559,6 +539,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
+      },
+      "artists": [
+        {
+          "name": "The Browders",
+          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Lift up His Name",
+      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Pray Now",
         "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
       },
@@ -575,18 +571,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
+        "name": "Great Is His Faithfulness",
+        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
       },
       "artists": [
         {
-          "name": "The Browders",
-          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        },
+        {
+          "name": "Olivia Collingsworth",
+          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Lift up His Name",
-      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
+      "duration_ms": 288546,
+      "name": "Great Is His Faithfulness",
+      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 350715,
       "name": "Power In The Blood (We Give Thanks For The Blood)",
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "I Have God to Thank for Everything",
         "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 168058,
       "name": "I Have God to Thank for Everything",
       "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Brighten The Corner Where You Are (Radio Edit)",
         "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Not For Long",
         "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 249081,
       "name": "Something Bigger Than Me",
       "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
     },
     {
       "added_at": "2023-04-14 06:27:38",

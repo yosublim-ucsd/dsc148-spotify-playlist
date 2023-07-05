@@ -4,7 +4,7 @@
 
 > اضغط للبدء
 
-601 songs - 1 day 9 hr 40 min
+602 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [FRIENDS](https://open.spotify.com/track/4rBFiGHlaujBGnyQgSdWPh) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46) | 5:44 | 2022-07-27 | 2022-07-29 |
 | [From Time](https://open.spotify.com/track/10VBBaul4zVD0reteuIHM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt) | 5:22 | 2022-07-20 | 2022-07-28 |
 | [Fuck With Us](https://open.spotify.com/track/6ews6551NsGrrboTF3A8uX) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Pain is Temporary](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5) | 3:04 | 2022-07-20 | 2022-07-28 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-04 |  |
 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 | 2022-07-27 | 2022-08-04 |
 | [Garden](https://open.spotify.com/track/1mxaufUe16G9wOoG9ptUqr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:47 | 2022-08-20 | 2022-08-27 |
 | [Genius \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:33 | 2022-09-03 | 2022-09-11 |

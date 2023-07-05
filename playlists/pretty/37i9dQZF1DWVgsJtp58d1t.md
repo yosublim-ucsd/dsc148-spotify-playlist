@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB?si=5cfe3a1a6265481d">Lola Brooke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,273 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,245 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 124 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 |
 | 125 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 |
 
-Snapshot ID: `MCw5NjVjODA5ZDM2OWUzN2Y5NWE5NTY3ZDdiMTU0NTZlY2JlMjAwMWZk`
+Snapshot ID: `MCw0ODBiMDY1ZWEwZmRhMjg1NTA3MmUzNzA0NzZhNTI4ODZmZDE0MGQz`

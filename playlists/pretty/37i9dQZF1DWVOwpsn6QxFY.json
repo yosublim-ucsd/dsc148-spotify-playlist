@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 120843,
+  "num_followers": 120877,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDEyNzEwM2ViMDYzZDVkMGEwNzhkZmVlMWI0MzgwYzBiMTMwZThm",
+  "snapshot_id": "MCwxZTM0Y2FiMGY0MjI0Y2FkMWUwZTE5YjIzYTA1ODZjZDA3MGFiMjdj",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -145,20 +145,20 @@
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
     },
     {
-      "added_at": "2023-05-19 14:28:53",
+      "added_at": "2023-07-04 22:26:33",
       "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -175,6 +175,22 @@
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
+    },
+    {
+      "added_at": "2023-05-19 14:28:53",
+      "album": {
+        "name": "Walking Backwards",
+        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 319986,
+      "name": "Walking Backwards",
+      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -499,6 +515,22 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
         "name": "hey girl",
         "url": "https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh"
       },
@@ -529,20 +561,20 @@
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
-      "added_at": "2023-04-27 23:00:00",
+      "added_at": "2023-07-04 22:26:33",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -689,6 +721,22 @@
       "url": "https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB"
     },
     {
+      "added_at": "2023-07-04 22:26:33",
+      "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+    },
+    {
       "added_at": "2023-04-27 23:00:00",
       "album": {
         "name": "Evelyn",
@@ -739,18 +787,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Unconditional I (Lookout Kid)",
-        "url": "https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 273693,
-      "name": "Unconditional I (Lookout Kid)",
-      "url": "https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -775,18 +823,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "Unconditional I (Lookout Kid)",
+        "url": "https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+      "duration_ms": 273693,
+      "name": "Unconditional I (Lookout Kid)",
+      "url": "https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP"
     },
     {
       "added_at": "2023-05-19 14:28:53",
@@ -911,22 +959,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Roccastrada",
-        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Roccastrada",
-      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Manta Rays",
         "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
       },
@@ -939,6 +971,22 @@
       "duration_ms": 211826,
       "name": "Manta Rays",
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Roccastrada",
+        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Roccastrada",
+      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -959,18 +1007,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
       },
       "artists": [
         {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+          "name": "Nature TV",
+          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
         }
       ],
-      "duration_ms": 242844,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
+      "duration_ms": 222776,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -991,18 +1039,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
       },
       "artists": [
         {
-          "name": "Nature TV",
-          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
         }
       ],
-      "duration_ms": 222776,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1263,54 +1311,6 @@
       "duration_ms": 250173,
       "name": "Fairlies",
       "url": "https://open.spotify.com/track/4MP3R0itL0A32onspZXcur"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Changephobia",
-        "url": "https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 229520,
-      "name": "4Runner",
-      "url": "https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "I Guess This is Life",
-        "url": "https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 211630,
-      "name": "I Guess This is Life",
-      "url": "https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     }
   ],
   "unique_name": "Garden Indie",

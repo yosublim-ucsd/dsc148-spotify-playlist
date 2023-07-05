@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring TREASURE, Harry Styles &amp; more! Cover: TREASURE
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,654 likes - 26 songs - 1 hr 27 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,667 likes - 26 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

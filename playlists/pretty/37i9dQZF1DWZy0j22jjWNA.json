@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 81754,
+  "num_followers": 81832,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi",
+  "snapshot_id": "MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
+      },
+      "artists": [
+        {
+          "name": "Zach Winters",
+          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
-      },
-      "artists": [
-        {
-          "name": "Zach Winters",
-          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Mountain (Live from 25in24)",
-        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "The Mountain (Live from 25in24)",
-      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Portals",
         "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198026,
       "name": "Constellate",
       "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Mountain (Live from 25in24)",
+        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "The Mountain (Live from 25in24)",
+      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
     },
     {
       "added_at": "2020-09-04 04:02:00",

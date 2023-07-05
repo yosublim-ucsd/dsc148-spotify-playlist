@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 67058,
+  "num_followers": 67104,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjViOWRjMjRiNmYxZjVhYTdhNGFhMTk1MDI3MjQ3MmQ5NGYxMWM0",
+  "snapshot_id": "MCxkZGMxNzA1OTdlODlhN2QyN2U5ZWIyMjA4NTc2MzRlMDIzZDFlOGFk",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -591,18 +591,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Rivers Cuomo",
+          "url": "https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v"
         }
       ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+      "duration_ms": 218763,
+      "name": "Sober Up (feat. Rivers Cuomo)",
+      "url": "https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -623,22 +627,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
-          "name": "Rivers Cuomo",
-          "url": "https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 218763,
-      "name": "Sober Up (feat. Rivers Cuomo)",
-      "url": "https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN"
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2022-02-04 05:01:00",

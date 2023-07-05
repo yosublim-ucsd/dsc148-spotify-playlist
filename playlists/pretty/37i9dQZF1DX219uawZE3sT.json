@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 120169,
+  "num_followers": 120246,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjk0ODQ2ZTVkNjMxMTFkNTM4ZDRiZDZlYjRiODZlODY1YzZmODVl",
+  "snapshot_id": "MCxkYjFkOTk1Y2ZjZmFjODUwYWQ3YTUyYjJmOThhNGIyZmM4ZjRlYWE1",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Super #1's",
-        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Contra Viento Y Marea",
-      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Contra Viento Y Marea",
+      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1187,22 +1187,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Huevos Rancheros",
-        "url": "https://open.spotify.com/album/0zN4M7NeFS0jwlfDYLPZux"
+        "name": "Los Ganadores De La Voz",
+        "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Alejandra Orozco",
+          "url": "https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3"
         },
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Oscar Cruz",
+          "url": "https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Golondrinas Viajeras",
-      "url": "https://open.spotify.com/track/3DbfaeYuOpw8wP6ruA4sTz"
+      "duration_ms": 229213,
+      "name": "S\u00f3lo Un Suspiro",
+      "url": "https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE"
     }
   ],
   "unique_name": "Telenovelas",

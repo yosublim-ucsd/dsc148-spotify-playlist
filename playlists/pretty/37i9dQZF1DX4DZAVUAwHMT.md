@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,429 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,433 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 55 | [Blame](https://open.spotify.com/track/5gqd2N6igMx397BpzS9jsi) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Blame](https://open.spotify.com/album/1WjBjv6eT79b9RNJzJU8ou) | 2:54 |
 
-Snapshot ID: `MCxhNmQzMTk2OGUzMjk4MmE4NzQ5MzVhNDQxZWNmMjE1OGM1YTk3YjMz`
+Snapshot ID: `MCw1YzdmMjZmODBmNzRmZjFjMjY2ZTJmYWU3YzlkMTA5MzY0MDRlY2Q5`

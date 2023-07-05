@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-114 songs - 10 hr 52 min
+115 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Sol Clap](https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL) | 3:50 | 2023-04-11 |  |
 | [Sol Clap](https://open.spotify.com/track/5hBQOOlFOCWYL1YCbjok1G) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/78XbFJf6E4TUeNEXZXi3yP) | 3:50 | 2022-12-20 | 2023-04-30 |
 | [Something Happened \- Pitto Instrumental Remix](https://open.spotify.com/track/0pAQUzD33FnYlqHWBJAJPI) | [TJ Kong](https://open.spotify.com/artist/1MbpqN0oIx9Liyk18wkmRr), [Nuno Dos Santos](https://open.spotify.com/artist/6pbyRsrSdph5CB46Z4cTZw) | [Compost Black Label \#77](https://open.spotify.com/album/5Mf8Fm6DKNAGWPFgKyn78O) | 7:03 | 2022-12-20 |  |
-| [summer on the inside](https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE) | 3:25 | 2022-12-20 |  |
+| [summer on the inside](https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa) | 3:25 | 2023-06-30 |  |
+| [summer on the inside](https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE) | 3:25 | 2022-12-20 | 2023-07-05 |
 | [Sun My Sweet Sun](https://open.spotify.com/track/7lho7sTZBzie1gERq3dEtm) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Sun My Sweet Sun](https://open.spotify.com/album/719ZrayQQKPrBFACs4d4L5) | 8:47 | 2022-12-20 |  |
 | [take your time \(feat\. Tinashe\)](https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:11 | 2022-12-20 |  |
 | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/track/6KuZfqzhbfTU8HEIALDgP2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n) | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/album/1uaxE7yn8s9XPNAJ9icxd1) | 4:16 | 2022-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,749 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,762 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 8 | [Whispers and Thrifty Tingles Pt.1](https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez) | [Prim ASMR](https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X) | [Whispers and Thrifty Tingles](https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd) | 4:11 |
 | 9 | [Brain Melting Sleep Treatment Pt.1](https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa) | [Tingting ASMR](https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw) | [Brain Melting Sleep Treatment](https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w) | 6:29 |
 | 10 | [Nase](https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0) | [Pelagea ASMR](https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR) | [Insanely Breathy Trigger Words](https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa) | 2:01 |
-| 11 | [Sleep Clinic Part 2](https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Karuna's Sleep Clinic](https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W) | 3:52 |
-| 12 | [Sleepy Mindset](https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w) | [Julia Park](https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS) | [ASMR Sleep Relaxation Meditation](https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL) | 3:49 |
+| 11 | [Sleepy Mindset](https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w) | [Julia Park](https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS) | [ASMR Sleep Relaxation Meditation](https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL) | 3:49 |
+| 12 | [Sleep Clinic Part 2](https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Karuna's Sleep Clinic](https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W) | 3:52 |
 | 13 | [Showering You In Compliments Pt.2](https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL) | [ASMR Darling](https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7) | [Showering You In Compliments](https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh) | 3:31 |
 | 14 | [Reassuring Whispers Asmr](https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 3:46 |
 | 15 | [Sending Tingle Sleep Vibes Pt.1](https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Sending Tingle Sleep Vibes](https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw) | 6:03 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 31 | [Relax and Close Your Eyes](https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A) | 7:00 |
 | 32 | [Santorini Sunbath](https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 4:31 |
 | 33 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
-| 34 | [ROLEPLAY VENDEUSE DE CHAUSSURES, Pt\. 1](https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd) | [Dolce Romy ASMR](https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n) | [ROLEPLAY VENDEUSE DE CHAUSSURES](https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm) | 5:02 |
-| 35 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 |
+| 34 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 |
+| 35 | [ROLEPLAY VENDEUSE DE CHAUSSURES, Pt\. 1](https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd) | [Dolce Romy ASMR](https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n) | [ROLEPLAY VENDEUSE DE CHAUSSURES](https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm) | 5:02 |
 | 36 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 |
 | 37 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
 | 38 | [Triggers I'm Wearing Pt.1](https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Triggers I'm Wearing](https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
 | 50 | [Whispers and Dry Ear Massage](https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [10 Triggers To Help Relax Your Brain At Night](https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb) | 9:44 |
 
-Snapshot ID: `MCwxZTk5MjU3Y2RiMTViNTFjZjIxMzljZjVkYWMwZjg5MWFlNWJmYjFj`
+Snapshot ID: `MCxmZDFhZTdjNWYxNzI4Zjc0MzA5YWMwZjdhNTc0ZmVlZjljNzI0ZDA5`

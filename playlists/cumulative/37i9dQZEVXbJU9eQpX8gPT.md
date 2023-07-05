@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,126 songs - 2 day 13 hr 56 min
+1,127 songs - 2 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-03-29 |
 | [Fly Emirates](https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Fly Emirates](https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM) | 3:08 | 2023-06-17 | 2023-06-19 |
 | [Fly To My Room](https://open.spotify.com/track/3QH8rQGNFX8VLbCgZ7uPTS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:42 | 2021-11-22 | 2021-11-23 |
+| [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-04 |  |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-19 |
 | [Forever And Ever](https://open.spotify.com/track/0DAEnPBk4LYHloZYO5AnML) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:11 | 2021-04-18 | 2021-04-19 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-03 | 2023-06-04 |
@@ -826,7 +827,7 @@
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-21 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-07 |
 | [Plainte Alliées](https://open.spotify.com/track/4qtL0WwVpxaYAyiAP29Lfb) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Plainte Alliées](https://open.spotify.com/album/0Rgg3wqSlTQX4FldyilNF5) | 4:12 | 2023-06-23 | 2023-06-25 |
-| [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 | 2023-05-27 |  |
+| [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 | 2023-05-27 | 2023-07-05 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2021-11-28 | 2021-12-02 |
 | [Poems](https://open.spotify.com/track/5Y0m4WXHMvaVFCOeqOnzEQ) | [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [How I Hear it](https://open.spotify.com/album/3IXrAMo3UkoTb1oVmCVINn) | 3:20 | 2023-04-16 | 2023-04-18 |
 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-03 | 2023-06-05 |

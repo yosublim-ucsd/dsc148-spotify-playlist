@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Ska\-P
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,442 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,518 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 79 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 80 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
 | 81 | [Contigo Estaré Bien](https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rude Station](https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ) | 3:12 |
-| 82 | [Tranquilo](https://open.spotify.com/track/51yvMOLDOCfAvwuYRxGb5B) | [Alamedadosoulna](https://open.spotify.com/artist/1Yfek8Lmn4Dzu7Eabz95vQ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Tranquilo](https://open.spotify.com/album/6JakOpjM2btJtvmeg5wkMD) | 3:05 |
+| 82 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
 | 83 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 |
-| 84 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
+| 84 | [Tranquilo](https://open.spotify.com/track/51yvMOLDOCfAvwuYRxGb5B) | [Alamedadosoulna](https://open.spotify.com/artist/1Yfek8Lmn4Dzu7Eabz95vQ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Tranquilo](https://open.spotify.com/album/6JakOpjM2btJtvmeg5wkMD) | 3:05 |
 | 85 | [Boogie Stop Shuffle](https://open.spotify.com/track/5R9Y5MPiGIAUoxtnrEjeur) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE) | 4:16 |
 | 86 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 87 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 89 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 | 90 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 91 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
-| 92 | [Solo vine a decirte](https://open.spotify.com/track/0yT3mg8eehQMq5uPF6MWir) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Solo vine a decirte](https://open.spotify.com/album/2JUQQN1J8VrKT0KZjS201R) | 3:34 |
-| 93 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
+| 92 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
+| 93 | [Solo vine a decirte](https://open.spotify.com/track/0yT3mg8eehQMq5uPF6MWir) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Solo vine a decirte](https://open.spotify.com/album/2JUQQN1J8VrKT0KZjS201R) | 3:34 |
 | 94 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 95 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 | 96 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
 | 97 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
-| 98 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
-| 99 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
+| 98 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
+| 99 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
 | 100 | [A Tu Vera](https://open.spotify.com/track/7kLTMJtWuA9aM2NS17G5Jx) | [La Dstylería](https://open.spotify.com/artist/3QeFVejEMHhDmFthqr5qVd) | [A Tu Vera](https://open.spotify.com/album/6YpEaWnqTlyedWkM9kZveJ) | 3:41 |
 
-Snapshot ID: `MCxlZDg4ZDc2YmU4YjZmOGU2ODJkMjdlMzg3ZmRiMzUyMTU5ODExOTVk`
+Snapshot ID: `MCxmZDc0M2FjZDRhNDc2NzVhOWZmMTk5MzZkMDU3OTQ4M2VkZTVhMjVl`

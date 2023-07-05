@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  <a href=\"https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW?si=IhEOvc51SFWgEJXxlaMT3g\">Koryn Hawthorne</a>",
-  "num_followers": 52943,
+  "num_followers": 53067,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDc4MGVjYWQyZmY3YWU4YTcyYzZiMGQyMWRmNzYyMzkyYjZlN2I2",
+  "snapshot_id": "MCw0MWJiY2EzY2QzYjk3Y2MxNmQyNzMwMWJmZDQzZmJhMWVkZjBjYmVi",
   "tracks": [
     {
       "added_at": "2023-06-10 22:24:29",
@@ -299,6 +299,30 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "The End.",
         "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 565833,
       "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
       "url": "https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Thi'sl",
-          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 194175,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "Your World",
         "url": "https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
         "name": "I Rely",
         "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 229053,
       "name": "I Rely",
       "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "DWTD",
+        "url": "https://open.spotify.com/album/0YlNn18dY1enif6cPiFb8z"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 129410,
+      "name": "DWTD",
+      "url": "https://open.spotify.com/track/3DdqIus5JDtXuhe2QbinWx"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 168236,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "DWTD",
-        "url": "https://open.spotify.com/album/0YlNn18dY1enif6cPiFb8z"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 129410,
-      "name": "DWTD",
-      "url": "https://open.spotify.com/track/3DdqIus5JDtXuhe2QbinWx"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "WES",
-        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
+        "name": "Take Me to the Fire",
+        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 114155,
-      "name": "WES",
-      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
+      "duration_ms": 182552,
+      "name": "Take Me to the Fire",
+      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
-        "name": "Take Me to the Fire",
-        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
+        "name": "WES",
+        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
       },
       "artists": [
         {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 182552,
-      "name": "Take Me to the Fire",
-      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
+      "duration_ms": 114155,
+      "name": "WES",
+      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
     },
     {
       "added_at": "2023-06-10 22:24:29",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-06-10 22:24:29",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 397297,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+    },
+    {
+      "added_at": "2023-06-10 22:24:29",
+      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
-    },
-    {
-      "added_at": "2023-06-10 22:24:29",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
-      },
-      "artists": [
-        {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
-        }
-      ],
-      "duration_ms": 397297,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
     },
     {
       "added_at": "2023-06-10 22:24:29",

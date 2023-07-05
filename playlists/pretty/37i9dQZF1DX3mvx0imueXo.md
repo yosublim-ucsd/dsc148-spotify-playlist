@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,113 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,193 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [The Wicked](https://open.spotify.com/track/552k5q1p86qfxEPgwJOqZd) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [The Wicked](https://open.spotify.com/album/3qIrGUcDT82m7xyHrcWlxf) | 4:08 |
 | 50 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
 
-Snapshot ID: `MCw2YmMwNTEzMTk4NTU4NjFlNzJkYTc5YTRlMmI1YmE1Mzc0YjU3MzQ1`
+Snapshot ID: `MCxiYjU0NzQ2MWQwZWE0ZDJiMjgzMDEyMDVmODA3NGUyMWM5ZGEzNDQ5`

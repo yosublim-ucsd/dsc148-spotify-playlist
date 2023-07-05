@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWU5YTEyOTBiMGU0NGRlNmFlYzMzZGU0ZTYwOWNkNDVmZDA0Mjkw",
+  "snapshot_id": "MCw2ZjlmY2MzMmE4YWExNTUyMjM1Njc4YWUzN2I0NTRlMDkzYTBmZTdl",
   "tracks": [
     {
       "added_at": "2023-06-30 03:00:00",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
-        "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
+        "name": "Caja Negra",
+        "url": "https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx"
       },
       "artists": [
         {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        },
-        {
-          "name": "Los Imposibles",
-          "url": "https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz"
+          "name": "Susi Pireli",
+          "url": "https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
+      "duration_ms": 218000,
+      "name": "Caja Negra",
+      "url": "https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -435,6 +431,26 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
+        "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
+      },
+      "artists": [
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Los Imposibles",
+          "url": "https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 196072,
       "name": "La Casa de A",
       "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Caja Negra",
-        "url": "https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx"
-      },
-      "artists": [
-        {
-          "name": "Susi Pireli",
-          "url": "https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Caja Negra",
-      "url": "https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Lo Que Fue",
-        "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
       },
       "artists": [
         {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
         }
       ],
-      "duration_ms": 220953,
-      "name": "Luna Blanca",
-      "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+        "name": "Lo Que Fue",
+        "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
       },
       "artists": [
         {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
         }
       ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+      "duration_ms": 220953,
+      "name": "Luna Blanca",
+      "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "AYER",
         "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Las converse",
         "url": "https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU"
       },
@@ -971,22 +955,6 @@
       "duration_ms": 177904,
       "name": "Las converse",
       "url": "https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 176223,
-      "name": "Opuesto Complementario",
-      "url": "https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1007,6 +975,38 @@
       "duration_ms": 172170,
       "name": "DISFRAZ",
       "url": "https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 176223,
+      "name": "Opuesto Complementario",
+      "url": "https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Hospital Sentimental",
-        "url": "https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO"
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
       "artists": [
         {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
         }
       ],
-      "duration_ms": 199433,
-      "name": "Hospital Sentimental",
-      "url": "https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y"
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+        "name": "Hospital Sentimental",
+        "url": "https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO"
       },
       "artists": [
         {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
         }
       ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+      "duration_ms": 199433,
+      "name": "Hospital Sentimental",
+      "url": "https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Sopita de pan",
+        "url": "https://open.spotify.com/album/3XqCraq3luG498wyPggqup"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Sopita de pan",
-        "url": "https://open.spotify.com/album/3XqCraq3luG498wyPggqup"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "El Club",
-        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "El Club",
-      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "La Nieve",
         "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
       },
@@ -1347,6 +1315,42 @@
       "duration_ms": 211699,
       "name": "La Nieve",
       "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        },
+        {
+          "name": "Frannie Holder",
+          "url": "https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw"
+        }
+      ],
+      "duration_ms": 265005,
+      "name": "Nudo",
+      "url": "https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "El Club",
+        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
     }
   ],
   "unique_name": "Mujeres del Indie",

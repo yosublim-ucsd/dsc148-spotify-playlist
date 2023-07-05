@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 21658,
+  "num_followers": 21703,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTIwNTI4ZTZkMmE5ODNiNmM5ZWVkM2E2MzJkZWIyZjhiNDhhYjdj",
+  "snapshot_id": "MCw2NGM3M2YyODdmZDhhNTIzYWVmZmM4NDBlOWQzMDk4MTkxYWUyMTQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
-      },
-      "artists": [
-        {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
-        }
-      ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Whispers In The Wind",
         "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
       },
       "artists": [
         {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 364099,
       "name": "Alley Rave",
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 190449,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
-      },
-      "artists": [
-        {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Honey Bee",
         "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
       },
@@ -1067,22 +1051,6 @@
       "duration_ms": 263931,
       "name": "Honey Bee - Edit",
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        }
-      ],
-      "duration_ms": 420559,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1103,6 +1071,38 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "duration_ms": 420559,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Into The Hood",
+        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        }
+      ],
+      "duration_ms": 362180,
+      "name": "Into The Hood",
+      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "winter '23",
         "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
@@ -1171,22 +1191,6 @@
       "duration_ms": 370000,
       "name": "buss it.",
       "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Diri",
-        "url": "https://open.spotify.com/album/77DE5zgJssda21fouB6LYD"
-      },
-      "artists": [
-        {
-          "name": "Lexa Hill",
-          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
-        }
-      ],
-      "duration_ms": 342790,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1223,6 +1227,22 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Diri",
+        "url": "https://open.spotify.com/album/77DE5zgJssda21fouB6LYD"
+      },
+      "artists": [
+        {
+          "name": "Lexa Hill",
+          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
+        }
+      ],
+      "duration_ms": 342790,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1323,26 +1343,6 @@
       "duration_ms": 437882,
       "name": "Memories",
       "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Into The Hood",
-        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        }
-      ],
-      "duration_ms": 362180,
-      "name": "Into The Hood",
-      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
     }
   ],
   "unique_name": "Minimal Tech",

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22506,
+  "num_followers": 22517,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl",
+  "snapshot_id": "MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Reventar la Ciudad",
-        "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
+        "name": "T\u00c1NGER Y ZAHARA",
+        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 209271,
-      "name": "Reventar la Ciudad",
-      "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
+      "duration_ms": 160666,
+      "name": "ZAHARA",
+      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -187,18 +183,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "T\u00c1NGER Y ZAHARA",
-        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
+        "name": "Reventar la Ciudad",
+        "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
         }
       ],
-      "duration_ms": 160666,
-      "name": "ZAHARA",
-      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
+      "duration_ms": 209271,
+      "name": "Reventar la Ciudad",
+      "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
     },
     {
       "added_at": "2023-05-19 09:08:21",

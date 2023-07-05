@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-398 songs - 1 day 11 hr 23 min
+399 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Balbec](https://open.spotify.com/track/39lgQtu1XqX3ac4oOrgkRK) | [Christian Pabst](https://open.spotify.com/artist/0lFPDEXuwezwsnMy65m4Ri) | [Balbec](https://open.spotify.com/album/6yF6oWhAZGCEF6lLTbYyDD) | 5:45 | 2022-02-10 | 2023-05-02 |
 | [Beam Me Up](https://open.spotify.com/track/08eOn7vbIOaY0yN1jUz9hw) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 4:28 | 2022-02-10 | 2022-07-14 |
 | [Bergen](https://open.spotify.com/track/2JPNNELGvaqqEbrjn1flYx) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4) | [Reflections and Odysseys](https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf) | 6:24 | 2022-02-10 | 2022-09-03 |
-| [Berlin](https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0) | [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8) | [Marianna](https://open.spotify.com/album/4bBEVdgdAvpCj9hiEv8RQX) | 5:33 | 2022-04-01 |  |
+| [Berlin](https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0) | [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8) | [Marianna](https://open.spotify.com/album/4bBEVdgdAvpCj9hiEv8RQX) | 5:33 | 2022-04-01 | 2023-07-05 |
 | [Berlin](https://open.spotify.com/track/7tTqNyLz4KGLoG7NlRQ2d6) | [Miłosz Oleniecki Trio](https://open.spotify.com/artist/0OWSC58Nhwz6YE67moPPpk) | [Songs For A](https://open.spotify.com/album/4TeRvSxzdxfZ6LejTemKY0) | 6:17 | 2022-02-10 |  |
 | [Bess You Is My Woman Now](https://open.spotify.com/track/7zlx31ozYh5Xb8GMPICZIP) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Pierre\-Alain Goualch](https://open.spotify.com/artist/5SOxLSx8nY4EpTpof9WpxP), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Porgy & Bess](https://open.spotify.com/album/0KPm2U5JLp42D92l3leYIy) | 3:50 | 2022-02-10 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-02-23 |  |
@@ -137,6 +137,7 @@
 | [Hope](https://open.spotify.com/track/0og12U7JOy2rGRDalPIVPd) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [Northern Lights](https://open.spotify.com/album/1zJ1NGiNKWnu9ErxgtHxJN) | 5:31 | 2022-02-10 | 2022-07-29 |
 | [Hors piste](https://open.spotify.com/track/6SdlpOZDnWww3btI3WNKHW) | [Edward Perraud](https://open.spotify.com/artist/6VcnUpvDkYNE7IwTwlBzqd), [Bruno Angelini](https://open.spotify.com/artist/7s34ZhJVqXP64808KAc57a), [Arnault Cuisinier](https://open.spotify.com/artist/1umERtLedO1rwqiskXTCOc) | [Hors temps](https://open.spotify.com/album/5eBvmPEu22r4Bfsz2fosgv) | 8:13 | 2022-02-10 |  |
 | [How could it be?](https://open.spotify.com/track/3lYaE7n5swTLnVLcmimK7l) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Per Zanussi](https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi) | [How could it be?](https://open.spotify.com/album/0ovUAUw8IdpFF7aX98slNX) | 5:39 | 2022-02-10 |  |
+| [How Deep Is The Ocean?](https://open.spotify.com/track/23bHL6vXe6ckwnwK1yFqC4) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is The Ocean](https://open.spotify.com/album/5JqlpeLZmzlnXv59xcYSUJ) | 4:40 | 2022-02-10 |  |
 | [How Deep Is the Ocean?](https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is the Ocean](https://open.spotify.com/album/4O7jV7aCfbf9vFJEqfWblQ) | 4:40 | 2022-02-10 | 2023-07-04 |
 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/1aj5pTKPit19Rmmby4BfmC) | [Vijay Iyer Trio](https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM) | [Accelerando \(Bonus Track Version\)](https://open.spotify.com/album/1dhbqRSCO88PQFIvBv5Rg8) | 9:39 | 2022-02-10 | 2022-09-03 |
 | [Huntress](https://open.spotify.com/track/2Un7bWbdAVIXPmkP34dFLx) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Huntress](https://open.spotify.com/album/7zZ3bMGIFKWvGGLFnVorhd) | 5:25 | 2022-02-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12082,
+  "num_followers": 12093,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWY1MjkxMDlkZDM4NzQyOWRiOTI2YzQ4MmQ2ZGE0M2Y4MDFlNTc5",
+  "snapshot_id": "MCxhYmVlN2RkMmY4M2YzNzkzNmJiMTNmMGIzMzYwZTFhMTRlMDUzNWUw",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Blues",
-        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
+        "name": "Sufferin' Mind",
+        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+          "name": "Guitar Slim",
+          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+      "duration_ms": 147440,
+      "name": "Well I Done Got Over It",
+      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Sufferin' Mind",
-        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
+        "name": "New Orleans Blues",
+        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
       },
       "artists": [
         {
-          "name": "Guitar Slim",
-          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
         }
       ],
-      "duration_ms": 147440,
-      "name": "Well I Done Got Over It",
-      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
+      "duration_ms": 163293,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -427,22 +427,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+        "name": "Hooked On Your Love",
+        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Sam Charters",
-          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Trick Bag",
-      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
+      "duration_ms": 277933,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -495,18 +491,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Hooked On Your Love",
-        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        },
+        {
+          "name": "Sam Charters",
+          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
         }
       ],
-      "duration_ms": 277933,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+      "duration_ms": 188600,
+      "name": "Trick Bag",
+      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -539,6 +539,22 @@
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Blues Stew",
+      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -619,34 +635,6 @@
       "duration_ms": 205280,
       "name": "The Party's Still Going On",
       "url": "https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Vol. 1: Blues Won't Let Me Take My Rest",
-        "url": "https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb"
-      },
-      "artists": [
-        {
-          "name": "Henry Gray",
-          "url": "https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY"
-        },
-        {
-          "name": "Bob Corritore",
-          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
-        },
-        {
-          "name": "Bob Stroger",
-          "url": "https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe"
-        },
-        {
-          "name": "Willie \"Big Eyes\" Smith",
-          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
-        }
-      ],
-      "duration_ms": 232413,
-      "name": "Let's Get High",
-      "url": "https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3"
     },
     {
       "added_at": "2022-03-28 20:10:01",

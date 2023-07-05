@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية🤩 الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=b9CvGGw7SxqE65mfEWKF0Q"> حسين الجسمي </a>
 
-494 songs - 1 day 4 hr 20 min
+495 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [W Bahleflak](https://open.spotify.com/track/6dl0rOeMbMYpqsnOjdaFLr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [W Bahleflak](https://open.spotify.com/album/4RG5kVZevsPgZrqhrfVc5Q) | 4:18 | 2021-12-23 | 2022-01-05 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2022-12-26 | 2023-02-17 |
 | [W lessa Yama](https://open.spotify.com/track/795CQEQ8mgrrEXMwazznQ7) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [W lessa Yama](https://open.spotify.com/album/6cVdxAUMZqEbro8v8E4qeR) | 4:45 | 2022-08-10 | 2022-11-04 |
-| [W Salam](https://open.spotify.com/track/1Drqj4zr00olmRv1wCxMMF) | [Islam Farouk](https://open.spotify.com/artist/0jlFw8aeyMYHCmvxwNFOpS), [Karim Heraje](https://open.spotify.com/artist/24PZ8fjUktJhu10XJ7PphZ) | [W Salam](https://open.spotify.com/album/6lyIuHI9vEHxNRexISseEP) | 3:09 | 2023-05-17 |  |
+| [W Salam](https://open.spotify.com/track/1Drqj4zr00olmRv1wCxMMF) | [Islam Farouk](https://open.spotify.com/artist/0jlFw8aeyMYHCmvxwNFOpS), [Karim Heraje](https://open.spotify.com/artist/24PZ8fjUktJhu10XJ7PphZ) | [W Salam](https://open.spotify.com/album/6lyIuHI9vEHxNRexISseEP) | 3:09 | 2023-05-17 | 2023-07-05 |
 | [Wa2t Sheda](https://open.spotify.com/track/3TTR9oSGljTI2ISZkAGCX6) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wa2t Sheda](https://open.spotify.com/album/7Hf0ceCHEbXeX8tQuvoCyh) | 3:41 | 2022-11-17 | 2023-02-02 |
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/6yCxLxQhCfcHbPEuKzVM1O) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/album/5MWF4LOe2m18Va8pIi64TJ) | 4:09 | 2021-12-23 | 2022-01-29 |
 | [Wagaa Kam Youm](https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Wagaa Kam Youm](https://open.spotify.com/album/0VI7mgJVE7EqCjLBqJZpsf) | 4:35 | 2021-12-23 | 2022-02-23 |
@@ -421,6 +421,7 @@
 | [جاية جاية](https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni) | [Pepsi Egypt](https://open.spotify.com/artist/7rvQhlTMhXIqxMTFAaxhKN), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جاية جاية](https://open.spotify.com/album/6Eqy1TyVZVghna1QLvh30K) | 1:25 | 2023-05-19 |  |
 | [حبايبنا](https://open.spotify.com/track/6fM4O75eAUoRxUdsbI0vc3) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [حبايبنا](https://open.spotify.com/album/6FOVMHlP4eAAeX1B3NASpW) | 3:26 | 2023-06-27 |  |
 | [حبينا](https://open.spotify.com/track/1S3appxEsM5sN3qEURkPt2) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:18 | 2023-01-12 | 2023-02-24 |
+| [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-04 |  |
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |

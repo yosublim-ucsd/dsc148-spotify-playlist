@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Adelasia in cover di Rock Italia questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,787 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,801 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 49 | [Apnea](https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Nouvelles Aventures](https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF) | 4:22 |
 | 50 | [Animali in cattività](https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Fammi Male](https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi) | 3:10 |
 
-Snapshot ID: `MCxiYTkwNTdlMTYyMmNlNmEyZmU1MmFmNmU0ODNlZGRkZjk4ZDY5NTQx`
+Snapshot ID: `MCxjYjg4ZjAxZjc0YWI0YzA1MzFjMWRmMTQ1ZDU2ODk3MTY5ZTMxNWJm`

@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1132313,
+  "num_followers": 1132349,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzAzM2ZjZGMxODRkMGExOTRkY2M2OTcyNmRjMjNjNzVlODNiNGNm",
+  "snapshot_id": "MCxkZDFlNDliZjY2OGNiNTg2ZWVmM2I5MmY2Yzc0YzI5MjU0YTIxZTAy",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Intentions (Acoustic)",
         "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 160611,
       "name": "Intentions - Acoustic",
       "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 188437,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Blank Space - Acoustic",
-        "url": "https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq"
-      },
-      "artists": [
-        {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
-        }
-      ],
-      "duration_ms": 245795,
-      "name": "Blank Space - Acoustic",
-      "url": "https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Ysabelle",
         "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 189673,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Blank Space - Acoustic",
+        "url": "https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "duration_ms": 245795,
+      "name": "Blank Space - Acoustic",
+      "url": "https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -739,6 +723,38 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -763,22 +779,6 @@
       "duration_ms": 158313,
       "name": "We Used To",
       "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1103,6 +1103,38 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
+      },
+      "artists": [
+        {
+          "name": "Rosebud Nash",
+          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Don't Call Me Up (Acoustic)",
         "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
       },
@@ -1139,18 +1171,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
       },
       "artists": [
         {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
         }
       ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Chasing Cars (Acoustic)",
-        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Chasing Cars (Acoustic)",
-      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 238500,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
-      },
-      "artists": [
-        {
-          "name": "Rosebud Nash",
-          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Most of Us Are Strangers",
-        "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Most of Us Are Strangers",
-      "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Sweet Nothing",
         "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Stay with me",
-        "url": "https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL"
+        "name": "Most of Us Are Strangers",
+        "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
       },
       "artists": [
         {
-          "name": "Linus Svenning",
-          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 174145,
-      "name": "Stay with me",
-      "url": "https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV"
+      "duration_ms": 222586,
+      "name": "Most of Us Are Strangers",
+      "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 217400,
       "name": "Think Before I Talk - Acoustic",
       "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Stay with me",
+        "url": "https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "duration_ms": 174145,
+      "name": "Stay with me",
+      "url": "https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "WITHOUT ME",
-        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
       },
       "artists": [
         {
-          "name": "Graham Carter",
-          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 180998,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "WITHOUT ME",
+        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Break My Heart (Piano Acoustic)",
         "url": "https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 218293,
       "name": "Break My Heart - Piano Acoustic",
       "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "We Found Love - Acoustic",
         "url": "https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 157714,
       "name": "We Found Love - Acoustic",
       "url": "https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Stack It Up (Acoustic)",
-        "url": "https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE"
+        "name": "lonely together",
+        "url": "https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G"
       },
       "artists": [
         {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
         }
       ],
-      "duration_ms": 162129,
-      "name": "Stack It Up - Acoustic",
-      "url": "https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp"
+      "duration_ms": 201104,
+      "name": "lonely together",
+      "url": "https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1843,18 +1843,34 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "lonely together",
-        "url": "https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G"
+        "name": "Stack It Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE"
       },
       "artists": [
         {
-          "name": "middle of june",
-          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
         }
       ],
-      "duration_ms": 201104,
-      "name": "lonely together",
-      "url": "https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn"
+      "duration_ms": 162129,
+      "name": "Stack It Up - Acoustic",
+      "url": "https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+      },
+      "artists": [
+        {
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+        }
+      ],
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Better Break My Heart",
-        "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
+        "name": "Fix You (Live for There With Care)",
+        "url": "https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ"
       },
       "artists": [
         {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         }
       ],
-      "duration_ms": 175013,
-      "name": "Better Break My Heart - Acoustic version",
-      "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
+      "duration_ms": 369041,
+      "name": "Fix You - Live for There With Care",
+      "url": "https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1963,18 +1979,34 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+        "name": "Better Break My Heart",
+        "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
       },
       "artists": [
         {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
         }
       ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
+      "duration_ms": 175013,
+      "name": "Better Break My Heart - Acoustic version",
+      "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Sure Thing - Acoustic",
+        "url": "https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Sure Thing - Acoustic",
+      "url": "https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1991,22 +2023,6 @@
       "duration_ms": 223507,
       "name": "Nights Like This (Acoustic)",
       "url": "https://open.spotify.com/track/5qmBaa3MtKuyKy79WTUaBo"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Fix You (Live for There With Care)",
-        "url": "https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 369041,
-      "name": "Fix You - Live for There With Care",
-      "url": "https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Sure Thing - Acoustic",
-        "url": "https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD"
-      },
-      "artists": [
-        {
-          "name": "Kim & Otto",
-          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
-        }
-      ],
-      "duration_ms": 181125,
-      "name": "Sure Thing - Acoustic",
-      "url": "https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Whatcha Say - Acoustic",
         "url": "https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR"
       },
@@ -2071,22 +2071,6 @@
       "duration_ms": 187619,
       "name": "Whatcha Say - Acoustic",
       "url": "https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 214260,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2123,6 +2107,38 @@
       "duration_ms": 212624,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
+      },
+      "artists": [
+        {
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2179,6 +2195,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Jealous (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 211639,
+      "name": "Jealous (Acoustic)",
+      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Carry It Well (Acoustic)",
         "url": "https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX"
       },
@@ -2211,22 +2243,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Jealous (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 211639,
-      "name": "Jealous (Acoustic)",
-      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Empty Love",
         "url": "https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 210456,
       "name": "Empty love",
       "url": "https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
-      },
-      "artists": [
-        {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso"
-      },
-      "artists": [
-        {
-          "name": "Mia Rainn",
-          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
-        }
-      ],
-      "duration_ms": 164228,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/4HyBPhQQodPLaf5solOIDN"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 178636,
       "name": "Attention",
       "url": "https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso"
+      },
+      "artists": [
+        {
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+        }
+      ],
+      "duration_ms": 164228,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/4HyBPhQQodPLaf5solOIDN"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB"
-      },
-      "artists": [
-        {
-          "name": "Killian Turner",
-          "url": "https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Kill Bill",
         "url": "https://open.spotify.com/album/38i1txuPzEVzmEd0qbJ2ie"
       },
@@ -2375,18 +2359,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "The Walls Are Way Too Thin (Floorboards Version)",
-        "url": "https://open.spotify.com/album/3Jbq63iQbuOOAtIYdHHRfb"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Killian Turner",
+          "url": "https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5"
         }
       ],
-      "duration_ms": 203820,
-      "name": "The Walls Are Way Too Thin - Floorboards Version",
-      "url": "https://open.spotify.com/track/2axg4squnD1sycg3Ot1PVF"
+      "duration_ms": 226285,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2403,6 +2387,38 @@
       "duration_ms": 188845,
       "name": "what do you mean?",
       "url": "https://open.spotify.com/track/2ov2JFvZX3vRf2oXYiVs3i"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "I Was Never There",
+        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
+      },
+      "artists": [
+        {
+          "name": "Parker Clair",
+          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "The Walls Are Way Too Thin (Floorboards Version)",
+        "url": "https://open.spotify.com/album/3Jbq63iQbuOOAtIYdHHRfb"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 203820,
+      "name": "The Walls Are Way Too Thin - Floorboards Version",
+      "url": "https://open.spotify.com/track/2axg4squnD1sycg3Ot1PVF"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2491,22 +2507,6 @@
       "duration_ms": 162461,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "I Was Never There",
-        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
-      },
-      "artists": [
-        {
-          "name": "Parker Clair",
-          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2743,6 +2743,38 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 211043,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "We Never Die (Acoustic)",
+        "url": "https://open.spotify.com/album/7GlnzgTYL2iBLAziFaTpyx"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "We Never Die (Acoustic)",
+      "url": "https://open.spotify.com/track/4m2jS7f5DaeDyy7cJXndOA"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "i get high (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md"
       },
@@ -2763,22 +2795,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 211043,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
       },
@@ -2791,22 +2807,6 @@
       "duration_ms": 256730,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "We Never Die (Acoustic)",
-        "url": "https://open.spotify.com/album/7GlnzgTYL2iBLAziFaTpyx"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "We Never Die (Acoustic)",
-      "url": "https://open.spotify.com/track/4m2jS7f5DaeDyy7cJXndOA"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -2999,22 +2999,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Salt (Acoustic)",
-        "url": "https://open.spotify.com/album/5ZL0WWIx2oG1qD1X6MU18j"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190270,
-      "name": "Salt - Acoustic",
-      "url": "https://open.spotify.com/track/47pt4eFPEqIh1DKxCHG37l"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Rainy Day Chill",
         "url": "https://open.spotify.com/album/3vQ94ui6nzPdcN4C1EBOyq"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 157779,
       "name": "Beautiful Scars - Acoustic",
       "url": "https://open.spotify.com/track/2rrkDFLwVL86ZYtiEnYE3H"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Salt (Acoustic)",
+        "url": "https://open.spotify.com/album/5ZL0WWIx2oG1qD1X6MU18j"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190270,
+      "name": "Salt - Acoustic",
+      "url": "https://open.spotify.com/track/47pt4eFPEqIh1DKxCHG37l"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/7EN2kxjo0F4uwK4iPFvrSX"
-      },
-      "artists": [
-        {
-          "name": "City Sessions",
-          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/3XCglqn9hJiTm4FGWufop8"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Crying My Eyes Out (Acoustic)",
         "url": "https://open.spotify.com/album/5FQiRzFDZ1mRaz0MyPoS73"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 170904,
       "name": "Crying My Eyes Out - Acoustic",
       "url": "https://open.spotify.com/track/73ez4MUeIzT35JfhYoPYxZ"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/7EN2kxjo0F4uwK4iPFvrSX"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/3XCglqn9hJiTm4FGWufop8"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -3183,22 +3183,6 @@
       "duration_ms": 189725,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/7MnXrMhBQvhYZ9fSkfsGbY"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr"
-      },
-      "artists": [
-        {
-          "name": "City Sessions",
-          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
-        }
-      ],
-      "duration_ms": 222189,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -3295,6 +3279,22 @@
       "duration_ms": 137926,
       "name": "Sunroof (Acoustic)",
       "url": "https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "duration_ms": 222189,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK"
     },
     {
       "added_at": "2023-06-22 22:01:00",

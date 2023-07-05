@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,161 likes - 38 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,226 likes - 38 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,25 +26,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 16 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 |
 | 17 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 |
 | 18 | [Kaupe Spring Birds](https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:38 |
-| 19 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 |
-| 20 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 |
+| 19 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 |
+| 20 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 |
 | 21 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 |
-| 22 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
-| 23 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 |
+| 22 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 |
+| 23 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
 | 24 | [Summer Afternoon Birds](https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ) | [Jungleur](https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna) | [Summer Afternoon Birds](https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm) | 2:20 |
 | 25 | [Lake Side Bird Sound](https://open.spotify.com/track/6crMJIJMG0BTz9wTlfnzQG) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:15 |
-| 26 | [Wonderful Morning](https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:54 |
-| 27 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 |
-| 28 | [Morning Birds](https://open.spotify.com/track/6xUIF4Z4PcCPHHWi0Ljp5E) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 |
+| 26 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 |
+| 27 | [Peaceful Birds Singing](https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Peaceful Birds Singing](https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY) | 2:00 |
+| 28 | [Wonderful Morning](https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:54 |
 | 29 | [Morning Birds May](https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Morning Birds May](https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5) | 2:43 |
-| 30 | [Peaceful Birds Singing](https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Peaceful Birds Singing](https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY) | 2:00 |
-| 31 | [The Sounds of the Sky](https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [A Winged World](https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig) | 2:08 |
-| 32 | [Orchid Stories](https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 3:46 |
-| 33 | [Surrounded by Nature](https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 1:52 |
+| 30 | [The Sounds of the Sky](https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [A Winged World](https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig) | 2:08 |
+| 31 | [Morning Birds](https://open.spotify.com/track/6xUIF4Z4PcCPHHWi0Ljp5E) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 |
+| 32 | [Surrounded by Nature](https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 1:52 |
+| 33 | [Wide Forest Birds](https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr) | [House Bird](https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg) | [Wide Forest Birds](https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5) | 2:37 |
 | 34 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
-| 35 | [Raindrops In The Forest \- Seamless](https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9) | [The Sleepy Forest](https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN) | [Timber Slumber](https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg) | 3:02 |
-| 36 | [Wide Forest Birds](https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr) | [House Bird](https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg) | [Wide Forest Birds](https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5) | 2:37 |
-| 37 | [More Morning Birds in the Summer Forest](https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Morning Birds in the Summer Forest](https://open.spotify.com/album/2hkRiSxZxTU3BysE4oqJ9s) | 2:09 |
-| 38 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 |
+| 35 | [Birds Chorus](https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz) | [Nature Sounds For Sleeping](https://open.spotify.com/artist/6Ph6DcY2qlTEHtyDYodJLO) | [Birds Chorus](https://open.spotify.com/album/4BFzcd0oGaWid53qU2MD4R) | 2:13 |
+| 36 | [Orchid Stories](https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 3:46 |
+| 37 | [Raindrops In The Forest \- Seamless](https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9) | [The Sleepy Forest](https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN) | [Timber Slumber](https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg) | 3:02 |
+| 38 | [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 |
 
-Snapshot ID: `MCw2MDdmNTgxNDU2OTNkNGY2NmY2Y2I0Yjg4YmRlZDQ5ODI4M2I3ZjY1`
+Snapshot ID: `MCwzOGQxOGM0ZTA3ZWRiNzBmZmU1NzUyNjhmMGE4OWZjZjQ2ZmExZGY0`

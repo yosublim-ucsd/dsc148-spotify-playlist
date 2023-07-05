@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58710,
+  "num_followers": 58704,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzk3ZjgzMDkwMjAwNGNjZDA2MTVhNzIxODgyNjIzZmI0YjFkMDIx",
+  "snapshot_id": "MCw1MTE5ZDBhOGJhOWU5ZTU1NjQzZWFmNTFjOThkYTdiMWQ4YWY4MDAy",
   "tracks": [
     {
       "added_at": "2022-12-22 07:43:51",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Home For The Holidays",
-      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 167973,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
+      },
+      "artists": [
+        {
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Home For The Holidays",
+      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Baby It's Cold Outside And I Have The Christmas Blues (2022 Remastered)",
-        "url": "https://open.spotify.com/album/0sUHXrRbPoVNVhQSjhnnjT"
-      },
-      "artists": [
-        {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 101426,
-      "name": "What About Me - 2022 Remastered",
-      "url": "https://open.spotify.com/track/5VzZdotPQ5TXZgaZXDyWNv"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
+        "name": "Baby It's Cold Outside And I Have The Christmas Blues (2022 Remastered)",
+        "url": "https://open.spotify.com/album/0sUHXrRbPoVNVhQSjhnnjT"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 101426,
+      "name": "What About Me - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5VzZdotPQ5TXZgaZXDyWNv"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 174066,
       "name": "A Song For Christmas",
       "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
-        "name": "Baby It's Cold Outside And I Have The Christmas Blues (2022 Remastered)",
-        "url": "https://open.spotify.com/album/0sUHXrRbPoVNVhQSjhnnjT"
-      },
-      "artists": [
-        {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "If We Make It Through December - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
+        "name": "Baby It's Cold Outside And I Have The Christmas Blues (2022 Remastered)",
+        "url": "https://open.spotify.com/album/0sUHXrRbPoVNVhQSjhnnjT"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "If We Make It Through December - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -835,18 +835,22 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Jazz To The World",
-        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
       "artists": [
         {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Canterbury Cathedral Girls' Choir",
+          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
+      "duration_ms": 248746,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -883,26 +887,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Canterbury Cathedral Girls' Choir",
-          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Rest in Peace",
-      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -932,9 +916,25 @@
           "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
         }
       ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Sleighride",
+      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

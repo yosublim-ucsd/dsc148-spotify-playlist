@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: seye
 
-405 songs - 22 hr 36 min
+406 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Midnight Freak\-Out](https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Midnight Freak\-Out](https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X) | 3:20 | 2023-06-09 |  |
 | [Miel](https://open.spotify.com/track/6AMHEaO84ovy8gyk9fMuvx) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce I](https://open.spotify.com/album/11eas3t2nurp1u7PRPFzGL) | 3:22 | 2023-03-24 | 2023-05-20 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
-| [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 | 2023-06-16 |  |
+| [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 | 2023-06-16 | 2023-07-05 |
 | [Milanesa al Pan](https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Milanesa al Pan](https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL) | 2:49 | 2023-03-17 | 2023-07-01 |
 | [Miracle](https://open.spotify.com/track/1qF69E9heZYJO3iBa8kOx1) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/2v08BVmRilhppsPf5OBcER) | 4:20 | 2022-12-16 | 2023-01-07 |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-04-07 | 2023-05-12 |
@@ -332,6 +332,7 @@
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-11-24 | 2023-04-15 |
 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 | 2023-06-02 |  |
 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 | 2023-03-24 |  |
+| [Solo Tu](https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR) | 2:46 | 2023-06-30 |  |
 | [Solo Una Amiga](https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Danny Reyes](https://open.spotify.com/artist/29lfDpKuAjaSUKsxTqU0g3) | [Solo Una Amiga](https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG) | 4:24 | 2023-04-14 | 2023-06-03 |
 | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/track/0IK1nPN06x2HC05knvox4U) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O), [Fernando Palomo](https://open.spotify.com/artist/0mlE6ychUjCLEw4jNAdbG3) | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/album/1yMQpJi4NbATzyf37Y0muR) | 4:14 | 2022-12-09 | 2023-04-24 |
 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 | 2023-05-13 |

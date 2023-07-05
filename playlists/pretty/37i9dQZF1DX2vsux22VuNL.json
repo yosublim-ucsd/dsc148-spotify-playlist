@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 280594,
+  "num_followers": 280800,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE1YThmZjU4ZGE1OTBlNWRkOWVkNGU5NTVkNTU3OGM2YzRkMWIy",
+  "snapshot_id": "MCxiZGJkNjMxNzNhMGYxYTQ5MTdhZTBjODU3YzM5NjllODA1ODRlZDkz",
   "tracks": [
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1003,34 +1003,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Toda Mal\u00e9vola",
-        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Toda Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Espero Ainda",
         "url": "https://open.spotify.com/album/6oJpnMMgIW48w5wAIQfMax"
       },
@@ -1059,6 +1031,34 @@
       "duration_ms": 155933,
       "name": "Espero Ainda",
       "url": "https://open.spotify.com/track/2hXRDeIcV1lBrB8lV8imjQ"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Toda Mal\u00e9vola",
+        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Toda Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Me Diz Se Vem",
-        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 177612,
-      "name": "Me Diz Se Vem",
-      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 169850,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
     },
     {
       "added_at": "2023-06-30 03:00:00",

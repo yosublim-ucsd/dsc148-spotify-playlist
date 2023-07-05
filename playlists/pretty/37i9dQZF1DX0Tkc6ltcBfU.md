@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,865 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,075 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 | 50 | [House Call](https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [House Call](https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV) | 3:58 |
 
-Snapshot ID: `MCxjMWI5OTlkZjY3Y2YzZWIyYzYzOThhMzFhMjkwODI1OTk5NTRlYjc5`
+Snapshot ID: `MCxmOGE4YjkyNGZkNjhjZDQxNTNhMzliZWE3YTg2NTQxNzQ1NWM5NGY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈️  cover: Outkast
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,143 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,660 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 99 | [Only Wanna Give It To You \(feat\. J\. Cole\)](https://open.spotify.com/track/1C3GfIyZjaX654Tva4QNtJ) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Perfectly Imperfect](https://open.spotify.com/album/68LPoE2EfeEnWZGMAOB3Cu) | 3:57 |
 | 100 | [Bout Your Love](https://open.spotify.com/track/0ayhuUaQaJ4dT3PyIrw42k) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:56 |
 
-Snapshot ID: `MCwzYjk2Yzk3N2MwMmMxMDNmZjdiNDNjZDcyMTEyZDU3NDMwMTZjZDg2`
+Snapshot ID: `MCxkOWE2Y2I2ZGE3ODhlNDhjZDQ4NzI5N2RjMjEyNDRhNzFkMzA5MWY5`

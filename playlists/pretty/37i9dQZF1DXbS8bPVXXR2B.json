@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 209940,
+  "num_followers": 210039,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
+  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 319893,
       "name": "Remind Me - Remastered",
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Where Will You Go When The Party's Over",
-        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
-      },
-      "artists": [
-        {
-          "name": "Archie Bell & The Drells",
-          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
-        }
-      ],
-      "duration_ms": 259653,
-      "name": "Don't Let Love Get You Down",
-      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 280417,
       "name": "Crushed Ice",
       "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Where Will You Go When The Party's Over",
+        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
+      },
+      "artists": [
+        {
+          "name": "Archie Bell & The Drells",
+          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
+        }
+      ],
+      "duration_ms": 259653,
+      "name": "Don't Let Love Get You Down",
+      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "First True Love Affair",
         "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Kiss Me Again",
         "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 181698,
       "name": "Kiss Me Again - Mix Edit",
       "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",

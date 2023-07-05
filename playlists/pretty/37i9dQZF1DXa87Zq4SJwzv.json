@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 35190,
+  "num_followers": 35293,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjIwNTQwZTc4N2E5ODkwZjQ5ODBlMDVmMTIxZTRkMTcwYTcwNjFj",
+  "snapshot_id": "MCxjNjdkN2FkZDBhZWIxZDQ5ZWEyZWNmYzJlZDhmNTQ4ZTFkN2M5Njg3",
   "tracks": [
     {
       "added_at": "2023-06-29 19:10:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-29 19:10:49",
       "album": {
-        "name": "Amor Diverso (Version Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7rQFXvOvgQmbYC3Ln6SnGw"
-      },
-      "artists": [
-        {
-          "name": "Sara Curruchich",
-          "url": "https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ"
-        }
-      ],
-      "duration_ms": 235449,
-      "name": "Amor Diverso - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/171UjScvzBRgTuREV1QE4F"
-    },
-    {
-      "added_at": "2023-06-29 19:10:49",
-      "album": {
         "name": "AYER",
         "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+    },
+    {
+      "added_at": "2023-06-29 19:10:49",
+      "album": {
+        "name": "Amor Diverso (Version Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7rQFXvOvgQmbYC3Ln6SnGw"
+      },
+      "artists": [
+        {
+          "name": "Sara Curruchich",
+          "url": "https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ"
+        }
+      ],
+      "duration_ms": 235449,
+      "name": "Amor Diverso - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/171UjScvzBRgTuREV1QE4F"
     },
     {
       "added_at": "2023-06-29 19:10:49",

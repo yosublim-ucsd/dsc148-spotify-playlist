@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 38211,
+  "num_followers": 38275,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjNiZjQzMWI5YWFkODg2NDVmNWMxYzYzMGIwZTg2YzZjMGU0Y2Q0",
+  "snapshot_id": "MCxkODJmNzEyZjNjOTYzMzMxMWRkNTI2NzcwMjRlYzM1MTE0OTRlMzNk",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Believe For It (feat. Lauren Daigle)",
         "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Frankincense",
         "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Jesus Oh",
-        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 255384,
-      "name": "Jesus Oh",
-      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "B'Ola (Honour)",
         "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 324703,
       "name": "B'Ola - Honour",
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -627,6 +611,22 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Olorun Agbaye - You Are Mighty",
         "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 438744,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -823,6 +823,30 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "NWANDO OMOSEBI",
+          "url": "https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT"
+        },
+        {
+          "name": "IFIOK EZENWA",
+          "url": "https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz"
+        }
+      ],
+      "duration_ms": 466666,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Believe For It (Eu Creio)",
         "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 505147,
       "name": "Be Lifted (Live)",
       "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "The King Is Coming",
-        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "NWANDO OMOSEBI",
-          "url": "https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT"
-        },
-        {
-          "name": "IFIOK EZENWA",
-          "url": "https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz"
-        }
-      ],
-      "duration_ms": 466666,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -969,6 +969,30 @@
       "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
       "added_at": "2023-06-16 07:12:46",
       "album": {
         "name": "The Name of Jesus: Sinach Live in Concert",
@@ -1029,30 +1053,6 @@
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
     },
     {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
-    },
-    {
       "added_at": "2023-06-16 07:12:46",
       "album": {
         "name": "Journey To The Deep (Prayer Chants)",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -1139,6 +1123,26 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/6DMGM2y7j46To04if4jIam"
+      },
+      "artists": [
+        {
+          "name": "Romeo ThaGreatwhite",
+          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
+        },
+        {
+          "name": "Prifix",
+          "url": "https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm"
+        }
+      ],
+      "duration_ms": 304901,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/6DMGM2y7j46To04if4jIam"
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
       },
       "artists": [
         {
-          "name": "Romeo ThaGreatwhite",
-          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
-        },
-        {
-          "name": "Prifix",
-          "url": "https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 304901,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT"
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Watching All over Me",
         "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Blessing Now",
-        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 208588,
-      "name": "Blessing Now",
-      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-06-16 07:12:46",
       "album": {
+        "name": "Amen (Wo Awie)",
+        "url": "https://open.spotify.com/album/6F5WDYPKrqpkaiyPrdt6J4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 335499,
+      "name": "Amen (Wo Awie)",
+      "url": "https://open.spotify.com/track/2ovVSf8euc6wyL4vXIghLA"
+    },
+    {
+      "added_at": "2023-06-16 07:12:46",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 194526,
       "name": "Victory",
       "url": "https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "Amen (Wo Awie)",
-        "url": "https://open.spotify.com/album/6F5WDYPKrqpkaiyPrdt6J4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 335499,
-      "name": "Amen (Wo Awie)",
-      "url": "https://open.spotify.com/track/2ovVSf8euc6wyL4vXIghLA"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1471,6 +1471,22 @@
       "duration_ms": 302608,
       "name": "IBUKA",
       "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Yahweh Be Praised",
+        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 327554,
+      "name": "Yahweh Be Praised",
+      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -1511,22 +1527,6 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
-    },
-    {
-      "added_at": "2023-06-16 07:12:46",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     }
   ],
   "unique_name": "Be Lifted ",

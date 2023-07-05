@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-112 songs - 6 hr 47 min
+113 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Press Rewind](https://open.spotify.com/track/1JOnK0BwXTDKdWbXiYQ11h) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/6hvO38m9TnmmyAerAfvpkm) | 4:34 | 2021-08-24 |  |
 | [Proppa](https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Proppa](https://open.spotify.com/album/1uc3mBwthg0sbR11HwFQaS) | 3:30 | 2021-08-24 |  |
 | [Rhythm In My Soul](https://open.spotify.com/track/0gnncXckqtWNoyq77cz0mL) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into The Dread](https://open.spotify.com/album/3v7H49k44hIvj8jKdMt07z) | 6:16 | 2021-08-24 | 2022-07-29 |
-| [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 | 2022-06-09 |  |
+| [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 | 2022-06-09 | 2023-07-05 |
+| [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 | 2023-06-08 |  |
 | [Road Trip](https://open.spotify.com/track/6qNg20sM8sdhIiZTo1tstW) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [First XV](https://open.spotify.com/album/7iiz1chr32IjT3FLiC0dpt) | 3:09 | 2022-08-07 |  |
 | [Road Trip](https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl) | 3:09 | 2021-08-24 | 2023-01-25 |
 | [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 | 2021-08-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd?si=PuTN9BCWQFKX6JfGxhGGDQ\">Ryan Ofei</a>",
-  "num_followers": 5359,
+  "num_followers": 5406,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjQ1NmViMjQ2NzA5MmM3NDI5ZjhjZTRmM2U3NDY4ZmUyNmVhNDlm",
+  "snapshot_id": "MCwyYTQ5ZGRlYzU3MjUxNDEzNTIyMTdkY2IzOWNkZDc5MzdkODYxMDMx",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+      "duration_ms": 295262,
+      "name": "More Than Gold",
+      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
       "artists": [
         {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
         }
       ],
-      "duration_ms": 295262,
-      "name": "More Than Gold",
-      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
+      "duration_ms": 257645,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
       "artists": [
         {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 257645,
-      "name": "Omemma",
-      "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "The Expression",
+        "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Glowreeyah Braimah",
+          "url": "https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 230505,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
+      "duration_ms": 290530,
+      "name": "Miracle Worker (feat. Nathaniel Bassey)",
+      "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
     },
     {
       "added_at": "2023-06-02 00:01:00",

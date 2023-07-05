@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,199 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,229 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 47 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
 | 48 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 49 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
-| 50 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 51 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 |
+| 50 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 |
+| 51 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 52 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 53 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 54 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [Toca](https://open.spotify.com/track/1hIXfKQYuMl1aioQkvzNCM) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC) | [Toca](https://open.spotify.com/album/6eBmDkYHMMin2VZ5cyfUw6) | 3:20 |
 | 62 | [Mexeu Contigo \(Remix\)](https://open.spotify.com/track/2ZFBSjOAw8qMW31p51mCX0) | [Lorena Pollock](https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh), [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Mexeu Contigo \(Remix\)](https://open.spotify.com/album/5pharZhhyldorgOlMpdtdk) | 4:02 |
 | 63 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
-| 64 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
-| 65 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
+| 64 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
+| 65 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 66 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
 | 67 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 | 68 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 |
 | 69 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 |
 | 70 | [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 |
-| 71 | [Mais ninguém](https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI) | [Mr\. Soulja](https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Mais ninguém](https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy) | 2:59 |
-| 72 | [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 |
+| 71 | [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 |
+| 72 | [Mais ninguém](https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI) | [Mr\. Soulja](https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Mais ninguém](https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy) | 2:59 |
 | 73 | [Foca Em Mim](https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV) | [Aciara](https://open.spotify.com/artist/2YTyLANKeASYcBm1wJadNI), [South](https://open.spotify.com/artist/4iIARK2uospivls7spnIw9) | [Foca Em Mim](https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb) | 2:56 |
 | 74 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 |
 | 75 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
 
-Snapshot ID: `MCw4NzNkMjU0MWY3OGZkNTM1NDBjODk1MzM0MmY2YjM4NWY2ZjBiN2Vk`
+Snapshot ID: `MCxjYmY2YjViNWM4YTI0NDcwZGYzZmZhY2QwMTM4MTU2YThlMDBkMmNi`

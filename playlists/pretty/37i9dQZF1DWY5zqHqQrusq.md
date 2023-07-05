@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,577 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,614 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 32 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 |
 | 33 | [See Me](https://open.spotify.com/track/7eaKAVoEqeo98PBEIsgLM0) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Fallin' Apart](https://open.spotify.com/album/7sTMUZfjsk7CjmCybDP1nX) | 4:20 |
 | 34 | [Lock me](https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Lock me](https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL) | 2:56 |
-| 35 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/6ncAWPMP3cxAmiwN6SI8ca) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:53 |
+| 35 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor Noah](https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V) | 2:53 |
 | 36 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 |
 | 37 | [Alive Again](https://open.spotify.com/track/3wrUpaoR6jm1Z99kxuUyGk) | [Sandra Solit](https://open.spotify.com/artist/040yz8zntFdRJqeOynxEBl) | [Alive Again](https://open.spotify.com/album/6q4Lu34c463AMK6sV4IgPG) | 3:36 |
 | 38 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 |
 | 50 | [time \(with my ex\)](https://open.spotify.com/track/3vdmUmL9RzhrQTD67w5dl6) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:30 |
 
-Snapshot ID: `MCwwNTI3ZGIzMWJmNmE0NjViZjUyYjYyNDk3YWQwNmIxOGQ2ZTcwMWMx`
+Snapshot ID: `MCw3ODdlOTU1ZjM1ZGZiYzBjOTBlNTMwYzk4MzJiOGU2ZDgxYjMwZWVl`

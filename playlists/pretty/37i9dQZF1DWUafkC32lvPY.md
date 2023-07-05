@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 884 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 44 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
 | 45 | [Trust](https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j) | [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [Quiet Process](https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc) | 2:48 |
 | 46 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 |
-| 47 | [Géminis](https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:17 |
-| 48 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |
+| 47 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
+| 48 | [Géminis](https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:17 |
 | 49 | [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 |
-| 50 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
+| 50 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |
 
-Snapshot ID: `MCwwZTA1NDk0NzNhY2JhNTRlZjFlYzc4MGUyZTEzZDU4ZTdmZGNlZDMy`
+Snapshot ID: `MCw4MDBjZDM0M2Q5NDVhZmU5YzcyZmRiY2FhZGZlMDFhMjQwNjBjZWJj`

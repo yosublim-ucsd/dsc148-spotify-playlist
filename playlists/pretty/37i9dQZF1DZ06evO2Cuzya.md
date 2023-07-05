@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,114 likes - 27 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,234 likes - 27 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 26 | [Under / Over](https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:21 |
 | 27 | [Full machine](https://open.spotify.com/track/6hPippCCh6sNjUbZBYU0LW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:15 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDA3MWJjNTQyMjA4NDIzOTcxZDI2NTQ2YmZlNjYyNDVjNw==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDAyMDllMjQ4YWU0MTExN2M3MTBmZmZlYmUyMmMxOTQ1YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 236 songs - 15 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 235 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,6 +243,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 233 | [Before Today](https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/2mKMc9g06B2uYTaYRYqpAk) | 4:18 |
 | 234 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 |
 | 235 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 |
-| 236 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 |
 
-Snapshot ID: `OTM4LGQ4MDhlMWFlMGQzMDVlMjlkZmYyMzVkMTU1ZjBkMTAwZWRkZjUzMGQ=`
+Snapshot ID: `OTM5LGZlODA5YTQ3YTJhZWIxNzYzYWMxMWQ2NzkyNzE2ZjU5MTFjM2MxODc=`

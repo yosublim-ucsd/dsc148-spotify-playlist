@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 675453,
+  "num_followers": 675645,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjE3NzAyNDg1MWUwMTJiMzgxMjRhZTM2Njg1Yjc2ZTQ4ZjQyNGVj",
+  "snapshot_id": "MCw3NWM3YjllMTY1NjU1MjY1NTI2OTM5NTU0MGE3MDkyNWUzZjY2YWYw",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Black Smoke Rising",
-      "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 249066,
       "name": "If Today Was Your Last Day",
       "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Black Smoke Rising",
+      "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Perdida",
-        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Black Widow",
         "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 292506,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
     },
     {
       "added_at": "2023-06-30 04:01:00",

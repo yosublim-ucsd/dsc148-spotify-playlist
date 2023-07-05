@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 267217,
+  "num_followers": 267403,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODgwZTEyMzYxOTU0ODNkNGY3ZDU5MjgyYTMyMDlhMjczMWYyZDFh",
+  "snapshot_id": "MCw3MDg5OGMxOGI2MWMzYjU0OTI4ZmFiNGIwNTBhNDA3MmJkMTk0MjIw",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Things That Fade",
+        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
+      },
+      "artists": [
+        {
+          "name": "Greeen Linez",
+          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
+        }
+      ],
+      "duration_ms": 251779,
+      "name": "Hibiscus Pacific",
+      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Sessions: Star Guardian Taliyah",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 212079,
       "name": "Courtwalk",
       "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Things That Fade",
-        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
-      },
-      "artists": [
-        {
-          "name": "Greeen Linez",
-          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
-        }
-      ],
-      "duration_ms": 251779,
-      "name": "Hibiscus Pacific",
-      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Televised Tragedies",
-        "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 97906,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 232473,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Televised Tragedies",
+        "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+        "name": "Us Ephemeral (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
       },
       "artists": [
         {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+      "duration_ms": 269538,
+      "name": "Us Ephemeral (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Us Ephemeral (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
       },
       "artists": [
         {
-          "name": "Vitesse X",
-          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
         }
       ],
-      "duration_ms": 269538,
-      "name": "Us Ephemeral (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1279,26 +1275,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Presentere Fine Design (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
       "artists": [
         {
-          "name": "slow//reverb",
-          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
         },
         {
-          "name": "Ryan Celsius Sounds",
-          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
-        },
-        {
-          "name": "Ralph Rodolen",
-          "url": "https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO"
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Presentere Fine Design - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1319,18 +1311,26 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+        "name": "Presentere Fine Design (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
       "artists": [
         {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+          "name": "slow//reverb",
+          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+        },
+        {
+          "name": "Ryan Celsius Sounds",
+          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+        },
+        {
+          "name": "Ralph Rodolen",
+          "url": "https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+      "duration_ms": 208000,
+      "name": "Presentere Fine Design - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
-      },
-      "artists": [
-        {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
-        }
-      ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0i6dkZajDnsCJH1BRaaHj1"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 212210,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/0gcu9pxAeLiyQlmURLH4zD"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+      },
+      "artists": [
+        {
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+        }
+      ],
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Wish We Were Sightseers",
         "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
-      },
-      "artists": [
-        {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
-      "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "TV Party",
         "url": "https://open.spotify.com/album/6Pydwu1g04gbk19Pt5Ws6q"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1655,6 +1639,38 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
+      },
+      "artists": [
+        {
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1695,22 +1711,6 @@
       "duration_ms": 182192,
       "name": "Cry Again",
       "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Swing Tournament",
-        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
-      },
-      "artists": [
-        {
-          "name": "US Golf 95",
-          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2022-11-04 06:07:07",

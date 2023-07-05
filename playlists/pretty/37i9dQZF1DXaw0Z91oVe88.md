@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,566 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,568 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 |
 | 50 | [Is It Bearable?](https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ) | [Monni](https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb) | [Is It Bearable?](https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q) | 3:38 |
 
-Snapshot ID: `MCwwOTY0YjIwY2Q5OGE2ODI4OWY3ZTgwMGExMmZmODBiYzg4ZTg0N2Vk`
+Snapshot ID: `MCxjMmZmM2UwOWI0ZDQ4NWJhY2YxYjM2ODU4NjVkOWYxN2E0NzBhNjJj`

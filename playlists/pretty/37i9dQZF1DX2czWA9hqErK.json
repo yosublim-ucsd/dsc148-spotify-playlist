@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 418426,
+  "num_followers": 418461,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTc5M2U0MDhhMjJjOTYzY2NjNmY0ZWUwMDAxNTBkMTcwMTIwYmJk",
+  "snapshot_id": "MCw3Y2NlMGFmNWE4YWM5YTdhYzFhNTJjOWFkYTFlZGRkMTM5Y2RhMGZl",
   "tracks": [
     {
       "added_at": "2023-06-30 15:26:11",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-30 15:26:11",
       "album": {
-        "name": "you don't love me anymore",
-        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "you don't love me anymore",
-      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
+        "name": "you don't love me anymore",
+        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "you don't love me anymore",
+      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
     },
     {
       "added_at": "2023-06-30 15:26:11",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-06-30 15:26:11",
       "album": {
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 252657,
+      "name": "Innocence and Sadness",
+      "url": "https://open.spotify.com/track/3UvLwVk149N2YDwTzpGM2b"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
         "name": "Silly Me",
         "url": "https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 249494,
       "name": "Block me out",
       "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 252657,
-      "name": "Innocence and Sadness",
-      "url": "https://open.spotify.com/track/3UvLwVk149N2YDwTzpGM2b"
     },
     {
       "added_at": "2023-06-30 15:26:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-30 15:26:11",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 225194,
       "name": "Dear Reader",
       "url": "https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-06-30 15:26:11",
@@ -1291,6 +1291,22 @@
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2023-06-30 15:26:11",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-06-30 15:26:11",
       "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
-        "name": "Face in the Crowd",
-        "url": "https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 204503,
-      "name": "Face in the Crowd",
-      "url": "https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl"
     },
     {
       "added_at": "2023-06-30 15:26:11",
@@ -1479,22 +1463,6 @@
     {
       "added_at": "2023-06-30 15:26:11",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -1511,6 +1479,38 @@
     {
       "added_at": "2023-06-30 15:26:11",
       "album": {
+        "name": "Face in the Crowd",
+        "url": "https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 204503,
+      "name": "Face in the Crowd",
+      "url": "https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
         "name": "Keep Me (Acoustic)",
         "url": "https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 163000,
       "name": "Keep Me - Acoustic",
       "url": "https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7"
+    },
+    {
+      "added_at": "2023-06-30 15:26:11",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
     },
     {
       "added_at": "2023-06-30 15:26:11",
@@ -1619,22 +1635,6 @@
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
-    },
-    {
-      "added_at": "2023-06-30 15:26:11",
-      "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 165835,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
     }
   ],
   "unique_name": "Easy",

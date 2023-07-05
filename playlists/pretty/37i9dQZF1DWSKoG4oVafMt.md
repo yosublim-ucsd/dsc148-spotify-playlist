@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,287 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,412 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 46 | [PYAAR DIYA GALLAN](https://open.spotify.com/track/7LWWWB3Ht5L3bW9JpqMwCI) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 2:28 |
 | 47 | [Nikki Nikki Gall](https://open.spotify.com/track/5agAgnkQhRu7Kk5DJUBSwk) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4hGAjzQsnLCBnXDddOjOdD) | 2:52 |
 | 48 | [Suit](https://open.spotify.com/track/5hP26tC5gV42IwhYMQ4nLA) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:27 |
-| 49 | [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 |
+| 49 | [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 |
 | 50 | [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 |
 | 51 | [Sifat](https://open.spotify.com/track/4RxSQlQNHdlotqEq2GLpNI) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Sifat](https://open.spotify.com/album/4OTSOeM7hmbCXMh3i4LHVu) | 2:26 |
 | 52 | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 71 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 72 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCwzZTBmNDI0OTg4NDk0NjJiZTFlOWU4NWI5MDE4Nzg1NDA4OGJlNzM4`
+Snapshot ID: `MCwzMTQ0YzdjZDI2ZDM2YzNkMjJlN2I4MzEzZmNmZGUwNTM1ZWNlMTEw`

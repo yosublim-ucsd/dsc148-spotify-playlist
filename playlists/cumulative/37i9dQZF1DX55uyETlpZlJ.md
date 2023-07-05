@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-123 songs - 6 hr 55 min
+124 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 |  |
 | [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 |  |
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 |  |
+| [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 |  |
 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 |  |
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 | 2023-07-04 |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 |  |
@@ -58,7 +59,7 @@
 | [Kanasina Doni](https://open.spotify.com/track/75Ra0OjXkUkfhA49fgJWhx) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kanasina Doni](https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k) | 4:02 | 2023-06-22 |  |
 | [Kanasina Lokadi](https://open.spotify.com/track/0i7L9gNz2EmHtFv9LrPGXD) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Kanasina Lokadi](https://open.spotify.com/album/3TluwCQVpKR7DBG5zFMdTr) | 2:11 | 2023-01-17 | 2023-06-08 |
 | [Kanchana](https://open.spotify.com/track/5k3rN09gDr1nr22wBR42zm) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [shi om](https://open.spotify.com/artist/1E6vRpChFEVeD8sl19ZEkX) | [Kanchana](https://open.spotify.com/album/6BUwtDXUkPp7yP3uplAvU7) | 4:20 | 2022-12-15 |  |
-| [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 | 2023-06-19 |  |
+| [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 | 2023-06-19 | 2023-07-05 |
 | [Khayali](https://open.spotify.com/track/4yQSmhi8kCpEoNAN4PCELf) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Khayali](https://open.spotify.com/album/6QNuYLe3fEVm43H8ADzTTU) | 3:09 | 2023-04-22 | 2023-06-08 |
 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 | 2022-09-16 |  |
 | [Legini Legini](https://open.spotify.com/track/2TXoPenrvYt9Uir0fWxC2y) | [Prasanna Bhoojashettar](https://open.spotify.com/artist/4OhmZdanQ6mk5jNgVuI0cy) | [Legini Legini](https://open.spotify.com/album/5shEBUWgQZ9JsHBZ2yQpRF) | 3:39 | 2023-01-04 | 2023-06-08 |

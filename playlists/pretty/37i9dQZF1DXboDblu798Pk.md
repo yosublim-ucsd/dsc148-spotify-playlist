@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,714 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,707 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 77 | [Scars](https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Scars](https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY) | 3:12 |
 | 78 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
 
-Snapshot ID: `MCw1ZWRmNTMwODA4ZTU2NzZkNDljYTY1Zjg4MDIxMmJhZTU5YjgxZjMx`
+Snapshot ID: `MCw2MTdjMTVkNzYxMDQ0YTUzZTUyYTM4NDg2YWY4MjYxNjgzNDNiOTRl`

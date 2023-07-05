@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18842,
+  "num_followers": 18841,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzI3NmQwMGYxNDRiMmRhNzA1OTZmMDU1ODFkMjBkYTcwMTc1YTlj",
+  "snapshot_id": "MCw3YTM1NmI2NTEzOGY4NmVhM2E2ODliYTg1MGZiZDllZTdiNjc1NWU0",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 131346,
-      "name": "Petiatil Cx Htdui",
-      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "#17",
-      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 269240,
       "name": "Ralome",
       "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
-    },
-    {
       "added_at": "2022-08-03 03:18:13",
       "album": {
         "name": "Biologica, Volume One (Water)",
@@ -823,6 +807,22 @@
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2021-09-10 04:35:25",

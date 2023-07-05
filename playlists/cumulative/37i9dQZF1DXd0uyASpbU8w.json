@@ -4904,8 +4904,8 @@
           "url": "https://open.spotify.com/artist/3H9bXuntn41sNyZkXaot4N"
         },
         {
-          "name": "DE ROSE",
-          "url": "https://open.spotify.com/artist/7zewXpoMplw1vBAaBDWRtJ"
+          "name": "De Rose",
+          "url": "https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL"
         }
       ],
       "date_added": "2023-06-30",
@@ -6749,7 +6749,7 @@
     },
     {
       "album": {
-        "name": "Sisekakeni Babies (feat. Skillz Musiq)",
+        "name": "Sisekakeni Babies (feat. Skillz Musiq & RudeBoyz)",
         "url": "https://open.spotify.com/album/3rgyWDy5SH3WLGRHZc2kiA"
       },
       "artists": [
@@ -6760,13 +6760,17 @@
         {
           "name": "Skillz Musiq",
           "url": "https://open.spotify.com/artist/7m5wTG7hotsoPNRoAD2win"
+        },
+        {
+          "name": "Rudeboyz",
+          "url": "https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk"
         }
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 343414,
-      "name": "Sisekakeni Babies (feat. Skillz Musiq)",
+      "name": "Sisekakeni Babies (feat. Skillz Musiq & RudeBoyz)",
       "url": "https://open.spotify.com/track/30KX5p3u1xN8TF83eGY0bQ"
     },
     {

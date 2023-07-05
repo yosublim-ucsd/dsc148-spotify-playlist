@@ -1,12 +1,12 @@
 {
   "description": "Soul classics to keep you company in the kitchen.",
-  "num_followers": 28614,
+  "num_followers": 28631,
   "original_name": "Cooking with Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2ZkMzVkZjgxYTU1YTE0NDkxNTJmNzllYTM0N2RlYTZiZjAxNWIy",
+  "snapshot_id": "MCw0MmVmYWFhMmY3M2NhODU4NTZiMGI4YjMzZTM4MDNkZDYzNTliZjA3",
   "tracks": [
     {
       "added_at": "2022-03-28 20:22:14",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Please, Please, Please",
         "url": "https://open.spotify.com/album/3LtxQmfIb10p6xKrPObqgv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 153706,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/7bFfjakySYhojqSPrAPtc3"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Sweet Soul Music",
         "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 128173,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
     },
     {
       "added_at": "2022-03-28 20:22:14",

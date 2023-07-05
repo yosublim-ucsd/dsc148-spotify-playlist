@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,131 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,169 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 39 | [PPAP](https://open.spotify.com/track/43VQeu11B8muwxxmTgklyI) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [The Race](https://open.spotify.com/album/7D6SzmtTlyIRrTwsyp7VA9) | 2:09 |
 | 40 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 |
 | 41 | [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 |
-| 42 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 |
-| 43 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 |
+| 42 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 |
+| 43 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 |
 | 44 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 |
 | 45 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 46 | [RAKURAI](https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/1pfgn03W3aBkPzzUKaQFy6) | 2:44 |
 | 47 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
 | 48 | [B.G.P](https://open.spotify.com/track/7xD6PhbwNjeu5Vm5ewFRaX) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/09w0tkXVIM91R7cLPUC4hq) | 2:21 |
 | 49 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 |
-| 50 | [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ) | 1:44 |
+| 50 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 |
 
-Snapshot ID: `MCxiNzFlZTNjMjA3MDA3NjA5MzdiOWZiOTM2MjA1ZjJjYmFkNWNhNzFl`
+Snapshot ID: `MCwyMGI0MmJiOTFiZTllYzEwODVmNjZmYzViNGYxOWI4Njg2N2ZjZjJk`

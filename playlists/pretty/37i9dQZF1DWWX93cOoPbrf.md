@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,843 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,987 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 34 | [Modo Bélico](https://open.spotify.com/track/2GL8PLvJV5DcHYCghqHOVZ) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Modo Bélico](https://open.spotify.com/album/3B8WeSDGvszdjUNSgilNOt) | 2:55 |
 | 35 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
 | 36 | [LA Dank](https://open.spotify.com/track/1yuO5XZmlvwGk9VtSoEhzW) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [LA Dank](https://open.spotify.com/album/0TRaJBVbMxyxbI5TkDvX88) | 2:27 |
-| 37 | [Texas Boy](https://open.spotify.com/track/4AEZNxqT9rjTLfALIob5BT) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [hans el oso](https://open.spotify.com/artist/3cQwFerCvW5615hPfQ3hB0) | [Texas Boy](https://open.spotify.com/album/5qZ4bOmvrtSk8B8IYJlB2y) | 2:36 |
+| 37 | [Texas Boy](https://open.spotify.com/track/4AEZNxqT9rjTLfALIob5BT) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Texas Boy](https://open.spotify.com/album/5qZ4bOmvrtSk8B8IYJlB2y) | 2:36 |
 | 38 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
 | 39 | [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 |
 | 40 | [Entre las sombras](https://open.spotify.com/track/4Yd4lmc6S2YMMeGGOhPoEV) | [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Entre las sombras](https://open.spotify.com/album/3xp9sk81bQeCvXLsBGNGAB) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [SOMOS MAYIZA](https://open.spotify.com/track/15owZZmQfaIUBNVU8ZzSQ1) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [SOMOS MAYIZA](https://open.spotify.com/album/7q167LUIDIEtan68AvwTi0) | 2:57 |
 | 75 | [Juan Ayon](https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Rolitas De Oro](https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox) | 4:18 |
 
-Snapshot ID: `MCwzNjgzNTNlNmU4YzJjMTEwZTcyZjk2NjkxYjQyNDExNDJjMjgzNTc2`
+Snapshot ID: `MCw3MDhlNDM0YmQ4YTllODkyZTQ5NWZkODUyMjVhYzBiNDI2MTBmMzYz`

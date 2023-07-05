@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 160774,
       "name": "20 Gramas",
       "url": "https://open.spotify.com/track/3VYKBcUHoSM6TqdSYpeDd0"
@@ -2092,6 +2092,24 @@
       "duration_ms": 263327,
       "name": "Asa Branca (Rennan & Douth! Remix)",
       "url": "https://open.spotify.com/track/0NdY6ZyUighhipcIBMImGy"
+    },
+    {
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "album": {
@@ -5758,7 +5776,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 157170,
       "name": "Chorei na Vaquejada",
       "url": "https://open.spotify.com/track/6xRDvureEBwHgwAYDufbJL"
@@ -5942,6 +5960,48 @@
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/3d1im1pw3WLuEty2k9XzTr"
+    },
+    {
+      "album": {
+        "name": "Virus Love",
+        "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232195,
+      "name": "Close Friends",
+      "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
     },
     {
       "album": {
@@ -6751,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "HER MIND",
+        "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131050,
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
       },
@@ -7358,6 +7436,32 @@
       "duration_ms": 162959,
       "name": "Desatola Bandida",
       "url": "https://open.spotify.com/track/0ZccBMldmHjkuH8TAnKW3Z"
+    },
+    {
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Rapper Gregory",
+          "url": "https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153863,
+      "name": "DESCE LICOR",
+      "url": "https://open.spotify.com/track/0BO9LDxYu9L0I8eNHNkg5x"
     },
     {
       "album": {
@@ -8298,7 +8402,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 137848,
       "name": "Duas",
       "url": "https://open.spotify.com/track/6MpYP4LUSb1MWfpsdToKyH"
@@ -8500,6 +8604,24 @@
       "duration_ms": 95582,
       "name": "EI AMOR OLHA BEM NA MINHA CARA - Miury Dj Remix",
       "url": "https://open.spotify.com/track/0EpV2cWiUe2ruTxEy9ho9u"
+    },
+    {
+      "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459230,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
     },
     {
       "album": {
@@ -11342,7 +11464,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 112008,
       "name": "Garota Absurda",
       "url": "https://open.spotify.com/track/23Dssnc0RVjsICs9JNGRZX"
@@ -14628,7 +14750,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -16545,6 +16667,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 - FASE 1",
+        "url": "https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175468,
+      "name": "MEIO TERMO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zUFA8l78k4tCmoVuGtV8z"
+    },
+    {
+      "album": {
         "name": "Mel do Egito",
         "url": "https://open.spotify.com/album/1K2DSlKbEWe1BYgbIzUck1"
       },
@@ -17828,7 +17968,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 136062,
       "name": "MTG - PISTA TOMA",
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
@@ -18838,7 +18978,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
@@ -19092,6 +19232,32 @@
       "duration_ms": 107076,
       "name": "Novinha Malada do Insta",
       "url": "https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9"
+    },
+    {
+      "album": {
+        "name": "Novinho S\u00f3 Tem Nome x Qual Que \u00e9 o Cara",
+        "url": "https://open.spotify.com/album/56n1i8EW2DvWLAb1ghKoO5"
+      },
+      "artists": [
+        {
+          "name": "Dj VN Maestro",
+          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+        },
+        {
+          "name": "MC Novin",
+          "url": "https://open.spotify.com/artist/19ZyFeTvmbspdBrgMxAXhx"
+        },
+        {
+          "name": "Mc Ster",
+          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92572,
+      "name": "Novinho S\u00f3 Tem Nome x Qual Que \u00e9 o Cara",
+      "url": "https://open.spotify.com/track/2fOWhL62ynmDGKZQVDE6Na"
     },
     {
       "album": {
@@ -21045,6 +21211,28 @@
     },
     {
       "album": {
+        "name": "Passarinho",
+        "url": "https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157317,
+      "name": "Passarinho",
+      "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
+    },
+    {
+      "album": {
         "name": "Passe Livre",
         "url": "https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd"
       },
@@ -22800,7 +22988,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 572760,
       "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso - Instrumental",
       "url": "https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW"
@@ -23024,7 +23212,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
@@ -27916,7 +28104,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 192026,
       "name": "Tropa do Faz Acontece",
       "url": "https://open.spotify.com/track/5wVWXgOQN3tNUWIwTitZ87"
@@ -29667,6 +29855,24 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea Me Conquistou",
+        "url": "https://open.spotify.com/album/0hfg15oMjgDAXKPxWx1xiZ"
+      },
+      "artists": [
+        {
+          "name": "Ytalo Paulo",
+          "url": "https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186692,
+      "name": "Voc\u00ea Me Conquistou",
+      "url": "https://open.spotify.com/track/0ups9FIuseHpBqYaEyizBS"
+    },
+    {
+      "album": {
         "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
         "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
       },
@@ -30394,6 +30600,24 @@
       "duration_ms": 114461,
       "name": "Work",
       "url": "https://open.spotify.com/track/4ancLoAc7Xuuxw66v99a70"
+    },
+    {
+      "album": {
+        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
+      },
+      "artists": [
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "World Class Sinner / I\u2019m A Freak",
+      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
     },
     {
       "album": {

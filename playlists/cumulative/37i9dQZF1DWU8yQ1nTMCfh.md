@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Usted Señalemelo
 
-222 songs - 12 hr 24 min
+223 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Punta Diamante](https://open.spotify.com/track/6ZM6qRRY9YUER561TWGENV) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:42 | 2022-04-15 | 2022-12-10 |
 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 | 2022-04-15 | 2023-01-28 |
 | [Que Sigas Bien](https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Cada Segundo Dura Una Eternidad](https://open.spotify.com/album/456MmGpEpuDN6zIeSYgr99) | 3:43 | 2022-12-16 | 2023-05-07 |
+| [Querernos De Nuevo](https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Querernos De Nuevo](https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk) | 3:51 | 2023-06-30 |  |
 | [Quetzal](https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:10 | 2023-05-12 |  |
 | [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 2:58 | 2022-04-15 | 2023-02-11 |
 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 | 2023-03-21 |  |
@@ -213,7 +214,7 @@
 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 | 2023-03-03 | 2023-04-15 |
 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 | 2023-06-02 |  |
 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 | 2022-12-16 | 2023-04-16 |
-| [Trebol](https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Trebol](https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7) | 2:42 | 2023-04-14 |  |
+| [Trebol](https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Trebol](https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7) | 2:42 | 2023-04-14 | 2023-07-05 |
 | [Tres de la Mañana](https://open.spotify.com/track/08eri7cwIdWuJrlFrcPH3M) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [El Shirota \(ESH002\)](https://open.spotify.com/album/0tC6X64WVn71CSRDeLljQ8) | 4:35 | 2022-04-15 | 2022-12-10 |
 | [True Nature](https://open.spotify.com/track/7u4CFjfUADO2LTRcFdEimj) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:22 | 2023-04-21 | 2023-07-01 |
 | [Trueno](https://open.spotify.com/track/7kBi255cSaTNYI6bNq3Yf3) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Trueno](https://open.spotify.com/album/0jqnLzo96FODjGzBeXFmXe) | 4:20 | 2022-04-15 | 2022-12-10 |

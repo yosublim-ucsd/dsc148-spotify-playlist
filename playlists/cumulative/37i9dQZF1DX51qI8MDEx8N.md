@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-166 songs - 7 hr 10 min
+169 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,14 +131,17 @@
 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 | 2022-04-28 |  |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-28 | 2022-07-21 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-28 |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [Sparrow](https://open.spotify.com/track/2zFYk6wwcF2fTXrvsMaeEP) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Sparrow](https://open.spotify.com/album/0vUq0BxoKFTGQTSK5ChdXM) | 2:10 | 2022-04-28 |  |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-20 |  |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-28 | 2022-08-22 |
 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-04-28 |  |
 | [Strangers](https://open.spotify.com/track/1oGdujU6RNUEl0R9DAFG9Q) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Strangers](https://open.spotify.com/album/3o5yEzrxV3RBMo5n2WoMJh) | 4:05 | 2022-04-28 |  |
+| [Summer In Stockholm](https://open.spotify.com/track/0VKpxGnMPVkTRjoZ3Hes1w) | [Myron Andersen](https://open.spotify.com/artist/3sZcw1QKEb35aR9fur7WNo) | [Summer In Stockholm](https://open.spotify.com/album/7eKxpy5xvlt2iMtbAuD6Gn) | 2:58 | 2023-07-04 |  |
 | [Sun Breaks Through](https://open.spotify.com/track/6Ad239Df39VssAdSMTkc02) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Sun Breaks Through](https://open.spotify.com/album/66FNyAjg9kupMwNvaJiqO6) | 1:58 | 2022-04-28 |  |
 | [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 | 2023-06-19 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-04-28 |  |
+| [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-04 |  |
 | [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-04-28 |  |
 | [The Beginning](https://open.spotify.com/track/3y2v4q1x9MyPQ4O12IpMUL) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [The Beginning](https://open.spotify.com/album/1su3KOYInrFNm0jFL5hoH0) | 1:59 | 2022-04-28 |  |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2022-04-28 |  |

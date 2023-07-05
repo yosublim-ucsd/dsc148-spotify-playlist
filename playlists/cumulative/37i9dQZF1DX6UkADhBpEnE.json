@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "I just feel good (Prod. TeddyLoid)",
+        "url": "https://open.spotify.com/album/3ikOp2SEvDBLv3sCXOT4BQ"
+      },
+      "artists": [
+        {
+          "name": "Ami Suzuki",
+          "url": "https://open.spotify.com/artist/5txXmJzhOCjswudIed7MAI"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239062,
+      "name": "I just feel good - Prod. TeddyLoid",
+      "url": "https://open.spotify.com/track/5fXrkLjLdVug67ObwAwf1L"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -2325,6 +2343,28 @@
     },
     {
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+    },
+    {
+      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -2596,7 +2636,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 276333,
       "name": "Open The Window feat. JQ from Nulbarich",
       "url": "https://open.spotify.com/track/4utjbNJwBD9sy817QOP1wc"
@@ -2952,7 +2992,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
@@ -3792,7 +3832,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
@@ -4353,6 +4393,28 @@
     },
     {
       "album": {
+        "name": "\u305f\u3060\u597d\u304d\u3068\u8a00\u3048\u305f\u3089",
+        "url": "https://open.spotify.com/album/55ZV4D27Riv853PrtxV9Xd"
+      },
+      "artists": [
+        {
+          "name": "KERENMI",
+          "url": "https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn"
+        },
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208054,
+      "name": "\u305f\u3060\u597d\u304d\u3068\u8a00\u3048\u305f\u3089",
+      "url": "https://open.spotify.com/track/1H0l6ZyNQtlJPT5fEx22BQ"
+    },
+    {
+      "album": {
         "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
         "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
       },
@@ -4674,7 +4736,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 190521,
       "name": "\u30eb\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im"
@@ -4876,6 +4938,42 @@
       "duration_ms": 255918,
       "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
       "url": "https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN"
+    },
+    {
+      "album": {
+        "name": "\u7a7a\u3063\u307d",
+        "url": "https://open.spotify.com/album/634h0kPrtxtHGWWFISuNEh"
+      },
+      "artists": [
+        {
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191588,
+      "name": "\u7a7a\u3063\u307d",
+      "url": "https://open.spotify.com/track/6UqNgr9EApSmi0SKyY7SWK"
+    },
+    {
+      "album": {
+        "name": "\u7b11\u3044\u8a71\u306e\u591c",
+        "url": "https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY"
+      },
+      "artists": [
+        {
+          "name": "OYAT",
+          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280779,
+      "name": "\u7b11\u3044\u8a71\u306e\u591c - album ver.",
+      "url": "https://open.spotify.com/track/2x953wBThParvOKoGF0XBR"
     },
     {
       "album": {

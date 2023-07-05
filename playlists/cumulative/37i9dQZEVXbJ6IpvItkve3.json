@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -6963,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d5\u05de\u05d9\u05d2\u05d0\u05d3",
+        "url": "https://open.spotify.com/album/4u3mXanonihj72DbXD6IX4"
+      },
+      "artists": [
+        {
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195487,
+      "name": "\u05d0\u05d5\u05de\u05d9\u05d2\u05d0\u05d3",
+      "url": "https://open.spotify.com/track/6hZ193Uo3duDjO6UYtLWNd"
+    },
+    {
+      "album": {
         "name": "\u05e6\u05d5 \u05d4\u05e9\u05e2\u05d4 - \u05e6\u05d5 \u05e9\u05e0\u05d9",
         "url": "https://open.spotify.com/album/3pWGjr7mI83VwbBvYhzuhT"
       },
@@ -7592,7 +7610,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 155357,
       "name": "\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/5qbezFG8xCtoyUfOcjHUXv"
@@ -10683,6 +10701,32 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d7\u05d2\u05d5\u05d2 \u05d5\u05de\u05d2\u05d5\u05d2",
+        "url": "https://open.spotify.com/album/6tBtsrQRiZ46WSNnTVR9Ld"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05e1\u05d0\u05d5\u05dc",
+          "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
+        },
+        {
+          "name": "Ella Lee",
+          "url": "https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo"
+        },
+        {
+          "name": "\u05d4\u05e4\u05e9\u05d5\u05d8\u05e2",
+          "url": "https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "\u05dc\u05d7\u05d2\u05d5\u05d2 \u05d5\u05de\u05d2\u05d5\u05d2",
+      "url": "https://open.spotify.com/track/7do5HTFZLs7swQHiBe8rQz"
+    },
+    {
+      "album": {
         "name": "\u05e1\u05d8\u05d8\u05d5\u05e1",
         "url": "https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6"
       },
@@ -12418,7 +12462,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 216809,
       "name": "\u05e1\u05ea\u05dc\u05d1\u05d8 \u05d1\u05e7\u05d9\u05d1\u05d5\u05e5",
       "url": "https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7"
@@ -12986,7 +13030,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 173602,
       "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
       "url": "https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm"
@@ -13200,7 +13244,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "\u05e6\u05e2\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1FyfEuRtAFpuItWcuouxkV"

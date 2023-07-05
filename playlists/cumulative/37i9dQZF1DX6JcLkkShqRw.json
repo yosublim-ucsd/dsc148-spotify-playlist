@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 157090,
       "name": "150 Mil",
       "url": "https://open.spotify.com/track/2DFx3pZrvo4Tp3BFU2mHt1"
@@ -1426,6 +1426,24 @@
       "duration_ms": 196842,
       "name": "Antes Que Salga el Sol",
       "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
+    },
+    {
+      "album": {
+        "name": "Anti Rana",
+        "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189216,
+      "name": "Anti Rana",
+      "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
     },
     {
       "album": {
@@ -2697,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "Caba\u00f1a",
+        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/3TxnlrNBvTPlWBq4rGHMtd"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178836,
+      "name": "Caba\u00f1a",
+      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4s0xbHR2BZ0puy2H7eol9b"
       },
@@ -2770,7 +2810,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 214695,
       "name": "Caminemos de la Mano",
       "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
@@ -2944,7 +2984,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
@@ -4010,7 +4050,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
@@ -9589,6 +9629,44 @@
     },
     {
       "album": {
+        "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
+        "url": "https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN"
+      },
+      "artists": [
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "3TRIPLE J",
+          "url": "https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR"
+        },
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341266,
+      "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
+      "url": "https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5"
+    },
+    {
+      "album": {
         "name": "Louis Vuitton",
         "url": "https://open.spotify.com/album/4t3sXSCawi8FXH0aQEyUAW"
       },
@@ -10478,6 +10556,28 @@
       "duration_ms": 350666,
       "name": "Me Tienen Envidia - Remix",
       "url": "https://open.spotify.com/track/4hPGEu9i6x5drlbUfv3t3m"
+    },
+    {
+      "album": {
+        "name": "Me Veo Rico",
+        "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164724,
+      "name": "Me Veo Rico",
+      "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
     },
     {
       "album": {
@@ -11696,6 +11796,28 @@
       "duration_ms": 182603,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
+    },
+    {
+      "album": {
+        "name": "MY BLOOD",
+        "url": "https://open.spotify.com/album/17fGcXzS7n8CA7hKvKqYYU"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "MY BLOOD",
+      "url": "https://open.spotify.com/track/4hxBeVfWIj1NsqJYScSd5C"
     },
     {
       "album": {
@@ -13610,7 +13732,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
@@ -15439,6 +15561,32 @@
     },
     {
       "album": {
+        "name": "RICKY RICON",
+        "url": "https://open.spotify.com/album/2TBtnMTQ5WPxMBtCiNc1f5"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "RICKY RICON",
+      "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
+    },
+    {
+      "album": {
         "name": "SMILE BIX :)",
         "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
@@ -15546,6 +15694,28 @@
       "duration_ms": 191590,
       "name": "Rkt Session #2",
       "url": "https://open.spotify.com/track/1GaLuBLtsFPt7q5jIB9oHS"
+    },
+    {
+      "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173729,
+      "name": "RoCKSTAR 2.0",
+      "url": "https://open.spotify.com/track/3XsYMEJutxpTiNXXRvodQH"
     },
     {
       "album": {
@@ -15692,7 +15862,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 171134,
       "name": "Sabor A Miel",
       "url": "https://open.spotify.com/track/0Umk0kzKHlXsLw2NsP5IHE"
@@ -16290,7 +16460,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 200337,
       "name": "Si Quieren Frontear",
       "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
@@ -18796,7 +18966,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 194823,
       "name": "Una Noche Loca",
       "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
@@ -19610,6 +19780,28 @@
       "duration_ms": 195555,
       "name": "X5",
       "url": "https://open.spotify.com/track/6GiPJ61pvbekGilrzztD7n"
+    },
+    {
+      "album": {
+        "name": "XQ TAN SOLA?",
+        "url": "https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200073,
+      "name": "XQ TAN SOLA?",
+      "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"
     },
     {
       "album": {

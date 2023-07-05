@@ -1,12 +1,12 @@
 {
   "description": "Crowdpleasing classics for an easy, carefree day.",
-  "num_followers": 406972,
+  "num_followers": 408217,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjYxNzEwOWJjZDNlNGMyMTEwMjEyYmI2YWQxOTExNjUwZGMwMTAy",
+  "snapshot_id": "MCw4NGIxMDcxYmFkOWNlYWM5YTJlZjAyOGNjMjhhNTE3OGEyNGU1OTcx",
   "tracks": [
     {
       "added_at": "2023-03-23 19:38:22",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
         "name": "The Traveling Wilburys, Vol. 1",
         "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 199906,
       "name": "Doctor My Eyes",
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "The Best Of Don McLean",
         "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 515866,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Greatest Hits 1974-78",
-        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Scarecrow",
         "url": "https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 221626,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Greatest Hits 1974-78",
+        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 264405,
-      "name": "What Is Life - 2014 Remaster",
-      "url": "https://open.spotify.com/track/44fw7RulJyj7dGIi9qR86N"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Ultimate Collection: Dobie Gray",
         "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 237466,
       "name": "Drift Away - Single Version",
       "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 264405,
+      "name": "What Is Life - 2014 Remaster",
+      "url": "https://open.spotify.com/track/44fw7RulJyj7dGIi9qR86N"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Brothers And Sisters (Super Deluxe)",
-        "url": "https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 288160,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Chicago V (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235666,
       "name": "Saturday in the Park - 2002 Remaster",
       "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Brothers And Sisters (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 288160,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 265560,
       "name": "Stone in Love",
       "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 124866,
-      "name": "When Will I Be Loved",
-      "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Scarecrow",
         "url": "https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 174360,
       "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
       "url": "https://open.spotify.com/track/0lqfBvf1Gqmmt3l5Qeirlm"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 124866,
+      "name": "When Will I Be Loved",
+      "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
     },
     {
       "added_at": "2023-03-23 19:38:22",

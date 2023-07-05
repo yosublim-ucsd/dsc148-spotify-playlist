@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-64 songs - 3 hr 32 min
+65 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [The Lady and the Tiger](https://open.spotify.com/track/1jVGFo4Bw14GDGc1ht4G4n) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:55 | 2022-05-06 |  |
 | [The March Of The Black Queen \- Remastered 2011](https://open.spotify.com/track/3meWD39fJLCiIFKV6TFzSL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL) | 6:32 | 2023-03-21 |  |
 | [The Ultimate Showdown of Ultimate Destiny](https://open.spotify.com/track/0hgLHFyN9u3WqkK2ofpuUX) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Dinosaurchestra](https://open.spotify.com/album/4ZE05qOXBcWmItdv95gyiy) | 3:33 | 2022-08-01 |  |
+| [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2023-07-04 |  |
 | [Tombstone Road](https://open.spotify.com/track/1M3YQwUCFqT9yVfzckYkbt) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 2:46 | 2023-03-23 |  |
 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 | 2022-10-23 |  |
 | [Two Trucks](https://open.spotify.com/track/1s5A0u1dnAeVNur5nPkCpD) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 4:07 | 2022-09-07 |  |

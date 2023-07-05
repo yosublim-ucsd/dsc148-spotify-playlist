@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453552,
+  "num_followers": 453597,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzBiNDdmODRmMTk1YTQyYzY3N2ViOTg3ODJjOTdiMTExYjg4ZTE2",
+  "snapshot_id": "MCwwNGY2MjdkZDU1NDBiOWRhYThiZGZiZjA4NzYxYjVkMmNjODM5N2I5",
   "tracks": [
     {
       "added_at": "2023-06-23 04:58:57",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 163423,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 163423,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
     },
     {
       "added_at": "2023-06-23 04:58:57",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
-        "name": "Un d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Un d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
+        "name": "Un d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 202126,
+      "name": "Un d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
     },
     {
       "added_at": "2023-06-23 04:58:57",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
-        "name": "vivir en los dosmil",
-        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 142439,
-      "name": "vivir en los dosmil",
-      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 166016,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
+        "name": "vivir en los dosmil",
+        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "vivir en los dosmil",
+      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
     },
     {
       "added_at": "2023-06-23 04:58:57",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
+        "name": "me perdono",
+        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
         }
       ],
-      "duration_ms": 199173,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+      "duration_ms": 212685,
+      "name": "me perdono",
+      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
     },
     {
       "added_at": "2023-06-23 04:58:57",
@@ -1027,26 +1047,6 @@
       "duration_ms": 229566,
       "name": "Get Lost In The Music",
       "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
-        "name": "me perdono",
-        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "me perdono",
-      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
     },
     {
       "added_at": "2023-06-23 04:58:57",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
         "name": "Alej\u00e9monos",
         "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2023-06-23 04:58:57",
@@ -1491,6 +1491,54 @@
     {
       "added_at": "2023-06-23 04:58:57",
       "album": {
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
+        "name": "comoestasmiamor <3",
+        "url": "https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "comoestasmiamor <3",
+      "url": "https://open.spotify.com/track/3Pd7klN2VLVpHXnN7TdGZW"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Feel it Now",
+      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
+    },
+    {
+      "added_at": "2023-06-23 04:58:57",
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
       },
@@ -1519,54 +1567,6 @@
       "duration_ms": 158211,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
-        "name": "Estereomance",
-        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
-      },
-      "artists": [
-        {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
-        }
-      ],
-      "duration_ms": 255597,
-      "name": "Dung Ding Dang",
-      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Feel it Now",
-      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
-    },
-    {
-      "added_at": "2023-06-23 04:58:57",
-      "album": {
-        "name": "comoestasmiamor <3",
-        "url": "https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "comoestasmiamor <3",
-      "url": "https://open.spotify.com/track/3Pd7klN2VLVpHXnN7TdGZW"
     },
     {
       "added_at": "2023-06-23 04:58:57",

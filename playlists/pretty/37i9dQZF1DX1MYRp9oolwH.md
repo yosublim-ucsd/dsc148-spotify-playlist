@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,627 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,797 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 | 50 | [Nannaya Raasina](https://open.spotify.com/track/3tDLHXVoUrRqcHXkzqMz4r) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [18 Pages](https://open.spotify.com/album/3kimSSf3JVYLCxmewc22ra) | 4:37 |
 
-Snapshot ID: `MCxlZjQzYmFkNzNkOGFkMDE2ZDkxN2MwZDAxYzVjNjE3YWY0NTI2ZWMw`
+Snapshot ID: `MCw5ZmE2MmI2ZmI1MWMxZmUwMGIwYzQzMzRkMGI2OGQwMjkzN2Q5ZjJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,826 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,850 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 11 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 |
 | 12 | [Innastu Bekenna](https://open.spotify.com/track/7j4GNqlnygN7gXTun7CRdo) | [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21) | [Innastu Bekenna](https://open.spotify.com/album/4gHIhq2qAc7gHTeZqK6ihU) | 4:01 |
 | 13 | [Rain Chant](https://open.spotify.com/track/43DL71yvcNSP5ohKcNE1xC) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo), [Halakki Vokkaliga](https://open.spotify.com/artist/2YFrJUByqFWgxVps6hAiGD) | [Rain Chant](https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7) | 5:30 |
-| 14 | [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 |
+| 14 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 |
 | 15 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 |
 | 16 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 |
 | 17 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
 | 75 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 |
 
-Snapshot ID: `MCwzNDRiM2NmMjUyNTBiM2I4ZTdhMjJmNTJjZWJkOTc4MDI2ZWUxM2U4`
+Snapshot ID: `MCw5NDYxZTQwNDFjMTVkM2RhZDQ4ZjcyZWI5YjkyYThhNTA3Yjc3OGRk`

@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5750,
+  "num_followers": 5764,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4",
+  "snapshot_id": "MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -91,26 +91,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Deathwish",
-        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Peace...Like A River",
         "url": "https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 383533,
       "name": "Shake Our Way Out [Feat. Billy F Gibbons]",
       "url": "https://open.spotify.com/track/5BPpLbUMdBM2GsK64TEoGD"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Dirt Woman Blues",
-        "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e1inne Duffy",
-          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
-        }
-      ],
-      "duration_ms": 247319,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "What Goes Around (Comes Around)",
         "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 216845,
       "name": "What Goes Around (Comes Around)",
       "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Dirt Woman Blues",
+        "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+        }
+      ],
+      "duration_ms": 247319,
+      "name": "Well Well Well",
+      "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Exorcist",
-        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Done Cryin'",
-      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 167275,
       "name": "She Moved On",
       "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Done Cryin'",
+      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Chrysomallousa",
-        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
-      },
-      "artists": [
-        {
-          "name": "Demetris Mesimeris",
-          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
-        }
-      ],
-      "duration_ms": 219954,
-      "name": "Chrysomallousa",
-      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Guadalupe Plata 2023",
         "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 135609,
       "name": "Al Infierno que Vayas",
       "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Chrysomallousa",
+        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
+      },
+      "artists": [
+        {
+          "name": "Demetris Mesimeris",
+          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
+        }
+      ],
+      "duration_ms": 219954,
+      "name": "Chrysomallousa",
+      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+      "duration_ms": 203338,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
       },
       "artists": [
         {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 203338,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-06-30 00:01:00",

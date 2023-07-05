@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 103138,
+  "num_followers": 103174,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NTAxMixmYjJmMDlkYWNhYTU1OWU4N2MzNzk5ZmVlZTBiYjg3ZjMwMDAzZjRi",
+  "snapshot_id": "NTAxNiw5MmU4ZGZlNjMyNzczYzY3OTVlODdhZGVmMGRjZjRiMzcyZmExZDdh",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -23,6 +23,22 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-07-04 20:30:49",
+      "album": {
+        "name": "LEGO(Let's Go)",
+        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
+      },
+      "artists": [
+        {
+          "name": "curv moon",
+          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+        }
+      ],
+      "duration_ms": 113346,
+      "name": "LEGO(Let's Go)",
+      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
     },
     {
       "added_at": "2023-06-17 22:24:11",
@@ -515,6 +531,22 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
+    },
+    {
+      "added_at": "2023-07-04 16:31:11",
+      "album": {
+        "name": "Sofa",
+        "url": "https://open.spotify.com/album/0Bc1adVWc1yyTMu2LgjOTj"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ascher",
+          "url": "https://open.spotify.com/artist/2yHuoZP76QdJig5EbPEq1L"
+        }
+      ],
+      "duration_ms": 201019,
+      "name": "Sofa",
+      "url": "https://open.spotify.com/track/1WzhUeO671Ao0H4h3jRmUJ"
     },
     {
       "added_at": "2023-06-26 18:55:27",

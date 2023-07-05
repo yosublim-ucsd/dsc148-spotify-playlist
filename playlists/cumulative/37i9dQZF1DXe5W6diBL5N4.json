@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "10000",
+        "url": "https://open.spotify.com/album/2o6qAUAQLwhD1TcTW6insi"
+      },
+      "artists": [
+        {
+          "name": "Choi Cello",
+          "url": "https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205439,
+      "name": "10000",
+      "url": "https://open.spotify.com/track/3lkC2MfzjIruCqHkrar4AU"
+    },
+    {
+      "album": {
         "name": "Dream Scape",
         "url": "https://open.spotify.com/album/2HN4mauPj6yBMhL81Iv5sF"
       },
@@ -2864,6 +2882,24 @@
       "duration_ms": 215412,
       "name": "A Well-Meaning Advocate (Feat. Mackelli)",
       "url": "https://open.spotify.com/track/5shT4tIT3opE1WbaQf9hSD"
+    },
+    {
+      "album": {
+        "name": "Worker needs some time alone",
+        "url": "https://open.spotify.com/album/0SQBN9ikhgk7EM5Ij9yhtB"
+      },
+      "artists": [
+        {
+          "name": "Norazo",
+          "url": "https://open.spotify.com/artist/6qKi9ZFq7JiwMy2LvMAqNp"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295506,
+      "name": "A worker",
+      "url": "https://open.spotify.com/track/5cC9f3Sg5vwOEyUZ0IJk9v"
     },
     {
       "album": {
@@ -13568,6 +13604,24 @@
       "duration_ms": 226408,
       "name": "BULLY",
       "url": "https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1"
+    },
+    {
+      "album": {
+        "name": "Burden of love",
+        "url": "https://open.spotify.com/album/4R5jxul23WR2LevIxgnyB9"
+      },
+      "artists": [
+        {
+          "name": "Div",
+          "url": "https://open.spotify.com/artist/33EogRsZc7AZ2RwY90VsJn"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198944,
+      "name": "Burden of love",
+      "url": "https://open.spotify.com/track/0z94l7Z2TOe5vMDdwnTcFw"
     },
     {
       "album": {
@@ -32732,6 +32786,24 @@
     {
       "album": {
         "name": "Deadlock",
+        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
+    },
+    {
+      "album": {
+        "name": "Deadlock",
         "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
       },
       "artists": [
@@ -32742,7 +32814,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 183670,
       "name": "Freakin' Bad",
       "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
@@ -37991,6 +38063,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7hEX5GwUJ01iAcbH8B1KTN"
+      },
+      "artists": [
+        {
+          "name": "Byeol Eun",
+          "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200840,
+      "name": "Heart Race",
+      "url": "https://open.spotify.com/track/60uh5g34YgIU9QIOt87Jcg"
+    },
+    {
+      "album": {
         "name": "Heartaches",
         "url": "https://open.spotify.com/album/7vhxzNYCbSnKqK1ElEt4mh"
       },
@@ -41324,6 +41414,24 @@
       "duration_ms": 180333,
       "name": "HWAN (feat. SLEEQ)",
       "url": "https://open.spotify.com/track/1Bq9GbvVMOTaTQAjmEP2rE"
+    },
+    {
+      "album": {
+        "name": "4SHO",
+        "url": "https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU"
+      },
+      "artists": [
+        {
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "HWEEK",
+      "url": "https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn"
     },
     {
       "album": {
@@ -50861,6 +50969,24 @@
     },
     {
       "album": {
+        "name": "Korea summer life",
+        "url": "https://open.spotify.com/album/2ukqhl9IMmGNXNfKT3LZIB"
+      },
+      "artists": [
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179473,
+      "name": "Korea summer life",
+      "url": "https://open.spotify.com/track/1vjoKfq953obuDVKedfbii"
+    },
+    {
+      "album": {
         "name": "^___^",
         "url": "https://open.spotify.com/album/4Z3dLb2CwDM5VWvJXsVVsA"
       },
@@ -55326,6 +55452,32 @@
       "duration_ms": 239062,
       "name": "Love Has Come",
       "url": "https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj"
+    },
+    {
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/6DroTUoT3wsDJDGDjq9H0S"
+      },
+      "artists": [
+        {
+          "name": "Snacky Chan",
+          "url": "https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw"
+        },
+        {
+          "name": "\ub3c4\ub11b\ub9e8(Donutman)",
+          "url": "https://open.spotify.com/artist/0OdEET4KKPRq2G2HHuTiDw"
+        },
+        {
+          "name": "\uc2dc\uc988\ub354\ub370\uc774 (seizetheday)",
+          "url": "https://open.spotify.com/artist/7yaYtHrkhd7BqOxtdMbBOK"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175226,
+      "name": "Love Hurts (feat. Donutman, seizetheday)(Prod. Liquor well)",
+      "url": "https://open.spotify.com/track/5c81xE66o7QBEbfJeKhJsz"
     },
     {
       "album": {
@@ -61254,6 +61406,24 @@
       "duration_ms": 242571,
       "name": "Money like (feat. meenoi)",
       "url": "https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF"
+    },
+    {
+      "album": {
+        "name": "moneynbooty",
+        "url": "https://open.spotify.com/album/1F3EMW400LeshmYIW6LX2H"
+      },
+      "artists": [
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157503,
+      "name": "moneynbooty",
+      "url": "https://open.spotify.com/track/2g9L0p7ehC9Ok1cZnGOXnv"
     },
     {
       "album": {
@@ -72255,6 +72425,24 @@
     },
     {
       "album": {
+        "name": "EP.3 poetry",
+        "url": "https://open.spotify.com/album/1zYTUUsFmRqJyRmLPP23pt"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192831,
+      "name": "poetry",
+      "url": "https://open.spotify.com/track/2aI65CrSy0KvwYdkr0VN5r"
+    },
+    {
+      "album": {
         "name": "Poison Rose",
         "url": "https://open.spotify.com/album/7MfxSqUuOU0JfoafaA2L3H"
       },
@@ -74060,6 +74248,24 @@
       "duration_ms": 188312,
       "name": "RADIONA (Feat. GIST)",
       "url": "https://open.spotify.com/track/7yuZTTd7qxLV18dU1QsXrC"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3ONcSxLA7vmxwxsUzbt97m"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179480,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/09pHVoMIjYJddhMxiaoaEz"
     },
     {
       "album": {
@@ -84879,6 +85085,28 @@
     },
     {
       "album": {
+        "name": "3rd Freetime",
+        "url": "https://open.spotify.com/album/4FK45EmUZX1u4uS9XpE1bZ"
+      },
+      "artists": [
+        {
+          "name": "Joon Heo",
+          "url": "https://open.spotify.com/artist/4nwOuMgic55R9RVVflVJ1e"
+        },
+        {
+          "name": "Crissie",
+          "url": "https://open.spotify.com/artist/0Y4QzxTz1bTpVGkTXUek9R"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269652,
+      "name": "Star Light",
+      "url": "https://open.spotify.com/track/3xa0aU69GVwyEF2tFYX9qP"
+    },
+    {
+      "album": {
         "name": "when the stars align",
         "url": "https://open.spotify.com/album/5PXd2CW4Og6FUp81fLD1H1"
       },
@@ -89302,6 +89530,24 @@
       "duration_ms": 189773,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear Returns (Summer Edition)",
+        "url": "https://open.spotify.com/album/0ALTUGYu7nG2V9Bfuweff3"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230491,
+      "name": "Teddy Bear Returns (Summer Edition)",
+      "url": "https://open.spotify.com/track/3QWp8Vaf2utmRalJkGkt02"
     },
     {
       "album": {
@@ -101353,7 +101599,7 @@
     },
     {
       "album": {
-        "name": "re.MAKE20 #11 When Spring Comes",
+        "name": "When Spring Comes(re.MAKE20 #11)",
         "url": "https://open.spotify.com/album/3FKAjRtt2jQ8xSPVEqFLDP"
       },
       "artists": [
@@ -108951,6 +109197,24 @@
     },
     {
       "album": {
+        "name": "\uc544\ubb34\ub3c4 \ubaa8\ub974\uac8c Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "\ub5a0\ub0a0\uae4c Should We Leave",
+      "url": "https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm"
+    },
+    {
+      "album": {
         "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.12",
         "url": "https://open.spotify.com/album/2JS3Y3BUIEyeRb4oTSHUdB"
       },
@@ -110202,6 +110466,24 @@
       "duration_ms": 261750,
       "name": "\uc21c\uc560\ubcf4 (Art. daki)",
       "url": "https://open.spotify.com/track/3wEfsnxigqgNfS4jKp4q55"
+    },
+    {
+      "album": {
+        "name": "\uc2dc\uc18c",
+        "url": "https://open.spotify.com/album/7KRTUlW96TqFurEkcFrJ8q"
+      },
+      "artists": [
+        {
+          "name": "Kang Jeonhan",
+          "url": "https://open.spotify.com/artist/3mWjp3jzaJVV6gHbrUNMXz"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "\uc2dc\uc18c",
+      "url": "https://open.spotify.com/track/3k0UKhvj8NzgVQvW0owS5e"
     },
     {
       "album": {

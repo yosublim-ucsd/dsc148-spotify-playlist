@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 407751,
+  "num_followers": 407848,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODNlMmI5NDJlZjM2MmI3OTY4NzE2NDhhM2QxZTFlZjA1OWQ0YTFh",
+  "snapshot_id": "MCxiYTExZWQwYTllMzgyNDQyMWNkMDU5YjIzNTNjODM5ZWMyYTZmYjY1",
   "tracks": [
     {
       "added_at": "2023-05-22 16:14:56",
@@ -871,18 +871,22 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         }
       ],
-      "duration_ms": 281381,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
+      "duration_ms": 190276,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq"
     },
     {
       "added_at": "2023-05-22 16:14:56",

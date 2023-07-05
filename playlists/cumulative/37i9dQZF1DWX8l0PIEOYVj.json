@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 212470,
       "name": "Ghost Town (feat. David Frank)",
       "url": "https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS"
@@ -7942,6 +7942,28 @@
       "duration_ms": 259200,
       "name": "Urban Forest",
       "url": "https://open.spotify.com/track/4UP19aKl5h6WHQmpd3RYBT"
+    },
+    {
+      "album": {
+        "name": "Violet Sky (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Violet Sky (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
     },
     {
       "album": {

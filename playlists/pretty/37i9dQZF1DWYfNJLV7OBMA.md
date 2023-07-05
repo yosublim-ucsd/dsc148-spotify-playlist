@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,803 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,844 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 84 | [Awathan Hade](https://open.spotify.com/track/3ZLDLqcazGUTuOq2mcqXW2) | [Harsha Withanage](https://open.spotify.com/artist/5zVC4vxjDqpw3wqRxrLblW) | [Awathan Hade](https://open.spotify.com/album/4VrMPeAWPUydlc3YksKBsj) | 4:22 |
 | 85 | [Oba Nisa](https://open.spotify.com/track/5mWvTPVLykLwt33B6PuPsx) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o) | [Oba Nisa](https://open.spotify.com/album/0O9qQMFwTHFtQCerzmL3DO) | 3:14 |
 | 86 | [Mathaka mandira \(Chanchala\)](https://open.spotify.com/track/1k8OGKIFLHlGkhz9Ut1xhW) | [Iraj](https://open.spotify.com/artist/6RoQz9twE1wPVEcFvwv7iO), [Samitha](https://open.spotify.com/artist/4JPcKmzmWuYsqGnQE9msvj), [Malith](https://open.spotify.com/artist/3svmJ8z3HTh8XA5LppHKXI) | [Aloke](https://open.spotify.com/album/5YCLlmDmRfRJIwBLEkSnYw) | 3:34 |
-| 87 | [Surath Suwaya](https://open.spotify.com/track/6aSpOYXyIoXPHy8BiykXoQ) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN) | [Surath Suwaya](https://open.spotify.com/album/4cK22l609XQS4KjGRM0ABl) | 3:35 |
+| 87 | [Surath Suwaya](https://open.spotify.com/track/6aSpOYXyIoXPHy8BiykXoQ) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Sadara Bandara](https://open.spotify.com/artist/5jtJGB4VDwN99prb3XFf2a), [Saritha Edirisinghe](https://open.spotify.com/artist/5TVssBEeWuDjdC3D7kkTMc) | [Surath Suwaya](https://open.spotify.com/album/4cK22l609XQS4KjGRM0ABl) | 3:35 |
 | 88 | [Soya Awa](https://open.spotify.com/track/3709XXZvLGFFS3vhFnNlHc) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 3:54 |
 | 89 | [Adare Pawasala](https://open.spotify.com/track/7gMgFyHlCljeJ5or13y1U2) | [Dasun Madushan](https://open.spotify.com/artist/1FayHtaXhMf8Ry5pEQZywZ) | [Kinduriye Nura](https://open.spotify.com/album/50hUD8FmYuRBrHwvTtRgGq) | 3:25 |
 | 90 | [Mihiravi](https://open.spotify.com/track/7ooVgnzRPAGEhxXabMdUIl) | [Romesh Sugathapala](https://open.spotify.com/artist/1e3JYUy2zWuu6afa85vG0C) | [Mandakini](https://open.spotify.com/album/1NPJtfIMlsJ0IPEtpRT9d7) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Priyawee](https://open.spotify.com/track/1gEgaeOW0at0yNufAQviJz) | [Piyath Rajapaksha](https://open.spotify.com/artist/2S27TB6CngbE1hmLkEQWYS) | [Priyawee \- Single](https://open.spotify.com/album/5wLw7iEmwl7IwadGqkibyS) | 3:48 |
 | 100 | [Nurawee](https://open.spotify.com/track/4CcxO8JFiX6pYxXHBT7Ncs) | [Sandeep Jayalath](https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t) | [Nurawee](https://open.spotify.com/album/7o9VkXQeL8JznotCU6iaWs) | 3:51 |
 
-Snapshot ID: `MCw3Mzg3ZTMxYTE0OTdmZGVmYTQxMjBmODAzNWIwMTAxNmJhM2FjZTcw`
+Snapshot ID: `MCw5MmFlY2ZiYTFmZWFkNDdiZDIyMWFjMzc3OTBlZjI0MDFlOWI4ZWVk`

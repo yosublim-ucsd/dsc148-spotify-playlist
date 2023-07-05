@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ovy On The Drums & Blessd",
-  "num_followers": 520068,
+  "num_followers": 520085,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDE4ZjU4M2UwMWVmNGIwYzJjNDIwMGQ0NzdkZTIyNmJjMTg4YjEw",
+  "snapshot_id": "MCwxZTQwMDcyYjk1YWY4NTAwOWQ5ZDc1YWYwNmQ4ZDU3Y2U3NjcwOGE0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "R\u00c1PIDO",
-        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "R\u00c1PIDO",
-      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "R\u00c1PIDO",
+        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "R\u00c1PIDO",
+      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -419,6 +419,50 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "RoCKSTAR 2.0",
+        "url": "https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 173729,
+      "name": "RoCKSTAR 2.0",
+      "url": "https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Chulo pt.2",
+        "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Chulo pt.2",
+      "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Triste Verano",
         "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
@@ -459,26 +503,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "RoCKSTAR 2.0",
-        "url": "https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 173729,
-      "name": "RoCKSTAR 2.0",
-      "url": "https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Una en un Mill\u00f3n",
         "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
       },
@@ -491,30 +515,6 @@
       "duration_ms": 155828,
       "name": "Una en un Mill\u00f3n",
       "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Chulo pt.2",
-        "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Chulo pt.2",
-      "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -823,6 +823,38 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "MERCHO REMIX",
+        "url": "https://open.spotify.com/album/2Y8A4aFDGPXqQpmJbLOuzK"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 201915,
+      "name": "MERCHO REMIX",
+      "url": "https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Nena Trampa (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
       },
@@ -899,38 +931,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "MERCHO REMIX",
-        "url": "https://open.spotify.com/album/2Y8A4aFDGPXqQpmJbLOuzK"
-      },
-      "artists": [
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 201915,
-      "name": "MERCHO REMIX",
-      "url": "https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "LA CALMA",
         "url": "https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB"
       },
@@ -995,22 +1015,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 158698,
       "name": "Dudas De M\u00ed",
       "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LAY LOW",
-        "url": "https://open.spotify.com/album/2saubcNNGXWLQ0vzvZfvLx"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "LAY LOW",
-      "url": "https://open.spotify.com/track/55gmzY3X3LYdJLxGdJOOVx"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "LAY LOW",
+        "url": "https://open.spotify.com/album/2saubcNNGXWLQ0vzvZfvLx"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "LAY LOW",
+      "url": "https://open.spotify.com/track/55gmzY3X3LYdJLxGdJOOVx"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Trap Vibes",
         "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
       },
@@ -1627,6 +1627,30 @@
       "duration_ms": 227200,
       "name": "Dame Luz",
       "url": "https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
+      },
+      "artists": [
+        {
+          "name": "Nesty La Mente Maestra",
+          "url": "https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 151360,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1699,26 +1723,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "te kiero ver",
-        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 147224,
-      "name": "te kiero ver",
-      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Qu\u00edtate La Ropa",
         "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
       },
@@ -1735,26 +1739,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
+        "name": "te kiero ver",
+        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
       },
       "artists": [
         {
-          "name": "Nesty La Mente Maestra",
-          "url": "https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 151360,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
+      "duration_ms": 147224,
+      "name": "te kiero ver",
+      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1787,6 +1787,22 @@
       "duration_ms": 139716,
       "name": "hotel san juan",
       "url": "https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Tweet",
+        "url": "https://open.spotify.com/album/0aXm7AkrTlSjcW7gxMf0NY"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Tweet",
+      "url": "https://open.spotify.com/track/3WJqYgLQNPO6tPWqvavacQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1875,30 +1891,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sempiterno",
-        "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Alexis",
-          "url": "https://open.spotify.com/artist/2LudI3JLn6y78XrArvOhfx"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "S\u00fabelo & B\u00e1jalo",
-      "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Marquesina - Spotify Singles",
         "url": "https://open.spotify.com/album/66kMhD2bCMzhwgAtaEzhLM"
       },
@@ -1947,18 +1939,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Tweet",
-        "url": "https://open.spotify.com/album/0aXm7AkrTlSjcW7gxMf0NY"
+        "name": "Sempiterno",
+        "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Alexis",
+          "url": "https://open.spotify.com/artist/2LudI3JLn6y78XrArvOhfx"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Tweet",
-      "url": "https://open.spotify.com/track/3WJqYgLQNPO6tPWqvavacQ"
+      "duration_ms": 237720,
+      "name": "S\u00fabelo & B\u00e1jalo",
+      "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pa Que Me Cu",
-        "url": "https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 194552,
-      "name": "Pa Que Me Cu",
-      "url": "https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sin Sentimientos",
         "url": "https://open.spotify.com/album/0S0OmQpoV4MFv12HmDII1r"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 226684,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/61MsCTegsH9eKKhzDmK6aH"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Pa Que Me Cu",
+        "url": "https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 194552,
+      "name": "Pa Que Me Cu",
+      "url": "https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi"
     }
   ],
   "unique_name": "el nuevo urbano",

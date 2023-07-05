@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: BRIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,971 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,979 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 38 | [Dialog Hati](https://open.spotify.com/track/43qcHWa8RI9vhC2k1tUOJR) | [Nadzira Shafa](https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos) | [Dialog Hati](https://open.spotify.com/album/2nrKE3chl39J3FRYd3ctIT) | 4:27 |
 | 39 | [23 \(Too Deep, Too Much\)](https://open.spotify.com/track/31fAGtmvKBM2e86zzWtd5g) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [23 \(Too Deep, Too Much\)](https://open.spotify.com/album/3LKZjzbsogFZhhlFskYZQH) | 4:23 |
 | 40 | [Where We Are](https://open.spotify.com/track/35GZQWBAonBF9MduVcbbHU) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Where We Are](https://open.spotify.com/album/6jFvUkXE4NbJA9vuhDoRul) | 3:35 |
-| 41 | [BERCANDA](https://open.spotify.com/track/3TKjs0QvcEbdRCRaYXtMbo) | [Chainia Lovera](https://open.spotify.com/artist/3exPjjKtzxcXIijRCKFCbX) | [BERCANDA](https://open.spotify.com/album/7vkrj0s8EcxAuUUZrHpIT1) | 4:00 |
+| 41 | [BERCANDA](https://open.spotify.com/track/3TKjs0QvcEbdRCRaYXtMbo) | [CHAI](https://open.spotify.com/artist/3exPjjKtzxcXIijRCKFCbX) | [BERCANDA](https://open.spotify.com/album/7vkrj0s8EcxAuUUZrHpIT1) | 4:00 |
 | 42 | [i luv u \(i did\)](https://open.spotify.com/track/1nRPUl3oUJ5Gh6Sx1eq5kB) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [i luv u \(i did\)](https://open.spotify.com/album/3GGWf2Bl8vTXkUS7D8TUZS) | 3:54 |
 | 43 | [Bilur](https://open.spotify.com/track/32tqZLBkiY8MAuWNCwJy2u) | [Aik Krisnayanti](https://open.spotify.com/artist/3GdwG5CHVIz5WPh1qcKwT5) | [Bilur](https://open.spotify.com/album/75P516atAvGaBvT335mL5Z) | 4:05 |
 | 44 | [Gema Asmara](https://open.spotify.com/track/2hsx8ldyORblivduRez0g3) | [Olivia Pardede](https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD) | [Gema Asmara](https://open.spotify.com/album/3JL0dpLlX04GskwTzggWBz) | 3:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 100 | [Pesan Singkat](https://open.spotify.com/track/0YMteMsImvjN6IRsb7qgqY) | [Jouhatsu](https://open.spotify.com/artist/32DBDaDLRgqWn97OrBGIUS) | [Pesan Singkat](https://open.spotify.com/album/1489XPUWD9VTpwepae6b8i) | 3:51 |
 | 101 | [Lifetime](https://open.spotify.com/track/5uSnBtkaWgI4FeZo81Tbo7) | [Rynrayn](https://open.spotify.com/artist/6GvQq02fyy1DJh2JqaOK4m) | [Lifetime](https://open.spotify.com/album/2ZQnEZPUjEn2RtjIuGkdwI) | 2:18 |
 
-Snapshot ID: `MCxjNGEwMTU4MDhjMTM4ZDhlYjYzOTI4NzFiZDhiNWY2NzhmYThkZTUw`
+Snapshot ID: `MCwxNzQxMDY4NGUxN2Y1ZmIxYTVmNmJjZGZlNGNkZGExODUzN2M3NTY2`

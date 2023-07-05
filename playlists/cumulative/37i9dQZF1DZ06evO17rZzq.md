@@ -4,16 +4,16 @@
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-39 songs - 1 hr 51 min
+40 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 | 2023-06-07 |  |
 | [12](https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM) | [Foe](https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [12](https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1) | 3:11 | 2023-06-07 |  |
 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 | 2023-06-07 |  |
-| [Area Codes](https://open.spotify.com/track/6K8DewlrmagEeJ6sYdCnQO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rap Hits US 2023](https://open.spotify.com/album/2FAeKKSaOQLMKtFbSALK6U) | 2:19 | 2023-07-02 |  |
+| [Area Codes](https://open.spotify.com/track/6K8DewlrmagEeJ6sYdCnQO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rap Hits US 2023](https://open.spotify.com/album/2FAeKKSaOQLMKtFbSALK6U) | 2:19 | 2023-07-02 | 2023-07-05 |
 | [Area Codes](https://open.spotify.com/track/7dGXSUVah5IfIeymPFZ5vM) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq) | [Area Codes](https://open.spotify.com/album/2woiwhAylaCMs9TaOLCRka) | 2:19 | 2023-06-30 | 2023-07-02 |
-| [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-06-23 | 2023-07-01 |
+| [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-06-23 |  |
 | [Area Codes \(415 Remix\) \[feat\. Lil Kayla\]](https://open.spotify.com/track/1euNS5zhdt7TnsVMMZWTBw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Area Codes \(415 Remix\) \[feat\. Lil Kayla\]](https://open.spotify.com/album/1C5lG5EynggKASzT5CEtz0) | 2:17 | 2023-07-01 | 2023-07-03 |
 | [Area Codes \(773 Remix\) \[feat\. Mello Buckzz\]](https://open.spotify.com/track/2FxjU8KBwkhd8cUq8As0aB) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Area Codes \(773 Remix\) \[feat\. Mello Buckzz\]](https://open.spotify.com/album/5UXscuxjTNROjxeBD0yhrm) | 2:17 | 2023-06-07 | 2023-06-24 |
 | [Bad Bad Bad](https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:33 | 2023-06-07 |  |
@@ -46,6 +46,7 @@
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2023-06-07 |  |
 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2023-06-07 |  |
 | [Where She At \(feat\. Kali, KenTheMan\)](https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MULTI](https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD) | 3:28 | 2023-06-07 |  |
+| [Where They At \(Snippet\)](https://open.spotify.com/track/33TJ1Jh9qLrtijcbqno9CY) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate: Area Codes Edition](https://open.spotify.com/album/7yRZn5jOhhXNNZznGC2shD) | 0:25 | 2023-07-04 |  |
 | [Y'all Want Me \(Remix\)](https://open.spotify.com/track/5Twf9Om6Y90LR24Ickm0SP) | [John'nay Lasha](https://open.spotify.com/artist/0vcMP4qw5S5V7D3YUgOuFG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Y'all Want Me \(Remix\)](https://open.spotify.com/album/6cFfBIJZ4E71VVBOUkIUAr) | 3:15 | 2023-06-07 |  |
 
 \*This playlist was first scraped on 2023-06-08. Prior content cannot be recovered.

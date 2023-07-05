@@ -1650,10 +1650,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 376666,
       "name": "Rhythm in My Soul",
       "url": "https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1"
+    },
+    {
+      "album": {
+        "name": "Into the Dread",
+        "url": "https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n"
+      },
+      "artists": [
+        {
+          "name": "Unity Pacific",
+          "url": "https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376666,
+      "name": "Rhythm in My Soul",
+      "url": "https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9"
     },
     {
       "album": {

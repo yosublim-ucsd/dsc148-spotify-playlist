@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Prok
 
-207 songs - 11 hr 30 min
+208 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Nanai](https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Nanai](https://open.spotify.com/album/73HBLirEmtxzVgwdkNjgVD) | 2:52 | 2023-01-17 | 2023-03-01 |
 | [Navajas y Percebes 2](https://open.spotify.com/track/2rFTeKTGDMiDMpxGorjBY5) | [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4) | [Navajas y Percebes 2](https://open.spotify.com/album/4jTQKJXlc8Koin33gYIxCA) | 3:56 | 2023-06-07 | 2023-06-27 |
 | [No Hay Manera](https://open.spotify.com/track/5Qn3vK8wlpxGTIrCUKVzE2) | [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [No Hay Manera](https://open.spotify.com/album/1eR5vOALWMjXkehzm3tfyj) | 4:51 | 2022-01-21 | 2022-04-22 |
+| [No hay nada nuevo](https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [No hay nada nuevo](https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io) | 3:40 | 2023-07-04 |  |
 | [No Me Llores](https://open.spotify.com/track/6cKsGajC4aS32T61nYTf9i) | [Pepe : Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [No Me Llores](https://open.spotify.com/album/3I2K1vDwbQsCgBht4t7rDr) | 3:18 | 2022-04-21 | 2022-05-28 |
 | [No Me Renta II](https://open.spotify.com/track/1lGYUNCN2k5CGF4PzpRYt9) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [No Me Renta II](https://open.spotify.com/album/7E0iUBWxU11g8xFB7p0iMY) | 2:56 | 2022-01-21 | 2022-09-17 |
 | [No Se Emula](https://open.spotify.com/track/0xAzuY0lzB7dsb8j0nDqCp) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [No Se Emula](https://open.spotify.com/album/2E4cM64H1dU8IOYsd25qQA) | 2:09 | 2022-10-03 | 2022-10-29 |
@@ -146,7 +147,7 @@
 | [Nudos](https://open.spotify.com/track/2nXXsCwR49zSwvOByAR4wU) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [Nudos](https://open.spotify.com/album/1CUDHDUTqOAbXH0uFgesjb) | 3:09 | 2022-01-21 | 2022-02-23 |
 | [Ojalá](https://open.spotify.com/track/3lhBtkwoZuzjaykxbQvQzX) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Ojalá](https://open.spotify.com/album/6nlRFfAm9DE7mKegkODxYN) | 3:55 | 2022-03-16 | 2022-09-17 |
 | [Ojo de Halcón](https://open.spotify.com/track/0VhfZo2uwcWnQGExuOxNKq) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Louis Amoeba](https://open.spotify.com/artist/4ELBthp7W6iTF2JcdoK5Rd) | [BBO](https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw) | 1:50 | 2022-09-16 | 2022-09-19 |
-| [Ojos Verdes](https://open.spotify.com/track/5uE3JWZGT0JybAFVLkTlJE) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Ojos Verdes](https://open.spotify.com/album/66cFPe1d4WUwhcqQRxePLK) | 3:10 | 2022-01-21 |  |
+| [Ojos Verdes](https://open.spotify.com/track/5uE3JWZGT0JybAFVLkTlJE) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Ojos Verdes](https://open.spotify.com/album/66cFPe1d4WUwhcqQRxePLK) | 3:10 | 2022-01-21 | 2023-07-05 |
 | [Otro Día Más](https://open.spotify.com/track/5hAGYBf1IPrZdPXFPd3Aa5) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Otro Día Más](https://open.spotify.com/album/0cpLz0n0ekwrPPTB07nioO) | 2:36 | 2022-01-21 | 2022-03-17 |
 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 | 2022-05-05 |  |
 | [Pa que lo gocen](https://open.spotify.com/track/7BMdZsDXxPH6Db3Ug6A2q2) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Yipiyou](https://open.spotify.com/album/7euTtDGIoACenU5iWH6tr2) | 3:40 | 2022-01-21 | 2022-07-29 |

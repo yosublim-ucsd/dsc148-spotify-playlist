@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 184180,
+  "num_followers": 184266,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
+  "snapshot_id": "MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Tore Down House",
-        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
-      },
-      "artists": [
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Dolemite",
-      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Collisions",
         "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 300876,
       "name": "Friction",
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Tore Down House",
+        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
+      },
+      "artists": [
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Dolemite",
+      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Forward Motion",
-        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
-      },
-      "artists": [
-        {
-          "name": "Mezzoforte",
-          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
-    },
-    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Bring Backs",
@@ -531,6 +515,22 @@
       "duration_ms": 360053,
       "name": "Teki",
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
+      },
+      "artists": [
+        {
+          "name": "Mezzoforte",
+          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Opuntia",
+        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
+      },
+      "artists": [
+        {
+          "name": "Anika Nilles",
+          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Up and Down",
+      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
@@ -669,22 +685,6 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Opuntia",
-        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
-      },
-      "artists": [
-        {
-          "name": "Anika Nilles",
-          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Lifetime: The Collection",
@@ -699,22 +699,6 @@
       "duration_ms": 386066,
       "name": "Snake Oil",
       "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -735,6 +719,38 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Bent",
         "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
       },
@@ -747,30 +763,6 @@
       "duration_ms": 371920,
       "name": "Armageddon Blues",
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
-      },
-      "artists": [
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Adam Deitch",
-          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
-        },
-        {
-          "name": "Shaun Martin",
-          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -813,20 +805,28 @@
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
+        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
       },
       "artists": [
         {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        },
+        {
+          "name": "Shaun Martin",
+          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
         }
       ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+      "duration_ms": 276293,
+      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
       "added_at": "2021-05-07 04:01:00",
@@ -941,6 +941,26 @@
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Jackets XL",
+        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 503213,
+      "name": "Even Song",
+      "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -979,26 +999,6 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Jackets XL",
-        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 503213,
-      "name": "Even Song",
-      "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Big Fun (2022 Remaster)",
         "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1423,6 +1423,22 @@
       "duration_ms": 321693,
       "name": "As the Spirit Sings",
       "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI"
+      },
+      "artists": [
+        {
+          "name": "Tangible Jazz Dreams",
+          "url": "https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN"
+        }
+      ],
+      "duration_ms": 423179,
+      "name": "JosHUA!",
+      "url": "https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -1483,30 +1499,6 @@
       "duration_ms": 466053,
       "name": "Jiriki",
       "url": "https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Hullo Bolinas",
-        "url": "https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 251007,
-      "name": "Hullo Bolinas",
-      "url": "https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT"
     }
   ],
   "unique_name": "Fusion Fest",

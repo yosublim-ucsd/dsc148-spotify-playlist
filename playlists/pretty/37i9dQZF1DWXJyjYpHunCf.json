@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 832139,
+  "num_followers": 832372,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWI1ODMyZmY0ZjllMmIzYWU5NTE4OTY5YzJkZjNmZDg4NzhlZjRl",
+  "snapshot_id": "MCxmNmQ1YzAyMTU4OTFjZjZhMDMxMzQyY2I1MGEzMTcxY2FjMDIzNWNl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Kinda Wild",
+        "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
+      },
+      "artists": [
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 297279,
+      "name": "Kinda Wild",
+      "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Call You in the Morning",
         "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
@@ -1435,22 +1455,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Kinda Wild",
-        "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
       "artists": [
         {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 297279,
-      "name": "Kinda Wild",
-      "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 147337,
       "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
       "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Better When We're Falling Apart",
+      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "With Love From",
         "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Better When We're Falling Apart",
-      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
         }
       ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+      "duration_ms": 202110,
+      "name": "The Hunt",
+      "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
     }
   ],
   "unique_name": "Folk Pop",

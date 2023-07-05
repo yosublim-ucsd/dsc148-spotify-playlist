@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-710 songs - 1 day 18 hr 22 min
+711 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 | 2021-12-17 | 2022-04-20 |
 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-04-08 |  |
 | [Give Me The Reason \- Solo Acoustic](https://open.spotify.com/track/4cIGYbi3rdaj5ObgU0WjnF) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason \(Solo Acoustic\)](https://open.spotify.com/album/50gg5OsDOcVtJbEDBvSXs3) | 3:56 | 2022-04-29 | 2022-07-29 |
-| [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2021-12-17 |  |
+| [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2021-12-17 | 2023-07-05 |
 | [Go Around](https://open.spotify.com/track/4XW24tqU4OG940MdepSQHB) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899) | [Go Around](https://open.spotify.com/album/5gcrssl1Te9P9V0QGPRWZt) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2022-06-29 |  |
 | [Go Down River](https://open.spotify.com/track/5gWVKOLeoNkmsMHLUrXGzU) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/2eLDIgJg4QDe5pkmwEc7pB) | 4:26 | 2022-01-24 | 2022-06-14 |
@@ -333,6 +333,7 @@
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-12-17 |  |
 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 | 2021-12-17 |  |
 | [Indefinite](https://open.spotify.com/track/2joghEwCC0IPKPJ030x6BL) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea](https://open.spotify.com/album/1xbEwdz1jUSqezQWjmsYJo) | 3:52 | 2021-12-17 | 2022-04-28 |
+| [Indexical reminder of a morning well spent](https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:43 | 2023-07-04 |  |
 | [Innkeepers](https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 4:08 | 2022-01-24 | 2022-07-29 |
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-12-17 |  |
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-12-17 | 2023-05-04 |

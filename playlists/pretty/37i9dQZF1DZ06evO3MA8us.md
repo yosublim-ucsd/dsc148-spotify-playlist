@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,890 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,888 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 26 | [Fall Like Rain \- Live From Passion 2023](https://open.spotify.com/track/6YiUx9yyiJCjdMuxP5lkzR) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 8:36 |
 | 27 | [How He Loves \- Live](https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Even So Come \(Deluxe Edition/Live\)](https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg) | 4:43 |
 | 28 | [Behold The Lamb \- Live](https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:09 |
-| 29 | [Buen Padre](https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 |
+| 29 | [All My Hope \- Live](https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 4:37 |
 | 30 | [Here It Is \(I Worship You\) \- Live From Passion 2023](https://open.spotify.com/track/70xFZ3jcTwlgBlAD8TjHjF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 5:13 |
-| 31 | [All My Hope \- Live](https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 4:37 |
+| 31 | [Buen Padre](https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 |
 | 32 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
 | 33 | [I Speak Jesus \- Live From Camp](https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 7:03 |
 | 34 | [Who Is Like The Lord \- Live From Passion 2023](https://open.spotify.com/track/0oaafO2efqhUqcLZWH6VSw) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [God Of Wonders \- Live](https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:38 |
 | 50 | [Heaven \- Live](https://open.spotify.com/track/28z598q2VWCSTdTT1opliw) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 5:09 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDBlNWZkMWE0NWYzYWQ0NGVmM2NlZjA4ZGUxNjQwOGQ1MQ==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDBkOWJlYmRjODhiOWRjZjQ1MDA2ODdkMDk3YjU4MmU0YQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 70281,
+  "num_followers": 70317,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2FlYTQ2MTE3NmU2OWVmM2RjOGU0MWNlMGY4YWMzNjJiZjMxOTdl",
+  "snapshot_id": "MCxmMzc5N2YwZGQ0ZDU3NjlmOThkZDVjMDFjNTZlYzZjNzNiZTc1OGI4",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Mushroom Death Sex Bummer Party",
-        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
-      },
-      "artists": [
-        {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
-        }
-      ],
-      "duration_ms": 90343,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 240832,
       "name": "Sticks 'N' Stones",
       "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Mushroom Death Sex Bummer Party",
+        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 90343,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "The Theory Of Whatever",
         "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235666,
       "name": "The Old Style Raiders",
       "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
     },
     {
       "added_at": "2023-05-25 23:00:00",

@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-123 songs - 6 hr 33 min
+124 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 | 2022-10-11 |  |
 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 | 2022-10-11 |  |
 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 |  |
-| [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 | 2022-10-11 |  |
+| [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 | 2022-10-11 | 2023-07-05 |
 | [Confused](https://open.spotify.com/track/0wrlZhUHqHlLLvdodEqv4W) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/6m34pI3gdhPPJ6YnBDQeQM) | 3:06 | 2022-10-11 | 2022-11-09 |
 | [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 |  |
 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 | 2022-10-11 |  |
@@ -76,6 +76,7 @@
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 | 2023-02-18 |
 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 | 2023-02-14 |  |
 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 | 2022-10-11 |  |
+| [Nijiiro](https://open.spotify.com/track/04oWsZWr8n1xSMInqLp6KS) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/4JXvYGFiRmzu1oC5ItwRDw) | 2:56 | 2023-07-04 |  |
 | [No Love](https://open.spotify.com/track/3zVqGejJKVPlGUEWRO6ZLk) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/0DMtWYAnYSKxRA65AHlODV) | 2:57 | 2022-10-11 | 2023-05-11 |
 | [No Love](https://open.spotify.com/track/4ncuzXLHYIh6KSW4UrEH0Y) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/1iF700mTP95gGLjDKnY9oR) | 2:57 | 2023-03-28 |  |
 | [no one else](https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Alys](https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [no one else](https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG) | 2:18 | 2022-10-11 |  |

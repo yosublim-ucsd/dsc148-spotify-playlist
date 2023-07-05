@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-124 songs - 3 hr 43 min
+125 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [AK Theme Music \- Ready to Rage](https://open.spotify.com/track/232kZYrxOYqyMeBFwudXEM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 1:23 | 2021-11-01 |  |
 | [Amar & Gayathri \- Background Score](https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:22 | 2022-07-08 | 2022-11-08 |
 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 | 2022-07-08 |  |
+| [Announcement Theme \(From "Captain Miller"\)](https://open.spotify.com/track/5p1pZim92MwJcNwJJDeJHV) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Announcement Theme \(From "Captain Miller"\)](https://open.spotify.com/album/1LvcMAe2Ob4r8evADGZC0V) | 2:05 | 2023-07-04 |  |
 | [Army of Slaves](https://open.spotify.com/track/5Jqob9lWkBm4W0xFek8bMv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Kochadaiiyaan \(Original Score\)](https://open.spotify.com/album/7eBKHNP3IAPfqvZP7CE1t4) | 3:50 | 2023-02-21 | 2023-04-21 |
 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 | 2021-11-01 |  |
 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 | 2021-11-01 |  |

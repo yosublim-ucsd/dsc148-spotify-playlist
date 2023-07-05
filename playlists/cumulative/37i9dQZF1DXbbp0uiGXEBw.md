@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: O.lew
+> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Suni Hạ Linh
 
-149 songs - 9 hr 42 min
+151 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2022-10-05 |  |
 | [Cô Đơn](https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Cô Đơn](https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988) | 4:32 | 2022-10-11 | 2022-10-13 |
 | [cô đơn sớm tối](https://open.spotify.com/track/6nwPpjXk97fYF2aOUq2fcp) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [cô đơn sớm tối](https://open.spotify.com/album/4qYvvuBK3FkOVg1Qw0liko) | 4:21 | 2021-12-07 | 2021-12-31 |
+| [Cô Đơn Trên Sofa](https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia) | [Hồ Ngọc Hà](https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ) | [Cô Đơn Trên Sofa](https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5) | 4:23 | 2023-07-04 |  |
 | [cô ấy của anh ấy](https://open.spotify.com/track/3Sx63dtDf3m5barUfoPjRJ) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [không biết nên vui hay buồn](https://open.spotify.com/album/6dGz0gicZR4i1bzBWY4D42) | 4:34 | 2023-06-06 |  |
 | [Cầu Hôn \- Happy Version](https://open.spotify.com/track/4p0oGfPJqrrmdBC2GG6iK2) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 4:04 | 2021-12-07 |  |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
@@ -65,7 +66,7 @@
 | [Hương](https://open.spotify.com/track/7kOkCq8MPpSciLHQiKliJs) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6DET8Fkgy2bz1sl6gXcnGO) | 3:30 | 2021-12-07 | 2022-07-29 |
 | [Hương \(feat\. Negav\)](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 | 2022-07-24 |  |
 | [Hạ Phỏm](https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 | 2023-01-23 | 2023-06-09 |
-| [Hẹn Gặp Anh](https://open.spotify.com/track/64f07abwvPcAe6zzpHYeKy) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Hẹn Gặp Anh](https://open.spotify.com/album/1KcIB1cShYTGzjmChD6noF) | 3:30 | 2023-06-08 |  |
+| [Hẹn Gặp Anh](https://open.spotify.com/track/64f07abwvPcAe6zzpHYeKy) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Hẹn Gặp Anh](https://open.spotify.com/album/1KcIB1cShYTGzjmChD6noF) | 3:30 | 2023-06-08 | 2023-07-05 |
 | [Hẹn Ước Từ Hư Vô \- Live](https://open.spotify.com/track/2tg8L2ls1k19B2SvRKBnJh) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Hẹn Ước Từ Hư Vô \(Live\)](https://open.spotify.com/album/6hJV3dVl97mP4tTzXsToOT) | 4:07 | 2022-05-03 | 2023-06-07 |
 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 | 2021-12-07 |  |
 | [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 | 2022-05-10 | 2022-06-08 |
@@ -106,12 +107,13 @@
 | [One Second \- Unplugged](https://open.spotify.com/track/5RMLXxdOgDGd7dpNieYlZh) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 4:01 | 2021-12-07 | 2022-01-05 |
 | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI) | 3:32 | 2022-05-19 | 2023-02-22 |
 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 | 2021-12-07 |  |
-| [Phải Lòng Anh \- English Version](https://open.spotify.com/track/25SMvP3ET2NfTNjWkwmAEW) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Phải Lòng Anh \(English Version\)](https://open.spotify.com/album/5x1dEfqsHIabcvI1ADqWNe) | 3:45 | 2023-05-04 |  |
+| [Phải Lòng Anh \- English Version](https://open.spotify.com/track/25SMvP3ET2NfTNjWkwmAEW) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Phải Lòng Anh \(English Version\)](https://open.spotify.com/album/5x1dEfqsHIabcvI1ADqWNe) | 3:45 | 2023-05-04 | 2023-07-05 |
 | [Phận Hoa Rơi](https://open.spotify.com/track/6dkCXQoMZoEonJbbFYH83r) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Vicky Nhung](https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb) | [Phận Hoa Rơi](https://open.spotify.com/album/4Dgjy81XR40QJQ7ilXUkPu) | 3:56 | 2021-12-07 | 2021-12-30 |
 | [Phố Đã Lên Đèn](https://open.spotify.com/track/046BmJVCt4qOFnEGK7CZJK) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Phố Đã Lên Đèn](https://open.spotify.com/album/4mjgPoSHWFTBxPZXyYpuJP) | 4:46 | 2022-07-24 |  |
 | [Phố Đã Lên Đèn](https://open.spotify.com/track/47Y12sZlWlug3AceKoS5Hh) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Phố Đã Lên Đèn](https://open.spotify.com/album/1JHWAfIDkPEz3Cs10s8nuR) | 4:46 | 2021-12-07 | 2022-07-29 |
 | [Quá Non](https://open.spotify.com/track/54ALpltRItn7C0DWJNjLAb) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Quá Non](https://open.spotify.com/album/2jCy87EiceLYBY2ktDg0rf) | 3:28 | 2021-12-30 | 2022-02-02 |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-12-07 |  |
+| [Rồi Mình Sẽ Gặp Nhau \- Mười: Lời Nguyền Trở Lại Original Soundtrack](https://open.spotify.com/track/5EHV4QKIcf95NDmXH8nMg7) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py) | [Rồi Mình Sẽ Gặp Nhau \(Mười: Lời Nguyền Trở Lại Original Soundtrack\)](https://open.spotify.com/album/3AqaeDf1JPGGPtRiyJY9w8) | 4:04 | 2023-07-04 |  |
 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 | 2023-02-06 |  |
 | [Sashimi](https://open.spotify.com/track/48ogJnwdNJGgHj2aNZhZq6) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Sashimi](https://open.spotify.com/album/04EHUwLYoqGaFYv9d7AJFG) | 3:51 | 2022-09-12 | 2022-10-06 |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-06-01 |  |

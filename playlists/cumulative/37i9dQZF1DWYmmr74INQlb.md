@@ -2,7 +2,7 @@
 
 ### [I Love My '00s R&B](https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb)
 
-> Celebrating 20 years of  "Dangerously In Love"\. Cover: Beyoncé
+> The most essential R&B songs from the '00s\. Cover: Beyoncé
 
 152 songs - 10 hr 31 min
 

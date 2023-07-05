@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 69253,
+  "num_followers": 69232,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0",
+  "snapshot_id": "MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
-      },
-      "artists": [
-        {
-          "name": "Qazi & Qazi",
-          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
-        "name": "Seastroke",
-        "url": "https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt"
-      },
-      "artists": [
-        {
-          "name": "Wyldest",
-          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
-        }
-      ],
-      "duration_ms": 275528,
-      "name": "Seastroke",
-      "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Midnight Sun (Acoustic Version)",
         "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
       },
@@ -1523,6 +1491,38 @@
       "duration_ms": 123374,
       "name": "I Can See New Zealand From Here",
       "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Seastroke",
+        "url": "https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt"
+      },
+      "artists": [
+        {
+          "name": "Wyldest",
+          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+        }
+      ],
+      "duration_ms": 275528,
+      "name": "Seastroke",
+      "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
+      },
+      "artists": [
+        {
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
     },
     {
       "added_at": "2022-12-02 19:02:37",

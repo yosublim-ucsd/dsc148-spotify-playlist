@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18400,
+  "num_followers": 18409,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWI2N2M4MGY3ZDZiZWFmNzQ1NjdjN2VlYWE2MzI4OWJiMWQwMGU4",
+  "snapshot_id": "MCxkNTYzNWI5ZDNhZmZkMjI4Njc5YTc1YmZmNDc0NjkxMDc0NTAwMjc0",
   "tracks": [
     {
       "added_at": "2023-06-30 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Wandering Rebel",
-        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 137584,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Comprensi\u00f3n1",
         "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "HORA DE IRTE MIXTAPE",
-        "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "NO ME ATRAE",
-      "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "HORA DE IRTE MIXTAPE",
+        "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "NO ME ATRAE",
+      "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "La Ciudad Que Dejamos",
         "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 244952,
       "name": "Hacia los Bosques",
       "url": "https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
-      },
-      "artists": [
-        {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
         }
       ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Una Pel\u00edcula",
         "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 320167,
       "name": "Una Pel\u00edcula",
       "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
         }
       ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+      "duration_ms": 232173,
+      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1343,6 +1343,22 @@
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "Ultravioleta",
         "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 314026,
       "name": "Ultravioleta",
       "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Dentro",
-        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Dentro",
-      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Dentro",
+        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Dentro",
+      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
     },
     {
       "added_at": "2023-06-30 03:00:00",

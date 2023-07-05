@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,508 likes - 99 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,539 likes - 99 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 59 | [Love Ain't Over \- Club Edit](https://open.spotify.com/track/1QYkx8JV0E6eEXoD1q49dD) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Love Ain't Over](https://open.spotify.com/album/51oTex9Ozpd3DfpUhymt9w) | 5:38 |
 | 60 | [Manicumbi](https://open.spotify.com/track/4krFTTwq6VAFDZ3P419E8f) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 6:44 |
 | 61 | [Something Happened \- Pitto Instrumental Remix](https://open.spotify.com/track/0pAQUzD33FnYlqHWBJAJPI) | [TJ Kong](https://open.spotify.com/artist/1MbpqN0oIx9Liyk18wkmRr), [Nuno Dos Santos](https://open.spotify.com/artist/6pbyRsrSdph5CB46Z4cTZw) | [Compost Black Label \#77](https://open.spotify.com/album/5Mf8Fm6DKNAGWPFgKyn78O) | 7:03 |
-| 62 | [summer on the inside](https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE) | 3:25 |
+| 62 | [summer on the inside](https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa) | 3:25 |
 | 63 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 |
 | 64 | [Praia \- Yuksek Remix](https://open.spotify.com/track/5OnXpUXJfArXpxWIskl1E1) | [Nathalie Duchene](https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Praia \(Yuksek Remix\)](https://open.spotify.com/album/5HL75LL4ZgsNrsItVYYvLX) | 5:56 |
 | 65 | [Fuck Music \- Session Victim Remix](https://open.spotify.com/track/0z4xztC6tAI0R2ANGr6iJn) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Fuck Music](https://open.spotify.com/album/1R4Q1X6XLcwUpLRmdExV1f) | 6:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 98 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 |
 | 99 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 
-Snapshot ID: `MCwyMDI4MDhmMTRlODdlN2QzMzEwM2YzYzY3YTNmMTNmNTlmNzQzNTY4`
+Snapshot ID: `MCw4ODUzZjI4ZDFiMGEwZjllNzU2YWFiNTBkMTcyYWVjMjM2ODgzYzU1`

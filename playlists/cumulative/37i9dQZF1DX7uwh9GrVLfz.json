@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 233879,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 178680,
       "name": "Juggling",
       "url": "https://open.spotify.com/track/70YGqUBNdA30qVJF7ugRwC"
@@ -8171,6 +8171,24 @@
     },
     {
       "album": {
+        "name": "\u907a\u4f1d\u5b50\u30ec\u30d9\u30eb\u306eNO!!!",
+        "url": "https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
         "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
       },
@@ -9144,7 +9162,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 193902,
       "name": "\u5168\u529b\u7537",
       "url": "https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R"

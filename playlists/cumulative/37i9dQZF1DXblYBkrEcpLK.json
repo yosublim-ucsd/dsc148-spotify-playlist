@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(Pretty Guardian Sailor Moon) \u00a9\u6b66\u5185\u76f4\u5b50\u30fbPNP\uff0f\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u3010OSHI NO KO\u3011/\u3010\u63a8\u3057\u306e\u5b50\u3011\u00a9\ufe0f\u8d64\u5742\u30a2\u30ab\u00d7\u6a2a\u69cd\u30e1\u30f3\u30b4\uff0f\u96c6\u82f1\u793e\u30fb\u3010\u63a8\u3057\u306e\u5b50\u3011\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "EQUAL Anime",
   "tracks": [
     {
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 249400,
       "name": "Diamond Human",
       "url": "https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng"
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.3)",
+        "url": "https://open.spotify.com/album/67zSBhEfFjdI0xRa8hR3ew"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218719,
+      "name": "Full moon\u2026!",
+      "url": "https://open.spotify.com/track/2ZQaCiKPUz3gKtmhj3A57l"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30c3\u30d5\u30eb -Precious 4 Stars-",
         "url": "https://open.spotify.com/album/1Tok6e8q3GraJP63lgmTSe"
       },
@@ -1622,10 +1640,40 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 197810,
       "name": "Happy Marriage Song",
       "url": "https://open.spotify.com/track/71wf2toI44fvx2h3R26eoA"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.2)",
+        "url": "https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30eb\u30d3\u30fc(CV:\u4f0a\u99d2\u3086\u308a\u3048)",
+          "url": "https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs"
+        },
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        },
+        {
+          "name": "MEM\u3061\u3087(CV:\u5927\u4e45\u4fdd\u7460\u7f8e)",
+          "url": "https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215792,
+      "name": "HEART's\u2661KISS - New Arrange Ver.",
+      "url": "https://open.spotify.com/track/14eh6tobHVg8ojp9t27vm3"
     },
     {
       "album": {
@@ -2214,7 +2262,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 251818,
       "name": "Maybe\u30d2\u30ed\u30a4\u30f3",
       "url": "https://open.spotify.com/track/6JALjkUbQZuNvJZqDGjIoH"
@@ -2326,7 +2374,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 227080,
       "name": "New Genesis - From CrosSing",
       "url": "https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk"
@@ -3479,6 +3527,36 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.2)",
+        "url": "https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30eb\u30d3\u30fc(CV:\u4f0a\u99d2\u3086\u308a\u3048)",
+          "url": "https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs"
+        },
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        },
+        {
+          "name": "MEM\u3061\u3087(CV:\u5927\u4e45\u4fdd\u7460\u7f8e)",
+          "url": "https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232265,
+      "name": "STAR\u2606T\u2606RAIN - New Arrange Ver.",
+      "url": "https://open.spotify.com/track/5eP8pfVfJoVCR1b9mo1Fck"
+    },
+    {
+      "album": {
         "name": "STONE OCEAN",
         "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x"
       },
@@ -3490,7 +3568,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 209744,
       "name": "STONE OCEAN",
       "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
@@ -3508,7 +3586,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 212653,
       "name": "StrangeX",
       "url": "https://open.spotify.com/track/1qwPJiw1QCZHdDtkUxXtm3"
@@ -5327,6 +5405,58 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.2)",
+        "url": "https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30eb\u30d3\u30fc(CV:\u4f0a\u99d2\u3086\u308a\u3048)",
+          "url": "https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs"
+        },
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        },
+        {
+          "name": "MEM\u3061\u3087(CV:\u5927\u4e45\u4fdd\u7460\u7f8e)",
+          "url": "https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221712,
+      "name": "\u30b5\u30a4\u30f3\u306fB - New Arrange Ver.",
+      "url": "https://open.spotify.com/track/27qhwBOkY1DGgapjYYyFyh"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.1)",
+        "url": "https://open.spotify.com/album/7d64mWymF8BzaGpIrSp0iS"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30a2\u30a4(CV:\u9ad8\u6a4b\u674e\u4f9d)",
+          "url": "https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "\u30b5\u30a4\u30f3\u306fB - \u30a2\u30a4 Solo Ver.",
+      "url": "https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0"
+    },
+    {
+      "album": {
         "name": "Curiosity",
         "url": "https://open.spotify.com/album/1Iid4Xm44JxBfBv9jLfkR6"
       },
@@ -5552,7 +5682,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 235716,
       "name": "\u30bb\u30fc\u30e9\u30fc\u30b9\u30bf\u30fc\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/3OGLn1JbwjoBWdiFZs402k"
@@ -5986,6 +6116,24 @@
       "duration_ms": 255646,
       "name": "\u30d4\u30f3\u30ad\u30fc\u30d5\u30c3\u30af",
       "url": "https://open.spotify.com/track/0VYYvHAZPLPU36fLB8ko1S"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.3)",
+        "url": "https://open.spotify.com/album/67zSBhEfFjdI0xRa8hR3ew"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221162,
+      "name": "\u30d4\u30fc\u30de\u30f3\u4f53\u64cd",
+      "url": "https://open.spotify.com/track/1l1vWK6quArlImdGz5ROF1"
     },
     {
       "album": {
@@ -6904,7 +7052,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 221686,
       "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH"
@@ -6922,7 +7070,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 227625,
       "name": "\u5c0f\u558b\u65e5\u548c",
       "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"
@@ -7342,7 +7490,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 93680,
       "name": "\u66b4\u8d70\u5c11\u5973\u611b\u4f1d\u8336\u8336",
       "url": "https://open.spotify.com/track/5XNm0oqvg9Fh9NHBWojXlx"
@@ -7454,7 +7602,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 245826,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
@@ -7542,7 +7690,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 235574,
       "name": "\u6d41\u308c\u661f\u3078",
       "url": "https://open.spotify.com/track/4H7BFIbTKW66WcCbZZU9Hd"

@@ -1,13 +1,73 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127221,
+  "num_followers": 127222,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI5MiwxOTEwYTNiNWMyMTk4MDYyOGFiZDUxMTJlMTI5ZDljNjUzYjNhZmJh",
+  "snapshot_id": "NDMwMCxhMmU0ZGJiYTNiOWVkZjYyMTQ2ZDlmZDA0NzI4MjFmNjM5MjY2NDQ5",
   "tracks": [
+    {
+      "added_at": "2023-07-04 19:14:35",
+      "album": {
+        "name": "Snakes & Ladders",
+        "url": "https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Snakes & Ladders",
+      "url": "https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW"
+    },
+    {
+      "added_at": "2023-07-04 19:10:33",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/1GvvFHVDmXb6sVwDaJhliB"
+      },
+      "artists": [
+        {
+          "name": "Etza",
+          "url": "https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe"
+        },
+        {
+          "name": "Enviado Vida",
+          "url": "https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Norte",
+      "url": "https://open.spotify.com/track/6mwupa00mKosHnA2Yadp1u"
+    },
+    {
+      "added_at": "2023-07-04 19:10:09",
+      "album": {
+        "name": "Mothership",
+        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "SKUM",
+          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+        }
+      ],
+      "duration_ms": 243844,
+      "name": "Mothership",
+      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
+    },
     {
       "added_at": "2023-06-29 21:00:38",
       "album": {
@@ -1091,42 +1151,6 @@
       "duration_ms": 248064,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL"
-    },
-    {
-      "added_at": "2023-04-11 16:14:42",
-      "album": {
-        "name": "destination heartbreak",
-        "url": "https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv"
-    },
-    {
-      "added_at": "2023-04-10 16:34:17",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        },
-        {
-          "name": "Jnathyn",
-          "url": "https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk"
-        }
-      ],
-      "duration_ms": 221572,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1130245,
+  "num_followers": 1130444,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzgyN2QzY2E1MDZhMGY3ZTE3ODQ2NzZmNGY4Zjk1NTQ3NTA4NDAx",
+  "snapshot_id": "MCwxZWY3MDBkZGZkNzExYmZmZDNjY2NkYjkxNzRlY2FjNzY5MDU5Y2Y1",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "What's Love Got to Do with It - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+      "duration_ms": 230240,
+      "name": "What's Love Got to Do with It - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 288933,
       "name": "Never Say Goodbye",
       "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "All I Wanna Do Is Make Love To You",
-      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 310893,
+      "name": "All I Wanna Do Is Make Love To You",
+      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
-      },
-      "artists": [
-        {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "High Enough",
-      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 221670,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+      },
+      "artists": [
+        {
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Detonator",
-        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
-      },
-      "artists": [
-        {
-          "name": "Ratt",
-          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Givin' Yourself Away",
-      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Mass Slaughter: The Best Of Slaughter",
         "url": "https://open.spotify.com/album/3eefJebHQxT81kCOMr41l4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 238040,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Detonator",
+        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Givin' Yourself Away",
+      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
     },
     {
       "added_at": "2023-05-24 19:29:38",

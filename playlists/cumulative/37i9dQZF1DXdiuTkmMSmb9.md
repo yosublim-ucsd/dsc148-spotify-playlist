@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: J Hus
 
-300 songs - 15 hr 32 min
+301 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Sweet One](https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD) | 3:27 | 2022-08-19 | 2022-08-26 |
 | [Sweet One](https://open.spotify.com/track/5FgdsVE0cRgtmvhVo5E5dy) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/0Zs9cCVItyv2Rk5RpJ3KAz) | 3:27 | 2022-09-08 | 2023-02-10 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-03-02 |  |
+| [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-07-04 |  |
 | [Talk That Talk](https://open.spotify.com/track/4velCw4NS8gCmeni5PUg1P) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Talk That Talk](https://open.spotify.com/album/3ZjC2K1IHqrtD97yUxtxvf) | 2:56 | 2022-08-25 | 2022-09-09 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-08-25 | 2022-09-09 |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-07-18 | 2022-11-18 |

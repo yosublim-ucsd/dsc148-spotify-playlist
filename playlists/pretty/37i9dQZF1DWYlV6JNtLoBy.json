@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1395,
+  "num_followers": 1402,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk5OWJhZTg2ZWEzZWVjN2EzZDM4NWRhNTY1ODllOTRiM2NmNWQ2",
+  "snapshot_id": "MCw2Zjk0YjIyYmZhN2Q4ODI5YTk1MzlkNGI4MDIzNmYyMGU2NzIwNzM3",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Na Gode (Swahili)",
-        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Na Gode - Swahili",
-      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Tumeshinda",
         "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Na Gode (Swahili)",
+        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Na Gode - Swahili",
+      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -721,20 +721,24 @@
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Yatupasa Kushukuru",
-        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
       },
       "artists": [
         {
-          "name": "Ambassadors Of Christ Choir",
-          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
         }
       ],
-      "duration_ms": 229715,
-      "name": "Kuna Sauti Yaita",
-      "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
+      "duration_ms": 324808,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -751,6 +755,22 @@
       "duration_ms": 315213,
       "name": "Thamani Ya Wokovu",
       "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Yatupasa Kushukuru",
+        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
+      },
+      "artists": [
+        {
+          "name": "Ambassadors Of Christ Choir",
+          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
+        }
+      ],
+      "duration_ms": 229715,
+      "name": "Kuna Sauti Yaita",
+      "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -785,40 +805,20 @@
       "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Love Art Lust",
-        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+        "name": "Yahwe Uhimidiwe",
+        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
       },
       "artists": [
         {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+          "name": "Angela Chibalonza Muliri",
+          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
         }
       ],
-      "duration_ms": 160458,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
-        }
-      ],
-      "duration_ms": 324808,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+      "duration_ms": 270968,
+      "name": "Uliniumba Nikuabudu",
+      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -837,20 +837,20 @@
       "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-06-02 00:01:00",
       "album": {
-        "name": "Yahwe Uhimidiwe",
-        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
       },
       "artists": [
         {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
         }
       ],
-      "duration_ms": 270968,
-      "name": "Uliniumba Nikuabudu",
-      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
+      "duration_ms": 160458,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
     },
     {
       "added_at": "2023-04-06 20:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1081382,
+  "num_followers": 1081511,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2U3ZmYyYTJlNGYzZGE4MDg1NTk1MGY5NjE0NzQxNjg4NGQ1NDgy",
+  "snapshot_id": "MCw4M2NiYWVkMGFkNmViYmQ5MTk0ZDQ3Yjc4NzcyZDYwNjMzNWQzYjAx",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 106800,
       "name": "at least i'm pretty",
       "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "under the rug",
-        "url": "https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt"
-      },
-      "artists": [
-        {
-          "name": "phendste",
-          "url": "https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "i'd find you",
-      "url": "https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "The Shark in Your Water",
         "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 179815,
       "name": "Spiracle",
       "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "under the rug",
+        "url": "https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt"
+      },
+      "artists": [
+        {
+          "name": "phendste",
+          "url": "https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "i'd find you",
+      "url": "https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 160870,
       "name": "Manic Pixie Dream Girl",
       "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "VROOM VROOM",
-        "url": "https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc"
-      },
-      "artists": [
-        {
-          "name": "Mickey Darling",
-          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "VROOM VROOM",
-      "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "VROOM VROOM",
+        "url": "https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc"
+      },
+      "artists": [
+        {
+          "name": "Mickey Darling",
+          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "VROOM VROOM",
+      "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "Forevermore",
@@ -1333,20 +1317,20 @@
       "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
         }
       ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+      "duration_ms": 141290,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "I Just Wanna",
         "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 153783,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
     },
     {
       "added_at": "2023-04-28 05:06:47",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Nothing in Return",
-        "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
       },
       "artists": [
         {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Nothing in Return",
-      "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
+      "duration_ms": 153783,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1443,6 +1427,22 @@
       "duration_ms": 169973,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/4NBYId6eoacEMJDkhfTPG7"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Nothing in Return",
+        "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Nothing in Return",
+      "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
     },
     {
       "added_at": "2023-04-17 19:26:13",

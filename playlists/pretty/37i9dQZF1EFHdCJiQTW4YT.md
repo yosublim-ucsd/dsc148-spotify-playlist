@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 120 | [Crave](https://open.spotify.com/track/4dJIz3S6S2wQY5Sb1ZsL2A) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Bruises](https://open.spotify.com/album/0236kvYbYWUIXDWwxCh8ff) | 3:39 |
 | 121 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
 | 122 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
-| 123 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
-| 124 | [abstract art](https://open.spotify.com/track/0ktoxh7F2ygJx5lLSbVxvP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [abstract art](https://open.spotify.com/album/3WmvjDfFGJGLmZYWSyJ3nS) | 3:16 |
+| 123 | [abstract art](https://open.spotify.com/track/0ktoxh7F2ygJx5lLSbVxvP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [abstract art](https://open.spotify.com/album/3WmvjDfFGJGLmZYWSyJ3nS) | 3:16 |
+| 124 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
 | 125 | [Natural Disaster](https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt) | [newfamiliar](https://open.spotify.com/artist/4Atzuue891wvRGEPkBcVt9) | [Textures](https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I) | 3:14 |
 | 126 | [you got yours](https://open.spotify.com/track/1RC6Yf0W2BA6IkoREAKCP7) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:28 |
 | 127 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 132 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 133 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `MjgxNDA2NTAsMDAwMDAwMDAwZTRjMDg1YWI3NDFlYTljYmNlZDQ1YTAxMzM1NWE2Nw==`
+Snapshot ID: `MjgxNDIwMzAsMDAwMDAwMDA4MmQwMTA2YzVlMThkMjMzOGUxZGRiOWFkZWU1ODI1Zg==`

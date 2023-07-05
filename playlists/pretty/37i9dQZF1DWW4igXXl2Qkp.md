@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,556 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,612 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 27 | [Dynasty](https://open.spotify.com/track/1SCys1pf11OD6TU2U9kOH1) | [Coach Tev](https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx) | [Dynasty](https://open.spotify.com/album/2hwRTHtYc3ZtGVl2yEUNQG) | 3:19 |
 | 28 | [Trimmer](https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE) | 2:30 |
 | 29 | [DON'T COUNT ME OUT](https://open.spotify.com/track/4Rc8EXnq3AUZ5lziyRTpYV) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [DON'T COUNT ME OUT](https://open.spotify.com/album/25ezsuskvnK8CqCCMNYxfW) | 2:24 |
-| 30 | [Angela Bassett \- Radio Edit](https://open.spotify.com/track/38u2C9aUAoYCsY9on5Qgvh) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0), [Denzel Davon](https://open.spotify.com/artist/1AOkBxvdPb0kG1Zo6oRQCP) | [Angela Bassett \(Radio Edit\)](https://open.spotify.com/album/3zr2Sx5df4utliKGc7kgur) | 3:29 |
+| 30 | [Angela Bassett \- Radio Edit](https://open.spotify.com/track/38u2C9aUAoYCsY9on5Qgvh) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0), [Denzel Davon](https://open.spotify.com/artist/3JnBzcREiYxw4N1hka7HJG) | [Angela Bassett \(Radio Edit\)](https://open.spotify.com/album/3zr2Sx5df4utliKGc7kgur) | 3:29 |
 | 31 | [Listen to Me \(feat\. Zyanna\)](https://open.spotify.com/track/13x4lBMOFMNZ8p8IifQd1u) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [Zyanna](https://open.spotify.com/artist/3jnexhFggORGjrBZrDGoJf) | [Listen to Me \(feat\. Zyanna\)](https://open.spotify.com/album/2v8ZiCYnxRyFGzS9UuEO6p) | 3:01 |
 | 32 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 |
 | 33 | [empty](https://open.spotify.com/track/1FleBZL4hqJyE39WoZVvsi) | [Gunnr](https://open.spotify.com/artist/76XW9mOApt8NO24u2Yqzl1) | [empty](https://open.spotify.com/album/16jHOxbW2TuRwXuD3csjjc) | 1:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [RedRover!](https://open.spotify.com/track/5UibifuTrbIS6ctRM9GDyT) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 2:18 |
 | 75 | [Rider Music \(feat\. Heem\)](https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy) | [Jamal Gasol](https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h), [VH$](https://open.spotify.com/artist/0t8LeJmWFPn8uatq1zBt6A), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D) | [Tales From the Trenches](https://open.spotify.com/album/4JmLCYsKl5f07duetar98p) | 3:14 |
 
-Snapshot ID: `MCxmODliYjBlOTRhODEwMjlkYzhjNGIwMDk4ODI5NWZmNjQ3NWQ1MDlh`
+Snapshot ID: `MCw3YzZmNzdmMTIxNjIzY2MyOGI2MWMwNjJkYmZlM2Y0OWNiZDU2Y2Y1`

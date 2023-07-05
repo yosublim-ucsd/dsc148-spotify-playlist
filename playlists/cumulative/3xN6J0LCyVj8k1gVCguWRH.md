@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,381 songs - 5 day 16 hr 29 min
+2,383 songs - 5 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-05-05 |  |
 | [Left Her at the Shinkansen](https://open.spotify.com/track/19gnyq2eJg4LxS4gJStKG6) | [Ransom and the Subset](https://open.spotify.com/artist/3hOawhhTQ3mx02EEnnJN2c) | [Perfect Crimes](https://open.spotify.com/album/0uWnorUDnMyUO9OeyKm0Df) | 3:03 | 2023-06-30 |  |
 | [Legacy](https://open.spotify.com/track/71LlZZbhNZtvjUBbPcOxNr) | [Joey Calveiro](https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e), [Fernando Teo Calveiro](https://open.spotify.com/artist/1tP94AT89TYxw3gN7d3i2p), [Irving Aday O'connor](https://open.spotify.com/artist/17HaEVfVeoC6SCr88mgdTN), [Jimmy Branly](https://open.spotify.com/artist/4GlDRLBcwqTKIhqv1IqKKX), [Omar Hernández](https://open.spotify.com/artist/1U66RgQs9BhR1Hl2fcTFve), [Richard Bravo](https://open.spotify.com/artist/2dQuQhZoLRxJwQBiIzCSKY) | [Legacy](https://open.spotify.com/album/33Y9e53cuS81GnyMCaLPIt) | 3:12 | 2023-01-06 | 2023-01-28 |
+| [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2023-07-04 |  |
 | [Lemon](https://open.spotify.com/track/0pMmIEwZpl31qkiUqSAYBo) | [SMITH](https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7) | [Lemon](https://open.spotify.com/album/1kG83ZnIwWZmoAkAvQYWFA) | 2:41 | 2023-06-23 |  |
 | [Lemon Drop Love](https://open.spotify.com/track/1JyopKP0MWBHzoJ7DkdUbp) | [Daada](https://open.spotify.com/artist/6IgM3LTBZqe39HgR9M3vXk) | [Lemon Drop Love](https://open.spotify.com/album/4119qf3YohFopZ5Exz3mdL) | 3:49 | 2021-09-27 | 2021-10-13 |
 | [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2021-07-12 | 2021-11-19 |
@@ -1865,6 +1866,7 @@
 | [so you know](https://open.spotify.com/track/3IPdsAaaI7NLgn8lW3KXIo) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [the runaway](https://open.spotify.com/album/5b3EO3YUcPEgst7phZ2Xmf) | 2:08 | 2022-03-11 | 2022-03-31 |
 | [Sober](https://open.spotify.com/track/2I1DKbI38lcWXxAxwQ6IQf) | [Mike Watts](https://open.spotify.com/artist/3Wx36s9vPKc18yZopjMWPU), [Mikaila](https://open.spotify.com/artist/1mA7Bh4IhIuuUsrATfhEpT) | [Sober](https://open.spotify.com/album/3rN8rtA4haHiPN7v66jhek) | 3:35 | 2020-06-24 | 2020-07-13 |
 | [Sober Brain](https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Pretty Picture \(Side A\)](https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3) | 3:16 | 2021-04-30 | 2021-12-27 |
+| [Sofa](https://open.spotify.com/track/1WzhUeO671Ao0H4h3jRmUJ) | [Hannah Ascher](https://open.spotify.com/artist/2yHuoZP76QdJig5EbPEq1L) | [Sofa](https://open.spotify.com/album/0Bc1adVWc1yyTMu2LgjOTj) | 3:21 | 2023-07-04 |  |
 | [Soju](https://open.spotify.com/track/2dcD5s2X2A9QOV0Xhe0cdd) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [Soju](https://open.spotify.com/album/5PCBZNCMphWJAC5eVYdMLV) | 3:01 | 2022-06-20 | 2022-07-07 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 | 2021-07-12 |
 | [Solomon Sang](https://open.spotify.com/track/791eQ4TI42crcH5DKIz7uA) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [New Moon Daughter](https://open.spotify.com/album/7jV22JIrWgtCKCX34cJrzA) | 5:56 | 2020-08-20 | 2023-02-12 |

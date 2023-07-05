@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-207 songs - 10 hr 28 min
+208 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Blauer](https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:55 | 2022-10-27 |  |
 | [Block](https://open.spotify.com/track/1jHZiUutQ4CXjyQrP6m8MD) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Block](https://open.spotify.com/album/5pQCgupVL1IyBmBT3GAmzL) | 2:36 | 2022-05-01 | 2022-07-29 |
 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 | 2022-05-01 |  |
-| [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8) | 3:58 | 2023-06-22 |  |
+| [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8) | 3:58 | 2023-06-22 | 2023-07-05 |
+| [BON TON \(feat\. Lazza, Blanco, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:58 | 2023-06-29 |  |
 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 | 2022-05-01 |  |
 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2022-05-01 |  |
 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 | 2023-03-23 |  |

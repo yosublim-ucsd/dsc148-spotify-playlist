@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Oliva. Updates every Wednesday.",
-  "num_followers": 170776,
+  "num_followers": 170784,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzkwNDg4OGM0OTQ4ZDY1MjliZjE2YmM5YmMzYjA3MDMwNmMzZDgy",
+  "snapshot_id": "MCxmNzY0Mjk3MmVmMTIyYTU4MzkzODljMjdjMzhlOWEzMmY2MjNhYTVk",
   "tracks": [
     {
       "added_at": "2023-06-28 05:01:00",
@@ -135,18 +135,22 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Yo de #1",
-        "url": "https://open.spotify.com/album/1BuV8lwH8yIEVCAh0ghxQV"
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
       "artists": [
         {
-          "name": "Michi Sanz",
-          "url": "https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx"
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 125295,
-      "name": "Yo de #1",
-      "url": "https://open.spotify.com/track/6WuPCADvkg2NfxUNgZUrV4"
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -175,18 +179,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "fuerte",
-        "url": "https://open.spotify.com/album/1unTNewJl0gRRXwCrVuKN7"
+        "name": "Yo de #1",
+        "url": "https://open.spotify.com/album/1BuV8lwH8yIEVCAh0ghxQV"
       },
       "artists": [
         {
-          "name": "Cassie Marin",
-          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+          "name": "Michi Sanz",
+          "url": "https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx"
         }
       ],
-      "duration_ms": 142061,
-      "name": "fuerte",
-      "url": "https://open.spotify.com/track/20Gp0paD3DE695xWIjK25M"
+      "duration_ms": 125295,
+      "name": "Yo de #1",
+      "url": "https://open.spotify.com/track/6WuPCADvkg2NfxUNgZUrV4"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -211,18 +215,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+        "name": "fuerte",
+        "url": "https://open.spotify.com/album/1unTNewJl0gRRXwCrVuKN7"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
         }
       ],
-      "duration_ms": 192000,
-      "name": "ANESTESIA (Culebartola_Bb_115BPM)",
-      "url": "https://open.spotify.com/track/2CGFhjPJYkbd6dvRXXJZaP"
+      "duration_ms": 142061,
+      "name": "fuerte",
+      "url": "https://open.spotify.com/track/20Gp0paD3DE695xWIjK25M"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -243,22 +247,18 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "tal vez, no s\u00e9",
-        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
       },
       "artists": [
         {
-          "name": "Poli Sallustro",
-          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 224599,
-      "name": "tal vez, no s\u00e9",
-      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
+      "duration_ms": 192000,
+      "name": "ANESTESIA (Culebartola_Bb_115BPM)",
+      "url": "https://open.spotify.com/track/2CGFhjPJYkbd6dvRXXJZaP"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Otra Tarde Juntos",
-        "url": "https://open.spotify.com/album/6EMBfCgxfg58vSfxCDVfVp"
-      },
-      "artists": [
-        {
-          "name": "Aquiles Moon",
-          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Otra Tarde Juntos",
-      "url": "https://open.spotify.com/track/5d91xrjI5afsWPfaDZvJj6"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 157408,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Otra Tarde Juntos",
+        "url": "https://open.spotify.com/album/6EMBfCgxfg58vSfxCDVfVp"
+      },
+      "artists": [
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Otra Tarde Juntos",
+      "url": "https://open.spotify.com/track/5d91xrjI5afsWPfaDZvJj6"
     },
     {
       "added_at": "2023-06-28 05:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-28 05:01:00",
       "album": {
-        "name": "Las Cosas Como Son",
-        "url": "https://open.spotify.com/album/1woqoQ6GJzQMxbnzMvdTCK"
-      },
-      "artists": [
-        {
-          "name": "NERDS",
-          "url": "https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP"
-        }
-      ],
-      "duration_ms": 263230,
-      "name": "Las Cosas Como Son",
-      "url": "https://open.spotify.com/track/4qpc2x3fpFtbYtuArku7Az"
-    },
-    {
-      "added_at": "2023-06-28 05:01:00",
-      "album": {
         "name": "AL BORDE DEL DESBORDE",
         "url": "https://open.spotify.com/album/1QcWkKDe2gRzAucYGEHXXQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 180000,
       "name": "INSOMNIO",
       "url": "https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt"
+    },
+    {
+      "added_at": "2023-06-28 05:01:00",
+      "album": {
+        "name": "Las Cosas Como Son",
+        "url": "https://open.spotify.com/album/1woqoQ6GJzQMxbnzMvdTCK"
+      },
+      "artists": [
+        {
+          "name": "NERDS",
+          "url": "https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP"
+        }
+      ],
+      "duration_ms": 263230,
+      "name": "Las Cosas Como Son",
+      "url": "https://open.spotify.com/track/4qpc2x3fpFtbYtuArku7Az"
     },
     {
       "added_at": "2023-06-28 05:01:00",

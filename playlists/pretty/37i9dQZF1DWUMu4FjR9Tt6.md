@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,801 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,855 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 9 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
 | 10 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
 | 11 | [House of the Rising Sun](https://open.spotify.com/track/1yl50J4YBtHXaeN7pb1X0s) | [Jeremy Renner](https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1) | [House of the Rising Sun](https://open.spotify.com/album/2yqAv3OXPeeScqZeukManV) | 3:00 |
-| 12 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [XX](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
+| 12 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 13 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
 | 14 | [Into My Soul](https://open.spotify.com/track/40shQVO7gSn2eVy9aekLAI) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [Mr\. Freedom](https://open.spotify.com/album/0ecg61A1QhVtz50WJ100cq) | 4:35 |
 | 15 | [Hot Damn](https://open.spotify.com/track/7LrFX1E1GkwkLs5XrkD7Y2) | [Baby Strange](https://open.spotify.com/artist/6tvTqe2dTu8jVV5pcyfAGc) | [Put Out](https://open.spotify.com/album/4xySq6HlK90WlkHYzZ7ZWj) | 3:38 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MCw3ODAxYmI5NzkwN2M0MzQzYmRjZmYzMGU4ZDVkZjBiMTEzMTdiMDAw`
+Snapshot ID: `MCxhY2E5YjU5MDM3MzMyYWM5ZjZkY2IzOWVkYmY4MmU2YzA2OTdhM2I5`

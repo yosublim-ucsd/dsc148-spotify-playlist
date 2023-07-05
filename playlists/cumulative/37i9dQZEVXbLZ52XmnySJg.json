@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
@@ -10371,6 +10371,32 @@
     },
     {
       "album": {
+        "name": "Pasoori Nu (From \"Satyaprem Ki Katha\")",
+        "url": "https://open.spotify.com/album/201Dk8evzWZR3mscszuC3n"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197171,
+      "name": "Pasoori Nu (From \"Satyaprem Ki Katha\")",
+      "url": "https://open.spotify.com/track/6byRW2mzuc4nBTZ6TN6APu"
+    },
+    {
+      "album": {
         "name": "Pathala Pathala (From \"Vikram\")",
         "url": "https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO"
       },
@@ -12484,7 +12510,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 104006,
       "name": "SPAIN",
       "url": "https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6"
@@ -14736,7 +14762,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"

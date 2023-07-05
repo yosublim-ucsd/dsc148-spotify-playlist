@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 160796,
+  "num_followers": 160905,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjc0OWI2OGYwYzBkOGJjYmM5M2FmZDk3YTM4Y2M2OTY5M2JmODdl",
+  "snapshot_id": "MCxjMDAwZWQ5ODUxMGJkNDYyYzI3OGZjYmY2ZTExYTdhY2E4ZjUxMWZi",
   "tracks": [
     {
       "added_at": "2023-04-06 20:01:50",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
-      },
-      "artists": [
-        {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
+      },
+      "artists": [
+        {
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 210914,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 253984,
       "name": "Nydia",
       "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 210914,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1399,6 +1383,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
       "artists": [
         {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     }
   ],
   "unique_name": "Latin Indie Classics",

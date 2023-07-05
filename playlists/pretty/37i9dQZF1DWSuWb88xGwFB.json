@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 27904,
+  "num_followers": 27914,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5",
+  "snapshot_id": "MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
-      },
-      "artists": [
-        {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
-        }
-      ],
-      "duration_ms": 545040,
-      "name": "Justify - Vocal Mix",
-      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 343720,
       "name": "Dance To The Rhythm",
       "url": "https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
+      },
+      "artists": [
+        {
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
+        }
+      ],
+      "duration_ms": 545040,
+      "name": "Justify - Vocal Mix",
+      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama - Broder Mix",
-      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 406131,
       "name": "Love Trax - Love Izz",
       "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama - Broder Mix",
+      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 410973,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
       "artists": [
         {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
         }
       ],
-      "duration_ms": 494374,
-      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
-      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1055,6 +1039,22 @@
       "duration_ms": 766733,
       "name": "Tribal Seagulls",
       "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        }
+      ],
+      "duration_ms": 494374,
+      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
+      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
     },
     {
       "added_at": "2022-03-03 13:59:16",

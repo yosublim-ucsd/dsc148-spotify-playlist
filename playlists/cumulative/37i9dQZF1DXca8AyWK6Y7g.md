@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: flowerovlove
 
-1,711 songs - 3 day 14 hr 55 min
+1,712 songs - 3 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1664,7 +1664,8 @@
 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 | 2022-01-07 | 2022-01-29 |
 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 | 2022-09-16 | 2022-10-29 |
 | [whenever](https://open.spotify.com/track/4nnmIVkfC4GGYwYQyFSsmd) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [whenever / i tripped](https://open.spotify.com/album/7Ez11M93jpKG3Zv8HS8Ldc) | 3:42 | 2021-05-18 | 2021-10-16 |
-| [Where do we go now?](https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:03 | 2023-03-03 |  |
+| [Where do we go now?](https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:03 | 2023-03-03 | 2023-07-05 |
+| [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 | 2023-06-30 |  |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-03-04 |
 | [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 | 2022-09-02 | 2022-10-13 |
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |

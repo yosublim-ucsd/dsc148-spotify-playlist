@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-208 songs - 10 hr 45 min
+209 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Asuntos del Barrio](https://open.spotify.com/track/6MefVjzc01x9egWrzRqCGM) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 2:16 | 2022-06-10 |  |
 | [Asuntos Del Barrio](https://open.spotify.com/track/784Wfl4a786mzPSIgPXWjj) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/3FU4rjLstPLwFS6ZxEWY0F) | 2:16 | 2021-11-26 | 2022-07-29 |
 | [Atrevido](https://open.spotify.com/track/49rFA0vfmY9Eel2cInKmTk) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Atrevido](https://open.spotify.com/album/6F6t1c3J1JSV8FYVECOuZP) | 3:14 | 2021-11-26 | 2022-02-26 |
-| [Avengers en el Juego](https://open.spotify.com/track/5Igbr0gEDnBxALPNCAL2ZE) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/4YPlAH4YDCHwiYfIzRFxvX) | 4:33 | 2022-11-18 |  |
+| [Avengers en el Juego](https://open.spotify.com/track/0Yqd1lDCZnLCNfZxztoCUg) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/6FkR745h9h0Nf0AebzSqUC) | 4:33 | 2023-06-16 |  |
+| [Avengers en el Juego](https://open.spotify.com/track/5Igbr0gEDnBxALPNCAL2ZE) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/4YPlAH4YDCHwiYfIzRFxvX) | 4:33 | 2022-11-18 | 2023-07-05 |
 | [BANDIDO](https://open.spotify.com/track/3BPHTXnhA3J171UnkbgWrw) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [BANDIDO](https://open.spotify.com/album/7w4h2cIqzQF44SqnIS0Jzf) | 3:18 | 2021-11-26 | 2022-07-29 |
 | [BANDIDO](https://open.spotify.com/track/4ajS3CFOSAY9zdSZkrCWAK) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [BANDIDO](https://open.spotify.com/album/7BGAwJQpGkpLD9AXSYFGSn) | 3:18 | 2022-06-10 |  |
 | [Basura](https://open.spotify.com/track/09OoZ39K2iLBlEsuawWOPR) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Basura](https://open.spotify.com/album/6kwxc1F1cA0zxjm3ETNi7p) | 2:20 | 2022-06-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: The Acacia Strain",
-  "num_followers": 127614,
+  "num_followers": 127796,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2RmMDhkNTU4ZDEzNDFkMmNlODU5NGYzNTU1ZjgxMGE2NmRjZTQ0",
+  "snapshot_id": "MCw4NWFhM2ViZGY4Y2ExOWEyODM4MTRkYWIxY2ZmZTkzZTM1ZjYxNDU0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Human Target",
-        "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 181097,
-      "name": "New Gods",
-      "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Malady",
         "url": "https://open.spotify.com/album/4Jd5siItwcUoDND7YU2ogV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 307526,
       "name": "Obsessis a Daemonio",
       "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Human Target",
+        "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 181097,
+      "name": "New Gods",
+      "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Fathomless Maw",
-        "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 205058,
-      "name": "Fathomless Maw",
-      "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Downer",
         "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 230390,
       "name": "Boy",
       "url": "https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Fathomless Maw",
+        "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 205058,
+      "name": "Fathomless Maw",
+      "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Everything Bleeds",
-        "url": "https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY"
-      },
-      "artists": [
-        {
-          "name": "Crown Magnetar",
-          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Everything Bleeds",
-      "url": "https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "The Price of Grace",
         "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Dying Life",
-        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+        "name": "Everything Bleeds",
+        "url": "https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY"
       },
       "artists": [
         {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+          "name": "Crown Magnetar",
+          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
         }
       ],
-      "duration_ms": 200629,
-      "name": "Dying Life",
-      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+      "duration_ms": 162413,
+      "name": "Everything Bleeds",
+      "url": "https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 199186,
       "name": "Satanic Panic",
       "url": "https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Dying Life",
+        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 200629,
+      "name": "Dying Life",
+      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "World War X",
-        "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 268331,
-      "name": "World War X",
-      "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "I Hope We Make It Out of This Alive",
         "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "World War X",
+        "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 268331,
+      "name": "World War X",
+      "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "A Hill to Die Upon",
         "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
@@ -1779,6 +1779,22 @@
       "duration_ms": 229000,
       "name": "King Ov Fire",
       "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 218471,
+      "name": "Kimo",
+      "url": "https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 218471,
-      "name": "Kimo",
-      "url": "https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
       },
@@ -1847,8 +1847,8 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Stained In Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+        "name": "Bathe in the Flame",
+        "url": "https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6"
       },
       "artists": [
         {
@@ -1856,25 +1856,9 @@
           "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
         }
       ],
-      "duration_ms": 254500,
-      "name": "Stained In Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Axe Of Kindness",
-        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "Axe of Kindness",
-      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+      "duration_ms": 240000,
+      "name": "Bathe in the Flame",
+      "url": "https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1891,6 +1875,22 @@
       "duration_ms": 182084,
       "name": "Paranoid Skizoid",
       "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Axe Of Kindness",
+        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Axe of Kindness",
+      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2011,18 +2011,38 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Bathe in the Flame",
-        "url": "https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6"
+        "name": "Befouler (feat. Alex Terrible)",
+        "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
       },
       "artists": [
         {
           "name": "Ov Sulfur",
           "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Alex Terrible",
+          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Bathe in the Flame",
-      "url": "https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib"
+      "duration_ms": 223190,
+      "name": "Befouler (feat. Alex Terrible)",
+      "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Death Whistle",
+        "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 353138,
+      "name": "Death Whistle",
+      "url": "https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2055,22 +2075,6 @@
       "duration_ms": 250933,
       "name": "What I Would Give",
       "url": "https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Death Whistle",
-        "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 353138,
-      "name": "Death Whistle",
-      "url": "https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg"
     },
     {
       "added_at": "2023-06-30 04:01:00",

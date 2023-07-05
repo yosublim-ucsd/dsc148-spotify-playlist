@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-360 songs - 21 hr 47 min
+361 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Along The Way](https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Along The Way](https://open.spotify.com/album/51GIJNNbbCHmB2C9qWTEOK) | 2:43 | 2022-07-22 |  |
 | [Amazing \- Strings Version](https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Amazing \(Strings Version\)](https://open.spotify.com/album/0eVwqZNTNaLpBvD95NiN2d) | 2:58 | 2022-02-11 |  |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-10 | 2023-03-04 |
-| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-02-17 |  |
+| [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-02-17 |  |
+| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-02-17 | 2023-07-05 |
 | [Angels In Science Fiction](https://open.spotify.com/track/6EDt6D43K1OewCZsGDZDku) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:46 | 2023-04-21 |  |
 | [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 |  |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-17 | 2022-04-21 |

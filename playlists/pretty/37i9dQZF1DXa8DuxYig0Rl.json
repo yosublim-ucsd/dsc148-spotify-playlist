@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 19113,
+  "num_followers": 19134,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2",
+  "snapshot_id": "MCw5ZmQ0NTViMDhmOGZjNjJmZmM2MjhjZWZjMjMwNTQ0MGZkZjhiMGNj",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Que Rico Mambo",
-        "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 236235,
-      "name": "Que Rico Mambo",
-      "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "El Danz\u00f3n Nunca Muere",
         "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 185893,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Que Rico Mambo",
+        "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 236235,
+      "name": "Que Rico Mambo",
+      "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Pancha Baila en Turcos",
+      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "40 Temas Originales",
         "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 191200,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Pancha Baila en Turcos",
-      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
       "artists": [
         {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
         }
       ],
-      "duration_ms": 182720,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
+      "duration_ms": 168653,
+      "name": "La Diablesa del rock",
+      "url": "https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
       },
       "artists": [
         {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
         }
       ],
-      "duration_ms": 168653,
-      "name": "La Diablesa del rock",
-      "url": "https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5"
+      "duration_ms": 182720,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -983,6 +983,22 @@
       "duration_ms": 163880,
       "name": "Cumbia cal\u00e9",
       "url": "https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "El Cha Cha Cha de los Borrachitos",
+      "url": "https://open.spotify.com/track/3TGYtWgHY0KjnrUiHGcvYC"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
       },
       "artists": [
         {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
         }
       ],
-      "duration_ms": 181333,
-      "name": "El Cha Cha Cha de los Borrachitos",
-      "url": "https://open.spotify.com/track/3TGYtWgHY0KjnrUiHGcvYC"
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1079,22 +1095,6 @@
       "duration_ms": 193026,
       "name": "Un Meneito Na' Ma'",
       "url": "https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
-      },
-      "artists": [
-        {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mambos Boleros y Danzones",
-        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 247974,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 147840,
       "name": "Mambo Universitario",
       "url": "https://open.spotify.com/track/32xH84FLeD1lEuePV242FO"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mambos Boleros y Danzones",
+        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 247974,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Pachito E\u00b4che",
-        "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 188290,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Presentando a Ana Mar\u00eda Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 141640,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Pachito E\u00b4che",
+        "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 188290,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
     },
     {
       "added_at": "2023-01-23 22:42:50",

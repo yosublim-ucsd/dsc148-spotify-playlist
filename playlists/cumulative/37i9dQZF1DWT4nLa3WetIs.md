@@ -2,7 +2,7 @@
 
 ### [Timeless Afro ](https://open.spotify.com/playlist/37i9dQZF1DWT4nLa3WetIs)
 
-> Timeless afrobeats celebrating the Journey of a billion streams\. Cover: Tiwa Savage Discover more  <a href="https://afrobeats.byspotify.com/">here </a>
+> Celebrating ten years of Tiwa Savage's Debut Album; Once Upon a Time\. Cover: Tiwa Savage.
 
 181 songs - 12 hr 31 min
 

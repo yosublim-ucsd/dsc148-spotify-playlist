@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 46144,
+  "num_followers": 46151,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
+  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Give Me Your Forever",
-        "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever (ft. Billkin)",
-      "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Give Me Your Forever",
+        "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever (ft. Billkin)",
+      "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "I.L.S.M (I Love Sadness More)",
-        "url": "https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f"
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
       "artists": [
         {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 185624,
-      "name": "I.L.S.M",
-      "url": "https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     }
   ],
   "unique_name": "Chill Lah",

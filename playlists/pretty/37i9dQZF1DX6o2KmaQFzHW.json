@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 168817,
+  "num_followers": 168892,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWQyM2JiNjNjZjE5NWFmNzhkMDQ0OWE3MGM1MTM1YjM0MWFkODFj",
+  "snapshot_id": "MCwxN2RiYzZkYmYxMzU3NWFkZjUxZGM3ZGNiY2QxMTc2ODE2NjQzZjI4",
   "tracks": [
     {
       "added_at": "2023-06-22 19:04:10",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
       "artists": [
         {
           "name": "Los Nocheros",
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
+      "duration_ms": 161160,
+      "name": "Chacarera Del Rancho",
+      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -375,18 +371,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
           "name": "Los Nocheros",
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 161160,
-      "name": "Chacarera Del Rancho",
-      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
+      "duration_ms": 185226,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "La Llave",
         "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 214386,
       "name": "Mi Luna Cautiva",
       "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Todos Los Dias Un Poco...",
         "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194200,
       "name": "Ojos de Cielo",
       "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Para Que Vuelvas",
-        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
-      },
-      "artists": [
-        {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Criollita Santiague\u00f1a",
-      "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Eternamente Tucu",
         "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 221253,
       "name": "Anoche No Dormi",
       "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Para Que Vuelvas",
+        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
+      },
+      "artists": [
+        {
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Criollita Santiague\u00f1a",
+      "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Los Tekis-Los Elegidos",
         "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "El Encuentro (En Vivo)",
         "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
       },
@@ -1147,26 +1147,6 @@
       "duration_ms": 146373,
       "name": "El Escondido - En Vivo",
       "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Correntinas II",
-        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Alma Guaran\u00ed",
-      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Correntinas II",
+        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        },
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Alma Guaran\u00ed",
+      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
         "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Zamba Del Negro Alegre",
-      "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 197933,
       "name": "La Oma",
       "url": "https://open.spotify.com/track/33m167IeZBbft2xQOuqjX3"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Zamba Del Negro Alegre",
+      "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Confiter\u00eda Europea 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
-      },
-      "artists": [
-        {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Serenata Oto\u00f1al",
-      "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 227533,
       "name": "C\u00f3rdoba Sin Ti",
       "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Confiter\u00eda Europea 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
+      },
+      "artists": [
+        {
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+        }
+      ],
+      "duration_ms": 148933,
+      "name": "Serenata Oto\u00f1al",
+      "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Por Siempre....",
+        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
         "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 770851,
       "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
       "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 293186,
-      "name": "La Tempranera",
-      "url": "https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ"
     },
     {
       "added_at": "2023-06-22 19:04:10",

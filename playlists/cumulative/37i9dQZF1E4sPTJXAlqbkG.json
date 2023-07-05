@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 64722,
       "name": "2hrs",
       "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 164488,
       "name": "Care",
       "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
@@ -390,6 +390,24 @@
       "duration_ms": 261213,
       "name": "Deserve It",
       "url": "https://open.spotify.com/track/4DhcorFL5TTEMuh17ZQUqY"
+    },
+    {
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/2uFbvE53w9KIAZ0RKl1pLs"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/0tjJosKJDhjhGh2P8NtiK3"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149002,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/01XiU0oiqKUUlo0DKIK3yM"
     },
     {
       "album": {
@@ -604,7 +622,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 231267,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 87560,
       "name": "I Don't Wanna Do This Anymore",
       "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
@@ -662,7 +680,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 319973,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 133521,
       "name": "I LIKE",
       "url": "https://open.spotify.com/track/5uKHTLXNcftXtYfU7j9cQ6"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 140898,
       "name": "Last Time I Checked",
       "url": "https://open.spotify.com/track/6MbT7gXzpyQtloDkiH2T6G"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 195909,
       "name": "One Night Only",
       "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 212992,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 236973,
       "name": "Preach",
       "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 180303,
       "name": "Rehab (Winter In Paris)",
       "url": "https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 128026,
       "name": "Self Esteem - #1 HIT - Kisses for Me",
       "url": "https://open.spotify.com/track/3jRDfw9ZpCNuZaMnnfKAEn"
@@ -1494,6 +1512,24 @@
       "duration_ms": 198010,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7mWtOqfkOCbaldtK6TEoVd"
+    },
+    {
+      "album": {
+        "name": "Slept on You",
+        "url": "https://open.spotify.com/album/0k1WA0b3MnJUeMfhuoVDH0"
+      },
+      "artists": [
+        {
+          "name": "Xavier Dixon",
+          "url": "https://open.spotify.com/artist/5KQ8IS3C04L98EAFrCGVYq"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Slept on You",
+      "url": "https://open.spotify.com/track/3WGSPjjgCZMN3ujB550CaR"
     },
     {
       "album": {
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 266707,
       "name": "Still Callin' (feat. Teeflii)",
       "url": "https://open.spotify.com/track/0sGqkDmFIr4FWEKoOalCWH"
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 295800,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/0QyJXG36Q3Kta662XS8GhY"
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 223517,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 256764,
       "name": "Used To",
       "url": "https://open.spotify.com/track/4XZ4PbbjglTQkJ9DVdIF1S"
@@ -1872,10 +1908,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 202425,
       "name": "Wanna Be (feat. PARTYNEXTDOOR & London On Da Track)",
       "url": "https://open.spotify.com/track/2DxHdJYeBvbiceEszdrGtr"
+    },
+    {
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194033,
+      "name": "want me",
+      "url": "https://open.spotify.com/track/0hZq8VE52aJJtLUWajO54w"
     },
     {
       "album": {
@@ -1966,7 +2020,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 195053,
       "name": "With You",
       "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B"

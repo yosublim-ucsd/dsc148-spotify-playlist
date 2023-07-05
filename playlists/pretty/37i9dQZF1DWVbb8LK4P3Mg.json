@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 97761,
+  "num_followers": 97757,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4",
+  "snapshot_id": "MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "FOCUS",
-        "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 146962,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Gift For You",
         "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 213986,
       "name": "Gift For You",
       "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 146962,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        },
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 158226,
-      "name": "Be Your Christmas (feat. BOL4)",
-      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "cozy christmas",
         "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 123666,
       "name": "Today and other days (Feat. Eily)",
       "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Twenties = Love",
-        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
-      },
-      "artists": [
-        {
-          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
-          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Snow Sun",
-      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Christmas in July",
         "url": "https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 239653,
       "name": "Christmas in July",
       "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Twenties = Love",
+        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
+      },
+      "artists": [
+        {
+          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
+          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Snow Sun",
+      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
     },
     {
       "added_at": "2023-01-10 15:24:13",

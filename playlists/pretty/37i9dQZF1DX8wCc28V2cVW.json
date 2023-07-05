@@ -1,12 +1,12 @@
 {
   "description": "Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song. \u6700\u65b0\u4f5c\u300eFFXVI\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 174397,
+  "num_followers": 174463,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDZhYWJhYTA2NzI1NDY4NmZhNTI5ZDNkN2YwMDBlNWY3YTRlMTJm",
+  "snapshot_id": "MCw5MTIwYWIwMzcwNzRkMDRiMDM2OTQ4NzQ3M2RiZTJiM2M3MjM0YWYx",
   "tracks": [
     {
       "added_at": "2023-06-25 15:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-25 15:00:00",
       "album": {
+        "name": "FINAL FANTASY X Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
+      },
+      "artists": [
+        {
+          "name": "RIKKI",
+          "url": "https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "SUTEKI DA NE (Isn't It Wonderful?)",
+      "url": "https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx"
+    },
+    {
+      "added_at": "2023-06-25 15:00:00",
+      "album": {
         "name": "KINGSGLAIVE FINAL FANTASY XV Original Soundtrack",
         "url": "https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 220904,
       "name": "Calling for Rain",
       "url": "https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L"
-    },
-    {
-      "added_at": "2023-06-25 15:00:00",
-      "album": {
-        "name": "FINAL FANTASY X Original Soundtrack",
-        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
-      },
-      "artists": [
-        {
-          "name": "RIKKI",
-          "url": "https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG"
-        }
-      ],
-      "duration_ms": 334066,
-      "name": "SUTEKI DA NE (Isn't It Wonderful?)",
-      "url": "https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx"
     },
     {
       "added_at": "2023-06-25 15:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-25 15:00:00",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
-      },
-      "artists": [
-        {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
-        }
-      ],
-      "duration_ms": 105960,
-      "name": "Character Creation",
-      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
-    },
-    {
-      "added_at": "2023-06-25 15:00:00",
-      "album": {
         "name": "\u30bc\u30ed",
         "url": "https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 415360,
       "name": "\u30bc\u30ed",
       "url": "https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ"
+    },
+    {
+      "added_at": "2023-06-25 15:00:00",
+      "album": {
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+      },
+      "artists": [
+        {
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+        }
+      ],
+      "duration_ms": 105960,
+      "name": "Character Creation",
+      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
     },
     {
       "added_at": "2023-06-25 15:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-06-25 15:00:00",
       "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "ShootieHG",
+          "url": "https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP"
+        }
+      ],
+      "duration_ms": 115853,
+      "name": "Crazy Chocobo",
+      "url": "https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN"
+    },
+    {
+      "added_at": "2023-06-25 15:00:00",
+      "album": {
         "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
         "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
@@ -1196,13 +1212,13 @@
       },
       "artists": [
         {
-          "name": "ShootieHG",
-          "url": "https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP"
+          "name": "Joelle",
+          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
         }
       ],
-      "duration_ms": 115853,
-      "name": "Crazy Chocobo",
-      "url": "https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN"
+      "duration_ms": 405293,
+      "name": "Yeul's Theme",
+      "url": "https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf"
     },
     {
       "added_at": "2023-06-25 15:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 202826,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r"
-    },
-    {
-      "added_at": "2023-06-25 15:00:00",
-      "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "Joelle",
-          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Yeul's Theme",
-      "url": "https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf"
     }
   ],
   "unique_name": "FINAL FANTASY",

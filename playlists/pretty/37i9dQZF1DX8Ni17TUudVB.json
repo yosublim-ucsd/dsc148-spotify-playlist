@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137758,
+  "num_followers": 137787,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz",
+  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "e-mail",
-        "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
-        }
-      ],
-      "duration_ms": 151587,
-      "name": "e-mail",
-      "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 160149,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "e-mail",
+        "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "duration_ms": 151587,
+      "name": "e-mail",
+      "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
     },
     {
       "added_at": "2023-05-15 15:50:08",

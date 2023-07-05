@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Masroor",
+        "url": "https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Katoptris",
+          "url": "https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Masroor",
+      "url": "https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj"
+    },
+    {
+      "album": {
         "name": "Mazze Me",
         "url": "https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61"
       },

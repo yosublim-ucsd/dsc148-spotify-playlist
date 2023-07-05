@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 196333,
+  "num_followers": 196359,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
+  "snapshot_id": "MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 186373,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Don't Deserve You",
+      "url": "https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so"
-      },
-      "artists": [
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Don't Deserve You",
-      "url": "https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dear Future Wife (Acoustic)",
         "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 168069,
       "name": "Dear Future Wife - Acoustic",
       "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 214746,
       "name": "Praying For You",
       "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Here's to Second Chances",
-        "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "What Will She Say",
-      "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Will Never Fail",
         "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 199826,
       "name": "Love Will Never Fail (I Corinthians 13)",
       "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Here's to Second Chances",
+        "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "What Will She Say",
+      "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
     },
     {
       "added_at": "2023-01-31 10:01:12",

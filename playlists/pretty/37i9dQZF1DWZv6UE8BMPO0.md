@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,463 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,457 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 47 | [The Christmas Waltz](https://open.spotify.com/track/7ya0ZMfmZib659gPc1EffF) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 2:44 |
 | 48 | [Jingle Bells](https://open.spotify.com/track/40wnIrpSNGnU2xtprgYHme) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 2:34 |
 | 49 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 |
-| 50 | [I Wonder as I Wander](https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:57 |
+| 50 | [I Wonder As I Wander](https://open.spotify.com/track/0kzHQzoXWk9lBrXgKPXMNz) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2: Instrumental Jazz For The Holidays](https://open.spotify.com/album/3PxUEXG9yUTdT9vcopnWD9) | 3:57 |
 | 51 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
 | 52 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
 | 53 | [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 85 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
 | 86 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 |
 
-Snapshot ID: `MCwxZWYyM2JmOGEzNjNkNDQ4NTIwY2I4MjY2MGJhM2MzOTZiY2I3YzUx`
+Snapshot ID: `MCwwMDQxNDkyODRjMzQxOWMyOGQ3Y2IzZjJhYTA2MDU5NTZhZDgyMjY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: MATONDO, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,627 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,630 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 3 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
 | 4 | [Toxisch](https://open.spotify.com/track/0xXg49Q95WwUIVc3TC9eK7) | [Die Krux](https://open.spotify.com/artist/2SLzDQT4gRA9vDbUB2BxMp) | [Toxisch](https://open.spotify.com/album/5Bg0G5KWlxCY4JMVj6HPyT) | 3:18 |
 | 5 | [CAll ME BY MY NAME](https://open.spotify.com/track/2apZfYtSYye5BmK5OTxujV) | [TEll A VISION](https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353) | [TEll A ViSiON](https://open.spotify.com/album/1WA1kM9ZEYsdz07hFCEot8) | 3:00 |
-| 6 | [Rockstar Girl](https://open.spotify.com/track/3qjf9XVTewiGj4haOQimeB) | [Samt](https://open.spotify.com/artist/17jJpG6K8SbUCWqlhGjHhj) | [Rockstar Girl](https://open.spotify.com/album/2cAbRnIIdwIkNzNVwfV5ff) | 2:33 |
+| 6 | [Rockstar Girl](https://open.spotify.com/track/3qjf9XVTewiGj4haOQimeB) | [SAMT](https://open.spotify.com/artist/17jJpG6K8SbUCWqlhGjHhj) | [Rockstar Girl](https://open.spotify.com/album/2cAbRnIIdwIkNzNVwfV5ff) | 2:33 |
 | 7 | [Paola](https://open.spotify.com/track/0O27352iWIhoEzogT3svW1) | [Tropen Tropen](https://open.spotify.com/artist/5wK3kj0ljsEqziHVzCKNTr) | [Die Neue Dehnbarkeit](https://open.spotify.com/album/0EqgZYdsCmL30oI8MrF5BP) | 4:47 |
 | 8 | [Das stimmt doch gar nicht](https://open.spotify.com/track/0VPbCiBVoZfIZ0WX4jVqCt) | [MYA](https://open.spotify.com/artist/14TYA16u3JaszjSQTLxtsS) | [Das stimmt doch gar nicht](https://open.spotify.com/album/7s8EMDgQIWv3xBCsdYHxlt) | 3:02 |
 | 9 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Deathtrip At Sunrise At Paradise Beach](https://open.spotify.com/track/0udK6stA8KnUAKokHRWuzC) | [Half Darling](https://open.spotify.com/artist/07CLAoh1lcnhcrPyCKzOgz) | [Half Darling](https://open.spotify.com/album/3jZ3XI7Zg8avIkwR0uc7Id) | 4:20 |
 | 80 | [Rules](https://open.spotify.com/track/4DkgmbvD5wBz7gmrYq7Mp6) | [Nico Brey](https://open.spotify.com/artist/1PelAqHkDh239fKIvBQMG4) | [Rules](https://open.spotify.com/album/039De5ujSbZ15SKx8lrqZz) | 2:51 |
 
-Snapshot ID: `MCxmYWQ2ZGI2Y2VkZDcxY2Q0ZTEyM2U4MWY4MjYzZmE0YzU0MThjMjY1`
+Snapshot ID: `MCxiODM5NmZkZTJhZWM4ODFmMTY5ZTA1YTliZDkyMDc2ODQ2ZmJiMzJh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Poslechn\u011bte si \u017eeny z \u010ceska a Slovenska na plnou hlasitost. Cover: Laura Weng",
+  "description": "Poslechn\u011bte si \u017eeny z \u010ceska a Slovenska na plnou hlasitost. Cover: Annet X",
   "name": "EQUAL CZ&SK",
   "tracks": [
     {
@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "bittersweet heartbreak",
+        "url": "https://open.spotify.com/album/5eRQ8VlWhrsAKr8JD1M6a7"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215190,
+      "name": "bittersweet heartbreak",
+      "url": "https://open.spotify.com/track/3fJFhSjiMFsTe73m7KINJo"
+    },
+    {
+      "album": {
         "name": "Blind Tomorrow",
         "url": "https://open.spotify.com/album/5tPoBNWty5adBjeLQIC4B0"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 232500,
       "name": "Blind Tomorrow",
       "url": "https://open.spotify.com/track/7bHzluTgD7IIIewUklaojd"
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 165926,
       "name": "Born Perfect",
       "url": "https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC"
@@ -450,6 +468,24 @@
       "duration_ms": 134171,
       "name": "Budeme svoji",
       "url": "https://open.spotify.com/track/1iKSgO9r4Um1ViuymwVaQX"
+    },
+    {
+      "album": {
+        "name": "By se ti l\u00edbilo",
+        "url": "https://open.spotify.com/album/1fsGNA21D6egr3sd4jRwwz"
+      },
+      "artists": [
+        {
+          "name": "Naty Hrychov\u00e1",
+          "url": "https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172934,
+      "name": "By se ti l\u00edbilo",
+      "url": "https://open.spotify.com/track/50A0EdWbMiLAyblyUtNT55"
     },
     {
       "album": {
@@ -536,10 +572,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 210983,
       "name": "Cold",
       "url": "https://open.spotify.com/track/0c0KcMiDbPUhGsbEbrxngP"
+    },
+    {
+      "album": {
+        "name": "Daj mi d\u00f4vod",
+        "url": "https://open.spotify.com/album/7HrXLFUCOv4lucrC7XN5Dg"
+      },
+      "artists": [
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Daj mi d\u00f4vod",
+      "url": "https://open.spotify.com/track/68K2yt77HKHb1Ew6BJ1dhY"
     },
     {
       "album": {
@@ -739,6 +793,24 @@
     },
     {
       "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/7BDMMphPkco0EBRRAX4jmS"
+      },
+      "artists": [
+        {
+          "name": "teepee",
+          "url": "https://open.spotify.com/artist/4uU11t5hm7AkOVgiO2IbgA"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297919,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/2MIw5Zn0IxhlNwYyEDnP9Z"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/6zrlMgpHaAOQr8J8s3MZ8P"
       },
@@ -786,7 +858,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 142222,
       "name": "Fialov\u00e1 mood",
       "url": "https://open.spotify.com/track/3jujCYeVeByXGW2rBnEfOn"
@@ -822,7 +894,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 167065,
       "name": "Flood",
       "url": "https://open.spotify.com/track/25fmgvpvBZj9wF6cJ5BxvK"
@@ -1274,7 +1346,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 255000,
       "name": "I NEED TO STOP",
       "url": "https://open.spotify.com/track/2Ax6yhrAsgt23jxmAvQ1TK"
@@ -1400,7 +1472,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 186405,
       "name": "if i fall for you",
       "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
@@ -1476,7 +1548,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 148465,
       "name": "Instincts",
       "url": "https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b"
@@ -1657,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "J\u00e1 nechci v\u00edc",
+        "url": "https://open.spotify.com/album/3QzjiSzpBzQG0KUuhwz9uf"
+      },
+      "artists": [
+        {
+          "name": "Andrea Kalousov\u00e1",
+          "url": "https://open.spotify.com/artist/4VddqrWeNdiiqKVokwC252"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196981,
+      "name": "J\u00e1 nechci v\u00edc",
+      "url": "https://open.spotify.com/track/4vuXy2szP85SPkMgXlUmBU"
+    },
+    {
+      "album": {
         "name": "J\u00e1 T\u011b M\u00e1m",
         "url": "https://open.spotify.com/album/1t4WJ31sxO05xTsPdtMdNg"
       },
@@ -1783,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "Kdy\u017e m\u00e1\u0161 co d\u00e1t",
+        "url": "https://open.spotify.com/album/3V13HQZyqP2CBh3OUQkkYR"
+      },
+      "artists": [
+        {
+          "name": "Martina Hekerov\u00e1",
+          "url": "https://open.spotify.com/artist/5b7iQwWzu5rCxyaj9WNoky"
+        },
+        {
+          "name": "Dalibor Janda",
+          "url": "https://open.spotify.com/artist/7hJ9hyPavVhnD2Tt6irUcX"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206863,
+      "name": "Kdy\u017e m\u00e1\u0161 co d\u00e1t",
+      "url": "https://open.spotify.com/track/6RYDUH73TEtHEpbS7GOBp8"
+    },
+    {
+      "album": {
         "name": "\u017dijut\u011b",
         "url": "https://open.spotify.com/album/5Wv0jQgHdS7x4keczmy9uB"
       },
@@ -1872,6 +1984,24 @@
       "duration_ms": 163124,
       "name": "Koloto\u010d",
       "url": "https://open.spotify.com/track/79YdtbHUWRYAU4YxvprpmE"
+    },
+    {
+      "album": {
+        "name": "Kolty",
+        "url": "https://open.spotify.com/album/4oREeO6GohIdBM2X8NSrmJ"
+      },
+      "artists": [
+        {
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/4hXIAjChioZM76d0afbqQL"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "Kolty",
+      "url": "https://open.spotify.com/track/7bwHQPAuWhxzqfbuiSyz0H"
     },
     {
       "album": {
@@ -2114,7 +2244,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 121758,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/6DrkGXmhqGXjVRq6q3Prj6"
@@ -2176,6 +2306,24 @@
       "duration_ms": 183797,
       "name": "Low",
       "url": "https://open.spotify.com/track/6fBfb9cUwXvjTAIOPmJoRY"
+    },
+    {
+      "album": {
+        "name": "Lucky Streak",
+        "url": "https://open.spotify.com/album/5eSrOPnLxdgwcuc8m16Tk8"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170753,
+      "name": "Lucky Streak",
+      "url": "https://open.spotify.com/track/0Yx8HptnFn2LJca7W2YjLc"
     },
     {
       "album": {
@@ -2270,6 +2418,28 @@
       "duration_ms": 163520,
       "name": "MAYDAY",
       "url": "https://open.spotify.com/track/4JX0m4HeEP7J8S1x3WgtkD"
+    },
+    {
+      "album": {
+        "name": "MESTO (feat. Majself)",
+        "url": "https://open.spotify.com/album/66WLkS24hKSgiIDbxtSVGW"
+      },
+      "artists": [
+        {
+          "name": "ALYA",
+          "url": "https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB"
+        },
+        {
+          "name": "Majself",
+          "url": "https://open.spotify.com/artist/4uGlaZn0LSybHkHFEKBOV2"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "MESTO (feat. Majself)",
+      "url": "https://open.spotify.com/track/0vpSt0e7xPIDUeS6abrzQ1"
     },
     {
       "album": {
@@ -3085,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "LIVE ARCHIVE",
+        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
+      },
+      "artists": [
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Champion Sound",
+          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "Pink Matter - Live",
+      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
+    },
+    {
+      "album": {
         "name": "Planes",
         "url": "https://open.spotify.com/album/25dumQ0Y9BWUJwOMr0GSfS"
       },
@@ -3226,7 +3418,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 237645,
       "name": "Pomaly potichu",
       "url": "https://open.spotify.com/track/6dv0TO8IcNSOahzivSj3cX"
@@ -3323,6 +3515,48 @@
     },
     {
       "album": {
+        "name": "Propojen\u00fd",
+        "url": "https://open.spotify.com/album/4CaBUdjjenPIeyubuYQt7b"
+      },
+      "artists": [
+        {
+          "name": "Katarzia",
+          "url": "https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1"
+        },
+        {
+          "name": "TEZA",
+          "url": "https://open.spotify.com/artist/58HVoTyHEFyXXPHeaNGUy7"
+        },
+        {
+          "name": "Jan Cina",
+          "url": "https://open.spotify.com/artist/1OqAegcWiK2p0yQyDXKuNF"
+        },
+        {
+          "name": "Blanka Maderov\u00e1",
+          "url": "https://open.spotify.com/artist/0VEhHQOvF0697wjBdo6WAR"
+        },
+        {
+          "name": "Meowlau",
+          "url": "https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8"
+        },
+        {
+          "name": "Ridina Ahmedov\u00e1",
+          "url": "https://open.spotify.com/artist/22claWkskQPCH5KwDXDn2f"
+        },
+        {
+          "name": "Val",
+          "url": "https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258453,
+      "name": "Propojen\u00fd",
+      "url": "https://open.spotify.com/track/2HbO9amlki8fqhJ7rWLyxE"
+    },
+    {
+      "album": {
         "name": "Mom, I\u2019m Lost",
         "url": "https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA"
       },
@@ -3392,7 +3626,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 189397,
       "name": "P\u00edse\u0148 pro Olgu",
       "url": "https://open.spotify.com/track/0P3YrzLVJjPbjsa2wHQPll"
@@ -3468,7 +3702,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 142000,
       "name": "Rastaman",
       "url": "https://open.spotify.com/track/2XifwpmdpWiIezZhHZol9X"
@@ -3704,7 +3938,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 120692,
       "name": "SAPPHIRE (Saf\u00edr English Version)",
       "url": "https://open.spotify.com/track/4uZSk035hS86fQ2yYLhSZQ"
@@ -3784,6 +4018,28 @@
       "duration_ms": 227982,
       "name": "She's Mine",
       "url": "https://open.spotify.com/track/0JgDXLwvGC8X8I3xsS6cug"
+    },
+    {
+      "album": {
+        "name": "Shoot You",
+        "url": "https://open.spotify.com/album/4vreMd9m0nSnQ9cqjSageI"
+      },
+      "artists": [
+        {
+          "name": "&Tilly",
+          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
+        },
+        {
+          "name": "Timberly",
+          "url": "https://open.spotify.com/artist/4jj1ZDlPoRYHazVI7GD7eG"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Shoot You",
+      "url": "https://open.spotify.com/track/0Y3RBVIYG9BrHnujM3Fdfa"
     },
     {
       "album": {
@@ -3926,7 +4182,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 172194,
       "name": "Snow",
       "url": "https://open.spotify.com/track/1dhVkXyqcuTqhTv3PnkK8K"
@@ -4078,7 +4334,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 201600,
       "name": "Souls in Need",
       "url": "https://open.spotify.com/track/3lHTmRD4msnNo2xECzDqL1"
@@ -4143,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "Star\u00e1 verze",
+        "url": "https://open.spotify.com/album/34xfp35DRuFa3I8jXbp6sk"
+      },
+      "artists": [
+        {
+          "name": "Jasmin",
+          "url": "https://open.spotify.com/artist/5m53CoCQ0bkn6L4vHvtn80"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "Star\u00e1 verze",
+      "url": "https://open.spotify.com/track/6Nsy3VEGGdnj7UHHsfolZR"
+    },
+    {
+      "album": {
         "name": "stuck in the cloud",
         "url": "https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex"
       },
@@ -4172,7 +4446,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 263168,
       "name": "Summerjam",
       "url": "https://open.spotify.com/track/4PNLC6bnPV0ETE7BfVW43c"
@@ -4194,6 +4468,28 @@
       "duration_ms": 230338,
       "name": "S\u00edla v n\u00e1s",
       "url": "https://open.spotify.com/track/0XJKdltXCBWwedagg3vEO1"
+    },
+    {
+      "album": {
+        "name": "Tahle jedna vte\u0159ina",
+        "url": "https://open.spotify.com/album/0tVIh0MhlvoFZUH2b94gU5"
+      },
+      "artists": [
+        {
+          "name": "Emma Smetana",
+          "url": "https://open.spotify.com/artist/5RGGFXcOLCDafyqIErUkYk"
+        },
+        {
+          "name": "Richard Muller",
+          "url": "https://open.spotify.com/artist/2jldyAonkBDiBG0cNtLgZz"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tahle jedna vte\u0159ina",
+      "url": "https://open.spotify.com/track/6I3jLsRIAX8KZ0GY8DLYKf"
     },
     {
       "album": {
@@ -4234,6 +4530,32 @@
       "duration_ms": 270165,
       "name": "Tears of Joy",
       "url": "https://open.spotify.com/track/44ZOAFNdsbBNSJWKVtvjJu"
+    },
+    {
+      "album": {
+        "name": "The Answer Is Yes",
+        "url": "https://open.spotify.com/album/4Akri39rWFRRHUlsfPwFj2"
+      },
+      "artists": [
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306976,
+      "name": "The Answer Is Yes",
+      "url": "https://open.spotify.com/track/40JsqYK9p5sPfEkvF0CSLR"
     },
     {
       "album": {
@@ -4346,10 +4668,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 186233,
       "name": "This City",
       "url": "https://open.spotify.com/track/1CwdAkDuBfUM9oJNAxfVck"
+    },
+    {
+      "album": {
+        "name": "Ti To",
+        "url": "https://open.spotify.com/album/0mpJhCrxqCloi2e00Avlvi"
+      },
+      "artists": [
+        {
+          "name": "Natally",
+          "url": "https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108131,
+      "name": "Ti To",
+      "url": "https://open.spotify.com/track/3fAFbBYOb4BGJ3RtKUW1yh"
     },
     {
       "album": {
@@ -5110,6 +5450,24 @@
       "duration_ms": 303658,
       "name": "\u00dabo\u010d\u00ed - Live at Gong",
       "url": "https://open.spotify.com/track/2AziHYU4aKh51h5vxCHu5u"
+    },
+    {
+      "album": {
+        "name": "\u00dadol\u00ed v\u010del",
+        "url": "https://open.spotify.com/album/4WftBS0du56qlJAiaWs1sR"
+      },
+      "artists": [
+        {
+          "name": "Anna K.",
+          "url": "https://open.spotify.com/artist/5OCpdoaMu02P7pJABqhsfS"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248221,
+      "name": "\u00dadol\u00ed v\u010del",
+      "url": "https://open.spotify.com/track/7tFM6k1wP4uzMgXncWB6ZI"
     },
     {
       "album": {

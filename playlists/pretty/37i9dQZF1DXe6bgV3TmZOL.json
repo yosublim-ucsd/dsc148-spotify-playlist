@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2248703,
+  "num_followers": 2249278,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWRmMzI5NGQyNGM3MGFhNWQ5Yjk3NDBiZDU0Yzk1YTg4YzA4ZGZi",
+  "snapshot_id": "MCxiZmIxMTdiZmIzOTFkNDViMDMxNGZlYWFhNWVjODQ4NmRhYTA3ZjM1",
   "tracks": [
     {
       "added_at": "2023-06-28 15:22:11",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 177048,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 215346,
-      "name": "Circle The Drain",
-      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 233079,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Gold Cobra (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Gold Cobra",
-      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "I Am Human",
         "url": "https://open.spotify.com/album/0b4KJR48ZibGZafb5sviX3"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/5LV0oQV98daZAUoWnQEW6N"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Gold Cobra",
+      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+        "name": "Lost in the Waves",
+        "url": "https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+      "duration_ms": 224929,
+      "name": "Lost in a Wave",
+      "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1467,22 +1483,6 @@
       "duration_ms": 235013,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
-        "name": "Lost in the Waves",
-        "url": "https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 224929,
-      "name": "Lost in a Wave",
-      "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
+        "name": "Violent Allies",
+        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "The Shift",
+      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
         "name": "Set Fazers",
         "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
       },
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Violent Allies",
-        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "The Shift",
-      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 198248,
-      "name": "Leave It All Behind",
-      "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "when we were young",
         "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 193886,
       "name": "when we were young",
       "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 198248,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 196051,
-      "name": "That's My Jam",
-      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -2179,18 +2163,18 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
       "artists": [
         {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 218933,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2207,6 +2191,22 @@
       "duration_ms": 210826,
       "name": "That Day",
       "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2271,6 +2271,22 @@
       "duration_ms": 205666,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Breaking Skin",
+      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2363,22 +2379,6 @@
     {
       "added_at": "2023-06-28 15:22:11",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Breaking Skin",
-      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
         "name": "SLEEPS SOCIETY",
         "url": "https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA"
       },
@@ -2407,6 +2407,22 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya"
+    },
+    {
+      "added_at": "2023-06-28 15:22:11",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Chaos And Earthquakes",
+      "url": "https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X"
     },
     {
       "added_at": "2023-06-28 15:22:11",
@@ -2459,22 +2475,6 @@
       "duration_ms": 223846,
       "name": "The Hunted",
       "url": "https://open.spotify.com/track/0EtWHPCGpLUGIAw46wsVX3"
-    },
-    {
-      "added_at": "2023-06-28 15:22:11",
-      "album": {
-        "name": "The Stories We Tell Ourselves",
-        "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Do You Really Want It",
-      "url": "https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z"
     }
   ],
   "unique_name": "Adrenaline Workout",

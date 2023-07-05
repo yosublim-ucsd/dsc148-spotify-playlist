@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-279 songs - 14 hr 24 min
+280 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa) | 3:11 | 2022-05-27 | 2022-07-29 |
 | [Better With You](https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Better With You](https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb) | 3:12 | 2022-05-27 | 2022-07-24 |
 | [bitches](https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [bitches](https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY) | 3:37 | 2022-05-27 | 2022-07-29 |
-| [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 | 2022-05-27 |  |
+| [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 | 2022-05-27 | 2023-07-05 |
 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 | 2022-05-27 |  |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2022-05-27 | 2022-07-28 |
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-05-27 | 2022-07-28 |
@@ -158,6 +158,7 @@
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2022-05-27 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-05-27 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-05-27 | 2022-07-28 |
+| [Motion](https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k) | 3:07 | 2023-03-24 |  |
 | [Motion](https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU) | 3:07 | 2022-05-27 | 2022-07-29 |
 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 | 2022-09-02 | 2022-11-13 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-05-27 |  |

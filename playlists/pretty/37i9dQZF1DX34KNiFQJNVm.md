@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Alok e Ava Max, Luan Pereira e Gustavo Mioto, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,398 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,527 likes - 96 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 46 | [Novos Ares](https://open.spotify.com/track/2iQeBAmJEEV3wG7osXd3nN) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Novos Ares](https://open.spotify.com/album/2TpQhpmIXEymeCg1t1TfGm) | 2:39 |
 | 47 | [I Love Sua Sentada](https://open.spotify.com/track/5W88oo7Z703tFAlplzXkDB) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ Biel do Anil](https://open.spotify.com/artist/2CRRYqHzbxTaj6x6GTMzxp) | [I Love Sua Sentada](https://open.spotify.com/album/2cXiAihm1GpMKel8ZFEUBc) | 2:25 |
 | 48 | [10 Chamadas](https://open.spotify.com/track/4XhCfLZZ9QTjTcmZTu74Nw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [10 Chamadas](https://open.spotify.com/album/2RZCp0cnLrXZOvCVgF4joj) | 2:44 |
-| 49 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 49 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
 | 50 | [Mensagem](https://open.spotify.com/track/4wYwvNPxFyvUwItXJBWSek) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [TR3VAS](https://open.spotify.com/artist/64aAl8U0nNk2XkkPNqHIvX) | [Mensagem](https://open.spotify.com/album/09ddlyWlcrvkBSXTND5CWu) | 2:48 |
 | 51 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 |
 | 52 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Pega e Se Cuida Bem](https://open.spotify.com/track/3vr8xF18gaIHQDzPVUGnfT) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at) | [Pega e Se Cuida Bem](https://open.spotify.com/album/2ZLMf6TRIDiVaYn6XS9CqV) | 2:16 |
 | 96 | [A Sorte](https://open.spotify.com/track/7mOXmp877CyqDwm5Hd3AMQ) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2) | [Rua Mundo Novo](https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ) | 3:09 |
 
-Snapshot ID: `MCw4MzhmM2ZkNDNkOWI0ZGRlYTdmMGFmM2M1YzcwZWQ2OTY1ZWVhMWYy`
+Snapshot ID: `MCwyN2YxZDk5YjMxYzM2ODAwYzc5OGYxMGQ2OGU2MjgyMWM3YjMxNTY5`

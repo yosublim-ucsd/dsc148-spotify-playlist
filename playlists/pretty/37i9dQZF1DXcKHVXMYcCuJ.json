@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 119508,
+  "num_followers": 119706,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTYyNTFkNTBkYjVmMTFiODQwMzMzMGI0Y2ZmYTc1MzZlMzZjMzI3",
+  "snapshot_id": "MCxhYzJkM2Q4OWFhZmQxOGNiYjA1YWFiMGIxNzRmMTVlMjMxNmQwZGE2",
   "tracks": [
     {
       "added_at": "2023-05-15 09:36:30",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Milquetoast",
-      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 181706,
       "name": "Tired Of Sex",
       "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Milquetoast",
+      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Comfort in Sound",
-        "url": "https://open.spotify.com/album/2h5yQlbqKmvblc712KDmc5"
+        "name": "Buds",
+        "url": "https://open.spotify.com/album/2A7lRd0UYJ9k6sOWhXElSS"
       },
       "artists": [
         {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 263253,
-      "name": "Just The Way I'm Feeling",
-      "url": "https://open.spotify.com/track/1zg4NCQ3vHLn3MeaDBPm3s"
+      "duration_ms": 97543,
+      "name": "Baby Shea",
+      "url": "https://open.spotify.com/track/25X6dvLEb2EiZY3U5jciy5"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -651,34 +651,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Buds",
-        "url": "https://open.spotify.com/album/2A7lRd0UYJ9k6sOWhXElSS"
+        "name": "Comfort in Sound",
+        "url": "https://open.spotify.com/album/2h5yQlbqKmvblc712KDmc5"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
         }
       ],
-      "duration_ms": 97543,
-      "name": "Baby Shea",
-      "url": "https://open.spotify.com/track/25X6dvLEb2EiZY3U5jciy5"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
-        "name": "Pedestrian Verse",
-        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "The Woodpile",
-      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
+      "duration_ms": 263253,
+      "name": "Just The Way I'm Feeling",
+      "url": "https://open.spotify.com/track/1zg4NCQ3vHLn3MeaDBPm3s"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -695,6 +679,22 @@
       "duration_ms": 222207,
       "name": "Life In A Jar",
       "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Pedestrian Verse",
+        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "The Woodpile",
+      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Wowee Zowee",
-        "url": "https://open.spotify.com/album/0OHDiDMyxzWJfwtoeHNCf4"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/6BWchF8jHCuZ1Ebk9Av4HG"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Bakesale: Deluxe Edition",
         "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 106613,
       "name": "License to Confuse - Remastered",
       "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Wowee Zowee",
+        "url": "https://open.spotify.com/album/0OHDiDMyxzWJfwtoeHNCf4"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/6BWchF8jHCuZ1Ebk9Av4HG"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Sound As Ever",
-        "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
-      },
-      "artists": [
-        {
-          "name": "You Am I",
-          "url": "https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Berlin Chair",
-      "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Ideas Above Our Station",
         "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 186280,
       "name": "I'll Find You",
       "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Sound As Ever",
+        "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
+      },
+      "artists": [
+        {
+          "name": "You Am I",
+          "url": "https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Berlin Chair",
+      "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "United By Fate",
+        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
       "artists": [
         {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Aquasun",
-      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+      "duration_ms": 198160,
+      "name": "Used For Glue",
+      "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "United By Fate",
-        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Used For Glue",
-      "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
+      "duration_ms": 222040,
+      "name": "Aquasun",
+      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Blackened Sky",
-        "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "Justboy",
-      "url": "https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 148826,
       "name": "Freddy Kreuger",
       "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Blackened Sky",
+        "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "Justboy",
+      "url": "https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Mint 400",
-        "url": "https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby"
-      },
-      "artists": [
-        {
-          "name": "Ammonia",
-          "url": "https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc"
       },
@@ -1967,18 +1951,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+        "name": "Mint 400",
+        "url": "https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby"
       },
       "artists": [
         {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+          "name": "Ammonia",
+          "url": "https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV"
         }
       ],
-      "duration_ms": 246306,
-      "name": "Backroads",
-      "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
+      "duration_ms": 207000,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1995,6 +1979,22 @@
       "duration_ms": 449655,
       "name": "Innervisions",
       "url": "https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Beyond the Horizon",
-        "url": "https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA"
-      },
-      "artists": [
-        {
-          "name": "People In Planes",
-          "url": "https://open.spotify.com/artist/0xTNdlDmxYw4nebrj7ouxk"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "The Difference In Good And Bad Dreams",
         "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 162721,
       "name": "Damp",
       "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Beyond the Horizon",
+        "url": "https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA"
+      },
+      "artists": [
+        {
+          "name": "People In Planes",
+          "url": "https://open.spotify.com/artist/0xTNdlDmxYw4nebrj7ouxk"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+        "name": "Threes",
+        "url": "https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP"
       },
       "artists": [
         {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
         }
       ],
-      "duration_ms": 227738,
-      "name": "Anything Near Conviction",
-      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
+      "duration_ms": 221546,
+      "name": "Taking Back Control",
+      "url": "https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Threes",
-        "url": "https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP"
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
       "artists": [
         {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 221546,
-      "name": "Taking Back Control",
-      "url": "https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK"
+      "duration_ms": 227738,
+      "name": "Anything Near Conviction",
+      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Antenna",
         "url": "https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585"
       },
@@ -2403,18 +2387,34 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Imbue",
-        "url": "https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI"
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
       "artists": [
         {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 270625,
-      "name": "Narrow Mouth",
-      "url": "https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY"
+      "duration_ms": 221865,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Effloresce",
+        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
+      },
+      "artists": [
+        {
+          "name": "Oceansize",
+          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
+        }
+      ],
+      "duration_ms": 400680,
+      "name": "Catalyst - Remastered",
+      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

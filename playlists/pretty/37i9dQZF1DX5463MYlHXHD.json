@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: DobleP, Repiola & R Jota.",
-  "num_followers": 548413,
+  "num_followers": 548492,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjM2NjU1YTY5NTEwZmMwYzM5M2YyNGQzNDU4NWIwM2QyMmE3Mzgy",
+  "snapshot_id": "MCxmNmU0ZGVmZTY5NjU5NmY4YTZkODllMTNlYzIzMmQ4NGY1ODE3MmFl",
   "tracks": [
     {
       "added_at": "2023-06-30 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "Una Vela",
-        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 124563,
-      "name": "Una Vela",
-      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Adentro del Party",
         "url": "https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 180000,
       "name": "Adentro del Party",
       "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "Una Vela",
+        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 124563,
+      "name": "Una Vela",
+      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -2215,6 +2215,26 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "El Mas Piola",
+        "url": "https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "El Mas Piola",
+      "url": "https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "La Gata",
         "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
       },
@@ -2255,42 +2275,6 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
-        "name": "25 Horas de Gira",
-        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
-      },
-      "artists": [
-        {
-          "name": "El Guachoon",
-          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Gobernada",
-      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "El Mas Piola",
-        "url": "https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "El Mas Piola",
-      "url": "https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
         "name": "Culo Pa 2 Tangas",
         "url": "https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 182000,
       "name": "Culo Pa 2 Tangas",
       "url": "https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
+        "name": "25 Horas de Gira",
+        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
+      },
+      "artists": [
+        {
+          "name": "El Guachoon",
+          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Gobernada",
+      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
     },
     {
       "added_at": "2023-06-30 03:00:00",
@@ -2343,6 +2343,30 @@
     {
       "added_at": "2023-06-30 03:00:00",
       "album": {
+        "name": "Barra Libre",
+        "url": "https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Gonzalo Nawel",
+          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
+        }
+      ],
+      "duration_ms": 238112,
+      "name": "Barra Libre",
+      "url": "https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl"
+    },
+    {
+      "added_at": "2023-06-30 03:00:00",
+      "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
@@ -2355,38 +2379,6 @@
       "duration_ms": 150218,
       "name": "Mari y Juana",
       "url": "https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT"
-    },
-    {
-      "added_at": "2023-06-30 03:00:00",
-      "album": {
-        "name": "Persecuta (Remix)",
-        "url": "https://open.spotify.com/album/10Go8PFMBr6sJ4ugbGbJcz"
-      },
-      "artists": [
-        {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        },
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        },
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "XXL Irione",
-          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
-        },
-        {
-          "name": "El Mudo",
-          "url": "https://open.spotify.com/artist/3kDMTqCKUZRGUVyORKmuZ4"
-        }
-      ],
-      "duration_ms": 194794,
-      "name": "Persecuta - Remix",
-      "url": "https://open.spotify.com/track/3Gx0L8qBv5eIahz90pa1O1"
     }
   ],
   "unique_name": "Cumbia de Barrio",

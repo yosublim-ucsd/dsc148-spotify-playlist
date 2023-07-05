@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Saffron Stone &amp; MISS DRE
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,347 likes - 36 songs - 1 hr 51 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,352 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All The Way](https://open.spotify.com/track/6t4KvBSTG8J4u50RZiEob6) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz), [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [All The Way](https://open.spotify.com/album/3FdDfyX2JsStc0nVNSzKAY) | 3:22 |
 | 2 | [Monster \(LUM!X VIP MIX\)](https://open.spotify.com/track/4zu1jt2bop152MxS2hz16X) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster \(LUM!X VIP MIX\)](https://open.spotify.com/album/16xSMFduHRUTToL6XRKp3m) | 2:20 |
-| 3 | [Wahran \(Vocal Version\)](https://open.spotify.com/track/4e1O6JjTZtBDoiX7QsLr3m) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran \(Vocal Version\)](https://open.spotify.com/album/0E1qeWs1PyCgDtREn4lqA3) | 2:59 |
+| 3 | [Wahran \(Vocal Version\)](https://open.spotify.com/track/4e1O6JjTZtBDoiX7QsLr3m) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran \(Vocal Version\)](https://open.spotify.com/album/0E1qeWs1PyCgDtREn4lqA3) | 2:58 |
 | 4 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
 | 5 | [Voices](https://open.spotify.com/track/6dnWU3ZywAIalucAAqjKlk) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Voices](https://open.spotify.com/album/46TX7gBzl9CBUbGVdXedoI) | 2:32 |
 | 6 | [Me Loco](https://open.spotify.com/track/2jBmMdhZEgOhMAnpoXqtxD) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t), [Coca Cabana](https://open.spotify.com/artist/75lMRwK1rgNulsV8QaqRla), [Steampvnk](https://open.spotify.com/artist/3gtCxb32ktG265RWOMRtMy) | [Me Loco](https://open.spotify.com/album/5JeDHCBOJUV3oVHZExzuM8) | 2:32 |

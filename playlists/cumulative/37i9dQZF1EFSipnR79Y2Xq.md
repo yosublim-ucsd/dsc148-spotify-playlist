@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-34 songs - 1 hr 40 min
+36 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 | 2023-04-04 |  |
 | [Andar Soltero](https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0) | [Top Songs 2022](https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI) | 3:11 | 2022-09-16 |  |
 | [Así \- En Vivo](https://open.spotify.com/track/42VytKp0lKpe2r8Yc9AQ4A) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Así \(En Vivo\)](https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx) | 2:26 | 2022-09-16 |  |
+| [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 | 2023-07-04 |  |
 | [Como Antes](https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Como Antes](https://open.spotify.com/album/4dXvaYgS1eGbZCMa41lSrr) | 2:46 | 2022-09-16 |  |
 | [Con Toda La Actitud](https://open.spotify.com/track/6J6UUsCUZTDEnfsRjlx204) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Con Toda La Actitud](https://open.spotify.com/album/03GA53bmUWFhRW7j0V0wuO) | 2:31 | 2022-09-16 |  |
 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 | 2022-09-16 |  |
@@ -21,6 +22,7 @@
 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 | 2022-11-20 |  |
 | [Día De Bajón](https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Día De Bajón](https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM) | 2:24 | 2022-09-16 |  |
 | [Esto Es Así](https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Esto Es Así](https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x) | 2:56 | 2022-10-11 |  |
+| [Falsa Alarma \(En Vivo\)](https://open.spotify.com/track/2fNUXlTHgAfvo94GwI3Fgk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N) | 3:39 | 2023-07-04 |  |
 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 | 2022-09-16 |  |
 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 | 2022-09-16 |  |
 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 | 2023-05-29 |  |

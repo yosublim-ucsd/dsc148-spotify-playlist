@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 28883,
+  "num_followers": 28892,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGIxYjZkOTc3Yjk0Mjk4ODMzNWYwODgyY2FkNDAwZDkwNDg4MDM4",
+  "snapshot_id": "MCw1MzFmNDdmYjRiYTI4NjA5MTE3ZmM2YjYzMzE2YWIxOGFmYzQ1Y2Y0",
   "tracks": [
     {
       "added_at": "2023-05-04 22:10:49",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
       "artists": [
         {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
         }
       ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+      "duration_ms": 145520,
+      "name": "Som En Doft Av Napalm",
+      "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
-        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
       "artists": [
         {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 145520,
-      "name": "Som En Doft Av Napalm",
-      "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
+      "duration_ms": 78800,
+      "name": "Jag vill bli som far",
+      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
+        "name": "I All Hast",
+        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
+      },
+      "artists": [
+        {
+          "name": "Trevolt",
+          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Mitt Sista Andetag",
+      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
         "name": "Borgerlig begravning",
         "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 132800,
       "name": "Tidens tempo",
       "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "I All Hast",
-        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
-      },
-      "artists": [
-        {
-          "name": "Trevolt",
-          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Mitt Sista Andetag",
-      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
     }
   ],
   "unique_name": "Svensk Punk",

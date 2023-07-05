@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 39551,
+  "num_followers": 39566,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2E3MjIyMmI4YzFiZGY0MjYxYzA1NGJhY2RiZDM0M2NkYTRhNDAz",
+  "snapshot_id": "MCw0OTQ1NTZiYTU3NzcxOTU5MWU0ZmQ3ZDcwZGFlNDE4OWIxNGE2OWNh",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 147266,
-      "name": "Soul Sauce",
-      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
@@ -923,6 +907,22 @@
       "duration_ms": 251640,
       "name": "Miss Fine",
       "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Soul Sauce",
+      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Samba Para Dos",
-        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
       "artists": [
         {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         },
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 120813,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
+      "duration_ms": 186760,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
         },
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
+      "duration_ms": 120813,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
     },
     {
       "added_at": "2019-10-04 16:01:14",

@@ -2079,6 +2079,32 @@
     },
     {
       "album": {
+        "name": "Qu\u00edmico Amor",
+        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pedro Senna",
+          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "Qu\u00edmico Amor",
+      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7tXdGpglPbHoZxBENtPc8m"
       },
@@ -2204,7 +2230,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"

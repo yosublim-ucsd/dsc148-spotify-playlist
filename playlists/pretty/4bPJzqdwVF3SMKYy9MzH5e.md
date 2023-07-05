@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,784 songs - 4 day 0 hr 37 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,785 songs - 4 day 0 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1792,5 +1792,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1782 | [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 |
 | 1783 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
 | 1784 | [New Chains, Same Shackles](https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
+| 1785 | [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:07 |
 
-Snapshot ID: `NjI2LGQ1Y2UxNDM4ZWVmNWYzNjM2MDhiMDNiNWRmMGE0MTY1NTg4YjQxOTk=`
+Snapshot ID: `NjI3LDNmMmE0YzBkNTM4ODJkNWNkZTRkY2JhNzUxMjlhY2EzNjdlNGU4YzA=`

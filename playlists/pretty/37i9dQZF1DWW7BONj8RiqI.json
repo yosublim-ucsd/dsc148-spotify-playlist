@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 181616,
+  "num_followers": 181713,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzZGE4YjMxZTE1ZmEyNTdiOTViZjBhZjU4MGQ5OGU1OGRmMmQ4",
+  "snapshot_id": "MCwyNTY3MjEyNDZhYTFmOGRkNzYxNzNkMjQ5M2FiN2UwMjUzNjEwNGRi",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
         "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 218213,
       "name": "Cheers to Life",
       "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "How She Like It",
-        "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
-      },
-      "artists": [
-        {
-          "name": "Hypasounds",
-          "url": "https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF"
-        }
-      ],
-      "duration_ms": 181567,
-      "name": "How She Like It",
-      "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 225251,
       "name": "Long Live Soca",
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "How She Like It",
+        "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
+      },
+      "artists": [
+        {
+          "name": "Hypasounds",
+          "url": "https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF"
+        }
+      ],
+      "duration_ms": 181567,
+      "name": "How She Like It",
+      "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Catching Feelings",
-      "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Run Wid It",
         "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 191714,
       "name": "Run Wid It",
       "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Tight Squeeze Riddim",
         "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 203756,
       "name": "Gyal Owner",
       "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Faluma",
-      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 151250,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Faluma",
+      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "B.A.D (Beyond A Doubt)",
         "url": "https://open.spotify.com/album/3N2Gf0Vyh1rufxNh1du8e5"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 164458,
       "name": "Danger",
       "url": "https://open.spotify.com/track/2GFWjNQSVY8VubIAKETTwW"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Kan Kan Riddim",
-        "url": "https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx"
-      },
-      "artists": [
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 257600,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Kan Kan Riddim",
+        "url": "https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx"
+      },
+      "artists": [
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs"
     },
     {
       "added_at": "2023-05-15 02:33:18",

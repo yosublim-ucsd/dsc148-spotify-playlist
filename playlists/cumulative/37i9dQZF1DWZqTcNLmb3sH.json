@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 72029,
       "name": "Abhiramachandra First Glimpse (From \"ABHIRAMACHANDRA\")",
       "url": "https://open.spotify.com/track/4FpqZZYDr8GD3bSkrrPB6i"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 205055,
       "name": "Dhaga Dhaga (from \"Baang\")",
       "url": "https://open.spotify.com/track/1owLlr4yO68aumRNQ2gMwp"
@@ -11112,6 +11112,32 @@
       "duration_ms": 278823,
       "name": "Neeli Baanallu - From \"O Manase\"",
       "url": "https://open.spotify.com/track/08jRZQv9x0rnbqmVwIGNpK"
+    },
+    {
+      "album": {
+        "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
+        "url": "https://open.spotify.com/album/12c9Uhc8SAb80LasWprlLP"
+      },
+      "artists": [
+        {
+          "name": "Shashikala Sunil",
+          "url": "https://open.spotify.com/artist/3vkjAE9Pk7fDnluZlEcBoV"
+        },
+        {
+          "name": "Sachin Araballi",
+          "url": "https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo"
+        },
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260094,
+      "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
+      "url": "https://open.spotify.com/track/28wJVYrC30oHCncNURR2Ws"
     },
     {
       "album": {

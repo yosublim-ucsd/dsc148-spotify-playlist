@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,016 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,122 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 24 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 |
 | 25 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 |
 | 26 | [Head for Backstage Pass](https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 2:44 |
-| 27 | [The Wrangler](https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 2:59 |
-| 28 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 |
-| 29 | [Feel Good Inc.](https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 4:35 |
-| 30 | [Monster Funk](https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Hang](https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6) | 3:52 |
+| 27 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 |
+| 28 | [The Wrangler](https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 2:59 |
+| 29 | [Monster Funk](https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Hang](https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6) | 3:52 |
+| 30 | [Feel Good Inc.](https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 4:35 |
 | 31 | [Tha Boogee](https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze of Sounds](https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6) | 7:08 |
 | 32 | [Colonel Panic](https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:32 |
 | 33 | [Kashmir](https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [Our Kind of Movement](https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q) | 3:55 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 59 | [1am Funk Dance Party](https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [STARBLASTER](https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW) | [1am Funk Dance Party](https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt) | 22:24 |
 | 60 | [Permission to Land \- 45](https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Jeff Franca](https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 3:04 |
 | 61 | [Get With It](https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 3:06 |
-| 62 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
-| 63 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 |
-| 64 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
-| 65 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 |
-| 66 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
+| 62 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 |
+| 63 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
+| 64 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 |
+| 65 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
+| 66 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
 | 67 | [Royal Highness](https://open.spotify.com/track/42y27OIathcePEZFs5bYSk) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 5:24 |
 | 68 | [Funkedemia](https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Funkedemia](https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb) | 2:13 |
 | 69 | [Getaway Car](https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Getaway Car](https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 | 80 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 |
 
-Snapshot ID: `MCw4MTVjMTYzMWM3NjZiZWRhOGNhNmFmNjNhOTE3Njc1OGVkODJmOGVk`
+Snapshot ID: `MCxjZTI5MmVhYTI2ZDVlMjE3MDM1NjViZjJkZmMzZmQ4NjkzNmJmYmJl`

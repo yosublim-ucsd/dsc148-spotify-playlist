@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Eddy Herrera",
-  "num_followers": 383245,
+  "num_followers": 383303,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzkwNTY5YWUwNDhjZTE0ZTNmMjBlM2U4ZDllNmQwYmQ4OThhODQy",
+  "snapshot_id": "MCwyMjE5Zjk5Y2Q2Nzk3MGRmMTAzNTg0OTBlZmIzMTdmOTM0NDhhM2Fm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -779,22 +779,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Soltemos al Mundo",
-        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
         }
       ],
-      "duration_ms": 213255,
-      "name": "Soltemos al Mundo",
-      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+        "name": "Soltemos al Mundo",
+        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+      "duration_ms": 213255,
+      "name": "Soltemos al Mundo",
+      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Sac\u00fadelo Que Tiene Arena",
+        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "100% Merengue",
         "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Sac\u00fadelo Que Tiene Arena",
-        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Ay!",
-      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 318306,
       "name": "El Cantinero",
       "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tesoro Mio - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Merengue De Amor Vol.1",
         "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
@@ -1071,18 +1039,34 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 286520,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "El Virao",
+      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
       },
       "artists": [
         {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 252826,
-      "name": "El Virao",
-      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
+      "duration_ms": 192800,
+      "name": "Tesoro Mio - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "15to Aniversario",
-        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Exitos De",
         "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Trancazos Bailables, Vol. 4",
         "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 378533,
       "name": "Frutos Del Carnaval",
       "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "15to Aniversario",
+        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Como Los Rayos Del Sol",
+        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Como Los Rayos Del Sol",
+      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "No Toy En Ti",
         "url": "https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 171428,
       "name": "No Toy En Ti",
       "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Como Los Rayos Del Sol",
-        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Como Los Rayos Del Sol",
-      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Con El Machete En La Mano",
+        "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
+      },
+      "artists": [
+        {
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "No Llores Por Ella",
+      "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Mereng\u00f3n",
         "url": "https://open.spotify.com/album/23DfVLJCPAjFJNCXcFJAOk"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 281066,
       "name": "La Suegra",
       "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Con El Machete En La Mano",
-        "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
-      },
-      "artists": [
-        {
-          "name": "Zafra Negra",
-          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "No Llores Por Ella",
-      "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
     },
     {
       "added_at": "2023-06-09 04:00:00",

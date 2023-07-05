@@ -1,29 +1,13 @@
 {
-  "description": "Listen to Indian women, at full volume. Cover: Aastha Gill",
-  "num_followers": 58654,
+  "description": "Listen to Indian women, at full volume. Cover: Rashmeet Kaur",
+  "num_followers": 58722,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzJmZTA2MDE4YTRmYjAyMWRhZmQ2MTdhNDFkOGUzMjBiMWQ4ZGM3",
+  "snapshot_id": "MCwzZTlhMTQ1YTk5YzM5MWQ1NDMyZTA1N2Y4NDZkZmQyMGQzNDdlNDQz",
   "tracks": [
-    {
-      "added_at": "2023-07-03 10:15:32",
-      "album": {
-        "name": "Kyun",
-        "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
-      },
-      "artists": [
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        }
-      ],
-      "duration_ms": 146430,
-      "name": "Kyun",
-      "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
-    },
     {
       "added_at": "2023-07-03 10:15:32",
       "album": {
@@ -43,6 +27,22 @@
     {
       "added_at": "2023-07-03 10:15:32",
       "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "duration_ms": 146430,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
+    },
+    {
+      "added_at": "2023-07-03 10:15:32",
+      "album": {
         "name": "Ranjha (Sid X Kiara Version)",
         "url": "https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm"
       },
@@ -50,18 +50,6 @@
         {
           "name": "Jasleen Royal",
           "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "The Wedding Filmer",
-          "url": "https://open.spotify.com/artist/6nKrBsgkTLIBbNdZhYr1kO"
-        },
-        {
-          "name": "Kingshuk Chakravarty",
-          "url": "https://open.spotify.com/artist/0MmHrkXeuapU1nIUa8qDnx"
-        },
-        {
-          "name": "Mayank Choudhary",
-          "url": "https://open.spotify.com/artist/5wLDdmvqrXgfwRQtSjA9mD"
         },
         {
           "name": "Prerna Arora",

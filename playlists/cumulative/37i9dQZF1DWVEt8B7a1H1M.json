@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 137017,
       "name": "Calming River and Birds",
       "url": "https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk"
@@ -1540,6 +1540,24 @@
       "duration_ms": 148947,
       "name": "Morning Countryside with Birds",
       "url": "https://open.spotify.com/track/4q0yUiKbX6wQpX403QfnDr"
+    },
+    {
+      "album": {
+        "name": "Nature Nice",
+        "url": "https://open.spotify.com/album/3VBGYlSRKVgUOSE7YkI1a8"
+      },
+      "artists": [
+        {
+          "name": "Lissening",
+          "url": "https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "Morning In The Forest",
+      "url": "https://open.spotify.com/track/2P6dfQcVKTJvWxnGKGYmS8"
     },
     {
       "album": {

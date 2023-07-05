@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 9 min
+72 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Because He Lives \(Amen\)](https://open.spotify.com/track/1kQRahBqpKWMAhsoqfEETp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/3fUDl6gGOYO988EtcQmwdi) | 3:20 | 2022-10-18 |  |
 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 | 2022-09-14 |  |
 | [Better Is One Day](https://open.spotify.com/track/4B7IRlv7hkdyEOaqQ52zFD) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The End and the Beginning](https://open.spotify.com/album/5erUuY58NJRbEGZexSoItl) | 4:26 | 2022-09-14 | 2022-10-01 |
-| [Better Off Broken \(feat\. Ryan Ellis\)](https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:27 | 2022-10-29 |  |
+| [Better Off Broken \(feat\. Ryan Ellis\)](https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:27 | 2022-10-29 | 2023-07-05 |
 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 | 2022-09-14 |  |
 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 | 2022-09-14 |  |
 | [Borrowed Time](https://open.spotify.com/track/5dePXcixOAITAskyqkKe7O) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:38 | 2022-09-15 | 2022-09-17 |
@@ -63,6 +63,7 @@
 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 | 2022-09-14 |  |
 | [Son Of Heaven \- Live](https://open.spotify.com/track/3Cf8qr0MolfdZ1EqxTSRG4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/17fDsLWssfoHLMcMLMF52K) | 15:31 | 2022-09-14 |  |
 | [Soul On Fire \(Live\)](https://open.spotify.com/track/6NudOEKNlGZphEHAzZuHEq) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:30 | 2022-09-14 | 2023-02-21 |
+| [Take it Easy](https://open.spotify.com/track/3k99dJlQ0vg3R6kiq6tQfF) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Take it Easy](https://open.spotify.com/album/6gPeYotOrxapVjV57zwImy) | 3:48 | 2023-07-04 |  |
 | [The Answer Is Yes](https://open.spotify.com/track/6Y20ove4oX9Qh7vf4YVS0q) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:29 | 2022-11-02 | 2023-04-11 |
 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 | 2022-09-14 |  |
 | [The In Between \- from The Chosen](https://open.spotify.com/track/3roS62frfF60JQD8jiacOK) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The In Between \(from The Chosen\)](https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv) | 3:58 | 2022-11-20 |  |

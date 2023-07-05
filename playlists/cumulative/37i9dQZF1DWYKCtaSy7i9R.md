@@ -4,7 +4,7 @@
 
 > Quiet spring mornings, wake up early with the birds\. <br/>Take a moment with nature for a positive start of your day.
 
-61 songs - 2 hr 30 min
+62 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 | 2023-06-19 |  |
 | [Birds and Nest noise](https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4) | [Pájaros De La Mañana](https://open.spotify.com/artist/6O1qgGuqEKfKHjESGbyvxa) | [Birds and Nest Noise](https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY) | 2:15 | 2023-06-19 | 2023-06-29 |
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2022-10-28 |  |
+| [Birds Chorus](https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz) | [Nature Sounds For Sleeping](https://open.spotify.com/artist/6Ph6DcY2qlTEHtyDYodJLO) | [Birds Chorus](https://open.spotify.com/album/4BFzcd0oGaWid53qU2MD4R) | 2:13 | 2023-06-19 |  |
 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 | 2022-10-28 | 2023-06-20 |
 | [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 | 2023-07-03 |
 | [Black Birds in the park](https://open.spotify.com/track/2TcNxcpGr2EqwfA5lnb98y) | [Los Pájaros Cantores](https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA) | [Black Birds in the park](https://open.spotify.com/album/6KaD0DIs1XpXip1Aj29Xnr) | 2:29 | 2023-03-03 | 2023-06-30 |
@@ -46,7 +47,7 @@
 | [Lake Side Bird Sound](https://open.spotify.com/track/6crMJIJMG0BTz9wTlfnzQG) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:15 | 2022-10-28 |  |
 | [Midsummer Evening Birds](https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:02 | 2022-10-28 |  |
 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 | 2022-10-28 |  |
-| [More Morning Birds in the Summer Forest](https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Morning Birds in the Summer Forest](https://open.spotify.com/album/2hkRiSxZxTU3BysE4oqJ9s) | 2:09 | 2022-10-28 |  |
+| [More Morning Birds in the Summer Forest](https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Morning Birds in the Summer Forest](https://open.spotify.com/album/2hkRiSxZxTU3BysE4oqJ9s) | 2:09 | 2022-10-28 | 2023-07-05 |
 | [Morning Bird Symphony](https://open.spotify.com/track/3H33Uelf6KheaJQphvrYFz) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Morning Bird Symphony](https://open.spotify.com/album/2815kNCpMBJS3tP20pmwFh) | 2:03 | 2022-10-28 |  |
 | [Morning Birds May](https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Morning Birds May](https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5) | 2:43 | 2023-06-19 |  |
 | [Morning in the Mist](https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 4:31 | 2022-10-28 |  |

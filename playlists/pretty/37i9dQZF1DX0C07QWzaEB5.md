@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,715 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 8 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 9 | [CRAZY HAZY](https://open.spotify.com/track/1sPmQ0sCoM0jUOKX1qkIl0) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [CRAZY HAZY](https://open.spotify.com/album/4xbzcf5etib5p4B6vdJs9G) | 3:28 |
 | 10 | [West Swing \(feat\. E\-40\)](https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [West Swing \(feat\. E\-40\)](https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC) | 3:22 |
-| 11 | [The Winter, Stopped You & Me](https://open.spotify.com/track/5j9RuonyX1loL8xgOGcMcQ) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [Spend The Night With You](https://open.spotify.com/album/6yq2W74hgWtXQ9D7a2gbnJ) | 3:32 |
+| 11 | [The Winter, Stopped You & Me](https://open.spotify.com/track/2yWQC6KfNM37EB2ElsU7Kt) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [Spend The Night With You](https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS) | 3:32 |
 | 12 | [숙녀 \(淑女\) Lady](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 |
 | 13 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 |
 | 14 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
@@ -120,15 +120,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 110 | [BEHIND THE MASK](https://open.spotify.com/track/7mBgzdwjJzfnUJtHrRXuCA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:38 |
 | 111 | [Sorry For My English](https://open.spotify.com/track/1ofO4zGsmNvVQ5yVGeCGCo) | [IN2IT](https://open.spotify.com/artist/43GYq8c6nVEgaEyg0qtzJd) | [Into the Night Fever](https://open.spotify.com/album/4icRVwq9LJzREocHzjnY03) | 3:01 |
 | 112 | [Lady](https://open.spotify.com/track/2WusoL0p5HmFzhR5DLGUVx) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Lady](https://open.spotify.com/album/7hdql29wHs1VTWxmGmm5HV) | 3:10 |
-| 113 | [I Stay Here \(feat\. Mari\)](https://open.spotify.com/track/1WJZiPgRQB4jZBpyuZo8qq) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [mari](https://open.spotify.com/artist/0J7K6R1o2X6SurlPCLPn6c) | [Spend The Night With You](https://open.spotify.com/album/6yq2W74hgWtXQ9D7a2gbnJ) | 3:36 |
+| 113 | [I Stay Here \(feat\. Mari\)](https://open.spotify.com/track/5vjFFcqpZ46DNRe67pSAmQ) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [mari](https://open.spotify.com/artist/0J7K6R1o2X6SurlPCLPn6c) | [Spend The Night With You](https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS) | 3:36 |
 | 114 | [Do What I Like](https://open.spotify.com/track/2zfw5Q62YDTd0JzfOjAz9b) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Baddest Nice Guys](https://open.spotify.com/album/187fmTy0wOPQ8geiMNACPT) | 3:00 |
 | 115 | [Temptation](https://open.spotify.com/track/0p6zAekmyRoRLF1qU5Lipl) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [YUNU IN THE HOUSE](https://open.spotify.com/album/2nymtjmxk4qln1pMCCRJG1) | 3:57 |
 | 116 | [Retro Love](https://open.spotify.com/track/4up4ZBS5xHopy32eBqINb1) | [Nam Dong Hyun](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [Retro Love](https://open.spotify.com/album/5boHfKLU2XzfSIbs40BuE8) | 3:33 |
 | 117 | [URANUS](https://open.spotify.com/track/0v7kgDitHLuLp1hfc9gGRN) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:08 |
-| 118 | [Spend The Night With You \(feat\. Frankie Summer\)](https://open.spotify.com/track/4lml7OhxfonWswRYDCNxdc) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [Spend The Night With You](https://open.spotify.com/album/6yq2W74hgWtXQ9D7a2gbnJ) | 3:46 |
+| 118 | [Spend The Night With You \(feat\. Frankie Summer\)](https://open.spotify.com/track/2DNOoi1k5JDx9DEJfLNB09) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [Spend The Night With You](https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS) | 3:46 |
 | 119 | [M.S.G](https://open.spotify.com/track/6uhpjOPtVv8kkPtSPeDJqB) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:05 |
 | 120 | [Feel Good](https://open.spotify.com/track/2BcTKLMXMlPjdhKxlECfCZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:39 |
 | 121 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 122 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MCw5ODk0MGYwMmNjYTAyNWEyN2Q4OWI4MzI2YjBjMDZhOTZkZjQ3ODU3`
+Snapshot ID: `MCxkOWUzMzZiZjExMmU2MmQ2MTE5NmY2ZDZhNDhhYmIxYzQyODQyNjcz`

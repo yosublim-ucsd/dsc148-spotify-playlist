@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Sumbuck
 
-507 songs - 1 day 7 hr 41 min
+509 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-06-24 |  |
 | [Alluvium](https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Alluvium](https://open.spotify.com/album/4iLy4FA1ZteEJZYc1jGBxA) | 3:42 | 2022-01-14 | 2022-07-29 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-17 | 2023-03-04 |
-| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 |  |
+| [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-07-04 |  |
+| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-07-05 |
 | [American Spirits](https://open.spotify.com/track/2FL4CvhhyXeQiLhgYncVeU) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [American Spirits](https://open.spotify.com/album/0aBAw124SJ8a4KLGGa6DAH) | 4:43 | 2021-11-19 | 2022-07-26 |
 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 | 2023-03-24 |  |
 | [Angelina](https://open.spotify.com/track/4F30FT7ic362rA5sUujirY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/0pgkOdDG05h5bexgIRz9ul) | 3:45 | 2021-10-22 | 2022-04-14 |
@@ -174,6 +175,7 @@
 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 | 2021-10-22 | 2022-11-13 |
 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 | 2022-06-24 | 2022-10-15 |
 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 | 2022-04-13 | 2022-04-21 |
+| [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2023-07-04 |  |
 | [Fraction](https://open.spotify.com/track/2FuWTzgUyXpihyhhZmKNvU) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Fraction](https://open.spotify.com/album/2MYeCk5Qnnmi3I0JKMqTtu) | 3:01 | 2022-04-13 | 2022-04-20 |
 | [Fresh Water in an Empty Vase](https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0) | [Natalie Schepman](https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG) | [Fresh Water in an Empty Vase](https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA) | 2:59 | 2021-10-22 | 2022-07-25 |
 | [From Gold](https://open.spotify.com/track/4GjD33yTih7RqvGkH9C9wO) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [From Gold](https://open.spotify.com/album/46tU4DTzvaCi8BibeSKa0A) | 3:33 | 2022-04-13 | 2022-04-21 |
@@ -214,7 +216,7 @@
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-10-14 | 2023-01-29 |
 | [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 | 2021-10-22 | 2022-04-20 |
 | [Holy Rose](https://open.spotify.com/track/4RD0tyT7TfDyeLHJL0i420) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Holy Rose](https://open.spotify.com/album/4SEnNV8uDJVi1244tnjeEc) | 4:52 | 2021-10-22 | 2022-07-28 |
-| [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu) | 4:41 | 2023-02-10 |  |
+| [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu) | 4:41 | 2023-02-10 | 2023-07-05 |
 | [House by the Sea](https://open.spotify.com/track/34Qk1WJ2ukktGOCNcRzxus) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set the House on Fire](https://open.spotify.com/album/4jmVTmCZC64dy09Cg14Ujk) | 3:38 | 2022-06-24 |  |
 | [House By The Sea](https://open.spotify.com/track/68kYaMTFBY12AYDJfArJNO) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [House By The Sea](https://open.spotify.com/album/6EWvrezgRY4G7tDlcG19qI) | 3:39 | 2022-04-13 | 2022-04-21 |
 | [How Lucky](https://open.spotify.com/track/22YbmBNDcL1jACZIPuItR8) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/236ibaAindQ2qdAElNPTxL) | 3:23 | 2021-10-22 | 2022-07-29 |

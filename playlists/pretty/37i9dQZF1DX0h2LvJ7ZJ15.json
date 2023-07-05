@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 894297,
+  "num_followers": 895005,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh",
+  "snapshot_id": "MCwxYWI0ZjM1ZDc2MGIzZWIzM2IwNmYwNTNmNTA2MmEyYzVjYzhmYWY5",
   "tracks": [
     {
       "added_at": "2023-06-01 19:04:27",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
+        "name": "Faster (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
+      },
+      "artists": [
+        {
+          "name": "A.Oonthebeat",
+          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+        }
+      ],
+      "duration_ms": 199817,
+      "name": "Faster (Slowed & Reverb)",
+      "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
         "name": "fools (can't help falling in love) (slowed down & reverb)",
         "url": "https://open.spotify.com/album/4cqURqEKhKGJNtuO2N3rqn"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 197857,
       "name": "fools (can't help falling in love) (slowed down & reverb)",
       "url": "https://open.spotify.com/track/6IEYxC5J51Igo0XUTx16mA"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
-        "name": "Faster (Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
-      },
-      "artists": [
-        {
-          "name": "A.Oonthebeat",
-          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
-        },
-        {
-          "name": "Jupyter",
-          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
-        }
-      ],
-      "duration_ms": 199817,
-      "name": "Faster (Slowed & Reverb)",
-      "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
     },
     {
       "added_at": "2023-06-01 19:04:27",

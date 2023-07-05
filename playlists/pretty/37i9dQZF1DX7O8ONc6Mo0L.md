@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Igor Roque
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,684 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,868 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 15 | [Celebrate Your Life](https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Secrets](https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7) | 4:31 |
 | 16 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 |
 | 17 | [O Dia Que Será Pra Sempre](https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [O Dia Que Será Pra Sempre](https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C) | 4:43 |
-| 18 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 |
+| 18 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 |
 | 19 | [Além do Rio Azul \- Acústico](https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Além do Rio Azul \(Acústico\)](https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK) | 4:41 |
 | 20 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Graça \(Ao Vivo\)](https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71) | 8:33 |
 | 21 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 |
 | 22 | [Eu Não Sou Mais Órfão \- Acústico](https://open.spotify.com/track/5WOCuracx7DrET4eOVP2ZG) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Eu Não Sou Mais Órfão \(Acústico\)](https://open.spotify.com/album/2VjaDxyEHiM8CoQMlvL9Em) | 3:28 |
-| 23 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 |
+| 23 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 |
 | 24 | [Teus Sonhos \- Acústico](https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q) | 4:25 |
 | 25 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 |
 | 26 | [A Mesa](https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [A Mesa](https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV) | 5:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Quanto Amor \- Acústico](https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Quanto Amor \(Acústico\)](https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL) | 4:12 |
 | 80 | [Estou Com Você \- Acústico](https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Estou Com Você \(Acústico\)](https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu) | 4:45 |
 
-Snapshot ID: `MCw2MGViNGMyMDFiYzJhNWQwZWM3OGI0OWQwNTc3YjcyN2U1NDEwODY0`
+Snapshot ID: `MCwwYTk1MjQ1MDc3NWRlZjk1NjU4NjIyMjhkMWJjN2VhMTJmZWI3OWFm`

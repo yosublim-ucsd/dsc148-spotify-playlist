@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IQoWYgeO8l.md) - [plain]
 
 > Los tracks que escribieron la historia del Hip\-Hop mexicano en 2022\. La Santa Grifa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,140 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,145 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IQoWYgeO8l.md) - [plain]
 | 37 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
 | 38 | [Pa Mis Enemigos](https://open.spotify.com/track/40O3MSJLqJDCULnvRM1Rfh) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Pa Mis Enemigos](https://open.spotify.com/album/6YCFImRXWL7zPfLk4HiPNQ) | 3:06 |
 | 39 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/3oeSFfnALGnx4nrYiOixxD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:43 |
-| 40 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 |
+| 40 | [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 |
 | 41 | [Pesadilla en el Cielo](https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Pesadilla en el Cielo](https://open.spotify.com/album/3AvB7htCyqKQLjpygGerr9) | 3:46 |
 | 42 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 |
 | 43 | [Un Parcero y Un Carnal](https://open.spotify.com/track/1uYPObwfL5rDQ1wbVKngap) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Cojo Crazy](https://open.spotify.com/artist/1BhLxRoavLY73pYXyMYM8x) | [Un Parcero y Un Carnal](https://open.spotify.com/album/7GsGutXqqGyEoa9a4AbASR) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IQoWYgeO8l.md) - [plain]
 | 49 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 |
 | 50 | [Agua de Grifo](https://open.spotify.com/track/3oJdoVXcGrt6BtAl5TTfpI) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Agua de Grifo](https://open.spotify.com/album/3N8W501coseorcBIgHLTrr) | 2:56 |
 
-Snapshot ID: `MCw1NzFiZGU5NTY4NDMxOTJlZTIzZmU4NDUwZjM2Yjk0OGQwOWNhZmNm`
+Snapshot ID: `MCxhM2ExYThhMDM5YTk1MGJhZWZmMmE2NjU4MTgxZWZmZGJhNzFkN2M1`

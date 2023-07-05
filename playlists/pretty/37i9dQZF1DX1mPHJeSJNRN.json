@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13632,
+  "num_followers": 13631,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjQyNmVjYjE1ZDkzNjRjMTZkNzIyZGJhN2M0MWJiZTE1ZDk2NTk3",
+  "snapshot_id": "MCxlYzkxZTFiNjBiOGRlOWY1Y2NiY2Q5MWIzMzRhZGEyMzg3ZmZmZDVh",
   "tracks": [
     {
       "added_at": "2023-06-22 07:18:24",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Moon Beams",
         "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 214301,
-      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
-      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Cloudy (With a Chance of Rain)",
         "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 283422,
       "name": "Cloudy (With a Chance of Rain)",
       "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 214301,
+      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
+      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -999,26 +999,26 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Den milde dag er lys og lang",
-        "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
+        "name": "Cad\u00eancia Verde e Amarela",
+        "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
       "artists": [
         {
-          "name": "Alex Riel",
-          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+          "name": "Morten Ankarfeldt",
+          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
         },
         {
-          "name": "Bo Stief",
-          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
         },
         {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+          "name": "Caio Marcio Santos",
+          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
         }
       ],
-      "duration_ms": 146146,
-      "name": "Den milde dag er lys og lang",
-      "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
+      "duration_ms": 237013,
+      "name": "Cad\u00eancia",
+      "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1047,26 +1047,26 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Cad\u00eancia Verde e Amarela",
-        "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
+        "name": "Den milde dag er lys og lang",
+        "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
       },
       "artists": [
         {
-          "name": "Morten Ankarfeldt",
-          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
         },
         {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+          "name": "Bo Stief",
+          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
         },
         {
-          "name": "Caio Marcio Santos",
-          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Cad\u00eancia",
-      "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
+      "duration_ms": 146146,
+      "name": "Den milde dag er lys og lang",
+      "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Origin",
         "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 178573,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 219653,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "A Seasonal Thing...SPRING",
+        "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "duration_ms": 303850,
+      "name": "It's Not Easy Being Green",
+      "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Happyfeet",
         "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
       },
@@ -1483,18 +1499,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "A Seasonal Thing...SPRING",
-        "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
+        "name": "We've Just Begun",
+        "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
       },
       "artists": [
         {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
         }
       ],
-      "duration_ms": 303850,
-      "name": "It's Not Easy Being Green",
-      "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
+      "duration_ms": 215410,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/0b03KNmMD9rb0wOhRq6cLJ"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1527,26 +1547,6 @@
       "duration_ms": 526613,
       "name": "Holland",
       "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "We've Just Begun",
-        "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
-        }
-      ],
-      "duration_ms": 215410,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/0b03KNmMD9rb0wOhRq6cLJ"
     },
     {
       "added_at": "2023-06-22 07:18:24",

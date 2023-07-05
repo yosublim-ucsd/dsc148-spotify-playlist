@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: BUNT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,426 likes - 89 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,510 likes - 89 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 24 | [Mental Warfare](https://open.spotify.com/track/7GTF0eoc2a5wNlQJDdOcvF) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Mental Warfare](https://open.spotify.com/album/2BrU46QJFSMXqRLeylTU4e) | 6:26 |
 | 25 | [Since 94](https://open.spotify.com/track/6h5wIi5Gi9qAZgnAIHI4bv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Since 94](https://open.spotify.com/album/5M6NyOFCdJZA83Ty9IJROy) | 5:31 |
 | 26 | [Aerial Phenomenon](https://open.spotify.com/track/7KCHXlwd0rWHfSlz5CmTSr) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Encounter](https://open.spotify.com/album/7KYsXYxYko9FpBfG8jF0XH) | 4:17 |
-| 27 | [Breathe In](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
+| 27 | [Breathe In \- Short Mix](https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In \(Short Mix\)](https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK) | 4:07 |
 | 28 | [Colliding Worlds](https://open.spotify.com/track/01pYpv1F5VvjsdOJha2pqK) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Colliding Worlds](https://open.spotify.com/album/5jCZM96DKDViZu5GtSVnzu) | 6:32 |
 | 29 | [The Pulse Of Machine](https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM) | [The Pulse Of Machine](https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4) | 3:21 |
 | 30 | [Lonely Raver](https://open.spotify.com/track/7cmnxZinUFs7jyjdHh9vY8) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Lonely Raver](https://open.spotify.com/album/7lCA9TtuM4nFdjsnpN1dBB) | 7:09 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Diary](https://open.spotify.com/track/2nFtOWsGgAlmsDTh36iawp) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Diary](https://open.spotify.com/album/1s89nUu7cpFopQ2KCkhe5m) | 2:59 |
 | 89 | [Lucky Luke](https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Lucky Luke](https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA) | 6:24 |
 
-Snapshot ID: `MCxhMWM0ZWZmOTQxOThhYTJmYWQ3Njk1ZDk3MjM4MjBiN2YwMzRiZTJl`
+Snapshot ID: `MCxkNzgyZmJkMTlmNjdlYWIxZjlkNzY2YzljYTkzNDE0MjQ1YzUyNzZh`

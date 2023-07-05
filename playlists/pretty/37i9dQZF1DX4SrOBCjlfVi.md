@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 42 Dugg, Veeze and more\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,249 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,349 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Free My Dawgs](https://open.spotify.com/track/3evZ0KZGKFEVaYpYxw28Wa) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Free My Dawgs](https://open.spotify.com/album/6p1vAfv5WEsu2yNjn1lclB) | 2:42 |
 | 49 | [How Much Does A Peace of Mind Cost?](https://open.spotify.com/track/1Om5DQ8qCnL4RIcSH7RikL) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lucas Quinn](https://open.spotify.com/artist/0yL7jHvJY3Pe3li1PuGI9f) | [HOW MUCH DOES A PEACE OF MIND COST?](https://open.spotify.com/album/3GLkzBAaCGXEpvOT8aMUr5) | 3:32 |
 
-Snapshot ID: `MCxmMmY5Yjg3NzUxMThhOGJlZWU2OGUzOTBjOWNjYWQyZWFlODFkNjlh`
+Snapshot ID: `MCw2M2JjZWJhYTRkMWU5YmU4MzUxMDhhZGE4NWRiNDRiYzBjYWEzYjky`

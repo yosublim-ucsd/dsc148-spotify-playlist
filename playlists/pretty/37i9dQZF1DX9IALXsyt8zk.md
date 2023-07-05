@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 8 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 |
 | 9 | [Bad Girls](https://open.spotify.com/track/0adySBJEfMd5xAWkzEOVTb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Bad Girls](https://open.spotify.com/album/4YYvXKLuNhxK35r7JwjMbG) | 3:18 |
 | 10 | [Oh, Love](https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Oh, Love](https://open.spotify.com/album/2MujROsBWLNsCZo2B3udec) | 3:44 |
-| 11 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 |
+| 11 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 |
 | 12 | [Smoke \(feat\. Polodared\)](https://open.spotify.com/track/058ZQqNEtrQ4Wp9IbgcFWh) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Born Broke Die Rich](https://open.spotify.com/album/1t9dVL3qkg7sKZSeXzbc4y) | 3:34 |
 | 13 | [Misfortune](https://open.spotify.com/track/5vUyGrX1m1pNlY6sigPcGE) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Misfortune](https://open.spotify.com/album/3qFtEbPn9bIRsRNvJo6TTD) | 3:25 |
 | 14 | [maze](https://open.spotify.com/track/0PQpXX704xhMCk4idike5t) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [choose you](https://open.spotify.com/album/51EfjSZ0NS59MTHVbKX07r) | 2:32 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 52 | [Ransom](https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Ransom with KozyPop](https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI) | 3:01 |
 | 53 | [More](https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [More](https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L) | 2:41 |
 
-Snapshot ID: `MCxlOWU4MTAyYzNhMTQ0NjA5MDFjZjY2MjQwMzJmMWIzNzBmMDE2MDNj`
+Snapshot ID: `MCxjZTJhZDk0NTE3M2FmOThkZjExZjdkMThiOGVmYmIyM2Y2ODVlYTI5`

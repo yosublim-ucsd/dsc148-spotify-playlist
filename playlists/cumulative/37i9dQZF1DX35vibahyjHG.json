@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=mpsecI1ZQm-gs_3udLh-MA\"> Qing Madi</a>",
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD?si=a88783211a78482b\"> Khanyisa</a>",
   "name": "EQUAL Africa ",
   "tracks": [
     {
@@ -1925,6 +1925,32 @@
     },
     {
       "album": {
+        "name": "KOA II Part 1",
+        "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450304,
+      "name": "Isoka (feat. Nkosazana Daughter & Murumba Pitch)",
+      "url": "https://open.spotify.com/track/39sSsu4g7vjVOax8DU98NX"
+    },
+    {
+      "album": {
         "name": "It Ain't Right",
         "url": "https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk"
       },
@@ -1976,7 +2002,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 169366,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb"
@@ -2512,7 +2538,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 157106,
       "name": "Majimbo",
       "url": "https://open.spotify.com/track/0QLtUjzYUL2LWNHT5GwqBw"
@@ -3401,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
+    },
+    {
+      "album": {
         "name": "Possible",
         "url": "https://open.spotify.com/album/4O2ppYH1KLoP8pE7XomrDk"
       },
@@ -4132,7 +4176,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 185434,
       "name": "Sober",
       "url": "https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0"
@@ -4405,6 +4449,36 @@
     },
     {
       "album": {
+        "name": "SUKA",
+        "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390033,
+      "name": "SUKA",
+      "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
+    },
+    {
+      "album": {
         "name": "Was It Something I Said?",
         "url": "https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi"
       },
@@ -4460,7 +4534,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 140956,
       "name": "Super Super",
       "url": "https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8"
@@ -5210,6 +5284,24 @@
       "duration_ms": 179657,
       "name": "Want",
       "url": "https://open.spotify.com/track/6vcL12JWIzSjpxxqFPmh9L"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
     },
     {
       "album": {

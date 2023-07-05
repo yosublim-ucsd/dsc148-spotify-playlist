@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,945 likes - 146 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,754 likes - 146 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 145 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
 | 146 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 |
 
-Snapshot ID: `MCw1YWViYzBmNWNjMDQ2ODAwNWM0ODZhZmNhNjQ4NDczM2NhNzFmMzkw`
+Snapshot ID: `MCxiODk4YmYwNzU1YTY0ZjMzOGFjMTVhMjk2NjBiMmY3YTk5ODU4NWQ5`

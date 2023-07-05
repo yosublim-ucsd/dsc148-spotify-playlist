@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Drillionaire, Lazza, BLANCO, Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,454 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,023 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [BON TON \(feat\. Lazza, BLANCO, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8) | 3:58 |
+| 1 | [BON TON \(feat\. Lazza, Blanco, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:58 |
 | 2 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 |
 | 3 | [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 |
 | 4 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [PLAYA](https://open.spotify.com/track/4cRafb32DQSDpvIxe5awk5) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [TRENCHES BABY](https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7) | 2:17 |
 | 50 | [FRAGILE](https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/01ZdL53MnBydytqMj22cIH) | 3:32 |
 
-Snapshot ID: `MCxkODBkZmNkOTIyZWM3Zjc3MzgxNWI5MGM5MGRmNmEwNmE0YTYyNTZm`
+Snapshot ID: `MCw5MGI2MGFiYzY5MWEwYzZiNGYxZDNhMTczNDVmYTJjNmZkMzhlOGFh`

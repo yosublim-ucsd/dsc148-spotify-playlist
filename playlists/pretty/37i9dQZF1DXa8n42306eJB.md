@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,776 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,910 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,6 +83,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 73 | [Sunshine Girl](https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Peetah Morgan](https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:37 |
 | 74 | [If I Ever \(feat\. J Boog\)](https://open.spotify.com/track/24QYLOpc7vYphfSk89ZEeg) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [If I Ever \(feat\. J Boog\) \- Single](https://open.spotify.com/album/5i8MnTWpHcGZdO6F775dWE) | 4:42 |
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
-| 76 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
+| 76 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCw5YjdiMDBkMzEyOTU5Y2Y3NDYxNWFhNmE0MjA0YjVjMjhhZDYzNzAw`
+Snapshot ID: `MCw1Njk3NWQxZjcyMTNmNmJlNTQ0YzNhYWM2NTczZDY2NjdlOTgxOWY3`

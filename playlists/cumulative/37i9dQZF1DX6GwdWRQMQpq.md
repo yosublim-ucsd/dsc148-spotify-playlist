@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
 
-354 songs - 16 hr 4 min
+355 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [No Merci](https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:17 | 2022-12-16 | 2023-03-25 |
 | [No Panties](https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [No Panties](https://open.spotify.com/album/3CnXWlwLHgv4E1PaUnla28) | 2:22 | 2022-06-03 | 2022-09-24 |
 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 | 2022-10-14 | 2023-03-11 |
-| [Not My N\*gga Extended](https://open.spotify.com/track/281hW1bpZ523dJdtspABeh) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga Extended](https://open.spotify.com/album/7gKQ9IlbtIoNEwEZr9qMrv) | 3:01 | 2023-03-10 |  |
+| [Not My N\*gga \- Extended](https://open.spotify.com/track/0PQ2ATMw6qnBmKgTjSeRSQ) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga \(Extended\)](https://open.spotify.com/album/661HNQLmPkfQbWjl4l4Fb0) | 3:01 | 2023-06-30 |  |
+| [Not My N\*gga Extended](https://open.spotify.com/track/281hW1bpZ523dJdtspABeh) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga Extended](https://open.spotify.com/album/7gKQ9IlbtIoNEwEZr9qMrv) | 3:01 | 2023-03-10 | 2023-07-05 |
 | [Nut Quick](https://open.spotify.com/track/0WEpjj9YZTbvvIzNiRBAtW) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Nut Quick](https://open.spotify.com/album/4dxjlUOxRmGsC6ss1H5VWY) | 2:38 | 2022-11-11 | 2023-01-28 |
 | [Oh Shhh](https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Oh Shhh](https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S) | 1:33 | 2021-12-17 | 2022-04-23 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-23 |  |

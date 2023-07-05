@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Fazilpuria
 
-80 songs - 4 hr 28 min
+81 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-03-28 |  |
 | [Pinball \- Mafioso Chapter 1](https://open.spotify.com/track/05JB6RkfwfQcS9zUqCJ28V) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [Yeh Proof](https://open.spotify.com/artist/0xuzAcmzyzVoKqRgA9oF4D) | [Pinball \(Mafioso Chapter 1\)](https://open.spotify.com/album/6vXXmSq4bxzyfu4g2HJulg) | 3:02 | 2023-06-16 |  |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-03-28 |  |
-| [Ram Ram](https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:33 | 2023-03-28 |  |
+| [Ram Ram](https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:33 | 2023-03-28 | 2023-07-05 |
+| [Ram Ram \(From "Mtv Hustle 2.0"\)](https://open.spotify.com/track/3tCaIt2Hi9XHlrwK0hQXiF) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Mtv Team](https://open.spotify.com/artist/0x4PRlY7pwZd6Er9vk9GX4) | [Ram Ram \(From "Mtv Hustle 2.0"\)](https://open.spotify.com/album/4lQSMBuJzNso8Osu2z5THu) | 3:29 | 2023-06-29 |  |
 | [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 | 2023-03-28 |  |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 |  |

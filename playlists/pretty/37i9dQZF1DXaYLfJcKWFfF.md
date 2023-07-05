@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g"> Lady Donli </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,721 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,755 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Secret](https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Secret](https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p) | 3:14 |
 | 50 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 |
 
-Snapshot ID: `MCxhZDBkMjFiNjUxMDc1YWE5YTMyNjA1YThlNDFkM2Y2MTBjNjhhMjBm`
+Snapshot ID: `MCwyY2NhODAwMWNkN2I4NDgxNDZlNGIzNDRiZDgxZGNhNWM5ZjRkYzdl`

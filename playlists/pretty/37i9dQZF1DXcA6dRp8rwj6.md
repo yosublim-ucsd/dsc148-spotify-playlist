@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Stormzy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,397 likes - 111 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,502 likes - 111 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 30 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 |
 | 31 | [All Or Nothing](https://open.spotify.com/track/27ly3nX0ofaRByA0DdLJNY) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q), [The J](https://open.spotify.com/artist/1MnDwIcSaSdnCgPt3bNRLu) | [All Or Nothing](https://open.spotify.com/album/4T6QC6t1mJLKICS46r9an7) | 3:32 |
 | 32 | [Can't Find Me](https://open.spotify.com/track/1q6WBM2eCetMnrz6LMMM16) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Can't Find Me](https://open.spotify.com/album/1bZO1PXSiQmIPwcaJWQAqJ) | 2:30 |
-| 33 | [Buatku Gila](https://open.spotify.com/track/26gGdbwokQXFuKi9RjzTt7) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD) | [New Kicks For Goofies](https://open.spotify.com/album/1FHvj5QZkFnQVsh2XE4vke) | 3:12 |
+| 33 | [Buatku Gila](https://open.spotify.com/track/26gGdbwokQXFuKi9RjzTt7) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [New Kicks For Goofies](https://open.spotify.com/album/1FHvj5QZkFnQVsh2XE4vke) | 3:12 |
 | 34 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 |
 | 35 | [Calypso](https://open.spotify.com/track/1IQyyLUU14Vk1rY5giY8O8) | [Wiley from Atlanta](https://open.spotify.com/artist/6mkvJ6XHWVtPer8k0B0nTn), [Jelani Imani](https://open.spotify.com/artist/1sw7TGYqyXeem3njQQQFBM) | [Few Too Many / Calypso](https://open.spotify.com/album/5lTov4Xl86y0Y6U1Epvtt0) | 3:12 |
 | 36 | [Yellowtail Sashimi](https://open.spotify.com/track/4vSd2IvCGMOCoZGtRbkhdv) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Yellowtail Sashimi](https://open.spotify.com/album/5wfrKW8sf4xT3J1c27mBCr) | 2:29 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 110 | [Won't Let Me Stay](https://open.spotify.com/track/0R3EuYjSncQUnAaZkGudkb) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/5yvgplbIo3xLhGW7Y2agIz) | 2:17 |
 | 111 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 |
 
-Snapshot ID: `MCw5MmYzZmY0YTE5MTY3ZDE3ZDRlMWJmZjdjNzhmNTE0MzYzZmU4MGU1`
+Snapshot ID: `MCw4NDYwNWFjZmJhYTYxNTBhMjZmNjdjZGVlM2U4OThlYmQ1YjNiNmFk`

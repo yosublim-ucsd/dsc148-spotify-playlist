@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: SHINee",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TOMORROW X TOGETHER",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -3716,6 +3716,24 @@
     {
       "album": {
         "name": "Deadlock",
+        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
+    },
+    {
+      "album": {
+        "name": "Deadlock",
         "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
       },
       "artists": [
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 183670,
       "name": "Freakin' Bad",
       "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
@@ -7577,6 +7595,24 @@
     },
     {
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/5pGqLIxRkk2udANylRjlTH"
+      },
+      "artists": [
+        {
+          "name": "JUN",
+          "url": "https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137586,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/41B92XjIUVxOqhNAwzlMpp"
+    },
+    {
+      "album": {
         "name": "The 3rd Mini Album 'VarioUS'",
         "url": "https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt"
       },
@@ -9308,7 +9344,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 186619,
       "name": "Sugar Rush Ride - Japanese Ver.",
       "url": "https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu"
@@ -11605,6 +11641,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u9589\u3081\u308d",
+        "url": "https://open.spotify.com/album/3Iy8i2OJDYYOzYFJS4NnrC"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-L.S.S.",
+          "url": "https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148522,
+      "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u9589\u3081\u308d",
+      "url": "https://open.spotify.com/track/5Uyi5O6Hb2PKZdleSJrK6m"
+    },
+    {
+      "album": {
         "name": "\u30b8\u30ec\u30f3\u30de",
         "url": "https://open.spotify.com/album/4XGNyv71OpEDScASJSwkKc"
       },
@@ -11840,6 +11894,24 @@
       "duration_ms": 204614,
       "name": "\u75c5",
       "url": "https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK"
+    },
+    {
+      "album": {
+        "name": "\u7d2b\u967d\u82b1\u306e\u3088\u3046\u306a\u604b (Hydrangea Love)",
+        "url": "https://open.spotify.com/album/5NS7oB7XrDg7xcx4p2595x"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232736,
+      "name": "\u7d2b\u967d\u82b1\u306e\u3088\u3046\u306a\u604b (Hydrangea Love)",
+      "url": "https://open.spotify.com/track/31PF8eu76bgCLNzNm0ZmBX"
     },
     {
       "album": {

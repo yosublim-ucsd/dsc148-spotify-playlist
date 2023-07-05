@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,158 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,138 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 32 | [Into the West](https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Lord of the Rings: The Return of the King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) | 5:47 |
 | 33 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
 | 34 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 3:32 |
-| 35 | [\(I'm Gonna\) Love Me Again](https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 4:10 |
-| 36 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
+| 35 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
+| 36 | [\(I'm Gonna\) Love Me Again](https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 4:10 |
 | 37 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 | 38 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 |
 | 39 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 | 56 | [Father Comes Home](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 
-Snapshot ID: `MCw3MzQwM2YyZGNmN2Y5NTUzMDM4YjQyMjFhMjg1MzkzYmMyMzBhZDI1`
+Snapshot ID: `MCw0OWM4ZmM4MGJmZGU3ZDkwZTYxYWJhMjY5YmEyNzFiNGM4OWU1YjMw`

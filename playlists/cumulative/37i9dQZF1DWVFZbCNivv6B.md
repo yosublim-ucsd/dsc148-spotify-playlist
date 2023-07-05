@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Zxmyr está en la casa.
 
-381 songs - 22 hr 30 min
+382 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,8 @@
 | [Se Fue](https://open.spotify.com/track/2Dldi4E3sf021OxN7tL40L) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q) | [Se Fue](https://open.spotify.com/album/5MXmmttCieaObXjTBpUfXt) | 3:09 | 2022-01-28 | 2022-05-07 |
 | [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 | 2022-11-04 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-28 | 2022-06-04 |
-| [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-07-01 |  |
+| [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-07-01 | 2023-07-05 |
+| [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 | 2023-06-30 |  |
 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 | 2022-11-25 |  |
 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 | 2022-10-28 | 2023-03-04 |
 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-03-07 |  |

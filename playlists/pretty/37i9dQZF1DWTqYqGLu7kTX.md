@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,269 likes - 78 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,717 likes - 78 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 24 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 |
 | 25 | [Old School Vibe](https://open.spotify.com/track/1jGfPyzujm9xmWjzVdqZeu) | [Eifi](https://open.spotify.com/artist/06h4jwHZRZs41yECdCCoY3) | [Old School Vibe](https://open.spotify.com/album/2EbeMv6HbPEf3yuCowt6uo) | 2:50 |
 | 26 | [Levels](https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Levels](https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233) | 3:48 |
-| 27 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 |
+| 27 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 |
 | 28 | [High Life](https://open.spotify.com/track/5QXdt2VHNvEBinfE1Kn2G1) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [High Life](https://open.spotify.com/album/5uYh8gqdE8VL0aAXXodLZ7) | 2:41 |
 | 29 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 |
 | 30 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 33 | [ASSAULT](https://open.spotify.com/track/6pIeD35oayy0j7swdSbBnE) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:56 |
 | 34 | [They Know](https://open.spotify.com/track/5aNAawi2jFEe0qGPJSogRp) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:24 |
 | 35 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 |
-| 36 | [26 Blvd](https://open.spotify.com/track/3v83EFDmAWMH96r3XUf8AJ) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:32 |
+| 36 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 |
 | 37 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 |
 | 38 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 |
 | 39 | [Bloodlust \(feat\. Mr\. Capone\-E\)](https://open.spotify.com/track/1O00WM9qGLUBA5gq2yw0WF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:39 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 55 | [Kingpin](https://open.spotify.com/track/43qJF4pC5rbLDUgmqWYOKu) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Kingpin](https://open.spotify.com/album/7a2Izhm8WcSsUJwwJ5hpEg) | 2:55 |
 | 56 | [Celebrity Killer \(feat\. Tion Wayne\)](https://open.spotify.com/track/19EZKr7Kf0XWCcspyWL8Rp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 |
 | 57 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 |
-| 58 | [Shah Ji](https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [Shah Ji](https://open.spotify.com/album/0bIeOOk2klDQTbtgkx7SwE) | 3:57 |
+| 58 | [Shah Ji](https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/0bIeOOk2klDQTbtgkx7SwE) | 3:57 |
 | 59 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 |
 | 60 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 |
 | 61 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 77 | [Defend](https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Defend](https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1) | 2:53 |
 | 78 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
 
-Snapshot ID: `MCxmNWNmODUzYmRkZTM5NGYxZDRkNTNjNjFjNjk0ZDE2YWM4ZTg1MTU5`
+Snapshot ID: `MCw0NzhjNzZhN2I3OWJhMzFjNDE0NGNiMTdmZjU2MTY3ZTU0ZjVjYmE3`

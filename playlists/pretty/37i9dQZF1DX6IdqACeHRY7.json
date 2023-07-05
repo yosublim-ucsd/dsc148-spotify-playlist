@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 147512,
+  "num_followers": 147523,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWIwNDZiZWRhM2Y1ZjA1MjQ0YjcxYWFhNzM5MGZlOWNjMDZjYWY3",
+  "snapshot_id": "MCw4NmUyYTBhMmE1OWJmZGRlMGM4ZDI0OTJhMWM1OTY1ZTNkMTE2MzM5",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/0tbu70Bb9VJQNW2tE5OVqt"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 186242,
       "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
       "url": "https://open.spotify.com/track/6P8HH4mh0jmGlOhHwAkY5o"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Vincent",
-        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 178826,
       "name": "You Sigh",
       "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 211600,
       "name": "Slow Fade",
       "url": "https://open.spotify.com/track/2G3BKCeB6EewCUpWm7M6pu"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Det\u00b4 kun vigtigt, hvad det er",
-        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Det\u00b4 kun vigtigt, hvad det er",
-      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Det\u00b4 kun vigtigt, hvad det er",
+        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
     },
     {
       "added_at": "2023-06-29 22:00:00",

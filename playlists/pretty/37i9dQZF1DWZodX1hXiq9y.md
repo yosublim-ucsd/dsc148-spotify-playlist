@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,678 likes - 100 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,738 likes - 100 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 42 | [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:53 |
 | 43 | [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 |
 | 44 | [Like Someone In Love](https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:30 |
-| 45 | [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 |
-| 46 | [If I Should Lose You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:10 |
+| 45 | [If I Should Lose You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:10 |
+| 46 | [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 |
 | 47 | [Au Privave \- Take 3 Master](https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Magnificent Charlie Parker](https://open.spotify.com/album/3fA0ldo788no64soavIbL3) | 2:42 |
 | 48 | [Bo\-Fill \- Rudy Van Gelder 24Bit Mastering](https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn), [John Gilmore](https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF) | [Blowing In From Chicago](https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6) | 5:56 |
 | 49 | [Funkallero](https://open.spotify.com/track/265nuzhZ75CqbXvuQcDEvv) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 |
 | 100 | [All For You](https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Mikkelborg](https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy) | [Vision](https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq) | 6:36 |
 
-Snapshot ID: `MCw2NjlkNjZlYmQ0NDc1NzAwNWE5YzcwNTZlYzQ3NmI0MDNhZTZlNmQ5`
+Snapshot ID: `MCw0MTZkYzk1NTEyOTM2ZjFmNTg5MmQxM2Y1NzBiODU0YzBjYjcxZjhi`

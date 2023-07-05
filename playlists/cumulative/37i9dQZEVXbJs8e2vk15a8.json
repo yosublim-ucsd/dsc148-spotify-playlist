@@ -241,6 +241,44 @@
     },
     {
       "album": {
+        "name": "3 D\u00edas (Remix)",
+        "url": "https://open.spotify.com/album/2vGZxklYYny7rNGzl2Bq2I"
+      },
+      "artists": [
+        {
+          "name": "Germanini",
+          "url": "https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Sergio Acosta",
+          "url": "https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw"
+        },
+        {
+          "name": "Samanta Duque",
+          "url": "https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl"
+        },
+        {
+          "name": "Dj Zetian",
+          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
+        },
+        {
+          "name": "Manco the Sound",
+          "url": "https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266727,
+      "name": "3 D\u00edas - Remix",
+      "url": "https://open.spotify.com/track/0wSL1Z7ubNgzxxa0kauDjL"
+    },
+    {
+      "album": {
         "name": "Los Green Lanters 2.0",
         "url": "https://open.spotify.com/album/4XuIa2a0170dUBN6HzhJd6"
       },
@@ -620,7 +658,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 155352,
       "name": "A Lo Xoro",
       "url": "https://open.spotify.com/track/610SdIE4hpD1wA8Wf0UrDr"
@@ -1338,7 +1376,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
@@ -1552,7 +1590,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
@@ -1754,6 +1792,24 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "album": {
@@ -2170,7 +2226,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
@@ -4764,7 +4820,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
@@ -6014,6 +6070,28 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "album": {
+        "name": "En To Lao",
+        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195033,
+      "name": "En To Lao",
+      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
     },
     {
       "album": {
@@ -13199,6 +13277,24 @@
     },
     {
       "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/0zsSzjFE9niFBrawKhZmYH"
+      },
+      "artists": [
+        {
+          "name": "Kidtjjs",
+          "url": "https://open.spotify.com/artist/4e8kRARHrflvoXh2289hsf"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/1dlWElqpn3CHsjthl2ZI9X"
+    },
+    {
+      "album": {
         "name": "N.S.D.T",
         "url": "https://open.spotify.com/album/6XWISVrrS7tKHEs2lGyLpl"
       },
@@ -13288,6 +13384,24 @@
       "duration_ms": 272463,
       "name": "Na Na Na - Remix",
       "url": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY"
+    },
+    {
+      "album": {
+        "name": "Narcisista",
+        "url": "https://open.spotify.com/album/2ZSnToeefWQMvQmzGw4jH7"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205153,
+      "name": "Narcisista",
+      "url": "https://open.spotify.com/track/0S4SBEq0amwnhOsL5MWpcu"
     },
     {
       "album": {
@@ -13929,6 +14043,24 @@
     },
     {
       "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2"
+      },
+      "artists": [
+        {
+          "name": "BrunOG",
+          "url": "https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276993,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP"
+    },
+    {
+      "album": {
         "name": "Numbers",
         "url": "https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL"
       },
@@ -14383,6 +14515,32 @@
     },
     {
       "album": {
+        "name": "Oppa",
+        "url": "https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig"
+      },
+      "artists": [
+        {
+          "name": "NECROLX",
+          "url": "https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Oppa",
+      "url": "https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -14760,6 +14918,36 @@
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
+    },
+    {
+      "album": {
+        "name": "PANAMERA (feat. Dj Zetian)",
+        "url": "https://open.spotify.com/album/5hzMoEOPyyLQXUvwr2VGNQ"
+      },
+      "artists": [
+        {
+          "name": "Chiko Alfa",
+          "url": "https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        },
+        {
+          "name": "Dj Zetian",
+          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "PANAMERA (feat. Dj Zetian)",
+      "url": "https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY"
     },
     {
       "album": {
@@ -15910,6 +16098,36 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/1zJkWig0QfNBsH79SKjE9p"
+    },
+    {
+      "album": {
+        "name": "POLARIS (Remix)",
+        "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "POLARIS - Remix",
+      "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
     },
     {
       "album": {
@@ -17566,7 +17784,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 189466,
       "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
       "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
@@ -18766,7 +18984,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 62720,
       "name": "Spider-Man 2099 (Miguel O'Hara)",
       "url": "https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT"
@@ -18860,7 +19078,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -21082,7 +21300,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
@@ -22098,7 +22316,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 222306,
       "name": "What's Up Danger (with Black Caviar)",
       "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
@@ -22258,6 +22476,24 @@
       "duration_ms": 184649,
       "name": "Without Lies",
       "url": "https://open.spotify.com/track/2k8g9ufzi4v4Vx681WbXmY"
+    },
+    {
+      "album": {
+        "name": "The Idol Episode 1 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
+      },
+      "artists": [
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "World Class Sinner / I\u2019m A Freak",
+      "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
     },
     {
       "album": {

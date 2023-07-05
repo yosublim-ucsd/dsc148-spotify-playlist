@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Cure For Love",
+        "url": "https://open.spotify.com/album/4qFdZ75qKyjIZWtpxohVgT"
+      },
+      "artists": [
+        {
+          "name": "Naive Super",
+          "url": "https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS"
+        },
+        {
+          "name": "Pictured Resort",
+          "url": "https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm"
+        },
+        {
+          "name": "Ruri Matsumura",
+          "url": "https://open.spotify.com/artist/0xn2xHzatovBQlW7MqMJAd"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191503,
+      "name": "Cure For Love",
+      "url": "https://open.spotify.com/track/2j94xJWcaViNkWxkEhKqnd"
+    },
+    {
+      "album": {
         "name": "cycle",
         "url": "https://open.spotify.com/album/0XfYpMjkFoyexPrP41X0l9"
       },
@@ -2335,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Next Destination",
+        "url": "https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kimura",
+          "url": "https://open.spotify.com/artist/7jZnmNs4rkoMqljfgaXxF9"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267226,
+      "name": "Good Luck,Good Time",
+      "url": "https://open.spotify.com/track/21fjaRKHWjM103DohcT0W3"
+    },
+    {
+      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -2444,7 +2488,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 170294,
       "name": "Happy Sad",
       "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
@@ -3176,7 +3220,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 217000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
@@ -3583,6 +3627,46 @@
     },
     {
       "album": {
+        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255853,
+      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/2mUUFQu3TYWUyoV2nRz0Rh"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234761,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5O3lSXaXBNGIatqk0DRAoU"
+    },
+    {
+      "album": {
         "name": "POCKET PARK (2023 Mix)",
         "url": "https://open.spotify.com/album/6ZogsaUTY6mwjzg0503GvU"
       },
@@ -3772,6 +3856,28 @@
       "duration_ms": 219989,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner"
+    },
+    {
+      "album": {
+        "name": "Million Miles Away (Edit)",
+        "url": "https://open.spotify.com/album/6XjUXNYXwhXjGdicHqExDc"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Milk Talk",
+          "url": "https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211995,
+      "name": "Million Miles Away - Edit",
+      "url": "https://open.spotify.com/track/7GinkMd26v9s8bJYLTyvkK"
     },
     {
       "album": {
@@ -5523,6 +5629,28 @@
     },
     {
       "album": {
+        "name": "Silhouette (feat. Asako Toki)",
+        "url": "https://open.spotify.com/album/44G9CppJo6uWZCMFsqZs9b"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u571f\u5c90\u9ebb\u5b50",
+          "url": "https://open.spotify.com/artist/2v3GHWBJprAS0n6tpIx1Oj"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261017,
+      "name": "Silhouette (feat. Asako Toki)",
+      "url": "https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS"
+    },
+    {
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/4mIF1JqEOSRbWISwDR1Ud9"
       },
@@ -5694,7 +5822,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 192142,
       "name": "Solotrip",
       "url": "https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL"
@@ -6198,7 +6326,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 254666,
       "name": "Summer Ghost feat. KIRINJI",
       "url": "https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo"
@@ -7250,7 +7378,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 243900,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac"
@@ -8650,7 +8778,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 191466,
       "name": "\u30c0\u30ed\u30a6",
       "url": "https://open.spotify.com/track/16B2RmB3Zrle55oDMIeAtG"
@@ -9494,7 +9622,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 227573,
       "name": "\u5618\u5bdd",
       "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
@@ -10104,7 +10232,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 285306,
       "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
       "url": "https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR"

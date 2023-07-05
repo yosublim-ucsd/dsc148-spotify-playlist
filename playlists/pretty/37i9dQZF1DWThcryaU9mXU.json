@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 42771,
+  "num_followers": 42810,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjcwZWI0MzNjYzY4ODViOGE0MjM3M2U2YWRiOTVmMzAxMmNiM2Ji",
+  "snapshot_id": "MCxjY2ZhMDE3MGY4MTIyOGQ5YWQ4NjEzMzk3NmU3ZTc1YjdkZDVmNTMx",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "True To Yourself",
         "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 456946,
       "name": "Lonely Bed",
       "url": "https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 412893,
-      "name": "Too Many Dirty Dishes - Remastered",
-      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 412893,
+      "name": "Too Many Dirty Dishes - Remastered",
+      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "All Blues",
         "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 274088,
       "name": "Same Old Blues",
       "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Soul for the Heart",
-        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
+        "name": "I'm A Mad Man",
+        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
       },
       "artists": [
         {
-          "name": "Joe Barr",
-          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
-        },
-        {
-          "name": "Breezy Rodio",
-          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
         }
       ],
-      "duration_ms": 275973,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
+      "duration_ms": 359133,
+      "name": "35 Long Years",
+      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "I'm A Mad Man",
-        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
+        "name": "Soul for the Heart",
+        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
       "artists": [
         {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+          "name": "Joe Barr",
+          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
+        },
+        {
+          "name": "Breezy Rodio",
+          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
         }
       ],
-      "duration_ms": 359133,
-      "name": "35 Long Years",
-      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+      "duration_ms": 275973,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
-      },
-      "artists": [
-        {
-          "name": "Peter Veteska & Blues Train",
-          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Low Down Dirty Blues",
-      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "So Far so Good",
+        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+      },
+      "artists": [
+        {
+          "name": "Peter Veteska & Blues Train",
+          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Low Down Dirty Blues",
+      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 214194,
-      "name": "You Can't Lose What You Ain't Never Had",
-      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "What do You Feel?",
         "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Get Your Lovin'",
-        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
       "artists": [
         {
-          "name": "Secret Formula Band",
-          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
         }
       ],
-      "duration_ms": 203395,
-      "name": "Get Your Lovin'",
-      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
+      "duration_ms": 214194,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 250760,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Get Your Lovin'",
+        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
+      },
+      "artists": [
+        {
+          "name": "Secret Formula Band",
+          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
+        }
+      ],
+      "duration_ms": 203395,
+      "name": "Get Your Lovin'",
+      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
     },
     {
       "added_at": "2023-06-30 00:01:00",

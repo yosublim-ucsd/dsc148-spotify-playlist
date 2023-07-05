@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 127455,
+  "num_followers": 127610,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTUxMDhkZWFhMWRmYTBiY2Q0NDQ1NjFjMDhiYWNjNDAzMjUxMGQw",
+  "snapshot_id": "MCw4ZjU2YzY4YTkyNmY5Nzc5NThiNjNjNjFkOGY3NTliZWE1N2YzNjQ4",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -321,38 +321,6 @@
       "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Leave It On The Dancefloor",
-        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175016,
-      "name": "Leave It On The Dancefloor",
-      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -371,6 +339,38 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Leave It On The Dancefloor",
+        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175016,
+      "name": "Leave It On The Dancefloor",
+      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "The Art of Forgetting",
-        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Who Am I?",
@@ -907,6 +891,22 @@
       "duration_ms": 172280,
       "name": "Change",
       "url": "https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Art of Forgetting",
+        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
+      "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "I Know Your Present",
-        "url": "https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt"
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl"
       },
       "artists": [
         {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Lo Knowles",
+          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
         }
       ],
-      "duration_ms": 229743,
-      "name": "I Know Your Present",
-      "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1217,36 +1217,36 @@
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl"
-      },
-      "artists": [
-        {
-          "name": "Lo Knowles",
-          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Just Now",
-        "url": "https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT"
+        "name": "I Know Your Present",
+        "url": "https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt"
       },
       "artists": [
         {
-          "name": "Homeschool",
-          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Hanger-on",
-      "url": "https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4"
+      "duration_ms": 229743,
+      "name": "I Know Your Present",
+      "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Thirstier",
+        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 261941,
+      "name": "Don't Go Puttin Wishes in My Head",
+      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
     }
   ],
   "unique_name": "Alternative Pride",

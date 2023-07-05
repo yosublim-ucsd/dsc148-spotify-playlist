@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,477 likes - 82 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,702 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 37 | [Square Body](https://open.spotify.com/track/4O5q0TmgkMxvf7ksLINGCW) | [Shotgun Shane](https://open.spotify.com/artist/0t4OC45mZTJBIjcIJmu4xw) | [The Reload 2.0](https://open.spotify.com/album/1vqjfnMlzdUQ3TaVLD7Rsk) | 3:47 |
 | 38 | [Illinois Cowboy](https://open.spotify.com/track/0lh8NRCuusAHwujpALAD00) | [Kid Ziggy](https://open.spotify.com/artist/6jTPmZmVoj8iOxD7Lv2XC4), [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [Illinois Cowboy](https://open.spotify.com/album/7D5MSopZVBnrUDmLCQ4j79) | 2:30 |
 | 39 | [Hee Hee Haa Haa](https://open.spotify.com/track/6iXPBv1ouAB8HkhJpIYjBP) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Jcrews](https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb) | [Hee Hee Haa Haa](https://open.spotify.com/album/3IoyNWIFpu6fTFjqEb8Rrb) | 3:35 |
-| 40 | [Jesus Was a Redneck](https://open.spotify.com/track/0UbXLwB8mO5zPnzh5UARcU) | [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Jesus Was a Redneck](https://open.spotify.com/album/2h3SMhJNqfzYnxMdZS7mJB) | 2:26 |
+| 40 | [Jesus Was a Redneck](https://open.spotify.com/track/0UbXLwB8mO5zPnzh5UARcU) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Jesus Was a Redneck](https://open.spotify.com/album/2h3SMhJNqfzYnxMdZS7mJB) | 2:26 |
 | 41 | [Cheatham County](https://open.spotify.com/track/29ad3oJC56R3hFO9XKSDgb) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Cheatham County](https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4) | 2:47 |
 | 42 | [Average Joe](https://open.spotify.com/track/4UnGo0UABzqJY7WQd3EO9u) | [C'ing Jerome](https://open.spotify.com/artist/23kI8xM7taOJ0khWhczD57) | [Average Joe](https://open.spotify.com/album/6SSOOm89f6lbyNikB0O8mc) | 2:35 |
 | 43 | [Raised On It](https://open.spotify.com/track/5A9yQ6iMNyWomSolE0Txme) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1), [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [Raised On It](https://open.spotify.com/album/5cege1fUUvELehDKVy8kF3) | 3:02 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 81 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 |
 | 82 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCxjN2E0YzYzZTQ3Mzc2NzI1ZjQ4ODEyNTdiZmM0MzQ5OGE2OGFlM2Ji`
+Snapshot ID: `MCw0MzhmYzVhYmU1NTFhYThlYjNlNzcyNjJkMDFlNjVkODhkMmRhYmJk`

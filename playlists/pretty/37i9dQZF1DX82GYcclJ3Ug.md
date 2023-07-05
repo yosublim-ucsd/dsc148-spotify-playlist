@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Beck & Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,657 likes - 127 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,744 likes - 127 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 126 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 127 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 
-Snapshot ID: `MCxlMTlkZGNiMTE0NGUwZWY4NjBlNTM5MGIyZmFlMWE2NWNiNzRjMTU5`
+Snapshot ID: `MCxhYTI3Mjg3NmI4OTVkMDIyNjZjZmIwZjhmODRhODcyYjg3MTFkZWE2`

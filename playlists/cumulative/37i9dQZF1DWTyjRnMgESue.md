@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Ilsey
 
-397 songs - 22 hr 41 min
+398 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Am I even living anymore](https://open.spotify.com/track/1ZF6PgaBXLGeU44KBKysD3) | [Mikey Ferrari](https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7) | [Am I even living anymore](https://open.spotify.com/album/06CyPht4fcKktIg4zJUNHP) | 3:21 | 2023-02-24 | 2023-05-23 |
 | [am i not enough for now?](https://open.spotify.com/track/3WLaizg8lVLa2JCMbtVseD) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [am i not enough for now?](https://open.spotify.com/album/3Oowpwv5xOA7SjxqQCL47e) | 3:54 | 2022-03-25 | 2022-07-25 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-11 | 2023-03-04 |
-| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 |  |
+| [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-06-30 |  |
+| [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-07-05 |
 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 | 2021-11-19 |  |
 | [Anymore](https://open.spotify.com/track/3gZlq8DvTfgpsiAMRgtZwT) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Anymore](https://open.spotify.com/album/6GTGDDJ6iED2ZUEqJW4e6I) | 3:34 | 2021-11-19 | 2022-05-11 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-07-09 |

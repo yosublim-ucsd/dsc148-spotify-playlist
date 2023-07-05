@@ -912,10 +912,32 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 216193,
       "name": "I Stay Here (feat. Mari)",
       "url": "https://open.spotify.com/track/1WJZiPgRQB4jZBpyuZo8qq"
+    },
+    {
+      "album": {
+        "name": "Spend The Night With You",
+        "url": "https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS"
+      },
+      "artists": [
+        {
+          "name": "MangoPhalt",
+          "url": "https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN"
+        },
+        {
+          "name": "mari",
+          "url": "https://open.spotify.com/artist/0J7K6R1o2X6SurlPCLPn6c"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216193,
+      "name": "I Stay Here (feat. Mari)",
+      "url": "https://open.spotify.com/track/5vjFFcqpZ46DNRe67pSAmQ"
     },
     {
       "album": {
@@ -2244,6 +2266,28 @@
     {
       "album": {
         "name": "Spend The Night With You",
+        "url": "https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS"
+      },
+      "artists": [
+        {
+          "name": "MangoPhalt",
+          "url": "https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN"
+        },
+        {
+          "name": "Frankie Summer",
+          "url": "https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226807,
+      "name": "Spend The Night With You (feat. Frankie Summer)",
+      "url": "https://open.spotify.com/track/2DNOoi1k5JDx9DEJfLNB09"
+    },
+    {
+      "album": {
+        "name": "Spend The Night With You",
         "url": "https://open.spotify.com/album/3QolHtd0girLLqKM0Gw1Al"
       },
       "artists": [
@@ -2280,7 +2324,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 226807,
       "name": "Spend The Night With You (feat. Frankie Summer)",
       "url": "https://open.spotify.com/track/4lml7OhxfonWswRYDCNxdc"
@@ -2678,6 +2722,24 @@
     {
       "album": {
         "name": "Spend The Night With You",
+        "url": "https://open.spotify.com/album/1P8FIdTjCDrx2rUEof69rS"
+      },
+      "artists": [
+        {
+          "name": "MangoPhalt",
+          "url": "https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212751,
+      "name": "The Winter, Stopped You & Me",
+      "url": "https://open.spotify.com/track/2yWQC6KfNM37EB2ElsU7Kt"
+    },
+    {
+      "album": {
+        "name": "Spend The Night With You",
         "url": "https://open.spotify.com/album/6yq2W74hgWtXQ9D7a2gbnJ"
       },
       "artists": [
@@ -2688,7 +2750,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 212751,
       "name": "The Winter, Stopped You & Me",
       "url": "https://open.spotify.com/track/5j9RuonyX1loL8xgOGcMcQ"

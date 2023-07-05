@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-104 songs - 5 hr 28 min
+105 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 | 2022-10-07 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 1:41 | 2021-12-21 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 | 2021-12-21 |  |
-| [I Wonder as I Wander](https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:57 | 2021-12-21 |  |
+| [I Wonder As I Wander](https://open.spotify.com/track/0kzHQzoXWk9lBrXgKPXMNz) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2: Instrumental Jazz For The Holidays](https://open.spotify.com/album/3PxUEXG9yUTdT9vcopnWD9) | 3:57 | 2022-12-23 |  |
+| [I Wonder as I Wander](https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:57 | 2021-12-21 | 2023-07-05 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6dEz0rAh85G3fsTIUcEU0o) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 3:02 | 2021-12-21 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/3zENRCKW6v5R0DxD3y8UoA) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Ultimate Christmas Playlist](https://open.spotify.com/album/5UA8tyVUcZI7EzW1O2JFFx) | 3:19 | 2021-12-21 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 | 2021-12-21 |  |

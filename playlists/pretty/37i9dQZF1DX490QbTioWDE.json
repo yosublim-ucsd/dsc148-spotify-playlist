@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Alan Gomez & Luck Ra.",
-  "num_followers": 608782,
+  "num_followers": 608942,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGU1YTdjY2IyMmExOGEyNzAwNWVlYzUxNjk4ZWM4OWEwNTRhNmNm",
+  "snapshot_id": "MCw4ZDY2ZGIxZjU1Mzc4ZmU5OGNiMDAzYTJjOWIxZmE2ZGY3N2EyZjNl",
   "tracks": [
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "Qui\u00e9reme (Cuarteto)",
         "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "El Pa\u00f1uelo",
         "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "La Fiesta Es de Primera",
-        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 319280,
-      "name": "Vuela (En Vivo)",
-      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "El 22",
         "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 480888,
       "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
       "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "La Fiesta Es de Primera",
+        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 319280,
+      "name": "Vuela (En Vivo)",
+      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "M\u00e1s Que Amigos",
-        "url": "https://open.spotify.com/album/3Vy7X6iHw45fFwqdJGTEW7"
+        "name": "Si Pudiera Tenerte - Camina y Ven",
+        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
       },
       "artists": [
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
         }
       ],
-      "duration_ms": 201328,
-      "name": "M\u00e1s Que Amigos",
-      "url": "https://open.spotify.com/track/7h4ce3ciRt2Qhmxtkm5I6h"
+      "duration_ms": 348876,
+      "name": "Si Pudiera Tenerte - Camina y Ven",
+      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
     }
   ],
   "unique_name": "100% Cuarteto",

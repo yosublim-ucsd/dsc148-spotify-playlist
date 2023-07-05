@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 422226,
+  "num_followers": 422438,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTA5NjNlNmZjZmNmNmVhYWM4YThjOTg2N2ExODNhMjA1NDRhY2I0",
+  "snapshot_id": "MCw5ZWExNTVjMTUwZDUxY2RhM2NjODg3MTk1OTM4ZjYwODM0YmU1ZTM4",
   "tracks": [
     {
       "added_at": "2023-06-30 03:03:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 179481,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-06-30 03:03:00",

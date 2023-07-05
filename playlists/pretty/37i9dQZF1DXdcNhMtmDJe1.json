@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 79583,
+  "num_followers": 79599,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWQ5N2MwZjBjMDA2ZmM5NmU2MGFjZThlNDMxMWQwY2NjYzk4OGJm",
+  "snapshot_id": "MCwxNDcwMzk2MDkxMTgyZGIzMDE0OTkxNjFmNTBiYTUwOTZkZTc3NjVj",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel In Distress: A Foggy Day",
-      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
         }
       ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -896,37 +896,9 @@
           "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
         }
       ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Don Rose",
-          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 417640,
-      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
-      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -955,6 +927,34 @@
       "duration_ms": 762453,
       "name": "Piano Concerto in F Major: II. Adagio",
       "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Don Rose",
+          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 417640,
+      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
+      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
     },
     {
       "added_at": "2022-08-05 04:02:00",

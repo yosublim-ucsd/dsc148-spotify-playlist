@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsxYUlE1wDv.md) - [plain]
 
 > Featuring YOVNGCHIMI, Myke Towers, Don Omar & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,038 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsxYUlE1wDv.md) - [plain]
 | 24 | [Besties \- Remix](https://open.spotify.com/track/4v7KHnsIpCKCQaPAPWUJD0) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Besties \(Remix\)](https://open.spotify.com/album/3NvpDUAiKjiZ4xbk9EiF5a) | 5:03 |
 | 25 | [GIVENCHY](https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 3:02 |
 
-Snapshot ID: `MCw1YzI2OTI3MWM1OTU1MDI3MzI1ZGI4NGYyOWFjY2E4ZmU3M2NkMDcx`
+Snapshot ID: `MCw2MzgwNTY1MWVhODkxNjE0YzVjNTBhYjM3Mzg4ZTQ3NTUyZDkzN2Ew`

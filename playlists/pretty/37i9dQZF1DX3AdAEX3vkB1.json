@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 198615,
+  "num_followers": 198826,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjViMjM2NzE3N2FkMzg4OTQ4M2EwOGQ5NjU0NDAwNjkwMDhhZWRh",
+  "snapshot_id": "MCwzNWU3NWU2ODdjYzBhZThhZDA5NTkyN2JlMjBjM2MxMTYwYTUwMDhj",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Very Best of Solomon Burke",
-        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Everybody Needs Somebody to Love",
-      "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 96000,
       "name": "Sunshine, Lollipops And Rainbows",
       "url": "https://open.spotify.com/track/0AZb6ryK8LsFcvY1jWHO61"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Very Best of Solomon Burke",
+        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Everybody Needs Somebody to Love",
+      "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
-      },
-      "artists": [
-        {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Summer Days (And Summer Nights) [Remastered]",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 168240,
       "name": "Help Me, Rhonda - Single Version/Remastered 2001",
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Twist & Shout",
         "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 155400,
       "name": "Twist And Shout",
       "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1845,22 +1845,6 @@
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP"
-      },
-      "artists": [
-        {
-          "name": "Lulu",
-          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Complete Johnny Kidd Vol 1 & 2",
@@ -1875,6 +1859,22 @@
       "duration_ms": 141960,
       "name": "Shakin' All Over",
       "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP"
+      },
+      "artists": [
+        {
+          "name": "Lulu",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "Happy Birthday, Sweet Sixteen",
-      "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 179400,
       "name": "If I Had a Hammer",
       "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "Happy Birthday, Sweet Sixteen",
+      "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Surf City: The Best Of Jan & Dean",
+        "url": "https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE"
+      },
+      "artists": [
+        {
+          "name": "Jan & Dean",
+          "url": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Surf City - Remastered 1990/Stereo Remix",
+      "url": "https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Two Of Us",
         "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 165760,
       "name": "Baby, You\u2019ve Got What It Takes",
       "url": "https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Surf City: The Best Of Jan & Dean",
-        "url": "https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE"
-      },
-      "artists": [
-        {
-          "name": "Jan & Dean",
-          "url": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Surf City - Remastered 1990/Stereo Remix",
-      "url": "https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2203,6 +2203,26 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Two Of Us",
+        "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "duration_ms": 148226,
+      "name": "A Rockin' Good Way (To Mess Around And Fall In Love)",
+      "url": "https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Exciting Wilson Pickett",
         "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
@@ -2247,26 +2267,6 @@
       "duration_ms": 194640,
       "name": "Get Down with It",
       "url": "https://open.spotify.com/track/2Dnsu9fl9UurKA3uHvgEjy"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Two Of Us",
-        "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Brook Benton",
-          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
-        }
-      ],
-      "duration_ms": 148226,
-      "name": "A Rockin' Good Way (To Mess Around And Fall In Love)",
-      "url": "https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf"
     },
     {
       "added_at": "2023-05-30 09:14:29",

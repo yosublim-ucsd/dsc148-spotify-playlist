@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 186857,
       "name": "44",
       "url": "https://open.spotify.com/track/1n7ihTuG2hh7sjDVfkBXdt"
@@ -11217,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "SLAP",
+        "url": "https://open.spotify.com/album/5VwcpeiEgPAaaduzhNFdL0"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "SLAP",
+      "url": "https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly"
+    },
+    {
+      "album": {
         "name": "Snobbava",
         "url": "https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs"
       },
@@ -11996,7 +12014,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 159512,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/2hgEpXDvLCtcTUmF00Mxjw"
@@ -12449,6 +12467,28 @@
     },
     {
       "album": {
+        "name": "TUTA FAKE (feat. Don Pero)",
+        "url": "https://open.spotify.com/album/6QalFNzRnlYZ6KEYLLIKUZ"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "TUTA FAKE (feat. Don Pero)",
+      "url": "https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP"
+    },
+    {
+      "album": {
         "name": "TUTTO PERFETTO",
         "url": "https://open.spotify.com/album/3F6ggobCxry9HTbiAtKO1W"
       },
@@ -12680,6 +12720,28 @@
       "duration_ms": 143816,
       "name": "VELENOSA",
       "url": "https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2"
+    },
+    {
+      "album": {
+        "name": "Verona Est",
+        "url": "https://open.spotify.com/album/2ZzCGS4LNaB3zKyvsMXCSv"
+      },
+      "artists": [
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        },
+        {
+          "name": "Murray",
+          "url": "https://open.spotify.com/artist/5vCM8O3LYLrcx4QRyKzoQo"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Verona Est",
+      "url": "https://open.spotify.com/track/0vA9zVC31EUfHvTo6rAekK"
     },
     {
       "album": {
@@ -13268,7 +13330,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 162499,
       "name": "Yamamay",
       "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"

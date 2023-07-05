@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 466949,
+  "num_followers": 467083,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjI5MTZhNWVjM2M4MDVlMWI2OTNhYTg1NDk2OGZkOWUxMTYyNDVk",
+  "snapshot_id": "MCwwNTlmODQ1NjQzYWU2N2JlNzc3NzljOTlkZWUzMTQ2ODUwODI1ZTIy",
   "tracks": [
     {
       "added_at": "2023-06-13 08:45:13",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-06-13 08:45:13",
       "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
+    },
+    {
+      "added_at": "2023-06-13 08:45:13",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 215795,
       "name": "Love like that",
       "url": "https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G"
-    },
-    {
-      "added_at": "2023-06-13 08:45:13",
-      "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2023-06-13 08:45:13",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-06-13 08:45:13",
       "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2023-06-13 08:45:13",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2023-06-13 08:45:13",
-      "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2023-06-13 08:45:13",

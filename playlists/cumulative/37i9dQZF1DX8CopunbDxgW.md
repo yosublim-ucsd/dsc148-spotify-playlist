@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Roosevelt
 
-830 songs - 2 day 6 hr 26 min
+831 songs - 2 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [NO INTENTION](https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [NO INTENTION](https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri) | 4:07 | 2023-05-05 | 2023-06-08 |
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-10-05 | 2022-10-26 |
 | [No Need 2 Be Sorry, Call Me? \(ft\. Maverick Sabre\)](https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:27 | 2023-03-10 | 2023-05-30 |
+| [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-02-17 |  |
 | [No One](https://open.spotify.com/track/0I7G7fSWdS9iugsedj7Ns1) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [No One](https://open.spotify.com/album/1f0LUHAdtkfiWOFhpzhAWV) | 3:25 | 2021-11-19 | 2022-01-31 |
 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 | 2022-09-17 | 2022-10-06 |
 | [No Stress](https://open.spotify.com/track/1TVqsu1lmZU7DodZiPKIe9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [No Stress](https://open.spotify.com/album/55dCvmQtu0fiK8GiTYvjUA) | 3:31 | 2022-03-25 | 2022-04-14 |
@@ -603,7 +604,7 @@
 | [Relay](https://open.spotify.com/track/21pOAGEaqatWYQpy18K9oc) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fantasy](https://open.spotify.com/album/0glNhCYTMvVmnTwXZ1bgKA) | 2:47 | 2022-01-28 | 2022-07-08 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-08 |
 | [Renegade](https://open.spotify.com/track/7n74B8CVy1kWH0IOXnbrj2) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Renegade](https://open.spotify.com/album/0SrEtp8X0AH2gd0WX4Qh8Y) | 3:17 | 2021-11-19 | 2021-12-29 |
-| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 |  |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 | 2023-07-05 |
 | [Restless Bones](https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Restless Bones](https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9) | 2:25 | 2022-11-08 | 2023-04-01 |
 | [Reverie](https://open.spotify.com/track/7b2FRWT62YHpuX6LFhLeN8) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Reverie](https://open.spotify.com/album/2wD0srVS14cqbCmAORNF7n) | 3:25 | 2021-10-08 | 2022-01-27 |
 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 | 2022-10-14 | 2022-11-22 |

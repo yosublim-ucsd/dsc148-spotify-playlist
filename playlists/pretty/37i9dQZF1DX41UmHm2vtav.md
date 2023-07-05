@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,226 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,438 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 53 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
 | 54 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 | 55 | [Monalisa \(KVSH Remix\)](https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Monalisa \(KVSH Remix\)](https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz) | 2:55 |
-| 56 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
-| 57 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
+| 56 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
+| 57 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 58 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 59 | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX) | 3:11 |
 | 60 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V) | 3:19 |
 | 70 | [Make Me Wanna](https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 2:53 |
 
-Snapshot ID: `MCw2ZTA5NjNlNmZjZmNmNmVhYWM4YThjOTg2N2ExODNhMjA1NDRhY2I0`
+Snapshot ID: `MCw5ZWExNTVjMTUwZDUxY2RhM2NjODg3MTk1OTM4ZjYwODM0YmU1ZTM4`

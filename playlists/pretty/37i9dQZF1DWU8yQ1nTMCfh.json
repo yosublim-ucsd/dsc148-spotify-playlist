@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 281158,
+  "num_followers": 281177,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmRiYjZhODgyMWNkYTkzMTRmZWU4YzljNzFjNzBmMGJiNWZkYjRh",
+  "snapshot_id": "MCwwNTlkYzI2MTE4MTY3MzAwYjhkZDkwMzhlNjc4YjI0YjQ3OGVlNDI4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Nublado (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Nublado (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 247375,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Qu\u00e9date Con \u00c9l",
-      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 189586,
       "name": "Gris",
       "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Qu\u00e9date Con \u00c9l",
+      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Me Odio Tanto",
-        "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
       "artists": [
         {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 178251,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+        "name": "No Me Odio Tanto",
+        "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
         }
       ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
+      "duration_ms": 178251,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Todo est\u00e1 bien",
-        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 376123,
-      "name": "Todo est\u00e1 bien",
-      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Instinto Felino",
         "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Todo est\u00e1 bien",
+        "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 376123,
+      "name": "Todo est\u00e1 bien",
+      "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Hey!",
         "url": "https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 207645,
       "name": "Con los Pies en el Techo",
       "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
     }
   ],
   "unique_name": "Rock Total",

@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 105827,
+  "num_followers": 105905,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2NlMTRhOTJmMzM4NGFmNzg2MTIwOGM4MDExMGUyNTE5MjAwNDg0",
+  "snapshot_id": "MCw3NjY2YjgyYzM0OTU5NDk3MjRlOGYzMTNiZWJmODZjNTNhMWY2ZTg5",
   "tracks": [
     {
       "added_at": "2023-06-21 10:58:17",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Reimagined",
         "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 215250,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "If You Know Love",
         "url": "https://open.spotify.com/album/6zkbgihaa15nXO07A6VTs4"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 299040,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 299040,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 283026,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -515,22 +531,6 @@
       "duration_ms": 211528,
       "name": "Always on my mind",
       "url": "https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Pedro Almod\u00f3var - Viva La Tristeza!",
-        "url": "https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Scott",
-          "url": "https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo"
-        }
-      ],
-      "duration_ms": 378346,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Just a Girl",
         "url": "https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 189830,
       "name": "Just a Girl",
       "url": "https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Pedro Almod\u00f3var - Viva La Tristeza!",
+        "url": "https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Scott",
+          "url": "https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo"
+        }
+      ],
+      "duration_ms": 378346,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "return to casual",
         "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 228327,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 342473,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/2mLjXYU12qbQRrMcxUhhse"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 228327,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1159,6 +1159,38 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "The End Of A Summer",
+        "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
+      },
+      "artists": [
+        {
+          "name": "Julia H\u00fclsmann Trio",
+          "url": "https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1191,22 +1223,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 258398,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "The End Of A Summer",
-        "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
-      },
-      "artists": [
-        {
-          "name": "Julia H\u00fclsmann Trio",
-          "url": "https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "Kiss From A Rose",
-      "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 358453,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
-      },
-      "artists": [
-        {
-          "name": "Charles Daisey & Friends",
-          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "In My Element",
         "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 523613,
       "name": "Maiden Voyage / Everything In Its Right Place",
       "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "duration_ms": 200750,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Viva la Vida",
-        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
-      },
-      "artists": [
-        {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 131773,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Viva la Vida",
+        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Hey Jude",
         "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 219625,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
-      },
-      "artists": [
-        {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
-        }
-      ],
-      "duration_ms": 292498,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "My Working Class Hero",
         "url": "https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 282235,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
+      },
+      "artists": [
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        }
+      ],
+      "duration_ms": 292498,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1979,18 +1979,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+        "name": "Daylight at Midnight",
+        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
       },
       "artists": [
         {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Becca Stevens",
+          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+      "duration_ms": 240426,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2019,22 +2023,18 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Daylight at Midnight",
-        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
       },
       "artists": [
         {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Becca Stevens",
-          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2287,26 +2287,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Give Us These Days",
-        "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
-      },
-      "artists": [
-        {
-          "name": "Lynne Arriale Trio",
-          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
-        },
-        {
-          "name": "Kate McGarry",
-          "url": "https://open.spotify.com/artist/5tTeyKwRXLWs3bLNpCGTA8"
-        }
-      ],
-      "duration_ms": 306787,
-      "name": "Take It with Me",
-      "url": "https://open.spotify.com/track/6FYYyshox7gb34kXVV4UWg"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 265546,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Give Us These Days",
+        "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
+      },
+      "artists": [
+        {
+          "name": "Lynne Arriale Trio",
+          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
+        },
+        {
+          "name": "Kate McGarry",
+          "url": "https://open.spotify.com/artist/5tTeyKwRXLWs3bLNpCGTA8"
+        }
+      ],
+      "duration_ms": 306787,
+      "name": "Take It with Me",
+      "url": "https://open.spotify.com/track/6FYYyshox7gb34kXVV4UWg"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/1wBXnntlEwlD9cuDdwmraq"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1vQPul9VZ1dODkVg9lxF3L"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Ultrahang",
         "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 402160,
       "name": "Ladies Of the Canyon (Bonus)",
       "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/1wBXnntlEwlD9cuDdwmraq"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1vQPul9VZ1dODkVg9lxF3L"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225335,
-      "name": "Exile",
-      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Timeless Tales [For Changing Times]",
         "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 307773,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/4Muibci7HTkxT10kNBgHIs"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225335,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
     },
     {
       "added_at": "2023-06-21 10:58:17",

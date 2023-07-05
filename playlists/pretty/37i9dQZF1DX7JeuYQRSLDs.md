@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 
 > Featuring El Alfa, Farruko, Omega, ROSALÍA & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,567 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 | 11 | [Ambiente](https://open.spotify.com/track/4N9V7YYPoN4DoSnjjfHW1k) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ambiente](https://open.spotify.com/album/47HATxjUBNCXnP3sfKQy9Z) | 4:09 |
 | 12 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 |
 | 13 | [En La Disco Revela](https://open.spotify.com/track/5GWYepVwLflE0z5Yy8cEhk) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:03 |
-| 14 | [Coronao Now](https://open.spotify.com/track/7FbKipScVxkjQxQXwTd0gL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Coronao Now](https://open.spotify.com/album/5VVkOFYXmjtYd6hoasaWKQ) | 3:37 |
+| 14 | [Coronao Now](https://open.spotify.com/track/1E39KEleLbU1v1cawR6jSc) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [El Androide](https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG) | 3:37 |
 | 15 | [Chi Chi](https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:30 |
 | 16 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 |
 | 17 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 | 24 | [Materile](https://open.spotify.com/track/7KR2kBHjAATGyKCscrzkE3) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Materile](https://open.spotify.com/album/1JnTZNv08vuF1Ws95mF3Po) | 2:47 |
 | 25 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 |
 
-Snapshot ID: `MCxkZDk4ZDdjZTQ5Y2Q3MzgzMjNmNzY1MjA3MGMxNGZjNjgwMjY2MzU5`
+Snapshot ID: `MCwwNDRlMzg3MWRlMjkzNTY3ZWFjODBhZGIwY2ZiMTAxZjQ0MWViYjYy`

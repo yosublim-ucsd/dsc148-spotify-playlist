@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "album": {
         "name": "Boy's a liar",
         "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 133146,
       "name": "En Die Dingen Daar",
       "url": "https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 214946,
       "name": "Jump Around",
       "url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH"
@@ -1578,6 +1596,28 @@
       "duration_ms": 137528,
       "name": "Kill Bill - Sped Up Version",
       "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+    },
+    {
+      "album": {
+        "name": "Koekje Met Je Moeder",
+        "url": "https://open.spotify.com/album/5aC24MWtXJZpy3NhZJ6hNS"
+      },
+      "artists": [
+        {
+          "name": "Kalvijn",
+          "url": "https://open.spotify.com/artist/11X2JfCZ9k1u9xMKTGkpdK"
+        },
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/6flKo6gEeGkXDriW0feXYk"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125600,
+      "name": "Koekje Met Je Moeder",
+      "url": "https://open.spotify.com/track/6LS9fogxPFK44XKwJeDPtM"
     },
     {
       "album": {
@@ -2528,7 +2568,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 153170,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj"
@@ -2586,7 +2626,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 166600,
       "name": "Pieter Post - Hardstyle Remix",
       "url": "https://open.spotify.com/track/63R6Iv1eljlrS0Mt5PQ2Rf"
@@ -3224,7 +3264,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 167533,
       "name": "The Girl From Ipanema - Single Version",
       "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg"
@@ -3398,6 +3438,42 @@
       "duration_ms": 163447,
       "name": "Vatos Locos",
       "url": "https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr"
+    },
+    {
+      "album": {
+        "name": "VIER",
+        "url": "https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194827,
+      "name": "Volg Je Niet",
+      "url": "https://open.spotify.com/track/4gfHKRWnz0TJUNodIOv1tw"
+    },
+    {
+      "album": {
+        "name": "Vreemde Eend",
+        "url": "https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm"
+      },
+      "artists": [
+        {
+          "name": "Lisanne Dijkstra",
+          "url": "https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Vreemde Eend",
+      "url": "https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj"
     },
     {
       "album": {

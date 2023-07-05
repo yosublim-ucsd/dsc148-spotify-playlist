@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,750 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,906 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 40 | [Notas](https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Piazza](https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR) | [Notas](https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY) | 3:21 |
 | 41 | [Grana](https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Grana](https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT) | 2:13 |
 | 42 | [Ballin](https://open.spotify.com/track/244jI61ksiADX8vrhyrYqJ) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB), [Chris Helv](https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3), [TH](https://open.spotify.com/artist/3zRe1TSAHVF1gQYIuyP907) | [Ballin](https://open.spotify.com/album/7L9pBeyUEISPEfiYI7WUdu) | 3:25 |
-| 43 | [Supra Sumo Do Amor \- Ao Vivo](https://open.spotify.com/track/1HUZGabNGwtoGNK7PhIE1W) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Pique Novo](https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz) | [Nostalgia \(Ao Vivo\)](https://open.spotify.com/album/59KBdMCW7VBFkJJGJHY6ax) | 2:27 |
-| 44 | [Carta para mim mesma](https://open.spotify.com/track/6zCdC1Pr0eQADvSOPKUMR6) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Carta para mim mesma](https://open.spotify.com/album/3xCLWp2w1Lo921szlsz5cc) | 3:20 |
-| 45 | [Nada Será Como Antes](https://open.spotify.com/track/6Ljvb98kxXkak62NvLq305) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Nada Será Como Antes](https://open.spotify.com/album/5aMTiuEYxHK6FTKY6Nf83R) | 2:10 |
+| 43 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 44 | [Nada Será Como Antes](https://open.spotify.com/track/6Ljvb98kxXkak62NvLq305) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Nada Será Como Antes](https://open.spotify.com/album/5aMTiuEYxHK6FTKY6Nf83R) | 2:10 |
+| 45 | [Supra Sumo Do Amor \- Ao Vivo](https://open.spotify.com/track/1HUZGabNGwtoGNK7PhIE1W) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Pique Novo](https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz) | [Nostalgia \(Ao Vivo\)](https://open.spotify.com/album/59KBdMCW7VBFkJJGJHY6ax) | 2:27 |
 | 46 | [Nascente da Paz \- Ao Vivo](https://open.spotify.com/track/01JSuFGtsvap2yW0YZjh5s) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Samba Pro Meu Povo: Bloco Referências \(Ao Vivo\)](https://open.spotify.com/album/1g1Jqje9vE1uUYJzb74UKt) | 2:49 |
 | 47 | [Hoje Só Vai Dar Eu e Você \- Ao Vivo](https://open.spotify.com/track/2rW882pKQKDh62gCsMMEoJ) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Hoje Só Vai Dar Eu e Você \(Ao Vivo\)](https://open.spotify.com/album/7FKCGuTb7dxiFDeLwpr72O) | 3:34 |
 | 48 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 |
 | 49 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
-| 50 | [Big D](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi](https://open.spotify.com/artist/2ZtaCoUvfVo7liLGZKxGDt) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 50 | [Carta para mim mesma](https://open.spotify.com/track/6zCdC1Pr0eQADvSOPKUMR6) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Carta para mim mesma](https://open.spotify.com/album/3xCLWp2w1Lo921szlsz5cc) | 3:20 |
 
-Snapshot ID: `MCwyNGJkZDJkMTU3MzU5MjIzZTYzOTljNWFkYTkyZWVmYzE0OTY4OWRh`
+Snapshot ID: `MCxlMjRlNmM2MDg3ZGY3Njk4NWE2ZjYxN2Q1NjM1ZjVkMDE0ZmRjYWM1`

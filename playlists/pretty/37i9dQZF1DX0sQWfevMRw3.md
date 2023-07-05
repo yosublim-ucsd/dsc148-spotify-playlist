@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,803 likes - 101 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,869 likes - 101 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 14 | [Vi går mot ljuset \- N!NE Remix](https://open.spotify.com/track/0cBcsNIzE1MeZRuBQMnWcB) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Vi går mot ljuset \(N!NE Remix\)](https://open.spotify.com/album/3hFR2yuH3Ood3rdUSAhlmJ) | 2:55 |
 | 15 | [Garaget](https://open.spotify.com/track/180Z4qutDFApJynfvi8T5x) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Garaget](https://open.spotify.com/album/5wjNzkpZ8sgcoJiyRyEZGP) | 2:27 |
 | 16 | [FÅGEL ROGER](https://open.spotify.com/track/4QG41pmr5oM941xDj3vFCy) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [FÅGEL ROGER](https://open.spotify.com/album/5DCS1wjcwKCayBwMjfwM8I) | 2:23 |
-| 17 | [VI ÄR SVERIGE](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:18 |
+| 17 | [VI ÄR SVERIGE \(VM\-låt 2023\)](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE \(VM\-låt 2023\)](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:18 |
 | 18 | [Ja må han supa](https://open.spotify.com/track/5lVkTOPsuwJKsXCnIlsu55) | [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Ja må han supa](https://open.spotify.com/album/42ogQLxh4J7sfFIEnuEwIn) | 2:24 |
 | 19 | [Staffan](https://open.spotify.com/track/4h0aGS6y4Gk7WULVkgzW2K) | [Kapten Krök](https://open.spotify.com/artist/2DBnFhrmrDXZdcLllncAUc) | [Staffan](https://open.spotify.com/album/5DQ9qy31krdwYATXwhIF8M) | 2:26 |
 | 20 | [SE PÅ MIG](https://open.spotify.com/track/0goDEE3Wb1X5CWFDyYsGyF) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Karst1g](https://open.spotify.com/artist/0beCdXVOLrXJXgK7D41H69), [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [SE PÅ MIG](https://open.spotify.com/album/46dZoBhDy3URHXb5DqrvGA) | 2:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 | 101 | [Oj Oj](https://open.spotify.com/track/0beFqL93TrrK7EqeAsgKPN) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Oj Oj](https://open.spotify.com/album/1oiVHgqFVsbooDcjgzzaYY) | 2:45 |
 
-Snapshot ID: `MCxiODQzYWMxNGExYWFlMWM3MDA4Mzk5YzM3YmIzNTEwNDFhMWFiN2U3`
+Snapshot ID: `MCw2ZDQ4MWM2MWFjOWQyZTQxMTljNDljMGZhMjlhMjVmMjU1MTViMDYw`

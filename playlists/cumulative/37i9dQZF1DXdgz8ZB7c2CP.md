@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-471 songs - 1 day 2 hr 8 min
+472 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Let You Down](https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Down](https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI) | 3:29 | 2023-05-19 |  |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-21 | 2023-04-30 |
 | [Let You Go](https://open.spotify.com/track/6XX2urlNfbou2B4XSdnpyp) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Chrome Castle](https://open.spotify.com/album/0ZnuAyKO30TEtANQrikmJm) | 4:39 | 2022-03-18 | 2022-07-29 |
-| [Lights Out \- Remix](https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Lights Out \(Remix\)](https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC) | 2:43 | 2023-03-10 |  |
+| [Lights Out \- Remix](https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Lights Out \(Remix\)](https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC) | 2:43 | 2023-03-10 | 2023-07-05 |
 | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/track/39tTbcfjAL000DxMUMJhO0) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/album/0ZAuSMPh6VcoHEXITDVfZz) | 3:08 | 2023-02-10 | 2023-05-13 |
 | [Lilac](https://open.spotify.com/track/5Dnh9RY6HYq1UKXgmqdeRW) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/1H8Xdq0xD8r1j7X3ZpZLuV) | 2:19 | 2023-02-10 | 2023-03-11 |
 | [Lilac](https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Lilac](https://open.spotify.com/album/5cBOUvDkmufaMweh3EBH2J) | 2:19 | 2021-08-06 | 2022-07-24 |
@@ -304,6 +304,7 @@
 | [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2021-08-06 | 2022-08-27 |
 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 | 2021-08-06 |  |
 | [overwhelmed \- Ookay remix](https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [overwhelmed \(the remixes\)](https://open.spotify.com/album/3tILcUFrdvba7jYG46EeOQ) | 3:01 | 2021-08-06 | 2022-12-22 |
+| [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-06-30 |  |
 | [Pale Blue Dot](https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 2:56 | 2021-08-06 |  |
 | [Paradise](https://open.spotify.com/track/20F3bL1ZP2n0umEGsIcyGE) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy), [Wonderland](https://open.spotify.com/artist/4TXpS1ODZBsaRdS4eeunfC) | [Paradise](https://open.spotify.com/album/3TaDmHFuoElKXGw8JC6LL7) | 3:09 | 2023-05-12 | 2023-05-27 |
 | [Petrichor](https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Temp](https://open.spotify.com/album/3bN8zyo2OS44ePXdNaGv2T) | 3:31 | 2021-08-06 | 2022-07-24 |

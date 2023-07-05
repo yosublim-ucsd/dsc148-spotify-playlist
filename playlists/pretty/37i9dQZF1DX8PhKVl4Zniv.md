@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,160 likes - 67 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,194 likes - 67 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 66 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 67 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 |
 
-Snapshot ID: `MCxlZDFhNzVjOGMzZDI5ODE3M2IxZDcxZmU3NGMzZmRmZDViMzMxYTcx`
+Snapshot ID: `MCwwMjY1ZWZkY2M0OTZiZWYwZTYyMTNkNThmODUzOGQzYjJlMmM0Njcx`

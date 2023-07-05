@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 251066,
       "name": "Angraecum",
       "url": "https://open.spotify.com/track/5IxK21p8qz2m09Jkt4qJD3"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 140873,
       "name": "Forgery",
       "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 218466,
       "name": "Hajisarashi",
       "url": "https://open.spotify.com/track/6mRLp4hqRLcotWUpt9YwQA"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 216355,
       "name": "luv bomb!!!",
       "url": "https://open.spotify.com/track/3YDifAivPM7V8dURt1zJaD"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 201573,
       "name": "Nakimushi Schrodinger",
       "url": "https://open.spotify.com/track/5zlXoFrESLW2U94AK6fQnu"
@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Purple Dream",
+        "url": "https://open.spotify.com/album/7fvs1f1ry5knpVr17LqCuZ"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175374,
+      "name": "Purple Dream",
+      "url": "https://open.spotify.com/track/7dX7ReZCoSmQnUKOnVe9io"
+    },
+    {
+      "album": {
         "name": "Under Mentality",
         "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
       },
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 183693,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/1O6Afquoyx9SAEWEuT4JV6"
@@ -5459,6 +5477,28 @@
     },
     {
       "album": {
+        "name": "\u3057\u3085\u3052\u30fc\u30cf\u30a4!!!",
+        "url": "https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "Hidefumi Kenmochi",
+          "url": "https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204566,
+      "name": "\u3057\u3085\u3052\u30fc\u30cf\u30a4!!!",
+      "url": "https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm"
+    },
+    {
+      "album": {
         "name": "\u3057\u3088\u3063\u304b\u3002(feat.meiyo)",
         "url": "https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12"
       },
@@ -5942,7 +5982,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 193960,
       "name": "\u307f\u3061\u3065\u308c",
       "url": "https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO"
@@ -5960,7 +6000,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 228000,
       "name": "\u307f\u3093\u306a\u4ed6\u4eba\u306e\u591c",
       "url": "https://open.spotify.com/track/5F8yoHF6QgLxpBPynx1G2p"
@@ -9660,7 +9700,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 260066,
       "name": "\u4e0d\u6cd5\u4fb5\u5165",
       "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
@@ -11354,7 +11394,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
@@ -11452,6 +11492,24 @@
       "duration_ms": 217265,
       "name": "\u653e\u6d6a",
       "url": "https://open.spotify.com/track/6TgiTbz90SeTTR3W7uvc5p"
+    },
+    {
+      "album": {
+        "name": "\u6551\u4e16\u4e3b",
+        "url": "https://open.spotify.com/album/6U2J876mV2hxeSVr0KjRdV"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197966,
+      "name": "\u6551\u4e16\u4e3b",
+      "url": "https://open.spotify.com/track/7BzmJ07lTS8kaZTLECXrGV"
     },
     {
       "album": {
@@ -13428,7 +13486,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 274133,
       "name": "\u82b1\u6c34\u6728",
       "url": "https://open.spotify.com/track/0tvRLEIfsZJPI8o9ZgVGEn"

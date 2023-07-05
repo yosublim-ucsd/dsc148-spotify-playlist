@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 55064,
+  "num_followers": 55173,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmE5NzI5MjgzYzhjM2FkZDA0Zjg0NGJkYTIwNzE3MTllNGNmM2Ex",
+  "snapshot_id": "MCxmYTBlZWZiMmVjYzg0YjVkMjMyYWQzOWE1NzdhMTYwMzBkNWExYmMw",
   "tracks": [
     {
       "added_at": "2023-04-06 13:07:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Rocks The House",
-        "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 254165,
-      "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
-      "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "Rocks The House",
+        "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 254165,
+      "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
+      "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
     },
     {
       "added_at": "2023-04-06 13:07:38",

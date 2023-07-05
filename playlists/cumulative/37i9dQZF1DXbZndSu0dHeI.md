@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-381 songs - 23 hr 0 min
+383 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Empty In The Capital](https://open.spotify.com/track/3nk04NimXNUKFVpcDUuP6s) | [Grace Gillespie](https://open.spotify.com/artist/4owaayCKTzC8Y7PeADjuAk) | [Empty In The Capital](https://open.spotify.com/album/5EIxBWnno8tBztYfggVM3D) | 3:43 | 2021-11-12 | 2022-06-28 |
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2022-03-19 | 2022-04-12 |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-11-12 |  |
+| [Eyes](https://open.spotify.com/track/416L17hcREztXb0qE0lvIe) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Eyes](https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE) | 3:32 | 2023-07-04 |  |
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-27 |
 | [Fade](https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Fade](https://open.spotify.com/album/03fIulT5GrejWSWLl5TnRZ) | 4:27 | 2021-11-12 | 2022-07-28 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [Homesick](https://open.spotify.com/track/4l4OeUp1JGVk6ZbB3z24PG) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Homesick](https://open.spotify.com/album/2ZXdB4RuGqRvF74aajst3v) | 3:01 | 2023-01-26 | 2023-01-27 |
 | [honey](https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:14 | 2022-03-19 |  |
 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 | 2023-02-03 |  |
-| [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 | 2023-03-08 |  |
+| [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 | 2023-03-08 | 2023-07-05 |
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-11-12 | 2023-04-16 |
 | [Houdini](https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Houdini](https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4) | 3:16 | 2021-11-12 | 2022-07-29 |
 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 | 2021-11-12 | 2023-05-19 |
@@ -197,7 +198,7 @@
 | [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 | 2022-11-26 | 2023-01-21 |
 | [Kiss Your Lips](https://open.spotify.com/track/1lpVxyYCXR7w6PhhEXcfAX) | [Allo Darlin'](https://open.spotify.com/artist/0cygwaJypZFDlu4NLQTm7b) | [Allo Darlin'](https://open.spotify.com/album/00r8ZlXYm0KLyHHjgyqXa5) | 3:46 | 2022-03-19 | 2022-07-10 |
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-11-12 | 2022-07-29 |
-| [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 | 2022-06-22 |  |
+| [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 | 2022-06-22 | 2023-07-05 |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2022-03-19 | 2022-04-15 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-05-18 |  |
@@ -381,6 +382,7 @@
 | [Won't You Be Happy](https://open.spotify.com/track/15TTCCmsbOxKeb9QGr0At7) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Won't You Be Happy](https://open.spotify.com/album/4Ucjnk2Zmlq0c3Atp4lChH) | 3:53 | 2022-03-19 | 2022-04-13 |
 | [Worrying](https://open.spotify.com/track/1nSslY0CD4ieqt54vHYfYA) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Worrying](https://open.spotify.com/album/7wOOoV3gPSfrhcwrgS2khJ) | 3:16 | 2021-11-12 | 2022-07-29 |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-26 |  |
+| [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 | 2023-07-04 |  |
 | [You Can Have It All](https://open.spotify.com/track/4GrfClvQgCVLsCfqw7YthQ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5egsoXU4SPbj38cP9sBlXk) | 4:36 | 2022-03-19 | 2022-04-11 |
 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 | 2022-06-22 |  |
 | [You Didn't Love Me Then](https://open.spotify.com/track/0RziRXSj2ZHVLonxak2WLV) | [The Hit Parade](https://open.spotify.com/artist/0eW2MAqK9MLTdD4nZKiw4W) | [With Love From...](https://open.spotify.com/album/4KIvYeUhmFSP1TQmjKZksy) | 3:32 | 2021-11-12 | 2022-07-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 438645,
+  "num_followers": 438824,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji",
+  "snapshot_id": "MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3",
   "tracks": [
     {
       "added_at": "2023-05-18 14:29:48",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 220767,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 275013,
-      "name": "I Don't Recognise You",
-      "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
       "artists": [
         {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+      "duration_ms": 275013,
+      "name": "I Don't Recognise You",
+      "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1011,6 +995,22 @@
       "duration_ms": 204564,
       "name": "Darcy",
       "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Own",
-        "url": "https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 299033,
-      "name": "Own",
-      "url": "https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "home:so long",
         "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Own",
+        "url": "https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 299033,
+      "name": "Own",
+      "url": "https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Ways To Get Out",
-        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "BOYO",
-          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3"
       },
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
+        "name": "Ways To Get Out",
+        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "BOYO",
+          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Warning Sign (Alt Version)",
-        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
+        "name": "i wish things were different",
+        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
       },
       "artists": [
         {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
         }
       ],
-      "duration_ms": 179669,
-      "name": "Warning Sign - Alt Version",
-      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+      "duration_ms": 122925,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
     }
   ],
   "unique_name": "Lo-fi Indie",

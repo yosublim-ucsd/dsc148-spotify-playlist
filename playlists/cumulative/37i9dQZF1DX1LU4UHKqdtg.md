@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SHINee
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TOMORROW X TOGETHER
 
-634 songs - 1 day 10 hr 49 min
+638 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 | 2022-11-16 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-22 | 2023-01-30 |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-26 | 2022-11-30 |
-| [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-25 |  |
+| [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 | 2023-07-04 |  |
+| [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-25 | 2023-07-05 |
 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 | 2022-09-20 | 2022-12-16 |
 | [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-05-24 | 2023-06-07 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-17 | 2023-06-28 |
@@ -410,6 +411,7 @@
 | [PRIMROSE](https://open.spotify.com/track/75uoSZNM8jX7p1Uyj4m3zT) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [RED MOON](https://open.spotify.com/album/44bwRjSjY6otPdQDMNWTey) | 3:38 | 2023-01-12 | 2023-03-08 |
 | [Promise](https://open.spotify.com/track/6PovIIOpRlHzv8Cg9Qjr81) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e) | 2:30 | 2022-09-22 | 2022-09-30 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-22 | 2022-05-31 |
+| [PSYCHO](https://open.spotify.com/track/41B92XjIUVxOqhNAwzlMpp) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [PSYCHO](https://open.spotify.com/album/5pGqLIxRkk2udANylRjlTH) | 2:17 | 2023-07-04 |  |
 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-01-31 | 2023-03-29 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-08-24 |
 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 | 2022-10-18 | 2023-02-09 |
@@ -502,7 +504,7 @@
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-08-04 |
 | [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 | 2022-09-22 | 2023-01-11 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
-| [Sugar Rush Ride \- Japanese Ver.](https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Sugar Rush Ride \(Japanese Ver.\)](https://open.spotify.com/album/5cF6IwsPaJh0QI32RXWjGB) | 3:06 | 2023-06-27 |  |
+| [Sugar Rush Ride \- Japanese Ver.](https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Sugar Rush Ride \(Japanese Ver.\)](https://open.spotify.com/album/5cF6IwsPaJh0QI32RXWjGB) | 3:06 | 2023-06-27 | 2023-07-05 |
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 | 2022-12-01 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/0pE16sFbRDVuTOEL0yxFoy) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb) | 3:12 | 2022-05-17 | 2022-07-09 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2Lbm5t65FUtpXjndFNVWZV) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [chrOme arts](https://open.spotify.com/album/2XqahvdUBZLfZbRUUnWoYW) | 3:12 | 2023-02-14 | 2023-03-29 |
@@ -626,6 +628,7 @@
 | [そのままで](https://open.spotify.com/track/18tA7kbV5ovO6SBhnjU6ii) | [KIM SUNGJE](https://open.spotify.com/artist/6A3d5kFeyRjzOk74cwJVHX) | [RESTART](https://open.spotify.com/album/33NzoMoBwLN8rxCchuklJs) | 4:23 | 2023-04-11 | 2023-05-10 |
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 | 2022-07-16 |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 | 2022-06-22 |
+| [シャッター閉めろ](https://open.spotify.com/track/5Uyi5O6Hb2PKZdleSJrK6m) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [シャッター閉めろ](https://open.spotify.com/album/3Iy8i2OJDYYOzYFJS4NnrC) | 2:28 | 2023-07-04 |  |
 | [ジレンマ](https://open.spotify.com/track/439K6P5nMguuX0C2d2kMxK) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [ジレンマ](https://open.spotify.com/album/4XGNyv71OpEDScASJSwkKc) | 3:03 | 2022-02-22 | 2022-03-11 |
 | [ズルい女](https://open.spotify.com/track/21I5iwwv60Bm69BlVeGlhR) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [ズルい女](https://open.spotify.com/album/4oKSGnvJOlZvS6mI5zPoxj) | 3:16 | 2022-10-18 | 2022-11-23 |
 | [ズルい女](https://open.spotify.com/track/2SvIj4kcUGUrmJl9aFLZi9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [ズルい女](https://open.spotify.com/album/4M3LUjif8adUxlTwzuiXVN) | 3:16 | 2022-09-06 | 2022-10-20 |
@@ -639,6 +642,7 @@
 | [束の間の恋](https://open.spotify.com/track/27WqCs6kN18Uw2PtFHxCvr) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [君という桜の花びらが僕の心に舞い降りた。](https://open.spotify.com/album/6QvUd4r5lYp7wJSS64woW6) | 3:19 | 2023-05-24 | 2023-06-21 |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2022-11-29 | 2023-02-22 |
+| [紫陽花のような恋 \(Hydrangea Love\)](https://open.spotify.com/track/31PF8eu76bgCLNzNm0ZmBX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [紫陽花のような恋 \(Hydrangea Love\)](https://open.spotify.com/album/5NS7oB7XrDg7xcx4p2595x) | 3:52 | 2023-07-04 |  |
 | [花路](https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [花路](https://open.spotify.com/album/4G5aqy3YbX5zaVXP0LgzZ6) | 3:44 | 2023-03-14 | 2023-03-16 |
 | [酒 \(JIU\)](https://open.spotify.com/track/7iWEo1YPXrWELXh4pD9S6w) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [酒 \(JIU\)](https://open.spotify.com/album/78Yo8PKLNKJsVuqFQylA9l) | 3:06 | 2022-04-07 | 2022-06-11 |
 | [鱗\(うろこ\)](https://open.spotify.com/track/6mveYt3qyAnjLUxdhVd8gG) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [鱗\(うろこ\)](https://open.spotify.com/album/4fdFOYbuQJrQgUMLGLiqE0) | 5:17 | 2022-05-24 | 2022-07-21 |

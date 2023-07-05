@@ -5123,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "My You",
+        "url": "https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165070,
+      "name": "My You",
+      "url": "https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR"
+    },
+    {
+      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
@@ -6989,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Still With You",
+        "url": "https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239905,
+      "name": "Still With You",
+      "url": "https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -7644,7 +7680,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 136000,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
@@ -11704,7 +11740,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 247398,
       "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
       "url": "https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi"

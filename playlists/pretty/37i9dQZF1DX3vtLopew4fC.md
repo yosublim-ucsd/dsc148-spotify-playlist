@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Ruby Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,966 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,968 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Politesse](https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Politesse](https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I) | 3:07 |
 | 50 | [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 |
 
-Snapshot ID: `MCw3YzY3MjlmMWRhMjk0ZmU0MTZmMzE2ZTdiNmYyY2Q1ZmY3MzI2ZmNk`
+Snapshot ID: `MCw1ODc5NzVhYjUzZTVjZWQ1ZWU3NThjMmU5OGEyN2Y5MzU1ODgzNTBm`

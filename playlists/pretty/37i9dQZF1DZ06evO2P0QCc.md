@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,775 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,809 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 34 | [Luna](https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:08 |
 | 35 | [Breve Historia de Amor y una Mujer](https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 3:25 |
 | 36 | [Busco Amor](https://open.spotify.com/track/0ampj8vfZj4RiUJviPvVc2) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:41 |
-| 37 | [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 |
-| 38 | [Volvamos a Ser Novios](https://open.spotify.com/track/3VcUB6c9lYk0MB5rntbivZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG) | [Volvamos a Ser Novios](https://open.spotify.com/album/5JUpBrkVG5JGJInqknOrnM) | 3:24 |
+| 37 | [Volvamos a Ser Novios](https://open.spotify.com/track/3VcUB6c9lYk0MB5rntbivZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG) | [Volvamos a Ser Novios](https://open.spotify.com/album/5JUpBrkVG5JGJInqknOrnM) | 3:24 |
+| 38 | [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 |
 | 39 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
 | 40 | [Páginas en Blanco](https://open.spotify.com/track/0Te6eXGhdb1dv1qDMTnJm7) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:16 |
 | 41 | [Guitarras Blancas](https://open.spotify.com/track/08oC8F2G7gkwfcVRGrOB2U) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Fabián Dee](https://open.spotify.com/artist/0rrBjKAgWYCE9QOe2HWat8), [Homero Ontiveros](https://open.spotify.com/artist/6IIAv1oFfMw5tEjIbcjyFt), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Guitarras Blancas](https://open.spotify.com/album/3FQid93WBN205xUSNji4cZ) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Te Fuiste](https://open.spotify.com/track/4PPbyWTRR5L9KonF6jqwOs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 2:28 |
 | 50 | [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDBiN2E2ZjVjNGFmNGU1OGUzZDAzMGNlMGI4NTM0ZDk0NA==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDAyZTZlYzQzYmM2MDViZDNmNmM3OTk4YzY1YzgyNTA2YQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Trending Sinhalese pop hits. Cover - DILU Beats",
-  "num_followers": 25803,
+  "num_followers": 25844,
   "original_name": "Sinhala Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzg3ZTMxYTE0OTdmZGVmYTQxMjBmODAzNWIwMTAxNmJhM2FjZTcw",
+  "snapshot_id": "MCw5MmFlY2ZiYTFmZWFkNDdiZDIyMWFjMzc3OTBlZjI0MDFlOWI4ZWVk",
   "tracks": [
     {
       "added_at": "2023-05-26 12:05:29",
@@ -1662,6 +1662,14 @@
         {
           "name": "Supun Perera",
           "url": "https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN"
+        },
+        {
+          "name": "Sadara Bandara",
+          "url": "https://open.spotify.com/artist/5jtJGB4VDwN99prb3XFf2a"
+        },
+        {
+          "name": "Saritha Edirisinghe",
+          "url": "https://open.spotify.com/artist/5TVssBEeWuDjdC3D7kkTMc"
         }
       ],
       "duration_ms": 215972,

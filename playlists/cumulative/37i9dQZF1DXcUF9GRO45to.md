@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-264 songs - 16 hr 54 min
+265 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 |  |
+| [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 |  |
 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 | 2023-05-12 |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-06-29 |  |
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2023-06-30 |
@@ -239,7 +240,7 @@
 | [Take Care](https://open.spotify.com/track/5o9nbtXxh9fZA1poDIAUUQ) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [Take Care](https://open.spotify.com/album/2sSdRAK1iqkEHju1RXi1Au) | 3:22 | 2022-01-27 | 2022-07-28 |
 | [Take It](https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV) | [Teacup Monster](https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW) | [Take It or Leave It](https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR) | 3:58 | 2021-12-31 |  |
 | [Tant d'années](https://open.spotify.com/track/29HjFpcEU1ckUd7fNp9gRo) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/343fWjyqMTiQJ2ZVTz0ABM) | 3:02 | 2022-04-17 | 2022-07-24 |
-| [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 | 2022-06-30 |  |
+| [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 | 2022-06-30 | 2023-07-05 |
 | [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 | 2023-04-13 |
 | [The Ejector Side](https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [The Ejector Side](https://open.spotify.com/album/4zjmdGy8wezpjAwXwPboBx) | 2:53 | 2021-12-30 | 2022-07-25 |
 | [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 | 2023-04-14 |

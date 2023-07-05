@@ -2,9 +2,9 @@
 
 ### [EQUAL K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX6Cy4Vr7Hu2y)
 
-> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: MIRANI\(미란이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
+> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Rothy\(로시\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-333 songs - 18 hr 50 min
+335 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-18 |  |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-06-01 | 2022-08-08 |
 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-28 | 2023-04-05 |
-| [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-06-06 |  |
+| [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-06-06 | 2023-07-05 |
 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 | 2021-11-21 |  |
 | [Be Happy](https://open.spotify.com/track/7nbJ3glHErMd2tcDbTYvrU) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Be Happy](https://open.spotify.com/album/6Vy2eFJEQYrZgyFvLVIsxH) | 3:35 | 2022-02-14 | 2022-07-05 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-01 | 2023-06-13 |
@@ -68,6 +68,7 @@
 | [Danger](https://open.spotify.com/track/4UHUzgsVA31r4yUq5dvfb1) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [JOY](https://open.spotify.com/album/4DqTvL7XSzatTOXo0wuQ29) | 3:42 | 2022-06-18 | 2022-06-20 |
 | [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 | 2021-11-21 | 2022-07-11 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2021-11-21 | 2022-05-29 |
+| [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 | 2023-07-04 |  |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 | 2023-06-07 |
 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-06-06 |  |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-08-14 |
@@ -118,6 +119,7 @@
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2021-11-21 | 2022-05-22 |
 | [Happy Now!](https://open.spotify.com/track/6Qm4PXogHJW7JyPfG1Yrwj) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Happy Now!](https://open.spotify.com/album/4VfKsyu4Z5p09r42dKlAzn) | 3:00 | 2021-11-21 | 2022-07-09 |
 | [HATE ME \(feat\. youra\) \(prod\. WOOGIE\)](https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [유라\(youra\)](https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3](https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA) | 3:09 | 2021-11-21 | 2022-07-27 |
+| [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2023-07-04 |  |
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-11-21 | 2022-07-03 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-01-19 | 2022-04-21 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-09-19 |
@@ -333,7 +335,7 @@
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2021-11-21 | 2022-01-20 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-31 |  |
 | [zZ\(Tired\) zZ\(피곤해\) \(With Yebit\)](https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc) | [YouSungYoon 유성윤](https://open.spotify.com/artist/6zZjlVlFWAXNSPcrbIvXbB), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/2gEpwi8neJlZxWz9LxhpPd) | 3:47 | 2021-11-21 | 2022-05-21 |
-| [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2022-07-07 |  |
+| [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2022-07-07 | 2023-07-05 |
 | [달라달라 DALLA DALLA](https://open.spotify.com/track/6G7DuXoSGeAf6BZivJdEjF) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/2gHd5bCrj42s8nwwXBALd4) | 3:19 | 2021-11-21 | 2022-07-29 |
 | [달려! Relay](https://open.spotify.com/track/7iH3faubNoXfhxmQUzUGGq) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [달려! Relay](https://open.spotify.com/album/1QBlxNoC6ScHlfLzfLUHtK) | 3:43 | 2022-03-22 | 2022-04-13 |
 | [마음아 미안해 Sorry To Myself](https://open.spotify.com/track/4ayv4V8zga4OdRvp3jRcbD) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Dear me](https://open.spotify.com/album/4Oj08xYBeuKU93EdQ2A3ia) | 3:32 | 2021-11-21 | 2022-04-20 |

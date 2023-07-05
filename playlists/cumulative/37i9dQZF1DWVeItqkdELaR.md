@@ -4,7 +4,7 @@
 
 > 
 
-216 songs - 10 hr 49 min
+217 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [No Llores Más](https://open.spotify.com/track/0C3hl4giyPEnDQf2IlWpk2) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Llores Más](https://open.spotify.com/album/5yBVHG6wgeyZjRxYQPRQs8) | 2:49 | 2022-07-07 | 2023-05-13 |
 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 | 2022-07-07 | 2022-08-31 |
 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 | 2023-05-03 |  |
-| [Nu Tenta Evita](https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nu Tenta Evita](https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN) | 3:18 | 2023-06-29 |  |
+| [Nu Tenta Evita](https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nu Tenta Evita](https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN) | 3:18 | 2023-06-29 | 2023-07-05 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-21 |  |
 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2022-07-07 | 2023-05-13 |
 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 | 2022-07-07 | 2022-07-29 |
@@ -175,6 +175,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-08-30 | 2023-03-18 |
 | [Sai Da Frente](https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Sai Da Frente](https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5) | 2:47 | 2023-06-01 | 2023-06-30 |
 | [Saturno \(Ela é Malvada\)](https://open.spotify.com/track/3DFAj6yMZ6QLWez7cbL1Vc) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Saturno \(Ela é Malvada\)](https://open.spotify.com/album/3EJf6g8d84fp0glrKP1ZEF) | 2:22 | 2022-07-21 | 2022-07-29 |
+| [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 | 2023-06-29 |  |
 | [Senta Danada](https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Senta Danada](https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y) | 2:52 | 2022-07-07 | 2023-05-13 |
 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me) | 2:05 | 2022-08-30 |  |
 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 | 2023-06-20 |  |

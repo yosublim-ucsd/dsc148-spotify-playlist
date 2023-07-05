@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 83044,
+  "num_followers": 83203,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTMxYjkxYTJkOWVhNTM2NWU5ODhmNzFlNDIwOGI3NGExZDYwYjhi",
+  "snapshot_id": "MCxjZjYzNzg1ZjczNDYxYmFjNmQ1ZjhiNzE3NDhmMjRmZmJhMDNiOTAz",
   "tracks": [
     {
       "added_at": "2023-06-21 07:49:09",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Now 'Til Forever",
-      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Now 'Til Forever",
+      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -723,22 +723,18 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+        "name": "Full Stride",
+        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 233042,
-      "name": "When I Say Your Name",
-      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
+      "duration_ms": 260706,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Full Stride",
-        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 260706,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
+      "duration_ms": 233042,
+      "name": "When I Say Your Name",
+      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 254746,
-      "name": "Can't Tell You Why",
-      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 286093,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 343093,
-      "name": "That's The Way Of The World",
-      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 343093,
+      "name": "That's The Way Of The World",
+      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "Above The Clouds",
         "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 222853,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2023-06-21 07:49:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-21 07:49:09",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
-    },
-    {
-      "added_at": "2023-06-21 07:49:09",
-      "album": {
         "name": "Hardcastle 2",
         "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 266200,
       "name": "Bird Island",
       "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
+    },
+    {
+      "added_at": "2023-06-21 07:49:09",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
     },
     {
       "added_at": "2023-06-21 07:49:09",

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=rGkalZpDT7CLj45QcubDFw"> ODUMODUBLVCK</a> and <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=vWCa\-X8cQDW2hC0U9H3gMQ"> FireboyDML </a>
 
-232 songs - 11 hr 19 min
+233 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Sinner](https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-02 |  |
 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 | 2022-06-09 | 2022-11-16 |
+| [Slomotion](https://open.spotify.com/track/5r53idwy7v6wuFUd3TeU3e) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Western Cape](https://open.spotify.com/album/70NUpzVsG0dQLUTPVgSkZN) | 2:48 | 2023-06-30 |  |
 | [Slow](https://open.spotify.com/track/4RuDuO8bsWob3pELITGjU0) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [Slow](https://open.spotify.com/album/7MS1w9zPyeecLWZrSYC8zP) | 2:19 | 2023-05-26 | 2023-06-03 |
 | [Smackdown](https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH) | [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Smackdown](https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn) | 2:42 | 2023-04-27 | 2023-05-13 |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2022-10-14 | 2022-10-29 |
@@ -225,7 +226,7 @@
 | [Wake Up](https://open.spotify.com/track/1NuHrhcA3S9EygdCouQrvL) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:42 | 2022-11-04 | 2022-11-21 |
 | [Wale](https://open.spotify.com/track/13TxEG5hiRAVAiKDI4ycGC) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Wale](https://open.spotify.com/album/0ZGdzWQHW8wFqR0sjLgovr) | 2:17 | 2023-06-16 |  |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-06-09 |  |
-| [Western Cape](https://open.spotify.com/track/3VAourbqOAu3A97IRH4woF) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Western Cape](https://open.spotify.com/album/6WYdVW4wsCPkVOubHWiXzi) | 2:48 | 2023-06-30 |  |
+| [Western Cape](https://open.spotify.com/track/3VAourbqOAu3A97IRH4woF) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Western Cape](https://open.spotify.com/album/6WYdVW4wsCPkVOubHWiXzi) | 2:48 | 2023-06-30 | 2023-07-05 |
 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 | 2023-04-27 |  |
 | [Who U](https://open.spotify.com/track/1NnNx2eoTcUgkwgLUGpbFP) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Who U](https://open.spotify.com/album/63jO4I3MPDuq0wp6UvvACu) | 2:53 | 2022-06-09 | 2022-11-16 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2022-06-09 | 2023-06-17 |

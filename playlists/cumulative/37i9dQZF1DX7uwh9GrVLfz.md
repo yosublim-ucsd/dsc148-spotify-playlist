@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり\(Haru Nemuri\)
 
-576 songs - 1 day 7 hr 11 min
+577 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 |  |
-| [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 | 2023-07-01 |
+| [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 |  |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 |  |
 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-13 |
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 | 2022-09-15 |
@@ -179,7 +179,7 @@
 | [IT'S ONLY PUNK ROCK](https://open.spotify.com/track/50Msl98h4Yodp4HUBkMQ4C) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [FRIENDS](https://open.spotify.com/album/7yoAy5YMIW3GfFqxkdoBbH) | 2:29 | 2022-05-24 | 2022-07-26 |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 |  |
 | [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 | 2023-01-11 |
-| [Juggling](https://open.spotify.com/track/70YGqUBNdA30qVJF7ugRwC) | [HPCP](https://open.spotify.com/artist/72kIwXb0A0YB76BqSt1JDw) | [Juggling](https://open.spotify.com/album/4vHwALMqMouRPeV542w1T2) | 2:58 | 2023-04-18 |  |
+| [Juggling](https://open.spotify.com/track/70YGqUBNdA30qVJF7ugRwC) | [HPCP](https://open.spotify.com/artist/72kIwXb0A0YB76BqSt1JDw) | [Juggling](https://open.spotify.com/album/4vHwALMqMouRPeV542w1T2) | 2:58 | 2023-04-18 | 2023-07-05 |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2022-12-20 | 2023-01-18 |
 | [Ka Waii Inu](https://open.spotify.com/track/5AIstB4OJX9BmqLbiG6766) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [Ka Waii Inu](https://open.spotify.com/album/36Ekc9YFr5GhzqLusz4IcJ) | 1:44 | 2022-06-07 | 2022-07-20 |
@@ -457,6 +457,7 @@
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-16 | 2022-09-15 |
 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 | 2023-05-24 |
+| [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 |  |
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |
 | [グッドバイ](https://open.spotify.com/track/7nMbUWh4wAmdVPy5FWW7Aa) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [MIGHTY MOUNTAINS](https://open.spotify.com/album/3meQjVI8X0PezEQtkhJ1rS) | 2:42 | 2022-05-19 | 2022-07-03 |
 | [サイコーサイコー](https://open.spotify.com/track/1oL4bX4VeHl3wgOPSXK7xQ) | [3SET\-BOB](https://open.spotify.com/artist/4WcDR835C8UDz2Ul0L7lt6) | [サイコーサイコー](https://open.spotify.com/album/19lzPEo30rzNkKUayXwmbe) | 3:58 | 2023-06-13 | 2023-06-28 |
@@ -510,7 +511,7 @@
 | [僕たちの答え](https://open.spotify.com/track/54pUQTIJbvTwQKbijC1GJN) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [まなつのこれからのこと。](https://open.spotify.com/album/1D7lTBazoisPkoduthc72O) | 4:03 | 2022-05-17 | 2022-07-24 |
 | [僕らは…](https://open.spotify.com/track/6pyM8gK1E8Q3vDbO8saYar) | [Taiyouzoku](https://open.spotify.com/artist/4kfInRl2ECNUxMOjZAEHco) | [手をつなごう](https://open.spotify.com/album/3owol0mZK4CUhpzQ5mWwqT) | 3:32 | 2022-06-14 | 2022-07-12 |
 | [優しいウソで](https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q) | [岡田康太](https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX), [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [優しいウソで](https://open.spotify.com/album/4s5sco6vLDdMKFEZz0UDNk) | 5:14 | 2022-09-06 | 2022-09-09 |
-| [全力男](https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [ピエロイズム](https://open.spotify.com/album/20x8RaV0Mj6ZsF6C3pokBl) | 3:13 | 2023-06-15 |  |
+| [全力男](https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [ピエロイズム](https://open.spotify.com/album/20x8RaV0Mj6ZsF6C3pokBl) | 3:13 | 2023-06-15 | 2023-07-05 |
 | [兼愛非攻](https://open.spotify.com/track/70FWTfKhfkLe6Rai1Uoml6) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [兼愛非攻](https://open.spotify.com/album/1XrwoXSVlVBrHzwr92xser) | 3:02 | 2022-05-19 | 2022-07-26 |
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |

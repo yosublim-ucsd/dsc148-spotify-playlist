@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 230877,
+  "num_followers": 230983,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk",
+  "snapshot_id": "MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "And You Are Me",
-        "url": "https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Keep The Wolves Away",
-      "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 204352,
       "name": "Something to Talk About",
       "url": "https://open.spotify.com/track/7ptJYMKI7Y1iWdqEZtBMGE"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "And You Are Me",
+        "url": "https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Keep The Wolves Away",
+      "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Pecos & the Rooftops",
         "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 280000,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2023-06-09 04:01:00",

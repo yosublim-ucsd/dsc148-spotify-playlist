@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,270 likes - 41 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,271 likes - 41 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 40 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
 | 41 | [Sour Grapes](https://open.spotify.com/track/2aiuhCouDKhPW8Oj6JYbq6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:49 |
 
-Snapshot ID: `MjgxMzk3OTcsMDAwMDAwMDA2YzYyODc0Y2U2YTMyYjg2Y2QwOTUxNGFiM2M2MWI0OA==`
+Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDBhNDU5NDZlY2I3MmQ5ZDQ3YjgzYjM0NzgzMTQzZWNjYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 
 > Trap de la isla, con Hades66 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 43 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
 | 44 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
 | 45 | [23](https://open.spotify.com/track/4sWkZXLxb0lPCXNBzw5rsr) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23](https://open.spotify.com/album/1RdPNJjLXGZkHEUjROUoM0) | 4:25 |
-| 46 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
-| 47 | [Diabla](https://open.spotify.com/track/5nEmgosapXMhKgPvEpVbPY) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [El 6EI66EI6](https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB) | 1:02 |
+| 46 | [Diabla](https://open.spotify.com/track/5nEmgosapXMhKgPvEpVbPY) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [El 6EI66EI6](https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB) | 1:02 |
+| 47 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
 | 48 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 | 49 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 50 | [Quien Es Dei V?](https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Es Dei V?](https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC) | 2:42 |
 
-Snapshot ID: `MCwwNTNkYWZkNDg2MTUzMzhiN2NkZTAxOTliZTFjOTIwYjliYjRhMGRl`
+Snapshot ID: `MCxkY2E3MWZiMTQ4YmFkYTYzOTA3NmE5NzYxOGQ3YTlhZTMyNjJkYmNm`

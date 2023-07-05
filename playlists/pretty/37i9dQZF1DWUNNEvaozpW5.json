@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Viva Suecia.",
-  "num_followers": 557401,
+  "num_followers": 557498,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTVjN2ZkYjAxOTllZjNiMDI5OTczZmU2MDU4OWY1OWIyNzljNzE1",
+  "snapshot_id": "MCw0ZmJhMGFlNmI1NWQ1NmI2NDg5ODBiYjcwYjA4ZjMyYjlmZjI1YWY4",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 400480,
-      "name": "Por verte sonre\u00edr",
-      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 400480,
+      "name": "Por verte sonre\u00edr",
+      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Por Instinto",
-        "url": "https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9"
+        "name": "Marines A Pleno Sol",
+        "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
       },
       "artists": [
         {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+          "name": "LOS NIKIS",
+          "url": "https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS"
         }
       ],
-      "duration_ms": 245026,
-      "name": "En Blanco Y Negro",
-      "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
+      "duration_ms": 192106,
+      "name": "El imperio contraataca",
+      "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

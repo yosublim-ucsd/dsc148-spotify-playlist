@@ -7243,6 +7243,24 @@
     },
     {
       "album": {
+        "name": "Bumper (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ptCtZkGcwG0URQidQrRPv"
+      },
+      "artists": [
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137181,
+      "name": "Lottery Kanni Lottery Kanni.",
+      "url": "https://open.spotify.com/track/21glqvrpCdBaGdRpxshNK1"
+    },
+    {
+      "album": {
         "name": "Lovela Vizhundha (From \"Rayar Parambarai\")",
         "url": "https://open.spotify.com/album/1qjz42bGXiOwuKZxNgStAr"
       },
@@ -17260,6 +17278,32 @@
       "duration_ms": 329416,
       "name": "Yaar Intha Peigal",
       "url": "https://open.spotify.com/track/0kMpGpnStz7thaMAfiD0HE"
+    },
+    {
+      "album": {
+        "name": "Yaar Nee (From \"Kolai\")",
+        "url": "https://open.spotify.com/album/1wYyoyWA5DCssigbXObugD"
+      },
+      "artists": [
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        },
+        {
+          "name": "Anjana Rajagopalan",
+          "url": "https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246818,
+      "name": "Yaar Nee - From \"Kolai\"",
+      "url": "https://open.spotify.com/track/01n7ElVKABJl5ySbOoB90Y"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1486718,
+  "num_followers": 1486950,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmMxMThjNmFmM2ExYjVlZDA1Y2EwODhiZThlNTIwN2RhYzNiMzVk",
+  "snapshot_id": "MCwyNjFhMWE0MTFjY2JmZTllMDg1NTE0Yjg2YWVkNzlhZGQ2MDIyMjJj",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Dead and Cold",
+        "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        }
+      ],
+      "duration_ms": 89624,
+      "name": "Dead and Cold",
+      "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
+    },
+    {
       "added_at": "2023-06-30 07:33:00",
       "album": {
         "name": "I'm Not Human (feat. Lil Uzi Vert)",
@@ -195,22 +211,6 @@
       "duration_ms": 195853,
       "name": "I'm Not Human",
       "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Dead and Cold",
-        "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
-      },
-      "artists": [
-        {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
-        }
-      ],
-      "duration_ms": 89624,
-      "name": "Dead and Cold",
-      "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -349,20 +349,20 @@
       "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
     },
     {
-      "added_at": "2023-04-25 17:32:56",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "WHERE DOES YOUR SPIRIT GO?",
-        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
         }
       ],
-      "duration_ms": 201183,
-      "name": "WHERE DOES YOUR SPIRIT GO?",
-      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -381,26 +381,26 @@
       "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-04-25 17:32:56",
       "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+        "name": "WHERE DOES YOUR SPIRIT GO?",
+        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
       },
       "artists": [
         {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+      "duration_ms": 201183,
+      "name": "WHERE DOES YOUR SPIRIT GO?",
+      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
-      "added_at": "2023-05-24 19:35:11",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
       },
       "artists": [
         {
@@ -408,25 +408,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 252705,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -443,6 +427,22 @@
       "duration_ms": 187173,
       "name": "Betrayed",
       "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -481,38 +481,6 @@
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "The Search",
-        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 269184,
-      "name": "I Miss The Days",
-      "url": "https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
-    },
-    {
       "added_at": "2023-05-23 18:50:26",
       "album": {
         "name": "I Won't Beg for You",
@@ -527,6 +495,38 @@
       "duration_ms": 123870,
       "name": "I Won't Beg for You",
       "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
+    },
+    {
+      "added_at": "2023-05-24 19:35:11",
+      "album": {
+        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "The Search",
+        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 269184,
+      "name": "I Miss The Days",
+      "url": "https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "You Broke My Heart Again",
+        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
+      },
+      "artists": [
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 103400,
+      "name": "You Broke My Heart Again",
+      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Bad Day",
         "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
       },
@@ -783,22 +803,6 @@
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "God Mom",
-        "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
-      },
-      "artists": [
-        {
-          "name": "Mackned",
-          "url": "https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ"
-        }
-      ],
-      "duration_ms": 123200,
-      "name": "North Star",
-      "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -819,22 +823,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "You Broke My Heart Again",
-        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
+        "name": "God Mom",
+        "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
       },
       "artists": [
         {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+          "name": "Mackned",
+          "url": "https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ"
         }
       ],
-      "duration_ms": 103400,
-      "name": "You Broke My Heart Again",
-      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
+      "duration_ms": 123200,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1065,20 +1065,20 @@
       "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Grey Lines",
-        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+        "name": "Childhood Dreams",
+        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
       },
       "artists": [
         {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Grey Lines",
-      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
+      "duration_ms": 135000,
+      "name": "Rather Do",
+      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -1097,20 +1097,36 @@
       "url": "https://open.spotify.com/track/53vqxI2N89pMUUmJMhxqrS"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Childhood Dreams",
-        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
+        "name": "Grey Lines",
+        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
       },
       "artists": [
         {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Rather Do",
-      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
+      "duration_ms": 168000,
+      "name": "Grey Lines",
+      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
+      },
+      "artists": [
+        {
+          "name": "Drex Carter",
+          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
+        }
+      ],
+      "duration_ms": 160090,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1131,22 +1147,6 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Go Wild",
-        "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
-      },
-      "artists": [
-        {
-          "name": "Drex Carter",
-          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
-        }
-      ],
-      "duration_ms": 160090,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "UDNTLUVME",
-        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "UDNTLUVME",
-      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "i can't stop",
         "url": "https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 161333,
       "name": "i can't stop",
       "url": "https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "grim",
-        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
+        "name": "Key To My Heart",
+        "url": "https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl"
       },
       "artists": [
         {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+          "name": "Fresco Trey",
+          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
         }
       ],
-      "duration_ms": 134885,
-      "name": "fragment",
-      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+      "duration_ms": 154482,
+      "name": "Key To My Heart",
+      "url": "https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1631,18 +1631,34 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Key To My Heart",
-        "url": "https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl"
+        "name": "grim",
+        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
       "artists": [
         {
-          "name": "Fresco Trey",
-          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
         }
       ],
-      "duration_ms": 154482,
-      "name": "Key To My Heart",
-      "url": "https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz"
+      "duration_ms": 134885,
+      "name": "fragment",
+      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 162197,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1663,22 +1679,6 @@
       "duration_ms": 146526,
       "name": "Felt Like Heaven",
       "url": "https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 162197,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
     },
     {
       "added_at": "2023-04-12 16:57:33",

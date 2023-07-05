@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 35030,
+  "num_followers": 35087,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI1MGQ5MDdjZDE4NjY4NzZhYzU2NWYyNTgxZDc1OTcwNzk0NmUy",
+  "snapshot_id": "MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Sonido Amazonico",
+        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "The Venezuelan Zinga Son Vol. 1",
@@ -423,22 +439,6 @@
       "duration_ms": 165493,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -496,12 +496,12 @@
       },
       "artists": [
         {
-          "name": "Gozzo",
-          "url": "https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0"
-        },
-        {
           "name": "Billy May",
           "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        },
+        {
+          "name": "Gozzo",
+          "url": "https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0"
         },
         {
           "name": "Yma Sumac",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188355,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Cuatro Tigres",
         "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 203346,
       "name": "El Estuche",
       "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Veracruz Y Su M\u00fasica - 14 Sones Jarochos",
         "url": "https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 166240,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 163420,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Chicavasco",
@@ -1039,6 +1023,22 @@
       "duration_ms": 279546,
       "name": "Cajita De Barro",
       "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Mujeres con Cajones",
@@ -1279,6 +1263,22 @@
       "duration_ms": 171813,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
+      },
+      "artists": [
+        {
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Los Originales Vol. 3",
@@ -1407,6 +1391,22 @@
       "duration_ms": 157352,
       "name": "Caramelos",
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Trio Nuevomexicano",
-        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
-      },
-      "artists": [
-        {
-          "name": "Lone Pi\u00f1on",
-          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "La Xochipitzahuatl",
-      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Guapapasea!",
         "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 331293,
       "name": "Limon En La Cabeza",
       "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Trio Nuevomexicano",
+        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
+      },
+      "artists": [
+        {
+          "name": "Lone Pi\u00f1on",
+          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "La Xochipitzahuatl",
+      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
     },
     {
       "added_at": "2022-01-11 03:10:29",

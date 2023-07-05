@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr"
+    },
+    {
+      "album": {
         "name": "Bum Bum",
         "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
       },
@@ -470,6 +492,24 @@
       "duration_ms": 188000,
       "name": "Como Es Posible Que a Mi Lado",
       "url": "https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi"
+    },
+    {
+      "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "album": {
@@ -1476,6 +1516,28 @@
       "duration_ms": 174735,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
+    },
+    {
+      "album": {
+        "name": "Inv\u00edtame A Un Caf\u00e9",
+        "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Inv\u00edtame A Un Caf\u00e9",
+      "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
     },
     {
       "album": {
@@ -3001,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/63EEXjXqMKfdyg4oo5sBVH"
+      },
+      "artists": [
+        {
+          "name": "AO (MX)",
+          "url": "https://open.spotify.com/artist/1Xk4yfpxUMbLAnsYrJi1yM"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456393,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/1L2yB766uJH2BCTDxPQOcP"
+    },
+    {
+      "album": {
         "name": "S.E.L.F.",
         "url": "https://open.spotify.com/album/7hP0dw1cQgQLid4NmYBoRi"
       },
@@ -3926,6 +4006,28 @@
       "duration_ms": 202500,
       "name": "Tribu Latina",
       "url": "https://open.spotify.com/track/3d3XJIOhedhrt6UbU0KwQf"
+    },
+    {
+      "album": {
+        "name": "Triste Canci\u00f3n de Amor (Remix)",
+        "url": "https://open.spotify.com/album/4tfabT7g2WL02c2blHZZLJ"
+      },
+      "artists": [
+        {
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222556,
+      "name": "Triste Canci\u00f3n de Amor - Remix",
+      "url": "https://open.spotify.com/track/36hBGko1ADEYXuG8hDQt1J"
     },
     {
       "album": {

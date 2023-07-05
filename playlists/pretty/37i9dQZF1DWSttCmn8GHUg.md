@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Zac Brown Band is taking over American Made to celebrate the 4th of July here on Spotify! 🇺🇸
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,100 likes - 113 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,630 likes - 113 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 112 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 | 113 | [I'm Already There](https://open.spotify.com/track/34Vn9nKfztyLco9lJazy4j) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There](https://open.spotify.com/album/4aC1f4gcfN1lGRG1W9OuMJ) | 4:13 |
 
-Snapshot ID: `MCw2OThiYzcxNmI0MTk4YjlmY2I2NTYwYWVjMDViYzE5NGJiNTE0NDdl`
+Snapshot ID: `MCxiNDM4ZDlmNzc3MDc4ZDE0NWU5MjJiNjExMWI1MTA0YzY5ODNlMTcw`

@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: JABBERLOOP
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: jizue
 
-171 songs - 14 hr 9 min
+172 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Fiction](https://open.spotify.com/track/0iSowMxJqhNn89D6aM3UQ8) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Heart of Tokage](https://open.spotify.com/album/7Do6pM4reRPvvgwKYg6hL9) | 3:42 | 2023-03-21 | 2023-05-17 |
 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 | 2023-02-16 |  |
 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 | 2022-10-18 | 2022-11-03 |
-| [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 | 2023-06-06 |  |
+| [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 | 2023-06-06 | 2023-07-05 |
 | [Futurez](https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Futurez](https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5) | 4:52 | 2022-10-25 | 2022-12-13 |
 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 | 2023-05-09 |  |
 | [Good Thing Will Happen](https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta) | [Light Music Society](https://open.spotify.com/artist/1uhicIWb5CGO8NLsWX1a5q), [Yu KUga](https://open.spotify.com/artist/6xQwMgylM6kuOlQJ5MW47s) | [From Where The Sun Rises](https://open.spotify.com/album/4Cccfl5EmABNIq7YFedo5z) | 6:45 | 2023-03-28 | 2023-04-19 |
@@ -98,6 +98,7 @@
 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 | 2022-09-06 |  |
 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 | 2022-09-06 |  |
 | [resketch](https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [resketch](https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf) | 3:43 | 2023-06-13 |  |
+| [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 | 2023-07-04 |  |
 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 | 2023-06-27 | 2023-06-29 |
 | [Rhapsody in Summer](https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/2niNBQtovVrAXXS4hixZhU) | 4:18 | 2023-06-27 |  |
 | [Run&Gun](https://open.spotify.com/track/0BouwM0LLXksQIeoNxHUbr) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Run&Gun](https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT) | 3:00 | 2022-12-20 | 2023-01-18 |

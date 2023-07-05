@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior Zamora",
-  "num_followers": 108542,
+  "num_followers": 108560,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTc2ZDMxMmVlOTE4MmVhNjZlMjA2NzZlYTZlNzQxY2NmNWZiMDhh",
+  "snapshot_id": "MCw1YzA2NGI0M2IzOWM4Njc4MjA4ZjI0Nzg4OTkzMjQ2ZjQwOTQ2ZDJl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "DIFERENTE.",
-        "url": "https://open.spotify.com/album/6tCS53pRPRkhEqP1J02EPM"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "DIFERENTE.",
-      "url": "https://open.spotify.com/track/7lGjLjd0JbhlwuxMQSIhaU"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "BeSos aL vIEnTo :(",
         "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 184800,
       "name": "BeSos aL vIEnTo :(",
       "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "DIFERENTE.",
+        "url": "https://open.spotify.com/album/6tCS53pRPRkhEqP1J02EPM"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "DIFERENTE.",
+      "url": "https://open.spotify.com/track/7lGjLjd0JbhlwuxMQSIhaU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Me Busques Donde Mismo",
-        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Garabatos",
         "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "No Me Busques Donde Mismo",
+        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Joligud",
-        "url": "https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15"
+        "name": "Greatest Hit\u00b4s - Remastered",
+        "url": "https://open.spotify.com/album/4dZiG1CRokkyFo55515xvq"
       },
       "artists": [
         {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Joligud",
-      "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
+      "duration_ms": 205714,
+      "name": "Romeo & Julieta",
+      "url": "https://open.spotify.com/track/2AR6v4kAmHL5tgKE4XGdTf"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1243,6 +1239,26 @@
       "duration_ms": 172235,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Joligud",
+        "url": "https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Joligud",
+      "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1279,6 +1295,30 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Claruz",
+          "url": "https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv"
+        },
+        {
+          "name": "Floyd",
+          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1303,30 +1343,6 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Claruz",
-          "url": "https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv"
-        },
-        {
-          "name": "Floyd",
-          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Greatest Hit\u00b4s - Remastered",
-        "url": "https://open.spotify.com/album/4dZiG1CRokkyFo55515xvq"
-      },
-      "artists": [
-        {
-          "name": "Chris Jonex",
-          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Romeo & Julieta",
-      "url": "https://open.spotify.com/track/2AR6v4kAmHL5tgKE4XGdTf"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1443,26 +1443,6 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "EST\u00c1 CABR\u00d3N",
-        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
-      },
-      "artists": [
-        {
-          "name": "Juan Fe Pulido",
-          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
-        },
-        {
-          "name": "Belmar",
-          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
-        }
-      ],
-      "duration_ms": 184585,
-      "name": "EST\u00c1 CABR\u00d3N",
-      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "EST\u00c1 CABR\u00d3N",
+        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
+      },
+      "artists": [
+        {
+          "name": "Juan Fe Pulido",
+          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
+        },
+        {
+          "name": "Belmar",
+          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "EST\u00c1 CABR\u00d3N",
+      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Isla Mater",
         "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 233743,
       "name": "Horas y Horas - Spotify Singles",
       "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
     },
     {
       "added_at": "2023-06-30 04:00:00",

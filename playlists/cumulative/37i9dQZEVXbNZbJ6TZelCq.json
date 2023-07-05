@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 119877,
       "name": "Bam Bam Bam",
       "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 136875,
       "name": "Banii",
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 151250,
       "name": "Banii \u00eenainte de zdren\u021be",
       "url": "https://open.spotify.com/track/7MVxMZbjRL7VdjUilPd7UJ"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 160551,
       "name": "BUGATTI",
       "url": "https://open.spotify.com/track/4ZIUTq57n9YpRCIl5WLM0i"
@@ -7446,7 +7446,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -7836,6 +7836,24 @@
       "duration_ms": 230010,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
+    },
+    {
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "album": {
@@ -20594,7 +20612,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-05",
       "duration_ms": 177000,
       "name": "Te-am vazut fara inel",
       "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
@@ -23878,7 +23896,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 156734,
       "name": "\u00cen golul t\u0103u",
       "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"

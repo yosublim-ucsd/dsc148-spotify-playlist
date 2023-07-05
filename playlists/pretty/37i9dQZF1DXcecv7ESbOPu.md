@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,421 likes - 115 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,409 likes - 115 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 13 | [Home](https://open.spotify.com/track/4dSuQ5FbETpLq4LYE5483z) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Home](https://open.spotify.com/album/2XKXhi4mqgXPMCHmUwA38v) | 3:10 |
 | 14 | [Du gör vad du vill \(pixiedream\)](https://open.spotify.com/track/0CHodruGJpdZOA31HbOahE) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Du gör vad du vill \(pixiedream\)](https://open.spotify.com/album/73aaQ12qf5pzBITZZz2Aw7) | 2:40 |
 | 15 | [Ingen e som solen](https://open.spotify.com/track/0wL2vq68LYFhemtYB8eHJX) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Ingen e som solen](https://open.spotify.com/album/5mmfsC36DetuGT0rvIRdbI) | 2:41 |
-| 16 | [VI ÄR SVERIGE](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:18 |
+| 16 | [VI ÄR SVERIGE \(VM\-låt 2023\)](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE \(VM\-låt 2023\)](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:18 |
 | 17 | [Gammal kärlek rostar aldrig](https://open.spotify.com/track/2QzwmxSEUz581mEEsgo53Z) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Hux Flux](https://open.spotify.com/album/28v5GpYdm9DCu1BCAO7oH4) | 2:44 |
 | 18 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 |
 | 19 | [One More Time](https://open.spotify.com/track/0uM4gVR60a7w63ll9Ns0Fp) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [One More Time](https://open.spotify.com/album/5vvS2hd2FtdStcjosYs3ZC) | 2:40 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 | 115 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 |
 
-Snapshot ID: `MCwyYzdlMjFjM2NkMmYwMTNlOWJiMDgyNjJjNDgxMjBmMDVmOTRkMTM3`
+Snapshot ID: `MCxhMmI5ZjQ2YmQxNzRmZDc0ZGM4NjI2NjhjMWJiNWNlMzQzZDUxNzVm`

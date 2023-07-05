@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,503 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,593 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 69 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 70 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
 
-Snapshot ID: `MCxkMjhjOTVhMjZjNTViOWJhYmY5NmM3MTE1OWIyMjE4ZmE3Yjk2NTlh`
+Snapshot ID: `MCw2YmRjMzA0MGZlY2JiZDYzNWFmZDNkNDc0MGE5ZDQzN2ZmYzY1MTAx`

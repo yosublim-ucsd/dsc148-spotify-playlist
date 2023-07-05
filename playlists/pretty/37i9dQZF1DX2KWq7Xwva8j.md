@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Marta Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,506 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,517 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 6 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 |
 | 7 | [Corazón de Melón](https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Corazón de Melón](https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB) | 2:57 |
 | 8 | [Polaris](https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [1371 KM](https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2) | 3:12 |
-| 9 | [Reventar la Ciudad](https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Reventar la Ciudad](https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1) | 3:29 |
+| 9 | [ZAHARA](https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TÁNGER Y ZAHARA](https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys) | 2:40 |
 | 10 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
-| 11 | [ZAHARA](https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TÁNGER Y ZAHARA](https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys) | 2:40 |
+| 11 | [Reventar la Ciudad](https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Reventar la Ciudad](https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1) | 3:29 |
 | 12 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 |
 | 13 | [Leyla](https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Leyla](https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J) | 2:31 |
 | 14 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 |
 | 50 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 
-Snapshot ID: `MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl`
+Snapshot ID: `MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy`

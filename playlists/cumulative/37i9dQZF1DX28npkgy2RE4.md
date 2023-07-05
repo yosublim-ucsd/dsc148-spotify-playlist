@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-408 songs - 1 day 1 hr 4 min
+409 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Blindsided](https://open.spotify.com/track/7j6rS4xEI6tVqVnkzuP4Hn) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/0TubWPHVUNb0sSzMxpFkyW) | 3:42 | 2021-11-12 | 2022-07-28 |
 | [Blue](https://open.spotify.com/track/1MrElax7day41jzoztYk2k) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U) | 2:36 | 2021-11-12 | 2022-07-28 |
 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-07-11 |  |
-| [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 | 2023-04-28 |  |
+| [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 | 2023-04-28 | 2023-07-05 |
 | [Bodies](https://open.spotify.com/track/5pJdonxbRs57P0u97HsDE5) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [This Is Tunng...Magpie Bites and Other Cuts](https://open.spotify.com/album/3jFj7aN2yVSNxZrpMzWfb2) | 4:27 | 2021-11-12 | 2022-07-25 |
 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 | 2022-07-11 |  |
 | [Bottle It Up \(feat\. Greta Stanley\)](https://open.spotify.com/track/3IcHXc3pAio3wozwIlB5Gv) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up \(feat\. Greta Stanley\)](https://open.spotify.com/album/6EMVG0qdIGTTp31HLtHcX9) | 3:05 | 2021-11-12 | 2022-07-28 |
@@ -138,6 +138,7 @@
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-11-12 |  |
 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 | 2021-11-12 | 2022-07-28 |
 | [Follow Me Down](https://open.spotify.com/track/5yGDfeuXOeKJ8IRnljxNEC) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Deep the Habit](https://open.spotify.com/album/1YcF0UtmIRkhVpxAKpzpdK) | 4:12 | 2022-04-01 | 2022-04-17 |
+| [Forever Half Mast](https://open.spotify.com/track/3A4qUZbBLjDWWUJ0ayr6Nk) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u) | 4:02 | 2023-06-30 |  |
 | [Forever Half Mast](https://open.spotify.com/track/3yAg2gIwcElgEyypgG0YVZ) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/2jV9k0kdnMxl1yXiHjGA82) | 4:02 | 2021-11-12 | 2022-07-26 |
 | [Francis](https://open.spotify.com/track/1ymNYpCCZqXdGG5mpBSWJF) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/14kZDlSzNecMAegiHWES5R) | 2:03 | 2021-11-12 | 2022-07-29 |
 | [Francis](https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz) | 2:03 | 2022-07-11 |  |

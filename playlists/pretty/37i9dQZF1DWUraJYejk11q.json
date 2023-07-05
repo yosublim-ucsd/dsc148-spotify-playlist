@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 455102,
+  "num_followers": 455132,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGM3OWMyMjQzMTc4ODhiMzA3ZTczMWUxODZiOWJjYmUyM2Q2MDM2",
+  "snapshot_id": "MCxlOWZiYWMwNmI1OGIyMjg3ZTU4MjdjMDFhMDVjZjNiMTVmZjQyYzBm",
   "tracks": [
     {
       "added_at": "2023-06-23 01:16:52",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Dopamine",
@@ -307,6 +291,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2022-02-25 03:39:39",
@@ -429,26 +429,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-02-25 05:12:51",
-      "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
-      },
-      "artists": [
-        {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
-        },
-        {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
       "added_at": "2022-05-06 03:38:46",
       "album": {
         "name": "infina ad nausea: the remixes",
@@ -473,20 +453,24 @@
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
-      "added_at": "2022-08-03 02:49:15",
+      "added_at": "2022-02-25 05:12:51",
       "album": {
-        "name": "Shallots",
-        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
       },
       "artists": [
         {
-          "name": "Frequent",
-          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
         }
       ],
-      "duration_ms": 221298,
-      "name": "Shallots",
-      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -503,6 +487,22 @@
       "duration_ms": 366500,
       "name": "Eden Portal",
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-08-03 02:49:15",
+      "album": {
+        "name": "Shallots",
+        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
+      },
+      "artists": [
+        {
+          "name": "Frequent",
+          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "Shallots",
+      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
-      "added_at": "2023-01-04 00:21:35",
-      "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
-    },
-    {
       "added_at": "2022-12-20 21:47:55",
       "album": {
         "name": "17\u00b0C",
@@ -759,6 +743,22 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI"
+    },
+    {
+      "added_at": "2023-01-04 00:21:35",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
       "added_at": "2022-04-12 02:09:40",

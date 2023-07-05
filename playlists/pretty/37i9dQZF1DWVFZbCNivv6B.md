@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Zxmyr está en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,912 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,060 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 60 | [Never Die](https://open.spotify.com/track/4omKvTBmle0hUJ8rJTBhCh) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Never Die](https://open.spotify.com/album/69du1b7FFM6IdhbBW1M3zk) | 2:38 |
 | 61 | [Bendecido](https://open.spotify.com/track/50PEoLvQw5Wr5KxEAIzN3u) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bendecido](https://open.spotify.com/album/490ijqG9AYZmFGGf7Z2YRL) | 2:38 |
 | 62 | [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 |
-| 63 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 |
+| 63 | [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 |
 | 64 | [Cerda](https://open.spotify.com/track/2rdqyEyZMHYuLgkcMhvaHU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Cerda](https://open.spotify.com/album/6A5HbXck2L3a4tL9A6w91Z) | 2:30 |
 | 65 | [WYS](https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WYS](https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V) | 2:59 |
 | 66 | [Invencible](https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Invencible](https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 99 | [Fumo](https://open.spotify.com/track/24C2MOLBkeRL8Ew6EEgLXi) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Fumo](https://open.spotify.com/album/5uJ4IJlz3DLfXmnuFEaYcH) | 2:51 |
 | 100 | [Pyrena](https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pyrena](https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B) | 3:46 |
 
-Snapshot ID: `MCxhZDUyM2JkOTljZDQ4MDQyNGY0ZWEyZmIxNTIxYzc5YWI1OGEwODIy`
+Snapshot ID: `MCxjZmNiMzBlZDRkM2U1YzMzOWU4M2FiZTdlZjQxMDkzNGU0MjE1Zjll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,889 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,984 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Masih Sunyi](https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 2:35 |
 | 50 | [Cinta Tiada Batas](https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Cinta Tiada Batas](https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT) | 4:05 |
 
-Snapshot ID: `MCxkZmY3ODhmNDliNDlmOTQzMWVmZmZhOTVjNDAwYmRhMDMyYmEzNmNk`
+Snapshot ID: `MCxkNmRjY2IwYjZjZmM5OGUxOTBiZTczMmJmOTAzMTgyYTc1MzRmODY5`
