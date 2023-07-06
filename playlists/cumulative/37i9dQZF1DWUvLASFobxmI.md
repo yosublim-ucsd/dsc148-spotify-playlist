@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Marca Registrada en portada.
 
-340 songs - 18 hr 24 min
+341 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 | 2022-09-02 |  |
 | [Enseñame a Olvidar \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/17NvNZU6xNjXgpFwwGpdhf) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 4:28 | 2023-06-07 |  |
 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2022-12-22 |  |
-| [Eres Libre](https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Eres Libre](https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF) | 2:51 | 2023-01-27 |  |
+| [Eres Libre](https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Eres Libre](https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF) | 2:51 | 2023-01-27 | 2023-07-06 |
 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 | 2023-07-01 |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2022-12-09 | 2022-12-24 |
 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-04-15 | 2022-07-12 |
@@ -232,6 +232,7 @@
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2022-06-10 |  |
 | [No Digas No](https://open.spotify.com/track/16358eKjCVFsvHs7fy0UCC) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [No Digas No](https://open.spotify.com/album/1AUg2PEpmCRm9G82UH0NGb) | 3:19 | 2022-10-03 | 2022-12-10 |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-04-15 | 2022-12-10 |
+| [No Estoy Dañado](https://open.spotify.com/track/6Q2P6QZtLvrWE63ggVqfDL) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Estoy Dañado](https://open.spotify.com/album/05wpjEhLTNLTE0wFPj5nuj) | 2:56 | 2023-06-30 |  |
 | [No Fue Por Suerte \(En Vivo\)](https://open.spotify.com/track/6ei8QQ1AVmz1pPXayot3P7) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [No Fue Por Suerte \(En Vivo\)](https://open.spotify.com/album/5jLl1BrU3HkKqrdQFrdvk5) | 3:06 | 2023-01-20 | 2023-01-28 |
 | [No Me Faltes Tú](https://open.spotify.com/track/2Ps92OxgYoOY012JX2Anfv) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [No Me Faltes Tú](https://open.spotify.com/album/45kO6SXe0acdEFYZ8TJpUg) | 3:50 | 2023-06-16 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 | 2022-08-16 |  |

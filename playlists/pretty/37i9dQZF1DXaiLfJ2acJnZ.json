@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 39662,
+  "num_followers": 39687,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2Y5NmU2ZTcxMTg3MjUzNGY2Y2FlNjUzMjVkZGI1ZThjOTdhMjBm",
+  "snapshot_id": "MCw5OWM5ZjgyOWY2YzA2MDQ3YTc4NjcwYTNkNTJmNmIyMzAzOGRhODNi",
   "tracks": [
     {
       "added_at": "2023-06-30 15:43:44",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
         "name": "live more & love more",
         "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "Welcome To The Madhouse",
-        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
         "name": "Common People",
         "url": "https://open.spotify.com/album/5paOllLtCoZ4Y41YQFCVhb"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 215617,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2TQ0cuDK170Tz73DSHY0iI"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -319,34 +335,18 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -363,6 +363,22 @@
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 143573,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 195145,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
         "name": "Courtyard Theatre",
         "url": "https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm"
       },
@@ -509,24 +509,24 @@
         }
       ],
       "duration_ms": 185986,
-      "name": "Put A Light On Me",
+      "name": "Put a Light on Me",
       "url": "https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc"
     },
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "Two Weeks Ago",
-        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
+      "duration_ms": 195145,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -595,8 +595,8 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+        "name": "Two Weeks Ago",
+        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Want You Back",
-      "url": "https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N"
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
         "name": "I Just Came To Dance",
         "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 144950,
       "name": "I Just Came To Dance",
       "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 81222,
+      "name": "I Could Be A Florist",
+      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 81222,
-      "name": "I Could Be A Florist",
-      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
         "name": "Have Fun!",
         "url": "https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 176214,
       "name": "Love You",
       "url": "https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
+        "name": "Mad At Fire",
+        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 231532,
+      "name": "Mad At Fire",
+      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -1043,22 +1059,6 @@
       "duration_ms": 131793,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
-        "name": "Mad At Fire",
-        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 231532,
-      "name": "Mad At Fire",
-      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
     },
     {
       "added_at": "2023-06-30 15:43:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-30 15:43:44",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
-      },
-      "artists": [
-        {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
-    },
-    {
-      "added_at": "2023-06-30 15:43:44",
-      "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 139462,
       "name": "Make It Better",
       "url": "https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ"
+    },
+    {
+      "added_at": "2023-06-30 15:43:44",
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
     },
     {
       "added_at": "2023-06-30 15:43:44",

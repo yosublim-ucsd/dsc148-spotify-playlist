@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-518 songs - 1 day 4 hr 42 min
+519 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,8 @@
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-14 |  |
 | [Take ft\. Kimbra \- Pat Lok Remix](https://open.spotify.com/track/6LIzRhFWBsZPg9sORfFs1d) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Take ft\. Kimbra \(Pat Lok Remix\)](https://open.spotify.com/album/2gRk8RlBHWal0OhHRSMtp0) | 3:17 | 2022-02-11 | 2022-03-05 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-06 | 2022-08-06 |
-| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-09 |  |
+| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-09 | 2023-07-06 |
+| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-30 |  |
 | [Take Me Back](https://open.spotify.com/track/12fvR8U0EkokIAybOHUSqh) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Take Me Back](https://open.spotify.com/album/4g4Ud08xXYgLuW3ltAy5X4) | 3:59 | 2022-04-08 | 2022-08-06 |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-04-15 | 2022-07-16 |
 | [Talamanca \- Carl Cox Remix](https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Talamanca \(Carl Cox Remix\)](https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA) | 4:35 | 2022-05-06 | 2022-07-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 59142,
+  "num_followers": 59174,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1",
+  "snapshot_id": "MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1047,26 +1047,18 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Bosana",
-        "url": "https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1"
+        "name": "Two High (Acoustic)",
+        "url": "https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K"
       },
       "artists": [
         {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        },
-        {
-          "name": "HVMZA",
-          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
         }
       ],
-      "duration_ms": 211073,
-      "name": "Bosana",
-      "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
+      "duration_ms": 212172,
+      "name": "Two High - Acoustic",
+      "url": "https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1107,42 +1099,42 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Two High (Acoustic)",
-        "url": "https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K"
+        "name": "Bosana",
+        "url": "https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1"
       },
       "artists": [
         {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        },
+        {
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
         }
       ],
-      "duration_ms": 212172,
-      "name": "Two High - Acoustic",
-      "url": "https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8"
+      "duration_ms": 211073,
+      "name": "Bosana",
+      "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
     },
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "The Moment (feat. Jimmy Nevis & Emtee)",
-        "url": "https://open.spotify.com/album/78zdmPv8xePsLa2e6Z6agw"
+        "name": "Oh My Soul (Bloukaas Remix)",
+        "url": "https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs"
       },
       "artists": [
         {
-          "name": "Sketchy Bongo",
-          "url": "https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh"
-        },
-        {
-          "name": "Jimmy Nevis",
-          "url": "https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
         }
       ],
-      "duration_ms": 197400,
-      "name": "The Moment (feat. Jimmy Nevis & Emtee)",
-      "url": "https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8"
+      "duration_ms": 260125,
+      "name": "Oh My Soul (Bloukaas Remix)",
+      "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
     }
   ],
   "unique_name": "Feel Good Look Good",

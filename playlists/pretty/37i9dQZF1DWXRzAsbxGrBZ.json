@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 21886,
+  "num_followers": 21966,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1",
+  "snapshot_id": "MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "BAUHAUS",
-        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
-      },
-      "artists": [
-        {
-          "name": "TimAdeep",
-          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
-        }
-      ],
-      "duration_ms": 482979,
-      "name": "BAUHAUS",
-      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 453711,
       "name": "Octave",
       "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "BAUHAUS",
+        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
+      },
+      "artists": [
+        {
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
+        }
+      ],
+      "duration_ms": 482979,
+      "name": "BAUHAUS",
+      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Sentimental Affair",
         "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 411127,
       "name": "The Savior - Original Mix",
       "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-05-12 07:57:53",

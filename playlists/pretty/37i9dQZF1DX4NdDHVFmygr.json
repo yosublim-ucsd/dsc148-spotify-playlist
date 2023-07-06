@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
-  "num_followers": 201507,
+  "num_followers": 201795,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjBiZTYzZmI0OGFjNDI1YzVkODI3MmNmYTljZWNlZjk0NGFkMGJl",
+  "snapshot_id": "MCw3MDk4ZjA1ZjQyOTM1NzkwZDFmY2U0MDIyNzQ4NDE5OTVhZDY4Y2Jh",
   "tracks": [
     {
       "added_at": "2023-06-29 18:04:49",
@@ -249,6 +249,26 @@
       "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
     },
     {
+      "added_at": "2023-07-05 19:02:45",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
+        {
+          "name": "Hind Ziadi",
+          "url": "https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl"
+    },
+    {
       "added_at": "2023-06-29 18:04:49",
       "album": {
         "name": "LAYALI",
@@ -323,6 +343,22 @@
     {
       "added_at": "2023-06-29 18:04:49",
       "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 181507,
+      "name": "Reg Deg",
+      "url": "https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC"
+    },
+    {
+      "added_at": "2023-06-29 18:04:49",
+      "album": {
         "name": "Talet Lghiba",
         "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
       },
@@ -351,30 +387,6 @@
       "duration_ms": 152590,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
-    },
-    {
-      "added_at": "2023-06-29 18:04:49",
-      "album": {
-        "name": "DARBA 9ADIYA",
-        "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "YAM",
-          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
-        }
-      ],
-      "duration_ms": 149209,
-      "name": "DARBA 9ADIYA",
-      "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
     },
     {
       "added_at": "2023-06-29 18:04:49",
@@ -447,6 +459,30 @@
     {
       "added_at": "2023-06-29 18:04:49",
       "album": {
+        "name": "DARBA 9ADIYA",
+        "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "duration_ms": 149209,
+      "name": "DARBA 9ADIYA",
+      "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
+    },
+    {
+      "added_at": "2023-06-29 18:04:49",
+      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
       },
@@ -463,22 +499,6 @@
     {
       "added_at": "2023-06-29 18:04:49",
       "album": {
-        "name": "LAYALI",
-        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 181507,
-      "name": "Reg Deg",
-      "url": "https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC"
-    },
-    {
-      "added_at": "2023-06-29 18:04:49",
-      "album": {
         "name": "Ya Lalali",
         "url": "https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08"
       },
@@ -491,30 +511,6 @@
       "duration_ms": 252639,
       "name": "Ya Lalali",
       "url": "https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529"
-    },
-    {
-      "added_at": "2023-06-29 18:04:49",
-      "album": {
-        "name": "Ku Je Ti (feat. Ricky Rich & Dafina Zeqiri)",
-        "url": "https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        },
-        {
-          "name": "Dafina Zeqiri",
-          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
-        }
-      ],
-      "duration_ms": 194416,
-      "name": "Ku Je Ti (feat. Ricky Rich & Dafina Zeqiri)",
-      "url": "https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT"
     },
     {
       "added_at": "2023-06-29 18:04:49",

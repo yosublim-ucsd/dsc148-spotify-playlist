@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Bryan Martin",
-  "num_followers": 538324,
+  "num_followers": 538489,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmY5Njk3MWJkMDQxZjFlN2ViZmUyMDYzZmVkNTBkZGQyODk5YjQ2",
+  "snapshot_id": "MCxiYmE5Y2NkM2QwYTY1NTBjYWIyNTZjNzI4MjgzOGM4Yjc5YmUxYWI4",
   "tracks": [
     {
       "added_at": "2023-06-30 17:44:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 187899,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
         "name": "Ride It Hard",
         "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "Last Thing I Remember",
-        "url": "https://open.spotify.com/album/3pAkHifq83S5S9ptOS5p36"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 154724,
-      "name": "Last Thing I Remember",
-      "url": "https://open.spotify.com/track/1AbTzIzTbqu1GJsERdlsO3"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
         "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
+        "name": "Last Thing I Remember",
+        "url": "https://open.spotify.com/album/3pAkHifq83S5S9ptOS5p36"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 154724,
+      "name": "Last Thing I Remember",
+      "url": "https://open.spotify.com/track/1AbTzIzTbqu1GJsERdlsO3"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -871,8 +887,8 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
       "artists": [
         {
@@ -880,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -899,26 +915,6 @@
       "duration_ms": 191765,
       "name": "County Roads",
       "url": "https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
-        "name": "ALL GAS",
-        "url": "https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 169915,
-      "name": "ALL GAS",
-      "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -971,18 +967,22 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+        "name": "ALL GAS",
+        "url": "https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+      "duration_ms": 169915,
+      "name": "ALL GAS",
+      "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "Bricks",
-        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 215086,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
         "name": "Like an Arrow",
         "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
+        "name": "Bricks",
+        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 215086,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "Call It Country",
-        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
-      },
-      "artists": [
-        {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        }
-      ],
-      "duration_ms": 151148,
-      "name": "Call It Country",
-      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
+        "name": "Call It Country",
+        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "duration_ms": 151148,
+      "name": "Call It Country",
+      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
         "name": "Manchester",
         "url": "https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 161973,
       "name": "Over Me By Now",
       "url": "https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 246478,
-      "name": "She Says",
-      "url": "https://open.spotify.com/track/1gMN8njDgOlHq8xtGVKQXK"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -1387,6 +1371,22 @@
       "duration_ms": 201173,
       "name": "Wait Outside",
       "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 246478,
+      "name": "She Says",
+      "url": "https://open.spotify.com/track/1gMN8njDgOlHq8xtGVKQXK"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
-    },
-    {
-      "added_at": "2023-06-30 17:44:28",
-      "album": {
         "name": "By Now",
         "url": "https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 200515,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0"
+    },
+    {
+      "added_at": "2023-06-30 17:44:28",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
     },
     {
       "added_at": "2023-06-30 17:44:28",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2023-06-30 17:44:28",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
     }
   ],
   "unique_name": "Country Rocks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 
 > 
 
-[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 690 songs - 1 day 16 hr 8 min
+[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 691 songs - 1 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -698,5 +698,6 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 | 688 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 689 | [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 |
 | 690 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
+| 691 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 
-Snapshot ID: `NzM0LDE5YzZiMTk1OWY3ZTE1MTRhYzc2ODY0ZDk4Zjk3MDlmYTljM2YxOTA=`
+Snapshot ID: `NzM1LDgzOGUwNjQ1Njc0Y2Y0OTMyY2U3YjExYjQxYTI4ODM4NDg1NmZjNTA=`

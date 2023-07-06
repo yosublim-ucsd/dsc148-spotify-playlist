@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Co-curada por Paola Navarrete. #EQUALDOR",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! En portada Renata Flores.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed De Simple",
+        "url": "https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189133,
+      "name": "As\u00ed De Simple",
+      "url": "https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo"
+    },
+    {
+      "album": {
         "name": "atravesao",
         "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
@@ -598,6 +616,24 @@
       "duration_ms": 263253,
       "name": "Bogando",
       "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
+    },
+    {
+      "album": {
+        "name": "Brilla",
+        "url": "https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "Brilla",
+      "url": "https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR"
     },
     {
       "album": {
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 208749,
       "name": "Eres (Como El Mar)",
       "url": "https://open.spotify.com/track/0MiVynTf6cgHAdF7Bg9Bzh"
@@ -1378,6 +1414,24 @@
       "duration_ms": 175610,
       "name": "Flow Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3"
+    },
+    {
+      "album": {
+        "name": "Isqun",
+        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202008,
+      "name": "Francisca Pizarro",
+      "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
     },
     {
       "album": {
@@ -1962,7 +2016,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 343747,
       "name": "Lumbre - Poema de Sarawi Andrango (Radio Edit)",
       "url": "https://open.spotify.com/track/0B6nAALW65x3EoJBseviQc"
@@ -2458,7 +2512,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 164826,
       "name": "Netflix & Chill",
       "url": "https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54"
@@ -2924,7 +2978,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 212177,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/3qMTFFbHJ6W4C3tL8smoCp"
@@ -3126,7 +3180,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 220240,
       "name": "Ser eternos",
       "url": "https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r"
@@ -3622,7 +3676,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 171904,
       "name": "Ubalauka",
       "url": "https://open.spotify.com/track/0BjB9sSJtvQdmoMGieswNw"

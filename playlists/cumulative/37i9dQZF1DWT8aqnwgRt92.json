@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/4cgG5W8JYUij1nLOekVBEZ"
+      },
+      "artists": [
+        {
+          "name": "BRADIO",
+          "url": "https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254850,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/4Vdov2ST1VEZhRTVETYJ2T"
+    },
+    {
+      "album": {
         "name": "Fantastic Future - From CrosSing",
         "url": "https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5"
       },
@@ -3878,6 +3896,24 @@
       "duration_ms": 233017,
       "name": "Kyokansarenakutemoiijanai",
       "url": "https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw"
+    },
+    {
+      "album": {
+        "name": "Kyuseishu",
+        "url": "https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197966,
+      "name": "Kyuseishu",
+      "url": "https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q"
     },
     {
       "album": {
@@ -6207,6 +6243,28 @@
     },
     {
       "album": {
+        "name": "TV SERIES \u201d\u3010OSHI NO KO\u3011 \u201d (Vol.1)",
+        "url": "https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30a2\u30a4(CV:\u9ad8\u6a4b\u674e\u4f9d)",
+          "url": "https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "SIGN IS B - AI SOLO VER.",
+      "url": "https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5"
+    },
+    {
+      "album": {
         "name": "SKETCH",
         "url": "https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL"
       },
@@ -6428,10 +6486,40 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 232265,
       "name": "STAR\u2606T\u2606RAIN - New Arrange Ver.",
       "url": "https://open.spotify.com/track/5eP8pfVfJoVCR1b9mo1Fck"
+    },
+    {
+      "album": {
+        "name": "TV SERIES \u201d\u3010OSHI NO KO\u3011 \u201d (Vol.2)",
+        "url": "https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30eb\u30d3\u30fc(CV:\u4f0a\u99d2\u3086\u308a\u3048)",
+          "url": "https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs"
+        },
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        },
+        {
+          "name": "MEM\u3061\u3087(CV:\u5927\u4e45\u4fdd\u7460\u7f8e)",
+          "url": "https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232265,
+      "name": "STAR\u2606T\u2606RAIN - NEW ARRANGE VER.",
+      "url": "https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ"
     },
     {
       "album": {
@@ -9282,7 +9370,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 213793,
       "name": "\u30b5\u30a4\u30f3\u306fB - \u30a2\u30a4 Solo Ver.",
       "url": "https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0"
@@ -10226,7 +10314,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 254850,
       "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
       "url": "https://open.spotify.com/track/6pMnrJgFypPyIEDu6QSoZb"
@@ -12208,7 +12296,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 197966,
       "name": "\u6551\u4e16\u4e3b",
       "url": "https://open.spotify.com/track/7BzmJ07lTS8kaZTLECXrGV"

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 283595,
+  "num_followers": 283947,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmNkYWJhY2U2NzMyZTQ4MzUxNjMwMmE3N2Q5NzZjNDEyNTEwMmZh",
+  "snapshot_id": "MCwzMDE2OTFlNDIwMWY5Mzc0ODk5ZWJhMzhjMDI1NTg5MTZkM2Y3NGVh",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "America's Least Wanted",
-        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
       "artists": [
         {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 241893,
-      "name": "Cats In The Cradle",
-      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
+      "duration_ms": 370866,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+        "name": "America's Least Wanted",
+        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
         }
       ],
-      "duration_ms": 370866,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
+      "duration_ms": 241893,
+      "name": "Cats In The Cradle",
+      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
     },
     {
       "added_at": "2023-01-18 22:23:18",

@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトリニック・ダンスミュージックを一つのプレイリストに！Cover: Alok , Ava Max
 
-166 songs - 8 hr 23 min
+167 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-06 |  |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2023-03-16 |  |
 | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo) | 2:47 | 2023-06-22 |  |
-| [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2023-03-16 |  |
+| [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2023-03-16 | 2023-07-06 |
 | [Better \(feat\. Decades\)](https://open.spotify.com/track/0NLqDfoF5wlJZSsundDLki) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz) | [Better \(feat\. Decades\)](https://open.spotify.com/album/2TyL6rwm8VVcKynf0PT3ft) | 2:46 | 2023-03-16 | 2023-04-21 |
 | [Bitch Is Fire](https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Bitch Is Fire](https://open.spotify.com/album/6NmcPeyOPlRMn8YajEjlKv) | 2:15 | 2023-05-04 | 2023-05-12 |
 | [Bobo](https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bobo](https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa) | 2:17 | 2023-06-08 | 2023-06-23 |
@@ -174,5 +174,6 @@
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2023-03-16 |  |
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-03-16 |  |
 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-03-16 | 2023-03-25 |
+| [不夜城 \- FUYAJO](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 | 2023-07-05 |  |
 
 \*This playlist was first scraped on 2023-03-19. Prior content cannot be recovered.

@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "El Pelos (En Vivo)",
+        "url": "https://open.spotify.com/album/7huMWMG7iTsOqcBEEXc4dD"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161369,
+      "name": "El Pelos (En Vivo)",
+      "url": "https://open.spotify.com/track/4s7b9gLdnPDXpZf5B4DI8s"
+    },
+    {
+      "album": {
         "name": "Cigarro De Hoja",
         "url": "https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no"
       },
@@ -694,7 +716,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 234693,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/4VKn45HqiDSTZEzCTVEUst"

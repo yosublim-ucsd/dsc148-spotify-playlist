@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ozuna & Omah Lay",
-  "num_followers": 110706,
+  "num_followers": 110753,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTRmMDVmYjI0OGU5ZDk0NGZlNDIwMDFkNWRhOTI4MjkyODYzMDg3",
+  "snapshot_id": "MCxhYTA1MDQwMjUyNzA5ZTk1M2E0NjhmOTc1YzU5Y2RjY2ExZjdjNjU5",
   "tracks": [
     {
       "added_at": "2023-05-26 17:02:35",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
-      },
-      "artists": [
-        {
-          "name": "Natalia Paris",
-          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 257368,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Paris",
+          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 257368,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -1191,42 +1211,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
-        }
-      ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 205400,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "Se Fue",
         "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 215240,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-05-26 17:02:35",

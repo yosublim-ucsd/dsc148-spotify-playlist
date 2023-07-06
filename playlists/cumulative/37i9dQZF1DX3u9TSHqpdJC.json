@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Beeson",
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Savana Santos",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -8916,7 +8916,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 186927,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT"
@@ -11051,6 +11051,24 @@
     },
     {
       "album": {
+        "name": "Cut Me Loose",
+        "url": "https://open.spotify.com/album/0cgxRe7Q9izoY03BpvkFYA"
+      },
+      "artists": [
+        {
+          "name": "MINOE",
+          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Cut Me Loose",
+      "url": "https://open.spotify.com/track/7mLvwSjBFZxBGj7x4LYrIR"
+    },
+    {
+      "album": {
         "name": "Cut My Bangs",
         "url": "https://open.spotify.com/album/7okCuNpTb1Nc0fjozg3kxv"
       },
@@ -12420,6 +12438,24 @@
       "duration_ms": 160661,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/4ZxhhIU4Y9Nr0KqQFCDCzD"
+    },
+    {
+      "album": {
+        "name": "Do I Like Him (Or Is He Just Ignoring Me)",
+        "url": "https://open.spotify.com/album/6khUm9j87QALJiWd0SGypu"
+      },
+      "artists": [
+        {
+          "name": "Kate Grahn",
+          "url": "https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "Do I Like Him (Or Is He Just Ignoring Me)",
+      "url": "https://open.spotify.com/track/3j9Zfip4jCNxTM3UFGEzXp"
     },
     {
       "album": {
@@ -16748,6 +16784,24 @@
       "duration_ms": 272652,
       "name": "Floors of Tokyo",
       "url": "https://open.spotify.com/track/4O4x1iixODbIb6DU6qZyTu"
+    },
+    {
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/665GayQvSikGzkwQl32TVy"
     },
     {
       "album": {
@@ -31910,6 +31964,24 @@
       "duration_ms": 194859,
       "name": "Messy",
       "url": "https://open.spotify.com/track/0xDo9pirJQsUxhpsigpd64"
+    },
+    {
+      "album": {
+        "name": "messy",
+        "url": "https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn"
+      },
+      "artists": [
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129864,
+      "name": "messy",
+      "url": "https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719"
     },
     {
       "album": {
@@ -47342,6 +47414,24 @@
       "duration_ms": 273725,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/6bihcxN7b7X4359VGXaqCJ"
+    },
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo"
+      },
+      "artists": [
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb"
     },
     {
       "album": {

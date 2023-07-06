@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Childish Prodigy",
+        "url": "https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "Blackberry Song",
+      "url": "https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu"
+    },
+    {
+      "album": {
         "name": "Paranoid Cocoon",
         "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
       },
@@ -1275,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Until the Hunter",
+        "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
+      },
+      "artists": [
+        {
+          "name": "Hope Sandoval & The Warm Inventions",
+          "url": "https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5"
+        },
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450986,
+      "name": "Let Me Get There",
+      "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -1352,6 +1392,24 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
+    },
+    {
+      "album": {
+        "name": "Excuses for Travellers",
+        "url": "https://open.spotify.com/album/69Kl8ciY9o4lxA4qhdwPZD"
+      },
+      "artists": [
+        {
+          "name": "Mojave 3",
+          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441173,
+      "name": "My Life in Art",
+      "url": "https://open.spotify.com/track/14Zab7jJKwK89fY4RxXl3N"
     },
     {
       "album": {

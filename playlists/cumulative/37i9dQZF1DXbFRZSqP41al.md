@@ -4,7 +4,7 @@
 
 > Burn off all those beers from last night.
 
-235 songs - 13 hr 56 min
+236 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 | 2022-07-14 |  |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-25 |  |
 | [Dead Star](https://open.spotify.com/track/2sP2TwYA3zewyBDrZsGahr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:40 | 2022-07-14 | 2022-07-27 |
-| [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2022-07-14 |  |
+| [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2022-07-14 | 2023-07-06 |
 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 | 2022-07-14 | 2022-07-29 |
 | [Death Grip](https://open.spotify.com/track/2fZFQe9qyQx1AX7tZ3Uztl) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [Death Grip](https://open.spotify.com/album/1tRoML82kv64dAh7bYTneP) | 2:57 | 2021-12-16 | 2023-05-16 |
 | [Demons](https://open.spotify.com/track/5fh9jzxClibVuXUqKTTpR7) | [Calm Attack](https://open.spotify.com/artist/1ViIytqQaJwmMneD4YvFJg) | [Demons](https://open.spotify.com/album/7cxJkNduZUo9HIhuKxC2pj) | 3:37 | 2022-06-30 | 2022-07-26 |
@@ -205,6 +205,7 @@
 | [Superblood Wolfmoon](https://open.spotify.com/track/7gQm8pZsxA5eXCZMBGV7CA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 3:49 | 2022-07-14 | 2022-07-22 |
 | [Talking Myself in Circles](https://open.spotify.com/track/1L1eNrSGZAZxQUCpa8vtvi) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:41 | 2022-07-14 | 2022-07-27 |
 | [Teach Me To Fight](https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Teach Me To Fight](https://open.spotify.com/album/65hS1sPlNrXeB9XJIPBQ8r) | 3:12 | 2021-12-16 | 2022-11-14 |
+| [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-06-28 |  |
 | [Tear Me to Pieces](https://open.spotify.com/track/67e8Oap4yuF4yS7XYW5yZW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:56 | 2023-01-27 | 2023-03-08 |
 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 | 2021-12-16 |  |
 | [Th1rt3en or Nothing](https://open.spotify.com/track/781bD6xtn77Wcep2hs13TC) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Th1rt3en or Nothing](https://open.spotify.com/album/1GAgpG73IgX85uKhqbio5O) | 3:45 | 2021-12-16 | 2022-07-29 |

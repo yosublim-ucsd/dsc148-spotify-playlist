@@ -1594,10 +1594,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 274691,
       "name": "Somos Nos",
       "url": "https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW"
+    },
+    {
+      "album": {
+        "name": "Se Tu Lutas Tu Conquistas",
+        "url": "https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP"
+      },
+      "artists": [
+        {
+          "name": "SNJ",
+          "url": "https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk"
+        },
+        {
+          "name": "Rafael Crespo",
+          "url": "https://open.spotify.com/artist/1WstEGWD2CqKbpqn6g3HAS"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275333,
+      "name": "Somos N\u00f3s",
+      "url": "https://open.spotify.com/track/5VEDQknmwe4XlPrn74e8zU"
     },
     {
       "album": {

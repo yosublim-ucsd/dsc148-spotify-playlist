@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: BoriRock
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,775 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,783 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 49 | [Flavor](https://open.spotify.com/track/6Cz0ZeKQyq723rpUePycbd) | [JOBANNY](https://open.spotify.com/artist/4FLNvTxyvcl8ZWUfLFZec6), [Cuphasol](https://open.spotify.com/artist/0FLCcc9af7R66QW8NDOhq3), [Kairo Saint](https://open.spotify.com/artist/6SPMyUJXpLR8wHQiyhHbzX), [Bucket Boheme](https://open.spotify.com/artist/1oZS00Gd1vU7SAMYmQwV7O) | [CABRERA](https://open.spotify.com/album/3i2POekDsSzdXkP4nDM7oA) | 2:56 |
 | 50 | [think too much \- remix](https://open.spotify.com/track/6pR7coknYHuj0GNky1uXAe) | [Oompa](https://open.spotify.com/artist/0D6EgsOVm2DMuE2X36uDwU), [Teysin B](https://open.spotify.com/artist/4VYECZYRGjfnopriDWVNvD) | [think too much \- remix](https://open.spotify.com/album/3rsVEe0uRRO8317WtXkIkI) | 3:13 |
 
-Snapshot ID: `MCxlNWYwOGYxZWI4MTJmOWVhZjExNWU0MTc4MzI4OWU5MGFjMmJkOGQw`
+Snapshot ID: `MCxhMjFlZGMyNzk1ZTBhNDdjNjJhN2Y2NmI1NjFlNDliZjBjMjBkNDdh`

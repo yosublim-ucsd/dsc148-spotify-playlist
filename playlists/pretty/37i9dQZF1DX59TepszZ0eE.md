@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz?si=9hLt7nr6SYiMzYnQrXbkgA">Lusanda Spiritual Group</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,079 likes - 80 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,154 likes - 80 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 61 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 |
 | 62 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 |
 | 63 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 |
-| 64 | [Nxa Ngimbona \- Live](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa Ngimbona \(Live\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |
+| 64 | [Nxa Ngimbona \- Live](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa Ngimbona \(Live\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |
 | 65 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 |
 | 66 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 |
 | 67 | [Ke Mang \- Live](https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 6:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 79 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
 | 80 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 |
 
-Snapshot ID: `MCxhMDk1MWJmMDNkMDVjZjRhY2JhMDgxMmIyZTZlNjE0NzMxNjFiNjk0`
+Snapshot ID: `MCw4N2M2NTFiYzU4MjJiY2U5YzJkMDM4OGY3NzhjMjBlODJjYzM2NWU5`

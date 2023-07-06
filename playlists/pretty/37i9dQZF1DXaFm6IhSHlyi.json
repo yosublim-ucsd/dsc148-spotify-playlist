@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 140397,
+  "num_followers": 140427,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5",
+  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "A Little Bit Yours",
-        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "A Little Bit Yours",
-      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u56a3\u5f20",
         "url": "https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "A Little Bit Yours",
+        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "A Little Bit Yours",
+      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "tere bina (Acoustic)",
-        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
-      },
-      "artists": [
-        {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "tere bina - Acoustic",
-      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Binalewala",
         "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 231870,
       "name": "But it's Destiny",
       "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "tere bina (Acoustic)",
+        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "tere bina - Acoustic",
+      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dahan",
-        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Dahan",
-      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Dahan",
+        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tutto questo sei tu",
         "url": "https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 244666,
       "name": "Tutto questo sei tu",
       "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tilak",
         "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 359290,
       "name": "Tilak",
       "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bitter Pill",
-        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "The Book Of Love",
-      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 258937,
       "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Bitter Pill",
+        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "The Book Of Love",
+      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2183,18 +2183,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+        "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
+        "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
       "artists": [
         {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+      "duration_ms": 163366,
+      "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
+      "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2223,22 +2227,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
-        "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
       "artists": [
         {
-          "name": "Massari",
-          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
         }
       ],
-      "duration_ms": 163366,
-      "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
-      "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq"
+      },
+      "artists": [
+        {
+          "name": "Abe",
+          "url": "https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4"
+        }
+      ],
+      "duration_ms": 222329,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Akustikhane",
         "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 239803,
       "name": "Sick",
       "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq"
-      },
-      "artists": [
-        {
-          "name": "Abe",
-          "url": "https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4"
-        }
-      ],
-      "duration_ms": 222329,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Obscured star",
+        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Simula",
         "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Obscured star",
-        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
+        "name": "Cardamom Tea",
+        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
       "artists": [
         {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
         }
       ],
-      "duration_ms": 228541,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+      "duration_ms": 221714,
+      "name": "Cardamom Tea",
+      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
     },
     {
       "added_at": "2022-10-17 15:00:00",

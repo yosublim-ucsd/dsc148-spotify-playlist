@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 145174,
       "name": "Our Story",
       "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
@@ -1730,6 +1730,24 @@
       "duration_ms": 145174,
       "name": "Our Story",
       "url": "https://open.spotify.com/track/7maiE63ONZi5yNKrOgDM5N"
+    },
+    {
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
     },
     {
       "album": {

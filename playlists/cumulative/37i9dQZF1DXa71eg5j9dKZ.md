@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: James Blake
 
-723 songs - 2 day 4 hr 2 min
+724 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [re\-location.zip](https://open.spotify.com/track/6feXynMqVk5bDRbGoaVc76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [re\-location.zip](https://open.spotify.com/album/64yu54eInEkJ8EpbSln86I) | 4:58 | 2023-01-13 | 2023-05-19 |
 | [Reach](https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reach](https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy) | 3:38 | 2022-07-15 | 2022-10-14 |
 | [Real Enough To Feel Good](https://open.spotify.com/track/5lVPbg9XJzLHsjoYcrnEXf) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Real Enough To Feel Good](https://open.spotify.com/album/6dqJnQp0qoNsklAphZyTYQ) | 5:06 | 2021-11-24\* | 2022-03-10 |
+| [Real Life](https://open.spotify.com/track/3U1fuAieIu6RcxAWFaLNTF) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Real Life](https://open.spotify.com/album/3dPn881z7xaKhuoKHXw9EX) | 4:32 | 2023-06-29 |  |
 | [Red Sky](https://open.spotify.com/track/7oEWZNifk5RQqwVIsjUuH4) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky](https://open.spotify.com/album/2Oz5O25E8HxRr9zmRgFjj9) | 7:51 | 2022-10-13 | 2023-04-14 |
 | [red velve7](https://open.spotify.com/track/4qQchczFCdYNGEZBsVEg8s) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [red velve7](https://open.spotify.com/album/2eHvjnZQh56XX9jaSc43NK) | 5:39 | 2021-11-24\* | 2022-03-19 |
 | [Redd St\. Turbulence](https://open.spotify.com/track/0NaapbT4ZqEUSKn2q8Ven3) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Redd St\. Turbulence](https://open.spotify.com/album/6i1bvQ41PabPEbUTiiPw8A) | 3:14 | 2023-02-03 |  |

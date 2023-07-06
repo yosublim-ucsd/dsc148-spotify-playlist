@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Stella Jang(\uc2a4\ud154\ub77c\uc7a5)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Jeon Jin Hee(\uc804\uc9c4\ud76c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 192452,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 217387,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/13z0tjS1JNelA2fEdxRcET"
@@ -7104,6 +7104,24 @@
       "duration_ms": 233026,
       "name": "Pong Dang",
       "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
+    },
+    {
+      "album": {
+        "name": "pony",
+        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "pony",
+      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
     },
     {
       "album": {
@@ -10702,6 +10720,24 @@
       "duration_ms": 217500,
       "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
       "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
+    },
+    {
+      "album": {
+        "name": "\uc544\ubb34\ub3c4 \ubaa8\ub974\uac8c Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "\ub5a0\ub0a0\uae4c Should We Leave",
+      "url": "https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm"
     },
     {
       "album": {

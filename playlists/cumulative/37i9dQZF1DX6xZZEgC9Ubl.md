@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-819 songs - 1 day 13 hr 10 min
+820 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-07-31 | 2022-07-28 |
 | [Cherry Blossoms](https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9) | 2:18 | 2022-05-23 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI) | 2:18 | 2022-08-30 | 2023-04-16 |
-| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 |  |
+| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 | 2023-07-06 |
 | [Choose](https://open.spotify.com/track/0WnLpQOHjfVwPw2zbrIsPN) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [HIGH FASHION](https://open.spotify.com/album/5ajnqokZWzTySQgUt2RgLW) | 3:32 | 2021-12-03 | 2022-07-27 |
 | [CHROME HEART](https://open.spotify.com/track/0Fqz94aIhKIfnbnUgDRbLH) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:39 | 2022-03-18 | 2022-04-16 |
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-05-14 |
@@ -777,6 +777,7 @@
 | [wdym?](https://open.spotify.com/track/1iMsmdz6NFv30BfFn6H8cE) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [MinimumWade](https://open.spotify.com/artist/5tWiEejDM9WKiai4CkHFNm) | [wdym?](https://open.spotify.com/album/0YBi25ivXul0BBLjT2iQrC) | 3:15 | 2022-05-20 | 2022-07-23 |
 | [weak](https://open.spotify.com/track/54aOKrInbwtLdxRUa711Lv) | [Guard](https://open.spotify.com/artist/5T9M6oY1Nf9z6tPSV9XLGl) | [RAT KING](https://open.spotify.com/album/7vFEwu8EGrKg9CRsvhZmOT) | 2:38 | 2021-12-17 | 2021-12-19 |
 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 | 2022-04-29 | 2022-05-07 |
+| [welcome to my world](https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Flooding the Gates](https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ) | 2:25 | 2023-06-30 |  |
 | [what's left unsaid says it all](https://open.spotify.com/track/4cduUgRcyVvA4q5clFEPyy) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [forever yours](https://open.spotify.com/album/3x7J0VPQYCPncG8ehjRZU5) | 3:25 | 2021-11-12 | 2022-05-11 |
 | [Whatsinsideyourhead](https://open.spotify.com/track/3HXpRH2rsybwLYg1sCZvC3) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [BEACHxBUMS!](https://open.spotify.com/album/2m0b4mQasB4Frf5cxG7H0t) | 2:34 | 2021-07-10 | 2022-04-05 |
 | [When I Was a Baby](https://open.spotify.com/track/5fzWEuPs5masn1HKiG3xpI) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [RONALD.](https://open.spotify.com/album/0ZNJ1Bk6Dj5M62qEdoZsCh) | 3:06 | 2021-03-14 | 2021-05-15 |

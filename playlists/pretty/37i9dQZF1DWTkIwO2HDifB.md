@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Gol Bolinha, Gol Quadrado 2 e os funks mais 🔑 do Brasil\. Foto: MC Pedrinho, DJ 900
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,746,042 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,749,106 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 |
 | 50 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 
-Snapshot ID: `MCxkYWFmZGRiZDU4NWI3MjdkOTY5ZTc2MDBhYzJmNzZkMDA4ZjlhZTkz`
+Snapshot ID: `MCxiNDYxMmQ4NTVhMGVmMjlhNWIyNDE4YmQ5NGU0NmYyYzQzNTk3MTY0`

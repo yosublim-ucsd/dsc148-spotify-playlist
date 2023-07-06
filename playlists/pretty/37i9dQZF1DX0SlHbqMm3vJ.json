@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: AV",
-  "num_followers": 205625,
+  "num_followers": 205768,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzM4YzNlZDg3NTdhYWVmZGM1NzE2NTk5YjI2OTM2NWJkNjk2MDhi",
+  "snapshot_id": "MCw5ODYxNDIwMjkxYjNjMmZlOGFmYzJiMGMzYmMzOGMwOTkyMTNkYWEz",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 157722,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Beautifully",
         "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 169844,
       "name": "Beautifully",
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Folake",
-        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -1127,34 +1111,18 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Sempe (Acoustic)",
-        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+        "name": "Folake",
+        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 98000,
-      "name": "Sempe - Acoustic",
-      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Pheelz Good EP",
-        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 170097,
-      "name": "Pheelz Like Summer",
-      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
+      "duration_ms": 168979,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1179,22 +1147,34 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+        "name": "Pheelz Good EP",
+        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+      "duration_ms": 170097,
+      "name": "Pheelz Like Summer",
+      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1211,6 +1191,26 @@
       "duration_ms": 165283,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "MOTO",
         "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Amina & The One",
-        "url": "https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 165010,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Honest Decision",
-        "url": "https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T"
-      },
-      "artists": [
-        {
-          "name": "Bryann",
-          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
-        }
-      ],
-      "duration_ms": 139610,
-      "name": "Honest Decision",
-      "url": "https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Lie",
         "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
       },
@@ -1423,6 +1391,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Amina & The One",
+        "url": "https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 165010,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 188181,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Honest Decision",
+        "url": "https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T"
+      },
+      "artists": [
+        {
+          "name": "Bryann",
+          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
+        }
+      ],
+      "duration_ms": 139610,
+      "name": "Honest Decision",
+      "url": "https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0"
     },
     {
       "added_at": "2023-06-22 23:00:00",

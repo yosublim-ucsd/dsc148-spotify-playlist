@@ -1,12 +1,12 @@
 {
   "description": "70s rock to fuel your ride. Cover: Aerosmith",
-  "num_followers": 167699,
+  "num_followers": 167872,
   "original_name": "70s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZjMTExYTZlMTIyZTkzN2Q5YzkzNWQ5YjBmYTkzMmEwYzYzNjk5",
+  "snapshot_id": "MCw3ZmYwNTAzNzM1YmRhOGZmMTc1ODJhOTAzNzdhNmMxNWNhMWJiNDQw",
   "tracks": [
     {
       "added_at": "2021-03-16 22:29:33",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 243373,
       "name": "Don't Bring Me Down",
       "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
     },
     {
-      "added_at": "2022-06-29 16:21:03",
+      "added_at": "2021-03-16 22:29:33",
       "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
+      "duration_ms": 187066,
+      "name": "Rock'n Me",
+      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
-      "added_at": "2021-03-16 22:29:33",
+      "added_at": "2022-06-29 16:21:03",
       "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Rock'n Me",
-      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Running on Empty / Nothing but Time (Digital 45)",
         "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 291893,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Suffragette City - 2012 Remaster",
-      "url": "https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "We're An American Band (Expanded Edition / Remastered 2002)",
         "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 187173,
       "name": "Free Ride",
       "url": "https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Suffragette City - 2012 Remaster",
+      "url": "https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8"
     },
     {
       "added_at": "2021-03-16 22:29:33",

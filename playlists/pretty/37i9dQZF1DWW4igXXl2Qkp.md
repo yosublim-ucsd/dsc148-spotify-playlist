@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,612 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,867 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [RedRover!](https://open.spotify.com/track/5UibifuTrbIS6ctRM9GDyT) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 2:18 |
 | 75 | [Rider Music \(feat\. Heem\)](https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy) | [Jamal Gasol](https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h), [VH$](https://open.spotify.com/artist/0t8LeJmWFPn8uatq1zBt6A), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D) | [Tales From the Trenches](https://open.spotify.com/album/4JmLCYsKl5f07duetar98p) | 3:14 |
 
-Snapshot ID: `MCw3YzZmNzdmMTIxNjIzY2MyOGI2MWMwNjJkYmZlM2Y0OWNiZDU2Y2Y1`
+Snapshot ID: `MCxmODliYjBlOTRhODEwMjlkYzhjNGIwMDk4ODI5NWZmNjQ3NWQ1MDlh`

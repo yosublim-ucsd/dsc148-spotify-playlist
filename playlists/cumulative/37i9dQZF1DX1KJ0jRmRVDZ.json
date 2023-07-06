@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Kyuseishu",
+        "url": "https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197966,
+      "name": "Kyuseishu",
+      "url": "https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q"
+    },
+    {
+      "album": {
         "name": "LAG",
         "url": "https://open.spotify.com/album/2C7KWtdWlRSoFfyINGHi0a"
       },
@@ -11506,7 +11524,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 197966,
       "name": "\u6551\u4e16\u4e3b",
       "url": "https://open.spotify.com/track/7BzmJ07lTS8kaZTLECXrGV"

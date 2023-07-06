@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1402,
+  "num_followers": 1410,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Zjk0YjIyYmZhN2Q4ODI5YTk1MzlkNGI4MDIzNmYyMGU2NzIwNzM3",
+  "snapshot_id": "MCw2ZDk5OWJhZTg2ZWEzZWVjN2EzZDM4NWRhNTY1ODllOTRiM2NmNWQ2",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+        "name": "Tumeshinda",
+        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
       "artists": [
         {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+          "name": "Eunice Njeri",
+          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
+        },
+        {
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
+      "duration_ms": 365417,
+      "name": "Tumeshinda",
+      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -559,22 +563,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Tumeshinda",
-        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
       "artists": [
         {
-          "name": "Eunice Njeri",
-          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
-        },
-        {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
         }
       ],
-      "duration_ms": 365417,
-      "name": "Tumeshinda",
-      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Yahwe Uhimidiwe",
+        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza Muliri",
+          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Uliniumba Nikuabudu",
+      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 204042,
       "name": "NADEKA",
       "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Yahwe Uhimidiwe",
-        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Uliniumba Nikuabudu",
-      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
     },
     {
       "added_at": "2023-04-06 20:59:00",

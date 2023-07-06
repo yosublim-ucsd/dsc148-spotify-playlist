@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 245431,
       "name": "Cinta Tiada Batas",
       "url": "https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h"
@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Jaga Dia",
+        "url": "https://open.spotify.com/album/6Hhk7RGnmKeukb6P8QibFb"
+      },
+      "artists": [
+        {
+          "name": "Daniesh Suffian",
+          "url": "https://open.spotify.com/artist/0lvy5lqKIOZlOe8YrDgQRw"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Jaga Dia",
+      "url": "https://open.spotify.com/track/5emcN3KQH26IrZsvOzZE7y"
+    },
+    {
+      "album": {
         "name": "Jangan Ada Dusta Diantara Kita",
         "url": "https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD"
       },
@@ -2023,6 +2041,28 @@
     },
     {
       "album": {
+        "name": "Kita Ditakdirkan Jatuh Cinta",
+        "url": "https://open.spotify.com/album/5tZENpgh0DwkwThGyY394c"
+      },
+      "artists": [
+        {
+          "name": "Fieya Julia",
+          "url": "https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW"
+        },
+        {
+          "name": "Luqman Faiz",
+          "url": "https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269989,
+      "name": "Kita Ditakdirkan Jatuh Cinta",
+      "url": "https://open.spotify.com/track/6hiwvUonVohLBioSRNBy0A"
+    },
+    {
+      "album": {
         "name": "Komang",
         "url": "https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE"
       },
@@ -2428,7 +2468,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 155294,
       "name": "Masih Sunyi",
       "url": "https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W"
@@ -2526,7 +2566,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 319114,
       "name": "Mengertilah Kasih",
       "url": "https://open.spotify.com/track/4p7NC3NRKNnSgSg7LQZAGM"
@@ -2780,7 +2820,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 214460,
       "name": "Muli",
       "url": "https://open.spotify.com/track/3oWjlc77uEpysJso9fYSNq"
@@ -3303,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "SITISM",
+        "url": "https://open.spotify.com/album/02Wu2mZtM5kDXtboVtgw6Y"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215576,
+      "name": "Romansa Kita",
+      "url": "https://open.spotify.com/track/6FS84HTUkgEgkQ37bBHlwc"
+    },
+    {
+      "album": {
         "name": "Rumah Singgah",
         "url": "https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o"
       },
@@ -3484,7 +3542,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 176500,
       "name": "Sambut",
       "url": "https://open.spotify.com/track/2trfesA8NiTSjV1WBUFiIW"
@@ -3884,6 +3942,24 @@
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5"
+    },
+    {
+      "album": {
+        "name": "SIRNA",
+        "url": "https://open.spotify.com/album/7doiwp97qBFd9fN4TJNRor"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236219,
+      "name": "SIRNA",
+      "url": "https://open.spotify.com/track/5LrxgVd7jazUQd4lb4vRJw"
     },
     {
       "album": {
@@ -4568,6 +4644,28 @@
       "duration_ms": 204310,
       "name": "Ular",
       "url": "https://open.spotify.com/track/6SO0RhoIxu1vj7JZiZJdWE"
+    },
+    {
+      "album": {
+        "name": "Waktu",
+        "url": "https://open.spotify.com/album/55KqCG1bXJFTsVYL5SuLzh"
+      },
+      "artists": [
+        {
+          "name": "Hasif Upin",
+          "url": "https://open.spotify.com/artist/0bFah2HVD2yZTfGFGWsbJ4"
+        },
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216234,
+      "name": "Waktu",
+      "url": "https://open.spotify.com/track/025PzVIfqs8GadsWd73r1J"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1498293,
+  "num_followers": 1498663,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTNkOGQ4Nzg4MmY4NjhhMDQ5MzFiODdlNjVmODczNGRmZjQ5M2Y3",
+  "snapshot_id": "MCwzNzQ1ZTRhNjJhZWUyMWM3OWM1MjQzZWY2MDEzODgzZGU1NzIyYjg0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Anjunabeats Volume 14",
         "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 308053,
       "name": "Need To Feel Loved - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Disco Voyager",
-        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Disco Voyager",
-      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Disco Voyager",
+        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Disco Voyager",
+      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Zara (ALPHA 9 Remix)",
-        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
       },
       "artists": [
         {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "ALPHA 9",
-          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         }
       ],
-      "duration_ms": 218507,
-      "name": "Zara - ALPHA 9 Remix",
-      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
+      "duration_ms": 186666,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1627,6 +1623,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Zara (ALPHA 9 Remix)",
+        "url": "https://open.spotify.com/album/6K2T42U3UInUOeYp2407kl"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Zara - ALPHA 9 Remix",
+      "url": "https://open.spotify.com/track/2cPpftbegvAdR0W2Zje7L1"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 199680,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1891,22 +1891,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
       "artists": [
         {
-          "name": "Super8 & Tab",
-          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         },
         {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Cami Bear",
+          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
+      "duration_ms": 190199,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1927,6 +1931,26 @@
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1991,30 +2015,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Cami Bear",
-          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Rush (Miss Monique Remix)",
         "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
       },
@@ -2035,18 +2035,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Metaphysical",
-        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
+        "name": "Too Little Too Late (Little Late Edit)",
+        "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 210725,
-      "name": "Radiation",
-      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
+      "duration_ms": 258984,
+      "name": "Too Little Too Late - Little Late Edit",
+      "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
     }
   ],
   "unique_name": "Night Rider",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,933 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,085 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 43 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
 | 44 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 45 | [Grana](https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Grana](https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT) | 2:13 |
-| 46 | [lobby](https://open.spotify.com/track/3vhfAnsZ8jRFzKBRpbsPVM) | [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Núcleo Label](https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55), [Oushanz](https://open.spotify.com/artist/3Fh99Av2TM4lnJT2KBXElb) | [lobby](https://open.spotify.com/album/1ehCUTfatBsdCD5qU3ZW3C) | 2:35 |
+| 46 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
 | 47 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
-| 48 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 48 | [lobby](https://open.spotify.com/track/3vhfAnsZ8jRFzKBRpbsPVM) | [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Núcleo Label](https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55), [Oushanz](https://open.spotify.com/artist/3Fh99Av2TM4lnJT2KBXElb) | [lobby](https://open.spotify.com/album/1ehCUTfatBsdCD5qU3ZW3C) | 2:35 |
 | 49 | [Grifes \(Conheço bem\)](https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Grifes \(Conheço bem\)](https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe) | 2:24 |
 | 50 | [Moncler](https://open.spotify.com/track/498D8WcctdGpUXMK1RVrsw) | [NITATHEPLUG](https://open.spotify.com/artist/0SwRpBSQCpAGhwcghcKPm4), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Moncler](https://open.spotify.com/album/2XF19VjIrDG2p59lh3OSBc) | 2:40 |
 
-Snapshot ID: `MCw5OTY1M2FjODZkNzNmMGYxODIyOGJjNzIzMDUxMjc3OTczN2UzZmQ3`
+Snapshot ID: `MCxkYmYyYTkyYTA5MjBmZjFlMWMwYTY4N2ViMWVkMjAxYjE3Yjg4YzNj`

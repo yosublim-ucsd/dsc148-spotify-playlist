@@ -1340,10 +1340,32 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 176842,
       "name": "Nijiiro",
       "url": "https://open.spotify.com/track/04oWsZWr8n1xSMInqLp6KS"
+    },
+    {
+      "album": {
+        "name": "Nijiiro",
+        "url": "https://open.spotify.com/album/3Nsq8VkAMXPqi1RXvnDWAe"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "RAM-MASHINE",
+          "url": "https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Nijiiro",
+      "url": "https://open.spotify.com/track/7BOyA6ajai8BO1t3L4s78K"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-105 songs - 10 hr 5 min
+106 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 | 2022-02-25 |  |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/7E3mRwZRKczueVE7tUJkZv) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Hip Hop \- Rap](https://open.spotify.com/album/6amf30HfWUp6yF3aHjv2jE) | 6:23 | 2022-02-25 | 2022-11-13 |
 | [Soldado do Morro](https://open.spotify.com/track/6DcxN9jzax8WgSl39XtTfx) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:52 | 2022-02-25 |  |
-| [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 | 2022-02-25 |  |
+| [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 | 2022-02-25 | 2023-07-06 |
+| [Somos Nós](https://open.spotify.com/track/5VEDQknmwe4XlPrn74e8zU) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk), [Rafael Crespo](https://open.spotify.com/artist/1WstEGWD2CqKbpqn6g3HAS) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 4:35 | 2022-12-02 |  |
 | [Sonho Meu](https://open.spotify.com/track/5AV7MnJYqIzo04TbShrJDT) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/21LvTSzGemrRgeeC939bC8) | 5:40 | 2022-02-25 | 2022-07-29 |
 | [Sonho Meu](https://open.spotify.com/track/7Dcm25Cx6oJb58R6omQT08) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 5:40 | 2022-02-25 | 2023-04-17 |
 | [Sonho Meu](https://open.spotify.com/track/1Vtd7pteeBGMy7y0hb7bcB) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Cibelle](https://open.spotify.com/artist/3BfQyeTb3hG0Iy76tSWwAU) | [Fortificando a Desobediência](https://open.spotify.com/album/7u6It7Xkl1A6U7BxCDOfqn) | 5:40 | 2022-12-02 |  |

@@ -1704,6 +1704,24 @@
     {
       "album": {
         "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107369,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "album": {
+        "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/5Gqq6Ws85etAcUc1cZETNc"
       },
       "artists": [
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 210000,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/5hfn3tbQM78sjfEp0yRTlC"

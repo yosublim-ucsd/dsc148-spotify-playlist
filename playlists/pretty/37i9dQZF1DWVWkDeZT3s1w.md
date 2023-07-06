@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,923 likes - 73 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,068 likes - 73 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 15 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 |
 | 16 | [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 |
 | 17 | [Dictamen](https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Dictamen](https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx) | 3:14 |
-| 18 | [Autonomo](https://open.spotify.com/track/6SaqxBzdABql6uQox9af2V) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El Manual de la Otredad](https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je) | 3:41 |
+| 18 | [Autonomo](https://open.spotify.com/track/0v4JRIRC0K2hOcRgM4OsG8) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El manual de la otredad](https://open.spotify.com/album/0mB0RX1tTmddvNiB4NhwKM) | 3:41 |
 | 19 | [A Dónde se Fue la Conciencia](https://open.spotify.com/track/4A6PTcjJV25kngEkLFPVDp) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:36 |
 | 20 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 21 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 72 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
 | 73 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
 
-Snapshot ID: `MCxlNWEwM2ZiYTNjZTI0YzZhNzMxMTFlYjk2ZDc2Mzg4M2FlMzFiMWQ1`
+Snapshot ID: `MCxjZGNmNWFmMjA0ZTNiNmYzNDU4YmI0NWNiNDQwMmU4ZjVhMjliYTBm`

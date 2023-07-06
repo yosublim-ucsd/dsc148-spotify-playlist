@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Amathole",
+        "url": "https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487804,
+      "name": "Amathole",
+      "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
+    },
+    {
+      "album": {
         "name": "Amazigh Remixes",
         "url": "https://open.spotify.com/album/4lzuNAKSYZ2rsCUkHA02mZ"
       },
@@ -554,7 +576,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 257156,
       "name": "Bahja",
       "url": "https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr"
@@ -1322,7 +1344,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 415953,
       "name": "D\u00fcN",
       "url": "https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6"
@@ -1344,6 +1366,24 @@
       "duration_ms": 392297,
       "name": "Elya",
       "url": "https://open.spotify.com/track/3BMyGkAvosGkqTquzNAiEr"
+    },
+    {
+      "album": {
+        "name": "Emowe",
+        "url": "https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460000,
+      "name": "Emowe",
+      "url": "https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr"
     },
     {
       "album": {
@@ -1836,6 +1876,32 @@
       "duration_ms": 448524,
       "name": "Hayasa - Monojoke Remix",
       "url": "https://open.spotify.com/track/64EnP9VqlTUMCNyn9mt6Kx"
+    },
+    {
+      "album": {
+        "name": "Hey Mama Remixes",
+        "url": "https://open.spotify.com/album/6Xk6fRqgbcRPDcKvnDqX2d"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Check B",
+          "url": "https://open.spotify.com/artist/0BeTRkc0TGmIpxz93vrJak"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Hey Mama - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/2WNclxC7xlgeSTuAzkqnkP"
     },
     {
       "album": {
@@ -2358,7 +2424,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 428852,
       "name": "Kondelelani",
       "url": "https://open.spotify.com/track/1qsflyGrjihmYDwEaTcdKz"
@@ -2724,7 +2790,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
@@ -2838,6 +2904,24 @@
       "duration_ms": 208524,
       "name": "Missing",
       "url": "https://open.spotify.com/track/75WqikxuauMp0htqRbDaqE"
+    },
+    {
+      "album": {
+        "name": "Mogo",
+        "url": "https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e"
+      },
+      "artists": [
+        {
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351000,
+      "name": "Mogo",
+      "url": "https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo"
     },
     {
       "album": {
@@ -3903,6 +3987,36 @@
     },
     {
       "album": {
+        "name": "Tawada",
+        "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        },
+        {
+          "name": "Anas Chlih",
+          "url": "https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435121,
+      "name": "Tawada - Saint Evo Remix",
+      "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
+    },
+    {
+      "album": {
         "name": "Teak",
         "url": "https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr"
       },
@@ -3998,7 +4112,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 387540,
       "name": "The Child Within - Tenet Audio Extended Remix",
       "url": "https://open.spotify.com/track/1OeJWzCmPPR3MlfVJTLUeD"
@@ -4360,7 +4474,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 251865,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN"
@@ -4518,6 +4632,24 @@
       "duration_ms": 262372,
       "name": "Ya Sidi - Valeron Remix",
       "url": "https://open.spotify.com/track/1j19dP73P1n6LJ8bgVyr9T"
+    },
+    {
+      "album": {
+        "name": "Yababa (Tunisian Mix)",
+        "url": "https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335609,
+      "name": "Yababa - Tunisian Mix",
+      "url": "https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv"
     },
     {
       "album": {

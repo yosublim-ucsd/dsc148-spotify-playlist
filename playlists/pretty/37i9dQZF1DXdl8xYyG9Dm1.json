@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
-  "num_followers": 122121,
+  "num_followers": 122203,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmMwM2VkMzY5ZjQ3MDMzMmZhYTIwN2RkZDAzYzE0MzcxNGZlNzQ0",
+  "snapshot_id": "MCw5M2FmM2E5NDg1ZDA1ZjhlZWIyNTAwNmE2M2Q0ZDlmOGM3M2NiNDJk",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -239,22 +239,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -295,6 +295,26 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -351,26 +371,6 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Life & Money",
-      "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -411,22 +411,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+      "duration_ms": 185257,
+      "name": "Life & Money",
+      "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "4 Door Jeep",
+      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "As Above, So Below (Deluxe)",
         "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 187858,
       "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
       "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 132765,
-      "name": "4 Door Jeep",
-      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
     },
     {
       "added_at": "2023-06-29 23:00:00",

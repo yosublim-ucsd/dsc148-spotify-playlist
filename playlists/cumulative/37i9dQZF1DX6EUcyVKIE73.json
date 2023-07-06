@@ -124,6 +124,10 @@
       },
       "artists": [
         {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
           "name": "Ravi Shankar",
           "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
         }
@@ -703,6 +707,10 @@
         "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
       },
       "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
         {
           "name": "Ravi Shankar",
           "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
@@ -1321,6 +1329,10 @@
         "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
       },
       "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
         {
           "name": "Ravi Shankar",
           "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"

@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-535 songs - 1 day 5 hr 56 min
+536 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [As Facas](https://open.spotify.com/track/6boRAE0PSDACUuGatvhcru) | [Cristina Madeira](https://open.spotify.com/artist/7pROFxNBsX1SuHhZLNw1Go) | [Essência do Fado](https://open.spotify.com/album/1Sc6M16yO3vasP73Z5b8FG) | 2:57 | 2022-05-31 | 2022-08-03 |
 | [As Minhas Coisas Favoritas](https://open.spotify.com/track/5IMUCmAUWaCJp8kQxuAcvX) | [Rita Redshoes](https://open.spotify.com/artist/3Bce8amCAcl1Icpz8ebKVy) | [As Minhas Coisas Favoritas](https://open.spotify.com/album/4zGQbI3jKMW0dSBTzmOGz1) | 3:01 | 2022-03-08 | 2022-06-01 |
 | [As recordações](https://open.spotify.com/track/0TEtn1o4DYrBFZxZKoeInt) | [Francisca](https://open.spotify.com/artist/5gjRxCG64XuE2HnCIEvaHI) | [As recordações](https://open.spotify.com/album/5v7QBQfmN9ckcqBL3W7Jzp) | 2:45 | 2023-01-04 | 2023-03-01 |
-| [Assim Assim](https://open.spotify.com/track/2m0o8Mdg6SxG4ALP2bH00j) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 2:49 | 2023-07-04 |  |
+| [Assim Assim](https://open.spotify.com/track/2m0o8Mdg6SxG4ALP2bH00j) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 2:49 | 2023-07-04 | 2023-07-06 |
+| [Assim Assim](https://open.spotify.com/track/6NhKVVIfnuRTFRXZtjtJZo) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Assim Assim](https://open.spotify.com/album/0PYk0DGSjgfEOTdzKZMnxb) | 2:49 | 2023-07-04 |  |
 | [Atximm](https://open.spotify.com/track/36eAdE2F1hJFp1Oq6QMbMb) | [Mynda Guevara](https://open.spotify.com/artist/5YB0aZ1mvqeDL0bntXxR4P) | [Atximm](https://open.spotify.com/album/02qrB0DsM9XlNGzl8c8Ipu) | 3:20 | 2022-02-02 | 2023-01-04 |
 | [Até Que Caía Bem](https://open.spotify.com/track/0wSB40LIwWd8X5wpr2VfPZ) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Até Que Caía Bem](https://open.spotify.com/album/1CyCdKUyF0OFCDzlSTwxZN) | 3:13 | 2023-04-04 | 2023-06-07 |
 | [Au Revoir](https://open.spotify.com/track/0FdlrJvsozfuDLbMt6x4qJ) | [Soraia Tavares](https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX) | [Au Revoir](https://open.spotify.com/album/73FV08Q7NYBKIYUTy2voNw) | 3:26 | 2022-08-02 | 2023-01-04 |

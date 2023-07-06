@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-146 songs - 9 hr 0 min
+147 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dawama](https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Dawama](https://open.spotify.com/album/1meUVcj9RkoWV0gFcQDeJW) | 3:06 | 2021-12-09 | 2022-05-27 |
 | [Dbayli Ana \- Fransa Daretha Biya](https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [Dbayli Ana \(Fransa Daretha Biya\)](https://open.spotify.com/album/3V1yNsmV6eDPsCH6QyNhRH) | 2:42 | 2023-03-30 |  |
 | [Derti Rayek](https://open.spotify.com/track/1Vck33iJiUs7ccjGuRSRj9) | [Farid Kalamity](https://open.spotify.com/artist/39yugFhJbttHghij5dle5M), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Derti Rayek](https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq) | 4:12 | 2021-12-09 | 2022-04-22 |
-| [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 | 2022-12-07 |  |
+| [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 | 2022-12-07 | 2023-07-06 |
 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-12-09 | 2023-02-07 |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-05-31 | 2022-11-04 |
 | [Djaya Djaya](https://open.spotify.com/track/7vvO018dZNQLvOLn6UyjdV) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Djaya Djaya](https://open.spotify.com/album/2v709QQ5sbdsbRpYMEEp3V) | 4:42 | 2023-05-27 |  |
@@ -59,6 +59,7 @@
 | [Engagé](https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Engagé](https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD) | 4:44 | 2021-12-09 | 2022-12-26 |
 | [Enigme](https://open.spotify.com/track/2tooxTRwQLT3obItqJ466q) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Enigme](https://open.spotify.com/album/5WKMSxqfQoMpIB3cxeIuZc) | 3:26 | 2023-03-30 | 2023-04-06 |
 | [Entourage](https://open.spotify.com/track/1B3Ol7QWDUh2H9E12QLFXD) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Entourage](https://open.spotify.com/album/5nGn5Cpeaci7vkEJ6U4L5m) | 3:16 | 2021-12-09 | 2023-02-07 |
+| [Euro Dollar](https://open.spotify.com/track/4r65eqldcucQIhBMEa9tWr) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Euro Dollar](https://open.spotify.com/album/3CIdgA4Zs9gGeUTPdSe7CY) | 3:50 | 2023-07-05 |  |
 | [Faillite](https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Faillite](https://open.spotify.com/album/7cEuBiqJ9MUWNg5FUGWqpv) | 3:22 | 2021-12-09 | 2022-07-28 |
 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 | 2021-12-09 | 2022-06-24 |
 | [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-07 |  |

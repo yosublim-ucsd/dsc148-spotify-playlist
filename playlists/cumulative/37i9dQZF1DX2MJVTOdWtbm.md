@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-310 songs - 16 hr 24 min
+311 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-06-09 |  |
 | [Arrocito Frito](https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Arrocito Frito](https://open.spotify.com/album/5gAB1Cq1VVlQ7TzztBCG3T) | 3:01 | 2022-02-11 | 2022-09-07 |
 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 |  |
+| [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 | 2023-06-30 |  |
 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 | 2023-05-12 |  |
 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 | 2023-01-20 | 2023-05-15 |
 | [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 | 2022-09-06 | 2023-02-05 |
@@ -297,7 +298,7 @@
 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 | 2023-05-12 |  |
 | [Típico](https://open.spotify.com/track/4azwCtiM7Gt2xWHmp0sPeY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 | 2022-09-06 | 2023-05-13 |
 | [Tírame Un Hello \- Remix](https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tírame Un Hello \(Remix\)](https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx) | 2:49 | 2023-05-12 |  |
-| [Tóxico](https://open.spotify.com/track/2L2fv02jz6It9vWAyWiccb) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tóxico](https://open.spotify.com/album/61HvOB4NvnJOcfP1T4vbXb) | 2:33 | 2023-06-30 |  |
+| [Tóxico](https://open.spotify.com/track/2L2fv02jz6It9vWAyWiccb) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tóxico](https://open.spotify.com/album/61HvOB4NvnJOcfP1T4vbXb) | 2:33 | 2023-06-30 | 2023-07-06 |
 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 | 2022-02-11 | 2022-03-05 |
 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 | 2022-09-06 | 2023-05-08 |
 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 | 2022-02-11 | 2022-09-07 |

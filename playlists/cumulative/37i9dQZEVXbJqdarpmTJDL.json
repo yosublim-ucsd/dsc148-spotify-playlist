@@ -6511,6 +6511,32 @@
     },
     {
       "album": {
+        "name": "Drop",
+        "url": "https://open.spotify.com/album/3LVTpj9wvRAfeV522lbRaP"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/4DyqFlqBL6lu9Ouq7kgnOO"
+    },
+    {
+      "album": {
         "name": "CASH OUT",
         "url": "https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7"
       },
@@ -18602,7 +18628,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 217600,
       "name": "Pes",
       "url": "https://open.spotify.com/track/49gmgcrQp7nozLlmYue3Du"

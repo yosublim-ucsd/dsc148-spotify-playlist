@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB?si=T5gwpdDoS6CXedMMets1sQ">Nasrene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,327 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,326 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 100 | [Friends Once More / Outro](https://open.spotify.com/track/2bRQOhXThjQ3CiCHzloECX) | [Pat McKeown](https://open.spotify.com/artist/4CiBxATRLg1i9QyAQsLIcH) | [Songs for the Afternoon](https://open.spotify.com/album/2XckmmWD1kg8auQsAJpxzp) | 5:49 |
 
-Snapshot ID: `MCw4MWY3ZTJjYzYwZDg1YTkxZWQ2M2U1YTgyNzUxODBjMTk3YTQ0MTRi`
+Snapshot ID: `MCxhMDBjZDZmYWMxMDJjMTMxN2I3MzNhZDQyYmY5YmJjNjMxMWZkNGY2`

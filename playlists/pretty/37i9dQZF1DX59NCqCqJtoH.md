@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,328 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,333 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 24 | [Hard Times](https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:03 |
 | 25 | [Home for the Summer](https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX) | 2:35 |
 | 26 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
-| 27 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
-| 28 | [I'm Not Enough and I'm Sorry](https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [I'm Not Enough and I'm Sorry](https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l) | 2:00 |
+| 27 | [I'm Not Enough and I'm Sorry](https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [I'm Not Enough and I'm Sorry](https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l) | 2:00 |
+| 28 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
 | 29 | [Any Love](https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 2:13 |
-| 30 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
-| 31 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
+| 30 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
+| 31 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 32 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 |
 | 33 | [I Know You so Well](https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE) | [Sarah Meow](https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Safe.](https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH) | 1:59 |
 | 34 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 50 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
 | 51 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
 | 52 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 |
-| 53 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 |
-| 54 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 |
+| 53 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 |
+| 54 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 |
 | 55 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
 | 56 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 57 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 87 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
 | 88 | [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 |
 | 89 | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/album/6CfmJvvl4OCMN2XoWxn3wC) | 2:16 |
-| 90 | [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 |
-| 91 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
+| 90 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
+| 91 | [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 |
 | 92 | [summer nights](https://open.spotify.com/track/0o9t52kMt1yNHE0IDmdu43) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [summer nights](https://open.spotify.com/album/4H68kRq5qmXfXzx6TyU3jP) | 2:52 |
 | 93 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 |
 | 94 | [Did I Get It Wrong](https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Three Songs](https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T) | 3:05 |
 | 95 | [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 |
 | 96 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 |
 | 97 | [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 |
-| 98 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 |
+| 98 | [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 |
 | 99 | [hit the road](https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [hit the road](https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53) | 3:04 |
-| 100 | [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 |
+| 100 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 |
 
-Snapshot ID: `MCxmZTRjN2VhMTFlZDdkODdhMjY0NWEzZDk0YjJiZjMwMzBlNzA2MjM2`
+Snapshot ID: `MCxjNjJkMGJhOTM0MGQ0OWNhNjVmMzdiNmM5Y2U2ZGI1MjVlNTg1NmRl`

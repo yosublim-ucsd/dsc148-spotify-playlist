@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,122 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,252 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 17 | [Stay In Your Lane](https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl) | 2:00 |
 | 18 | [Saturn](https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 3:37 |
 | 19 | [Assassin](https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 3:13 |
-| 20 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 |
-| 21 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
+| 20 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
+| 21 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 |
 | 22 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 |
 | 23 | [Open Season](https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Bacano](https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt) | 5:09 |
 | 24 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 57 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
 | 58 | [Everybody's Inn](https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [We Are All Shining Stars](https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK) | 3:18 |
 | 59 | [1am Funk Dance Party](https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [STARBLASTER](https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW) | [1am Funk Dance Party](https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt) | 22:24 |
-| 60 | [Permission to Land \- 45](https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Jeff Franca](https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 3:04 |
-| 61 | [Get With It](https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 3:06 |
-| 62 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 |
-| 63 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
+| 60 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 |
+| 61 | [Permission to Land \- 45](https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Jeff Franca](https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 3:04 |
+| 62 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
+| 63 | [Get With It](https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 3:06 |
 | 64 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 |
 | 65 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
 | 66 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 77 | [False Prophets](https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [False Prophets](https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO) | 5:52 |
 | 78 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
 | 79 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
-| 80 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 |
+| 80 | [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 |
 
-Snapshot ID: `MCxjZTI5MmVhYTI2ZDVlMjE3MDM1NjViZjJkZmMzZmQ4NjkzNmJmYmJl`
+Snapshot ID: `MCw4MTVjMTYzMWM3NjZiZWRhOGNhNmFmNjNhOTE3Njc1OGVkODJmOGVk`

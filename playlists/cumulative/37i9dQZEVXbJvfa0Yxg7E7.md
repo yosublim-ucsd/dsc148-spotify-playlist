@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,176 songs - 2 day 12 hr 47 min
+1,177 songs - 2 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-04 | 2022-06-12 |
 | [En Shot](https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [En Shot](https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01) | 2:24 | 2023-02-04 | 2023-07-02 |
 | [En Solskinnsdag](https://open.spotify.com/track/3n3x4saKCr5Y6XTzXXpiM6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [En Solskinnsdag](https://open.spotify.com/album/3NPw9UKNxpe5sr9Z4EpZbB) | 2:28 | 2021-06-07 | 2021-07-25 |
-| [En Solskinnsdag](https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:06 | 2023-06-11 |  |
+| [En Solskinnsdag](https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:06 | 2023-06-11 | 2023-07-06 |
 | [En stjerne skinner i natt](https://open.spotify.com/track/7KT0MWuO7tQAdhqDXVjaHG) | [Oslo Gospel Choir](https://open.spotify.com/artist/4e2YUhdd1EKare0kqDSP8j), [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Lys imot mørketida](https://open.spotify.com/album/1xtTwWVr20DiG1KRj8ekX4) | 4:06 | 2022-12-05 | 2022-12-08 |
 | [En Stjerne Skinner I Natt](https://open.spotify.com/track/09ytvHTWKchLhLmyCW92nt) | [Storm Barnesanger](https://open.spotify.com/artist/17N09tl0uRemFaJRTAzTQf) | [En Stjerne Skinner I Natt](https://open.spotify.com/album/53iZgWJAiQdTverJS7YbrY) | 4:32 | 2022-11-28 | 2022-12-27 |
 | [En Til](https://open.spotify.com/track/6i0hamv6503yPkeSfnZogU) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [En Til](https://open.spotify.com/album/323cHXXJFmQHBkIzpevosB) | 2:36 | 2021-12-06 | 2022-01-08 |
@@ -693,6 +693,7 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-29 |
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2021-08-08 | 2021-08-15 |
 | [Love the chase](https://open.spotify.com/track/3US1eYClagFA3sPKGBKKU8) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Love the chase](https://open.spotify.com/album/2tzg1Qlejs0isDBJYtvgaE) | 2:53 | 2022-07-02 | 2022-07-04 |
+| [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-05 |  |
 | [Lovesick](https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/2WYETJesea0OP320GV0e3e) | 2:09 | 2022-11-05 | 2022-11-07 |
 | [Ludvig Daae](https://open.spotify.com/track/5TyFg2tdUPtBVKm7ZRevGk) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Ludvig Daae](https://open.spotify.com/album/0iHaRVUqMPyTPJGI8zE1tF) | 1:48 | 2021-11-23 | 2022-02-19 |
 | [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 | 2022-11-30 | 2022-12-02 |

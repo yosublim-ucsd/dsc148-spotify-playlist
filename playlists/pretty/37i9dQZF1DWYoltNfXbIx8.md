@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,964 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,034 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 36 | [Traficando Informação](https://open.spotify.com/track/1vSxH0qXUvKvgyE4PXi4i6) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Jr](https://open.spotify.com/artist/5QlOcu6Gkblz9Ix9w6yudx) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:46 |
 | 37 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/77XTtDeV1SljrkeM3TXUsr) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/6klzQ2I4ekdPh2jGSJ41PW) | 4:26 |
 | 38 | [Só Quem É Louco](https://open.spotify.com/track/78NAfjEvh6P8TVRzTty98M) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/5VgX0CKs44YLtzDFrCuMdE) | 4:57 |
-| 39 | [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 |
+| 39 | [Somos Nós](https://open.spotify.com/track/5VEDQknmwe4XlPrn74e8zU) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk), [Rafael Crespo](https://open.spotify.com/artist/1WstEGWD2CqKbpqn6g3HAS) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 4:35 |
 | 40 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 |
 | 41 | [Meu Filho Minhas Regras](https://open.spotify.com/track/0Dlh7GZRUh2so0f3oHdSPe) | [Visáo De Rua](https://open.spotify.com/artist/4Vaxb77sF92LF9z8ODEYzD) | [Ruas de Sangue](https://open.spotify.com/album/684stUH00OGoXW4J8jACwR) | 6:00 |
 | 42 | [Falcão](https://open.spotify.com/track/4HWrmGCQgFE3UfkCRJVtNW) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Retrato](https://open.spotify.com/album/28zGdHIYcn2uNufcLRp8n8) | 4:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MCw5NmY3MzcyMjY2YTA2ZTdkYzM5ZDMzMWU0ZTYxYTQzOTJjZDc5NzRh`
+Snapshot ID: `MCxjYTFlYWUwODdmMzc0OGY5MGY3MDg5M2IyNTc3ODM0MzY3NDY0NTlh`

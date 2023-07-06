@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 
 > U.K\. rising star <a href="spotify:artist:6DnQYUjtYusK9QJts9HqSC">Skepsis</a><br/> delivers a mix filled with gritty basslines and fist\-pumping tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,420 likes - 39 songs - 59 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 39 songs - 59 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 | 38 | [Set Me Free \- Mixed](https://open.spotify.com/track/4V4iEwKwTxF8GNhRTuBVyX) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Set Me Free \(Mixed\)](https://open.spotify.com/album/6JUlt3xXqRjEjE2EikuYth) | 1:28 |
 | 39 | [Again \- Mixed](https://open.spotify.com/track/1LrL4N1Gfy5PzVmv8z90Yv) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Again \(Mixed\)](https://open.spotify.com/album/5AG8FGk0kfE0EHF3re7Eb2) | 2:16 |
 
-Snapshot ID: `MCw1ZjY5MzgzN2U3NGIzMzU2Njg3M2E1MWI1ODU3ZTNkYjZiNjAyZDM2`
+Snapshot ID: `MCxhYWVlZDgxMWEyZDc2YzE0MDI0ZDRlNmJjNjBjZDcyMzU1MGRhZDFj`

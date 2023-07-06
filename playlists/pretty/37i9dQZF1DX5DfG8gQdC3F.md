@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Mother Mother, Olivia Rodrigo, Shakira & Manuel Turizo and BABY GRAVY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,493 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,499 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 41 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 |
 | 42 | [Lightning Bolt](https://open.spotify.com/track/5Vgbt9Rt8n2tOANxP2mICc) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Lightning Bolt](https://open.spotify.com/album/5V0B47aJIAlsWfYYacHyfv) | 3:04 |
 | 43 | [\(I Don't Need A\) New Girl](https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo) | 4:33 |
-| 44 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:16 |
+| 44 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 45 | [Heart They Didn't Break](https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Heart They Didn't Break](https://open.spotify.com/album/0UEl0ztfoALMXiCqjl8tvN) | 3:10 |
 | 46 | [Case](https://open.spotify.com/track/5qEFLzru66ilBHP6am3PwA) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Case](https://open.spotify.com/album/5MmDbXyMQTArVzVZ1MuvIF) | 2:19 |
 | 47 | [Your Melody](https://open.spotify.com/track/6J1EaYbbmuV1G3IDyL7oPL) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Your Melody](https://open.spotify.com/album/2oZuZh1ZlbSr6ZVxnRsm6m) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Fake Friends \(Iró Òre\)](https://open.spotify.com/track/38taP6j04eJMJu6dM3feot) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fake Friends \(Iró Òre\)](https://open.spotify.com/album/2YdB6Hh9Xq555Bhyy7u5Kg) | 2:59 |
 | 100 | [We Are African](https://open.spotify.com/track/1i6D4eYlOpLpeHGLW0R5bN) | [Paso Doble](https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp), [Kamau Abayomi](https://open.spotify.com/artist/4wHtwVZQyHHHb8FmCegyEf) | [We Are African](https://open.spotify.com/album/53SCirdQVRCaivnxgO2w3m) | 7:29 |
 
-Snapshot ID: `MCwwYmUxNzQxOTUxMmRkNjhiZmQzYzhhNGE3MmEzODkwMTBlZDE3Zjkw`
+Snapshot ID: `MCxjZmE0ZjM1ZjRlMDQyY2E4ZDdiZjBhOTVjYWZkYmJmZmEzM2I5OWY5`

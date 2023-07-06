@@ -4,7 +4,7 @@
 
 > 
 
-1,433 songs - 3 day 9 hr 22 min
+1,434 songs - 3 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2019-08-06 |  |
 | [A Thousand Miles](https://open.spotify.com/track/5y69gQtK33qxb8a24ACkCy) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/7D6BFTArx2ajtkKRVXIKO2) | 3:57 | 2019-08-02 | 2022-04-20 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-04-01 |  |
-| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-14 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-14 | 2023-07-06 |
 | [About You](https://open.spotify.com/track/7JoND9PHYkZ0l7NEHWGjjd) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About You](https://open.spotify.com/album/6YrSTKyL1ClQPS3YSXV2Lj) | 4:07 | 2019-11-08 | 2022-04-14 |
 | [About You](https://open.spotify.com/track/1gy8SNsZ7ceHqV2mFF3m0G) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [About You](https://open.spotify.com/album/7hi9Eoa4UxS40VNHqnVrig) | 2:40 | 2019-08-27 | 2022-04-18 |
 | [Above the Clouds](https://open.spotify.com/track/02p9EeaQinGbAJHSOnn6ws) | [SŸDE](https://open.spotify.com/artist/2AgbDbAVnc4y7oB2QxISmJ), [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [Above the Clouds](https://open.spotify.com/album/7rWqNxCGPHgDXFgk3nOXVP) | 3:03 | 2019-08-26 | 2022-04-13 |
@@ -269,6 +269,7 @@
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 | 2020-06-12 | 2022-04-21 |
 | [Dancing](https://open.spotify.com/track/789nvq2ZtxCHwiPK03Lh2q) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/1RcGz0VThX1yhSFkwyff0O) | 2:58 | 2019-08-05 | 2022-04-20 |
 | [Dancing In The Dark](https://open.spotify.com/track/4moXVLw4YS7tVNmjs8v60A) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/14IYDXybb1XKu51QHDryak) | 3:59 | 2021-03-11 | 2021-03-22 |
+| [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2023-06-22 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/5hmJIY19Z6bLs0JNsrAMPD) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [4 Hits](https://open.spotify.com/album/0tz7fJQHS08LrsJsubYQNy) | 3:53 | 2019-07-29\* | 2022-04-17 |
 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4Vs8RLrUdDXeaZbNeIOrtn) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/3W6PgZUb6L1bvHXO0HyH3I) | 2:44 | 2020-08-04 | 2022-07-29 |
 | [Dancing In The Storm](https://open.spotify.com/track/6XzWrZIxG83Cs6bM5BSMfr) | [Boom Crash Opera](https://open.spotify.com/artist/2KisNXWizbrJVoif4Lt2u5) | [The Best Things](https://open.spotify.com/album/1r2WOjK9q9XAakM8mNmj8k) | 4:11 | 2019-08-06 | 2022-04-18 |

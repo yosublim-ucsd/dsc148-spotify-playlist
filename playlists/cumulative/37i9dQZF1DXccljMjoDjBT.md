@@ -2,7 +2,7 @@
 
 ### [80s Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DXccljMjoDjBT)
 
-> The best soft rock from the 1980s\. Cover: Tina Turner
+> The best soft rock from the 1980s\. Cover: Peter Cetera
 
 183 songs - 14 hr 19 min
 

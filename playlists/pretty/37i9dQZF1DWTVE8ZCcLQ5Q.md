@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Luanna e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,531 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,532 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [alice \(só que sem as maravilhas\)](https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [alice \(só que sem as maravilhas\)](https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg) | 2:31 |
 | 60 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |
 | 61 | [VideoChamada \(Facetime\)](https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [VideoChamada \(Facetime\)](https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN) | 3:46 |
-| 62 | [Droga Pesada \(feat\. Nairo\)](https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Droga Pesada \(feat\. Nairo\)](https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa) | 3:04 |
-| 63 | [JORGE](https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Nizaj](https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [JORGE](https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0) | 2:40 |
+| 62 | [JORGE](https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Nizaj](https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [JORGE](https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0) | 2:40 |
+| 63 | [Droga Pesada \(feat\. Nairo\)](https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Droga Pesada \(feat\. Nairo\)](https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa) | 3:04 |
 | 64 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 |
 | 65 | [Vênus](https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Vênus](https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx) | 2:57 |
 | 66 | [24K o Spotify Que Paga](https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ) | [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [24K o Spotify Que Paga](https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 | 75 | [Hemorragia Interna](https://open.spotify.com/track/7gqW8qNovNWU6FhgC4o2Wb) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Meire D' Origem](https://open.spotify.com/artist/3osVa8ApiX4HGAQx9K8A1E), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Hemorragia Interna](https://open.spotify.com/album/6tKsJWAPbnZbY6uoM442xO) | 2:45 |
 
-Snapshot ID: `MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh`
+Snapshot ID: `MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz`

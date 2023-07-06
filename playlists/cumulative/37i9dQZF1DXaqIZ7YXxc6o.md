@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: OPEN TILL L8
 
-933 songs - 2 day 3 hr 30 min
+934 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,7 +782,8 @@
 | [SYNTHESIZER](https://open.spotify.com/track/12cTzdrO15PKk1Zez7M06W) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Open Till L8](https://open.spotify.com/album/2JVcsMJJSKFlrrYTpySvTx) | 2:30 | 2023-06-29 | 2023-07-01 |
 | [SYNTHESIZER](https://open.spotify.com/track/6kFrBLbiujuNoQJqLko8Op) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Open Till L8](https://open.spotify.com/album/6NrQoc5O4aFPMT2S4EewlQ) | 2:30 | 2023-06-30 |  |
 | [Take It Back](https://open.spotify.com/track/5BRftg5GOpzN7Fse7VfMTs) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Take It Back](https://open.spotify.com/album/4MjxcAxrsFXIhwGGw4QsJ3) | 2:43 | 2023-05-04 | 2023-05-26 |
-| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-08 |  |
+| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-08 | 2023-07-06 |
+| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-07-02 |  |
 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 | 2022-12-08 | 2023-01-20 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 | 2023-03-31 |
 | [Take Me Home](https://open.spotify.com/track/0HulM3j7DDoStU948EU6GP) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Take Me Home](https://open.spotify.com/album/45NHA9MHbPPebCtAIK1RkP) | 4:01 | 2023-03-31 | 2023-04-21 |

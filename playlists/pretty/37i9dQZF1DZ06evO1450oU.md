@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 5 | [Thorn in My Side](https://open.spotify.com/track/1W56wikhxCRixXU1g7vww5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:49 |
 | 6 | [Lock the Doors](https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Our Own World](https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh) | 3:38 |
 | 7 | [Phase](https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:24 |
-| 8 | [Free](https://open.spotify.com/track/030sfzvPCe6KI66BibpAZo) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Demo](https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq) | 3:23 |
+| 8 | [What You Would Hear](https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [What You Would Hear](https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR) | 3:55 |
 | 9 | [Soul Jar](https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:13 |
-| 10 | [Electricity Is Humming](https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:26 |
+| 10 | [Free](https://open.spotify.com/track/030sfzvPCe6KI66BibpAZo) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Demo](https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq) | 3:23 |
 | 11 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
-| 12 | [What You Would Hear](https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [What You Would Hear](https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR) | 3:55 |
+| 12 | [Electricity Is Humming](https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:26 |
 | 13 | [Songbird](https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:52 |
 | 14 | [Daydream](https://open.spotify.com/track/49J2SQ55U0KM24UrVh78Ia) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Demo](https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq) | 4:00 |
 | 15 | [Taste the Floor](https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 19 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 |
 | 20 | [High Horse](https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:31 |
 
-Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDBhNzFjZDU2OGVhZGFmYzFkZjIwZWNkYTE2NmVkMGRlNQ==`
+Snapshot ID: `MjgxNDI3MDEsMDAwMDAwMDBjNjc5NWU2YWRkNGNlNTA0MDU1NTA0MmY5YmU1MzI4YQ==`

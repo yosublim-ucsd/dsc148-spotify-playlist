@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-579 songs - 1 day 14 hr 25 min
+581 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI) | 5:47 | 2022-05-24 | 2022-07-29 |
 | [Midnight Train](https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp) | [Murakami Keisuke](https://open.spotify.com/artist/34EzrWHspo4wT6YmLjE0IH) | [Midnight Train](https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH) | 3:39 | 2022-10-25 | 2022-10-27 |
 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 | 2022-10-25 | 2022-12-07 |
-| [Million Miles Away \- Edit](https://open.spotify.com/track/7GinkMd26v9s8bJYLTyvkK) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/6XjUXNYXwhXjGdicHqExDc) | 3:31 | 2023-07-04 |  |
+| [Million Miles Away \- Edit](https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq) | 3:31 | 2023-07-04 |  |
+| [Million Miles Away \- Edit](https://open.spotify.com/track/7GinkMd26v9s8bJYLTyvkK) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/6XjUXNYXwhXjGdicHqExDc) | 3:31 | 2023-07-04 | 2023-07-06 |
 | [Minari](https://open.spotify.com/track/7fSzV3YaugQjbfQJn1JOKf) | [Monenai](https://open.spotify.com/artist/3Z0IWHS1zD8VAjNoNqq4sB) | [Minari](https://open.spotify.com/album/712igKFozl7rB8zY3HqKiG) | 2:54 | 2023-03-28 | 2023-04-05 |
 | [Miragesong](https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Miragesong](https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt) | 4:45 | 2022-12-06 | 2023-02-19 |
 | [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 | 2022-05-24 | 2023-06-21 |
@@ -300,7 +301,8 @@
 | [SHIRAFU](https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ) | 3:40 | 2023-06-20 |  |
 | [Signpost](https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l) | 3:31 | 2023-04-04 |  |
 | [Signpost](https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Signpost](https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH) | 3:32 | 2022-08-02 | 2023-03-25 |
-| [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [土岐麻子](https://open.spotify.com/artist/2v3GHWBJprAS0n6tpIx1Oj) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/44G9CppJo6uWZCMFsqZs9b) | 4:21 | 2023-07-04 |  |
+| [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl) | 4:21 | 2023-07-04 |  |
+| [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [土岐麻子](https://open.spotify.com/artist/2v3GHWBJprAS0n6tpIx1Oj) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/44G9CppJo6uWZCMFsqZs9b) | 4:21 | 2023-07-04 | 2023-07-06 |
 | [Skyline](https://open.spotify.com/track/7u5wxfkU6ubjvqS1DxLxAP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Skyline](https://open.spotify.com/album/4mIF1JqEOSRbWISwDR1Ud9) | 4:52 | 2022-08-11 | 2022-08-17 |
 | [Skyscraper](https://open.spotify.com/track/0eXUe6lbJxknb0LNqHWyQ0) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Skyscraper](https://open.spotify.com/album/68MxsfqnDi9PKriaURsaS8) | 3:47 | 2022-10-18 | 2022-11-18 |
 | [slowdance](https://open.spotify.com/track/1UGZqkkwnI7Suxsk2MnmQ3) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [slowdance](https://open.spotify.com/album/3p2hTZIJrx0azJd5mEDZn4) | 3:10 | 2022-10-25 | 2022-12-13 |

@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 481227,
+  "num_followers": 481291,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTdjYWMzZjZiYjM3M2UxZWU4OTE2YWJmMmZhYmU3MWQ0N2I0MzM5",
+  "snapshot_id": "MCw5ZDBkMDlkZTBkYWViMzkwMjA4NDg4NmEzNGJhMmZmYTQyZDdlYzk3",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Best Of The Emotions: Best Of My Love",
-        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
-    },
-    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "The Best Of Philadelphia International Records",
@@ -335,6 +319,22 @@
       "duration_ms": 217773,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Of The Emotions: Best Of My Love",
+        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
     },
     {
       "added_at": "2020-04-14 18:41:41",

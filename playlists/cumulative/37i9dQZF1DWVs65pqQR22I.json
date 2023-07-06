@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 136719,
       "name": "Black Noise Calmness",
       "url": "https://open.spotify.com/track/42n0kVOXzIdDB7X6hs6qLb"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 168669,
       "name": "Black Noise for a Good Night's Sleep",
       "url": "https://open.spotify.com/track/0TO0pKnZmxIQr9cuvbtOx0"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 150836,
       "name": "Black Noise Serenade",
       "url": "https://open.spotify.com/track/1fc4SHlUOYSEVDKgZDACnR"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 160382,
       "name": "Black Noise Songs",
       "url": "https://open.spotify.com/track/1f1QfKUcavioBhq77fxHcH"
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200417,
+      "name": "Dreamy Void - Black Noise",
+      "url": "https://open.spotify.com/track/0yZs7qrhyEcUlqxFl0oghk"
+    },
+    {
+      "album": {
         "name": "Black Noise Slumber",
         "url": "https://open.spotify.com/album/2CmI8r0pmlPqrzQV9gZmKl"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 160000,
       "name": "Enigmatic Reverie - Black Noise",
       "url": "https://open.spotify.com/track/3Yc4o13GHVPWJZa6uGrHV3"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 139691,
       "name": "Healing Black Noise",
       "url": "https://open.spotify.com/track/2IswQJThBN7riJqBofP1gK"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 165697,
       "name": "Nights with Black Noise",
       "url": "https://open.spotify.com/track/5MkScpVqQ53sGNXMzGhSl0"
@@ -2152,10 +2170,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 136719,
       "name": "Peaceful Black Noise",
       "url": "https://open.spotify.com/track/2TNqxwtc41JvEvgYNJLalz"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170870,
+      "name": "Peaceful Darkness - Black Noise",
+      "url": "https://open.spotify.com/track/7AKssyLSWIQaWyZ1NQAgHn"
     },
     {
       "album": {
@@ -2340,7 +2376,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 141177,
       "name": "Restful Black Noise",
       "url": "https://open.spotify.com/track/5kCPxgzPyyiSBMw0OXlwFD"
@@ -2942,7 +2978,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 130031,
       "name": "The Healing Power of Black Noise",
       "url": "https://open.spotify.com/track/6bCtECZLS9UdRyQDPDW7hz"
@@ -3072,6 +3108,24 @@
       "duration_ms": 123386,
       "name": "Waves & Black Noise",
       "url": "https://open.spotify.com/track/5O4m5I5fPIZLwjOPpqZKi2"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Whispering Abyss - Black Noise",
+      "url": "https://open.spotify.com/track/45ZoRghEQkmPcyLgokWjTN"
     },
     {
       "album": {

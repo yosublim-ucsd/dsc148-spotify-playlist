@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,214 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,247 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 89 | [Lovin'](https://open.spotify.com/track/0Dj3AbuVklKH5ls23aLpvM) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Lovin'](https://open.spotify.com/album/3d1DVhGpmRRodPVziWJV1r) | 2:08 |
 | 90 | [Nowhere](https://open.spotify.com/track/1VZwQ8OfNR8oQ50CflAveV) | [CANISHA](https://open.spotify.com/artist/1gQ6RBQFW1RmEMDN2XQQt9) | [Nowhere](https://open.spotify.com/album/2QZLZVgSb7ViWOJaRV495q) | 3:19 |
 
-Snapshot ID: `MCwzOGMxMDNlNjAzNWUzZTA4YWYxZWIwY2E0N2IwNDUzYWY3NTBiZDQ1`
+Snapshot ID: `MCxmNjAyMTYyMzgwZWYxZTYyNjk2MjNmZWE1ZTg0ZjlmMWZiOTQ2NWRi`

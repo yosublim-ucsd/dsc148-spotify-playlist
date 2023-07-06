@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260,685 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,261,354 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Silence Your Mind](https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Silence Your Mind](https://open.spotify.com/album/77sRud3gjmLrWPYK2VTCeF) | 4:00 |
 | 60 | [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 |
 
-Snapshot ID: `MCxiMzE5ZWIwZjAzZDM5M2U4ZGM5NDRkMDkxMjUyMGE5ZGM1YjAwZTQz`
+Snapshot ID: `MCxhM2FkNzI3NzU3MmQxMDk1YWZhMjZjMmQ0MDJlNTkzM2ZjZjJjMWVk`

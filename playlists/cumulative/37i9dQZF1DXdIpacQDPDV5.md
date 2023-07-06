@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Two Friends, Loud Luxury & Bebe Rexha
 
-873 songs - 2 day 2 hr 13 min
+874 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,8 @@
 | [Sweet Illusion](https://open.spotify.com/track/3iO3rn3r73uYAauODJ8Hvf) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Sweet Illusion](https://open.spotify.com/album/6XaV7bzLsw42ndNoLSEHbx) | 3:14 | 2021-12-31 | 2022-03-18 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-31 | 2022-01-22 |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-14 | 2023-05-27 |
-| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-09 |  |
+| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-09 | 2023-07-06 |
+| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-30 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 | 2022-10-15 |
 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 | 2022-09-16 | 2022-10-15 |
 | [Take Me High](https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL) | 4:15 | 2022-09-16 | 2022-10-13 |

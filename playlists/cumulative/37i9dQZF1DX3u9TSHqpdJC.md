@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Beeson
+> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Savana Santos
 
-3,045 songs - 6 day 11 hr 8 min
+3,050 songs - 6 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,7 @@
 | [chemical](https://open.spotify.com/track/6XHj8YlgrMba7pCYsYPsLG) | [Matt Hall](https://open.spotify.com/artist/0T7K16td62laqeZKtTyv4e) | [chemical](https://open.spotify.com/album/7qhzxlVEnenzu7pDg5YlLF) | 2:20 | 2022-04-27 | 2022-05-26 |
 | [Cherry](https://open.spotify.com/track/6L1IPSZIhtmLQsmlP9W5ww) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Cherry](https://open.spotify.com/album/3FhBHZ7ecE6894v59bY8Z4) | 2:53 | 2022-11-30 | 2023-01-12 |
 | [Cherry](https://open.spotify.com/track/6jkSYBuGuGoMQeeamNqHYH) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Cherry](https://open.spotify.com/album/4AxQWjqAc5Up0cmHJEvztk) | 2:53 | 2022-02-02 | 2022-03-31 |
-| [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 | 2023-06-07 |  |
+| [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 | 2023-06-07 | 2023-07-06 |
 | [Cherry Lips](https://open.spotify.com/track/2OYXd3KlEJ5adxTP4UkzXo) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Cherry Lips](https://open.spotify.com/album/1cbtNYWfu6UVFmeHvndPKf) | 3:14 | 2021-06-03 | 2021-07-22 |
 | [Chevy Nova](https://open.spotify.com/track/0fwKBtVNX0ANEIdBAY6Jxw) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Chevy Nova](https://open.spotify.com/album/3BytX8fReE7TpWhric0HdC) | 3:18 | 2020-11-05 | 2020-12-08 |
 | [Chill](https://open.spotify.com/track/3kebhj0PbLEinhk3hCmGVA) | [Jack Miller](https://open.spotify.com/artist/1L2dgYrQs4HZDHfYB2klTF), [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [Chill](https://open.spotify.com/album/1KNSEeA85hL5RSU2usNKbq) | 2:57 | 2021-07-02 | 2021-10-07 |
@@ -611,6 +611,7 @@
 | [Cupids Games](https://open.spotify.com/track/29tVGZPCBXL5ElQpbgINUR) | [Zoe Sanders](https://open.spotify.com/artist/1EDU4S0vDAK3UaweNtq59X) | [Cupidon / Cupids Games](https://open.spotify.com/album/3L7V1tnYa0rzaiTvhNUdQm) | 3:18 | 2021-03-11 | 2021-04-08 |
 | [Cut Deep](https://open.spotify.com/track/4O5Z3boSWzrscOFmmEPwLn) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Control](https://open.spotify.com/album/0tPkRDh3pJd9Z1OiVXQwQH) | 3:39 | 2021-05-13 | 2021-06-03 |
 | [Cut It Off](https://open.spotify.com/track/0pt5Funt9Ha0ApcLa6leUY) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [This is Love](https://open.spotify.com/album/371LvRaWCqWuAS4FD0Pc5r) | 3:33 | 2023-05-31 |  |
+| [Cut Me Loose](https://open.spotify.com/track/7mLvwSjBFZxBGj7x4LYrIR) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cut Me Loose](https://open.spotify.com/album/0cgxRe7Q9izoY03BpvkFYA) | 3:03 | 2023-07-05 |  |
 | [Cut My Bangs](https://open.spotify.com/track/14N73yIkwcob2JhduJVIjp) | [taia](https://open.spotify.com/artist/1t84tnhmmcxVfAkJCGloOp) | [Cut My Bangs](https://open.spotify.com/album/7okCuNpTb1Nc0fjozg3kxv) | 3:04 | 2021-04-15 | 2021-05-13 |
 | [Cute Story Now STFU](https://open.spotify.com/track/4phQbojnxNOY01zu7JtOqs) | [Jamesinit](https://open.spotify.com/artist/04aZ1rUlQahjvFRixCeokv) | [I Never Intended This](https://open.spotify.com/album/2HO1KwKQb704WKpjRz3asz) | 3:04 | 2021-03-06 | 2021-04-01 |
 | [CVS](https://open.spotify.com/track/0AKErkag7pPMyvkGXnBQbk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [CVS](https://open.spotify.com/album/5VLkFY7Sn2qgrYnrDEswqv) | 6:00 | 2021-09-02 | 2021-09-10 |
@@ -685,6 +686,7 @@
 | [Do Better](https://open.spotify.com/track/5hyp1QBnppuCIn7A3vyrZ4) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Do Better](https://open.spotify.com/album/55l3DhhnLOO6uKJM8uvM36) | 2:26 | 2021-04-01 | 2021-05-13 |
 | [Do Better](https://open.spotify.com/track/0exKvNvCeofzXEVlPIebaN) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Do Better](https://open.spotify.com/album/05FP2EnloDbiVO8nQBrf90) | 2:42 | 2022-02-16 | 2022-03-31 |
 | [Do Better](https://open.spotify.com/track/4ZxhhIU4Y9Nr0KqQFCDCzD) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [Homecoming](https://open.spotify.com/album/0h8qI7aoo0eVzZvMl279jR) | 2:40 | 2020-10-13\* | 2020-12-08 |
+| [Do I Like Him \(Or Is He Just Ignoring Me\)](https://open.spotify.com/track/3j9Zfip4jCNxTM3UFGEzXp) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [Do I Like Him \(Or Is He Just Ignoring Me\)](https://open.spotify.com/album/6khUm9j87QALJiWd0SGypu) | 3:03 | 2023-07-05 |  |
 | [Do It Again](https://open.spotify.com/track/3HU1oeWnRlieMrdzIfzpbb) | [Primo](https://open.spotify.com/artist/34O5j4kXzwzwpusQApiRLA) | [Do It Again](https://open.spotify.com/album/6q6jPSqSPABDe5lCb9dZUo) | 3:17 | 2021-03-06 | 2021-04-01 |
 | [Do It for Love \(feat\. Sugarzit\)](https://open.spotify.com/track/3I3UxcueEJqLS1g6U83IP1) | [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n), [Sugarzit](https://open.spotify.com/artist/5PnfomnktSpctReBvq2mif) | [Do It for Love \(feat\. Sugarzit\)](https://open.spotify.com/album/6SJCG2kTbVWSZ7tHwuN8iP) | 3:30 | 2021-08-26 | 2021-10-07 |
 | [do u hear me?](https://open.spotify.com/track/4x3vvXs43JeewzSKPSwWhh) | [iris day](https://open.spotify.com/artist/76aEuFvHvQUH4BKVPRUSWn), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [do u hear me?](https://open.spotify.com/album/5MeWMUY6S366IaoN93Ascj) | 2:04 | 2021-02-10 | 2021-03-11 |
@@ -921,6 +923,7 @@
 | [FLIRT](https://open.spotify.com/track/5O6pLkTEiWUog4nHxyOAKM) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [FLIRT](https://open.spotify.com/album/1fMLY44uf7SieAG7bY8NHw) | 2:10 | 2022-02-09 | 2022-03-31 |
 | [Float Through The Ceiling](https://open.spotify.com/track/7aYv3jUbXvySVnHgVwXoaJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Float Through The Ceiling](https://open.spotify.com/album/4royMykJ55TjzXJhHQhiv6) | 2:45 | 2022-02-23 | 2022-03-10 |
 | [Floors of Tokyo](https://open.spotify.com/track/4O4x1iixODbIb6DU6qZyTu) | [Séamus](https://open.spotify.com/artist/4UWTzao3I8dwpES32qyoEc) | [Floors of Tokyo](https://open.spotify.com/album/4dLwzmGw8w77Sl57NWnzcL) | 4:32 | 2020-10-13\* | 2020-12-03 |
+| [Flower](https://open.spotify.com/track/665GayQvSikGzkwQl32TVy) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Flower](https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2) | 3:10 | 2023-07-05 |  |
 | [Flowers Don't Bloom](https://open.spotify.com/track/4Z0r6fXGGcEt1JODY6Og1F) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [Flowers Don't Bloom](https://open.spotify.com/album/11pyqTNmHK8tND6zm2U8MC) | 3:10 | 2022-03-23 | 2022-04-28 |
 | [FLUTTER](https://open.spotify.com/track/20H43XYlHP0Yc7o2RIj1LG) | [Xelli Island](https://open.spotify.com/artist/0Hd7uyxLIPZMxOpcZIZ7sV) | [FLUTTER](https://open.spotify.com/album/7u6cYfF1OrOxXaREQN6gmr) | 4:04 | 2021-04-22 | 2021-05-27 |
 | [Fly Another Night](https://open.spotify.com/track/13szSjVyBPmZMjR6PT0xug) | [Julianne Hope](https://open.spotify.com/artist/2ToMcwd6c1EfzUi9LMyNSP) | [Fly Another Night](https://open.spotify.com/album/79VOj3qx6UTutw6yrVLQ0u) | 3:37 | 2021-02-17 | 2021-04-22 |
@@ -1740,6 +1743,7 @@
 | [Mermaid Tears \- Midnight](https://open.spotify.com/track/6u9Ugp15vgJ5XdfyDpPxn1) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Oblivion Tears](https://open.spotify.com/album/4jJia4iHaYBWua9Lmxx6VU) | 3:20 | 2021-03-11 | 2021-04-08 |
 | [Mess It Up](https://open.spotify.com/track/2idQ4LpMl4zzhDK61XqWi9) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Mess It Up](https://open.spotify.com/album/798WnEfY4JOpmO4sUl2xMh) | 2:44 | 2022-02-16 | 2022-03-24 |
 | [Messy](https://open.spotify.com/track/0xDo9pirJQsUxhpsigpd64) | [Haley Decker](https://open.spotify.com/artist/60KmGvzFpVagdfycQVXWvr) | [Messy](https://open.spotify.com/album/4tsswi6JuuCH5Wbz7eAe7h) | 3:14 | 2021-04-01 | 2021-04-22 |
+| [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-07-05 |  |
 | [Messy](https://open.spotify.com/track/2Qut9uGldtoYMZZmFDltuq) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Messy](https://open.spotify.com/album/11axVv22AEEpRj6eIGfWMA) | 2:54 | 2022-10-05 | 2022-12-01 |
 | [Mexican Holiday](https://open.spotify.com/track/20dCE2xkSJl0dQBIIkkeqQ) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/0uysSW5kqfgh4OVHyb7ogr) | 3:22 | 2021-04-01 | 2021-05-13 |
 | [mg](https://open.spotify.com/track/60oj1CWCRuE5CLAcw2unCg) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [mg](https://open.spotify.com/album/39H6I2YtVLfsLPcskAhCgv) | 2:43 | 2022-04-27 | 2022-06-16 |
@@ -2580,6 +2584,7 @@
 | [Talk It Out](https://open.spotify.com/track/1RBqSurvSog20x6EzuqgFN) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Talk It Out](https://open.spotify.com/album/0Rpo86UZUsOwqNi2vXMPsR) | 3:05 | 2021-09-02 | 2021-10-21 |
 | [Talk Shit](https://open.spotify.com/track/0YVnS7RJxLqcsK0b4tujnC) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Talk Shit](https://open.spotify.com/album/6E9D8q15d4jmKn9aEqO0PK) | 3:06 | 2020-10-13\* | 2020-10-22 |
 | [Talk Talk Talk](https://open.spotify.com/track/6bihcxN7b7X4359VGXaqCJ) | [Ilan Rubin](https://open.spotify.com/artist/11jeKM5q8nnYr1tssNmGVO) | [Talk Talk Talk](https://open.spotify.com/album/76ihSSNQ1n2NczkH5rj2tD) | 4:33 | 2021-06-18 | 2021-07-22 |
+| [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2023-07-05 |  |
 | [Talk to Me](https://open.spotify.com/track/1P07gAydu2x37kTFD2p9cw) | [Trauna](https://open.spotify.com/artist/1VFaiw55g9i4e2XkYCMEY4) | [Talk to Me](https://open.spotify.com/album/3aVDyNOcDIHomf5F06ui9z) | 3:06 | 2021-07-22 | 2021-09-16 |
 | [Talking 2 Myself](https://open.spotify.com/track/0SDpwMNegtR6WExbjosLF9) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Talking 2 Myself](https://open.spotify.com/album/2tvOc5o8YDJg6UfSRCXj8K) | 2:31 | 2020-10-29 | 2020-11-18 |
 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 | 2020-12-08 | 2021-01-15 |

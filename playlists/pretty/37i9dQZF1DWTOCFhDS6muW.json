@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 20056,
+  "num_followers": 20068,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmMyNTYwODkxZTNiMGRlN2QwMDY5ZTYyZDYyYTUxNzk5OTVhMmEw",
+  "snapshot_id": "MCxiYTY1NTVkNTcxOGVjMDZlZjk1ZTUzYzFhMGIyNDY0ZTgxMmEwMzFj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -147,18 +147,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu"
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
         }
       ],
-      "duration_ms": 268226,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
+      "duration_ms": 227760,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -183,6 +183,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Punta Vibe",
         "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 193751,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr"
-      },
-      "artists": [
-        {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2"
     },
     {
       "added_at": "2020-05-26 15:53:13",

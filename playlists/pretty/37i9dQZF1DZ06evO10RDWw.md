@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,317 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,325 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 29 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 |
 | 30 | [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 |
 
-Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDA1YjY3MGFlZjkwZmQ1NGFiOTRiODAzZDViNzYzOTZhZA==`
+Snapshot ID: `MjgxNDI3MDEsMDAwMDAwMDAwOGUzZmI0NWFhMGFhOWM0OTA4ZGFkNGI5OGJmNWQ3NQ==`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-642 songs - 1 day 13 hr 45 min
+643 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 | 2021-03-27\* | 2021-12-11 |
 | [Face\-off](https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:49 | 2023-03-25 | 2023-03-28 |
 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-08-29 | 2023-03-05 |
+| [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-07-05 |  |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-09-19 | 2021-09-20 |
 | [far away](https://open.spotify.com/track/7bJ6jD8vlKDU2lmur1lMjp) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [the other side](https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N) | 3:13 | 2022-08-27 | 2022-09-06 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-14 |
@@ -277,7 +278,7 @@
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2022-09-18 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [My Universe \- Instrumental](https://open.spotify.com/track/2sp32rIevQhpbo0Z4aQzoe) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-09-27 |
-| [My You](https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [My You](https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU) | 2:45 | 2023-07-04 |  |
+| [My You](https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [My You](https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU) | 2:45 | 2023-07-04 | 2023-07-06 |
 | [My Youth](https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:56 | 2021-05-12 | 2021-05-15 |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-24 | 2022-11-27 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-16 | 2021-09-07 |
@@ -408,7 +409,7 @@
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-16 | 2022-04-30 |
 | [Tomboy](https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Tomboy](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) | 3:23 | 2021-03-27\* | 2021-04-14 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-05 | 2022-02-07 |
-| [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2022-11-07 | 2023-07-05 |
+| [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2022-11-07 |  |
 | [TRUTH](https://open.spotify.com/track/5fHsQ2MSaBD1wId7lGGBaK) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:06 | 2022-05-24 | 2022-05-27 |
 | [Two](https://open.spotify.com/track/3aAgLPtl0SMPmrY6go45pe) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:15 | 2022-05-24 | 2022-05-27 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-10-30 |
@@ -576,7 +577,7 @@
 | [อยู่ในสาย](https://open.spotify.com/track/1h8WJ1UYHWAwRcXCeBZwiI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [อยู่ในสาย](https://open.spotify.com/album/7fnb8kYvqLTPHVhvFOnyFi) | 3:42 | 2021-05-21 | 2021-05-30 |
 | [อย่าบอกใครนะ](https://open.spotify.com/track/0xG48CBxqMQoYscjjXwD6v) | [SOYBAD](https://open.spotify.com/artist/0TS3m9e5r7Y8Q1jTxaPxcL) | [SOYBAD Vol.1](https://open.spotify.com/album/27U0eRZQHyEe0nkmy3zQby) | 4:48 | 2021-03-27\* | 2021-04-04 |
 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 | 2022-08-27 | 2022-09-18 |
-| [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-08 |  |
+| [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-08 | 2023-07-06 |
 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-29 | 2023-03-31 |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-01-28 | 2022-07-03 |
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-23 | 2022-05-31 |

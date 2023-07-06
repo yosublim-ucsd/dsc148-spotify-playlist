@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Rowjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,081 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,090 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [WHAP](https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [WHAP](https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE) | 2:42 |
 | 75 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 |
 
-Snapshot ID: `MCw2MGUxZWEzNzY3OWNhNjM5MDIxMTdhNDVmNDNkZWRmYjAwNjgxMGM0`
+Snapshot ID: `MCxmNTkwMTcyM2NmMmM3ZGM0YTQwZjJhYWRlNzI4YjI1MjY5Mzc2Zjcy`

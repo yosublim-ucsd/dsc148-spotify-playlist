@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 173758,
+  "num_followers": 173928,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDRhZGRjZDg5ZGVhN2Y1NTA4YjcxNzAzNzVlNzBjMzNmM2IwNDVl",
+  "snapshot_id": "MCw5ZmI5Y2U2NmJjMzRjYjIyNWU4Y2EyMDcyOGZjMWFkNWRhMjg1YmRm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
     },
     {
+      "added_at": "2023-06-30 17:37:09",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "You",
@@ -247,22 +263,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2023-06-30 17:37:09",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -355,22 +335,6 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -399,6 +363,22 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -463,6 +443,26 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
     },
     {
+      "added_at": "2023-06-30 17:37:09",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Broken",
@@ -715,22 +731,6 @@
       "duration_ms": 198451,
       "name": "Broken",
       "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Just Over",
-        "url": "https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/6vOane9RzzOIITCvbHJ6m2"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -751,6 +751,22 @@
       "duration_ms": 244480,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Just Over",
+        "url": "https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/6vOane9RzzOIITCvbHJ6m2"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-06-30 17:37:09",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1141,6 +1141,26 @@
       "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
     },
     {
+      "added_at": "2023-06-30 17:37:09",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Dark Matter",
@@ -1179,26 +1199,6 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2023-06-30 17:37:09",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "This Ain't Real",
-        "url": "https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D"
-      },
-      "artists": [
-        {
-          "name": "MENTIS",
-          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "This Ain't Real",
-      "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 236400,
       "name": "Can't Do Without You",
       "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "This Ain't Real",
+        "url": "https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D"
+      },
+      "artists": [
+        {
+          "name": "MENTIS",
+          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "This Ain't Real",
+      "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
     },
     {
       "added_at": "2023-06-09 04:00:00",

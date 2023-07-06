@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 十明
 
-1,496 songs - 4 day 1 hr 13 min
+1,498 songs - 4 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,7 +642,8 @@
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-05 | 2022-08-10 |
 | [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 | 2023-05-09 | 2023-05-31 |
 | [Shunkan\-reitou love](https://open.spotify.com/track/6HY58ksvkW9V59IDIiVB16) | [ASAKO](https://open.spotify.com/artist/3S9qHbioIFPlDmGq0HYGEd) | [Shunkan\-reitou love](https://open.spotify.com/album/5t9JB7NMoMQrvbILPrGnkl) | 4:24 | 2023-04-18 |  |
-| [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [土岐麻子](https://open.spotify.com/artist/2v3GHWBJprAS0n6tpIx1Oj) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/44G9CppJo6uWZCMFsqZs9b) | 4:21 | 2023-07-04 |  |
+| [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl) | 4:21 | 2023-07-04 |  |
+| [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [土岐麻子](https://open.spotify.com/artist/2v3GHWBJprAS0n6tpIx1Oj) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/44G9CppJo6uWZCMFsqZs9b) | 4:21 | 2023-07-04 | 2023-07-06 |
 | [Silhouette Burn](https://open.spotify.com/track/2RnFiTJllgS1AqSvdJ8zqw) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf), [Sorato](https://open.spotify.com/artist/1qKcWNZYG8jaquH1yDnG4T) | [Silhouette Burn](https://open.spotify.com/album/5OoGb7rmVfrglTFDt9Jg0S) | 3:12 | 2022-09-13 | 2022-09-28 |
 | [silky](https://open.spotify.com/track/0MKUVUddZJj3ZMyEs8rRoa) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [silky](https://open.spotify.com/album/5D4AJjp6ggGo9NvwFs7QAR) | 4:17 | 2023-06-27 | 2023-07-05 |
 | [silky](https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [silky](https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV) | 4:17 | 2023-06-27 | 2023-06-29 |
@@ -661,7 +662,8 @@
 | [Snowdome](https://open.spotify.com/track/0UQB0EldqstsDEJgFabqpH) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Snowdome](https://open.spotify.com/album/1aLZqEnaU9vS2aLfM3nOfZ) | 3:27 | 2022-11-24 | 2022-12-07 |
 | [SNSちゃん](https://open.spotify.com/track/4cOGBxwWU01a3tlzKJGxOt) | [パンのみみ](https://open.spotify.com/artist/530dELmFq9qtCPzkKu3qOd) | [SNSちゃん](https://open.spotify.com/album/2bNTR09zHHZNmI4zAcDbWk) | 3:07 | 2022-07-19 | 2022-07-27 |
 | [So Addictive](https://open.spotify.com/track/6YIWnuY1VEZPdpHybsmLTB) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [So Addictive](https://open.spotify.com/album/5K1JjGbwXIjLyOUAczCgOj) | 4:09 | 2023-02-14 | 2023-05-10 |
-| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [so what?](https://open.spotify.com/track/72bIZnpQgFPjVIscNezRAe) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [so what?](https://open.spotify.com/album/37XuDYvrQvP0uncB0mxmOb) | 3:00 | 2023-05-09 | 2023-05-17 |
 | [Someone To Love](https://open.spotify.com/track/1pUvCQzbPxG75m2Ox3vCEN) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [Someone To Love](https://open.spotify.com/album/6xXhHmcyyhw3QzLkmTI7p7) | 3:30 | 2022-06-07 | 2022-07-28 |
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-03-29 |
@@ -1325,7 +1327,7 @@
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-07 |  |
 | [春にあこがる](https://open.spotify.com/track/1pTlB5PTyK49E2gbEXl0iF) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [春にあこがる](https://open.spotify.com/album/2KPV0B4Z457pHDWdZlu5ps) | 4:04 | 2023-04-11 | 2023-04-19 |
 | [春の嵐](https://open.spotify.com/track/2rLQopphegapsx4uPwpwz7) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Bet On Me](https://open.spotify.com/album/0rTpb9TTasG9osavRMEFD3) | 3:29 | 2023-03-14 | 2023-03-22 |
-| [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 | 2023-05-16 |  |
+| [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 | 2023-05-16 | 2023-07-06 |
 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 | 2023-02-28 |  |
 | [時をかける少女](https://open.spotify.com/track/7tKXX85MSaVD5ctgS8WelE) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 3:22 | 2022-11-01 | 2022-12-14 |
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2022-12-21 |
@@ -1470,7 +1472,7 @@
 | [都会の森](https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [MEBAE](https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi) | 4:37 | 2022-06-07 | 2022-07-28 |
 | [都会ガール \- DE DE MOUSE 都会1988 Mix](https://open.spotify.com/track/6qE0R51Y2ipO1x1bNPuv4O) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [都会ガール \(DE DE MOUSE 都会1988 Mix\)](https://open.spotify.com/album/5RFfoobiLbmSDJ0uHry30a) | 3:12 | 2022-11-15 | 2022-11-23 |
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-05-29 | 2022-07-29 |
-| [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 | 2022-08-09 | 2023-05-09 |
+| [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 | 2022-08-09 |  |
 | [針が進む](https://open.spotify.com/track/1zFziWIZfb58Vk11aB6e0L) | [成田あより](https://open.spotify.com/artist/7MX2gMsKCZU1PcsL40wzNQ) | [針が進む](https://open.spotify.com/album/3A1ly5MHBI1i60t5XalAIN) | 3:58 | 2022-11-10 | 2022-11-16 |
 | [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 | 2022-10-01 |
 | [阿佐ヶ谷音頭](https://open.spotify.com/track/7KwB5s3fkbGVglP4bnrzLs) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [阿佐ヶ谷音頭](https://open.spotify.com/album/7LCH6Fs2vYeSiNvoP9wRCU) | 3:26 | 2023-07-04 |  |

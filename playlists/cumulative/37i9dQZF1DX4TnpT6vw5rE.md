@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-242 songs - 14 hr 34 min
+243 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 |  |
 | [Contrails](https://open.spotify.com/track/6mInCiYvOXj9jKXJKKMUTG) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 4:21 | 2021-01-07 | 2021-05-27 |
 | [Crystal Clear](https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:15 | 2022-04-21 |  |
+| [Dalam Masa Ini](https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Dalam Masa Ini](https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA) | 2:14 | 2023-06-23 |  |
 | [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 |  |
 | [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 | 2021-10-09 | 2023-06-27 |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-12-08\* | 2021-09-17 |
@@ -175,7 +176,7 @@
 | [Perfect Morning \- Speck from CYNE Remix](https://open.spotify.com/track/1KSv7wt8YplLa5useD2I0D) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA), [Speck From CYNE](https://open.spotify.com/artist/5xdr4nT8gezbvSBLn2jyRz) | [The Branches \(Deluxe Edition\)](https://open.spotify.com/album/6DsdLxkHx1VlKvLxa2Y57w) | 4:24 | 2021-01-15 | 2021-05-27 |
 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 | 2020-12-08\* |  |
 | [Poa Alpina](https://open.spotify.com/track/1TCkrnjuurf0DNLLoJxVyd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata](https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B) | 4:10 | 2020-12-08\* | 2021-03-06 |
-| [Polar Descent](https://open.spotify.com/track/7qvIhhgREvAP8sf8osi9MY) | [Vintervik](https://open.spotify.com/artist/6zxCk9vrnR3osLLRLstx6y) | [Polar Descent](https://open.spotify.com/album/04Al6Caxdl5og4JyBoKxvC) | 2:26 | 2021-10-21 |  |
+| [Polar Descent](https://open.spotify.com/track/7qvIhhgREvAP8sf8osi9MY) | [Vintervik](https://open.spotify.com/artist/6zxCk9vrnR3osLLRLstx6y) | [Polar Descent](https://open.spotify.com/album/04Al6Caxdl5og4JyBoKxvC) | 2:26 | 2021-10-21 | 2023-07-06 |
 | [Porcelain](https://open.spotify.com/track/4pzv4KCrHJJneaIbmZTJ9Y) | [Aeuria](https://open.spotify.com/artist/1U8stB5JKpJA7atRjrlVtF), [Bijou](https://open.spotify.com/artist/569eb22oPAh6r0CaVsuGto) | [Collection](https://open.spotify.com/album/4724X87VNQtZQSovmdwXJR) | 4:35 | 2021-01-15 | 2021-03-18 |
 | [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-24 |  |
 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 | 2020-12-08\* |  |

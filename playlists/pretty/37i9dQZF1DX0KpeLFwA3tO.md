@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,398 likes - 125 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,446 likes - 125 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [A Cow to Milk](https://open.spotify.com/track/5e5fS4bgmZnMgBw95aHEis) | [All Coasted](https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6) | [A Cow to Milk](https://open.spotify.com/album/4wNS3fZuQ4RIcJgbpbTUbw) | 1:57 |
 | 125 | [The Fix is In](https://open.spotify.com/track/2qomvQ7wDDJk3tBu1pOeEN) | [Geld](https://open.spotify.com/artist/2I57IxnW6Ee0lhtQTcwNrn) | [The Fix is In](https://open.spotify.com/album/3ZWi4sn3TBkIBgh9nFaj8r) | 3:27 |
 
-Snapshot ID: `MCwwYWI0Y2MwNWZiNWRkZGI5YTM3Y2FmNmQ3NGUzZjI1MzBkYjBkZDM3`
+Snapshot ID: `MCw5YzlmYWYzMTMzYzNhYTU2ZTkyZTFkMTk3ODg2YTlkYjY0YjMzNTVl`

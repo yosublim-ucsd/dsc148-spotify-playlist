@@ -1,12 +1,12 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 233498,
+  "num_followers": 233687,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJjMDNmZTliNWNkYjE2N2YzOTlmZGNhZTMyZDIwZDc2NWJlYThk",
+  "snapshot_id": "MCwwYWRiZDBlNjdkNzkzYWY1YjFiOTY0ODRmYjAwZWM5ZDVmZTZkMWFm",
   "tracks": [
     {
       "added_at": "2023-07-03 20:41:06",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "No Eres La Oficial",
         "url": "https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 200449,
       "name": "No Eres La Oficial",
       "url": "https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -763,22 +763,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Est\u00e1 Noche",
-        "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
       "artists": [
         {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 124267,
-      "name": "Est\u00e1 Noche",
-      "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
+      "duration_ms": 205420,
+      "name": "\u00bfPor Que Me Enamor\u00e9?",
+      "url": "https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -799,18 +795,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Est\u00e1 Noche",
+        "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
         }
       ],
-      "duration_ms": 205420,
-      "name": "\u00bfPor Que Me Enamor\u00e9?",
-      "url": "https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez"
+      "duration_ms": 124267,
+      "name": "Est\u00e1 Noche",
+      "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "D\u00e9jame Ser",
-        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
+        "name": "Sad Boy Shit",
+        "url": "https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 188500,
-      "name": "D\u00e9jame Ser",
-      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
+      "duration_ms": 276973,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Sad Boy Shit",
-        "url": "https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00"
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 276973,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7"
+      "duration_ms": 188500,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Olvidarte",
         "url": "https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 116758,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Si\u00e9ntelo a Tu Modo",
-        "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
+        "name": "Enfocado En El Dinero",
+        "url": "https://open.spotify.com/album/55T4LYvqAuQXqlpWyi2NKC"
       },
       "artists": [
         {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        },
-        {
-          "name": "Gabino Montalvo",
-          "url": "https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6"
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
         }
       ],
-      "duration_ms": 224738,
-      "name": "La \u00danica",
-      "url": "https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg"
+      "duration_ms": 152925,
+      "name": "Enfocado En El Dinero",
+      "url": "https://open.spotify.com/track/56fow2b87Gvm4FDqIhiutA"
     }
   ],
   "unique_name": "#SadCuhHours \ud83d\udc94",

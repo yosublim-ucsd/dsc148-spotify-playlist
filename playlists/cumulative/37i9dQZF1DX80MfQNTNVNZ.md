@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-396 songs - 23 hr 42 min
+397 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-07 | 2022-09-29 |
 | [take it easy.](https://open.spotify.com/track/1PNz8GPDAkQdFU19Ienmnr) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 3:08 | 2022-11-17 | 2023-01-13 |
 | [Take Time \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Untidy Soul](https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w) | 3:43 | 2022-02-10 | 2022-07-29 |
-| [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-07-28 |  |
+| [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-07-28 | 2023-07-06 |
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-12-23 | 2022-07-25 |
 | [Talk About It](https://open.spotify.com/track/3mIK4mZ6dZbKNXU6yofkxB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/4VCxXlazmRGUPkMyir90Jr) | 3:24 | 2022-03-24 | 2022-04-18 |
 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/2FuMGSJC5lI08kWandk65f) | 4:54 | 2021-12-23 | 2022-06-07 |
@@ -346,6 +346,7 @@
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2021-12-23 | 2022-07-24 |
 | [Time Machine](https://open.spotify.com/track/7jaRUZ8V1ilINYddN4wtrB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Time Machine](https://open.spotify.com/album/0BXH5e0AzD0Dn7x5u2y02n) | 5:30 | 2021-12-23 | 2022-07-27 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-03-24 | 2022-04-09 |
+| [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-30 |  |
 | [Together](https://open.spotify.com/track/06z7jpfrhxPSQ4QXnklazv) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [HALINA](https://open.spotify.com/artist/0PfUZvZ6c8KPCq3BSKiIpp) | [When Life Presents Obstacle](https://open.spotify.com/album/7ffQYP9KLpPkr73BW4hR8r) | 3:14 | 2022-11-24 | 2022-12-16 |
 | [Too Good](https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/1UHp6VpoVu9tCdc33Ulr4g) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 | 2021-12-23 | 2022-11-13 |

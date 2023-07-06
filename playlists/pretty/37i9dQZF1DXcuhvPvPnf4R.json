@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 5893,
+  "num_followers": 5910,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTkwMmEwNGMzNGY0NTQwMGI0MTc4MmZlZGVmMTRmYWU1OGZmZTBj",
+  "snapshot_id": "MCxmY2VmOTNmZWViMTQ2NjI3MWI5NzBmNTk4NTcyMWYzOTQ1M2JjNjg3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Reggae Gold 2002",
-        "url": "https://open.spotify.com/album/6JPjYKnOWIzK5k6RlhUWMv"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/2M2zpLfK5GaNKA5PINPP0b"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Ragga Ragga Ragga 2007",
         "url": "https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 236120,
       "name": "Reverse Di Ting",
       "url": "https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Reggae Gold 2002",
+        "url": "https://open.spotify.com/album/6JPjYKnOWIzK5k6RlhUWMv"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/2M2zpLfK5GaNKA5PINPP0b"
     },
     {
       "added_at": "2022-10-01 16:43:03",

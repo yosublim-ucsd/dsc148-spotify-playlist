@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 138133,
       "name": "cherry cigarettes",
       "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
@@ -14960,6 +14960,32 @@
       "duration_ms": 172893,
       "name": "weekends",
       "url": "https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk"
+    },
+    {
+      "album": {
+        "name": "Flooding the Gates",
+        "url": "https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ouse",
+          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145503,
+      "name": "welcome to my world",
+      "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
     },
     {
       "album": {

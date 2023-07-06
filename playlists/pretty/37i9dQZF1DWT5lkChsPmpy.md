@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,467 likes - 235 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,671 likes - 235 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 62 | [MYSA](https://open.spotify.com/track/69ylUPLusue7f4Q1fyiEdr) | [Anitek](https://open.spotify.com/artist/0Idi5CuVXznxRkxzdUtdcQ) | [MYSA](https://open.spotify.com/album/5JJ4qtCv1tbWT1cp6jWac6) | 2:30 |
 | 63 | [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 |
 | 64 | [Daisy\-Chain](https://open.spotify.com/track/6Bk42XX8jPED540IlNEvsr) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Daisy\-Chain](https://open.spotify.com/album/3cKoDYDdo4OnTRWydsyWCt) | 2:10 |
-| 65 | [A Better Tomorrow](https://open.spotify.com/track/6Oh1N2s9t02iwmOvCL9sj6) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT) | 2:08 |
+| 65 | [A Better Tomorrow](https://open.spotify.com/track/37TzHYPlhpOZ48aULkI15n) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/4TC77jN3S5fWwv2vnBSVJf) | 2:08 |
 | 66 | [END OF AN ERA](https://open.spotify.com/track/4hE5FiwnpFjG6PEWF9SbED) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [END OF AN ERA](https://open.spotify.com/album/3C1PAj2sewEbNdIs8axBAM) | 1:56 |
 | 67 | [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 |
 | 68 | [Don't Fall](https://open.spotify.com/track/0JCNrm6tZAnEdAIWQpVevl) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Rubus](https://open.spotify.com/artist/7jaMbya54ZRcqETDqAPv85) | [Don't Fall](https://open.spotify.com/album/76gmo70ondGPTnx14vHymw) | 2:00 |
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 215 | [Waves](https://open.spotify.com/track/5tO9k8v6sh7OTZoX3vycwU) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp) | [Waves](https://open.spotify.com/album/14IDQwXQP5FZpuQMQz1TWJ) | 1:49 |
 | 216 | [Avalanche](https://open.spotify.com/track/0VMEBEpEWY56jW7ud5aT94) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe) | [Avalanche](https://open.spotify.com/album/1Y2H8LXdK9uu2rfk1em2Lg) | 1:44 |
 | 217 | [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 |
-| 218 | [Sensations](https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT) | 2:30 |
+| 218 | [Sensations](https://open.spotify.com/track/4VtYPgDwi44SQVpMUOcVrz) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/0lBaFFdmUJiPEx3vuHWkgX) | 2:30 |
 | 219 | [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 |
 | 220 | [Cosmic Trip](https://open.spotify.com/track/5vvKcQkqVa10CxOzOylWWv) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Cosmic Trip](https://open.spotify.com/album/5cGfxg4XucEAk4yYy5PYg2) | 2:00 |
 | 221 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 234 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 | 235 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MCxhZTI2ZDA5ZTM0YmUyNDBiZGU0ZmE3ZjA4NzI4MDRjZDJhNzNlNzU1`
+Snapshot ID: `MCwyM2NiOTk1ZGRkM2FhYTBjZjBlMDEwYTVhMDJmMTlhZGQ2YTIzM2U1`

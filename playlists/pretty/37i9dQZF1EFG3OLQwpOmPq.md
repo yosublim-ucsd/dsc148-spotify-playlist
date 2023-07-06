@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 995 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 17 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 |
 | 18 | [K.](https://open.spotify.com/track/1n4ngnAbnYsfvMRuDB6du3) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [K.](https://open.spotify.com/album/13cjffeJAT5ITEH07iWsP5) | 3:06 |
 | 19 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 |
-| 20 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
-| 21 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
+| 20 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
+| 21 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
 | 22 | [mess without u](https://open.spotify.com/track/6jrdQDuG6OiLvbBU7zL1b8) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/4cGO1Zt2uM6G97rUIcQIJI) | 3:14 |
 | 23 | [Give It All](https://open.spotify.com/track/7FpR0I8rasWqpct44KQBnR) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/5ghCLfm6BWAivnIQ3Jd0nD) | 3:12 |
 | 24 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgxNDIwNjAsMDAwMDAwMDBkNWJhYTc1MWViYjliZDE1MzUzMmIwNmFiYmJmOWU1Mw==`
+Snapshot ID: `MjgxNDM1MDAsMDAwMDAwMDA0MTk5ZGY5OGU0ZGE0Njc2ODAzNGIwNjFhZTA4Njg3Yw==`

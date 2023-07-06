@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-66 songs - 3 hr 55 min
+67 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-09-09 |  |
 | [Mê](https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Mê](https://open.spotify.com/album/48ZqlDgLxU4jjkUGnopIFk) | 3:38 | 2022-09-09 |  |
 | [Mưa Ơi Đừng Rơi](https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Mưa Ơi Đừng Rơi](https://open.spotify.com/album/0oEecgtZQYMnTZpP1fSQMf) | 3:29 | 2023-04-29 |  |
+| [ngày mây đen](https://open.spotify.com/track/57dSk370IBJTwMgyE5cAUI) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Paylist](https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3) | 2:58 | 2023-07-05 |  |
 | [NICOT!NE](https://open.spotify.com/track/6bHUW6F0VTOHoiXVX7IjHA) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [NICOT!NE](https://open.spotify.com/album/5y7rMRphWLC64hLb2OUwr8) | 3:44 | 2022-09-09 |  |
 | [Nếu Ngày Mai Tôi Không Trở Về](https://open.spotify.com/track/33Lp6YwMsoES08PFMHgO28) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 3:53 | 2023-04-13 |  |
 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 | 2022-09-09 | 2023-06-23 |

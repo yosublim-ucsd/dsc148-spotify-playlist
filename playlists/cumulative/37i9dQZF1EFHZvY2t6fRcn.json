@@ -1261,6 +1261,28 @@
     },
     {
       "album": {
+        "name": "How Soon",
+        "url": "https://open.spotify.com/album/1JL6Vatn02HjOJtxL1eHrt"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        },
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189740,
+      "name": "How Soon",
+      "url": "https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP"
+    },
+    {
+      "album": {
         "name": "I Don't Love You",
         "url": "https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E"
       },
@@ -1916,6 +1938,24 @@
       "duration_ms": 206360,
       "name": "Stroke",
       "url": "https://open.spotify.com/track/01a0H5HPeCMOktdRMygi3t"
+    },
+    {
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq"
+      },
+      "artists": [
+        {
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178454,
+      "name": "Super 8",
+      "url": "https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs"
     },
     {
       "album": {

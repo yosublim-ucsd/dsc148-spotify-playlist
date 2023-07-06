@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり\(Haru Nemuri\)
 
-577 songs - 1 day 7 hr 16 min
+578 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 |  |
-| [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 |  |
+| [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 | 2023-07-06 |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 |  |
 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-13 |
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 | 2022-09-15 |
@@ -457,7 +457,8 @@
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-16 | 2022-09-15 |
 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 | 2023-05-24 |
-| [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 |  |
+| [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-04 |  |
+| [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 | 2023-07-06 |
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |
 | [グッドバイ](https://open.spotify.com/track/7nMbUWh4wAmdVPy5FWW7Aa) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [MIGHTY MOUNTAINS](https://open.spotify.com/album/3meQjVI8X0PezEQtkhJ1rS) | 2:42 | 2022-05-19 | 2022-07-03 |
 | [サイコーサイコー](https://open.spotify.com/track/1oL4bX4VeHl3wgOPSXK7xQ) | [3SET\-BOB](https://open.spotify.com/artist/4WcDR835C8UDz2Ul0L7lt6) | [サイコーサイコー](https://open.spotify.com/album/19lzPEo30rzNkKUayXwmbe) | 3:58 | 2023-06-13 | 2023-06-28 |
@@ -506,7 +507,7 @@
 | [世界は君たちを変えることは出来ない](https://open.spotify.com/track/6PPb7FGy66aYw8Yc4J8ThO) | [SEVENTEEN AGAiN](https://open.spotify.com/artist/44vCIlLzyYUo6UQ2s4huqu) | [世界は君たちを変えることは出来ない](https://open.spotify.com/album/5rIWnaKZ3pMNoA6gImSvrh) | 2:01 | 2022-05-17 | 2022-07-26 |
 | [世界を終わらせて](https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 3:53 | 2023-01-05 |  |
 | [二億の青春](https://open.spotify.com/track/49U4zyI2hPomIbh9Ip7pPj) | [リトルスクーター](https://open.spotify.com/artist/5Os224clHj9KZXYrcFIm96) | [二億の青春](https://open.spotify.com/album/0UvYArQl0ZPOtr5WeSUhe1) | 2:41 | 2022-12-20 | 2022-12-28 |
-| [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 | 2022-05-12 | 2023-06-14 |
+| [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 | 2022-05-12 |  |
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-12 | 2022-07-26 |
 | [僕たちの答え](https://open.spotify.com/track/54pUQTIJbvTwQKbijC1GJN) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [まなつのこれからのこと。](https://open.spotify.com/album/1D7lTBazoisPkoduthc72O) | 4:03 | 2022-05-17 | 2022-07-24 |
 | [僕らは…](https://open.spotify.com/track/6pyM8gK1E8Q3vDbO8saYar) | [Taiyouzoku](https://open.spotify.com/artist/4kfInRl2ECNUxMOjZAEHco) | [手をつなごう](https://open.spotify.com/album/3owol0mZK4CUhpzQ5mWwqT) | 3:32 | 2022-06-14 | 2022-07-12 |

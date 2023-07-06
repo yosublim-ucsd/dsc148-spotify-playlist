@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martina May
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,933 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,936 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 35 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 | 36 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
 | 37 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 |
-| 38 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 |
+| 38 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [ORLVNDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 |
 | 39 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 |
 | 40 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 |
 | 41 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 |
 | 65 | [Sabbie Mobili \(feat\. Davide Shorty\)](https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7) | [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Sangò](https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T) | 3:28 |
 
-Snapshot ID: `MCw5ODM2MWI1N2Y3ZTZkMDAxZjVkNWYwYTE4ZTRiMzE5MTFmZGYzZTJh`
+Snapshot ID: `MCw5YmUxMWNkNWJkNGYyYTVmM2Q1YTZiMzk4NmMwNjI0MDY0Mzk0ZTc3`

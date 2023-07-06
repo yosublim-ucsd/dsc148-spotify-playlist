@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Cantamores en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,739 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,761 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 69 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
 | 70 | [Migas de Pan](https://open.spotify.com/track/0BHkbp6rhWlfNTsDagl1ib) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Migas de Pan](https://open.spotify.com/album/7ezflwSFfjpqAWJ222pe0y) | 3:09 |
 | 71 | [Lo Que Decías](https://open.spotify.com/track/6muVkSRvVLmNbEW1adqRXF) | [Laura Guevara](https://open.spotify.com/artist/45hNgINTIzIiz2axx5EiBL) | [Lo Que Decías](https://open.spotify.com/album/5iovcKH8OK6p5VnYJAm6x7) | 2:53 |
-| 72 | [Lecciones De Una Vida Cagándola En El Amor \- Versión Acústica](https://open.spotify.com/track/3zxcgvrX1RccyFZpcWnZpU) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Lecciones De Una Vida Cagándola En El Amor \(Versión Acústica\)](https://open.spotify.com/album/2FHJexkL7VjQkQaLbmOtMY) | 3:12 |
-| 73 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 |
+| 72 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 |
+| 73 | [Lecciones De Una Vida Cagándola En El Amor \- Versión Acústica](https://open.spotify.com/track/3zxcgvrX1RccyFZpcWnZpU) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Lecciones De Una Vida Cagándola En El Amor \(Versión Acústica\)](https://open.spotify.com/album/2FHJexkL7VjQkQaLbmOtMY) | 3:12 |
 | 74 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 |
 | 75 | [Donde Nadie](https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Donde Nadie](https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT) | 2:32 |
 
-Snapshot ID: `MCwwYjFkYzBjZWI1NGU4NTIxZGU1NDY3NjA4NGU4ZjM5YTA1YTRiNDMy`
+Snapshot ID: `MCxlM2MzNTk3ZjhiZDg5MThhMzBmMjcxYWUzZTBiNjZjZDAxZjljODVm`

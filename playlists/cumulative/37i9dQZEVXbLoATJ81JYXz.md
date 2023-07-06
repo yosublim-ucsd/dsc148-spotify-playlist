@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,407 songs - 3 day 0 hr 38 min
+1,408 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,6 +771,7 @@
 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 | 2021-08-15 | 2021-09-21 |
 | [Love N Affection](https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Love N Affection](https://open.spotify.com/album/1apurOf1HMNvY3kzGb3OgH) | 2:59 | 2022-05-03 | 2022-05-15 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-20 | 2021-11-21 |
+| [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-05 |  |
 | [Loyal](https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:08 | 2022-09-03 | 2022-11-27 |
 | [Lucia \(Så mörk är natten\)](https://open.spotify.com/track/4fXpKspFnY2bbjZDiUgOZS) | [Adolf Fredriks Musikklasser](https://open.spotify.com/artist/60BNhPmsrBop6PQv3QnZH0) | [Jul & Lucia med Adolf Fredriks Musikklasser](https://open.spotify.com/album/5qCzXQysDZ8bQbqknkZQfx) | 1:20 | 2022-12-14 | 2022-12-20 |
 | [LUFT FÖR MIG](https://open.spotify.com/track/2L6eCNSJ5dZ7o8Wx57bcSy) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [LUFT FÖR MIG](https://open.spotify.com/album/7ecRWkPFYZZeSnyKZdbifH) | 2:28 | 2023-02-25 | 2023-02-27 |
@@ -799,7 +800,7 @@
 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2021-09-05 | 2021-09-07 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-23 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-11-28 | 2022-04-26 |
-| [Mandy Moore](https://open.spotify.com/track/2vD1hN8Oxqfh4umefOVIqP) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Hov1](https://open.spotify.com/album/4ywveb2hXShvgJtEHfCb5z) | 3:29 | 2023-04-09 |  |
+| [Mandy Moore](https://open.spotify.com/track/2vD1hN8Oxqfh4umefOVIqP) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Hov1](https://open.spotify.com/album/4ywveb2hXShvgJtEHfCb5z) | 3:29 | 2023-04-09 | 2023-07-06 |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-01-22 | 2022-05-08 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-05-07 | 2022-08-07 |
 | [Many Men](https://open.spotify.com/track/04o5XzF41xA6NyMDcBW0oh) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:32 | 2023-03-18 | 2023-04-16 |

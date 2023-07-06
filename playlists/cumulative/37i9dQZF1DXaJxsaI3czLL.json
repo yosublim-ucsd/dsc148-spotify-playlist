@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 240886,
       "name": "hello",
       "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 344749,
       "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
       "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"

@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 254750,
+  "num_followers": 254813,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -455,22 +455,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 205564,
       "name": "I would",
       "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
@@ -595,6 +579,22 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-06-07 08:01:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC"
       },
       "artists": [
         {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
     }
   ],
   "unique_name": "Mellow Mood",

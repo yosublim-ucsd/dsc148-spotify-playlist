@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Sampha
 
-889 songs - 2 day 0 hr 3 min
+890 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [mine](https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:58 | 2021-06-25 | 2022-07-28 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-04-01 | 2022-04-13 |
 | [MiSS BEHAVE](https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:53 | 2023-05-05 | 2023-06-10 |
+| [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 | 2023-05-05 |  |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-03-19 | 2022-07-30 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-03-19 | 2022-07-29 |
 | [Moderation](https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 2:03 | 2023-06-09 |  |
@@ -845,8 +846,8 @@
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 | 2022-10-08 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-23 | 2022-01-29 |
 | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/72AK6S3YqO2UNdrhtoN8vu) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [West Like \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/5lkzzFYLVQ4PAjCM32Ef7m) | 3:01 | 2022-04-01 | 2022-04-07 |
-| [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-11 |  |
-| [what comes next \(feat\. 24hoursav & Dua Saleh\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 | 2023-06-30 |  |
+| [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-11 | 2023-07-06 |
+| [what comes next \(feat\. 24hoursav\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 | 2023-06-30 |  |
 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 | 2021-03-19 | 2022-07-01 |
 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 | 2023-01-13 | 2023-01-28 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-01 | 2022-08-09 |

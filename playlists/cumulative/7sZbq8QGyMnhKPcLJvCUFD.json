@@ -5147,6 +5147,32 @@
     },
     {
       "album": {
+        "name": "Sinister",
+        "url": "https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e"
+      },
+      "artists": [
+        {
+          "name": "MADZI",
+          "url": "https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K"
+        },
+        {
+          "name": "SVRT",
+          "url": "https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z"
+        },
+        {
+          "name": "Chilly",
+          "url": "https://open.spotify.com/artist/17gEZfnDOMRVsb8Wq5Rilu"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175176,
+      "name": "Sinister",
+      "url": "https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy"
+    },
+    {
+      "album": {
         "name": "Sinking Ship",
         "url": "https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs"
       },

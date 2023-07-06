@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,716 likes - 101 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,762 likes - 101 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Need To Know](https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Need To Know](https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ) | 2:54 |
 | 101 | [Do Si Do](https://open.spotify.com/track/0lXjag7QhbY2UQdbKKLpQR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Do Si Do](https://open.spotify.com/album/2X1iXLehHwCZsP2BXEiEGg) | 2:38 |
 
-Snapshot ID: `MCwwZGY2ZWI2Y2Y1ZmE5ODQyMjRhMTY4YWQzMmJmMjA3MTI3YWYxYTg3`
+Snapshot ID: `MCxmYmQ4MGQwNTE5NjQzNzUzNDkxMWNiMzEzZWU2YWE3MDM0Y2UyMmMz`

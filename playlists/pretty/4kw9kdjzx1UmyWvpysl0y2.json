@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127222,
+  "num_followers": 127230,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMwMCxhMmU0ZGJiYTNiOWVkZjYyMTQ2ZDlmZDA0NzI4MjFmNjM5MjY2NDQ5",
+  "snapshot_id": "NDMwMiw0MDdhMDNiMzM0NjBmMzI5NGQxMzI4YmMzNmFkOWYzOWIyMzFhM2Vi",
   "tracks": [
+    {
+      "added_at": "2023-07-05 20:53:31",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
+    },
     {
       "added_at": "2023-07-04 19:14:35",
       "album": {
@@ -1127,30 +1147,6 @@
       "duration_ms": 193064,
       "name": "Never Let You Down",
       "url": "https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri"
-    },
-    {
-      "added_at": "2023-04-12 16:30:53",
-      "album": {
-        "name": "I'll Be Waiting",
-        "url": "https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        },
-        {
-          "name": "NAZAAR",
-          "url": "https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h"
-        },
-        {
-          "name": "Dani King",
-          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
-        }
-      ],
-      "duration_ms": 248064,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 624592,
+  "num_followers": 624765,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTYyNWUyZGQzMzBhY2ZjNDM5YTAxMDMxMWI2MDIyM2IzOGQ5OTRk",
+  "snapshot_id": "MCwxZTVmZWY5MWM5ODI1ZmM2M2RkMjUyZTNkMjhhYTlhYWU2NmYyN2I3",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "2 A.M.",
+        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 182966,
+      "name": "Solo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "2 A.M.",
-        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 182966,
-      "name": "Solo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1007,42 +1007,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7HJZtsBK6ZGBaWYsytLRMS"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/7BZ7GXpMNWHicUfxX9rT2f"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
@@ -1055,6 +1019,38 @@
       "duration_ms": 132000,
       "name": "Elefante Rosado",
       "url": "https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7HJZtsBK6ZGBaWYsytLRMS"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7BZ7GXpMNWHicUfxX9rT2f"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-02-24 17:40:22",

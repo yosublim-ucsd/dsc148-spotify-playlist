@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-51 songs - 2 hr 3 min
+52 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dalia](https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Dalia](https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV) | 2:53 | 2023-06-26 |  |
 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 | 2023-06-26 |  |
 | [En el Tianguis Lo\-Fi](https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Tianguis Lo\-Fi](https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF) | 5:19 | 2023-06-26 |  |
+| [Estoy Ahí](https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz) | [Mystérika](https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC) | [El Comienzo](https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN) | 3:56 | 2023-06-26 |  |
 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 | 2023-06-26 |  |
 | [Girasoles](https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Girasoles](https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv) | 2:03 | 2023-06-26 |  |
 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 | 2023-06-26 |  |
@@ -37,7 +38,7 @@
 | [Happy To Help](https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W) | [Happy To Help](https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp) | 1:52 | 2023-06-26 |  |
 | [Hotel Lounge in Havana](https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Hotel Lounge in Havana](https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK) | 1:55 | 2023-06-26 |  |
 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 | 2023-06-26 |  |
-| [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 | 2023-06-26 |  |
+| [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 | 2023-06-26 | 2023-07-06 |
 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 | 2023-06-26 |  |
 | [love in medellín](https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [love in medellín](https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA) | 1:49 | 2023-06-26 |  |
 | [Mi Pueblo](https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Mi Pueblo](https://open.spotify.com/album/02WfhEBpCed81725wg1lsx) | 1:54 | 2023-06-26 |  |

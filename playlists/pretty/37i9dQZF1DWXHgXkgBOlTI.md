@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Liquid Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,412 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,432 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 9 | [TODAY FOR TOMORROW](https://open.spotify.com/track/0U9H1eQwLJ2kj38YECFHmW) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW BEGINNING LIVE CD \(LIVE at EX THEATER ROPPONGI Dec.11.2022\)](https://open.spotify.com/album/2tKE9zMrM94q49najsX1Ff) | 4:48 |
 | 10 | [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 |
 | 11 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 |
-| 12 | [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 |
+| 12 | [Vanish, Memoria](https://open.spotify.com/track/0ydSsuw2ZHOvxHz2nGnSKn) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Vanish, Memoria](https://open.spotify.com/album/6NlA8uUULRclXbQLOFgicg) | 4:56 |
 | 13 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 |
 | 14 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
 | 15 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
 | 50 | [Horns Riot](https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [Horns Riot](https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6) | 4:07 |
 
-Snapshot ID: `MCxhNjYzNjBjOTkyYTliZjRlNzRhNjI4NTA2ZDFiMWQwMTVlM2ZhMGQz`
+Snapshot ID: `MCwyMzljZDAxZmNkYWJmYzZmYWNiZGI4MjhjMWY4YTQyNDE4MzU3ZDI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,483 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,490 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 7 | [L'explorateur \- Endrik Schroeder Bocca 89 Tribute](https://open.spotify.com/track/17sZ1W5hcLi04RPeMAGPBS) | [Mullet Bros](https://open.spotify.com/artist/05znHM0mbC7uYmoHoLd1JI), [Endrik Schroeder](https://open.spotify.com/artist/36iWQyhQMf8sGugNrftuxl) | [Vice City Remixes](https://open.spotify.com/album/26oJ7ABrL46liQsWkJ2v4A) | 5:38 |
 | 8 | [Spike Express](https://open.spotify.com/track/2hkSfj0sGHUvFLTuhhTudT) | [Fedele](https://open.spotify.com/artist/34gSgmoLZ10KRzLjouK868) | [Spike Express](https://open.spotify.com/album/75dI1gSm3IOXdLzNthxaIZ) | 6:20 |
 | 9 | [Mission Control](https://open.spotify.com/track/3bLBYZxxhBwvmLdnoTHtf9) | [Cemos](https://open.spotify.com/artist/2LNZBpwdXwJHtXxGGNYVfo) | [Writers on Wax: The Sound of Graffiti Volume 2](https://open.spotify.com/album/4DGcQzb4hh0vqNgAG2qUqG) | 7:27 |
-| 10 | [The Gallery \- Chloé Remix](https://open.spotify.com/track/2J5V3T0YrehsW3p7NaY07m) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Whalesharkattacks](https://open.spotify.com/artist/30OJnpvrGlgy5EAtKRBPpJ), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Remixes from The End of The World](https://open.spotify.com/album/6ZMn6KnnTuI9L0vNlV8Egi) | 7:16 |
+| 10 | [The Gallery \- Chloé Remix](https://open.spotify.com/track/2J5V3T0YrehsW3p7NaY07m) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Whalesharkattacks](https://open.spotify.com/artist/30OJnpvrGlgy5EAtKRBPpJ), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Remixes from The End of The World](https://open.spotify.com/album/6ZMn6KnnTuI9L0vNlV8Egi) | 7:16 |
 | 11 | [Sorrow \- Space Dub](https://open.spotify.com/track/678h1jyZuE67NfTTMmVzrw) | [Aroy Dee](https://open.spotify.com/artist/4NH7VqENOCcI9TZYyENOyq), [Spaventi](https://open.spotify.com/artist/2ojsrTB6MmHfchmFLmg75I), [J.C.](https://open.spotify.com/artist/64TpWYBtJCymUMVmbQRkjl) | [Sorrow](https://open.spotify.com/album/7yx96x8sBiH6cUxLl0y7nS) | 7:35 |
 | 12 | [Acid Hand](https://open.spotify.com/track/3VyHbLC8CQsDcZ6tvn3f1K) | [Alberto Melloni](https://open.spotify.com/artist/67hlOZedFK95QfgY1LaUkB) | [Acid Hand](https://open.spotify.com/album/7jMocE4AYA2zrYdtPletm7) | 5:03 |
 | 13 | [Ego Slave](https://open.spotify.com/track/30YEBl0CGsutXOliPVAaiU) | [Reda Saiarh](https://open.spotify.com/artist/6ujeoTErI7kYUguUBuCDzE) | [Ego Slave](https://open.spotify.com/album/4vZvQYOe3OrKXZmGso8hSd) | 6:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Love Love Love](https://open.spotify.com/track/5S1drMAStkabK0PZsOkfiE) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Love Love Love](https://open.spotify.com/album/5GuOoK1aW5vLiMQA33OLPN) | 2:49 |
 | 70 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [绿帽 Green Hat](https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD) | 3:45 |
 
-Snapshot ID: `MCw1YWJmZGJjZjA3OTljOTNkNzgxYTc0NmY4NjFjMjczOTBkMWExOTFk`
+Snapshot ID: `MCw3ZGQ1ODMwMTMzMmQ0YzgwNDhhMDhjMjQyMjZlNDEyZGMyM2Q3YTI3`

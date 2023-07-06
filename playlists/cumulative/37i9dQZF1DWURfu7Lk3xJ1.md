@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-384 songs - 14 hr 46 min
+385 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [The Love We Had](https://open.spotify.com/track/2nOen5SVolznA8GyjU2aWr) | [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs), [Curli](https://open.spotify.com/artist/5GijhRedouPc1FqLfW09FT) | [The Love We Had](https://open.spotify.com/album/4LPKx9a1nV2IjzbQmASf3S) | 2:24 | 2022-09-30 |  |
 | [The Nervous Start](https://open.spotify.com/track/5bokIgCf4mC2fgwjWXGw3n) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Crispy](https://open.spotify.com/artist/0FeKA3PTgdvhkEPyuVNJ8g) | [The Nervous Start](https://open.spotify.com/album/65zdZntEGGknkKd2gHCvNN) | 2:10 | 2023-01-06 |  |
 | [The Sanctuary](https://open.spotify.com/track/5qLcBKR3trt9qU20VRcD2g) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [A World Away](https://open.spotify.com/album/5M78vLqMdvjOfdHBaKnBQd) | 2:07 | 2023-04-11 |  |
-| [There's Hope](https://open.spotify.com/track/7qgGM3xn79F41xlPSD2k34) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [There's Hope](https://open.spotify.com/album/10k8vOOvf63Hb7DZQp4e9F) | 2:22 | 2022-09-16 |  |
+| [There's Hope](https://open.spotify.com/track/0NS09dmjwfXUDu1JyyDInT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Falling In A Dream](https://open.spotify.com/album/4b7gcWyTn5FHKRaArGPopW) | 2:22 | 2023-06-09 |  |
+| [There's Hope](https://open.spotify.com/track/7qgGM3xn79F41xlPSD2k34) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [There's Hope](https://open.spotify.com/album/10k8vOOvf63Hb7DZQp4e9F) | 2:22 | 2022-09-16 | 2023-07-06 |
 | [These Days](https://open.spotify.com/track/57OQiShUUQ7UfCqXvgHjJy) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [These Days](https://open.spotify.com/album/4R6s3OjTVLeAHYaJ9eoeG8) | 2:22 | 2022-10-07 |  |
 | [Thinking Of ...](https://open.spotify.com/track/7sUTDV8jMnxy9hFEQSSPcP) | [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV), [vnpr](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4) | [Around The Moon](https://open.spotify.com/album/0BdxdW0yxKKGUeryEMPwze) | 1:56 | 2022-10-07 |  |
 | [three years have passed \(I need to find myself again\)](https://open.spotify.com/track/67Y7dg43tFNKnt85rH7jbj) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [three years have passed \(I need to find myself again\)](https://open.spotify.com/album/3C29DTsiM1g8JbQX1IRR1D) | 2:56 | 2023-06-09 |  |

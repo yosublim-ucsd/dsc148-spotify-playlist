@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-539 songs - 23 hr 2 min
+540 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 | 2022-06-07 | 2022-12-24 |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2022-06-07 |  |
 | [rays of sunshine](https://open.spotify.com/track/5hS865BOtarOiLTDbz2CXK) | [Thomas Clerk](https://open.spotify.com/artist/2qC87wmvYsl4lFNH0XChf5) | [clarity](https://open.spotify.com/album/6fEp2ks0q4fg6IPe2Sa8bV) | 3:07 | 2022-06-07 | 2022-09-24 |
-| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-06-07 |  |
+| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-06-07 | 2023-07-06 |
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2022-06-07 | 2022-07-20 |
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2022-06-07 |  |
 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 | 2022-06-07 | 2022-09-15 |
@@ -413,6 +413,7 @@
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-06-07 |  |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2022-06-07 |  |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2022-06-07 |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2022-06-07 |  |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-06-07 | 2022-09-15 |
 | [Sonder](https://open.spotify.com/track/5uPgn899inp8HOHHzwUQhG) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Sonder](https://open.spotify.com/album/56CCqTnTPRi0pctNLKWHcS) | 2:17 | 2022-06-07 | 2022-09-15 |

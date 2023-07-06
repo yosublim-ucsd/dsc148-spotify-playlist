@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 100429,
+  "num_followers": 100479,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGFmMjNlYzdlMjgxZTA2YmI3MmI4NDAyNTU5NDQzODY0NWZhZDc5",
+  "snapshot_id": "MCw3NjE3MTczOWM0YjQ2NTRjOGIxYmIwMWQyZDhlZjYxMjAwZTc5ZmMw",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Mawbys",
+        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Thomskalle",
+          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
+        },
+        {
+          "name": "Ginger Joe",
+          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
+        }
+      ],
+      "duration_ms": 184508,
+      "name": "Mawbys",
+      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -779,26 +803,6 @@
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Siste Kveld",
-        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 159380,
-      "name": "Siste Kveld",
-      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -823,26 +827,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Mawbys",
-        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
+        "name": "Siste Kveld",
+        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         },
         {
-          "name": "Thomskalle",
-          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
-        },
-        {
-          "name": "Ginger Joe",
-          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 184508,
-      "name": "Mawbys",
-      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
+      "duration_ms": 159380,
+      "name": "Siste Kveld",
+      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2023-06-29 22:00:00",

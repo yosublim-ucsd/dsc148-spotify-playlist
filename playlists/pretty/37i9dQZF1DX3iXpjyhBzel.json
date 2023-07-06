@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Maria Mar\u00e7al",
-  "num_followers": 958086,
+  "num_followers": 958700,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzgwMjY0M2Q2NDZiNjBmM2U1MWFkM2NmZWU3ZjgzY2YwOTBlYTcx",
+  "snapshot_id": "MCxjMGJhYTM0OTkwNGQ5MWZlMWYxZDAxNTM2YzNkM2Y3NTcxMTYxMDYx",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 245136,
-      "name": "Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Meu Maior Desejo",
         "url": "https://open.spotify.com/album/05uKIYNNY5PBsn6pOqVqCN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 256385,
       "name": "Meu Maior Desejo",
       "url": "https://open.spotify.com/track/057L1j7QOaDPCJg6q4tNfc"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 245136,
+      "name": "Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 356240,
       "name": "Existe Uma For\u00e7a",
       "url": "https://open.spotify.com/track/3oDLoqywfchRMne1pUMU97"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "N\u00f3s Te Adoramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Noite de Adora\u00e7\u00e3o II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 513505,
+      "name": "Rei da Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
@@ -1511,22 +1531,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Noite de Adora\u00e7\u00e3o II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp"
+        "name": "Tu E\u0301s Fiel",
+        "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
       },
       "artists": [
         {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         },
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
         }
       ],
-      "duration_ms": 513505,
-      "name": "Rei da Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a"
+      "duration_ms": 301276,
+      "name": "Tu E\u0301s Fiel",
+      "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1547,26 +1567,6 @@
       "duration_ms": 304426,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Tu E\u0301s Fiel",
-        "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 301276,
-      "name": "Tu E\u0301s Fiel",
-      "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Noite de Adora\u00e7\u00e3o II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp"
+        "name": "Ele Vir\u00e1",
+        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
       },
       "artists": [
         {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 417680,
-      "name": "Saudai o Rei Jesus (All Hail King Jesus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5gZIS1GbJxNgc0rTzzM6Lq"
+      "duration_ms": 296865,
+      "name": "Ele Vir\u00e1",
+      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
     }
   ],
   "unique_name": "Louvor & Adora\u00e7\u00e3o",

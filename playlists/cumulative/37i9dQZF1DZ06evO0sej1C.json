@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
+    },
+    {
+      "album": {
         "name": "Mundo De Papel",
         "url": "https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 229927,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV"

@@ -6903,6 +6903,24 @@
     },
     {
       "album": {
+        "name": "Loving State",
+        "url": "https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60899,
+      "name": "Gazing Up",
+      "url": "https://open.spotify.com/track/65BrSKwNrvW8jADQQSWpMg"
+    },
+    {
+      "album": {
         "name": "Gentle Fall (Strings Version)",
         "url": "https://open.spotify.com/album/6Kib3hpGjGZWR1gDYA7OJj"
       },
@@ -8038,6 +8056,24 @@
       "duration_ms": 61526,
       "name": "Hope Together",
       "url": "https://open.spotify.com/track/15mcPR1p3hWTcjKTxHdXEy"
+    },
+    {
+      "album": {
+        "name": "Loving State",
+        "url": "https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60899,
+      "name": "Hopeful Moment",
+      "url": "https://open.spotify.com/track/773R4yXjSiFMcuXSGa4pwo"
     },
     {
       "album": {

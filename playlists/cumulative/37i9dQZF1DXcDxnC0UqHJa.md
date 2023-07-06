@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-250 songs - 15 hr 59 min
+251 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Fallin' Rain](https://open.spotify.com/track/1OZjdODC1UMEVtqLXDtePS) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/3JUdmXZYmirAf9RQLwUktF) | 3:47 | 2021-12-13 | 2022-07-29 |
 | [Farewell Transmission](https://open.spotify.com/track/0qvmO0IgFQ1gRNfK2nItIq) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Farewell Transmission b/w The Dark Don’t Hide It](https://open.spotify.com/album/4mWSoX9xzod1bg8SdMei5w) | 6:57 | 2021-12-13 | 2022-07-29 |
 | [Farewell Transmission](https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Farewell Transmission b/w The Dark Don’t Hide It](https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF) | 6:57 | 2022-06-03 |  |
+| [Fireworks](https://open.spotify.com/track/51DjymVxbnYciOY1355Y0Z) | [Garrison Starr](https://open.spotify.com/artist/1l9EtXzykoDuCp1nW9EL6g), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Fireworks](https://open.spotify.com/album/6RdrUdV7XEKtAZbpfBLn91) | 3:58 | 2023-06-30 |  |
 | [Fix You](https://open.spotify.com/track/0QCZRTDJbGo40h7mWL8Pa2) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/5e8eSj5xIgJxdmHMphwUcB) | 5:01 | 2022-10-14 |  |
 | [Fix You](https://open.spotify.com/track/7wyjYCzCk2SW9AhPgY9tPL) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Jordan C\. Brown](https://open.spotify.com/artist/2Be71FORRclLcc097kl39G) | [Fix You](https://open.spotify.com/album/3cMdt77MuhdXWZUBngNwNV) | 5:01 | 2021-12-13 | 2022-11-24 |
 | [For What It's Worth](https://open.spotify.com/track/0lXWPos2llF0n0zveBcBeR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [For What It's Worth](https://open.spotify.com/album/2AQ1kijYhdcBmnPastkz3g) | 3:18 | 2021-12-13 | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [Tea, Milk & Honey](https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Tea, Milk & Honey](https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX) | 5:04 | 2021-12-13 |  |
 | [That's How I Got To Memphis](https://open.spotify.com/track/5mbYOavUzMPBgZIhybZsfT) | [Karl Blau](https://open.spotify.com/artist/7FeCvXxNn2D4Cf38i0zDul) | [Introducing Karl Blau](https://open.spotify.com/album/4Oin0XH6gnLnQSEcVoUIh3) | 4:03 | 2021-12-13 | 2022-07-29 |
 | [That's How You Know](https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [That's How You Know](https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU) | 3:45 | 2022-08-26 | 2023-02-04 |
-| [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 | 2021-12-13 |  |
+| [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 | 2021-12-13 | 2023-07-06 |
 | [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 | 2021-12-13 |  |
 | [The Boxer](https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/5uJpRBjDkTW8wtwDimhkdm) | 4:05 | 2021-12-13 | 2022-07-29 |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-06-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,765,971 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,766,214 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 74 | [Truth Is Freestyle](https://open.spotify.com/track/4GEflsHs7NCAFCcw0tmSwk) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Truth Is Freestyle](https://open.spotify.com/album/4N5TqJ1xIxCf9J8uU0KOaS) | 2:46 |
 | 75 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
 | 76 | [YE](https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [YE](https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql) | 2:11 |
-| 77 | [NO BAP](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [NO BAP](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
+| 77 | [No Bap](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [No Bap](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
 | 78 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 | 79 | [House Call](https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [House Call](https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV) | 3:58 |
 | 80 | [Energy \- Latto Remix](https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Energy \(Latto Remix\)](https://open.spotify.com/album/3xMIHLADVU0vpIe2d8U1U1) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Stiffly](https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [FANTASY CAMP](https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy) | 3:05 |
 | 100 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 |
 
-Snapshot ID: `MCw3YzY2NGU5NDU5YWZkZDg4NmE3MDU3N2ZhN2I3ZTAwYzkwZjlhYjAx`
+Snapshot ID: `MCxlZTcwYWJhYmQ2NmU2MDhmYzMwYjNkYWVmZWEzNDAxMzA5OTlkY2Vk`

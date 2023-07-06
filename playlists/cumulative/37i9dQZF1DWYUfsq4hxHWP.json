@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1USFxPWpPJ1eVQIovMoqO5"
+      },
+      "artists": [
+        {
+          "name": "Jake Simon",
+          "url": "https://open.spotify.com/artist/22fJ3Msx1wroYWozaxB2iO"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217852,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/35BFM6stGSGfP3paUDaTXT"
+    },
+    {
+      "album": {
         "name": "Dylan Marlowe",
         "url": "https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY"
       },
@@ -2609,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Beer Problem",
+        "url": "https://open.spotify.com/album/0BZkV98GuszM8TEhpM7mhV"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160808,
+      "name": "Beer Problem",
+      "url": "https://open.spotify.com/track/1VhzLGKd9PjyU4tnxlAgau"
+    },
+    {
+      "album": {
         "name": "Beer Up",
         "url": "https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0"
       },
@@ -2861,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Better Off on a Beach",
+        "url": "https://open.spotify.com/album/7HhbxUoYbGxFdNXuwFWoEO"
+      },
+      "artists": [
+        {
+          "name": "Joe Noto",
+          "url": "https://open.spotify.com/artist/5LdcH2qfkgvOFBkwSSQWz3"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187046,
+      "name": "Better Off on a Beach",
+      "url": "https://open.spotify.com/track/5OJfgRqMHZhPNwMMGT1xLk"
+    },
+    {
+      "album": {
         "name": "Better On Me",
         "url": "https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf"
       },
@@ -3092,6 +3146,24 @@
       "duration_ms": 185432,
       "name": "Bitchin'",
       "url": "https://open.spotify.com/track/6T6AWmeX2iMnC9VDXu6gVM"
+    },
+    {
+      "album": {
+        "name": "Black Label",
+        "url": "https://open.spotify.com/album/38SbHJ8kbKAoCILud31hbJ"
+      },
+      "artists": [
+        {
+          "name": "Sasha McVeigh",
+          "url": "https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184446,
+      "name": "Black Label",
+      "url": "https://open.spotify.com/track/3TZZcYjR7fGPNPJIaz7vq5"
     },
     {
       "album": {
@@ -3398,6 +3470,24 @@
       "duration_ms": 164582,
       "name": "Borrowed Cigarettes",
       "url": "https://open.spotify.com/track/7kZxFXgSgIbcCDW2oVedV1"
+    },
+    {
+      "album": {
+        "name": "Bottom of the Lake",
+        "url": "https://open.spotify.com/album/4qz8J8Rw0kNLsYMjoW2sX3"
+      },
+      "artists": [
+        {
+          "name": "Josh Melton",
+          "url": "https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165442,
+      "name": "Bottom of the Lake",
+      "url": "https://open.spotify.com/track/6aI3ZVFpt3BP2UOoBHU6kn"
     },
     {
       "album": {
@@ -7876,7 +7966,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 168739,
       "name": "Empty Bottles",
       "url": "https://open.spotify.com/track/5K2kLw4b5mYYdnI6FulJO6"
@@ -8760,6 +8850,24 @@
       "duration_ms": 189449,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/3Y7omwsDJdFCPnfzrlU4J6"
+    },
+    {
+      "album": {
+        "name": "First Base",
+        "url": "https://open.spotify.com/album/3mpCjFU7zngp8bjYrg7MgY"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210976,
+      "name": "First Base",
+      "url": "https://open.spotify.com/track/2BAxySNo9IB54gM5CqzD5M"
     },
     {
       "album": {
@@ -10148,6 +10256,24 @@
       "duration_ms": 242240,
       "name": "Good Thing Goin'",
       "url": "https://open.spotify.com/track/3nQ5ngDqjT1JfT2ToOle5F"
+    },
+    {
+      "album": {
+        "name": "Good Thing Going",
+        "url": "https://open.spotify.com/album/1Uo6YUjl3KLyuZyRkdCAre"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149158,
+      "name": "Good Thing Going",
+      "url": "https://open.spotify.com/track/3SxX5ZtgqFIhpI1Tm4OotH"
     },
     {
       "album": {
@@ -12753,6 +12879,24 @@
     },
     {
       "album": {
+        "name": "I Hate Country Music",
+        "url": "https://open.spotify.com/album/698btcPmaoZILZISEys2EE"
+      },
+      "artists": [
+        {
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187193,
+      "name": "I Hate Country Music",
+      "url": "https://open.spotify.com/track/1XuE2WdIRlAbiiosWKBL5K"
+    },
+    {
+      "album": {
         "name": "I Hate You, I Miss You",
         "url": "https://open.spotify.com/album/7p6DF9uWZyN3OkyXin3fi7"
       },
@@ -14720,10 +14864,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 206860,
       "name": "Know What You Mean",
       "url": "https://open.spotify.com/track/72aFH9cfm4dYxRoCZpXcTC"
+    },
+    {
+      "album": {
+        "name": "Know Who I Am",
+        "url": "https://open.spotify.com/album/5T4rochEvG3YnhV27n9bJ7"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219207,
+      "name": "Know Who I Am",
+      "url": "https://open.spotify.com/track/3Gd3W6VzsctJI6HoLoISfa"
     },
     {
       "album": {
@@ -14904,6 +15066,24 @@
       "duration_ms": 201126,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/3Sm4gto9Zll5dw2uPUo0e5"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/5MqVnqJrqhhSHtRumW4cNv"
+      },
+      "artists": [
+        {
+          "name": "Drake McCain",
+          "url": "https://open.spotify.com/artist/55zx7AihSM91XuqPqofoct"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160214,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2J1k24tO3WGF1p7zAt7eVx"
     },
     {
       "album": {
@@ -15426,7 +15606,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 230255,
       "name": "Lightning in a Mason Jar",
       "url": "https://open.spotify.com/track/4EEDM81KAdPvmD4VLXhPo3"
@@ -19338,6 +19518,24 @@
       "duration_ms": 198795,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/46cIitgOL5fc6SqYvl0WmZ"
+    },
+    {
+      "album": {
+        "name": "Outliving My Love",
+        "url": "https://open.spotify.com/album/5GMZoYsJBTNMXvIKisCjJz"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169394,
+      "name": "Outliving My Love",
+      "url": "https://open.spotify.com/track/1Vy4jINQIte4b6MKdvKnWg"
     },
     {
       "album": {
@@ -23361,6 +23559,24 @@
     },
     {
       "album": {
+        "name": "Still Gonna Be",
+        "url": "https://open.spotify.com/album/0lRAnRud0XuhHBK2jMUKtN"
+      },
+      "artists": [
+        {
+          "name": "Brandon Davis",
+          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165544,
+      "name": "Still Gonna Be",
+      "url": "https://open.spotify.com/track/1sunsKRsB4SVAICqzEzHkL"
+    },
+    {
+      "album": {
         "name": "Still Got It",
         "url": "https://open.spotify.com/album/6jw0zeoVo7vIZ80hrkCgCC"
       },
@@ -27250,6 +27466,24 @@
       "duration_ms": 177692,
       "name": "What I Was Missing",
       "url": "https://open.spotify.com/track/1j5gU332nc9pbyn5iCgL60"
+    },
+    {
+      "album": {
+        "name": "What I'm Thinking",
+        "url": "https://open.spotify.com/album/5hibFS5Er2Dfhlu9rEFnHV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Blaylock",
+          "url": "https://open.spotify.com/artist/1ut8dBk3OWNJfktav1k3D1"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238520,
+      "name": "What I'm Thinking",
+      "url": "https://open.spotify.com/track/3MJ000nB10pi11jI5pkrrp"
     },
     {
       "album": {

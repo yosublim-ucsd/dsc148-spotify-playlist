@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Jessie Murph & Marren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,428 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,434 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [If I Were You](https://open.spotify.com/track/7DD5C8Dxq3acjvwDUCvuQQ) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Lay Your Hands Upon My Heart](https://open.spotify.com/album/6Sa4Qik3FdBzIdcIPtHF15) | 3:33 |
 | 40 | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/track/3s3tzG4jG1q5CoAvcASuyC) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/album/7r90Qf9J5SQXQHcl9a5zkW) | 2:46 |
 
-Snapshot ID: `MCxmYzc1Y2NkYjUwZGY2NWVmYzQ4OWI0OWY0M2E4MzdhNmNhNGEzZDJi`
+Snapshot ID: `MCwxN2I3ZmQ1NmYzNzJkYWMzNGJlN2Y0NjI0MGUwMjM4NGExZjhkZTAx`

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-435 songs - 16 hr 45 min
+436 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [My Secret Garden](https://open.spotify.com/track/4d6SWT6p66wZFkIFecDbBi) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [My Secret Garden](https://open.spotify.com/album/5HIkW0PItJ2tfyKxLT79FK) | 1:58 | 2023-06-06 |  |
 | [mystery](https://open.spotify.com/track/1pMdQGhJ4kXbSwuh2ty1f3) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [mystery](https://open.spotify.com/album/4oFCCaThqBFoQtOEDtDIwF) | 1:57 | 2023-06-06 |  |
 | [Nameless and Forgotten](https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Nameless](https://open.spotify.com/album/183M1iml8n8Uoq1SLvkBRe) | 2:10 | 2022-09-02 |  |
-| [Natura](https://open.spotify.com/track/7Auf2qCVAHFuIvQ02Hku3H) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/3grr4LWLRWNm609pm7e7F3) | 2:38 | 2022-09-09 |  |
+| [Natura](https://open.spotify.com/track/5VN3OYlh8fP5P6ola1DkXJ) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/7LMjY84m9bSX4BMeCQmPwg) | 2:38 | 2023-06-06 |  |
+| [Natura](https://open.spotify.com/track/7Auf2qCVAHFuIvQ02Hku3H) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/3grr4LWLRWNm609pm7e7F3) | 2:38 | 2022-09-09 | 2023-07-06 |
 | [naturale](https://open.spotify.com/track/3q4giA2JuMjmny009JEsbn) | [masao mami](https://open.spotify.com/artist/1MlLNw90kC3aCTGjeqG2Qq) | [naturale](https://open.spotify.com/album/4B1ggUcEr5btmV57XXEdzw) | 2:24 | 2022-05-13 |  |
 | [Navigators](https://open.spotify.com/track/52a4rzZ0bOk2OfVawjiNVC) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Navigators](https://open.spotify.com/album/2vcXcHa9nM6HvfzYtUzMNu) | 1:28 | 2022-06-10 | 2022-07-29 |
 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 | 2022-05-20 |  |

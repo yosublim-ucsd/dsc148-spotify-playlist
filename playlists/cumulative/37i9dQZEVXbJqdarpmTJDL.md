@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,216 songs - 2 day 17 hr 7 min
+1,217 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [DRILLA PATERA](https://open.spotify.com/track/37tXJUkTYc0tbLv5RfPPiV) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 3:29 | 2023-05-13 | 2023-05-21 |
 | [Drive By](https://open.spotify.com/track/2u3kkvRqcYi56BNXEX6hri) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Alitiz](https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM) | [Drive By](https://open.spotify.com/album/6q5vogVJGBjAurRpPH8VvE) | 3:13 | 2023-02-11 | 2023-05-14 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-04-18 |
+| [Drop](https://open.spotify.com/track/4DyqFlqBL6lu9Ouq7kgnOO) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Drop](https://open.spotify.com/album/3LVTpj9wvRAfeV522lbRaP) | 2:21 | 2023-07-05 |  |
 | [DROP](https://open.spotify.com/track/5g5aMrMZhLmBzGrIHFccX5) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB) | [CASH OUT](https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7) | 2:35 | 2023-04-01 | 2023-04-03 |
 | [Dubai](https://open.spotify.com/track/2jDdUNCb3Q1hRtXmtZsGdW) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Thodoris Verlis](https://open.spotify.com/artist/37JMsuLMU91B5Poil5tMcz) | [Dubai](https://open.spotify.com/album/0ekklhkByAfhopFRB27DIv) | 3:26 | 2023-05-13 | 2023-06-28 |
 | [Dynata \- Ta Ta Ta](https://open.spotify.com/track/0abW4AXMPM75YUA87mlljq) | [Stefanos Pitsiniagkas](https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE) | [Dynata \(Ta Ta Ta\)](https://open.spotify.com/album/00zlYdQFh5gtrsbFN2uePL) | 3:13 | 2021-12-18 | 2022-01-19 |
@@ -867,7 +868,7 @@
 | [PELATES](https://open.spotify.com/track/5PsPKwp74Goyq3nvgehsiy) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 3:25 | 2023-05-13 |  |
 | [Perithorio](https://open.spotify.com/track/3QDGh4CIZeMAe9KTf64mPb) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Timima](https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU) | 4:21 | 2021-11-21 | 2021-12-02 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-12 |
-| [Pes](https://open.spotify.com/track/49gmgcrQp7nozLlmYue3Du) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [Pes](https://open.spotify.com/album/0vPvhmytzsrSGl925uZwmJ) | 3:37 | 2023-05-06 |  |
+| [Pes](https://open.spotify.com/track/49gmgcrQp7nozLlmYue3Du) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [Pes](https://open.spotify.com/album/0vPvhmytzsrSGl925uZwmJ) | 3:37 | 2023-05-06 | 2023-07-06 |
 | [Pes Tou](https://open.spotify.com/track/0v8TxNTZhQlctTUNX9PpRO) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Pes Tou](https://open.spotify.com/album/4etJ2ld3OxZElllOgYq4c3) | 1:56 | 2021-10-27 | 2022-02-09 |
 | [Pes Tou \- Remix](https://open.spotify.com/track/3yYiWonAKTa1W0cYlEPjRj) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Pes Tou \(Remix\)](https://open.spotify.com/album/2rgk5BnmNB5zHdK4o0tTWH) | 3:53 | 2022-02-05 | 2022-07-16 |
 | [Piece de Resistance In D Minor](https://open.spotify.com/track/4W8kSlWzmX8VdZULh4Y4ET) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 2:36 | 2023-04-21 | 2023-05-07 |

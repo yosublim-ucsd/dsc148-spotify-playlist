@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 293775,
+  "num_followers": 293949,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
+  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
+        }
+      ],
+      "duration_ms": 352400,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Welcome 2 Detroit",
         "url": "https://open.spotify.com/album/2KvJwjA8SxHUn1JPG09W4g"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 232533,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/3yBO33Nyb6APYbeLESad7u"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
-      },
-      "artists": [
-        {
-          "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "A Joyful Noise Unto The Creator",
-        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Prince Of Peace",
-      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 289013,
       "name": "Friends And Strangers",
       "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "A Joyful Noise Unto The Creator",
+        "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Prince Of Peace",
+      "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+        "name": "Adrenalin",
+        "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
       },
       "artists": [
         {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "David Bendeth",
+          "url": "https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
+      "duration_ms": 410319,
+      "name": "Feel The Real",
+      "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Adrenalin",
-        "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
       },
       "artists": [
         {
-          "name": "David Bendeth",
-          "url": "https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe"
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 410319,
-      "name": "Feel The Real",
-      "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
+      },
+      "artists": [
+        {
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1055,34 +1055,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afrodesia",
-        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
-      },
-      "artists": [
-        {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "It's Changed",
-      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -1115,22 +1087,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In the Hand of the Inevitable",
-        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
-      },
-      "artists": [
-        {
-          "name": "James Taylor Quartet",
-          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
-        }
-      ],
-      "duration_ms": 294240,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "I-Level",
         "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
       },
@@ -1143,6 +1099,22 @@
       "duration_ms": 241539,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In the Hand of the Inevitable",
+        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
+      },
+      "artists": [
+        {
+          "name": "James Taylor Quartet",
+          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
+        }
+      ],
+      "duration_ms": 294240,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1167,22 +1139,30 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Girl Overboard",
-        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
+        "name": "Afrodesia",
+        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
       },
       "artists": [
         {
-          "name": "Snowboy",
-          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
         },
         {
-          "name": "Anna Ross",
-          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
         }
       ],
-      "duration_ms": 444333,
-      "name": "Girl Overboard",
-      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+      "duration_ms": 372733,
+      "name": "It's Changed",
+      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1203,22 +1183,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+        "name": "Girl Overboard",
+        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "Snowboy",
+          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
         },
         {
-          "name": "Punch&Words",
-          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
+          "name": "Anna Ross",
+          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Block Episode",
-      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+      "duration_ms": 444333,
+      "name": "Girl Overboard",
+      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1251,6 +1231,26 @@
       "duration_ms": 348760,
       "name": "Stomp And Buck Dance",
       "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Punch&Words",
+          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Block Episode",
+      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pushin' On",
         "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",

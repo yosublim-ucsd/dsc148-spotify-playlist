@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,148 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,172 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 45 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 |
 | 46 | [Purity](https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Purity](https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B) | 4:05 |
 | 47 | [room with nobody](https://open.spotify.com/track/4g8qBxEJbmGOn47fPYX2tK) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/3xn9ffYOcqK08Fua0glyZi) | 2:52 |
-| 48 | [Nijiiro](https://open.spotify.com/track/04oWsZWr8n1xSMInqLp6KS) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/4JXvYGFiRmzu1oC5ItwRDw) | 2:56 |
+| 48 | [Nijiiro](https://open.spotify.com/track/7BOyA6ajai8BO1t3L4s78K) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/3Nsq8VkAMXPqi1RXvnDWAe) | 2:56 |
 | 49 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 |
 | 50 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 |
 | 51 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 
-Snapshot ID: `MCwxNDcyMTBkN2Q2N2I3ZDRlNmRmZGRlYWViM2JhY2ZhNmUyYTVmZTk1`
+Snapshot ID: `MCw4NTVjNzg5MmNkZTEwNDVhNzhmMzM0ODFlMzAyOTE0ZTFhODM2YzM0`

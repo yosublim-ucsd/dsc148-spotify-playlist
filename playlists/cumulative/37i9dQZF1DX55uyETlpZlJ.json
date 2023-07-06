@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Kanasella - Female Version",
+        "url": "https://open.spotify.com/album/1WNn6I7B7eFbqzZCYDGbRf"
+      },
+      "artists": [
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268798,
+      "name": "Kanasella - Female Version",
+      "url": "https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5"
+    },
+    {
+      "album": {
         "name": "Kanasina Doni",
         "url": "https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 192522,
       "name": "Nannee Hrudayava",
       "url": "https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr"

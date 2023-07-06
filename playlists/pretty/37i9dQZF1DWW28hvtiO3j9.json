@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 113382,
+  "num_followers": 113503,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTJjMGY4NDBiNTI0MTA2ZjJkMTQxMGQwZGY5MmU1MGNhMDg2Mzk4",
+  "snapshot_id": "MCxjYWJmY2Y2OGQzM2MxMGMyNDA2Y2U3MzRkMGFkNjhiOTliZTY3NDYz",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -175,8 +175,8 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "TOKYO - CITY POP -",
-        "url": "https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD"
+        "name": "\u30b7\u30c6\u30a3\u30fc\u30dd\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/1V8DQ5bDaNyFZaRyRkfvsg"
       },
       "artists": [
         {
@@ -186,7 +186,7 @@
       ],
       "duration_ms": 239013,
       "name": "\u30c6\u30ec\u30d5\u30a9\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/5SxrdeIHki6FmlsKj2m8mY"
+      "url": "https://open.spotify.com/track/3kkhLmINLkhrhJMU8zVb2c"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "PEARL PIERCE",
-        "url": "https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 344219,
-      "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
-      "url": "https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "NIAGARA TRIANGLE vol.2 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "PEARL PIERCE",
+        "url": "https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 344219,
+      "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
+      "url": "https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "The 20th Anniversary",
         "url": "https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "EDGE OF TIME",
-        "url": "https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd"
       },
       "artists": [
         {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+          "name": "Hiroshi Sato",
+          "url": "https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj"
         }
       ],
-      "duration_ms": 337306,
-      "name": "\u30b5\u30b6\u30f3\u30af\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq"
+      "duration_ms": 229013,
+      "name": "YOU'RE MY BABY",
+      "url": "https://open.spotify.com/track/6zDgYObuYVCtVWnssw4myl"
     }
   ],
   "unique_name": "City Pop '80s",

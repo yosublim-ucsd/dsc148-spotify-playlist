@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 98014,
+  "num_followers": 98073,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzdhNDc2MjY0YmZiOGYzM2I1MTE2MmQ1NDMxNDY4Yzk5YzExYTY2",
+  "snapshot_id": "MCwwNTc3MzYxZjJhNzQ1NjYxZjY0NDc3YTU2NTY3ZjQ0MzM2NWE1MWNi",
   "tracks": [
     {
       "added_at": "2023-06-16 16:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Old Graffiti",
+      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Ned Doheny",
+          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
         }
       ],
-      "duration_ms": 208853,
-      "name": "Old Graffiti",
-      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
+      "duration_ms": 281733,
+      "name": "Get It Up For Love",
+      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
-      },
-      "artists": [
-        {
-          "name": "Ned Doheny",
-          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "Get It Up For Love",
-      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "The Best Of Cheryl Lynn: Got To Be Real",
-        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
-      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "The Best Of Cheryl Lynn: Got To Be Real",
+        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
+      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Indoor Fireworks (Re-Release)",
-        "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
-      },
-      "artists": [
-        {
-          "name": "Doctor Rockit",
-          "url": "https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ"
-        },
-        {
-          "name": "Matthew Herbert",
-          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
-        }
-      ],
-      "duration_ms": 505453,
-      "name": "Caf\u00e9 de Flore",
-      "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Indoor Fireworks (Re-Release)",
+        "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
+      },
+      "artists": [
+        {
+          "name": "Doctor Rockit",
+          "url": "https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ"
+        },
+        {
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+        }
+      ],
+      "duration_ms": 505453,
+      "name": "Caf\u00e9 de Flore",
+      "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "KOKOROKO",
         "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 424080,
       "name": "Abusey Junction",
       "url": "https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
       },
       "artists": [
         {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
       "artists": [
         {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Montara",
-        "url": "https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 225489,
-      "name": "Montara",
-      "url": "https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 326809,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Montara",
+        "url": "https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 225489,
+      "name": "Montara",
+      "url": "https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf"
     },
     {
       "added_at": "2023-06-16 16:00:00",

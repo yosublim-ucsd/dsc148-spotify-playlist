@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6481,
+  "num_followers": 6491,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2M2NjU0NjM3ZjE3N2NjZWU3Y2YwYWNlNGIwNjBiNmY1MDJhZjQy",
+  "snapshot_id": "MCw2YTUyZDgwN2I1MGNjZTc4YWMzOWY2MzhmZjlhNmM4YzVmMWVjNTA3",
   "tracks": [
     {
       "added_at": "2023-06-30 05:46:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Aguaepanela Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Carita Feliz | Carita Triste (Deluxe)",
         "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 175405,
       "name": "RELA",
       "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Aguaepanela Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 225304,
-      "name": "Este Momento",
-      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 225304,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
         "name": "Un Poco Menos Idiota",
         "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
       },
@@ -947,6 +947,38 @@
       "duration_ms": 225547,
       "name": "Un Poco Menos Idiota",
       "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Ci\u00e9naga",
+        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 176353,
+      "name": "Ci\u00e9naga",
+      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -971,22 +1003,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Ci\u00e9naga",
-        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 176353,
-      "name": "Ci\u00e9naga",
-      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-06-30 05:46:00",

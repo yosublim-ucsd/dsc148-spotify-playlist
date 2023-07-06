@@ -1,12 +1,12 @@
 {
   "description": "Listen to these flows during your yoga flow.",
-  "num_followers": 318177,
+  "num_followers": 318172,
   "original_name": "Hip-Hop Yoga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWI2MjI1YTExMTdiNzFkZDgzYzgwYjc2YjhjNzQwMDJjNjEwM2Ri",
+  "snapshot_id": "MCxmYWE5NDZlODljOGFjYWJmNzk3YzAxZjNkYTFlYzJmMzA3ODY0M2M0",
   "tracks": [
     {
       "added_at": "2021-12-21 19:28:14",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "MIDDLE CHILD",
-        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 213593,
-      "name": "MIDDLE CHILD",
-      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 213593,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -711,22 +711,22 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "Die A Legend",
-        "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
+        "name": "The Beautiful & Damned",
+        "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         },
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Pop Out (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
+      "duration_ms": 268866,
+      "name": "Him & I (with Halsey)",
+      "url": "https://open.spotify.com/track/5k38wzpLb15YgncyWdTZE4"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -755,22 +755,22 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "The Beautiful & Damned",
-        "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
+        "name": "Die A Legend",
+        "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
       },
       "artists": [
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Him & I (with Halsey)",
-      "url": "https://open.spotify.com/track/5k38wzpLb15YgncyWdTZE4"
+      "duration_ms": 166560,
+      "name": "Pop Out (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
     },
     {
       "added_at": "2021-12-21 19:28:14",

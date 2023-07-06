@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. deijuvhs
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,018 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,101 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 |
 | 85 | [SPYD4 K1NG](https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SPYD4 K1NG](https://open.spotify.com/album/1xkuGHZ4eWoZGO7XZQoN4Q) | 3:12 |
 
-Snapshot ID: `MCxhN2QwYmQ5MTAxNzVjOTUxOGM5MjljYTIyYjU4YTVhYjVmZjMxZGU0`
+Snapshot ID: `MCw5NTcyNWMzYzc5NTM0ZWRiOTFjYzExM2M4MjE1MDcxMmEwODBmNGY4`

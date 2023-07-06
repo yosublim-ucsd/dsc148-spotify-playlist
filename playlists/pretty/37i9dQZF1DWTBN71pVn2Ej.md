@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,225 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,285 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Bae](https://open.spotify.com/track/4ipVKbNInIxdSy7q7IzJsb) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Bae](https://open.spotify.com/album/7nklb4pTharrigbkpKw6Td) | 2:28 |
 | 50 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 |
 
-Snapshot ID: `MCwwZTkyZWI1YTA0ZDJmOGQ5MDc0NTA2MjJhNzJmNzE2ZDM2NTQyOTM2`
+Snapshot ID: `MCxmNDRjYWYzZDFlYzdhZTIzYzM2MzVmZGFmYTc1MGE3MmFjZjk5YjJh`

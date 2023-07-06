@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43740,
+  "num_followers": 43747,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWRlOTY1OTAwMzRkODczZGMzYjc3MjM3MzhhYjRkN2JkM2UxMDBl",
+  "snapshot_id": "MCw0YWRlZjVhZTA5OWZhZGY5ZTdiZmE3OWUyNmFiYzlhYWRlNzcxZTlh",
   "tracks": [
     {
       "added_at": "2023-07-04 17:13:27",
@@ -311,6 +311,42 @@
     {
       "added_at": "2023-07-04 17:13:27",
       "album": {
+        "name": "NIKI Acoustic Sessions: Head In The Clouds II",
+        "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "La La Lost You - Acoustic Version",
+      "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
+    },
+    {
+      "added_at": "2023-07-04 17:13:27",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 258879,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+    },
+    {
+      "added_at": "2023-07-04 17:13:27",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -335,42 +371,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 258879,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
-    },
-    {
-      "added_at": "2023-07-04 17:13:27",
-      "album": {
-        "name": "NIKI Acoustic Sessions: Head In The Clouds II",
-        "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        },
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        }
-      ],
-      "duration_ms": 208510,
-      "name": "La La Lost You - Acoustic Version",
-      "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
     },
     {
       "added_at": "2023-07-04 17:13:27",

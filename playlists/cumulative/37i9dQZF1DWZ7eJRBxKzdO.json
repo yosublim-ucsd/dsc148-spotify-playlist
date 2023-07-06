@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a"
+    },
+    {
+      "album": {
         "name": "Sunset in Dubai (DJ Antoine & Mad Mark 2k22 Mix)",
         "url": "https://open.spotify.com/album/7qG3vgkDMvDmhC8F8YNcVT"
       },
@@ -5264,7 +5282,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 194604,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"

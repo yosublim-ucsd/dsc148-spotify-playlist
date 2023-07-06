@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. The Japanese House drops an album. ",
-  "num_followers": 2223807,
+  "num_followers": 2223773,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTM3ODA2YWVlNWU5NDM0NzM1OTNjMjk0ZjNkMjNmNmJjMDhiOTk2",
+  "snapshot_id": "MCw2ODRkMTAyOThmMGQ5OWExY2UyODY2YmE2ODcwZGRjMmFkZjRlMWMz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
     },
     {
-      "added_at": "2023-06-26 19:39:55",
-      "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8"
-      },
-      "artists": [
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 352866,
-      "name": "Dear Arkansas Daughter",
-      "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Minari (Original Motion Picture Soundtrack)",
@@ -615,6 +599,22 @@
       "duration_ms": 98560,
       "name": "Jacob and the Stone",
       "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+    },
+    {
+      "added_at": "2023-06-26 19:39:55",
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "duration_ms": 352866,
+      "name": "Dear Arkansas Daughter",
+      "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
     },
     {
       "added_at": "2023-06-02 00:47:28",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
-      "added_at": "2023-05-19 03:05:34",
-      "album": {
-        "name": "Sunshine Baby",
-        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Red Wine Supernova",
@@ -715,6 +699,22 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
+      "added_at": "2023-05-19 03:05:34",
+      "album": {
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1073,20 +1073,20 @@
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-07-03 15:38:05",
       "album": {
-        "name": "Become",
-        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
+        "name": "Grapes Upon the Vine",
+        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 306106,
-      "name": "Holiday House",
-      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
+      "duration_ms": 236000,
+      "name": "I'll Be Faithful",
+      "url": "https://open.spotify.com/track/0sPWsklhyrr5ZdrSWWEff6"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1103,6 +1103,22 @@
       "duration_ms": 179280,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Become",
+        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 306106,
+      "name": "Holiday House",
+      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 263349,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
-    },
-    {
-      "added_at": "2023-07-03 15:38:05",
-      "album": {
-        "name": "Grapes Upon the Vine",
-        "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "I'll Be Faithful",
-      "url": "https://open.spotify.com/track/0sPWsklhyrr5ZdrSWWEff6"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
+      "added_at": "2023-06-16 16:55:44",
+      "album": {
+        "name": "\u00c1TTA",
+        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 313040,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Heaven Is a Junkyard",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2023-06-16 16:55:44",
       "album": {
-        "name": "\u00c1TTA",
-        "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 313040,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
-    },
-    {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "Oh No Darling!",
-        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 203876,
-      "name": "Oh No Darling!",
-      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
-    },
-    {
-      "added_at": "2023-06-16 16:55:44",
-      "album": {
         "name": "Every Day's A Lesson In Humility",
         "url": "https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V"
       },
@@ -1341,20 +1325,20 @@
       "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
     },
     {
-      "added_at": "2023-06-22 15:43:22",
+      "added_at": "2023-04-21 01:46:20",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
+        "name": "Oh No Darling!",
+        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
         }
       ],
-      "duration_ms": 285586,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
+      "duration_ms": 203876,
+      "name": "Oh No Darling!",
+      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1371,6 +1355,22 @@
       "duration_ms": 196755,
       "name": "The Ballad of Betty and Barney Hill",
       "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
+    },
+    {
+      "added_at": "2023-06-22 15:43:22",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 285586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
+      "added_at": "2023-06-22 15:43:22",
+      "album": {
+        "name": "green house",
+        "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "green house",
+      "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Head Straight",
@@ -1425,22 +1441,6 @@
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Don't Fade Away",
-        "url": "https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 202621,
-      "name": "Don't Fade Away",
-      "url": "https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq"
-    },
-    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "Best Disaster",
@@ -1457,20 +1457,20 @@
       "url": "https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg"
     },
     {
-      "added_at": "2023-06-22 15:43:22",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "green house",
-        "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
+        "name": "Don't Fade Away",
+        "url": "https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO"
       },
       "artists": [
         {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 117000,
-      "name": "green house",
-      "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
+      "duration_ms": 202621,
+      "name": "Don't Fade Away",
+      "url": "https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1537,20 +1537,24 @@
       "url": "https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO"
     },
     {
-      "added_at": "2023-06-22 15:43:22",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Can I Talk My Shit?",
-        "url": "https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU"
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        },
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 205173,
-      "name": "Can I Talk My Shit?",
-      "url": "https://open.spotify.com/track/52qozr06OygMerkZTWPQzL"
+      "duration_ms": 210136,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1573,24 +1577,20 @@
       "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-06-22 15:43:22",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
+        "name": "Can I Talk My Shit?",
+        "url": "https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU"
       },
       "artists": [
         {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        },
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 210136,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
+      "duration_ms": 205173,
+      "name": "Can I Talk My Shit?",
+      "url": "https://open.spotify.com/track/52qozr06OygMerkZTWPQzL"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
         "name": "Driving",
         "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 189280,
       "name": "Driving",
       "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1657,20 +1657,20 @@
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+        "name": "hazelton b/w liner",
+        "url": "https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
         }
       ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+      "duration_ms": 181000,
+      "name": "hazelton",
+      "url": "https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1689,20 +1689,20 @@
       "url": "https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "hazelton b/w liner",
-        "url": "https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
       "artists": [
         {
-          "name": "Justin Vernon",
-          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 181000,
-      "name": "hazelton",
-      "url": "https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj"
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2023-06-16 16:54:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,655 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343,943 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 40 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 |
 | 41 | [When She Dance](https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:22 |
 | 42 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
-| 43 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 |
+| 43 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 44 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 45 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 |
 | 46 | [Never Miss A Beat](https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [Never Miss A Beat](https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 69 | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/track/05zD7iVuzpzDWsYvxxcvgd) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/album/6l9QJGEoMRYD86XIXHCJvp) | 3:33 |
 | 70 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 
-Snapshot ID: `MCw1YzdkZWRlZmQxYzA4MmJmZjUyMTAzNzk0Yjk5Y2IzZmRjMzNjOTc0`
+Snapshot ID: `MCxjZTMxZmQ5OGQzNzU3ZjFjNzY2M2YzMGY4MDEyYmNkMGIwOWZhZDYw`

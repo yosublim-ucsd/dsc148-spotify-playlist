@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,922 likes - 216 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,057 likes - 216 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 215 | [Ringlo](https://open.spotify.com/track/4ARkXV21WeehAaRFhGNCW1) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Serenity](https://open.spotify.com/album/6RAAqB52NsotO2pWcsBH74) | 2:13 |
 | 216 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 |
 
-Snapshot ID: `MCwwY2EzZGZkODY1MWY2ZWU4MmI4M2QzZThhY2U0YWExYTQzN2MzZDY1`
+Snapshot ID: `MCxlOWNiODNkNzUwMTM5NGZjMjAwMzRiYTkxZjY3Y2UzOTUzZTYzODdk`

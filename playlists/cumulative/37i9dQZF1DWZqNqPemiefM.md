@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-470 songs - 1 day 13 hr 29 min
+471 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [See The Light \(Abridged\)](https://open.spotify.com/track/0Fcr8todn7RFAUrSWbURAj) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 6:50 | 2022-03-31 | 2022-04-04 |
 | [Seiko 2](https://open.spotify.com/track/4mFgPm9017rrt68AHmSnJ5) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/0eiXQIvcw2FsfDtbfXLKTo) | 1:08 | 2022-03-31 | 2022-07-22 |
 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 | 2022-11-03 |  |
-| [Selves](https://open.spotify.com/track/2IgnQvtHY5HD2YDnlbhejy) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Selves](https://open.spotify.com/album/3hVHSI29kCGkipLRUfaily) | 4:58 | 2023-03-23 |  |
+| [Selves](https://open.spotify.com/track/0C8bL35adE2cXVzXj4fm0H) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Selves](https://open.spotify.com/album/7omgO7FC7YkifSa95dHpYi) | 4:58 | 2023-06-29 |  |
+| [Selves](https://open.spotify.com/track/2IgnQvtHY5HD2YDnlbhejy) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Selves](https://open.spotify.com/album/3hVHSI29kCGkipLRUfaily) | 4:58 | 2023-03-23 | 2023-07-06 |
 | [Sepia Tone](https://open.spotify.com/track/0STwHoXTxqI4ESr3jsPGBH) | [M\-Koda](https://open.spotify.com/artist/6dut1BTL7lPjehxMgA9865) | [External Reference](https://open.spotify.com/album/4C1D3Iiz8Ftpsg4pSlAetA) | 2:38 | 2022-03-31 | 2022-04-03 |
 | [sequence\_03](https://open.spotify.com/track/5NVo3uIs3ovNFSxA3mvOXV) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [暗やみの色 Colors of the Dark](https://open.spotify.com/album/6UkBkE4Xtw80cdd3JV8DRu) | 4:04 | 2022-03-31 | 2022-07-27 |
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2022-04-07 | 2022-10-25 |

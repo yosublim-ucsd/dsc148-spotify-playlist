@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,409 likes - 115 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,416 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 16 | [VI ÄR SVERIGE \(VM\-låt 2023\)](https://open.spotify.com/track/5UvGVYBDYFPHd43b9iuhOx) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [VI ÄR SVERIGE \(VM\-låt 2023\)](https://open.spotify.com/album/43VmuukqpgihtMojRuajVA) | 2:18 |
 | 17 | [Gammal kärlek rostar aldrig](https://open.spotify.com/track/2QzwmxSEUz581mEEsgo53Z) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Hux Flux](https://open.spotify.com/album/28v5GpYdm9DCu1BCAO7oH4) | 2:44 |
 | 18 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 |
-| 19 | [One More Time](https://open.spotify.com/track/0uM4gVR60a7w63ll9Ns0Fp) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [One More Time](https://open.spotify.com/album/5vvS2hd2FtdStcjosYs3ZC) | 2:40 |
+| 19 | [One More Time](https://open.spotify.com/track/0uM4gVR60a7w63ll9Ns0Fp) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [One More Time](https://open.spotify.com/album/5vvS2hd2FtdStcjosYs3ZC) | 2:37 |
 | 20 | [Radioactive](https://open.spotify.com/track/7lzEoiZDm9iNwc2Gcv9yNO) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Joanna](https://open.spotify.com/artist/19wRebMQjsGrGqnwirwhDL) | [Radioactive](https://open.spotify.com/album/0mVSaQW57VUeNdRF7v1a1F) | 2:13 |
 | 21 | [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 |
 | 22 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 | 115 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 |
 
-Snapshot ID: `MCxhMmI5ZjQ2YmQxNzRmZDc0ZGM4NjI2NjhjMWJiNWNlMzQzZDUxNzVm`
+Snapshot ID: `MCwyYzdlMjFjM2NkMmYwMTNlOWJiMDgyNjJjNDgxMjBmMDVmOTRkMTM3`

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 161106,
+  "num_followers": 161142,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDcwZTQ5ZTZlMzM2MDkxM2Y3MmFmYTIwNjM0NTRlOGI5NGJiOTA4",
+  "snapshot_id": "MCw3OTNiZjNmNmNiNzc3ZDZjNjVlOTkxMWUxNDY2ODk4ZjFmNWZiM2Y3",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "LIN9ERIE",
         "url": "https://open.spotify.com/album/1kdJQ3yi1SOy33FxWcObAx"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
       "artists": [
         {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
         }
       ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -719,22 +735,6 @@
       "duration_ms": 230000,
       "name": "Repete",
       "url": "https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "\u00c1gua (Dj Nyack Remix)",
         "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 233142,
       "name": "\u00c1gua - Dj Nyack Remix",
       "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -943,6 +943,30 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+      },
+      "artists": [
+        {
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+        },
+        {
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1023,30 +1047,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
-      },
-      "artists": [
-        {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
-        },
-        {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "N\u00e3o Quero Te Perder",
         "url": "https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0"
       },
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "V\u00edcio",
-        "url": "https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59"
-      },
-      "artists": [
-        {
-          "name": "Matheus Caettano",
-          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
-        },
-        {
-          "name": "DJ Cash",
-          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "V\u00edcio",
+        "url": "https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59"
+      },
+      "artists": [
+        {
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+        },
+        {
+          "name": "DJ Cash",
+          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1351,6 +1351,26 @@
       "duration_ms": 207000,
       "name": "Seu Bem",
       "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1459,26 +1479,6 @@
       "duration_ms": 148869,
       "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
       "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-06-30 03:01:00",

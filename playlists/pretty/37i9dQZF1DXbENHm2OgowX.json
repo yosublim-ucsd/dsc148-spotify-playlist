@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 84539,
+  "num_followers": 85032,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjUzMmEyYWQ4MWUwMGY1YWE4M2Q4MWM3NGE4NGE3ZGM0MzIxN2Fm",
+  "snapshot_id": "MCw3MzU3MWFlMWFhMzAxMzU1MDVkYTQyY2MxYmNhNWUyYWEyNjMzMTNi",
   "tracks": [
     {
       "added_at": "2023-04-21 13:22:15",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
+        "name": "Together Is The New Alone (2021 Remaster)",
+        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+      },
+      "artists": [
+        {
+          "name": "Donnacha Costello",
+          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+        }
+      ],
+      "duration_ms": 645000,
+      "name": "Dry Retch - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 437322,
       "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
-        "name": "Together Is The New Alone (2021 Remaster)",
-        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
-      },
-      "artists": [
-        {
-          "name": "Donnacha Costello",
-          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
-        }
-      ],
-      "duration_ms": 645000,
-      "name": "Dry Retch - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
+        "name": "Let the Earth be Silent",
+        "url": "https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez"
+      },
+      "artists": [
+        {
+          "name": "Fvnerals",
+          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
+        }
+      ],
+      "duration_ms": 452869,
+      "name": "For Horror Eats The Light",
+      "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
         "name": "Snowa",
         "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
-        "name": "Let the Earth be Silent",
-        "url": "https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez"
-      },
-      "artists": [
-        {
-          "name": "Fvnerals",
-          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
-        }
-      ],
-      "duration_ms": 452869,
-      "name": "For Horror Eats The Light",
-      "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+        "name": "Permanently Midnight",
+        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
       },
       "artists": [
         {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
         }
       ],
-      "duration_ms": 148786,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
+      "duration_ms": 315284,
+      "name": "As I Came Through the Desert Thus It Was",
+      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
     }
   ],
   "unique_name": "gloomcore",

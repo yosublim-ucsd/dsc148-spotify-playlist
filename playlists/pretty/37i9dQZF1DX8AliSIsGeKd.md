@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: BUNT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,510 likes - 89 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,573 likes - 89 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 84 | [Bow](https://open.spotify.com/track/3vvAkRDr7Wq7tCNBobHdaf) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Le Croque](https://open.spotify.com/artist/4hTAcu1A9geS3saiPClAn4), [atsou](https://open.spotify.com/artist/6TRgIFqqTDlwIULInhGKoD) | [Bow](https://open.spotify.com/album/0WJaYXwctzly6fuJAIOVY0) | 4:15 |
 | 85 | [Evolution](https://open.spotify.com/track/1jLvJbr4zWKygvn3dDbeOa) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Evolution](https://open.spotify.com/album/4Mw9FahZmlbXpzNo4H9WGr) | 3:48 |
 | 86 | [FEZ](https://open.spotify.com/track/4ua62Jisw81VEtIvHiupED) | [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Speicher 127](https://open.spotify.com/album/3kVrOxxaU4guWCSNnGNeBq) | 6:55 |
-| 87 | [Crystal Volcano \- Chloé \(Thévenin\) Remix](https://open.spotify.com/track/7kCnJw5UvQwV886Z9djjna) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/1xLHetlSx6AT9GBLzuqp6r) | 7:06 |
+| 87 | [Crystal Volcano \- Chloé \(Thévenin\) Remix](https://open.spotify.com/track/7kCnJw5UvQwV886Z9djjna) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/1xLHetlSx6AT9GBLzuqp6r) | 7:06 |
 | 88 | [Diary](https://open.spotify.com/track/2nFtOWsGgAlmsDTh36iawp) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Diary](https://open.spotify.com/album/1s89nUu7cpFopQ2KCkhe5m) | 2:59 |
 | 89 | [Lucky Luke](https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Lucky Luke](https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA) | 6:24 |
 
-Snapshot ID: `MCxkNzgyZmJkMTlmNjdlYWIxZjlkNzY2YzljYTkzNDE0MjQ1YzUyNzZh`
+Snapshot ID: `MCxhMWM0ZWZmOTQxOThhYTJmYWQ3Njk1ZDk3MjM4MjBiN2YwMzRiZTJl`

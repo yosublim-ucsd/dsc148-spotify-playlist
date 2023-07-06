@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 188709,
       "name": "Believe (feat. Goodboys)",
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
@@ -3826,6 +3826,40 @@
       "duration_ms": 251586,
       "name": "XENA",
       "url": "https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u591c\u57ce - FUYAJO",
+        "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
+      },
+      "artists": [
+        {
+          "name": "TYT",
+          "url": "https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw"
+        },
+        {
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        },
+        {
+          "name": "Tyler Carter",
+          "url": "https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238288,
+      "name": "\u4e0d\u591c\u57ce - FUYAJO",
+      "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco"

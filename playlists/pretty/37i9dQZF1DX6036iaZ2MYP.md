@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,298 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,339 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 39 | [Baby Chou](https://open.spotify.com/track/3TIR75C7gNwDk4DNvvDu0n) | [YNS](https://open.spotify.com/artist/6dPTxSWRFRxE2n9DpczpG6) | [Baby Chou](https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars) | 3:04 |
 | 40 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
 
-Snapshot ID: `MCxjN2FiNGIzNWRlNjlmYTZlNDJlZGUzYzBkYjc2MDQzNmY0ZGQwZWZl`
+Snapshot ID: `MCxkZTU4MmY1NGI3MGY1OTM2ZTlhOTAxMDY1YmNhY2JmMjAwOTU5NmY3`

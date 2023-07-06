@@ -7373,6 +7373,28 @@
     },
     {
       "album": {
+        "name": "Dentro do Carro Me Mamando",
+        "url": "https://open.spotify.com/album/54MlcvioXAKh9I4WnObkdR"
+      },
+      "artists": [
+        {
+          "name": "MC XT Bleck",
+          "url": "https://open.spotify.com/artist/1lR92KhOFNZt5y8iDtlHLx"
+        },
+        {
+          "name": "DJ DR",
+          "url": "https://open.spotify.com/artist/4qLCLwtpj206EmYNK9WoYj"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125826,
+      "name": "Dentro do Carro Me Mamando",
+      "url": "https://open.spotify.com/track/4ubt1S2q2iMgXDpJv9wS1J"
+    },
+    {
+      "album": {
         "name": "Depende",
         "url": "https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li"
       },
@@ -11302,7 +11324,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -15901,6 +15923,28 @@
     },
     {
       "album": {
+        "name": "Mata Rato do Casar\u00e3o 1.0",
+        "url": "https://open.spotify.com/album/3loQad9mE9biGTWDAG7Bst"
+      },
+      "artists": [
+        {
+          "name": "d.silvestre",
+          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
+        },
+        {
+          "name": "MC DENADAI",
+          "url": "https://open.spotify.com/artist/2XuRl1OJ9suTuuCbdGiimG"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Mata Rato do Casar\u00e3o 1.0",
+      "url": "https://open.spotify.com/track/3iBssZbAfK6V7mIiqNMwEs"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -18182,7 +18226,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 268434,
       "name": "Murder on My Mind",
       "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
@@ -21644,16 +21688,16 @@
           "url": "https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX"
         },
         {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        },
+        {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
           "name": "MC Estudante",
           "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
-        },
-        {
-          "name": "Xavier2bit",
-          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
         }
       ],
       "date_added": "2023-06-20",
@@ -22026,7 +22070,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 131142,
       "name": "Plof Plof - Fudel\u00e2ncia no Carro",
       "url": "https://open.spotify.com/track/03laKxZEA4oIEw79VoDmKO"
@@ -22504,7 +22548,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 153019,
       "name": "Pra Vaquejada Eu Vou",
       "url": "https://open.spotify.com/track/0PhyA8Nt06PLmNqviyqSzV"

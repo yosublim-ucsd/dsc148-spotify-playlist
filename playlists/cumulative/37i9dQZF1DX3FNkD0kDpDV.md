@@ -4,7 +4,7 @@
 
 > Voted \#1 Club in the World ’22 & ’23, the futuristic club <a href="https://open.spotify.com/user/31coqoicovg7m5ugwuaoty2ls5ia?si=7a89c12a9c12487c">HÏ IBIZA</a>, hosts the most vital artists from across electronic music.
 
-578 songs - 1 day 19 hr 20 min
+579 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,8 @@
 | [T.O.A.D.](https://open.spotify.com/track/2MqIOIBho3Octe1hbDnYF8) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [EDC Las Vegas 2023](https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5) | 2:58 | 2023-05-12 | 2023-07-01 |
 | [Tainted Love \- Jamie Jones 4Z Remix](https://open.spotify.com/track/0ZQIjF4oeKaw3zzeBtkC5U) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Tainted Love \(Jamie Jones 4Z Remix\)](https://open.spotify.com/album/6Ee4WbEyN6fTWPetbbcjDT) | 4:57 | 2021-12-15 | 2022-05-17 |
 | [Take A Leap Of Faith](https://open.spotify.com/track/6XllFT2tDu8xd85UM6sNDj) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Take A Leap Of Faith](https://open.spotify.com/album/2gOlj8No42mzQXn5JMyCRE) | 6:38 | 2021-12-15 | 2022-05-17 |
-| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-30 |  |
+| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-30 | 2023-07-06 |
+| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-30 |  |
 | [Talking Walls \- Dub](https://open.spotify.com/track/0CEui1Dh1RtgE3kVHEvS4J) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Talking Walls](https://open.spotify.com/album/6DN8nBL2ftOAMxiyaIUD3J) | 6:39 | 2022-08-05 | 2022-08-31 |
 | [Tamo Loco](https://open.spotify.com/track/5fgCSUkH3JelfAoDOWR854) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [EDC Las Vegas 2023](https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5) | 2:40 | 2023-05-12 | 2023-07-01 |
 | [Tanzstube \- Original Mix](https://open.spotify.com/track/3c95FMCqKRCx3KA2e5rv4y) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Tanzstube](https://open.spotify.com/album/698QwBpk2VlcRlc9S4FvW1) | 7:44 | 2022-08-05 | 2022-08-31 |

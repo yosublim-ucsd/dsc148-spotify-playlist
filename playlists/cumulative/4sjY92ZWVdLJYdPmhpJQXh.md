@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-558 songs - 1 day 3 hr 38 min
+560 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [I Deserve](https://open.spotify.com/track/4G7Gw0nwh0tO40BZdpjtRK) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:49 | 2022-08-19 | 2022-11-25 |
 | [I Don't Even Like You Anymore](https://open.spotify.com/track/7koGk306I3JDprGGzmUIxJ) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [I Don’t Even Like You Anymore](https://open.spotify.com/album/41exvDW7H42gOcxfr2DQ3P) | 2:58 | 2022-08-26 | 2022-11-25 |
 | [I Got A Lot To Lose](https://open.spotify.com/track/3yAGO9Paqr1USajZV0WIG1) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [three](https://open.spotify.com/album/1ooobrQ5GnZuoVvmGJit4f) | 2:55 | 2022-12-09 | 2023-03-11 |
+| [I Gotta](https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 | 2023-07-05 |  |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-05-20 | 2022-11-23 |
 | [I Hate YoungBoy](https://open.spotify.com/track/3a397RQ7XDv3IhEVHTv8Jq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 4:21 | 2022-08-05 | 2022-11-25 |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-04-29 | 2022-11-23 |
@@ -500,6 +501,7 @@
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-10 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/6i08kCm2z1gI38NGnzLIJ1) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 2:32 | 2023-01-20 | 2023-03-11 |
 | [The Biggest](https://open.spotify.com/track/7M4M1GExnJhatiVlHf1Nfm) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL) | [The Biggest](https://open.spotify.com/album/27MhJVEQWJlpQMAh7aEM4U) | 2:00 | 2022-11-04 | 2023-03-11 |
+| [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:07 | 2023-07-05 |  |
 | [The Kitchen](https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [The Kitchen](https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv) | 3:21 | 2022-04-08 | 2022-11-23 |
 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2022-12-09 | 2023-03-11 |
 | [the ringer](https://open.spotify.com/track/1rKPnrP8PxVIUKqoflty9G) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:34 | 2022-11-04 | 2022-11-23 |

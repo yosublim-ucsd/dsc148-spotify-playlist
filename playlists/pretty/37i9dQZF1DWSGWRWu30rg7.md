@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: BRIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,979 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,986 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 100 | [Pesan Singkat](https://open.spotify.com/track/0YMteMsImvjN6IRsb7qgqY) | [Jouhatsu](https://open.spotify.com/artist/32DBDaDLRgqWn97OrBGIUS) | [Pesan Singkat](https://open.spotify.com/album/1489XPUWD9VTpwepae6b8i) | 3:51 |
 | 101 | [Lifetime](https://open.spotify.com/track/5uSnBtkaWgI4FeZo81Tbo7) | [Rynrayn](https://open.spotify.com/artist/6GvQq02fyy1DJh2JqaOK4m) | [Lifetime](https://open.spotify.com/album/2ZQnEZPUjEn2RtjIuGkdwI) | 2:18 |
 
-Snapshot ID: `MCwxNzQxMDY4NGUxN2Y1ZmIxYTVmNmJjZGZlNGNkZGExODUzN2M3NTY2`
+Snapshot ID: `MCxjNGEwMTU4MDhjMTM4ZDhlYjYzOTI4NzFiZDhiNWY2NzhmYThkZTUw`

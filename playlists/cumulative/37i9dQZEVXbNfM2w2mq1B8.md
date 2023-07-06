@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,144 songs - 2 day 16 hr 16 min
+1,145 songs - 2 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-20 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-13 | 2022-08-12 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-03 |
-| [GOLD DIGGA](https://open.spotify.com/track/3KxRODClwk7M5igQQXj1II) | [MITREVV](https://open.spotify.com/artist/29JDW7YBoYLyRs7mUg2Lzq), [NSG1](https://open.spotify.com/artist/0nsbUh9q9N6VMqHRZgImZl) | [GOLD DIGGA](https://open.spotify.com/album/5Yz9kAbdYwPGUzaCJqC6Sn) | 3:01 | 2023-03-14 |  |
+| [GOLD DIGGA](https://open.spotify.com/track/3KxRODClwk7M5igQQXj1II) | [MITREVV](https://open.spotify.com/artist/29JDW7YBoYLyRs7mUg2Lzq), [NSG1](https://open.spotify.com/artist/0nsbUh9q9N6VMqHRZgImZl) | [GOLD DIGGA](https://open.spotify.com/album/5Yz9kAbdYwPGUzaCJqC6Sn) | 3:01 | 2023-03-14 | 2023-07-06 |
 | [GOLD STACKS](https://open.spotify.com/track/1Ijpng3ZLhTRcEd8iqh4p4) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:42 | 2022-04-30 | 2022-05-02 |
 | [GOLDWING](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:31 | 2021-08-01 | 2021-08-02 |
 | [Gonka](https://open.spotify.com/track/1HhDpamkdO5DK65VjAmxBf) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Don Mario](https://open.spotify.com/artist/2lKSCvxuWDRCyImWLIXqre) | [Gonka](https://open.spotify.com/album/5PhF3fH2LwQ8ht03WIrsfR) | 4:30 | 2023-06-04 |  |
@@ -775,6 +775,7 @@
 | [SCENATA](https://open.spotify.com/track/6IA1LZerygFsTtFqlK5Pw5) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [FAKT\. ZASLUJAVAM\. SCENATA.](https://open.spotify.com/album/6h2R71xZWTPrILvEsaNBGo) | 2:45 | 2021-12-04 | 2021-12-06 |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-25 |
 | [Sculptures Of Anything Goes](https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:59 | 2022-10-22 | 2022-10-24 |
+| [Se Perno Gia Na Sou Po](https://open.spotify.com/track/6wDkQnxxbRwGsWMElQkrdB) | [Triantafillos](https://open.spotify.com/artist/21DdJEcvxk3t2u53LWUQ0H) | [Se Perno Gia Na Sou Po](https://open.spotify.com/album/3eyN8gT097UThbE4RdiYOp) | 3:54 | 2023-07-05 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-28 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-24 | 2023-05-11 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-29 |

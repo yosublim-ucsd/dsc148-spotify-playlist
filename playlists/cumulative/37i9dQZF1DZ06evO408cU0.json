@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 164053,
       "name": "Cosas De La Peda",
       "url": "https://open.spotify.com/track/0756e1uD52MeG9AaRir5tF"
@@ -786,6 +786,28 @@
       "duration_ms": 155333,
       "name": "La Repetidora",
       "url": "https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Lo Que Nos Pas\u00f3",
+      "url": "https://open.spotify.com/track/4NpuPjCAp6J1lOvbV1OiHf"
     },
     {
       "album": {

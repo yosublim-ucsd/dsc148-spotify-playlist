@@ -1,12 +1,12 @@
 {
   "description": "Gettin' figgy with it, bana-na-na-nanana",
-  "num_followers": 961491,
+  "num_followers": 961854,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTE2ZjEyZjhhZTgyZjhkMDY5NTY5MDZiNWY1YThjZDRlMDU4ZGYx",
+  "snapshot_id": "MCw2NTY2MmRkNDlmOTE1ZGQ3ODAzOTk1YTkyYTI0YTMyZTEyYWMwOTZi",
   "tracks": [
     {
       "added_at": "2023-04-19 16:05:06",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Thrill of the Arts",
         "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 181259,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Will I See You Again?",
         "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
         "name": "Lucy Pearl",
         "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 217666,
       "name": "Don't Mess With My Man",
       "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 154119,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1291,6 +1275,22 @@
       "duration_ms": 266826,
       "name": "Thinking of You - 1995 Remaster",
       "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 154119,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "How Deep Is Your Love (feat. Yebba) - Live",
-      "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "How Deep Is Your Love (feat. Yebba) - Live",
+      "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
-      },
-      "artists": [
-        {
-          "name": "Saint Joshua",
-          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 269173,
       "name": "Turnin' Me Up",
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
+      },
+      "artists": [
+        {
+          "name": "Saint Joshua",
+          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
     }
   ],
   "unique_name": "Kitchen Swagger",

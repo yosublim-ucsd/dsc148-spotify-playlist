@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-290 songs - 15 hr 3 min
+291 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Koma](https://open.spotify.com/track/05QBSYagui3cfuxySqprhx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Koma](https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo) | 2:31 | 2023-01-13 | 2023-01-28 |
 | [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 | 2023-01-20 |
 | [Kpanla](https://open.spotify.com/track/7vyPsq17QO1sN982fxtL3z) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kpanla](https://open.spotify.com/album/6Be7V1VsrltIu9AQoKkJ6k) | 2:46 | 2022-05-05 | 2022-07-29 |
-| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
+| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 | 2023-07-06 |
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-08-05 |
 | [La Maluka](https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7) | [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [La Maluka](https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm) | 4:34 | 2023-01-27 | 2023-04-15 |
 | [Lakiriboto](https://open.spotify.com/track/5D3fIoS0kHh6Yzzz3RP9eW) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Alari](https://open.spotify.com/album/0hjZTmymeFzADTD4Wevzkg) | 2:48 | 2021-08-20 | 2022-07-29 |
@@ -245,6 +245,7 @@
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 |  |
 | [So Many Things I Like](https://open.spotify.com/track/5m9mTvlzkpYAvXQz0LabqG) | [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [So Many Things I Like](https://open.spotify.com/album/7pYlSYojhlEn3k4P2XGyoW) | 2:59 | 2022-03-17 | 2022-07-29 |
 | [Soja Man](https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/00jKow5FJLfnD2FW57m77E) | 3:21 | 2023-03-30 | 2023-04-21 |
+| [SOKOTO](https://open.spotify.com/track/5wedEJLTgmlmworhXQaaO8) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [SOKOTO](https://open.spotify.com/album/6cZhzvKBRup7VnIfV0roR1) | 2:55 | 2023-06-30 |  |
 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 | 2022-11-18 | 2022-12-03 |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-03-25 |  |
 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 | 2023-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 173142,
+  "num_followers": 173392,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy",
+  "snapshot_id": "MCwyYzI0YmE5NjAwYjQ2YTVjZDFiZDRjNGYxN2RlMTFjMDE1Yzk1MWIx",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -339,6 +339,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "20 Valses Instrumentales",
+        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+      },
+      "artists": [
+        {
+          "name": "Bodas y 15 A\u00f1os",
+          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The Essential Ennio Morricone",
         "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
       },
@@ -359,38 +375,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Valses Instrumentales",
-        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+        "name": "Maria Elena",
+        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
       },
       "artists": [
         {
-          "name": "Bodas y 15 A\u00f1os",
-          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 206653,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
-        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
-      },
-      "artists": [
-        {
-          "name": "Scott Joplin",
-          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        },
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Entertainer",
-      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
+      "duration_ms": 187866,
+      "name": "Maria Elena",
+      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -411,18 +407,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Maria Elena",
-        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
+        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
+        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
       },
       "artists": [
         {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
         }
       ],
-      "duration_ms": 187866,
-      "name": "Maria Elena",
-      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
+      "duration_ms": 233600,
+      "name": "The Entertainer",
+      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -499,18 +499,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
       "artists": [
         {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
       },
       "artists": [
         {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
         }
       ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -627,18 +627,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
       "artists": [
         {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -659,18 +659,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
       "artists": [
         {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+      "duration_ms": 303333,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -955,18 +955,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Leroy Anderson Collection",
-        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
+        "name": "Svezia, Inferno E Paradiso",
+        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
       "artists": [
         {
-          "name": "Leroy Anderson",
-          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
         }
       ],
-      "duration_ms": 169426,
-      "name": "Blue Tango",
-      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
+      "duration_ms": 116559,
+      "name": "Mah N\u00e0 Mah N\u00e0",
+      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -991,18 +991,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
-        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+        "name": "The Leroy Anderson Collection",
+        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
       },
       "artists": [
         {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
         }
       ],
-      "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
-      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+      "duration_ms": 169426,
+      "name": "Blue Tango",
+      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Favoritas Instrumentales,Vol. 4",
-        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
       },
       "artists": [
         {
-          "name": "Joaquin Borges",
-          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
-        },
-        {
-          "name": "National Philarmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
         }
       ],
-      "duration_ms": 175906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1247,22 +1243,6 @@
       "duration_ms": 153133,
       "name": "The Girl from Ipanema",
       "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Grandes Favoritas Instrumentales,Vol. 4",
+        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Borges",
+          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
+        },
+        {
+          "name": "National Philarmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Rhythms Of The World",
         "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 383933,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Presentando a La Orquesta Cuerdas y Metales",
         "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 383933,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
     },
     {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "A Regar La Polilla",
-        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
-    },
-    {
       "added_at": "2021-12-23 15:47:25",
       "album": {
         "name": "The Ultimate John Barry",
@@ -1407,6 +1391,22 @@
       "duration_ms": 167133,
       "name": "Midnight Cowboy",
       "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Danke Schoen - Helmut Zacharias",
-        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
       },
       "artists": [
         {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 145800,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
+      "duration_ms": 150893,
+      "name": "Siempre en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA"
     },
     {
       "added_at": "2020-12-08 19:02:01",

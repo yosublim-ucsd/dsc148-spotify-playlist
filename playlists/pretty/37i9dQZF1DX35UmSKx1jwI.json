@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 93264,
+  "num_followers": 93401,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmYyOTMzZDk2NTQ2MjBmZmFjOWFlMWNiNmNlMjgyYzFlMTJkNWM0",
+  "snapshot_id": "MCwxMDEzMWQ2Y2ZmMjYwM2I5ZDJhMWM4YWJmMDZhYzhmOTg3ODM4MjEz",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/1BRQ14AYfF7XJyUTk1zalU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/23nhxZKWVRd7BMVesi4X3E"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 185620,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Hangover",
-        "url": "https://open.spotify.com/album/1BRQ14AYfF7XJyUTk1zalU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/23nhxZKWVRd7BMVesi4X3E"
     },
     {
       "added_at": "2023-04-13 21:59:00",

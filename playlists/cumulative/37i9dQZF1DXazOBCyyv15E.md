@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: The Last Dinner Party
 
-1,601 songs - 3 day 23 hr 13 min
+1,602 songs - 3 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Rat Race](https://open.spotify.com/track/4JIYMwRJwMjyMo6sjD9PbA) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Rat Race](https://open.spotify.com/album/6VWn9VsfNhGOpxdxsYDVpv) | 2:29 | 2022-08-25 | 2022-10-14 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-13 | 2023-02-17 |
 | [Reaching 2](https://open.spotify.com/track/4kTcd0tvXw3Kb71R9mlOMO) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [ICYMI](https://open.spotify.com/album/6sS4RRzhd4oeWwirHJYQWQ) | 2:58 | 2022-09-08 | 2022-10-21 |
+| [Real Life](https://open.spotify.com/track/3U1fuAieIu6RcxAWFaLNTF) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Real Life](https://open.spotify.com/album/3dPn881z7xaKhuoKHXw9EX) | 4:32 | 2023-06-29 |  |
 | [Real Life \- Edit](https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Real Life](https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb) | 3:34 | 2023-05-11 | 2023-06-30 |
 | [Reality](https://open.spotify.com/track/4UouUPNprfX62HM4iP06bh) | [Local Boy](https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj) | [Reality](https://open.spotify.com/album/5fMeN4GDympJrP0XRuy2NS) | 3:17 | 2021-12-10 | 2022-02-11 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-10-16 | 2021-10-29 |

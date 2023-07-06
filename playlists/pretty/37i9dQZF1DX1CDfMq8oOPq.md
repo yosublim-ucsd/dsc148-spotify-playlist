@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,517 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,582 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 18 | [Lady da Quebrada](https://open.spotify.com/track/0R9sMsxooyc1OTf0LO4KyS) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Rapper](https://open.spotify.com/album/6QUcLAP54GOcf5ZUoSbUoZ) | 3:02 |
 | 19 | [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 |
 | 20 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
-| 21 | [No Topo](https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Topo](https://open.spotify.com/album/2Tq9t0VdZmmw6DO8HXJlDv) | 3:00 |
-| 22 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 |
+| 21 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 |
+| 22 | [No Topo](https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Topo](https://open.spotify.com/album/2Tq9t0VdZmmw6DO8HXJlDv) | 3:00 |
 | 23 | [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 |
 | 24 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
 | 25 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCxiNDQxNTcyNWVjZWViYjFlMjk3YWQ3YTU0MGY1YjViY2YwMjJhYjY5`
+Snapshot ID: `MCwxNWIxYThiZjQyOGY1Njc5MzI2OWM5ZDBmYThkMjJlZDJjMmYwOGM5`

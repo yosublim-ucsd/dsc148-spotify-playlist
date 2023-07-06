@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 343122,
+  "num_followers": 343252,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTI5MmVhYTI2ZDVlMjE3MDM1NjViZjJkZmMzZmQ4NjkzNmJmYmJl",
+  "snapshot_id": "MCw4MTVjMTYzMWM3NjZiZWRhOGNhNmFmNjNhOTE3Njc1OGVkODJmOGVk",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Shakedown",
-        "url": "https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr"
-      },
-      "artists": [
-        {
-          "name": "Speedometer",
-          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Rubberneck",
-      "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Shakedown",
+        "url": "https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr"
+      },
+      "artists": [
+        {
+          "name": "Speedometer",
+          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Rubberneck",
+      "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+      },
+      "artists": [
+        {
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
       },
@@ -1057,38 +1073,6 @@
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
-      },
-      "artists": [
-        {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Canoga Madness",
@@ -1103,6 +1087,22 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1371,26 +1371,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG"
+        "name": "Kerria Lacca",
+        "url": "https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi"
       },
       "artists": [
         {
-          "name": "Lucas de Mulder",
-          "url": "https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ"
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
         },
         {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
         },
         {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+          "name": "Tucker Antell",
+          "url": "https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit"
         }
       ],
-      "duration_ms": 187214,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
+      "duration_ms": 299705,
+      "name": "Kerria Lacca",
+      "url": "https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG"
     }
   ],
   "unique_name": "Instrumental Funk",

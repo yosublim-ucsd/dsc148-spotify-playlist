@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,219 likes - 283 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,311 likes - 283 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,7 +272,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 262 | [Sendero](https://open.spotify.com/track/0M8jlQ7jlmf21LSV7PmB2S) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Sollozo](https://open.spotify.com/album/4u8LBEZLY2N5nQob5Qdpn3) | 1:54 |
 | 263 | [Lost](https://open.spotify.com/track/6DWGAoRPr5AIkUtqa347hK) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Healing](https://open.spotify.com/album/46CZaAwaqaymtYDUCe95H3) | 3:13 |
 | 264 | [Maple Tree](https://open.spotify.com/track/5aqpLbtOqGbAlpCWJrbIYF) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Maple Tree](https://open.spotify.com/album/6GOznOKn0MZqtrBSASuzDn) | 1:44 |
-| 265 | [There's Hope](https://open.spotify.com/track/7qgGM3xn79F41xlPSD2k34) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [There's Hope](https://open.spotify.com/album/10k8vOOvf63Hb7DZQp4e9F) | 2:22 |
+| 265 | [There's Hope](https://open.spotify.com/track/0NS09dmjwfXUDu1JyyDInT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Falling In A Dream](https://open.spotify.com/album/4b7gcWyTn5FHKRaArGPopW) | 2:22 |
 | 266 | [August Embers](https://open.spotify.com/track/4WqKkJMxKHNbsTfX9Wy9uA) | [wind\-up bird](https://open.spotify.com/artist/66UE5LrivDsDSLdDcK9Qri), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [August Embers](https://open.spotify.com/album/7lz4vYoIgLqE487POpXGTq) | 2:10 |
 | 267 | [Blessings](https://open.spotify.com/track/2AiABci49Ion0W1dS0eaRH) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3) | [Blessings](https://open.spotify.com/album/78AKzLChZDfYQFmwdDDs00) | 2:44 |
 | 268 | [The Heights](https://open.spotify.com/track/4VlLsAdRCuLHgPoQOcLbSB) | [Chill West](https://open.spotify.com/artist/2bHB1ylsCPTxalKwQ9u9Py), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [The Heights](https://open.spotify.com/album/4CJsCFza0Ju0uSxdW1sXNo) | 2:08 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 282 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 | 283 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MCwwMjhkNTc3NDUwZWY3OTNkYmU4YzhkY2YxNzJlNDQ4NTJhNjM2NDRm`
+Snapshot ID: `MCwwMDQwNGYzYzNlOWU3MjE0MjEyMzE4OGI1ODg5ZDIyMTgzZmM5NzQw`

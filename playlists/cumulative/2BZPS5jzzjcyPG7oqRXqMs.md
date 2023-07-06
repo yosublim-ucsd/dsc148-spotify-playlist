@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-192 songs - 12 hr 32 min
+193 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [STAND](https://open.spotify.com/track/3bzXihTa8HE1ur27mAsZKP) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [STAND](https://open.spotify.com/album/0A41vxoBwFcukvVcBzWBI2) | 3:23 | 2022-02-17 |  |
 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 | 2022-02-17 | 2022-08-27 |
 | [Stand In Your Love](https://open.spotify.com/track/79a7JqbWLqk7lVD8pwbnjy) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Stand In Your Love](https://open.spotify.com/album/0lPDEqGfKCJ1zXkfk2x1Id) | 3:19 | 2022-02-17 | 2022-08-27 |
+| [Stay Strong](https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:18 | 2023-07-05 |  |
 | [Still](https://open.spotify.com/track/62JivScyWUxrFju0eTSgcL) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Still](https://open.spotify.com/album/2rS2Y6H1Tn3hNqXRXFap6e) | 5:25 | 2023-05-26 |  |
 | [Stranger](https://open.spotify.com/track/0Ok890xjKDfG6t4HjI4tRm) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/0SADJ5jvIglyFvC0hRgN4R) | 3:19 | 2022-02-17 | 2022-08-27 |
 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 | 2022-09-09 |  |

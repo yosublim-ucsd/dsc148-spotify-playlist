@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-471 songs - 1 day 2 hr 32 min
+472 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-27 | 2021-09-26 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2023-01-06 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-14 |  |
-| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 |  |
+| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 | 2023-07-06 |
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 | 2019-06-21 | 2019-08-10 |
 | [Broken](https://open.spotify.com/track/3Xf1QayETh9YgdW0FzMJEl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:38 | 2019-05-26\* | 2020-04-22 |
@@ -62,6 +62,7 @@
 | [Close](https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:54 | 2019-05-26\* | 2021-07-29 |
 | [Closure \(feat\. Calica\)](https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Closure feat\. Calica](https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R) | 3:36 | 2021-12-17 | 2022-04-21 |
 | [Cold As Ice](https://open.spotify.com/track/6sKJJShsRJpt7e3u4BmrkL) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Cold As Ice](https://open.spotify.com/album/6vS9lBQXdGIDIeQ67ibnzJ) | 2:23 | 2023-01-27 | 2023-01-29 |
+| [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-07-05 |  |
 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 | 2022-01-27 |  |
 | [Crash](https://open.spotify.com/track/3U5m1uUit3g5WSAZvA5xiA) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [Crash](https://open.spotify.com/album/57olYVHFEL6K4mse8nRMva) | 4:16 | 2019-05-26\* | 2021-05-28 |
 | [Crave You](https://open.spotify.com/track/66rhCtfhQ3VyVVNjsiVwhC) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Crave You](https://open.spotify.com/album/4jOAkOUMDEDy4BvR8KJuui) | 3:51 | 2019-05-26\* | 2021-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,968 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,193 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 |
 | 50 | [I have a name](https://open.spotify.com/track/5xxLJFfElhJs5QwHlMZvjC) | [Nina Hain](https://open.spotify.com/artist/6h3g8PuG2AFNIqYnREh0xd) | [I have a name](https://open.spotify.com/album/0Xenkj1wubhQ7VxOOC6sbn) | 4:05 |
 
-Snapshot ID: `MCxkNWE4NWVhMjRmNGYwNjI2ZTQ5NWYzY2M0NzEyYjY4ZGYxZTExM2Vl`
+Snapshot ID: `MCw3ZDQwMWE5MThkNmUzZGQxM2Y5YzBmNzM5NGQ0ZTU0NmYzZGU3NDRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,913 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,937 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 87 | [Por Eso Está Conmigo](https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA) | 4:40 |
 | 88 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
 | 89 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
-| 90 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
-| 91 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
+| 90 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
+| 91 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
 | 92 | [Y Yo Ganga](https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw) | [Alegre All Stars](https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc) | [Perdido](https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz) | 8:09 |
 | 93 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
 | 94 | [Salsa Na' Ma'](https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto) | [Azuquita Y Su Orquesta Melao](https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR) | [Pura Salsa](https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1) | 4:35 |
@@ -109,19 +109,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 99 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
 | 100 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
 | 101 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
-| 102 | [La Peluca](https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn) | [Dave Santiago](https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq) | [Dave Santiago & Latin Affair](https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY) | 5:22 |
-| 103 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
+| 102 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
+| 103 | [La Peluca](https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn) | [Dave Santiago](https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq) | [Dave Santiago & Latin Affair](https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY) | 5:22 |
 | 104 | [Un Telegrama](https://open.spotify.com/track/6D2ZGTWXKrvvRrwpQK765o) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:57 |
 | 105 | [New York State of Mind](https://open.spotify.com/track/3HP07vhvfEXajpBL0pgdsW) | [Bobby Rodriguez y La Compania](https://open.spotify.com/artist/4AlehYieSy692kucODs8Na) | [Juntos Otra Vez](https://open.spotify.com/album/1aDMTl12KZoP0RqOdiEXow) | 5:17 |
 | 106 | [Matrimonio Feliz](https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [West Side Beat](https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2) | 2:47 |
 | 107 | [Free For All](https://open.spotify.com/track/2vCQYL28VsRJJo70fva5bB) | [Al Castellanos](https://open.spotify.com/artist/3SaQoDi8xQt9x6nJQjY0Pe) | [Vintage Cuba No\. 90 \- EP: Salta Perico](https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl) | 2:01 |
 | 108 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
-| 109 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
-| 110 | [Pachito Eche](https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Hoy Y Ayer](https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy) | 3:40 |
-| 111 | [Fiesta A La King](https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Instant Party](https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr) | 5:46 |
+| 109 | [Fiesta A La King](https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Instant Party](https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr) | 5:46 |
+| 110 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
+| 111 | [Pachito Eche](https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Hoy Y Ayer](https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy) | 3:40 |
 | 112 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 | 113 | [De Profesión...Tu Amante](https://open.spotify.com/track/5u6tdzhDa8rlOOI5Lm84KL) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:29 |
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCw2ZWZmOGQyMDI5MWQxMmU5YjM0MDY3OGQ1Yjg1MGMzNWVkNjFkZjUx`
+Snapshot ID: `MCw5OTY5OGRmNzgwYTM1ODkyZDhiYWM5MmI3MmVmYjUyYjM0NjhkZmRk`

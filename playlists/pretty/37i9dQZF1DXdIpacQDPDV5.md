@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Two Friends, Loud Luxury & Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,906 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,898 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 2 | [Let You Down \(feat\. Deza\)](https://open.spotify.com/track/1JRG26WhgNNt2bg4SCXtuE) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Let You Down \(feat\. Deza\)](https://open.spotify.com/album/3zYMzJAk8vrBwFSpZBOAts) | 3:10 |
 | 3 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 | 4 | [The Veldt Cinema \- BYNX Edit](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [The Veldt Cinema \(BYNX Edit\)](https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg) | 4:37 |
-| 5 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 |
+| 5 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 6 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 7 | [Too Late \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/track/51Mx2Pa9r6RkEZTWNdsZnv) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [Into Sunsets](https://open.spotify.com/album/4FRnzhEs0AEDyqWi8Odp9c) | 4:06 |
 | 8 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 74 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
 | 75 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 
-Snapshot ID: `MCw0MWJjMzU5MDNjOTg0NjhmYjM5MWVlZWQyNTVmNThlNWU4NDIzODcy`
+Snapshot ID: `MCw1MzViMTRiZjA1NDljOGZmMDZlODFlMDUzZjFhNzFkMzFhYzQwYTg0`

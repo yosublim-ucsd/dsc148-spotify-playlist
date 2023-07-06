@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-458 songs - 1 day 3 hr 9 min
+459 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-06-03 | 2023-02-05 |
 | [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 | 2023-06-23 |  |
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
-| [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 |  |
+| [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 | 2023-07-06 |
 | [Bajo las Sombras](https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:46 | 2022-07-01 | 2022-07-12 |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2022-10-12 | 2023-03-03 |
 | [Baño de Sangre](https://open.spotify.com/track/3lLPcfcroqpDCZjdmJ4EBT) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Baño de Sangre](https://open.spotify.com/album/3zPf7FxukN1hfrpa1m4Cdb) | 2:40 | 2022-07-01 | 2022-07-27 |
@@ -70,6 +70,7 @@
 | [Chañar](https://open.spotify.com/track/1XwikPufPcfa17eKiFQPCA) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Invocación](https://open.spotify.com/album/1dHH6lfeps2fuhZpvEfu0y) | 5:20 | 2022-07-01 | 2022-07-17 |
 | [Chico Bonzo](https://open.spotify.com/track/07GZ25PrdqkG19J6jJTAUT) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Santino Amigo](https://open.spotify.com/artist/5bi9RZL4DjdU9V9PRttwVz) | [Terror en el Autocine](https://open.spotify.com/album/4gLSIduqoBapUBLdmk85WZ) | 3:16 | 2022-07-01 | 2022-07-27 |
 | [Chico Mundo](https://open.spotify.com/track/3FvUA3c6HFAumhoY0XCDco) | [La Liga Matriz](https://open.spotify.com/artist/7JRKq341yLpVm8aRqrm9qB) | [Chico Mundo](https://open.spotify.com/album/1Tv1ze8gJuK358tiAmaZl5) | 2:56 | 2022-06-03 | 2022-07-20 |
+| [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 |  |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-06-03 | 2023-03-03 |
 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 | 2022-06-03 | 2023-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: OPEN TILL L8
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,607 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,609 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 70 | [Me & U](https://open.spotify.com/track/1Iavle9Z0I1NvTObHyIqI4) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Me & U](https://open.spotify.com/album/7yDmVwIFP6QLge1VazcErF) | 2:41 |
 | 71 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 |
 | 72 | [Breathe \(feat\. No/Me\)](https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Breathe \(feat\. No/Me\)](https://open.spotify.com/album/6S0nluEFylUKYsrd2tj0jL) | 4:19 |
-| 73 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 |
+| 73 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 74 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 |
 | 75 | [The Sound \- Kabrio Remix](https://open.spotify.com/track/1naJ12nFfIdzI4g2Vyzp03) | [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH), [Kabrio](https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy) | [The Sound \(Kabrio Remix\)](https://open.spotify.com/album/0p6KGnxyTahEcv7vxMYcl0) | 5:25 |
 | 76 | [Get What I Want](https://open.spotify.com/track/17qjROoBrEtXUDpNcin3gF) | [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [Get What I Want](https://open.spotify.com/album/4lscfHKTpLow5eGzVhDjfx) | 3:26 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 101 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 |
 | 102 | [Carhartt Jacket](https://open.spotify.com/track/4iVvjsdDvxibDx3XAbaYVa) | [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V), [Shush](https://open.spotify.com/artist/6ENz2sCA2z0BlNfSxWaAVN) | [Carhartt Jacket](https://open.spotify.com/album/7IONkcgZ8rJ9qCBfqHVisa) | 2:27 |
 
-Snapshot ID: `MCw3YTQ4MmFhYTgzNTMwMTIwMDM0NDRmMGQyNzBjMmI5MjJjYWVjMGZl`
+Snapshot ID: `MCw0NWMxNzZmNzRmYzk5YTYwOWVjYjBjNWQwNzM2ODkzMjVlNzY0YjZh`

@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3329975,
+  "num_followers": 3330234,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzBjMjExMjNmMGJkYzYxY2I4ZTRmYjMyZTBkYjkzYTYzMGRhMDhk",
+  "snapshot_id": "MCw0MDdiZDFmNzgyZDY3NmUxNTk2MjhmZjk3ZDVkNGYzOTJkODk2YTYx",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "If By Chance",
-      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "The Shepherd's Dog",
         "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 241917,
       "name": "Flightless Bird, American Mouth",
       "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "If By Chance",
+      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
     },
     {
-      "added_at": "2023-06-16 07:56:00",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 181900,
-      "name": "405",
-      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
@@ -1389,20 +1373,20 @@
       "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
     },
     {
-      "added_at": "2023-04-07 20:03:50",
+      "added_at": "2023-06-16 07:56:00",
       "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
+      "duration_ms": 181900,
+      "name": "405",
+      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
     },
     {
       "added_at": "2023-06-09 11:28:14",
@@ -1419,6 +1403,22 @@
       "duration_ms": 132096,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 221293,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 262693,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1669,6 +1669,22 @@
       "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
     },
     {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Savage Garden (Original Version)",
+        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 276289,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
+    },
+    {
       "added_at": "2023-05-26 07:08:00",
       "album": {
         "name": "you don't love me anymore",
@@ -1715,22 +1731,6 @@
       "duration_ms": 180640,
       "name": "I Can't Fall in Love Without You",
       "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Savage Garden (Original Version)",
-        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 276289,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
       },
@@ -2383,18 +2367,34 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Never Be Mine",
-        "url": "https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 222598,
-      "name": "Never Be Mine",
-      "url": "https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M"
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 180338,
+      "name": "Will It Ever Feel The Same?",
+      "url": "https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Infinite Dream",
-        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+        "name": "Never Be Mine",
+        "url": "https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui"
       },
       "artists": [
         {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 180338,
-      "name": "Will It Ever Feel The Same?",
-      "url": "https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H"
+      "duration_ms": 222598,
+      "name": "Never Be Mine",
+      "url": "https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M"
     },
     {
       "added_at": "2023-04-07 20:03:50",

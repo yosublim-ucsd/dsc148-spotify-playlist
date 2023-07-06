@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 109938,
+  "num_followers": 110007,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM3OTc3NzQwM2M5YmRjNTI0MzA5ODYxNzUwOGI0YjUyZjc2Nzkx",
+  "snapshot_id": "MCwwMWNiMzViYzU5Yjc1ZGRlNDFkZjgwMDM0NmI5ZTA3NWE1MDg0NWZl",
   "tracks": [
     {
       "added_at": "2023-06-01 22:34:17",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2023-06-01 22:34:17",
-      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2023-06-01 22:34:17",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2023-06-01 22:34:17",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
+        "name": "Slick",
+        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "Intimate Friends",
+      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+    },
+    {
+      "added_at": "2023-06-01 22:34:17",
+      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -371,26 +387,6 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
-    },
-    {
-      "added_at": "2023-06-01 22:34:17",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -407,18 +403,22 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
-        "name": "Slick",
-        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
       "artists": [
         {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 353453,
-      "name": "Intimate Friends",
-      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2023-06-01 22:34:17",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2023-06-01 22:34:17",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2023-06-01 22:34:17",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-01 22:34:17",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "How Did You Know - Live At Electric Lady",
-      "url": "https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD"
-    },
-    {
-      "added_at": "2023-06-01 22:34:17",
-      "album": {
         "name": "Horizon Unlimted",
         "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2023-06-01 22:34:17",
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "How Did You Know - Live At Electric Lady",
+      "url": "https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD"
     },
     {
       "added_at": "2023-06-01 22:34:17",

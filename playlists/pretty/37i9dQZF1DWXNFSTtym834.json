@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1089624,
+  "num_followers": 1090828,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2UyNDVhMzU5ZDNlZDc1MWIxYzkwMzcxMGY4MWYwMzlkY2Q1NDA2",
+  "snapshot_id": "MCw2MjcwZjVmYmNjMjJiNDk4NTNlZDQ3YWRhYjY4YjI5ODc2MWRmMDFj",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Clayman",
         "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 294866,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Inhuman Rampage",
-        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 441560,
-      "name": "Through the Fire and Flames",
-      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Runnin' Wild (Special Edition)",
         "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 226706,
       "name": "Too Much, Too Young, Too Fast",
       "url": "https://open.spotify.com/track/2LQbBzrXkgQHnCDUmHjReH"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Inhuman Rampage",
+        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 441560,
+      "name": "Through the Fire and Flames",
+      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "The Dethalbum",
         "url": "https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 213000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "Revolution Is My Name",
-      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Right Side Of The Bed",
-      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 301853,
       "name": "Ich tu dir weh",
       "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Right Side Of The Bed",
+      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
     },
     {
       "added_at": "2023-02-08 17:32:03",

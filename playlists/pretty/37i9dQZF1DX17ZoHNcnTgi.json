@@ -1,12 +1,12 @@
 {
   "description": "De costa a costa, de frontera a frontera...  un banquete de sonidos de M\u00e9xico.",
-  "num_followers": 16485,
+  "num_followers": 16503,
   "original_name": "Sones & Fusiones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2M2MzdlODg4OTQ1NTFkMTliNjYxNmYyYzdhMWJlMmFjODlmMGFj",
+  "snapshot_id": "MCxlNTM1NWQwZjA3NTA5MDc1MzExNDBhODNhZGVjODFmYzBiNjc5ZmQx",
   "tracks": [
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Los Once Pueblos",
-        "url": "https://open.spotify.com/album/0mIQkY9LZtciVwvWOvOtfw"
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tierra Caliente",
+        "url": "https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY"
       },
       "artists": [
         {
-          "name": "Banda La Michoacana",
-          "url": "https://open.spotify.com/artist/4zWFyrGjecKej99NzYCWVt"
+          "name": "Conjunto de Juan Reynoso",
+          "url": "https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo"
         }
       ],
-      "duration_ms": 126480,
-      "name": "Los Once Pueblos",
-      "url": "https://open.spotify.com/track/2N8wA0N7dCJ7acA9PRshnD"
+      "duration_ms": 205693,
+      "name": "El Son Guerrerense",
+      "url": "https://open.spotify.com/track/1mmQmz9iCZZ94g0ugaAInP"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1099,34 +1099,34 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tierra Caliente",
-        "url": "https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY"
+        "name": "Los Once Pueblos",
+        "url": "https://open.spotify.com/album/0mIQkY9LZtciVwvWOvOtfw"
       },
       "artists": [
         {
-          "name": "Conjunto de Juan Reynoso",
-          "url": "https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo"
+          "name": "Banda La Michoacana",
+          "url": "https://open.spotify.com/artist/4zWFyrGjecKej99NzYCWVt"
         }
       ],
-      "duration_ms": 205693,
-      "name": "El Son Guerrerense",
-      "url": "https://open.spotify.com/track/1mmQmz9iCZZ94g0ugaAInP"
+      "duration_ms": 126480,
+      "name": "Los Once Pueblos",
+      "url": "https://open.spotify.com/track/2N8wA0N7dCJ7acA9PRshnD"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
+      "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
-        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
       "artists": [
         {
-          "name": "Conjunto de los Hermanos Molina",
-          "url": "https://open.spotify.com/artist/5mXenbR5y6TR781DdGE84D"
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
         }
       ],
-      "duration_ms": 159800,
-      "name": "El Pajarillo Jilguero",
-      "url": "https://open.spotify.com/track/7GTI5KnQNC3fXj5PRaC0eE"
+      "duration_ms": 373746,
+      "name": "El Torito",
+      "url": "https://open.spotify.com/track/44HEaq5zNPgE23cW5FJiGU"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1161,20 +1161,20 @@
       "url": "https://open.spotify.com/track/5IIHg8ybNSQNLWkxPPnjZO"
     },
     {
-      "added_at": "2021-06-22 15:56:01",
+      "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
+        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
       },
       "artists": [
         {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+          "name": "Conjunto de los Hermanos Molina",
+          "url": "https://open.spotify.com/artist/5mXenbR5y6TR781DdGE84D"
         }
       ],
-      "duration_ms": 373746,
-      "name": "El Torito",
-      "url": "https://open.spotify.com/track/44HEaq5zNPgE23cW5FJiGU"
+      "duration_ms": 159800,
+      "name": "El Pajarillo Jilguero",
+      "url": "https://open.spotify.com/track/7GTI5KnQNC3fXj5PRaC0eE"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1225,54 +1225,6 @@
       "url": "https://open.spotify.com/track/4VvzZJHForqSUN7BRHcqFM"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Pichatarito",
-      "url": "https://open.spotify.com/track/4tkIF5BkBVvihpojMHyh2c"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Vientos del Mar",
-        "url": "https://open.spotify.com/album/2yMlZsJcuqXA7WGgr6t2r7"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 291273,
-      "name": "La Guacamaya",
-      "url": "https://open.spotify.com/track/5flKJUDQifLITSlZnpRgzs"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Orquesta Jarocha",
-        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
-        }
-      ],
-      "duration_ms": 252517,
-      "name": "La Guacamaya",
-      "url": "https://open.spotify.com/track/1kUOLBCTVfIeim8wHR0wks"
-    },
-    {
       "added_at": "2021-06-22 15:56:01",
       "album": {
         "name": "Los Utrera (Los): Ay Cosita!",
@@ -1307,6 +1259,70 @@
     {
       "added_at": "2021-06-22 15:56:01",
       "album": {
+        "name": "Orquesta Jarocha",
+        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+        }
+      ],
+      "duration_ms": 252517,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/1kUOLBCTVfIeim8wHR0wks"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Vientos del Mar",
+        "url": "https://open.spotify.com/album/2yMlZsJcuqXA7WGgr6t2r7"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 291273,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/5flKJUDQifLITSlZnpRgzs"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Pichatarito",
+      "url": "https://open.spotify.com/track/4tkIF5BkBVvihpojMHyh2c"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
+        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
+      },
+      "artists": [
+        {
+          "name": "Dueto de Los Hermanos Rios",
+          "url": "https://open.spotify.com/artist/09BlHsM47xaPrbJg6PJoIU"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Mediu Xhiga",
+      "url": "https://open.spotify.com/track/3QSa5DPry4cELoHFRqeWuN"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
         "name": "Sones Jarochos",
         "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
       },
@@ -1325,6 +1341,22 @@
       "url": "https://open.spotify.com/track/4XOPrwJRLubPkNMnETfIil"
     },
     {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Binni Gula'za",
+          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Ni'bixi dixi zi\u00f1a",
+      "url": "https://open.spotify.com/track/49zc8SxH8pvVKdxdw5X2qD"
+    },
+    {
       "added_at": "2021-06-22 15:56:01",
       "album": {
         "name": "De la mera mata",
@@ -1339,22 +1371,6 @@
       "duration_ms": 322013,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/4MXIyrc1Rhik0590znz7Uh"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
-        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
-      },
-      "artists": [
-        {
-          "name": "Dueto de Los Hermanos Rios",
-          "url": "https://open.spotify.com/artist/09BlHsM47xaPrbJg6PJoIU"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Mediu Xhiga",
-      "url": "https://open.spotify.com/track/3QSa5DPry4cELoHFRqeWuN"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1423,6 +1439,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "El Son Mexicano",
+        "url": "https://open.spotify.com/album/3bBmWoP0dUvcCHR47QRTMj"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "El Trompo (Son Jarocho)",
+      "url": "https://open.spotify.com/track/0Ag0KuCf7jPhtAhSchzMbm"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "La Ruta del Son Mexicano",
         "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
@@ -1444,13 +1476,13 @@
       },
       "artists": [
         {
-          "name": "Binni Gula'za",
-          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+          "name": "Los Hermanos R\u00edos",
+          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Ni'bixi dixi zi\u00f1a",
-      "url": "https://open.spotify.com/track/49zc8SxH8pvVKdxdw5X2qD"
+      "duration_ms": 260533,
+      "name": "La Martiniana",
+      "url": "https://open.spotify.com/track/7K7EWrOeHoTtt9Z1OoO76m"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1471,38 +1503,6 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos R\u00edos",
-          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "La Martiniana",
-      "url": "https://open.spotify.com/track/7K7EWrOeHoTtt9Z1OoO76m"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "El Son Mexicano",
-        "url": "https://open.spotify.com/album/3bBmWoP0dUvcCHR47QRTMj"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "El Trompo (Son Jarocho)",
-      "url": "https://open.spotify.com/track/0Ag0KuCf7jPhtAhSchzMbm"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
         "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 238400,
       "name": "La Martiniana",
       "url": "https://open.spotify.com/track/49r5rgPMzqsmv6UzjIkiZs"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "La Ruta del Son Mexicano",
-        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
-      },
-      "artists": [
-        {
-          "name": "Son de Oaxaca",
-          "url": "https://open.spotify.com/artist/3RLhsPUWDb9btV70Cb8BXI"
-        }
-      ],
-      "duration_ms": 153080,
-      "name": "La Tortuga del Arenal",
-      "url": "https://open.spotify.com/track/3eYL69jDDTg45N5yBhGGZj"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+        "name": "La Ruta del Son Mexicano",
+        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
       "artists": [
         {
-          "name": "Banda Lago Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/1K4CXOjnnAp6E3gerkC4DX"
+          "name": "Son de Oaxaca",
+          "url": "https://open.spotify.com/artist/3RLhsPUWDb9btV70Cb8BXI"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Qu\u00e9 Lindo Es Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/74eQMyOMHmbZDFAcKtxant"
+      "duration_ms": 153080,
+      "name": "La Tortuga del Arenal",
+      "url": "https://open.spotify.com/track/3eYL69jDDTg45N5yBhGGZj"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1579,6 +1563,22 @@
       "duration_ms": 192400,
       "name": "El Gusto",
       "url": "https://open.spotify.com/track/3ozbVIqAtWI9XqtnAsCS5q"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda Lago Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/1K4CXOjnnAp6E3gerkC4DX"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Qu\u00e9 Lindo Es Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/74eQMyOMHmbZDFAcKtxant"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Los Utrera (Los): Ay Cosita!",
-        "url": "https://open.spotify.com/album/2h4pC36KUvJON2l3O0BfPn"
-      },
-      "artists": [
-        {
-          "name": "Utrera, Los",
-          "url": "https://open.spotify.com/artist/7DoFGRLwy90zF1PIeGsKYR"
-        }
-      ],
-      "duration_ms": 475866,
-      "name": "Aguanieve con zapateado",
-      "url": "https://open.spotify.com/track/0jVhDPNjp3MPLoCsbL2KeQ"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
         "name": "De la mera mata",
         "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
       },
@@ -1643,22 +1627,6 @@
       "duration_ms": 349186,
       "name": "El Balaj\u00fa",
       "url": "https://open.spotify.com/track/7LlPw0n5fT0LCO6mYVaCjA"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
-        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Los Azohuastles",
-          "url": "https://open.spotify.com/artist/1g861gFZKuAvh6roalVWsT"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "La Petenera",
-      "url": "https://open.spotify.com/track/3Lendq3ccgsGBjFmA12l7v"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1683,6 +1651,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
+        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Los Azohuastles",
+          "url": "https://open.spotify.com/artist/1g861gFZKuAvh6roalVWsT"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "La Petenera",
+      "url": "https://open.spotify.com/track/3Lendq3ccgsGBjFmA12l7v"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "La Tortuga, Sones Istme\u00f1os",
         "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 174066,
       "name": "Ranchu Gubi\u00f1a",
       "url": "https://open.spotify.com/track/7qzaf6UMk4OXU9DVfp6vrP"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Los Utrera (Los): Ay Cosita!",
+        "url": "https://open.spotify.com/album/2h4pC36KUvJON2l3O0BfPn"
+      },
+      "artists": [
+        {
+          "name": "Utrera, Los",
+          "url": "https://open.spotify.com/artist/7DoFGRLwy90zF1PIeGsKYR"
+        }
+      ],
+      "duration_ms": 475866,
+      "name": "Aguanieve con zapateado",
+      "url": "https://open.spotify.com/track/0jVhDPNjp3MPLoCsbL2KeQ"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1713,22 +1713,6 @@
       "url": "https://open.spotify.com/track/0EhkVPCBYSWlu1GutS5QQ3"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 118973,
-      "name": "Tor Temben Mari (Toro de Once)",
-      "url": "https://open.spotify.com/track/62emEW3js9cZu1owJKR3Rd"
-    },
-    {
       "added_at": "2021-06-22 15:56:01",
       "album": {
         "name": "Orquesta Jarocha",
@@ -1743,6 +1727,22 @@
       "duration_ms": 316192,
       "name": "El P\u00e1jaro Carpintero",
       "url": "https://open.spotify.com/track/4a3ArpVInNo4w0KBGnTwa9"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
+        }
+      ],
+      "duration_ms": 118973,
+      "name": "Tor Temben Mari (Toro de Once)",
+      "url": "https://open.spotify.com/track/62emEW3js9cZu1owJKR3Rd"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1775,38 +1775,6 @@
       "duration_ms": 122520,
       "name": "El Pajarillo",
       "url": "https://open.spotify.com/track/2kVdZtZgyveNKU7FRfwQjT"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Los Utrera (Los): Ay Cosita!",
-        "url": "https://open.spotify.com/album/2h4pC36KUvJON2l3O0BfPn"
-      },
-      "artists": [
-        {
-          "name": "Utrera, Los",
-          "url": "https://open.spotify.com/artist/7DoFGRLwy90zF1PIeGsKYR"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Tuza",
-      "url": "https://open.spotify.com/track/1eaaAw3A42bqjSNL85TWBj"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 101280,
-      "name": "Corpus (Cuerpo)",
-      "url": "https://open.spotify.com/track/3oPi04eaahmVpe7l3qJfMN"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1843,6 +1811,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
+        }
+      ],
+      "duration_ms": 101280,
+      "name": "Corpus (Cuerpo)",
+      "url": "https://open.spotify.com/track/3oPi04eaahmVpe7l3qJfMN"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
         "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 220000,
       "name": "La Sanmarque\u00f1a",
       "url": "https://open.spotify.com/track/0Tws7KLlZZ8EdO9IrBFtOO"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Los Utrera (Los): Ay Cosita!",
+        "url": "https://open.spotify.com/album/2h4pC36KUvJON2l3O0BfPn"
+      },
+      "artists": [
+        {
+          "name": "Utrera, Los",
+          "url": "https://open.spotify.com/artist/7DoFGRLwy90zF1PIeGsKYR"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Tuza",
+      "url": "https://open.spotify.com/track/1eaaAw3A42bqjSNL85TWBj"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
-        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
       },
       "artists": [
         {
-          "name": "Dueto de Los Hermanos Rios",
-          "url": "https://open.spotify.com/artist/09BlHsM47xaPrbJg6PJoIU"
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
         }
       ],
-      "duration_ms": 230466,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/1vSnJpV79YE1zGbl6eNkEl"
+      "duration_ms": 114640,
+      "name": "Tzitzik Canela (Flor De Canela)",
+      "url": "https://open.spotify.com/track/3fcp0vGkNvc6chTPAg35Oh"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1923,34 +1923,18 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
+        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
       },
       "artists": [
         {
-          "name": "Luis Sanchez",
-          "url": "https://open.spotify.com/artist/16YqsWO8xZTwmqO2ipQmWG"
+          "name": "Dueto de Los Hermanos Rios",
+          "url": "https://open.spotify.com/artist/09BlHsM47xaPrbJg6PJoIU"
         }
       ],
-      "duration_ms": 225826,
-      "name": "La Tortuga",
-      "url": "https://open.spotify.com/track/0RJkKFl92RWvSA6q6qrUMx"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 114640,
-      "name": "Tzitzik Canela (Flor De Canela)",
-      "url": "https://open.spotify.com/track/3fcp0vGkNvc6chTPAg35Oh"
+      "duration_ms": 230466,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/1vSnJpV79YE1zGbl6eNkEl"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1985,24 +1969,20 @@
       "url": "https://open.spotify.com/track/34TgA01qdOsWmXQ1eBh4ao"
     },
     {
-      "added_at": "2021-06-22 15:56:01",
+      "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Sones Jarochos",
-        "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
       },
       "artists": [
         {
-          "name": "ARCADIO HIDALGO",
-          "url": "https://open.spotify.com/artist/7fSFQSGDK4qVzcUb6lxpvQ"
-        },
-        {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+          "name": "Luis Sanchez",
+          "url": "https://open.spotify.com/artist/16YqsWO8xZTwmqO2ipQmWG"
         }
       ],
-      "duration_ms": 212280,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/72FuLOI8lu55H2DMbUhV53"
+      "duration_ms": 225826,
+      "name": "La Tortuga",
+      "url": "https://open.spotify.com/track/0RJkKFl92RWvSA6q6qrUMx"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2021,20 +2001,24 @@
       "url": "https://open.spotify.com/track/4qBhxDZa7jZG0eZD3zlVfH"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
+      "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
-        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+        "name": "Sones Jarochos",
+        "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
       },
       "artists": [
         {
-          "name": "Tr\u00edo Huasteco del P\u00e1nuco",
-          "url": "https://open.spotify.com/artist/2AKjnSJqknp6hEWJDQAMUM"
+          "name": "ARCADIO HIDALGO",
+          "url": "https://open.spotify.com/artist/7fSFQSGDK4qVzcUb6lxpvQ"
+        },
+        {
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
         }
       ],
-      "duration_ms": 210466,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5CNrHpTwIKMbqS4zZYJ79b"
+      "duration_ms": 212280,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/72FuLOI8lu55H2DMbUhV53"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2060,6 +2044,22 @@
       },
       "artists": [
         {
+          "name": "Tr\u00edo Huasteco del P\u00e1nuco",
+          "url": "https://open.spotify.com/artist/2AKjnSJqknp6hEWJDQAMUM"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5CNrHpTwIKMbqS4zZYJ79b"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
+        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+      },
+      "artists": [
+        {
           "name": "Tr\u00edo Los Parientes",
           "url": "https://open.spotify.com/artist/0GCbbFcvtD12gngo9z0bYQ"
         }
@@ -2067,6 +2067,22 @@
       "duration_ms": 169973,
       "name": "El Gallo",
       "url": "https://open.spotify.com/track/7Mrky2SFJGKIXHZw6crK5H"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Binni Gula'za",
+          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6t0HP22IT4zsv2W5HLWgrT"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2099,22 +2115,6 @@
       "duration_ms": 210133,
       "name": "El Llorar",
       "url": "https://open.spotify.com/track/1VUDBxgRLzX8F06MQwXynF"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Binni Gula'za",
-          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6t0HP22IT4zsv2W5HLWgrT"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
-        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Cantores del P\u00e1nuco",
-          "url": "https://open.spotify.com/artist/2KCYG92xE8JSetBij1lECl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "El Sacamand\u00fa",
-      "url": "https://open.spotify.com/track/135Ns5af7wyS7pOgeBRxJv"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
         "name": "La Ruta del Son Mexicano",
         "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
@@ -2276,9 +2260,25 @@
           "url": "https://open.spotify.com/artist/4QXL9FM2NnfIl3KzLPXxTV"
         }
       ],
-      "duration_ms": 308640,
-      "name": "La Petenera",
-      "url": "https://open.spotify.com/track/4P8TMzodqPySaMcZ2rUzls"
+      "duration_ms": 311706,
+      "name": "La Petrona",
+      "url": "https://open.spotify.com/track/1LzJIQn3GT7bGgzEktfk76"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
+        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Cantores del P\u00e1nuco",
+          "url": "https://open.spotify.com/artist/2KCYG92xE8JSetBij1lECl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "El Sacamand\u00fa",
+      "url": "https://open.spotify.com/track/135Ns5af7wyS7pOgeBRxJv"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2304,13 +2304,13 @@
       },
       "artists": [
         {
-          "name": "Tr\u00edo Renacimiento Huasteco",
-          "url": "https://open.spotify.com/artist/3DQltJ9F0rwuNGBCYCwKju"
+          "name": "Tr\u00edo Huasteco Veracruzano",
+          "url": "https://open.spotify.com/artist/1GcB1yNJO9c2pLZj5EyDbB"
         }
       ],
-      "duration_ms": 159160,
-      "name": "La Rosita",
-      "url": "https://open.spotify.com/track/5WRttFHerLKJf7wMmcSuX2"
+      "duration_ms": 242533,
+      "name": "Las Poblanitas",
+      "url": "https://open.spotify.com/track/1oNR9SbLESfv3oyh9CHNfQ"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2320,13 +2320,13 @@
       },
       "artists": [
         {
-          "name": "Tr\u00edo Huasteco Veracruzano",
-          "url": "https://open.spotify.com/artist/1GcB1yNJO9c2pLZj5EyDbB"
+          "name": "Tr\u00edo Renacimiento Huasteco",
+          "url": "https://open.spotify.com/artist/3DQltJ9F0rwuNGBCYCwKju"
         }
       ],
-      "duration_ms": 242533,
-      "name": "Las Poblanitas",
-      "url": "https://open.spotify.com/track/1oNR9SbLESfv3oyh9CHNfQ"
+      "duration_ms": 159160,
+      "name": "La Rosita",
+      "url": "https://open.spotify.com/track/5WRttFHerLKJf7wMmcSuX2"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Los Pergaminos",
+          "url": "https://open.spotify.com/artist/4QXL9FM2NnfIl3KzLPXxTV"
+        }
+      ],
+      "duration_ms": 308640,
+      "name": "La Petenera",
+      "url": "https://open.spotify.com/track/4P8TMzodqPySaMcZ2rUzls"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
         "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 210666,
       "name": "La Malague\u00f1a Curre\u00f1a",
       "url": "https://open.spotify.com/track/1px8LD13nAQPLoKcFjGd5w"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Los Pergaminos",
-          "url": "https://open.spotify.com/artist/4QXL9FM2NnfIl3KzLPXxTV"
-        }
-      ],
-      "duration_ms": 311706,
-      "name": "La Petrona",
-      "url": "https://open.spotify.com/track/1LzJIQn3GT7bGgzEktfk76"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tierra Caliente",
+        "url": "https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Los Tremendos Michoacanos",
+          "url": "https://open.spotify.com/artist/56yHygtzCnkRtVTsmJSuZ6"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "El Pich\u00f3n",
+      "url": "https://open.spotify.com/track/1B52QpIqIC7eEMFO1tdrPx"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
         "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 219293,
       "name": "Los Chiles Verdes",
       "url": "https://open.spotify.com/track/7k3Jl6Rxv66MgtdSP17y7k"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tierra Caliente",
-        "url": "https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Los Tremendos Michoacanos",
-          "url": "https://open.spotify.com/artist/56yHygtzCnkRtVTsmJSuZ6"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "El Pich\u00f3n",
-      "url": "https://open.spotify.com/track/1B52QpIqIC7eEMFO1tdrPx"
     },
     {
       "added_at": "2022-01-14 17:35:28",

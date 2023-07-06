@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 122499,
+  "num_followers": 122548,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWFjNGFhZTRmZmRjMjExMjViZDY2ZjA4OGFlZjVmZmFkZTRjODRh",
+  "snapshot_id": "MCw0MDBkMGQ4MjVjN2JhZjVjMTM2MDEwOGM4NWE1OTRiMTFiZDhhZTZm",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Dear Mama",
         "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -267,22 +267,6 @@
       "duration_ms": 153493,
       "name": "Chant Of The Moon",
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Blow Up presents Exclusive Blend Volume 2",
-        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
-      },
-      "artists": [
-        {
-          "name": "Jack Trombey",
-          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Underlay No.3",
-      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -303,6 +287,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Blow Up presents Exclusive Blend Volume 2",
+        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
+      },
+      "artists": [
+        {
+          "name": "Jack Trombey",
+          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Underlay No.3",
+      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Hawaiian Blossom",
         "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 186360,
       "name": "Ahulili",
       "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Swingin' sounds for the Jungle Jetset !",
+        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
+      },
+      "artists": [
+        {
+          "name": "The Tikiyaki Orchestra",
+          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Sunset on the Kona Kai",
+      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -337,20 +353,20 @@
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Swingin' sounds for the Jungle Jetset !",
-        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
       "artists": [
         {
-          "name": "The Tikiyaki Orchestra",
-          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Sunset on the Kona Kai",
-      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -435,8 +451,8 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
       "artists": [
         {
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -511,22 +527,6 @@
       "duration_ms": 128000,
       "name": "Melancholy Serenade - Remastered",
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Chill Out Hawaiian Music",
-        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
-      },
-      "artists": [
-        {
-          "name": "The Surfmen",
-          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
-        }
-      ],
-      "duration_ms": 103903,
-      "name": "Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
         "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 161595,
       "name": "Too Young Cha Cha",
       "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Chill Out Hawaiian Music",
+        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
+      },
+      "artists": [
+        {
+          "name": "The Surfmen",
+          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
+        }
+      ],
+      "duration_ms": 103903,
+      "name": "Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Days Of Wine And Roses",
-        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Slow And Easy",
-      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
         "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 190840,
       "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Days Of Wine And Roses",
+        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Slow And Easy",
+      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
     },
     {
       "added_at": "2021-01-20 03:50:53",

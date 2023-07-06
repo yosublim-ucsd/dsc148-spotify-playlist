@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,215 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,252 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 7 | [7sixers \(feat\. Babyface Ray and Icewear Vezzo\)](https://open.spotify.com/track/1pf4HwR9cjrtHg0JsUKusN) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:00 |
 | 8 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 |
 | 9 | [Talkin Crazy](https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Talkin Crazy](https://open.spotify.com/album/0bafwntACaSuNBO9wDnAfm) | 3:30 |
-| 10 | [NO BAP](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [NO BAP](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
+| 10 | [No Bap](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [No Bap](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
 | 11 | [Bounce \(feat\. G Herbo\)](https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Bounce](https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU) | 3:08 |
 | 12 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 |
 | 13 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 | 50 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 |
 
-Snapshot ID: `MCxlOWYwZGQ5YTE2YjAzZTc2OWU1ZDY3NTdjNWI2OTY0YTkwMzI3YWM0`
+Snapshot ID: `MCwyNWQ2M2JmZWQxNTcxMzg0ZjU4ODNiMzM0MTY1Mjk3NTdiNzc2ODZk`

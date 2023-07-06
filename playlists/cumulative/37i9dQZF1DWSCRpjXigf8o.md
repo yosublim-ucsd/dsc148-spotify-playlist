@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-322 songs - 19 hr 33 min
+324 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2022-11-08 | 2023-03-29 |
 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 | 2023-04-21 |
 | [Killing Time](https://open.spotify.com/track/4Z27gYTMJnvrRpovGSDbbo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Killing Time](https://open.spotify.com/album/0JiNoBApDrk732s3a9mpei) | 3:41 | 2023-04-06 | 2023-04-21 |
+| [Koikogare](https://open.spotify.com/track/03hPAKNaAJ8RdY5G8zS0Ex) | [Baby Kiy](https://open.spotify.com/artist/1CNrTrXERkuBWYb8dtWl62) | [Love seasons](https://open.spotify.com/album/19lqIHbFWDYmpIvwBpmLKl) | 3:21 | 2023-07-04 |  |
 | [Kokoro No Mamani](https://open.spotify.com/track/0ntEHTd4tY8jfL7bElYoGo) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Kokoro No Mamani](https://open.spotify.com/album/6PHA287IjWB3n2jg1xowXQ) | 3:25 | 2022-10-20 | 2022-11-09 |
 | [Lately](https://open.spotify.com/track/3BGs6vIRCo62d9tRmaNyLc) | [Alex Stevens](https://open.spotify.com/artist/04TUw0YgRJ39Ivu7qEjHlX) | [Lately](https://open.spotify.com/album/7H1bbFsbLB94kdIUHQLUZQ) | 4:07 | 2023-03-28 | 2023-04-21 |
 | [Lean On Me](https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Lean On Me](https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs) | 3:02 | 2022-10-25 | 2022-11-16 |
@@ -223,7 +224,8 @@
 | [Slow Dance](https://open.spotify.com/track/2O2bw4CwYnvPuOAH5RVlDF) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 3:33 | 2022-12-06 | 2022-12-14 |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:02 | 2023-03-07 | 2023-03-25 |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-11-08 | 2022-11-16 |
-| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-17 | 2022-12-15 |
 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2022-10-20 | 2022-11-09 |
 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 | 2022-12-15 |  |
@@ -316,7 +318,7 @@
 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 | 2022-11-19 | 2023-02-15 |
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
 | [恋のバネ](https://open.spotify.com/track/5gjrO7df7lZWszwE07LSTP) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [恋のバネ](https://open.spotify.com/album/3FXaTXzFzy17Vyhn90InBA) | 3:06 | 2023-06-27 | 2023-07-05 |
-| [恋焦がれ](https://open.spotify.com/track/2UWWPtVYqDMU3Dtp0zME5K) | [Baby Kiy](https://open.spotify.com/artist/1CNrTrXERkuBWYb8dtWl62) | [Love seasons](https://open.spotify.com/album/6ZDHv7FtiL3PqiIoCOiiaU) | 3:21 | 2023-07-04 |  |
+| [恋焦がれ](https://open.spotify.com/track/2UWWPtVYqDMU3Dtp0zME5K) | [Baby Kiy](https://open.spotify.com/artist/1CNrTrXERkuBWYb8dtWl62) | [Love seasons](https://open.spotify.com/album/6ZDHv7FtiL3PqiIoCOiiaU) | 3:21 | 2023-07-04 | 2023-07-06 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-23 | 2023-04-21 |
 | [明日晴れるかな](https://open.spotify.com/track/39vwAWSRjy6YrG38a32Hoq) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [THE COVERS EP \(vol.2\)](https://open.spotify.com/album/5TkmleREO95qshHJFSOoe9) | 4:51 | 2023-02-21 | 2023-03-01 |
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2023-02-15 |

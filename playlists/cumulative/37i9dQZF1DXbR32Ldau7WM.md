@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: ASIAN KUNG\-FU GENERATION
 
-679 songs - 1 day 21 hr 3 min
+681 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Live or Die](https://open.spotify.com/track/6I1eiMvVLb4xS5TgSdfa2O) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Live or Die](https://open.spotify.com/album/4a4v5WK42X49fBKtWcUtpE) | 2:57 | 2022-06-14 | 2022-06-20 |
 | [Lonely Girl, Dreaming Girl](https://open.spotify.com/track/6oHJLXkgQIlpoTD0vMbX0r) | [PORTABLE ROCK](https://open.spotify.com/artist/1vKnlXAnuztfdvpAsZ3yDg) | [Lonely Girl, Dreaming Girl](https://open.spotify.com/album/6TaeLymFoZzPRnxBgSzkSy) | 3:43 | 2022-05-10 | 2022-05-18 |
 | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/album/6TnLHPMsBHQm0BFfbaSuSN) | 4:18 | 2022-08-23 | 2022-09-07 |
-| [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-06 |  |
+| [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-06 | 2023-07-06 |
 | [LUNCH IN THE JAIL](https://open.spotify.com/track/5qZZBHfmrL77nESX4HsaY4) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAFULL KING](https://open.spotify.com/album/2jULdN2D4jZOMca3abkOMk) | 3:32 | 2022-07-07 | 2022-07-13 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-07-27 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-17 | 2022-06-20 |
@@ -237,6 +237,7 @@
 | [Nagisa Hotel](https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:38 | 2022-11-22 | 2023-01-11 |
 | [Namonaki Watashi](https://open.spotify.com/track/4qtFABgORVZZ1Yk2OahY3a) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [IZORA](https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI) | 4:12 | 2023-04-11 | 2023-05-10 |
 | [naniyue](https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [naniyue](https://open.spotify.com/album/1W3pUhMEegHPxhq0afnsQ5) | 4:10 | 2023-05-09 | 2023-05-17 |
+| [Natsu Tenshi](https://open.spotify.com/track/6ChVqC6I8TbLkbHez0bRwq) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Natsu Tenshi](https://open.spotify.com/album/2w9xpvHCmhTAQafp19EquG) | 3:52 | 2023-07-04 |  |
 | [New Days](https://open.spotify.com/track/116vXvAIrrEepdpQNnnZwY) | [HEESEY](https://open.spotify.com/artist/2EoPlhCi2hnokI5Rq4LKgr) | [33](https://open.spotify.com/album/056cAMXloiXsGdJ0vTuVIh) | 2:11 | 2022-05-12 | 2022-05-16 |
 | [New Era](https://open.spotify.com/track/17licy4SPRL8Nnsp4cxQzQ) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [New Era](https://open.spotify.com/album/6gcNprfD6yEPhsQbOzBgEt) | 4:00 | 2022-05-12 | 2022-06-16 |
 | [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 | 2023-02-14 | 2023-02-22 |
@@ -312,7 +313,8 @@
 | [Slowhand ni Dakarete \(Oh Love!!\)](https://open.spotify.com/track/5dmD2fCgxHNMmOkP0i3A62) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Fujin no Shozo \(Portrait of a Lady\)](https://open.spotify.com/album/6BQzYaKDVZSdJ8GqE91MsI) | 4:11 | 2022-10-18 | 2022-10-29 |
 | [Smells](https://open.spotify.com/track/4JRzTRnZ6yvscy7INaYk93) | [Yoshito Tanaka](https://open.spotify.com/artist/4E3SE3M4WZxSzRx16UruNl), [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [TIME](https://open.spotify.com/album/6i2utXc5iuFdEUnOeAsb9o) | 3:59 | 2022-05-10 | 2022-07-29 |
 | [Smoothie Glider](https://open.spotify.com/track/4T2OrfIekkpkZHTv07qLxG) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [UK](https://open.spotify.com/album/2EtI69rcRw5yItVXEBQeJZ) | 4:01 | 2022-10-29 | 2022-11-23 |
-| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [so far so good](https://open.spotify.com/track/0T9Xn3cCZvMfoqT2TFUvF1) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:26 | 2022-06-14 | 2022-06-22 |
 | [Sokonashi Beauty](https://open.spotify.com/track/3aEN8WxAZJdgWAr0UY68Qm) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [PINEAPPLE](https://open.spotify.com/album/7H6O4bSyIxIKD5mavo8JMc) | 4:10 | 2023-04-11 | 2023-04-19 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-29 |  |
@@ -455,7 +457,7 @@
 | [のら犬にさえなれない](https://open.spotify.com/track/5wu7gUH6KSIqR6pycHGwPA) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [The LEGEND](https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR) | 4:28 | 2023-03-21 | 2023-03-23 |
 | [はじまり](https://open.spotify.com/track/6ynxjxcvYHZX1tU0J1GdkF) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [はじまり](https://open.spotify.com/album/7vKWHKRi3PiVC7bE0FapJI) | 4:46 | 2022-05-19 | 2022-07-29 |
 | [はんなりドライブ](https://open.spotify.com/track/2SH1HfEgtNfNjbGHV6AdHo) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0), [Gota Yashiki](https://open.spotify.com/artist/40QKSUPJxNQvJ9g6q17TvX) | [はんなりドライブ](https://open.spotify.com/album/6hh1W6nJ5o3CJoZpK14npo) | 3:12 | 2022-08-04 | 2022-08-10 |
-| [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2023-06-27 | 2023-07-05 |
+| [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2023-06-27 |  |
 | [もう一度 歩いていこう](https://open.spotify.com/track/5xRYNMDGPzjclwpb0k38U6) | [JUN SKY WALKER\(S\)](https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr) | [もう一度 歩いていこう](https://open.spotify.com/album/6mslJfVFvtnLsfFySAToTO) | 3:41 | 2023-05-16 | 2023-05-31 |
 | [やってみよう](https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 2:49 | 2023-06-27 |  |
 | [やりすぎた天使](https://open.spotify.com/track/7bfzD3Cd4YNk8L1Tdbs8TP) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [やりすぎた天使](https://open.spotify.com/album/4MGr6NJvW4CfKPSwlwnqv1) | 3:58 | 2022-09-27 | 2022-10-12 |
@@ -566,7 +568,7 @@
 | [坂道を上って](https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:54 | 2022-06-14 | 2022-06-22 |
 | [変わる消える](https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [変わる消える](https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub) | 3:49 | 2023-02-21 | 2023-02-23 |
 | [変体](https://open.spotify.com/track/2yRDyJLy07yT2pklodDix4) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [変体](https://open.spotify.com/album/7ERWmTKxheW6FGivVzp0o2) | 3:32 | 2022-09-13 | 2022-09-28 |
-| [夏・天使](https://open.spotify.com/track/23836mVDOPAN15ABJPKjmI) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [夏・天使](https://open.spotify.com/album/0b3dx31NG4xIMqqYvmPojS) | 3:52 | 2023-07-04 |  |
+| [夏・天使](https://open.spotify.com/track/23836mVDOPAN15ABJPKjmI) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [夏・天使](https://open.spotify.com/album/0b3dx31NG4xIMqqYvmPojS) | 3:52 | 2023-07-04 | 2023-07-06 |
 | [夏立ちぬ](https://open.spotify.com/track/1ffDd8a7BDI0bETcKCsYHh) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [夏立ちぬ](https://open.spotify.com/album/6S5yZZGOQWyuRG47A3zMED) | 3:52 | 2022-06-21 | 2022-07-06 |
 | [夕だち](https://open.spotify.com/track/3OP3gecnEoVIktGwBnoiU0) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [夕だち](https://open.spotify.com/album/05rYbTteeiOkLiw6tJHmda) | 3:09 | 2022-07-05 | 2022-07-13 |
 | [多重露光 feat.川上洋平](https://open.spotify.com/track/0E20kEWDWX4xL4PzNHfmsz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [多重露光 feat.川上洋平](https://open.spotify.com/album/6skn6GGpfrPYBoxNtaVYXg) | 3:13 | 2022-05-12 | 2022-06-19 |

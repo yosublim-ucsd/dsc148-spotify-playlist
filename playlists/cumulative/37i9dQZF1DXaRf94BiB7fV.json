@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Perfect Strangers , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Neeraj Rajawat , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 226280,
       "name": "Aadmi Chutiya Hai",
       "url": "https://open.spotify.com/track/2PEJKORCdmceTW2cgTkHv5"
+    },
+    {
+      "album": {
+        "name": "Aaftab",
+        "url": "https://open.spotify.com/album/6UZgALlUwDJBIfA8avEGUA"
+      },
+      "artists": [
+        {
+          "name": "Rajiv Dayal",
+          "url": "https://open.spotify.com/artist/3OY4REdDcTl0XKl7gjvEih"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Aaftab",
+      "url": "https://open.spotify.com/track/1fFa1AF2vQfTCfKDpl2ujT"
     },
     {
       "album": {
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 221689,
       "name": "Barsa",
       "url": "https://open.spotify.com/track/4ycYFA5IoxS8V9EWd5oxTP"
@@ -1418,6 +1436,24 @@
       "duration_ms": 255000,
       "name": "Barsaat",
       "url": "https://open.spotify.com/track/4NLVsU2UqzfEmrbiCOLkSK"
+    },
+    {
+      "album": {
+        "name": "Barse More Naina",
+        "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Barse More Naina",
+      "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
     },
     {
       "album": {
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 147750,
       "name": "Bezubani",
       "url": "https://open.spotify.com/track/3bolcZoty0o4tCYQ1EHe3z"
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 150810,
       "name": "Bhare Bhare Se Naina",
       "url": "https://open.spotify.com/track/78T87oTV5fXBgzapjggfH9"
@@ -2146,6 +2182,24 @@
       "duration_ms": 187428,
       "name": "But Tonight I Wanna Cry",
       "url": "https://open.spotify.com/track/5PaRHskfB55P8qWCDMQYXt"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/7Ktv4SEjRI2Qzz9dvjogIq"
+      },
+      "artists": [
+        {
+          "name": "Keane Cotta",
+          "url": "https://open.spotify.com/artist/2CkvdGZhrJrUxsALhvG8SG"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275809,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2DfQns3Qi4PVhoecsa3WzQ"
     },
     {
       "album": {
@@ -2872,7 +2926,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 316043,
       "name": "Dastaan",
       "url": "https://open.spotify.com/track/3SDOlNsIkr0QL3Q6kCoScd"
@@ -3629,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "Dude Subdued",
+        "url": "https://open.spotify.com/album/0AhxdYBAkEubEIKgDGQVpO"
+      },
+      "artists": [
+        {
+          "name": "Pranav Bhasin",
+          "url": "https://open.spotify.com/artist/20b7SZkdSmjV510nZPMcvR"
+        },
+        {
+          "name": "Ro Maiti",
+          "url": "https://open.spotify.com/artist/2Anp7d77QwHxQOJAppgIS4"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dude Subdued",
+      "url": "https://open.spotify.com/track/2kEoB8aptQIPK4eIi1OpzM"
+    },
+    {
+      "album": {
         "name": "Easily",
         "url": "https://open.spotify.com/album/4FSeQHEuHHlOVzk8VybLgQ"
       },
@@ -3962,7 +4038,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 265000,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/7qUXtrjjf0KqCCxD9SAw3Q"
@@ -4371,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Silvertown",
+        "url": "https://open.spotify.com/album/1EjnLw5bwjISyxmWLtUado"
+      },
+      "artists": [
+        {
+          "name": "aditya",
+          "url": "https://open.spotify.com/artist/0f5PLQTJksWsxQkCocWLWf"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "forgotten song",
+      "url": "https://open.spotify.com/track/5RJCGKTXhpTB36oZyraMqC"
+    },
+    {
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/7BUQFChLJv6kARWAl73nVx"
       },
@@ -4400,7 +4494,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 134205,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/0nH0ipq7ifYGJRSf0SCHR4"
@@ -4564,6 +4658,24 @@
       "duration_ms": 251000,
       "name": "Girl in the City",
       "url": "https://open.spotify.com/track/3AG3IcmabO1TNW6v5vqiyn"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/4UYKGj3GVm7AaEKZFVaMBe"
+      },
+      "artists": [
+        {
+          "name": "the butterfly effect_india",
+          "url": "https://open.spotify.com/artist/6TIHNs8WXvLHbNvt1Uripg"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210352,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6AZbKImrBbR88qeyCsxQq1"
     },
     {
       "album": {
@@ -6540,7 +6652,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 267154,
       "name": "Josephine On The Floor",
       "url": "https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM"
@@ -7366,7 +7478,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 191894,
       "name": "Khaamiyan",
       "url": "https://open.spotify.com/track/4YiZywCYHRNPjHT0x2nmXT"
@@ -7992,6 +8104,24 @@
       "duration_ms": 204418,
       "name": "L.O.M.L.",
       "url": "https://open.spotify.com/track/7MQelLtQ66g9YiR3fbbCT8"
+    },
+    {
+      "album": {
+        "name": "Laapata",
+        "url": "https://open.spotify.com/album/5ctA7MoP9qZFeZK29KNLoO"
+      },
+      "artists": [
+        {
+          "name": "Paakhi Saikia",
+          "url": "https://open.spotify.com/artist/1KlaZy25OztQdE3RAcIOL0"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252842,
+      "name": "Laapata",
+      "url": "https://open.spotify.com/track/15RXZktbkcPsN3Uuks88UX"
     },
     {
       "album": {
@@ -9610,7 +9740,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 220775,
       "name": "Musafir Dil",
       "url": "https://open.spotify.com/track/1zrG8PASqGyqnXZd4o5ncD"
@@ -9694,7 +9824,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 219428,
       "name": "Na Jaane",
       "url": "https://open.spotify.com/track/0mUEwijSgvunBXVlGgMUlg"
@@ -11605,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/0O8vD6SmU17NkDigAlbtHJ"
+      },
+      "artists": [
+        {
+          "name": "Carolina Norbu",
+          "url": "https://open.spotify.com/artist/6Vvjl4JhGGwJvcrzNKsyFP"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1OKOpGDd2SpEEhXkq5t5D7"
+    },
+    {
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/5V23I2qXKfr0S00lKSNEDf"
       },
@@ -12050,7 +12198,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 260295,
       "name": "Saaz",
       "url": "https://open.spotify.com/track/5hc3aftcBaFgMYHyuUBnTO"
@@ -12072,6 +12220,32 @@
       "duration_ms": 204187,
       "name": "Sab Ruk Sa Gaya",
       "url": "https://open.spotify.com/track/2KYrTti5pLqrvKMx6aqdib"
+    },
+    {
+      "album": {
+        "name": "SABAR",
+        "url": "https://open.spotify.com/album/4WtT9b9n5A4qAQJ87M5RSC"
+      },
+      "artists": [
+        {
+          "name": "Shrey Jadav",
+          "url": "https://open.spotify.com/artist/7FNrXfn1qGnTT5EB5pg8m0"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/1a6V9zFa1uu6VAssycd5Tc"
+        },
+        {
+          "name": "Vanishree Sahu",
+          "url": "https://open.spotify.com/artist/2HYdcG7Fp7B2xbgBQE9ncy"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203934,
+      "name": "SABAR",
+      "url": "https://open.spotify.com/track/6H5pyPWWzFClcVYLSBi562"
     },
     {
       "album": {
@@ -14059,6 +14233,24 @@
     },
     {
       "album": {
+        "name": "The Younger Versions Of You",
+        "url": "https://open.spotify.com/album/119QeCmFscHeWsF9i4mTWa"
+      },
+      "artists": [
+        {
+          "name": "Lokesh Madan",
+          "url": "https://open.spotify.com/artist/2gvKTqtrhYnUVphiDoiO9j"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278008,
+      "name": "The Younger Versions Of You",
+      "url": "https://open.spotify.com/track/6ZFK2rH4CTFbC09yNovGpW"
+    },
+    {
+      "album": {
         "name": "Theher Ja Tu",
         "url": "https://open.spotify.com/album/65fZrXiqlCjrIVxM4vRz9N"
       },
@@ -15858,7 +16050,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 223529,
       "name": "Wrong Number",
       "url": "https://open.spotify.com/track/0CBdB3FuqIvHT0nnqt07yJ"
@@ -15985,6 +16177,24 @@
     },
     {
       "album": {
+        "name": "Yeh Aawaaz",
+        "url": "https://open.spotify.com/album/7wDY49G9uLEELKLrtghaY5"
+      },
+      "artists": [
+        {
+          "name": "Bryden & Parth",
+          "url": "https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262456,
+      "name": "Yeh Aawaaz",
+      "url": "https://open.spotify.com/track/39IBuQdzSacBwV5Ji6yhFa"
+    },
+    {
+      "album": {
         "name": "Yeh Shaam",
         "url": "https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w"
       },
@@ -16058,6 +16268,24 @@
       "duration_ms": 140552,
       "name": "You",
       "url": "https://open.spotify.com/track/2jKakqxjSTttFpXqjE5Sus"
+    },
+    {
+      "album": {
+        "name": "You and I (Together Forever)",
+        "url": "https://open.spotify.com/album/5vYeQGE2ACsF52lxtmmHZd"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Prakash",
+          "url": "https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "You and I (Together Forever)",
+      "url": "https://open.spotify.com/track/4yaZ8vyAcfb88LrIcREXcD"
     },
     {
       "album": {

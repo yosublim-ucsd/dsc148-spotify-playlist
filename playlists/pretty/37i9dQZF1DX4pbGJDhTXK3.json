@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 128327,
+  "num_followers": 128349,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjFhNGVjYThkODljYjAxMjIxMDc5N2FkMjk1YTNmZjI0MDVhNWRm",
+  "snapshot_id": "MCxjMWNhZjFhNWIwYzlmZWI5OWRjMmI4N2ZkMGNmYWM1Y2YwYTc4OTcy",
   "tracks": [
     {
       "added_at": "2023-05-03 06:47:29",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-05-03 06:47:29",
       "album": {
-        "name": "Pax Americana",
-        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Tilla",
+          "url": "https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI"
         }
       ],
-      "duration_ms": 291018,
-      "name": "HS",
-      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
+      "duration_ms": 127524,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
     }
   ],
   "unique_name": "Space Disco",

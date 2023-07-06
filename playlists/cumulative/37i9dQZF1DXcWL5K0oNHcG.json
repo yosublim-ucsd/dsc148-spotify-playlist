@@ -5535,6 +5535,28 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4cl4iGS3sCdPg2UrrT75Ho"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Nicky Manuputty",
+          "url": "https://open.spotify.com/artist/1O9pkJRFRbdwy1yKCOyh9k"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202590,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6"
+    },
+    {
+      "album": {
         "name": "Don't Touch My Pizza",
         "url": "https://open.spotify.com/album/72SzThPYxCOCi4K7nrICCH"
       },
@@ -7310,6 +7332,24 @@
       "duration_ms": 242983,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/2ozSIAz55Hzb3miKSnoQUC"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/1wJnaydtMwsQRYRsOocKl8"
+      },
+      "artists": [
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283953,
+      "name": "For My Friends",
+      "url": "https://open.spotify.com/track/0Zfxv0tCAxVFTHgeXA42U8"
     },
     {
       "album": {
@@ -11471,6 +11511,24 @@
     },
     {
       "album": {
+        "name": "Lessonlearned.",
+        "url": "https://open.spotify.com/album/6kikwPRp8G9RNFEe43RyMa"
+      },
+      "artists": [
+        {
+          "name": "Vacatixn",
+          "url": "https://open.spotify.com/artist/1h2xojy2oXiKOh0g2fi9IE"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384287,
+      "name": "Lessonlearned.",
+      "url": "https://open.spotify.com/track/24avbxBHzoXBCoAgNlHIw2"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/5EGfFO8faznxl8cWiw2mf1"
       },
@@ -12030,6 +12088,32 @@
       "duration_ms": 177000,
       "name": "Love Of The Music",
       "url": "https://open.spotify.com/track/5MhZmei40VOGR33etvD2ox"
+    },
+    {
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/2lzZqB8DkojM5aveh3kiOv"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        },
+        {
+          "name": "Gallowstreet",
+          "url": "https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244153,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/2yy21cjv5ZPgYvUaFfZASZ"
     },
     {
       "album": {
@@ -17330,7 +17414,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 122157,
       "name": "Sebat",
       "url": "https://open.spotify.com/track/2FA4IGSPKrF8y8j7HJmaNJ"
@@ -19712,6 +19796,28 @@
       "duration_ms": 223562,
       "name": "Take Them On",
       "url": "https://open.spotify.com/track/2vECh3gpUppsRKDKP4tndx"
+    },
+    {
+      "album": {
+        "name": "Tame It",
+        "url": "https://open.spotify.com/album/3lQBGb4hCkJ5HCdXOrh7Hn"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "KiliHippie",
+          "url": "https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215509,
+      "name": "Tame It",
+      "url": "https://open.spotify.com/track/36LrjOrsZpubA8Lh5PnIGw"
     },
     {
       "album": {
@@ -22408,7 +22514,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 329042,
       "name": "Virginia",
       "url": "https://open.spotify.com/track/5lgoMrd7B6pusfMlwzGcYO"
@@ -23005,6 +23111,24 @@
     },
     {
       "album": {
+        "name": "The Never Acting Story",
+        "url": "https://open.spotify.com/album/4DJ6qNMI5lyYkLkq4nVHDQ"
+      },
+      "artists": [
+        {
+          "name": "Brass Riot",
+          "url": "https://open.spotify.com/artist/3Um2PBlg2zLQYqQG4HVwxC"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "What About?",
+      "url": "https://open.spotify.com/track/40jaosNsS1V06x5u18jBuN"
+    },
+    {
+      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/70QXq4AyRHATXulbaViA7x"
       },
@@ -23196,6 +23320,24 @@
       "duration_ms": 282413,
       "name": "White Runway",
       "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
+    },
+    {
+      "album": {
+        "name": "Why Does",
+        "url": "https://open.spotify.com/album/2dB6cHDNbx4HLOAnf5XyeT"
+      },
+      "artists": [
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179402,
+      "name": "Why Does",
+      "url": "https://open.spotify.com/track/1AwNNpDDwp4vAx5EQPE5jE"
     },
     {
       "album": {

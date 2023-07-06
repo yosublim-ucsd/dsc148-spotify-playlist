@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-593 songs - 1 day 1 hr 49 min
+594 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Blue River](https://open.spotify.com/track/789zWw6YwOpoDXoyRXaG1R) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 3:21 | 2021-12-07 | 2022-05-06 |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-12-07 |  |
 | [Bon Vivant](https://open.spotify.com/track/4hyGf01l6PHL2npEnRNplP) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Bon Vivant](https://open.spotify.com/album/41POWCKe9ZWZ1CeUEwWE0z) | 2:44 | 2021-12-07 | 2022-09-24 |
-| [Born To Live](https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Born To Live](https://open.spotify.com/album/0MLSAK0yRUh7ptFnYAsEnI) | 2:46 | 2021-12-07 | 2023-06-17 |
+| [Born To Live](https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Born To Live](https://open.spotify.com/album/0MLSAK0yRUh7ptFnYAsEnI) | 2:46 | 2021-12-07 |  |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2021-12-07 | 2022-06-08 |
 | [Broken River](https://open.spotify.com/track/2sxEgzrFsAjBq0Yf3PBIfI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [The Great Migration](https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF) | 2:55 | 2021-12-07 | 2022-06-08 |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-07 | 2022-06-08 |
@@ -254,7 +254,7 @@
 | [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2021-12-07 | 2022-09-16 |
 | [Knowing](https://open.spotify.com/track/5ZCVigQ6yH25D61oA2fE4T) | [Jacob Higgins](https://open.spotify.com/artist/4BIgXu3VhBUcX6Y0TOHpoi) | [Knowing](https://open.spotify.com/album/3BMt2E5mIp4jXuPrv6AH9w) | 2:32 | 2021-12-07 | 2023-03-31 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2021-12-07 | 2023-05-04 |
-| [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 |  |
+| [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 | 2023-07-06 |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2021-12-07 | 2022-05-14 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-07 |  |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 |  |
@@ -438,7 +438,7 @@
 | [Sabuelum](https://open.spotify.com/track/1BZo2CHWy9gSgidvexgNYM) | [Johann Kurzweil](https://open.spotify.com/artist/7u64sG9W2BjhBS7qfjBYxQ) | [Der Regenbogen](https://open.spotify.com/album/3hXOZ0PEo5EkN0g0Q6Qqc7) | 3:38 | 2021-12-07 | 2022-09-24 |
 | [Sacred Secret](https://open.spotify.com/track/4sVyIUWPXRaXeu4f3PcsHL) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Sacred Secret](https://open.spotify.com/album/6U50m93mAe1gTDENvUukNW) | 2:00 | 2022-06-07 | 2022-09-16 |
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2021-12-07 | 2022-04-22 |
-| [Sail](https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Sail](https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS) | 2:08 | 2021-12-07 |  |
+| [Sail](https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Sail](https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS) | 2:08 | 2021-12-07 | 2023-07-06 |
 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-05-03 |  |
 | [Salon musique](https://open.spotify.com/track/1UpWPe0O0aNGWmouew7puk) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island \- Salon musique](https://open.spotify.com/album/5SnkIhfrSNMz9GSjs7xoGq) | 2:00 | 2022-02-01 | 2022-06-08 |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2021-12-07 |  |
@@ -480,6 +480,7 @@
 | [Solkysst](https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Solkysst](https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n) | 2:20 | 2021-12-07 | 2022-09-24 |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-03-15 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-07 |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-07 |  |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 | 2022-09-24 |
 | [Sonne und Mond](https://open.spotify.com/track/2jpKwXSKceFIm2ZJF8gZO7) | [Vanya Sogaya](https://open.spotify.com/artist/52ZDvqSoUUMRtR9qjwyhq4) | [Sonne und Mond](https://open.spotify.com/album/01CosJGsY8PK0iH29KV2ht) | 3:15 | 2021-12-07 | 2022-02-16 |

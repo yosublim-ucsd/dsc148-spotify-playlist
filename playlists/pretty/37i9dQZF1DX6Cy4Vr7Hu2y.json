@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: Rothy(\ub85c\uc2dc)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 929429,
+  "num_followers": 929753,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2Y2NjgzNmU2MDM2MjA5ZmNiOGE5YmQwZjczNzY4ODc0NTM3MzBh",
+  "snapshot_id": "MCxkNmVjMmEwNDJmOTVlNGM2NDQ4YmQyYmQ5Nzg5ODM5OTE1NTZhOTk5",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "COLOR*IZ",
-        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 218993,
-      "name": "La Vie en Rose",
-      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "Young, Dumb, Stupid",
         "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 190786,
       "name": "Young, Dumb, Stupid",
       "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "COLOR*IZ",
+        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 218993,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "MIC ON",
-        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 166053,
-      "name": "ILLELLA",
-      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
+      "duration_ms": 209482,
+      "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
+      "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"
     }
   ],
   "unique_name": "EQUAL K-Pop",

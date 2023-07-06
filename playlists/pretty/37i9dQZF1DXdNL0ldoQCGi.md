@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,315 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,701 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 17 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 |
 | 18 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
 | 19 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
-| 20 | [Perséfone](https://open.spotify.com/track/3u9FHHLrJ9st71IIXnSXCb) | [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Belial](https://open.spotify.com/album/3uLFEWcaTwDdrbW1JjChNn) | 2:58 |
+| 20 | [Perséfone](https://open.spotify.com/track/3u9FHHLrJ9st71IIXnSXCb) | [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Belial](https://open.spotify.com/album/3uLFEWcaTwDdrbW1JjChNn) | 2:58 |
 | 21 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 22 | [KAROLINA](https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp) | [h$mza](https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [KAROLINA](https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW) | 2:25 |
 | 23 | [Ela Sabe Que É o Henry Né?](https://open.spotify.com/track/3Er8so9d9DSxhgOF5Bcgc3) | [Hits Show](https://open.spotify.com/artist/3B8NbwiC5bv1dQqaow8D4m) | [Ela Sabe Que É o Henry Né?](https://open.spotify.com/album/2CxxK082gGgQdIVaYjsJV1) | 1:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 89 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 90 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCwzNjlhZmU4NDFjMDk4ZjhlYjU3MDg4ZmIxZjc1NjlmZTcyZWRiM2Jl`
+Snapshot ID: `MCxjM2Q5ZDBmM2RiMjRhOGRhOGRiZjNkODA4MTRiN2QwNWY4Y2Q2Yzcz`

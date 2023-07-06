@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Reuben James",
-  "num_followers": 290436,
+  "num_followers": 290527,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTFjYzI5YzJkZDY1ODYxOTQ4YjZkNWQ0NGRkZGYxMDcyYzk4NTU3",
+  "snapshot_id": "MCwwNGEwYTlkNThjNWZlZTMzOTkyMmJkYTA2OTg2MTVkMTI4MjZiZmFj",
   "tracks": [
     {
       "added_at": "2023-06-30 10:53:59",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "Y Gwydd (Radio Edit)",
-        "url": "https://open.spotify.com/album/4W0NOkttgn5fjLfOoyMdcT"
-      },
-      "artists": [
-        {
-          "name": "Huw Marc Bennett",
-          "url": "https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ"
-        }
-      ],
-      "duration_ms": 338040,
-      "name": "Y Gwydd",
-      "url": "https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
         "name": "edbl & friends - JPRK",
         "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
+        "name": "Y Gwydd (Radio Edit)",
+        "url": "https://open.spotify.com/album/4W0NOkttgn5fjLfOoyMdcT"
+      },
+      "artists": [
+        {
+          "name": "Huw Marc Bennett",
+          "url": "https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ"
+        }
+      ],
+      "duration_ms": 338040,
+      "name": "Y Gwydd",
+      "url": "https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
         "name": "It's All Relative",
         "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 198843,
       "name": "Begotten",
       "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
         "name": "Something I Said",
         "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
@@ -767,6 +767,50 @@
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "Did You Know",
+        "url": "https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        },
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        },
+        {
+          "name": "MettaShiba",
+          "url": "https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "Did You Know",
+      "url": "https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -807,26 +851,6 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
         "name": "Cristo Redentor",
         "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
       },
@@ -839,62 +863,6 @@
       "duration_ms": 320253,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "Did You Know",
-        "url": "https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3"
-      },
-      "artists": [
-        {
-          "name": "Alabaster DePlume",
-          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
-        },
-        {
-          "name": "Momoko Gill",
-          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
-        },
-        {
-          "name": "MettaShiba",
-          "url": "https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Did You Know",
-      "url": "https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -919,6 +887,38 @@
       "duration_ms": 235433,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+        "name": "The Morning Side of Love",
+        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+      "duration_ms": 233120,
+      "name": "The Morning Side of Love",
+      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -991,22 +991,6 @@
       "duration_ms": 319040,
       "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
       "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "The Morning Side of Love",
-        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "The Morning Side of Love",
-      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1039,6 +1023,26 @@
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1103,42 +1107,6 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
         "name": "Wave Decay",
         "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
       },
@@ -1175,6 +1143,38 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "ducks ina row",
+        "url": "https://open.spotify.com/album/2hifLHOF3K333Xps2wweDF"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "ducks ina row",
+      "url": "https://open.spotify.com/track/3tL6edhbIjtp8C8nmbZ7k3"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1215,18 +1231,22 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "ducks ina row",
-        "url": "https://open.spotify.com/album/2hifLHOF3K333Xps2wweDF"
+        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
+        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
       "artists": [
         {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 153500,
-      "name": "ducks ina row",
-      "url": "https://open.spotify.com/track/3tL6edhbIjtp8C8nmbZ7k3"
+      "duration_ms": 147000,
+      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
+      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2023-06-30 10:53:59",
       "album": {
-        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
-        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
-      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 221000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "Statue",
-        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
-      },
-      "artists": [
-        {
-          "name": "Tilly Valentine",
-          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
-        }
-      ],
-      "duration_ms": 204254,
-      "name": "Statue",
-      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1331,6 +1315,22 @@
       "duration_ms": 212000,
       "name": "COME ON NOW",
       "url": "https://open.spotify.com/track/3QD4S81ddphPVQaMGLc8Sl"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "Statue",
+        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+      },
+      "artists": [
+        {
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+        }
+      ],
+      "duration_ms": 204254,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1371,30 +1371,6 @@
       "duration_ms": 292495,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
-    },
-    {
-      "added_at": "2023-06-30 10:53:59",
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y"
-      },
-      "artists": [
-        {
-          "name": "Ash Walker",
-          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
-        },
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        }
-      ],
-      "duration_ms": 255270,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt"
     },
     {
       "added_at": "2023-06-30 10:53:59",
@@ -1475,6 +1451,30 @@
       "duration_ms": 194614,
       "name": "Miles Chases New Voodoo In The Church - Single Edit",
       "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
+    },
+    {
+      "added_at": "2023-06-30 10:53:59",
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y"
+      },
+      "artists": [
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        },
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "duration_ms": 255270,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt"
     },
     {
       "added_at": "2023-06-30 10:53:59",

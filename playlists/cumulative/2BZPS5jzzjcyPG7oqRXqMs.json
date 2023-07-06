@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198346,
+      "name": "Stay Strong",
+      "url": "https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2rS2Y6H1Tn3hNqXRXFap6e"
       },

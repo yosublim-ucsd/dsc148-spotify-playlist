@@ -1,12 +1,12 @@
 {
   "description": "The sweetest bops. Cover: XG",
-  "num_followers": 35803,
+  "num_followers": 35848,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWEzNDczOWM5NmUyNzYxNTdlNzhhOTQ1N2JmMDZmMzkwNjY3MWU2",
+  "snapshot_id": "MCw1ZjRlZTk2ZTc3YmJhZTZkYjI2ZGVkN2M1ZmFhOTI4OThlNzg1ZWZl",
   "tracks": [
     {
       "added_at": "2023-07-03 01:04:34",
@@ -55,6 +55,22 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2023-07-05 14:20:18",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
       "added_at": "2023-07-03 01:04:34",

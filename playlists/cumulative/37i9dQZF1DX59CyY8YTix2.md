@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Uniolla
 
-1,008 songs - 2 day 15 hr 47 min
+1,011 songs - 2 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-22 |  |
 | [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/track/6Ob8OB78fzTYUs9GUVvzrT) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/album/1o16zgpmVi9uWECUI9jCCk) | 2:05 | 2023-01-17 | 2023-03-01 |
 | [Slow Motion](https://open.spotify.com/track/1JWtFauEXNtgbEif9fdCTg) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Slow Motion](https://open.spotify.com/album/4qzVqMaVapyv6zvK6uFxoR) | 4:09 | 2022-12-15 | 2023-01-11 |
-| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 |  |
+| [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ニーハオ!!!!](https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-07 | 2023-03-01 |
 | [Sometimes I Wanna Cry :\(](https://open.spotify.com/track/7DILQWS3AmJ8EHNmnD4pXn) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [Sometimes I Wanna Cry :\(](https://open.spotify.com/album/7zP6cj9KtpeVyUFLWcfCgJ) | 2:22 | 2023-02-16 | 2023-05-31 |
 | [somewhere](https://open.spotify.com/track/4qb4cUx4aI7xLeKviJaJ8S) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:02 | 2022-11-15 | 2022-12-07 |
@@ -424,6 +425,7 @@
 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 | 2023-06-27 | 2023-07-05 |
 | [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 | 2023-05-23 | 2023-06-30 |
 | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/album/4Sh6E35orP4cqcKA7lPrfT) | 3:48 | 2023-01-17 | 2023-01-25 |
+| [The last song](https://open.spotify.com/track/3nSblqRTG9MBEuYNRPxoFn) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [The last song](https://open.spotify.com/album/5qwjLuPAV8H3ChvyQZlaM4) | 3:31 | 2023-07-04 |  |
 | [The Local Pints](https://open.spotify.com/track/38gu4TRjE5N5WN6UeFlKki) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [The Local Pints](https://open.spotify.com/album/1YqaVxLXPKjndYoQsCdCZ3) | 3:00 | 2023-06-06 | 2023-06-14 |
 | [The Middle](https://open.spotify.com/track/5wnDkmWnkwIKBl2eAwebJW) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [The Middle](https://open.spotify.com/album/06jgkQXzcAour1R7t8DYaC) | 3:31 | 2022-11-08 | 2022-11-16 |
 | [Through the dark](https://open.spotify.com/track/7xRoiPHUwgnnhlxxR8V2wp) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 3:29 | 2022-05-26 | 2022-06-01 |
@@ -590,7 +592,8 @@
 | [エンドレスロール](https://open.spotify.com/track/38Tl5EsjN4IeOpvWWII8jN) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [骨格](https://open.spotify.com/album/1t5NspTaHRuDwAwSLNQH16) | 3:45 | 2022-05-31 | 2022-07-22 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-17 | 2022-09-07 |
 | [エンドロールに間に合うように](https://open.spotify.com/track/5qVFIToldZijtCeZDCTz4C) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [エンドロールに間に合うように](https://open.spotify.com/album/47H3gaej9LWrpM9xjcsHRJ) | 3:04 | 2022-05-26 | 2022-06-28 |
-| [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 |  |
+| [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-04 |  |
+| [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 | 2023-07-06 |
 | [オン・ザ・ロック](https://open.spotify.com/track/4MV2HKXTZJ2Q309HkHGIRg) | [バカがミタカッタ世界](https://open.spotify.com/artist/1VlOToJ4eKR14FjJeT3c7b) | [オン・ザ・ロック](https://open.spotify.com/album/3KoiJl82sHz8pnAPmEkzR5) | 3:34 | 2022-08-17 | 2022-08-24 |
 | [オールグリーン](https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [オールグリーン](https://open.spotify.com/album/3i8Z1Ovo47wujwJYzxOcHe) | 3:13 | 2022-07-19 | 2022-07-27 |
 | [カキツバタ](https://open.spotify.com/track/2FrRwDw72dCO5USFKKtTqU) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [カキツバタ](https://open.spotify.com/album/29skbi91tsSYw86tcUPSyF) | 4:05 | 2022-06-02 | 2022-07-21 |
@@ -727,7 +730,7 @@
 | [モラトリアム](https://open.spotify.com/track/6xUokbrxXheK4GLPsWIHsc) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [モラトリアム](https://open.spotify.com/album/1TLa37XWG2ShfmOkF59h5e) | 3:11 | 2022-11-01 | 2022-11-09 |
 | [ライナー](https://open.spotify.com/track/4cg4axRQFCLY7cxEQ8r0xe) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [where?](https://open.spotify.com/album/4meJFweZ1aga9P067NAKSK) | 3:41 | 2023-05-23 |  |
 | [ラストシーン](https://open.spotify.com/track/5L43elZ4LuEBDBH8KYBGb1) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [ラストシーン](https://open.spotify.com/album/2HwNyfPBEHlxYmeou5UsUs) | 4:34 | 2023-05-25 |  |
-| [ラストソング](https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ラストソング](https://open.spotify.com/album/7ynKhVVU90AJdf2hmWWqir) | 3:31 | 2023-07-04 |  |
+| [ラストソング](https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ラストソング](https://open.spotify.com/album/7ynKhVVU90AJdf2hmWWqir) | 3:31 | 2023-07-04 | 2023-07-06 |
 | [ラッキー](https://open.spotify.com/track/5hNHGRXOhyHlUjk2WYHvBm) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [ラッキー](https://open.spotify.com/album/0nrgkBBMOtlE8ZPUnuQswD) | 2:37 | 2022-07-05 | 2022-07-28 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 | 2023-02-15 |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |

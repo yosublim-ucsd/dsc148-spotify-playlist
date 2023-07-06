@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 69462,
+  "num_followers": 69574,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTU1YmUzYjY3ZDRlNDBhZmY0MDkxZDFmOGJhOGJjNTkxMGZlOTM0",
+  "snapshot_id": "MCw2NzgyNjE1Y2FjYWM1OGMxM2JjMTY5NjU0MDdmZjU0MjYyODU0MGQy",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Juntos Otra Vez",
-        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        },
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 157176,
-      "name": "Odio Gitano",
-      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -639,18 +635,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        },
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+      "duration_ms": 157176,
+      "name": "Odio Gitano",
+      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "traguito",
-        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "traguito",
+        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
     },
     {
       "added_at": "2023-06-30 04:00:00",

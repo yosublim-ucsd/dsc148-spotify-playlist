@@ -1,12 +1,12 @@
 {
   "description": "As novidades do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Nicki Minaj, Ice Spice\n",
-  "num_followers": 117310,
+  "num_followers": 117372,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTAzZmM0NGIxNDRiZDA2YWE2YzQ1ZWI3ZTljZWNmOGQ0MmQxMGJk",
+  "snapshot_id": "MCxmN2RkYTNlYTZlZDgwYTUzOWFkYTVkYzM2ZTIwY2MxNGJkMzMzMjYx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Como Yo :(",
+        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 141865,
+      "name": "Como Yo :(",
+      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Como Yo :(",
-        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 141865,
-      "name": "Como Yo :(",
-      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Don't Say Love",
         "url": "https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180000,
       "name": "Don't Say Love",
       "url": "https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Snow Angel",
-      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "When Love Sucks (feat. Dido)",
         "url": "https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw"
       },
@@ -763,6 +747,38 @@
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Sai Da Frente",
+        "url": "https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 167445,
+      "name": "Sai Da Frente",
+      "url": "https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sai Da Frente",
-        "url": "https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 167445,
-      "name": "Sai Da Frente",
-      "url": "https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Ant Pile",
         "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 126233,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Idol Episode 2 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5bx7i3cuSfXBPF7Li8kUR7"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 183884,
-      "name": "Family (with Suzanna Son)",
-      "url": "https://open.spotify.com/track/1CatlSR0Kh0hsvGF2Z8l3s"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Idol Episode 2 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5bx7i3cuSfXBPF7Li8kUR7"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 183884,
+      "name": "Family (with Suzanna Son)",
+      "url": "https://open.spotify.com/track/1CatlSR0Kh0hsvGF2Z8l3s"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -903,26 +903,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+        "name": "Slow Low",
+        "url": "https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 204631,
-      "name": "Normally",
-      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
+      "duration_ms": 184364,
+      "name": "Slow Low",
+      "url": "https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -947,18 +939,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Slow Low",
-        "url": "https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x"
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 184364,
-      "name": "Slow Low",
-      "url": "https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO"
+      "duration_ms": 204631,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 239817,
+      "name": "Feel Good Too",
+      "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "if we're being honest",
         "url": "https://open.spotify.com/album/560PHAR5paWC24zj4rtdZx"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 177479,
       "name": "i\u2019m sorry",
       "url": "https://open.spotify.com/track/3Q0ML7kvjcGOr9QnvfDz8a"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Mystical Magical Rhythmical Radical Ride",
-        "url": "https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 239817,
-      "name": "Feel Good Too",
-      "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
     },
     {
       "added_at": "2023-06-30 04:00:00",

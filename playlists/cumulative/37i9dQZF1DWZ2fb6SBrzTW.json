@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
@@ -5076,6 +5076,28 @@
       "duration_ms": 201768,
       "name": "Soja Man",
       "url": "https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8"
+    },
+    {
+      "album": {
+        "name": "SOKOTO",
+        "url": "https://open.spotify.com/album/6cZhzvKBRup7VnIfV0roR1"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "SOKOTO",
+      "url": "https://open.spotify.com/track/5wedEJLTgmlmworhXQaaO8"
     },
     {
       "album": {

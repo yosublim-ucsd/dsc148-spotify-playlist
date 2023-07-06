@@ -1,12 +1,12 @@
 {
   "description": "chega pra cremosa e fala: se eu te dissesse que...",
-  "num_followers": 1183080,
+  "num_followers": 1183761,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2NkMTA5NjgwM2I1Yjc1OWMwZTAwMGZiZjNlZWFkNzhlZWNhMzEy",
+  "snapshot_id": "MCw2YjZlYzM3Y2U2ZTg5ZWFmZGMzNWM1OGFkMzdmZDFkYjZmNDkyMGEw",
   "tracks": [
     {
       "added_at": "2023-06-30 03:03:00",
@@ -1211,30 +1211,38 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Gucci, Prada",
-        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
+        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
           "name": "Borges",
           "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Gucci, Prada",
-      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+      "duration_ms": 228571,
+      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -1299,38 +1307,30 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
+        "name": "Gucci, Prada",
+        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
       },
       "artists": [
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         },
         {
           "name": "Borges",
           "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 228571,
-      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+      "duration_ms": 184421,
+      "name": "Gucci, Prada",
+      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
     },
     {
       "added_at": "2023-06-30 03:03:00",

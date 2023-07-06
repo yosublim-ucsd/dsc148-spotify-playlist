@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,444 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,443 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Bagagem](https://open.spotify.com/track/1L0E92ZXvTuV4c22fe1eoi) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Ricardo Ribeiro](https://open.spotify.com/artist/3MBRBHfVbEyQB1FqByWR7B) | [Bagagem](https://open.spotify.com/album/4UzVhNv7CG3u4sxwF0bA7m) | 3:03 |
 | 99 | [Perder](https://open.spotify.com/track/0YIK0ULri5o6sdXo5N3duR) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Perder](https://open.spotify.com/album/3D4GrroGK00DL5svXt5jUq) | 3:42 |
 
-Snapshot ID: `MCxhMjNiMzI5NDEyOTBiOWZhYWM4MzRhYjk1ZjJjOTdhZThmNjlmNjRi`
+Snapshot ID: `MCw0Yjk0MzZiZjY5OTM1ZGMyZjE3ODE0Y2I1Yzk1ZjQ3ZDUyYjVkY2Qy`

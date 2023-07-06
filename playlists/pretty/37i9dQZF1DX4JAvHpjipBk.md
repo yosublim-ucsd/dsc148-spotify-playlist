@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, Lil Uzi Vert & Nicki Minaj, Tainy & Bad Bunny, Shakira, Charli XCX and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,131,098 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,131,389 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 87 | [Glory](https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Glory](https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH) | 2:34 |
 | 88 | [Mates](https://open.spotify.com/track/7caHa8cZXqyzCv0JGwzL12) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Mates](https://open.spotify.com/album/7GW3JPpqLTzy7LjSujyWPT) | 4:57 |
 | 89 | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs) | 3:50 |
-| 90 | [what comes next \(feat\. 24hoursav & Dua Saleh\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 |
+| 90 | [what comes next \(feat\. 24hoursav\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 |
 | 91 | [Blind Em](https://open.spotify.com/track/4M7pQy4wQuIm41JVNWiVvQ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Blind Em](https://open.spotify.com/album/5ClLuubF50Fie0XHH32FwM) | 2:14 |
 | 92 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/1MJkilvAVT6k8MyAaqwX71) | 3:06 |
 | 93 | [Google Maps](https://open.spotify.com/track/1CNwYnjWQHMTmDgYxGiOHw) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Google Maps](https://open.spotify.com/album/1DmSyJlANj7mzbwjpJhK3Y) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 |
 | 100 | [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 |
 
-Snapshot ID: `MCxiMmRiNTk5ZWU1ZGM2NjYxNWIzNjlhMWFhMTM0YmNiNjBhNmI5YWNk`
+Snapshot ID: `MCwzYmFhZTNlNzI5ZGI1NjM0YmU1YjcxZDQyYmE5ZDMwMjRmMTIxNWI2`

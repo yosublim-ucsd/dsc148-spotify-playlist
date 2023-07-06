@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,716 songs - 3 day 5 hr 0 min
+1,717 songs - 3 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [Les Etudes](https://open.spotify.com/track/57YVVhWcChlS42r0EmA9aT) | [Mark Souzek](https://open.spotify.com/artist/472ZY6kKXhDcCXcOV0wxc2) | [Les Etudes](https://open.spotify.com/album/20xAiDerOnti3f8MWMmpg7) | 1:45 | 2021-03-14 | 2022-04-10 |
 | [Les glaçons qui pendent du toit](https://open.spotify.com/track/3d5DvDVcTHVNVawSpIRaAe) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Les glaçons qui pendent du toit](https://open.spotify.com/album/2nJRovvCNdu90cXOHcU1CK) | 1:44 | 2021-04-22 | 2022-04-07 |
 | [Les Nouveaux Riches](https://open.spotify.com/track/3FLBEqzjKi91wq2mbrX4VP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Les Nouveaux Riches](https://open.spotify.com/album/4ikvzIFgTJvx0cjXsOhoCP) | 4:49 | 2021-05-03 | 2021-05-16 |
+| [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-27 |  |
 | [Let Her Go](https://open.spotify.com/track/2fIVdzd4JW4HnwzqrvCysf) | [David Fischbein](https://open.spotify.com/artist/4SnnTtHKeeWxZ8FxzMv435) | [Let Her Go](https://open.spotify.com/album/2uKx68XJqHRTLWjPKq6qhw) | 3:12 | 2021-03-08 | 2021-05-19 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/45yPqVg5dHBwsEK1Z72DwW) | [Jane Dupree](https://open.spotify.com/artist/5wBTkMm2Dhqw2aE6NytbIe) | [Christmas Magic \- The Piano Versions](https://open.spotify.com/album/1gVc0hHR4O2g3eDPwX8CMn) | 2:21 | 2021-03-06\* | 2022-04-15 |
 | [Letter from Daughter](https://open.spotify.com/track/5y4ERbPcucZ2Y4u5cm27yD) | [Marnie Jacobs](https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ) | [Letter from Daughter](https://open.spotify.com/album/3qXUei7D16u9jRzbN9Yuhj) | 2:54 | 2021-03-08 | 2021-05-13 |
@@ -887,7 +888,7 @@
 | [Lys De La Paix](https://open.spotify.com/track/0BEc6joSWDSRiNRWX2CPN5) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Lys De La Paix](https://open.spotify.com/album/1LBUWlf1AXoFY9nqVMTp45) | 2:54 | 2021-09-22 | 2021-09-24 |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-04-14 | 2022-10-13 |
 | [Længsel](https://open.spotify.com/track/1lwVlrh8sqai2WuvVqfZYy) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Længsel](https://open.spotify.com/album/6M4c1eoqnrXP4pQfDddaeU) | 1:55 | 2021-03-10 | 2022-04-21 |
-| [Léopoldine](https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Léopoldine](https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM) | 2:45 | 2022-12-22 |  |
+| [Léopoldine](https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Léopoldine](https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM) | 2:45 | 2022-12-22 | 2023-07-06 |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2021-07-02 | 2022-07-29 |
 | [Ma Belle](https://open.spotify.com/track/5VyDCVjeqGwpOxA75OHw4T) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Maestro Dell'Invisibile](https://open.spotify.com/track/4ED3U4fdaA5KHNuJz3jjIB) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Maestro Dell'Invisibile](https://open.spotify.com/album/5FltWLY2mUDwwq9aeVzPSv) | 2:29 | 2022-04-14 | 2022-04-20 |

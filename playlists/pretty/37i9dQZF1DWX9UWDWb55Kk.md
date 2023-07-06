@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,307 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,326 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 17 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 |
 | 18 | [Naked City](https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [Naked City](https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy) | 2:36 |
 | 19 | [We Cut the Night](https://open.spotify.com/track/2ql1CiQoNuMmawuAo9mjbN) | [AaRON](https://open.spotify.com/artist/6q8cNe6Wif1WvM97vcFD8O) | [We Cut the Night](https://open.spotify.com/album/3Ihlw7X3FFQotdKmjGMJMJ) | 4:15 |
-| 20 | [Closer \- Doeld Remix](https://open.spotify.com/track/4FR6qagTkX4TY5nlZVWdUu) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [DOELD](https://open.spotify.com/artist/7MZJVO3zHqPPeRMja10kSR) | [Closer](https://open.spotify.com/album/4iZSePwADfHPQNAR1trYAs) | 4:08 |
+| 20 | [Closer \- Doeld Remix](https://open.spotify.com/track/4FR6qagTkX4TY5nlZVWdUu) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [DOELD](https://open.spotify.com/artist/7MZJVO3zHqPPeRMja10kSR) | [Closer](https://open.spotify.com/album/4iZSePwADfHPQNAR1trYAs) | 4:08 |
 | 21 | [Mystère \(Misterio\)](https://open.spotify.com/track/4v2xnfC879xqiptgMadrlw) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Mystère \(Misterio\)](https://open.spotify.com/album/7Hxwx2frOeDcqnlOPSYaOL) | 3:02 |
 | 22 | [Estrellica](https://open.spotify.com/track/1uFsbYxgTWZZ5QdAEoVRmr) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Estrellica](https://open.spotify.com/album/3uCeRLWnh6N5J8641dUj89) | 3:25 |
 | 23 | [Ten Girls](https://open.spotify.com/track/74XDe6nEQtExQUvrWcs1cW) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [She's Made Of Saints](https://open.spotify.com/album/7dQQoDm0OsVTktVbIqF0W4) | 3:13 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCwwODAwMWRmZWM4MzI3YzYwODI1ZDE3NTM0ZjVhMzg5MTczZDhiMjQx`
+Snapshot ID: `MCxkY2E4ZTNhY2Q4YWZmZmRkMDQyMTU4MjZmOTJmNTU0NjkxZDNhOGQ0`

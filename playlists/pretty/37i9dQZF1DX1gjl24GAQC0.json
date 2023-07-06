@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover:\b\bTEEN TOP(\b\ud2f4\ud0d1) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 827733,
+  "num_followers": 827879,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2U5MjQ2OTI5ZDJjYjhiODhiZWE0ODcwYzE4NzdjODJlMTFmMGFm",
+  "snapshot_id": "MCxmYjc5MmQ1ZTNiMTc0MGE5MzAwNThjZGI0YWYwODM4OTY1NTQwNzMx",
   "tracks": [
     {
       "added_at": "2023-07-04 09:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-06-29 10:56:40",
       "album": {
-        "name": "Perfume - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
       "artists": [
         {
-          "name": "NCT DOJAEJUNG",
-          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 167626,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2023-06-29 10:56:40",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-06-29 10:56:40",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+        "name": "Perfume - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
         }
       ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+      "duration_ms": 167626,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
     },
     {
       "added_at": "2023-06-29 10:56:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-29 10:56:40",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "JIKJIN",
-      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
-    },
-    {
-      "added_at": "2023-06-29 10:56:40",
-      "album": {
         "name": "HARMONY : ALL IN",
         "url": "https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 163280,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2"
+    },
+    {
+      "added_at": "2023-06-29 10:56:40",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     },
     {
       "added_at": "2023-06-29 10:56:40",

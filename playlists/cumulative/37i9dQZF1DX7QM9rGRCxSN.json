@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
+      },
+      "artists": [
+        {
+          "name": "A Rose Dying In The Rain",
+          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100036,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 300000,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"

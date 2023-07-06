@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142450,
+  "num_followers": 142454,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTg5MjAyZjgxY2FhM2U3YTZmMjhiZjcyNGZlYjAyMmZjNWUxOTMx",
+  "snapshot_id": "MCxlNmFjODEyMzQ0ZDM2YmUwNzc1ODA2OTg5ZTNhM2QwZTU5MTE5N2Rl",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Oddz",
-        "url": "https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC"
-      },
-      "artists": [
-        {
-          "name": "The Homeboyz",
-          "url": "https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv"
-        }
-      ],
-      "duration_ms": 241381,
-      "name": "Que Bonito Fuera",
-      "url": "https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Jam Session El Besito Y Voy Navegando",
         "url": "https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 302789,
       "name": "Jam Session El Besito Y Voy Navegando",
       "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Oddz",
+        "url": "https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC"
+      },
+      "artists": [
+        {
+          "name": "The Homeboyz",
+          "url": "https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv"
+        }
+      ],
+      "duration_ms": 241381,
+      "name": "Que Bonito Fuera",
+      "url": "https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Una Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
-      },
-      "artists": [
-        {
-          "name": "Isabel Marie",
-          "url": "https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Una Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Amigo Fiel",
         "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 216476,
       "name": "Amigo Fiel",
       "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Una Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
+      },
+      "artists": [
+        {
+          "name": "Isabel Marie",
+          "url": "https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Una Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
-      },
-      "artists": [
-        {
-          "name": "Cindy Ramos Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR"
-        }
-      ],
-      "duration_ms": 191256,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Ven",
         "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 177225,
       "name": "Ven",
       "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
+      },
+      "artists": [
+        {
+          "name": "Cindy Ramos Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR"
+        }
+      ],
+      "duration_ms": 191256,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Soy Ella",
-        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
-      },
-      "artists": [
-        {
-          "name": "Joanna Rae",
-          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
-        }
-      ],
-      "duration_ms": 179908,
-      "name": "Soy Ella",
-      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Si Esto No Es Amor",
         "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 218000,
       "name": "Si Esto No Es Amor",
       "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Soy Ella",
+        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+      },
+      "artists": [
+        {
+          "name": "Joanna Rae",
+          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+        }
+      ],
+      "duration_ms": 179908,
+      "name": "Soy Ella",
+      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Quiero Que Vuelvas",
-        "url": "https://open.spotify.com/album/65zynurlXpGeJ7YLXMNXsI"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 221170,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/0YHNjkLz1359wkKOzxLSel"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Quebrando Cadenas",
         "url": "https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+        "name": "Quiero Que Vuelvas",
+        "url": "https://open.spotify.com/album/65zynurlXpGeJ7YLXMNXsI"
       },
       "artists": [
         {
-          "name": "Pablo Urbina",
-          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
         }
       ],
-      "duration_ms": 185179,
-      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
+      "duration_ms": 221170,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/0YHNjkLz1359wkKOzxLSel"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Urbina",
+          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "No Me Busques",
         "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 228812,
       "name": "No Me Busques",
       "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "NADIE",
-        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda G",
-          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
-        }
-      ],
-      "duration_ms": 161623,
-      "name": "NADIE",
-      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+        "name": "NADIE",
+        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
       "artists": [
         {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+          "name": "Esmeralda G",
+          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
         }
       ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+      "duration_ms": 161623,
+      "name": "NADIE",
+      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+      },
+      "artists": [
+        {
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "La Buena Vida",
         "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
       },
@@ -1211,18 +1211,34 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Dime Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+        "name": "Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ"
       },
       "artists": [
         {
-          "name": "Crystal Torres",
-          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+          "name": "Jenny B",
+          "url": "https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
+      "duration_ms": 200698,
+      "name": "Volver\u00e1s",
+      "url": "https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Como Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+      },
+      "artists": [
+        {
+          "name": "Genyva",
+          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+        }
+      ],
+      "duration_ms": 188265,
+      "name": "Como Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Como Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+        "name": "Dime Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
       },
       "artists": [
         {
-          "name": "Genyva",
-          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+          "name": "Crystal Torres",
+          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
         }
       ],
-      "duration_ms": 188265,
-      "name": "Como Te Voy a Olvidar",
-      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
+      "duration_ms": 191800,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1275,22 +1291,6 @@
       "duration_ms": 257137,
       "name": "Amor Condicional",
       "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ"
-      },
-      "artists": [
-        {
-          "name": "Jenny B",
-          "url": "https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "Volver\u00e1s",
-      "url": "https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb"
     },
     {
       "added_at": "2023-03-10 18:43:28",

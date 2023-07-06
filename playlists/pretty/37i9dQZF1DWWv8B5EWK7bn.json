@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 157004,
+  "num_followers": 157150,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTVkYWY5YTE3ZmU5YzU4MjNmZjc2ZmI0MmQ4N2ZiNjc1OGFjZWRk",
+  "snapshot_id": "MCwxODJiMmFkZWQ0ZDc4ZWIxZWY0NGFiZDAwYjQ2MDRhNjM1MjVjNzI5",
   "tracks": [
     {
       "added_at": "2023-04-14 01:13:12",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl"
     },
     {
-      "added_at": "2022-08-31 04:34:22",
+      "added_at": "2022-09-21 00:47:37",
       "album": {
-        "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
         }
       ],
-      "duration_ms": 311948,
-      "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2023-06-29 00:04:58",
@@ -293,20 +293,20 @@
       "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
     },
     {
-      "added_at": "2022-09-21 00:47:37",
+      "added_at": "2022-08-31 04:34:22",
       "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
       },
       "artists": [
         {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
-      "added_at": "2023-05-22 18:30:22",
-      "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Universe Is Always Right",
@@ -623,6 +607,22 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2023-05-22 18:30:22",
+      "album": {
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2023-05-24 01:45:20",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution of Super Visions",
-      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
-    },
-    {
       "added_at": "2023-01-04 00:57:30",
       "album": {
         "name": "Classic Objects",
@@ -671,6 +655,22 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution of Super Visions",
+      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
     },
     {
       "added_at": "2022-07-19 04:00:00",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
       "added_at": "2023-02-13 19:20:06",
       "album": {
         "name": "Invierno (Remix)",
@@ -839,6 +819,26 @@
       "duration_ms": 285000,
       "name": "Invierno (Remix)",
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2023-03-31 19:35:25",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
+      "added_at": "2023-01-03 01:09:50",
+      "album": {
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 470299,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -935,22 +951,6 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
-    },
-    {
-      "added_at": "2023-01-03 01:09:50",
-      "album": {
-        "name": "Time Skiffs",
-        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 470299,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
       "added_at": "2022-03-30 04:28:53",
       "album": {
         "name": "Sans oublier",
@@ -1073,20 +1089,20 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2023-06-02 00:41:12",
+      "added_at": "2022-11-08 17:40:24",
       "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
       "artists": [
         {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
         }
       ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1105,20 +1121,20 @@
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
-      "added_at": "2022-11-08 17:40:24",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
       "artists": [
         {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
         }
       ],
-      "duration_ms": 285898,
-      "name": "Follow the Cyborg",
-      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1141,22 +1157,6 @@
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
-    },
-    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2023-01-07 04:00:59",
-      "album": {
-        "name": "Prize",
-        "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
-      },
-      "artists": [
-        {
-          "name": "Rozi Plain",
-          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Painted the Room",
-      "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Robber",
@@ -1207,6 +1191,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2023-01-07 04:00:59",
+      "album": {
+        "name": "Prize",
+        "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Painted the Room",
+      "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
+    },
+    {
       "added_at": "2023-06-02 00:24:20",
       "album": {
         "name": "Open the Gates",
@@ -1347,22 +1363,6 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1561,6 +1561,26 @@
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
+      "added_at": "2022-08-25 19:38:46",
+      "album": {
+        "name": "A Liberdade \u00e9 Cara",
+        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
+      },
+      "artists": [
+        {
+          "name": "Flak",
+          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
+        },
+        {
+          "name": "Cachupa Psicadelica",
+          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "A Liberdade \u00e9 Cara",
+      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -1583,42 +1603,6 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
-    },
-    {
-      "added_at": "2022-08-25 19:38:46",
-      "album": {
-        "name": "A Liberdade \u00e9 Cara",
-        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
-      },
-      "artists": [
-        {
-          "name": "Flak",
-          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
-        },
-        {
-          "name": "Cachupa Psicadelica",
-          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "A Liberdade \u00e9 Cara",
-      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
-    },
-    {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "1982",
-        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
-      },
-      "artists": [
-        {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
-        }
-      ],
-      "duration_ms": 174656,
-      "name": "SAMO",
-      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1667,6 +1651,22 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "1982",
+        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
+      },
+      "artists": [
+        {
+          "name": "A Certain Ratio",
+          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+        }
+      ],
+      "duration_ms": 174656,
+      "name": "SAMO",
+      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
     },
     {
       "added_at": "2023-04-14 23:50:17",

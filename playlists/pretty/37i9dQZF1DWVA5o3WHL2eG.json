@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Teven",
-  "num_followers": 27282,
+  "num_followers": 27537,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2FkNzgxNzgyMjhiYzNkZDdkMmFiYmExMTc2NjliNjU1Njk4M2Iz",
+  "snapshot_id": "MCxkZTRjMjEyNmY0MTI0NWFlNjcwMzNjNTc1MGQ3NmQzN2E1ZjhmNmFl",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/6nlvivHfePIFqT1XXnM6Jv"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1liGDsUtdCTTn7qPDBrhAy"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "God give me a car",
         "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 154394,
       "name": "PRiNZESSiN",
       "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/6nlvivHfePIFqT1XXnM6Jv"
-      },
-      "artists": [
-        {
-          "name": "Zs\u00e1 Zs\u00e1",
-          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/1liGDsUtdCTTn7qPDBrhAy"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
-      },
-      "artists": [
-        {
-          "name": "PANTHA",
-          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
-        }
-      ],
-      "duration_ms": 111946,
-      "name": "Club",
-      "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH"
       },
@@ -199,6 +183,54 @@
       "duration_ms": 237096,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/5Pb5dnDVTMTr2YgWDYMW3n"
+      },
+      "artists": [
+        {
+          "name": "LEA x LINDA",
+          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/73rbG1UP8QLocaXUT68cgB"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "You Problem",
+        "url": "https://open.spotify.com/album/5WWKLGI2RgBlvhP1GkZ4HC"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/4I0Wvg8YsODOPlGNpk7AmD"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
+      },
+      "artists": [
+        {
+          "name": "PANTHA",
+          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
+        }
+      ],
+      "duration_ms": 111946,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -251,38 +283,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/5Pb5dnDVTMTr2YgWDYMW3n"
-      },
-      "artists": [
-        {
-          "name": "LEA x LINDA",
-          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/73rbG1UP8QLocaXUT68cgB"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "You Problem",
-        "url": "https://open.spotify.com/album/5WWKLGI2RgBlvhP1GkZ4HC"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "You Problem",
-      "url": "https://open.spotify.com/track/4I0Wvg8YsODOPlGNpk7AmD"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "SKELETON",
         "url": "https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 191500,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Wiederg\u00e4nger",
-        "url": "https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 185513,
-      "name": "Wiederg\u00e4nger",
-      "url": "https://open.spotify.com/track/09eA2tcRXjPNA4ZcA0IGNu"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -363,6 +347,42 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Wiederg\u00e4nger",
+        "url": "https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n"
+      },
+      "artists": [
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "duration_ms": 185513,
+      "name": "Wiederg\u00e4nger",
+      "url": "https://open.spotify.com/track/09eA2tcRXjPNA4ZcA0IGNu"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Teenage Dirtbag",
+        "url": "https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc"
+      },
+      "artists": [
+        {
+          "name": "Flinte",
+          "url": "https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS"
+        },
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "duration_ms": 149266,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Nie nach Paris",
         "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
       },
@@ -395,22 +415,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Teenage Dirtbag",
-        "url": "https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc"
+        "name": "Flasche und Zeit",
+        "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
       },
       "artists": [
         {
-          "name": "Flinte",
-          "url": "https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS"
-        },
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+          "name": "DenniJasmin",
+          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
         }
       ],
-      "duration_ms": 149266,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI"
+      "duration_ms": 156000,
+      "name": "Flasche und Zeit",
+      "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -427,22 +443,6 @@
       "duration_ms": 224270,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Flasche und Zeit",
-        "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
-      },
-      "artists": [
-        {
-          "name": "DenniJasmin",
-          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Flasche und Zeit",
-      "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -483,38 +483,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 193038,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "narcissistic brain",
-        "url": "https://open.spotify.com/album/5OLoGreS9Ja506fg1xyfBt"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 193879,
-      "name": "narcissistic brain",
-      "url": "https://open.spotify.com/track/471izAznueozJKIOax70bU"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/0yAcPumt8FhHVkK8IXX9Ks"
       },
@@ -547,34 +515,34 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "AM___PM",
-        "url": "https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ"
+        "name": "narcissistic brain",
+        "url": "https://open.spotify.com/album/5OLoGreS9Ja506fg1xyfBt"
       },
       "artists": [
         {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
         }
       ],
-      "duration_ms": 170103,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
+      "duration_ms": 193879,
+      "name": "narcissistic brain",
+      "url": "https://open.spotify.com/track/471izAznueozJKIOax70bU"
     },
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Nichts mehr sein",
-        "url": "https://open.spotify.com/album/0n4cyNn4w0t5bY3jUJctzE"
+        "name": "Why",
+        "url": "https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4"
       },
       "artists": [
         {
-          "name": "Brenda Blitz",
-          "url": "https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd"
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
         }
       ],
-      "duration_ms": 187555,
-      "name": "Nichts mehr sein",
-      "url": "https://open.spotify.com/track/3g8pPWrbcM78Abvxjb7Vr9"
+      "duration_ms": 193038,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -595,6 +563,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "AM___PM",
+        "url": "https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 170103,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Nearly to the End",
         "url": "https://open.spotify.com/album/4Gtl2P5U86fdLY8PoLaXO4"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 192459,
       "name": "Nearly to the End",
       "url": "https://open.spotify.com/track/1jDqTmWI61O6frPRiK23K3"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Nichts mehr sein",
+        "url": "https://open.spotify.com/album/0n4cyNn4w0t5bY3jUJctzE"
+      },
+      "artists": [
+        {
+          "name": "Brenda Blitz",
+          "url": "https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd"
+        }
+      ],
+      "duration_ms": 187555,
+      "name": "Nichts mehr sein",
+      "url": "https://open.spotify.com/track/3g8pPWrbcM78Abvxjb7Vr9"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "L\u00fcg mich an",
-        "url": "https://open.spotify.com/album/2hT88jQEBT46ANOwfdiwgg"
-      },
-      "artists": [
-        {
-          "name": "Ambre Vallet",
-          "url": "https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "L\u00fcg mich an",
-      "url": "https://open.spotify.com/track/6AN9ZBB4kiiTPHZ16bvQBW"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "alcohol",
         "url": "https://open.spotify.com/album/6algEDtcGdULM36s8ZXFvm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 150240,
       "name": "alcohol",
       "url": "https://open.spotify.com/track/1Tpz8ZrUTUKPyMtW32wC02"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "L\u00fcg mich an",
+        "url": "https://open.spotify.com/album/2hT88jQEBT46ANOwfdiwgg"
+      },
+      "artists": [
+        {
+          "name": "Ambre Vallet",
+          "url": "https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "L\u00fcg mich an",
+      "url": "https://open.spotify.com/track/6AN9ZBB4kiiTPHZ16bvQBW"
     },
     {
       "added_at": "2023-07-04 22:00:00",

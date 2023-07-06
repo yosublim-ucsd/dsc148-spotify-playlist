@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > Salute's got the juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,039 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,069 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 16 | [Rush](https://open.spotify.com/track/6cn2qPW4Xb7n6CVOMldvDw) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/6dr7L7mHSIjWAbgHYztMzd) | 3:36 |
 | 17 | [Keep It Burning](https://open.spotify.com/track/7Ewp4wV3NqvQb1qBeUc6ek) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Keep It Burning](https://open.spotify.com/album/5W6A8Fmm0dz02oKVCO1d4l) | 2:30 |
 | 18 | [Fever](https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 2:52 |
-| 19 | [Lab \- Black Balloons Remix](https://open.spotify.com/track/34zfM258Ht6YwQToo7Olr9) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [Lab \(Black Balloons Remix\)](https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os) | 3:22 |
+| 19 | [Lab \- black balloons Remix](https://open.spotify.com/track/34zfM258Ht6YwQToo7Olr9) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [Lab \(black balloons Remix\)](https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os) | 3:22 |
 | 20 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 |
 | 21 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 22 | [Run Away With You](https://open.spotify.com/track/17lNneB8PxBx8rttZDywXU) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 4:12 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 66 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 67 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCxlYWYwNTIxYTU0MzA0NjVlODM2NzdjM2VlNjJmNDg2NTBlZjc0MGFm`
+Snapshot ID: `MCw2OWM0YTA1NDljMTVmN2EzNDEyMGRiMDVkY2M4M2Y0MzNkNGRiZTMx`

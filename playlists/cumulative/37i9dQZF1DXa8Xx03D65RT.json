@@ -6139,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "Midday Breeze",
+        "url": "https://open.spotify.com/album/0Bk52PBciTKDUiU9rOi297"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126525,
+      "name": "Midday Breeze",
+      "url": "https://open.spotify.com/track/4FHWJ8LiYLzzXXuEWaIGYB"
+    },
+    {
+      "album": {
         "name": "Yggdrasil",
         "url": "https://open.spotify.com/album/5psFJLRfDBxZSL9hHTAyZF"
       },
@@ -7882,7 +7900,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 133000,
       "name": "Precious Amber",
       "url": "https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs"

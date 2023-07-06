@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 246995,
+  "num_followers": 247179,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk",
+  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "They Fear Us",
-        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "RedZone / Dead or Alive",
         "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 227706,
       "name": "RedZone",
       "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "They Fear Us",
+        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "All Fine / eniF llA",
+        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "LXVE",
+      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Kosmik",
         "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 214250,
       "name": "Contact",
       "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "All Fine / eniF llA",
-        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
       "artists": [
         {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
         }
       ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",

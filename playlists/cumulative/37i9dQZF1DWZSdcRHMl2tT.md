@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-377 songs - 19 hr 12 min
+378 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [3 ways of summer](https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [3 ways of summer](https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C) | 3:07 | 2022-11-25 |  |
 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 | 2022-10-28 |  |
 | [A long beat](https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [A long beat](https://open.spotify.com/album/2plRSqTfwrO8q5jS9UTS4B) | 3:05 | 2023-01-20 |  |
-| [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 | 2022-08-19 |  |
+| [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 | 2022-08-19 | 2023-07-06 |
+| [A Moment Away](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/5JBuR3SpFu5Wsnbtg1f7nQ) | 2:56 | 2023-06-23 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-04-05 | 2022-07-29 |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-05 |  |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2022-04-05 | 2023-06-24 |

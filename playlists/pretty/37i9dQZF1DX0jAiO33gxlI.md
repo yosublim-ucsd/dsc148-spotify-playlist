@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Nill
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,693 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,716 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 18 | [Era uma Ex](https://open.spotify.com/track/1m9MZZdePVg4uxzGuY819a) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE) | [Era uma Ex](https://open.spotify.com/album/3dDiR9aVEAseyBLjluCWnv) | 2:13 |
 | 19 | [Corpo Fechado](https://open.spotify.com/track/1TfnxXwTPaJlzKCe0ONsap) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira, Vol\. 1](https://open.spotify.com/album/20JID6P0gPvvtRzmcMdsmK) | 2:33 |
 | 20 | [Alvo](https://open.spotify.com/track/7vQOGmU1cMVzkxbquiZgx3) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Alvo](https://open.spotify.com/album/2OsDUne6ZJowKg1Hyyd1O2) | 2:53 |
-| 21 | [Ballin](https://open.spotify.com/track/244jI61ksiADX8vrhyrYqJ) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB), [Chris Helv](https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3), [TH](https://open.spotify.com/artist/3zRe1TSAHVF1gQYIuyP907) | [Ballin](https://open.spotify.com/album/7L9pBeyUEISPEfiYI7WUdu) | 3:25 |
+| 21 | [Ballin](https://open.spotify.com/track/244jI61ksiADX8vrhyrYqJ) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB), [TH](https://open.spotify.com/artist/3zRe1TSAHVF1gQYIuyP907), [Chris Helv](https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3) | [Ballin](https://open.spotify.com/album/7L9pBeyUEISPEfiYI7WUdu) | 3:25 |
 | 22 | [Desde Menorzin](https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Jogo do Milhão](https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL) | 3:14 |
 | 23 | [Forasteiro](https://open.spotify.com/track/5DKHLJEuO3wcUksmcSV4fg) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Paulo Dionísio](https://open.spotify.com/artist/2yA2ENYD6IQ6eKmf78Ym0r) | [Forasteiro](https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6) | 4:50 |
 | 24 | [Contra Senso](https://open.spotify.com/track/2qNw3mCzebd3wdnAsYWGEE) | [Dom R](https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1), [696](https://open.spotify.com/artist/3C4yWUF6J97gXQd6JyA7M7), [Cariocanubeat](https://open.spotify.com/artist/5GqWDa0hPex90n1WgDe92U) | [Contra Senso](https://open.spotify.com/album/4cEUbtgxuxipPCLAWwTp2R) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Pertence ao Crime](https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 2:45 |
 | 75 | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/track/2bnNGFhIubWO4PvEIlmSwC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/album/6Yck9pW5bltFmS87Trjv1u) | 4:36 |
 
-Snapshot ID: `MCxhY2NiNDgwNWY1MjEwOWFlNjQwY2RlYmE1YTI5MTc4ZDk0OGVmM2Fl`
+Snapshot ID: `MCw3OTVhNDcxYWM3NDM5OWFhZDBjNTIwYTFhYzI0M2UzZWNkNTA1ZmU2`

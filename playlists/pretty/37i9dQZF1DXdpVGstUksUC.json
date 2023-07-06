@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 516294,
+  "num_followers": 516515,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY5ZjdhZDM3YWU4ODJlNjc5MTAyZTAxOTVjZjU1MGMyZDUwNDU2",
+  "snapshot_id": "MCw2ZWVhNTUyYzU1MmIxM2UyOTg1ZTM5MWE0MTZjMzljMGQ2NDZlNzJh",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Old Growth",
-        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
-      },
-      "artists": [
-        {
-          "name": "Dead Meadow",
-          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "What Needs Must Be",
-      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Elephant Tree",
         "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
-      },
-      "artists": [
-        {
-          "name": "Bongzilla",
-          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Greenthumb",
-      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Super Van Vacation",
         "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 529232,
       "name": "Road to Burn",
       "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Old Growth",
+        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
+      },
+      "artists": [
+        {
+          "name": "Dead Meadow",
+          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "What Needs Must Be",
+      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+      },
+      "artists": [
+        {
+          "name": "Bongzilla",
+          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Greenthumb",
+      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "From the Ages",
-        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
-      },
-      "artists": [
-        {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        }
-      ],
-      "duration_ms": 848346,
-      "name": "Uluru Rock",
-      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+        "name": "From the Ages",
+        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
       "artists": [
         {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
         }
       ],
-      "duration_ms": 387668,
-      "name": "Tired Old Dog",
-      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
+      "duration_ms": 848346,
+      "name": "Uluru Rock",
+      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 149973,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Devil and the Almighty Blues",
+        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+      },
+      "artists": [
+        {
+          "name": "The Devil and the Almighty Blues",
+          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+        }
+      ],
+      "duration_ms": 387668,
+      "name": "Tired Old Dog",
+      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 282160,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Superjudge",
+        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Superjudge",
+      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 391160,
       "name": "To the Center",
       "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Superjudge",
-        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Superjudge",
-      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Rattle",
-        "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
-      },
-      "artists": [
-        {
-          "name": "Wailin' Storms",
-          "url": "https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2"
-        }
-      ],
-      "duration_ms": 332120,
-      "name": "Rattle",
-      "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Sunrise on Slaughter Beach (The Complete Edition)",
         "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 221033,
       "name": "Slaughter Beach",
       "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Rattle",
+        "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
+      },
+      "artists": [
+        {
+          "name": "Wailin' Storms",
+          "url": "https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2"
+        }
+      ],
+      "duration_ms": 332120,
+      "name": "Rattle",
+      "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
     },
     {
       "added_at": "2023-06-23 04:00:00",

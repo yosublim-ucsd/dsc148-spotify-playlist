@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Paky, Drillionaire, Sfera Ebbasta, Lazza, Shiva e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,558 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,580 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [Senza Regole Pt.2](https://open.spotify.com/track/1QzhpVO4DgEScLLafabwPx) | [Mosè Cov](https://open.spotify.com/artist/3IWXtAGmcpbcdcbz5ychXs) | [Senza Regole Pt.2](https://open.spotify.com/album/71UvpMxC7b2NXS8A5oCLV8) | 3:30 |
 | 75 | [Sensibile](https://open.spotify.com/track/2rGOEzvAMFDIjT27CZpxhj) | [LUMIER](https://open.spotify.com/artist/4ZGJt8xgF858OviBCS45CV) | [Sensibile](https://open.spotify.com/album/1TWdDGPiK70ReCzE15jT8A) | 2:32 |
 
-Snapshot ID: `MCwwZGU2YWNkOTY4MzkzMTU1YzJhMDgxM2I2ZGNlZGRjMDhkNjRkYjc1`
+Snapshot ID: `MCw5N2ZlMGMxMGRkZjgyOTRkMzlmNGI4NjQ3MWEzYTFjZmRhYWQ2YmVi`

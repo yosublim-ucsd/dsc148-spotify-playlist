@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 62464,
+  "num_followers": 62481,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGE4YTNlMTUwYjA4ZjhiYTc1NjUxNTg3MzU3MTRiNzMwZmI1ZmE4",
+  "snapshot_id": "MCw0NzUyYTBmNmJmMDk5MDcwZjU5OWM2MGVlY2YxYjg3ODExZWNjZDE0",
   "tracks": [
     {
       "added_at": "2023-06-30 02:32:22",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Vamos Perdiendo el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
-      },
-      "artists": [
-        {
-          "name": "Tungas",
-          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Dicen Que Estoy Muerto",
-      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 190933,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
+        "name": "Vamos Perdiendo el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
         "name": "Volumen 2",
         "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 139700,
       "name": "Ella Miente",
       "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Volver a Empezar",
-        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Ll\u00e9vate Todo",
-      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
+        "name": "Volver a Empezar",
+        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
         "name": "Cometas",
         "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
       "artists": [
         {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         }
       ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2023-06-30 02:32:22",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
         "name": "Y Si Patinan?",
         "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
       },
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-06-30 02:32:22",
       "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2023-06-30 02:32:22",
+      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 198624,
       "name": "Distancias",
       "url": "https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA"
-    },
-    {
-      "added_at": "2023-06-30 02:32:22",
-      "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "added_at": "2023-06-30 02:32:22",

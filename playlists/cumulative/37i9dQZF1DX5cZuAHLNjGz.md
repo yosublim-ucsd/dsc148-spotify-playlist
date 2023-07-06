@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Shubh
+> Ultimate 101 Punjabi Hits with Harrdy Sandhu
 
-212 songs - 11 hr 9 min
+213 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2022-05-29 |  |
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2022-05-29 |  |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2022-05-29 |  |
-| [Jatt Disda](https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jatt Disda](https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6) | 2:47 | 2023-05-19 |  |
+| [Jatt Disda](https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jatt Disda](https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6) | 2:47 | 2023-05-19 | 2023-07-06 |
 | [Jatt Don’t Care](https://open.spotify.com/track/4xt9T7bqLoLHuHpdVAJdVd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [BIG Ghuman](https://open.spotify.com/artist/2KQG8iJJ8SYC2wicGUZ2lG) | [Jatt Don’t Care](https://open.spotify.com/album/6mbFOxeExykR6XJLE617mk) | 3:24 | 2023-04-11 | 2023-04-14 |
 | [Jatt Flex](https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Jatt Flex](https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG) | 3:15 | 2022-05-29 | 2022-08-20 |
 | [Jatt Te Jawani](https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Jatt Te Jawani](https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc) | 4:00 | 2022-05-29 |  |
@@ -137,8 +137,8 @@
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-08-22 |  |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-09 | 2022-09-04 |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2023-04-30 |  |
-| [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-23 | 2023-07-05 |
-| [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2022-08-19 |  |
+| [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-23 |  |
+| [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2022-08-19 | 2023-07-06 |
 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 | 2022-05-29 |  |
 | [On Top](https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1) | 3:03 | 2022-11-25 | 2022-12-16 |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2022-12-15 |  |
@@ -154,6 +154,7 @@
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2022-05-29 | 2022-12-11 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2022-12-21 |  |
 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2022-08-17 | 2022-09-17 |
+| [Psycho](https://open.spotify.com/track/4xMC6iIBZRWhNcbo4s16xK) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Pleasures](https://open.spotify.com/album/0JLiQngguKQOq3tntZn1xg) | 2:42 | 2023-07-05 |  |
 | [Putt Sardara De](https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Putt Sardara De](https://open.spotify.com/album/3Nil2VHLzpRrQ1HtInBsYi) | 2:13 | 2022-12-10 | 2022-12-22 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-04-04 |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2022-05-29 | 2022-11-19 |

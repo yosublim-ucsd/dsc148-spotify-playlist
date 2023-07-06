@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,753 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,784 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 47 | [Don't Cry \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 6:08 |
 | 48 | [Hold Tight \(feat\. Ryan Ellis & Lizzie Morgan\)](https://open.spotify.com/track/5dovyGSRpHwz5YRJCOktO7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 3:50 |
 | 49 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 |
-| 50 | [God's Got Us \(feat\. Chandler Moore\)](https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 4:28 |
+| 50 | [Blessing In The Storm](https://open.spotify.com/track/6pnl2K7y2aA8eMJjwMBigb) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 3:29 |
 
-Snapshot ID: `MjgxNDEzMDUsMDAwMDAwMDBiNTEwODI3ZWRmNTgxZTRjNjc2OWVmODhjOGMxMjczNw==`
+Snapshot ID: `MjgxNDI3MDEsMDAwMDAwMDAyODczMWRkYWI5MzA4NWQyYTMzYmRkZGUwYjM0MjZmYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,477 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,474 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Etienne](https://open.spotify.com/track/3uhaVDabBBFXHcdKVm57aR) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa) | [Etienne](https://open.spotify.com/album/1mReRklqd4z6MYzngDnjMP) | 3:09 |
 | 94 | [Rien à perdre](https://open.spotify.com/track/2kBXCPcBoyn6FRwjdjjSAF) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Rien à perdre](https://open.spotify.com/album/2wTbK1Gte1OvYowsrFhkJs) | 3:40 |
 
-Snapshot ID: `MCxjZDUwMTMzOTNkNzNlNWQ4M2ViM2U1Y2MxYTFiMDY3MDRiNzBlY2Jm`
+Snapshot ID: `MCxiMTI1NzllODdlMzZiYzc4NmVhNzEwZDQ1MWI3N2FkMGY1MDI2NTIx`

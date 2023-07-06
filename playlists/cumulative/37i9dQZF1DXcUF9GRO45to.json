@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 266561,
       "name": "Self Love Age",
       "url": "https://open.spotify.com/track/7eteiaoID1a0mzNHOIHpnR"
@@ -4388,6 +4388,24 @@
       "duration_ms": 178515,
       "name": "Three Years Later",
       "url": "https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2"
+    },
+    {
+      "album": {
+        "name": "Bitter Memory",
+        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
+      },
+      "artists": [
+        {
+          "name": "The One You Loved",
+          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233023,
+      "name": "Toxin",
+      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
     },
     {
       "album": {

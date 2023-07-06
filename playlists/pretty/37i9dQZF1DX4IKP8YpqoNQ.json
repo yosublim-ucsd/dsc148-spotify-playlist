@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 24309,
+  "num_followers": 24315,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFhMGUyNDQwOTM3NGZiZTYzYmU5OWExOTI3NzljYmRhYjE1MjAy",
+  "snapshot_id": "MCwyZDE5M2ViZGVkOTQ1OWI0MmEzY2U2ZWZlMjIzNTQ4NzgzZmQ0MGUw",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 374236,
-      "name": "Ain't Nobody - Live",
-      "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "The Roots Come Alive",
         "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 530866,
       "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
       "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 374236,
+      "name": "Ain't Nobody - Live",
+      "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
+      "duration_ms": 539920,
+      "name": "Lady - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 539920,
-      "name": "Lady - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1411,6 +1395,38 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
         "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 367186,
       "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
       "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "In Performance",
         "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Let's Stay Together - Live",
-      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
     }
   ],
   "unique_name": "Soul Live",

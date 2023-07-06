@@ -2,7 +2,7 @@
 
 ### [Netflix & Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DWU1ArdWOMZjR)
 
-> Wake me up before you go\-go! Check out Wham!'s top tracks ahead of their documentary, coming soon to Netflix.
+> Wake me up before you go\-go! Check out Wham!'s top tracks to celebrate their documentary, now streaming on Netflix.
 
 47 songs - 3 hr 17 min
 

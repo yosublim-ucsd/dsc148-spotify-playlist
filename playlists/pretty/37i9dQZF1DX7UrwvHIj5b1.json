@@ -1,29 +1,13 @@
 {
   "description": "Meditative dubstep rhythms for focus and contemplation. ",
-  "num_followers": 16141,
+  "num_followers": 16210,
   "original_name": "Deep Rhythm Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjhlOGNiZGQ1ZDNiYjY1YzkwZTc1Y2ZjMDU3NDliZWM1YTczYzY0",
+  "snapshot_id": "MCwzZmEwMTc2Y2RmNDcxM2ViNWQ3NGNhNThmMDZiYTlkMzdlMmE0NWI1",
   "tracks": [
-    {
-      "added_at": "2022-11-30 23:20:27",
-      "album": {
-        "name": "Woe & Bliss EP",
-        "url": "https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH"
-      },
-      "artists": [
-        {
-          "name": "SubDimension",
-          "url": "https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb"
-        }
-      ],
-      "duration_ms": 373839,
-      "name": "Bliss - Original Mix",
-      "url": "https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20"
-    },
     {
       "added_at": "2022-11-30 23:20:27",
       "album": {
@@ -159,22 +143,6 @@
     {
       "added_at": "2022-11-30 23:20:27",
       "album": {
-        "name": "Slow Waves",
-        "url": "https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6"
-      },
-      "artists": [
-        {
-          "name": "Khromi",
-          "url": "https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer"
-        }
-      ],
-      "duration_ms": 260575,
-      "name": "Slow Waves",
-      "url": "https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8"
-    },
-    {
-      "added_at": "2022-11-30 23:20:27",
-      "album": {
         "name": "Tomorrow - EP",
         "url": "https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE"
       },
@@ -239,26 +207,6 @@
       "duration_ms": 249968,
       "name": "Phoam",
       "url": "https://open.spotify.com/track/5nSjgKq5pZvTSLGlMtjDBv"
-    },
-    {
-      "added_at": "2022-11-30 23:20:27",
-      "album": {
-        "name": "Appetency",
-        "url": "https://open.spotify.com/album/7hmORaeY9xIflDguuESlQ9"
-      },
-      "artists": [
-        {
-          "name": "Jack Flynn-Oakley",
-          "url": "https://open.spotify.com/artist/3Xn4aRiHb1qN3UYs3yLKwW"
-        },
-        {
-          "name": "Mystic State",
-          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
-        }
-      ],
-      "duration_ms": 316659,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/3ymAJcyFcFBa1K7KrmCGjT"
     },
     {
       "added_at": "2022-12-08 19:04:27",
@@ -345,22 +293,6 @@
       "url": "https://open.spotify.com/track/58y8HE4cDwELFOZCwNM3kj"
     },
     {
-      "added_at": "2022-11-30 23:20:27",
-      "album": {
-        "name": "Oaken",
-        "url": "https://open.spotify.com/album/64AHueA64ofjV9g69ZXHhi"
-      },
-      "artists": [
-        {
-          "name": "Taiko",
-          "url": "https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq"
-        }
-      ],
-      "duration_ms": 282133,
-      "name": "Where Ya From",
-      "url": "https://open.spotify.com/track/2BaqPUM4FO9CH4YxKmy1gN"
-    },
-    {
       "added_at": "2023-03-01 21:35:03",
       "album": {
         "name": "Labyrinth",
@@ -377,22 +309,6 @@
       "url": "https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg"
     },
     {
-      "added_at": "2022-12-08 19:04:27",
-      "album": {
-        "name": "Xylophobia / Minimal Dub",
-        "url": "https://open.spotify.com/album/42YxBDLulBxhFc0kSevfSU"
-      },
-      "artists": [
-        {
-          "name": "Icicle",
-          "url": "https://open.spotify.com/artist/7zoCV6yevWc39GUz2v1jqg"
-        }
-      ],
-      "duration_ms": 282880,
-      "name": "Xylophobia",
-      "url": "https://open.spotify.com/track/3c12d3L27Jzw8g7nfuN7IK"
-    },
-    {
       "added_at": "2022-11-30 23:20:27",
       "album": {
         "name": "Vapour / Orbit / Elixir",
@@ -407,38 +323,6 @@
       "duration_ms": 253180,
       "name": "Vapour",
       "url": "https://open.spotify.com/track/2CGDaeOIookJCHSrMQsKVT"
-    },
-    {
-      "added_at": "2023-03-01 21:35:03",
-      "album": {
-        "name": "Night Square EP",
-        "url": "https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR"
-      },
-      "artists": [
-        {
-          "name": "PHSNWSKY",
-          "url": "https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW"
-        }
-      ],
-      "duration_ms": 205718,
-      "name": "Night Square",
-      "url": "https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV"
-    },
-    {
-      "added_at": "2022-11-30 23:20:27",
-      "album": {
-        "name": "Clear Your Head EP",
-        "url": "https://open.spotify.com/album/2frfbLWXIpVPd2d4VeeAhL"
-      },
-      "artists": [
-        {
-          "name": "Kodama",
-          "url": "https://open.spotify.com/artist/0ltrvSsYXHHVmWCB1bgdMs"
-        }
-      ],
-      "duration_ms": 206357,
-      "name": "Clear Your Head",
-      "url": "https://open.spotify.com/track/1naTCLL7Zo2SyqqvR53l4B"
     },
     {
       "added_at": "2023-03-01 21:35:03",
@@ -475,38 +359,6 @@
     {
       "added_at": "2022-11-30 23:20:27",
       "album": {
-        "name": "Pressed Records - Dub Compilation EP Vol 1",
-        "url": "https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn"
-      },
-      "artists": [
-        {
-          "name": "Elefant Doc",
-          "url": "https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Pon na' Dub",
-      "url": "https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN"
-    },
-    {
-      "added_at": "2023-03-01 22:00:13",
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH"
-      },
-      "artists": [
-        {
-          "name": "Chad Dubz",
-          "url": "https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd"
-        }
-      ],
-      "duration_ms": 348072,
-      "name": "Wisdom",
-      "url": "https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9"
-    },
-    {
-      "added_at": "2022-11-30 23:20:27",
-      "album": {
         "name": "Far North Dubs EP",
         "url": "https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy"
       },
@@ -539,6 +391,266 @@
       "duration_ms": 290000,
       "name": "Revival",
       "url": "https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx"
+    },
+    {
+      "added_at": "2023-03-01 22:00:13",
+      "album": {
+        "name": "Biome X Deep Heads",
+        "url": "https://open.spotify.com/album/0izqzC6hfV8EycaipMjBkI"
+      },
+      "artists": [
+        {
+          "name": "Biome",
+          "url": "https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/3u0rtErqAsGNjc3SotWktj"
+    },
+    {
+      "added_at": "2023-06-22 15:15:20",
+      "album": {
+        "name": "IMRV036",
+        "url": "https://open.spotify.com/album/2tkhV1NfWxZdzUl5sEvXOs"
+      },
+      "artists": [
+        {
+          "name": "DE-T\u00dc",
+          "url": "https://open.spotify.com/artist/5iCCchx08AOJTQOg0IuAUd"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Head Top",
+      "url": "https://open.spotify.com/track/3AUxyuiXkgXugEnfq3j9WG"
+    },
+    {
+      "added_at": "2023-06-22 15:15:20",
+      "album": {
+        "name": "Skankers Chant Ep",
+        "url": "https://open.spotify.com/album/4ygHPcN9QPc0Lru9rqaWfZ"
+      },
+      "artists": [
+        {
+          "name": "Numa Crew",
+          "url": "https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL"
+        },
+        {
+          "name": "Lapo",
+          "url": "https://open.spotify.com/artist/1rtJkutyjtQ7yqtqc0aHPd"
+        },
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2"
+        }
+      ],
+      "duration_ms": 267199,
+      "name": "Tuff!",
+      "url": "https://open.spotify.com/track/5CCXdUBBUQPE2xBy5nHFpV"
+    },
+    {
+      "added_at": "2023-06-08 14:01:43",
+      "album": {
+        "name": "Fade Into Dust / Departure",
+        "url": "https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        },
+        {
+          "name": "Captivate",
+          "url": "https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto"
+    },
+    {
+      "added_at": "2023-06-08 14:01:43",
+      "album": {
+        "name": "Competition",
+        "url": "https://open.spotify.com/album/6ETGOvIFKT7MQw8hiZyRmZ"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        },
+        {
+          "name": "J:Kenzo",
+          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
+        }
+      ],
+      "duration_ms": 360002,
+      "name": "Competition",
+      "url": "https://open.spotify.com/track/3LWEhJL5SNZG0Qur9VRd9V"
+    },
+    {
+      "added_at": "2023-06-22 15:15:20",
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9"
+      },
+      "artists": [
+        {
+          "name": "Formless",
+          "url": "https://open.spotify.com/artist/7hXf0gBQHoIPWMWKZnxSj6"
+        },
+        {
+          "name": "No-Man",
+          "url": "https://open.spotify.com/artist/77BO4bYHfvTmVuG63wOuHX"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/0yd51BSGyLz852FDZjvK8Q"
+    },
+    {
+      "added_at": "2023-06-08 14:01:43",
+      "album": {
+        "name": "Rising High LP",
+        "url": "https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09"
+      },
+      "artists": [
+        {
+          "name": "Tubby Isiah",
+          "url": "https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu"
+        }
+      ],
+      "duration_ms": 250579,
+      "name": "Tellaman",
+      "url": "https://open.spotify.com/track/0lZORz16mfVk3NW58tguYS"
+    },
+    {
+      "added_at": "2023-06-22 15:15:20",
+      "album": {
+        "name": "Trilogy of the Toads",
+        "url": "https://open.spotify.com/album/27Fhlqk8ij2J7lM6UcNok4"
+      },
+      "artists": [
+        {
+          "name": "Truth",
+          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
+        }
+      ],
+      "duration_ms": 284703,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/5iODVmyJs5JmvAVlxAnpR1"
+    },
+    {
+      "added_at": "2023-06-22 15:15:20",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl"
+      },
+      "artists": [
+        {
+          "name": "Dubbacle",
+          "url": "https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl"
+    },
+    {
+      "added_at": "2023-03-01 21:35:03",
+      "album": {
+        "name": "Solo Move",
+        "url": "https://open.spotify.com/album/2mCKGUc0ONcibctnDBgMhr"
+      },
+      "artists": [
+        {
+          "name": "Dave N.A.",
+          "url": "https://open.spotify.com/artist/1cxEOlUUySOA6xSJ36PvlM"
+        }
+      ],
+      "duration_ms": 270722,
+      "name": "Late Lake",
+      "url": "https://open.spotify.com/track/7yQWdYmRBujBxEaVJfSNAq"
+    },
+    {
+      "added_at": "2023-06-08 14:01:43",
+      "album": {
+        "name": "Congi Selection",
+        "url": "https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n"
+      },
+      "artists": [
+        {
+          "name": "Congi",
+          "url": "https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag"
+        }
+      ],
+      "duration_ms": 352653,
+      "name": "Cryptic",
+      "url": "https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi"
+    },
+    {
+      "added_at": "2023-06-22 15:15:20",
+      "album": {
+        "name": "all:Lo compilation vol:1",
+        "url": "https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l"
+      },
+      "artists": [
+        {
+          "name": "Aphasia",
+          "url": "https://open.spotify.com/artist/4cSjMiHqf6hijjSaBOUik9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Orbitofrontal Entourage",
+      "url": "https://open.spotify.com/track/1FH0LXg2JHTo9bmqCgESEd"
+    },
+    {
+      "added_at": "2023-03-01 22:00:13",
+      "album": {
+        "name": "Windy",
+        "url": "https://open.spotify.com/album/1XhHgedHkBH9Rb5VmoiXMI"
+      },
+      "artists": [
+        {
+          "name": "Ourman",
+          "url": "https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8"
+        }
+      ],
+      "duration_ms": 247853,
+      "name": "Rub A Thug",
+      "url": "https://open.spotify.com/track/3cvBEDKdMXbPD8LabA0z6G"
+    },
+    {
+      "added_at": "2022-11-30 23:20:27",
+      "album": {
+        "name": "Pressed Records - Dub Compilation EP Vol 1",
+        "url": "https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn"
+      },
+      "artists": [
+        {
+          "name": "Elefant Doc",
+          "url": "https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Pon na' Dub",
+      "url": "https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN"
+    },
+    {
+      "added_at": "2023-03-01 22:00:13",
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH"
+      },
+      "artists": [
+        {
+          "name": "Chad Dubz",
+          "url": "https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd"
+        }
+      ],
+      "duration_ms": 348072,
+      "name": "Wisdom",
+      "url": "https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9"
     },
     {
       "added_at": "2022-11-30 23:20:27",
@@ -589,6 +701,22 @@
       "url": "https://open.spotify.com/track/6jHOxTUmWeTupc4lKz76Vy"
     },
     {
+      "added_at": "2023-03-01 21:35:03",
+      "album": {
+        "name": "Night Square EP",
+        "url": "https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR"
+      },
+      "artists": [
+        {
+          "name": "PHSNWSKY",
+          "url": "https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW"
+        }
+      ],
+      "duration_ms": 205718,
+      "name": "Night Square",
+      "url": "https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV"
+    },
+    {
       "added_at": "2022-11-30 23:20:27",
       "album": {
         "name": "Koshi",
@@ -637,38 +765,6 @@
       "url": "https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe"
     },
     {
-      "added_at": "2023-03-01 22:00:13",
-      "album": {
-        "name": "Biome X Deep Heads",
-        "url": "https://open.spotify.com/album/0izqzC6hfV8EycaipMjBkI"
-      },
-      "artists": [
-        {
-          "name": "Biome",
-          "url": "https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/3u0rtErqAsGNjc3SotWktj"
-    },
-    {
-      "added_at": "2023-03-01 22:00:13",
-      "album": {
-        "name": "Windy",
-        "url": "https://open.spotify.com/album/1XhHgedHkBH9Rb5VmoiXMI"
-      },
-      "artists": [
-        {
-          "name": "Ourman",
-          "url": "https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8"
-        }
-      ],
-      "duration_ms": 247853,
-      "name": "Rub A Thug",
-      "url": "https://open.spotify.com/track/3cvBEDKdMXbPD8LabA0z6G"
-    },
-    {
       "added_at": "2022-11-30 23:20:27",
       "album": {
         "name": "2004 - 2008",
@@ -705,26 +801,6 @@
       "url": "https://open.spotify.com/track/2icSoosXMB1U1WUhk3Qxlj"
     },
     {
-      "added_at": "2023-06-08 14:01:43",
-      "album": {
-        "name": "Competition",
-        "url": "https://open.spotify.com/album/6ETGOvIFKT7MQw8hiZyRmZ"
-      },
-      "artists": [
-        {
-          "name": "Mystic State",
-          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
-        },
-        {
-          "name": "J:Kenzo",
-          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
-        }
-      ],
-      "duration_ms": 360002,
-      "name": "Competition",
-      "url": "https://open.spotify.com/track/3LWEhJL5SNZG0Qur9VRd9V"
-    },
-    {
       "added_at": "2023-05-26 19:53:17",
       "album": {
         "name": "Strike",
@@ -739,22 +815,6 @@
       "duration_ms": 337714,
       "name": "Strike",
       "url": "https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx"
-    },
-    {
-      "added_at": "2023-06-08 14:01:43",
-      "album": {
-        "name": "Rising High LP",
-        "url": "https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09"
-      },
-      "artists": [
-        {
-          "name": "Tubby Isiah",
-          "url": "https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu"
-        }
-      ],
-      "duration_ms": 250579,
-      "name": "Tellaman",
-      "url": "https://open.spotify.com/track/0lZORz16mfVk3NW58tguYS"
     },
     {
       "added_at": "2022-11-30 23:20:27",
@@ -793,22 +853,6 @@
       "url": "https://open.spotify.com/track/3GakeyWQJbWZc0s0PMGght"
     },
     {
-      "added_at": "2023-03-01 21:35:03",
-      "album": {
-        "name": "Solo Move",
-        "url": "https://open.spotify.com/album/2mCKGUc0ONcibctnDBgMhr"
-      },
-      "artists": [
-        {
-          "name": "Dave N.A.",
-          "url": "https://open.spotify.com/artist/1cxEOlUUySOA6xSJ36PvlM"
-        }
-      ],
-      "duration_ms": 270722,
-      "name": "Late Lake",
-      "url": "https://open.spotify.com/track/7yQWdYmRBujBxEaVJfSNAq"
-    },
-    {
       "added_at": "2023-06-08 14:01:43",
       "album": {
         "name": "Skankers Chant Ep",
@@ -833,56 +877,56 @@
       "url": "https://open.spotify.com/track/19vA1y6D7Te1UdMaIUayQI"
     },
     {
-      "added_at": "2023-06-08 14:01:43",
+      "added_at": "2022-11-30 23:20:27",
       "album": {
-        "name": "Congi Selection",
-        "url": "https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n"
+        "name": "Clear Your Head EP",
+        "url": "https://open.spotify.com/album/2frfbLWXIpVPd2d4VeeAhL"
       },
       "artists": [
         {
-          "name": "Congi",
-          "url": "https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag"
+          "name": "Kodama",
+          "url": "https://open.spotify.com/artist/0ltrvSsYXHHVmWCB1bgdMs"
         }
       ],
-      "duration_ms": 352653,
-      "name": "Cryptic",
-      "url": "https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi"
-    },
-    {
-      "added_at": "2023-06-08 14:01:43",
-      "album": {
-        "name": "Fade Into Dust / Departure",
-        "url": "https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8"
-      },
-      "artists": [
-        {
-          "name": "Mystic State",
-          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
-        },
-        {
-          "name": "Captivate",
-          "url": "https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "Departure",
-      "url": "https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto"
+      "duration_ms": 206357,
+      "name": "Clear Your Head",
+      "url": "https://open.spotify.com/track/1naTCLL7Zo2SyqqvR53l4B"
     },
     {
       "added_at": "2022-11-30 23:20:27",
       "album": {
-        "name": "Afterlife LP",
-        "url": "https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69"
+        "name": "Appetency",
+        "url": "https://open.spotify.com/album/7hmORaeY9xIflDguuESlQ9"
       },
       "artists": [
         {
-          "name": "Dillard",
-          "url": "https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq"
+          "name": "Jack Flynn-Oakley",
+          "url": "https://open.spotify.com/artist/3Xn4aRiHb1qN3UYs3yLKwW"
+        },
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Neural Net",
-      "url": "https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q"
+      "duration_ms": 316659,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/3ymAJcyFcFBa1K7KrmCGjT"
+    },
+    {
+      "added_at": "2022-12-08 19:04:27",
+      "album": {
+        "name": "Xylophobia / Minimal Dub",
+        "url": "https://open.spotify.com/album/42YxBDLulBxhFc0kSevfSU"
+      },
+      "artists": [
+        {
+          "name": "Icicle",
+          "url": "https://open.spotify.com/artist/7zoCV6yevWc39GUz2v1jqg"
+        }
+      ],
+      "duration_ms": 282880,
+      "name": "Xylophobia",
+      "url": "https://open.spotify.com/track/3c12d3L27Jzw8g7nfuN7IK"
     },
     {
       "added_at": "2023-06-22 15:15:20",
@@ -919,22 +963,6 @@
     {
       "added_at": "2023-06-22 15:15:20",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl"
-      },
-      "artists": [
-        {
-          "name": "Dubbacle",
-          "url": "https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl"
-    },
-    {
-      "added_at": "2023-06-22 15:15:20",
-      "album": {
         "name": "Los Angeles EP",
         "url": "https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj"
       },
@@ -947,6 +975,22 @@
       "duration_ms": 303942,
       "name": "Lankershim Stroll",
       "url": "https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx"
+    },
+    {
+      "added_at": "2022-11-30 23:20:27",
+      "album": {
+        "name": "Oaken",
+        "url": "https://open.spotify.com/album/64AHueA64ofjV9g69ZXHhi"
+      },
+      "artists": [
+        {
+          "name": "Taiko",
+          "url": "https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Where Ya From",
+      "url": "https://open.spotify.com/track/2BaqPUM4FO9CH4YxKmy1gN"
     },
     {
       "added_at": "2023-06-22 15:15:20",
@@ -1003,22 +1047,6 @@
     {
       "added_at": "2023-06-22 15:15:20",
       "album": {
-        "name": "Trilogy of the Toads",
-        "url": "https://open.spotify.com/album/27Fhlqk8ij2J7lM6UcNok4"
-      },
-      "artists": [
-        {
-          "name": "Truth",
-          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
-        }
-      ],
-      "duration_ms": 284703,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/5iODVmyJs5JmvAVlxAnpR1"
-    },
-    {
-      "added_at": "2023-06-22 15:15:20",
-      "album": {
         "name": "Focus Mode",
         "url": "https://open.spotify.com/album/55UU40jLmmKeOMwPRd4IKa"
       },
@@ -1065,80 +1093,20 @@
       "url": "https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP"
     },
     {
-      "added_at": "2023-06-22 15:15:20",
+      "added_at": "2022-11-30 23:20:27",
       "album": {
-        "name": "IMRV036",
-        "url": "https://open.spotify.com/album/2tkhV1NfWxZdzUl5sEvXOs"
+        "name": "Woe & Bliss EP",
+        "url": "https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH"
       },
       "artists": [
         {
-          "name": "DE-T\u00dc",
-          "url": "https://open.spotify.com/artist/5iCCchx08AOJTQOg0IuAUd"
+          "name": "SubDimension",
+          "url": "https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Head Top",
-      "url": "https://open.spotify.com/track/3AUxyuiXkgXugEnfq3j9WG"
-    },
-    {
-      "added_at": "2023-06-22 15:15:20",
-      "album": {
-        "name": "Skankers Chant Ep",
-        "url": "https://open.spotify.com/album/4ygHPcN9QPc0Lru9rqaWfZ"
-      },
-      "artists": [
-        {
-          "name": "Numa Crew",
-          "url": "https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL"
-        },
-        {
-          "name": "Lapo",
-          "url": "https://open.spotify.com/artist/1rtJkutyjtQ7yqtqc0aHPd"
-        },
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2"
-        }
-      ],
-      "duration_ms": 267199,
-      "name": "Tuff!",
-      "url": "https://open.spotify.com/track/5CCXdUBBUQPE2xBy5nHFpV"
-    },
-    {
-      "added_at": "2023-06-22 15:15:20",
-      "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9"
-      },
-      "artists": [
-        {
-          "name": "Formless",
-          "url": "https://open.spotify.com/artist/7hXf0gBQHoIPWMWKZnxSj6"
-        },
-        {
-          "name": "No-Man",
-          "url": "https://open.spotify.com/artist/77BO4bYHfvTmVuG63wOuHX"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Encounter",
-      "url": "https://open.spotify.com/track/0yd51BSGyLz852FDZjvK8Q"
-    },
-    {
-      "added_at": "2023-06-22 15:15:20",
-      "album": {
-        "name": "all:Lo compilation vol:1",
-        "url": "https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l"
-      },
-      "artists": [
-        {
-          "name": "Aphasia",
-          "url": "https://open.spotify.com/artist/4cSjMiHqf6hijjSaBOUik9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Orbitofrontal Entourage",
-      "url": "https://open.spotify.com/track/1FH0LXg2JHTo9bmqCgESEd"
+      "duration_ms": 373839,
+      "name": "Bliss - Original Mix",
+      "url": "https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20"
     },
     {
       "added_at": "2023-06-30 17:25:48",
@@ -1159,6 +1127,38 @@
       "duration_ms": 250497,
       "name": "Iridescence",
       "url": "https://open.spotify.com/track/4BEXZPaK0706p5tPy1UR3l"
+    },
+    {
+      "added_at": "2022-11-30 23:20:27",
+      "album": {
+        "name": "Afterlife LP",
+        "url": "https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69"
+      },
+      "artists": [
+        {
+          "name": "Dillard",
+          "url": "https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Neural Net",
+      "url": "https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q"
+    },
+    {
+      "added_at": "2022-11-30 23:20:27",
+      "album": {
+        "name": "Slow Waves",
+        "url": "https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6"
+      },
+      "artists": [
+        {
+          "name": "Khromi",
+          "url": "https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer"
+        }
+      ],
+      "duration_ms": 260575,
+      "name": "Slow Waves",
+      "url": "https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8"
     }
   ],
   "unique_name": "Deep Rhythm Focus",

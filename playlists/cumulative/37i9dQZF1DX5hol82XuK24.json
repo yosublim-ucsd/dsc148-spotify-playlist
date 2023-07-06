@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 139259,
       "name": "Alivve",
       "url": "https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC"
@@ -128,6 +128,24 @@
       "duration_ms": 245125,
       "name": "Almighty",
       "url": "https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH"
+    },
+    {
+      "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330880,
+      "name": "Alps",
+      "url": "https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC"
     },
     {
       "album": {
@@ -671,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Counting Empties",
+        "url": "https://open.spotify.com/album/73VMcdgWUHy6NzizKuqbly"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228016,
+      "name": "Counting Empties",
+      "url": "https://open.spotify.com/track/7E24Lrt5981VzxUAZQ8Cw2"
+    },
+    {
+      "album": {
         "name": "Double Negative",
         "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
       },
@@ -686,6 +722,28 @@
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "album": {
+        "name": "Dancing with Ghosts",
+        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299400,
+      "name": "Dancing with Ghosts",
+      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
       "album": {
@@ -905,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
+    {
+      "album": {
         "name": "Less",
         "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
       },
@@ -938,6 +1014,24 @@
       "duration_ms": 219133,
       "name": "Duffy's",
       "url": "https://open.spotify.com/track/74kjh8PAcrv7ZVaueHpgTf"
+    },
+    {
+      "album": {
+        "name": "Rotten Bun for an Eggless Century",
+        "url": "https://open.spotify.com/album/0tqVbc2hj5nC8JoYiqWQEz"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117546,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/2NR6sk2q4WAzVMB3qaqpx3"
     },
     {
       "album": {
@@ -977,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127150,
+      "name": "Empty Stomach Space Cadet",
+      "url": "https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp"
+    },
+    {
+      "album": {
         "name": "Everything is Gonna' Be Alright",
         "url": "https://open.spotify.com/album/44q46WfyQsFpCBLStz9Gve"
       },
@@ -1006,7 +1118,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 206813,
       "name": "everything looks darker now",
       "url": "https://open.spotify.com/track/5VymYMoYoOum1mV0Q7YvQz"
@@ -1633,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "album": {
         "name": "If You Say the Word",
         "url": "https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC"
       },
@@ -1842,7 +1972,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 222750,
       "name": "Love Is a Real Place",
       "url": "https://open.spotify.com/track/35a1pcDwARb6heYFO3gkKx"
@@ -2008,6 +2138,42 @@
       "duration_ms": 256000,
       "name": "MSQ No-Extra",
       "url": "https://open.spotify.com/track/6zxBObLm1UWk5X42zJ4JUD"
+    },
+    {
+      "album": {
+        "name": "My Cosmos Is Mine",
+        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316899,
+      "name": "My Cosmos Is Mine",
+      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "album": {
+        "name": "My Evil",
+        "url": "https://open.spotify.com/album/49lWEieiOPuNNh59L19qlR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144404,
+      "name": "My Evil",
+      "url": "https://open.spotify.com/track/3X70q6VNGZzpM9XaWfGVn0"
     },
     {
       "album": {
@@ -2452,6 +2618,24 @@
       "duration_ms": 156000,
       "name": "Prey - 2021 Remastered version",
       "url": "https://open.spotify.com/track/1FF7zgBIYfnk19yuqqAFov"
+    },
+    {
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "album": {
@@ -3108,6 +3292,24 @@
       "duration_ms": 399453,
       "name": "Station Wagon",
       "url": "https://open.spotify.com/track/2cvBpyqeKbRCbomGBfa9PQ"
+    },
+    {
+      "album": {
+        "name": "Strange Dance",
+        "url": "https://open.spotify.com/album/4OREG2d9U3Belo7kYhWTl1"
+      },
+      "artists": [
+        {
+          "name": "Philip Selway",
+          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357028,
+      "name": "Strange Dance",
+      "url": "https://open.spotify.com/track/3frH5rQAE1DnmKgGLno48o"
     },
     {
       "album": {

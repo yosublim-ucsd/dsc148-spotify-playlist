@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 47 | [Despiértate](https://open.spotify.com/track/5MFCVmW6tnQfYEKmXyvgfH) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 3:00 |
 | 48 | [Contradicción](https://open.spotify.com/track/3R2FaLjO7IUkAgmXRwYRMa) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 2:55 |
 | 49 | [Dolería](https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:57 |
-| 50 | [Para Olvidarte](https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 4:17 |
-| 51 | [Miami](https://open.spotify.com/track/5uO69Tc4ogrDtdWl5j5Rvm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/0OzJRx52dulFpcA3Wb397m) | 2:10 |
+| 50 | [Miami](https://open.spotify.com/track/5uO69Tc4ogrDtdWl5j5Rvm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/0OzJRx52dulFpcA3Wb397m) | 2:10 |
+| 51 | [Para Olvidarte](https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 4:17 |
 | 52 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
 | 53 | [No Te Vayas \- Remix](https://open.spotify.com/track/2eFI2PHNaLq7GacI7elvLk) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [No Te Vayas \(Remix\)](https://open.spotify.com/album/4DU6GMEyzb1WLfXMxzS0bF) | 3:18 |
 | 54 | [Fresh](https://open.spotify.com/track/0fA6OOtT1uVcQblKjwJ6wm) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:12 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 92 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
 | 93 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 |
 
-Snapshot ID: `MjgxNDIwNDAsMDAwMDAwMDAzYzU1NmJmYTk4NjJkY2RjMzJlM2EzMmVmOTVhOWZkMA==`
+Snapshot ID: `MjgxNDM0ODAsMDAwMDAwMDBmNjQzYmRjYTVjNjYwZThiMDIwYmQ3MTYzNGIyM2FkYw==`

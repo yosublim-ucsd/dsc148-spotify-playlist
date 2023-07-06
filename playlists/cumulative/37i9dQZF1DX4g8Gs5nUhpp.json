@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Hoa C\u1ecf Lau",
+        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
+      },
+      "artists": [
+        {
+          "name": "Phong Max",
+          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210820,
+      "name": "Hoa C\u1ecf Lau",
+      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
+    },
+    {
+      "album": {
         "name": "H\u00ecnh Tr\u00e1i Tim",
         "url": "https://open.spotify.com/album/7oS4wfpgF8ISnA0TBQwqmA"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 222720,
       "name": "Ng\u01b0\u1eddi L\u1ea1 Trong Danh B\u1ea1 (feat. Phuc Du)",
       "url": "https://open.spotify.com/track/7jbnA8sL3dpOYRrFrVURf0"
@@ -2090,6 +2108,24 @@
       "duration_ms": 179154,
       "name": "Ng\u01b0\u1eddi \u00d4m Ph\u00e1o Hoa",
       "url": "https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m"
+    },
+    {
+      "album": {
+        "name": "Ng\u1ecf L\u1eddi",
+        "url": "https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK"
+      },
+      "artists": [
+        {
+          "name": "Suni H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235744,
+      "name": "Ng\u1ecf L\u1eddi",
+      "url": "https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0"
     },
     {
       "album": {
@@ -3272,6 +3308,28 @@
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
+    },
+    {
+      "album": {
+        "name": "V\u00ec Em Ch\u01b0a Bao Gi\u1edd Kh\u00f3c",
+        "url": "https://open.spotify.com/album/3TZORvqcdBkYwyNklCqxMS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Nhi",
+          "url": "https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL"
+        },
+        {
+          "name": "A.C Xu\u00e2n T\u00e0i",
+          "url": "https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "V\u00ec Em Ch\u01b0a Bao Gi\u1edd Kh\u00f3c",
+      "url": "https://open.spotify.com/track/4CKGjLQYTZv9S1eDuUG7DG"
     },
     {
       "album": {

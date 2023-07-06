@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 64385,
+  "num_followers": 64408,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzQzNGFlNzNjMTliZWIzNzkwYTIwOGY0MjZjYTM4ZmQ5MWNlY2Jm",
+  "snapshot_id": "MCwxYzNkYmM5Zjg4ZDI1Y2NiMjZiOGVhOTBhZDZhOTY1MjcyZWZjNjFm",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -779,8 +779,8 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 204440,
-      "name": "I Should Be So Lucky",
-      "url": "https://open.spotify.com/track/1MK5FOmm5ppLIS2Ga3jHlT"
+      "duration_ms": 199426,
+      "name": "All the Lovers",
+      "url": "https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -863,8 +863,8 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 199426,
-      "name": "All the Lovers",
-      "url": "https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW"
+      "duration_ms": 204440,
+      "name": "I Should Be So Lucky",
+      "url": "https://open.spotify.com/track/1MK5FOmm5ppLIS2Ga3jHlT"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+        "name": "Two Shoes",
+        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
       },
       "artists": [
         {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
         }
       ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
+      "duration_ms": 313053,
+      "name": "Two Shoes",
+      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Two Shoes",
-        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
       "artists": [
         {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
         }
       ],
-      "duration_ms": 313053,
-      "name": "Two Shoes",
-      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2022-04-18 02:03:22",

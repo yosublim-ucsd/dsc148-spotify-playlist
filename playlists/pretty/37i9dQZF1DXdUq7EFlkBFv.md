@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,004 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,025 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 22 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 |
 | 23 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 |
 | 24 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
-| 25 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
-| 26 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 |
+| 25 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 |
+| 26 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
 | 27 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 |
 | 28 | [Free Shiest Life \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:47 |
-| 29 | [Who I Smoke](https://open.spotify.com/track/3093lstvMDfRjvimLc6ViU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe), [FastMoney Goon](https://open.spotify.com/artist/6VdfJb2OJp9dbZz0t5bedv), [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Life of Betrayal 2x](https://open.spotify.com/album/2T2cnxVLWceuy1QofrVNnn) | 2:14 |
-| 30 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 |
+| 29 | [Harley Quinn](https://open.spotify.com/track/5yfX9sTYDJ012smTqfoTCj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/1YjRDz2mWVadCF8PoGjpNg) | 2:52 |
+| 30 | [Who I Smoke](https://open.spotify.com/track/3093lstvMDfRjvimLc6ViU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe), [FastMoney Goon](https://open.spotify.com/artist/6VdfJb2OJp9dbZz0t5bedv), [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Life of Betrayal 2x](https://open.spotify.com/album/2T2cnxVLWceuy1QofrVNnn) | 2:14 |
 | 31 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
 | 32 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 |
 | 33 | [No Time For Sleep \(Freestyle\)](https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [No Time For Sleep \(Freestyle\)](https://open.spotify.com/album/2SUNTv6iT4DwTmrNlqCqmi) | 6:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:48 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MCw0OTQ2NDNhZmQ5MTNjNTFhMmExZjEyNzQzYjAxOWIzYjVkY2ZiZDQw`
+Snapshot ID: `MCxhY2Q1Nzc5NDkxNzJiYThlMDA5OGE5OTg4MGU3ZDI2MDkxZGNmYjI3`

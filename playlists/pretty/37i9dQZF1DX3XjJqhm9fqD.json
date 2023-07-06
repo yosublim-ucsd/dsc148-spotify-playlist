@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 78649,
+  "num_followers": 78666,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWJhNzg1OTI3ZjUxOWZkNTUzNzY1NjcwZTM4NmNkNjk5N2EzOWUy",
+  "snapshot_id": "MCxmMDFlMzJjNGMyMmZhYTU1YWYwY2MzMjM5YWMzOGJmZTczNDM0NjZi",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 215026,
       "name": "Kote'w Te Ye",
       "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "P's & Q's",
         "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 196433,
       "name": "P's & Q's",
       "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "LAKAY",
         "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
-      },
-      "artists": [
-        {
-          "name": "Jamhaitian",
-          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
-        }
-      ],
-      "duration_ms": 192897,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Donzo City",
         "url": "https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 147000,
       "name": "KASE",
       "url": "https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+      },
+      "artists": [
+        {
+          "name": "Jamhaitian",
+          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+        }
+      ],
+      "duration_ms": 192897,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1887,18 +1887,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Mr Diablo",
-        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
+        "name": "Fanm d'Ayiti",
+        "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
       },
       "artists": [
         {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        },
+        {
+          "name": "Spektral Quartet",
+          "url": "https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb"
         }
       ],
-      "duration_ms": 166635,
-      "name": "Mr Diablo",
-      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
+      "duration_ms": 400666,
+      "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
+      "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
     }
   ],
   "unique_name": "Haitian Heat",

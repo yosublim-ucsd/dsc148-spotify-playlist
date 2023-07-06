@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,598 likes - 352 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,843 likes - 352 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 351 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 |
 | 352 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 |
 
-Snapshot ID: `MCxhNjQ0ZWQxNTRjY2VjMTYxMjQ0NjM1YWJmOTY5ZGMzZGNhODA1ZWRi`
+Snapshot ID: `MCxjZWFkNTU0YmU1YzQyYTk3OTIxMTg1YmZlMDBlMjlmY2ZmODU1N2Iy`

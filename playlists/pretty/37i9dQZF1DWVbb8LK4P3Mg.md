@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,757 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,762 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 68 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
 | 69 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 |
 | 70 | [Happy Christmas](https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [YAOKI Project part.1](https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9) | 4:03 |
-| 71 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
-| 72 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
+| 71 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
+| 72 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 | 73 | [This Christmas](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) | [Jyp Nation](https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO) | [This Christmas \- Single](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) | 3:47 |
 | 74 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 |
 | 75 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
 | 100 | [Special Christmas](https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ), [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw), [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [2016 United Cube Project Part 1](https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla) | 3:48 |
 
-Snapshot ID: `MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5`
+Snapshot ID: `MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4`

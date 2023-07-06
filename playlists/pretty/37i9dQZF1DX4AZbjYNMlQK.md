@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,619 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,605 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 43 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
 | 44 | [Last Christmas \- Versión Español](https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Last Christmas \(Versión Español\)](https://open.spotify.com/album/76KZzbhufZs8y12v5mBE5w) | 3:21 |
 | 45 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 |
-| 46 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 |
-| 47 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
+| 46 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
+| 47 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 |
 | 48 | [Una Navidad Sin Nieve](https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Una Navidad Sin Nieve](https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G) | 2:42 |
 | 49 | [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 |
 | 50 | [Lista De Regalos \(Feat\. Nabález, Majo Aguilar, Banda Fortuna, Jary Franco, Fátima Campo, Ricardo Murillo\)](https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn), [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Lista De Regalos \(Feat\. Nabález, Majo Aguilar, Banda Fortuna, Jary Franco, Fátima Campo, Ricardo Murillo\)](https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW) | 2:05 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 60 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 2:32 |
 | 61 | [Navidad Navidad](https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Navidad Navidad](https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip) | 2:22 |
 
-Snapshot ID: `MCw0NGU4NTNiMDE4N2I4Yjg3YzFhNmQzMjU5ZTQ5NzdiYzFjYmUxZTgy`
+Snapshot ID: `MCxhNzJiMGRiZmM0ODcyNDYxNjA3ODhkZjFhYWUxN2I3OTBmNWI5ODNk`

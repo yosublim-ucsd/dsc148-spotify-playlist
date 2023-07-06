@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 180035,
+  "num_followers": 180091,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDRiYjQzMjA0YzZkNDM3OTczYjZhOTNjZTgyNDY5NzM2YmIyOWY2",
+  "snapshot_id": "MCw3MTJiMjU5ZTQzNTgxODljY2FjMzdjNDk1ZWE3ZjNiODQ4YjIzMGIz",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Avanzando",
-        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 266520,
-      "name": "Que Me Puedas Amar",
-      "url": "https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 276360,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Avanzando",
+        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+        }
+      ],
+      "duration_ms": 266520,
+      "name": "Que Me Puedas Amar",
+      "url": "https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Tierra Mala",
-        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
+        "name": "Avanzando",
+        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
         }
       ],
-      "duration_ms": 289933,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
+      "duration_ms": 286026,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -555,22 +559,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Avanzando",
-        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
+        "name": "Tierra Mala",
+        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 286026,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
+      "duration_ms": 289933,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -627,18 +627,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+        "name": "Gracias Mi Gente",
+        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+      "duration_ms": 286493,
+      "name": "No Te Detengas",
+      "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -675,6 +679,22 @@
       "duration_ms": 282920,
       "name": "No Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -719,46 +739,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Pa Que Te Enamores",
-        "url": "https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM"
-      },
-      "artists": [
-        {
-          "name": "Ivan Zuleta",
-          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
-        },
-        {
-          "name": "Ivan Villazon",
-          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "Tu Olvido",
-      "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Gracias Mi Gente",
-        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "No Te Detengas",
-      "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 321160,
       "name": "Ay Hombe",
       "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Pa Que Te Enamores",
+        "url": "https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Zuleta",
+          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+        },
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "Tu Olvido",
+      "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "El Pueblo Quiere Al Cantante",
+        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 259413,
+      "name": "Acompa\u00f1ame",
+      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
@@ -851,26 +867,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "El Original",
-        "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
-        }
-      ],
-      "duration_ms": 260653,
-      "name": "Calidad de Vida",
-      "url": "https://open.spotify.com/track/1gUn7fbTiX5QJ6xvmWNpi2"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
@@ -891,22 +887,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "El Pueblo Quiere Al Cantante",
-        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 259413,
-      "name": "Acompa\u00f1ame",
-      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 287826,
       "name": "Sin Perd\u00f3n",
       "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "El Original",
+        "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
+        }
+      ],
+      "duration_ms": 260653,
+      "name": "Calidad de Vida",
+      "url": "https://open.spotify.com/track/1gUn7fbTiX5QJ6xvmWNpi2"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 241297,
-      "name": "Ceniza Fria",
-      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Coleccion Top 50",
         "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 299733,
       "name": "Mi Hermano Y Yo",
       "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 241297,
+      "name": "Ceniza Fria",
+      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ"
-      },
-      "artists": [
-        {
-          "name": "Jesus Manuel Estrada",
-          "url": "https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg"
-        }
-      ],
-      "duration_ms": 301023,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 252706,
       "name": "Parranda en el Cafetal",
       "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ"
+      },
+      "artists": [
+        {
+          "name": "Jesus Manuel Estrada",
+          "url": "https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg"
+        }
+      ],
+      "duration_ms": 301023,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy"
     },
     {
       "added_at": "2023-02-07 01:31:56",

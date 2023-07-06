@@ -4,14 +4,15 @@
 
 > Lounge and chill out music for your workday.
 
-438 songs - 19 hr 34 min
+440 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12am](https://open.spotify.com/track/0BsZBFtJj64wr7ii2179vX) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [12am](https://open.spotify.com/album/54BSoPYRODCtunqN0TobKB) | 2:51 | 2022-10-07 |  |
 | [20th Century Noise](https://open.spotify.com/track/3RH6fd05g2tiBVfqR2qaET) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [20th Century Noise](https://open.spotify.com/album/7qXGhnID7ljmx3GQagFwdj) | 2:08 | 2022-11-25 |  |
 | [A beautiful day](https://open.spotify.com/track/5Ds5ComUHGwbYVolYDGxlR) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [A beautiful day](https://open.spotify.com/album/2YFg6gt0UE5yo3E3z6cs0P) | 3:03 | 2022-09-16 |  |
-| [A Better Tomorrow](https://open.spotify.com/track/6Oh1N2s9t02iwmOvCL9sj6) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT) | 2:08 | 2022-06-24 |  |
+| [A Better Tomorrow](https://open.spotify.com/track/37TzHYPlhpOZ48aULkI15n) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/4TC77jN3S5fWwv2vnBSVJf) | 2:08 | 2023-06-23 |  |
+| [A Better Tomorrow](https://open.spotify.com/track/6Oh1N2s9t02iwmOvCL9sj6) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT) | 2:08 | 2022-06-24 | 2023-07-06 |
 | [a dream within a dream](https://open.spotify.com/track/1rKHH7gbLbz8scfvt6JMAP) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [a dream within a dream](https://open.spotify.com/album/3V9fsUWgxv4byvZJocF9kH) | 2:33 | 2022-01-21 |  |
 | [A Forgotten Realm](https://open.spotify.com/track/19jXK8ehvuhMZ7oTsWuZFZ) | [Fractured Moons](https://open.spotify.com/artist/0jOT2t9HcoueZ4JEDoY2IC) | [The Ripverse](https://open.spotify.com/album/4ym0hEJbyudABFyDGVcxWh) | 3:12 | 2023-03-31 |  |
 | [A Night In Magnesia](https://open.spotify.com/track/4Id1x78y1nICZcB6Ca9IvE) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [A Night In Magnesia](https://open.spotify.com/album/2iCikcgsEW5tpdPuIUvvZ2) | 2:29 | 2022-10-28 |  |
@@ -346,7 +347,8 @@
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2021-11-10 | 2022-07-08 |
 | [Selftalk](https://open.spotify.com/track/71YmQje7LJWXIFG9oH9MGG) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Selftalk](https://open.spotify.com/album/2Y7hpLJbrE4vUNdf338pNZ) | 3:01 | 2023-01-20 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-11-10 | 2023-05-06 |
-| [Sensations](https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT) | 2:30 | 2022-07-29 |  |
+| [Sensations](https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT) | 2:30 | 2022-07-29 | 2023-07-06 |
+| [Sensations](https://open.spotify.com/track/4VtYPgDwi44SQVpMUOcVrz) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/0lBaFFdmUJiPEx3vuHWkgX) | 2:30 | 2023-06-23 |  |
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2021-11-10 |  |
 | [Shaving My Soul](https://open.spotify.com/track/0ws1igakuG95McJdPvWh2Z) | [Commie Banana](https://open.spotify.com/artist/6j5kIcreX87MxiG6GyCV5Y) | [Shaving My Soul](https://open.spotify.com/album/1IWx9i8ikU7jDl1FPeamAQ) | 2:36 | 2022-10-07 |  |
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-01-21 |  |

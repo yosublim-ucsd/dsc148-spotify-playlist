@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976 likes - 24 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 977 likes - 24 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still Love](https://open.spotify.com/track/0ym6qGdEoI60PXIqNXKkx1) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/3m97vK8f1WWhSLiN17m0b7) | 3:44 |
+| 1 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 |
 | 2 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 |
-| 3 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 |
+| 3 | [Still Love](https://open.spotify.com/track/0ym6qGdEoI60PXIqNXKkx1) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/3m97vK8f1WWhSLiN17m0b7) | 3:44 |
 | 4 | [Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Is It Really You?](https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH) | 4:42 |
 | 5 | [Diorama](https://open.spotify.com/track/5hYc50kmNWDtMzXS7DtHKz) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Diorama](https://open.spotify.com/album/3dDsFTuqqhrZTywI6TvrbW) | 3:54 |
 | 6 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 23 | [Summer](https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 5:01 |
 | 24 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
 
-Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDAwOGRmZjBhM2I3MzlhZDllMGViYmVmM2U4Mzk4Nzk5YQ==`
+Snapshot ID: `MjgxNDI3MDIsMDAwMDAwMDA2ZjFlZjc2NDUwMmE1M2M4OWU5MDFjYzlkOTAyMDExMw==`

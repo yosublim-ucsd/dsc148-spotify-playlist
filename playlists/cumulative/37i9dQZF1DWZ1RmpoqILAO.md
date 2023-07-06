@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: boygenius
 
-124 songs - 8 hr 22 min
+127 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 |  |
 | [Better Friends](https://open.spotify.com/track/2oxPRS0DjGNecUpumDubt8) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 4:46 | 2023-04-28 |  |
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
+| [Blackberry Song](https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 3:26 | 2023-07-05 |  |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2023-05-19 |  |
 | [Blue Lightning](https://open.spotify.com/track/2PNvb2hdbbAvWCjybGbqXO) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:51 | 2023-02-23 |  |
 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 | 2023-02-23 |  |
@@ -77,10 +78,12 @@
 | [Krawn the Destroyer](https://open.spotify.com/track/0kSs2zmoa2t9YrXzEDHSYJ) | [Sexy Girls](https://open.spotify.com/artist/2Mjqb4HQpRBuDjn84nOYS9) | [Satan's Hands](https://open.spotify.com/album/0U5jAkOEFn9XitR5BWjdCZ) | 5:58 | 2023-05-19 |  |
 | [Lamplight](https://open.spotify.com/track/473SizAMoQBwQXdnF3dhnu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Lamplight](https://open.spotify.com/album/1vqxyUR8okdL1W0KIPvE4d) | 4:23 | 2023-06-30 |  |
 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 | 2023-05-03 |  |
+| [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 | 2023-07-05 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-06-30 |  |
 | [Long Wave](https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Longwave](https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs) | 5:23 | 2023-05-10 |  |
 | [Lose Sight of You](https://open.spotify.com/track/0MRl699sc4XD47N8voalTg) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Something Wild](https://open.spotify.com/album/3Wc0YFoix2vAhwc8UmRkFJ) | 1:58 | 2023-06-12 |  |
 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2023-02-23 |  |
+| [My Life in Art](https://open.spotify.com/track/14Zab7jJKwK89fY4RxXl3N) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Excuses for Travellers](https://open.spotify.com/album/69Kl8ciY9o4lxA4qhdwPZD) | 7:21 | 2023-07-05 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-03-20 |  |
 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 | 2023-02-23 |  |
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2023-02-23 |  |

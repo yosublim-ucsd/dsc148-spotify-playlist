@@ -921,6 +921,28 @@
     },
     {
       "album": {
+        "name": "Paylist",
+        "url": "https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3"
+      },
+      "artists": [
+        {
+          "name": "Pay",
+          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
+        },
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178084,
+      "name": "ng\u00e0y m\u00e2y \u0111en",
+      "url": "https://open.spotify.com/track/57dSk370IBJTwMgyE5cAUI"
+    },
+    {
+      "album": {
         "name": "NICOT!NE",
         "url": "https://open.spotify.com/album/5y7rMRphWLC64hLb2OUwr8"
       },

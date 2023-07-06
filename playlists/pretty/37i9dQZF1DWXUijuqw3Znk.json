@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTI5NDJjMzUyNTcyNTViNmM5ZTdiYTQ1MTI4MDhhNmQ3YzFlNTJh",
+  "snapshot_id": "MCw4MjFkNmFiMGRlY2RiNDVlZGMzYTQ5YzM5YTkxMWQzZTZlYjMxNGNj",
   "tracks": [
     {
       "added_at": "2023-06-13 07:36:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Man proposes God disposes",
-        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Man proposes God disposes",
-      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "Man proposes God disposes",
+        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Man proposes God disposes",
+      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
-      },
-      "artists": [
-        {
-          "name": "Touch the Sky",
-          "url": "https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 270500,
-      "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "MUGGLES' MANSION",
         "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 285281,
       "name": "StrOngerrr (Feat. Loco, MINO)",
       "url": "https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "Touch the Sky",
+          "url": "https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 270500,
+      "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 240542,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1367,18 +1383,34 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+        "name": "Show Me the Money 5 Episode 1",
+        "url": "https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw"
       },
       "artists": [
         {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "myunDo",
+          "url": "https://open.spotify.com/artist/7wqsGqGaU61FzNh62mbWXz"
+        },
+        {
+          "name": "Flowsik",
+          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 240542,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
+      "duration_ms": 282197,
+      "name": "Air DoTheQ",
+      "url": "https://open.spotify.com/track/4upOsnQ7cX92RhM4WYj94b"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1423,38 +1455,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Show Me the Money 5 Episode 1",
-        "url": "https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        },
-        {
-          "name": "myunDo",
-          "url": "https://open.spotify.com/artist/7wqsGqGaU61FzNh62mbWXz"
-        },
-        {
-          "name": "Flowsik",
-          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 282197,
-      "name": "Air DoTheQ",
-      "url": "https://open.spotify.com/track/4upOsnQ7cX92RhM4WYj94b"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
         "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
       },
@@ -1471,6 +1471,26 @@
       "duration_ms": 187893,
       "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
       "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
+      "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1495,26 +1515,6 @@
       "duration_ms": 214000,
       "name": "Press F5 (Feat. GRAY)",
       "url": "https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
-      "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        }
+      ],
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 176244,
+      "name": "Genius (Behind the scene)",
+      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 254793,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 176244,
-      "name": "Genius (Behind the scene)",
-      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "Show Me the Money 9 Episode 2",
-        "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
-      },
-      "artists": [
-        {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Upgrade 2020",
-      "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
         "name": "OFF DUTY",
         "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
       },
@@ -2019,6 +1999,26 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "Show Me the Money 9 Episode 2",
+        "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Upgrade 2020",
+      "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "24:26 (5th Anniversary Remaster Edition)",
         "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
       },
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
       "artists": [
         {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
         }
       ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+      "duration_ms": 140411,
+      "name": "dreamin'",
+      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

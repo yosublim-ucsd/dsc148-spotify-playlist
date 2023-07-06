@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- AvoidRafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,313 likes - 81 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,369 likes - 81 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ami Akash Pathabo](https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:03 |
 | 2 | [Ei Obelay](https://open.spotify.com/track/5ibdXIQq154EYy4IbSZEKx) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 5:41 |
-| 3 | [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 |
+| 3 | [Obak Bhalobasha](https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pothchola](https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA) | 7:19 |
 | 4 | [Srotoshinni](https://open.spotify.com/track/0fLJBwZIGP33RP4nLyqKrY) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Chinnho](https://open.spotify.com/album/2aLOCDq7vGHIO7OyDwQSuM) | 4:23 |
 | 5 | [Mayabee](https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH) | 4:02 |
 | 6 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 80 | [Purnota](https://open.spotify.com/track/67RmLSjDk4AWMYUxn6J7R1) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 5:59 |
 | 81 | [Jhornar Moto Chonchol](https://open.spotify.com/track/7cvpKBUE9F3GVLEuZxZECM) | [Dreek](https://open.spotify.com/artist/28tTpWnB5Cg33acyjyY8iV) | [Dreek Singles](https://open.spotify.com/album/1jHm7l2DTG2VDoFvqnGo5I) | 5:09 |
 
-Snapshot ID: `MCxiZGY4YzEzODM3NjFhZTU0MzBiOGQzZWFlNDA2YzYxYTJhY2M3MmMw`
+Snapshot ID: `MCxkNWU4OWZjOWQwMWFjZGJhOGIwNDk5YjY5MDBhODg1YmQ4MTM4NGJj`

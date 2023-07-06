@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music served here. Cover - Pathaan",
+  "description": "Hottest Hindi music served here. Cover - Rocky Aur Rani Kii Prem Kahaani",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Asal Mein",
+        "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224240,
+      "name": "Asal Mein",
+      "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
+    },
+    {
+      "album": {
         "name": "Asal Mein - Single",
         "url": "https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 227091,
       "name": "Baarish Mein Tum",
       "url": "https://open.spotify.com/track/4xA7TokHI9HTapV4wO3W5I"
@@ -516,7 +534,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 230185,
       "name": "Barbaadiyan",
       "url": "https://open.spotify.com/track/6qZyM6JV8ohLC4S2EL5sFh"
@@ -746,6 +764,24 @@
       "duration_ms": 187570,
       "name": "BurjKhalifa (From \"Laxmii\")",
       "url": "https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq"
     },
     {
       "album": {
@@ -1041,6 +1077,36 @@
     },
     {
       "album": {
+        "name": "Deewani",
+        "url": "https://open.spotify.com/album/4gRgJLrR888KFtXndMZwox"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174149,
+      "name": "Deewani",
+      "url": "https://open.spotify.com/track/1pDvtLmrjzr5FSQItRLWxA"
+    },
+    {
+      "album": {
         "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7HJVu7w2OoUHov9S936G5j"
       },
@@ -1105,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/52ujyfltTvDak6aBG9CNQu"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN"
+    },
+    {
+      "album": {
         "name": "Deva Deva (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu"
       },
@@ -1128,7 +1216,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 279107,
       "name": "Deva Deva (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
@@ -1521,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "Ek Ladki Ko Dekha Toh Aisa Laga (From \"Ek Ladki Ko Dekha Toh Aisa Laga\") - Single",
+        "url": "https://open.spotify.com/album/3UWRB8JT1OrMhx9diCj31y"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "Ek Ladki Ko Dekha Toh Aisa Laga (From \"Ek Ladki Ko Dekha Toh Aisa Laga\")",
+      "url": "https://open.spotify.com/track/3jyqXdAjwqO3gFtjnYrbq9"
+    },
+    {
+      "album": {
         "name": "Ektarfa",
         "url": "https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS"
       },
@@ -1700,7 +1810,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 350011,
       "name": "Galliyan Returns (From \"Ek Villain Returns\")",
       "url": "https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX"
@@ -1804,7 +1914,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 193832,
       "name": "Ghodey Pe Sawaar (From \"Qala\")",
       "url": "https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl"
@@ -1978,7 +2088,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
@@ -2034,6 +2144,28 @@
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
+    },
+    {
+      "album": {
+        "name": "Iraaday",
+        "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
+      },
+      "artists": [
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        },
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133305,
+      "name": "Iraaday",
+      "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
     },
     {
       "album": {
@@ -2396,6 +2528,40 @@
       "duration_ms": 173637,
       "name": "Kahani Suno 2.0",
       "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
+    },
+    {
+      "album": {
+        "name": "Kaise Ab Kahein (From \"Gutar Gu\")",
+        "url": "https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy"
+      },
+      "artists": [
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        },
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Hrishi Giridhar",
+          "url": "https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc"
+        },
+        {
+          "name": "Pratik Gangavane",
+          "url": "https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kaise Ab Kahein - From \"Gutar Gu\"",
+      "url": "https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9"
     },
     {
       "album": {
@@ -2968,6 +3134,24 @@
       "duration_ms": 243333,
       "name": "Madhubala",
       "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
+    },
+    {
+      "album": {
+        "name": "Mahiye Jinna Sohna",
+        "url": "https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Mahiye Jinna Sohna",
+      "url": "https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq"
     },
     {
       "album": {
@@ -3742,7 +3926,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 229947,
       "name": "Munda Sona Hoon Main (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
@@ -4024,7 +4208,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 191239,
       "name": "Najaa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
@@ -4046,6 +4230,32 @@
       "duration_ms": 482247,
       "name": "Najanay Kyun / Bichra Yaar",
       "url": "https://open.spotify.com/track/7G0U0OIkDTJjheL0gTt2gj"
+    },
+    {
+      "album": {
+        "name": "Naseeb Se (From \"Satyaprem Ki Katha\")",
+        "url": "https://open.spotify.com/album/0wjqUAQ7YkdRqTcDjzkepU"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "A.M. Turaz",
+          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184312,
+      "name": "Naseeb Se (From \"Satyaprem Ki Katha\")",
+      "url": "https://open.spotify.com/track/3dpM3ijJz0vGzbkh5DcMXz"
     },
     {
       "album": {
@@ -4620,7 +4830,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 291462,
       "name": "Rait Zara Si (From \"Atrangi Re\")",
       "url": "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
@@ -4750,7 +4960,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 265063,
       "name": "Rasiya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5"
@@ -4912,7 +5122,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"

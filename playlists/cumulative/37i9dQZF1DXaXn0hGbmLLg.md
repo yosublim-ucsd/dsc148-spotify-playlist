@@ -2,7 +2,7 @@
 
 ### [EQUAL Netherlands](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! <a href="spotify:artist:06eTdzI1FA6c2cPQAeVHY2">Miss Montreal</a> is EQUAL Netherlands ambassador for June
+> Listen to women at full volume! <a href="spotify:artist:06eTdzI1FA6c2cPQAeVHY2">Miss Montreal</a> is EQUAL Netherlands ambassador for July
 
 1,049 songs - 2 day 7 hr 41 min
 

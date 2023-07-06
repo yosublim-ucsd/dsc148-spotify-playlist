@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49994,
+  "num_followers": 50006,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGZhMTBkN2M1OTA0MjA2MzIyNjJkMWZmMmEzNzZjYmQ0ODZlODcx",
+  "snapshot_id": "MCwxY2RjOGEzZTQ3N2Q2Y2NmYmM0ODc1ZThiMmQxNzFhNjBhZGFjODIy",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -167,6 +167,34 @@
       "duration_ms": 238461,
       "name": "Endu Endendu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
+    },
+    {
+      "added_at": "2023-07-05 11:40:18",
+      "album": {
+        "name": "Jhoom Jhoom (From \"Spy\")",
+        "url": "https://open.spotify.com/album/6580D3GpSQ4VwXflEH5NJ4"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Vishal Chandrashekar",
+          "url": "https://open.spotify.com/artist/48roov0SxmfsyG07Z4lWPB"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 286399,
+      "name": "Jhoom Jhoom (From \"Spy\")",
+      "url": "https://open.spotify.com/track/3hX6uJV2RoDs1POWofzHeA"
     },
     {
       "added_at": "2023-06-07 04:40:04",

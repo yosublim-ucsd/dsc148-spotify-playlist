@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-412 songs - 22 hr 56 min
+413 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2023-02-16 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-09-02 | 2023-04-30 |
 | [Can We Pretend](https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:49 | 2021-12-15 | 2023-03-25 |
+| [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-06-30 |  |
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 |  |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 |  |
 | [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-10 |  |
@@ -271,7 +272,7 @@
 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 | 2021-12-15 | 2022-06-11 |
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2023-03-31 |  |
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-05-05 |  |
-| [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 | 2023-03-03 |  |
+| [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 | 2023-03-03 | 2023-07-06 |
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2021-12-15 | 2022-08-14 |
 | [Ordinary Pleasure](https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 | 2022-06-30 | 2023-03-11 |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 127984,
+  "num_followers": 128093,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk",
+  "snapshot_id": "MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Child of the King",
-        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 101406,
-      "name": "Child of the King",
-      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "WAY MAKER",
         "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "Spread The Opps",
         "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 181795,
       "name": "Spread The Opps",
       "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -503,6 +487,22 @@
       "duration_ms": 142782,
       "name": "CECE",
       "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
-      },
-      "artists": [
-        {
-          "name": "BrvndonP",
-          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
-        },
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Hottest In The City (feat. EmanuelDaProphet)",
-      "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 176938,
       "name": "Pray",
       "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
+      },
+      "artists": [
+        {
+          "name": "BrvndonP",
+          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+        },
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Hottest In The City (feat. EmanuelDaProphet)",
+      "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "HELLO KIZZY & COMPANY",
         "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 187918,
       "name": "REST",
       "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1831,18 +1831,26 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Best Version of Me (Pt. 2)",
-        "url": "https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl"
+        "name": "His Side",
+        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
       "artists": [
         {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Donovan S Davis",
+          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
         }
       ],
-      "duration_ms": 145640,
-      "name": "Best Version of Me - Pt. 2",
-      "url": "https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg"
+      "duration_ms": 168003,
+      "name": "His Side",
+      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
     }
   ],
   "unique_name": "The Flow",

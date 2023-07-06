@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-265 songs - 16 hr 59 min
+266 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Second To None](https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Little Armageddon](https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN) | 3:06 | 2022-06-30 |  |
 | [Second To None](https://open.spotify.com/track/7zOop5skARaxQjkxh9JlZR) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Little Armageddon \(Deluxe\)](https://open.spotify.com/album/3RINC17yAVSYXzIzhmCmiY) | 3:06 | 2022-04-17 | 2022-07-24 |
 | [Self Doubt](https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J) | [Moonball](https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj) | [Self Doubt](https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O) | 2:59 | 2022-11-28 |  |
-| [Self Love Age](https://open.spotify.com/track/7eteiaoID1a0mzNHOIHpnR) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Lemon Twins](https://open.spotify.com/album/5vkFCpD1Jb7SMDIDv1xeCK) | 4:26 | 2021-12-15 |  |
+| [Self Love Age](https://open.spotify.com/track/7eteiaoID1a0mzNHOIHpnR) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Lemon Twins](https://open.spotify.com/album/5vkFCpD1Jb7SMDIDv1xeCK) | 4:26 | 2021-12-15 | 2023-07-06 |
 | [Sentimental Animal](https://open.spotify.com/track/7DwjBCEf4SjGzy8Bgaz3EX) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Superior State](https://open.spotify.com/album/0GYH4HMvMgmsRCqN224mO8) | 4:35 | 2021-12-15 |  |
 | [Shitshow](https://open.spotify.com/track/5N4Oa7FMWUw8K8xlCSfzlt) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Shitshow](https://open.spotify.com/album/1Tng3bnbtmmnoYCbafxwdK) | 2:57 | 2021-12-15 | 2022-07-28 |
 | [Siamese Love](https://open.spotify.com/track/5lWRpXUGs9EMHIOGN10CT6) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie](https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k) | 3:34 | 2021-12-15 | 2023-06-29 |
@@ -249,6 +249,7 @@
 | [The Password](https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx) | [Merge](https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m) | [Ineffable](https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz) | 4:14 | 2022-03-24 |  |
 | [The Shining of My Soul](https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [The Shining of My Soul](https://open.spotify.com/album/2S8lZl5Y49kMG4UiXpdhvn) | 3:30 | 2021-12-15 | 2023-01-15 |
 | [Three Years Later](https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Three Years Later](https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7) | 2:58 | 2022-04-27 | 2023-04-25 |
+| [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 | 2023-07-05 |  |
 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 | 2021-12-15 | 2022-07-29 |
 | [Two Rocks in a Whiskey](https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0) | [Dirty Deep](https://open.spotify.com/artist/4XoAOMv60D4FylIqui9WGE), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Meet Me in the City](https://open.spotify.com/album/7xQVlfuATrY8K3dK8Ddzlb) | 5:23 | 2021-12-15 | 2022-07-28 |
 | [Two Rocks In a Whiskey](https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH) | [Dirty Deep & Yarol](https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl) | [Meet In The City](https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny) | 5:23 | 2023-05-11 | 2023-06-30 |

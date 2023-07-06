@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,886 likes - 50 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,966 likes - 50 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 30 | [Synonymous](https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Synonymous](https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55) | 6:52 |
 | 31 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 |
 | 32 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 |
-| 33 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
-| 34 | [Octave](https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE) | 7:33 |
+| 33 | [Octave](https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE) | 7:33 |
+| 34 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
 | 35 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
 | 36 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
-| 37 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
-| 38 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 |
-| 39 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 |
+| 37 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 |
+| 38 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 |
+| 39 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
 | 40 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 |
 | 41 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
 | 42 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 |
 | 50 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 |
 
-Snapshot ID: `MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1`
+Snapshot ID: `MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3`

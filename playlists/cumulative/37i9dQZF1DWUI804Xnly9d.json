@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aao Zara",
+        "url": "https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ"
+      },
+      "artists": [
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        {
+          "name": "Shreya Phukan",
+          "url": "https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Aao Zara",
+      "url": "https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf"
+    },
+    {
+      "album": {
         "name": "Farzi (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz"
       },
@@ -42,7 +64,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 164444,
       "name": "Ab Kya Karen",
       "url": "https://open.spotify.com/track/45gLowg76AxVx2Q3Gfjy1Y"
@@ -162,6 +184,24 @@
       "duration_ms": 176000,
       "name": "Aye Ajnabi",
       "url": "https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl"
+    },
+    {
+      "album": {
+        "name": "Baarishein Lana",
+        "url": "https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ"
+      },
+      "artists": [
+        {
+          "name": "Reshabh Chhabra",
+          "url": "https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188572,
+      "name": "Baarishein Lana",
+      "url": "https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0"
     },
     {
       "album": {
@@ -2320,7 +2360,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 148977,
       "name": "Unke bina (Raw)",
       "url": "https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx"

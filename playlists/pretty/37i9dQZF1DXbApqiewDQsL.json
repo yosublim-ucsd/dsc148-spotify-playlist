@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Carin Leon & Camilo",
-  "num_followers": 23435,
+  "num_followers": 23479,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2I0NDgxNzEyZWViYmFlNjhjN2U3YjAwNTc0NDhjZGM0MWY3ODlh",
+  "snapshot_id": "MCw3OTZjODE0MTUyZmQwMGVhZmQ5MDg1NThkNDZkZjMwYmEwOTQxZjg4",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "$ad Boyz 4 Life",
         "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
       },
@@ -1067,22 +1047,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+      "duration_ms": 247080,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 236267,
       "name": "Kilos de Amor",
       "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
     },
     {
       "added_at": "2023-05-26 04:00:00",

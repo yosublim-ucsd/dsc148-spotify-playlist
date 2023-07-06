@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 27914,
+  "num_followers": 27931,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz",
+  "snapshot_id": "MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn"
-      },
-      "artists": [
-        {
-          "name": "Sir James",
-          "url": "https://open.spotify.com/artist/6PtAs4fQxvRKKMt5TGZymZ"
-        }
-      ],
-      "duration_ms": 370183,
-      "name": "Special - Club Mix",
-      "url": "https://open.spotify.com/track/4PD8xGZquWX8gIGjBB0F1X"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 433373,
       "name": "I Get Lifted - The Underground Network Mix",
       "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn"
+      },
+      "artists": [
+        {
+          "name": "Sir James",
+          "url": "https://open.spotify.com/artist/6PtAs4fQxvRKKMt5TGZymZ"
+        }
+      ],
+      "duration_ms": 370183,
+      "name": "Special - Club Mix",
+      "url": "https://open.spotify.com/track/4PD8xGZquWX8gIGjBB0F1X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama - Broder Mix",
+      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
         }
       ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama - Broder Mix",
-      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 440320,
       "name": "Curious - Vocal Mix",
       "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428760,
+      "name": "Boy - MK Deep Dub",
+      "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -939,22 +955,6 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428760,
-      "name": "Boy - MK Deep Dub",
-      "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
         }
       ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+      "duration_ms": 494374,
+      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
+      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
       "artists": [
         {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
         }
       ],
-      "duration_ms": 494374,
-      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
-      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1071,22 +1087,6 @@
       "duration_ms": 731746,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
-      },
-      "artists": [
-        {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
         }
       ],
-      "duration_ms": 334220,
-      "name": "We Can Make It - The 'I Believe' Dub",
-      "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"
+      "duration_ms": 342621,
+      "name": "My People - My People Mix",
+      "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
-      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
+      "duration_ms": 334220,
+      "name": "We Can Make It - The 'I Believe' Dub",
+      "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

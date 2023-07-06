@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9516,
+  "num_followers": 9520,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2I0MDVlNzQ3YTgyZDA5ZWZiN2E1OTkxYTMwMmM5ZDY1MDA2ZDVh",
+  "snapshot_id": "MCw2ZGI4N2Y3OGZiZmM5MTgyZGJjZmJhZTU0NTNlNTQ2MjkxN2NhYmIy",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -387,18 +387,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+        "name": "The Art of Flex",
+        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
       "artists": [
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         }
       ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+      "duration_ms": 183875,
+      "name": "Issa Snack",
+      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -419,22 +423,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Art of Flex",
-        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
       "artists": [
         {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 183875,
-      "name": "Issa Snack",
-      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Arch & Bend Riddim Reloaded",
-        "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
-      },
-      "artists": [
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        },
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 136663,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
         "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 194222,
       "name": "Yuh Bad (No Stressing)",
       "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Arch & Bend Riddim Reloaded",
+        "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
     },
     {
       "added_at": "2022-02-24 18:00:00",

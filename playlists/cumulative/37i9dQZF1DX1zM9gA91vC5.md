@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-884 songs - 1 day 14 hr 28 min
+885 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Emergence de l'Aube](https://open.spotify.com/track/03HMaZlMvtdl8HRkMr30jv) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Emergence de l'Aube](https://open.spotify.com/album/4M8lhArf7nxYD1coJndg7z) | 1:54 | 2023-05-03 | 2023-06-22 |
 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 | 2021-10-14 | 2022-04-22 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2020-11-12 | 2021-03-24 |
-| [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2020-08-14\* |  |
+| [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2020-08-14\* | 2023-07-06 |
 | [Enigma](https://open.spotify.com/track/6E3tlk1QjAUzbgguYtVXeM) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Enigma](https://open.spotify.com/album/7Fjxhrg8uaiNiEQI0N7NN9) | 2:43 | 2022-01-18 | 2022-05-06 |
 | [Enouement](https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Enouement](https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7) | 2:14 | 2020-09-02 |  |
 | [Equinox](https://open.spotify.com/track/3WqvDhgb4GHPqoqwp9Pm2R) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Equinox](https://open.spotify.com/album/04NcQ5A5Lz4XolAQWMSo54) | 3:02 | 2020-09-02 | 2020-12-16 |
@@ -699,6 +699,7 @@
 | [Solkysst](https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Solkysst](https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n) | 2:20 | 2021-09-02 | 2023-02-28 |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-08-21 | 2022-12-24 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2020-08-14\* |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-07-01 |  |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 | 2022-09-24 |
 | [Sonne und Mond](https://open.spotify.com/track/2jpKwXSKceFIm2ZJF8gZO7) | [Vanya Sogaya](https://open.spotify.com/artist/52ZDvqSoUUMRtR9qjwyhq4) | [Sonne und Mond](https://open.spotify.com/album/01CosJGsY8PK0iH29KV2ht) | 3:15 | 2021-09-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8526,
+  "num_followers": 8523,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY0MjlkYjc4ZTQ1ZjdhMTA4OTg0ZmRiMDc4NjU1Mzc4Yjk2OWQ3",
+  "snapshot_id": "MCxhNzY2N2UyODk5YTc3ZmUyZmQxMTJmMjYxNTFhMDNjNTVlNGY5MjNk",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
       },
       "artists": [
         {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+      },
+      "artists": [
+        {
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 174295,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "You Look so Good",
-        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 170728,
-      "name": "You Look so Good",
-      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Round and Round (Bright Light Bright Light Remix)",
-        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
-      },
-      "artists": [
-        {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
-        },
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Round and Round (Bright Light Bright Light Remix)",
-      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Goals_",
         "url": "https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 167026,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Round and Round (Bright Light Bright Light Remix)",
+        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
+      },
+      "artists": [
+        {
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+        },
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Round and Round (Bright Light Bright Light Remix)",
+      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
     },
     {
       "added_at": "2023-06-30 23:59:00",

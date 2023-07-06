@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,385 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,473 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 26 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 |
 | 27 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
 | 28 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
-| 29 | [Believe These Blues](https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:24 |
-| 30 | [Slip\-In Mules](https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 2:47 |
+| 29 | [Slip\-In Mules](https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 2:47 |
+| 30 | [Believe These Blues](https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:24 |
 | 31 | [Same Old Blues](https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:59 |
 | 32 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
 | 33 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 52 | [Country Boy](https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:44 |
 | 53 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 |
 | 54 | [Stormy Monday](https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Live At Blues Alley](https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy) | 5:49 |
-| 55 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 |
-| 56 | [Honeycomb](https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:57 |
+| 55 | [Honeycomb](https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:57 |
+| 56 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 |
 | 57 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 |
 | 58 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
 | 59 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 90 | [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 |
 | 91 | [Country Girl](https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 4:24 |
 | 92 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 |
-| 93 | [And That's Saying a Lot](https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:00 |
-| 94 | [After You've Gone](https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:38 |
-| 95 | [Hell To Pay](https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 4:42 |
+| 93 | [After You've Gone](https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:38 |
+| 94 | [Hell To Pay](https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 4:42 |
+| 95 | [And That's Saying a Lot](https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:00 |
 | 96 | [Picture In A Frame](https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh) | [Rebecca Haviland and Whiskey Heart](https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz) | [Picture In A Frame](https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc) | 4:17 |
 | 97 | [Million Miles](https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 6:21 |
 | 98 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 |
 | 99 | [Come Home Soon](https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 2:43 |
 | 100 | [Fortunate Few](https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:25 |
 
-Snapshot ID: `MCxhMWQ3YzNkMWU3YzQ4OGQ0NTQ0NDE3MWI5M2RhZTgzY2U1OWNiODZi`
+Snapshot ID: `MCwyMGY5NTVmMzA0MGQzZjEwY2FlZjI1YWIyMmNkNmEyYjcwNjNhMTVk`

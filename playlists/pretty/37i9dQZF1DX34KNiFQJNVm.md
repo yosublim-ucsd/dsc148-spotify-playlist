@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Alok e Ava Max, Luan Pereira e Gustavo Mioto, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,527 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,669 likes - 96 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 79 | [Guarda Chuva \- Ao Vivo](https://open.spotify.com/track/3rhDDBTsn6pBILYiNfbUOH) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Guarda Chuva \(Ao Vivo\)](https://open.spotify.com/album/3TqxorO058rDMrpKs7KXzf) | 3:58 |
 | 80 | [Vacila Não \- Ao Vivo](https://open.spotify.com/track/4jTHoFfupqOtnNlVfBPKjh) | [Guto Ferreira](https://open.spotify.com/artist/6Kc6ZoYipesoUruoqxadUI) | [Único, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/2VwGl03ubRI3OyzigXivk4) | 2:32 |
 | 81 | [Eu Nem Queria](https://open.spotify.com/track/7grgrS8qoGYutMe6dr2l6E) | [Ytalo Pisadinha](https://open.spotify.com/artist/6o3cJ7Pt5bfqcjkFPViZCn), [Forró do HF](https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7) | [Eu Nem Queria](https://open.spotify.com/album/1SrjfR1KeMBRORVfDLmU5z) | 1:57 |
-| 82 | [Se Eu Pudesse \(feat\. Caio Luccas\)](https://open.spotify.com/track/6HRQ381plW0eBEgkPWXzw5) | [Marvin Mk](https://open.spotify.com/artist/2yz0gE0Xh3L4EhQBkyxWe6), [Lotta](https://open.spotify.com/artist/4HAbrf4pEESpnO8OxF1nJs), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Se Eu Pudesse \(feat\. Caio Luccas\)](https://open.spotify.com/album/6yGL5YPyNIDAwR4TffkULC) | 3:32 |
+| 82 | [Se Eu Pudesse \(feat\. Caio Luccas\)](https://open.spotify.com/track/6HRQ381plW0eBEgkPWXzw5) | [Marvin Mk](https://open.spotify.com/artist/2yz0gE0Xh3L4EhQBkyxWe6), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Se Eu Pudesse \(feat\. Caio Luccas\)](https://open.spotify.com/album/6yGL5YPyNIDAwR4TffkULC) | 3:32 |
 | 83 | [Mudei](https://open.spotify.com/track/4psmIh0nannE3SCHgiKtLV) | [Nego Di](https://open.spotify.com/artist/1OQGU4nM4GNaeZdAgjCzXx), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Jay\-Gueto Beats](https://open.spotify.com/artist/4mrMOS8tIcNoJtSgp8Nq2K) | [Mudei](https://open.spotify.com/album/3QjCxzsDbPCXsMsdFIqTcy) | 2:25 |
 | 84 | [seu dom](https://open.spotify.com/track/0QDsLT0s97TSo9RUpZn3rj) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [seu dom](https://open.spotify.com/album/14fTkOr3BRGo8vZ25T2u6U) | 2:41 |
 | 85 | [FDP](https://open.spotify.com/track/68FfHYRZXuvsuvjB4WiZ01) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [FDP](https://open.spotify.com/album/1YHEaWNjSORq43MuyHoTAJ) | 3:00 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Pega e Se Cuida Bem](https://open.spotify.com/track/3vr8xF18gaIHQDzPVUGnfT) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at) | [Pega e Se Cuida Bem](https://open.spotify.com/album/2ZLMf6TRIDiVaYn6XS9CqV) | 2:16 |
 | 96 | [A Sorte](https://open.spotify.com/track/7mOXmp877CyqDwm5Hd3AMQ) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2) | [Rua Mundo Novo](https://open.spotify.com/album/2oL2CTyy0VFPK2qs1YbboZ) | 3:09 |
 
-Snapshot ID: `MCwyN2YxZDk5YjMxYzM2ODAwYzc5OGYxMGQ2OGU2MjgyMWM3YjMxNTY5`
+Snapshot ID: `MCw4MzhmM2ZkNDNkOWI0ZGRlYTdmMGFmM2M1YzcwZWQ2OTY1ZWVhMWYy`

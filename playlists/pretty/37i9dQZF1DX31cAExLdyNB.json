@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 62093,
+  "num_followers": 62107,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDkzZjBlYTg1NjdmZTNkY2VhNjNjODNkNGNkMGNiOTk1NTk1MDg4",
+  "snapshot_id": "MCxjZTE2NTc2NWIzMTBhMmJkOGM3NGY2OTJkYTRlMGFlNDZkMTBmMmQ1",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
       },
       "artists": [
         {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 168613,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
       "artists": [
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
         }
       ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+      "duration_ms": 168613,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
       "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
         {
           "name": "Neoma",
           "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+      "duration_ms": 202177,
+      "name": "Tears At Bae",
+      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
       "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
         {
           "name": "Neoma",
           "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 202177,
-      "name": "Tears At Bae",
-      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",

@@ -2,13 +2,13 @@
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: imase
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 水曜日のカンパネラ
 
-173 songs - 10 hr 3 min
+176 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 |  |
+| [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 | 2023-07-06 |
 | [Ai no Nuime](https://open.spotify.com/track/6Fg4d8rimrexkqDqDxYsB0) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:01 | 2023-01-26 | 2023-02-24 |
 | [AKUMA Night Disco](https://open.spotify.com/track/7vGtfj8Xg5SMZfrn69Q960) | [A Ghostly Tale](https://open.spotify.com/artist/7HBUpeSlOv5tTmRVzvH8Ff), [Sato Nozomi](https://open.spotify.com/artist/5Sd8RTkINhV9qY1ZvGYyF1) | [AKUMA Night Disco](https://open.spotify.com/album/5PzAOEi5rqkDcnjUWybNdL) | 3:39 | 2023-02-02 | 2023-02-24 |
 | [asphalt](https://open.spotify.com/track/4Zsp5lrpONEvUzY75rIsRK) | [Lot](https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP) | [asphalt](https://open.spotify.com/album/6FZ8ArIPOtMzvmxGjxFsE2) | 2:49 | 2023-06-15 |  |
@@ -23,7 +23,7 @@
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-02-16 |  |
 | [Bye\-Good\-Bye](https://open.spotify.com/track/3Itdlob7CzXIQqydeVwutQ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:01 | 2023-03-03 | 2023-04-04 |
 | [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-06-22 |  |
-| [Call My Name](https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Call My Name](https://open.spotify.com/album/65JjI8bgYIFiYXyK7tM8uQ) | 3:27 | 2023-06-29 |  |
+| [Call My Name](https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Call My Name](https://open.spotify.com/album/65JjI8bgYIFiYXyK7tM8uQ) | 3:27 | 2023-06-29 | 2023-07-06 |
 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-06-29 |  |
 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ) | 3:11 | 2023-01-26 | 2023-02-24 |
 | [Custom Lovedool](https://open.spotify.com/track/3s0ZWBG9l85BqTi6aJzjXt) | [akuma no kiss \(senritsu kanano & katy\)](https://open.spotify.com/artist/5TqcSYdrNJtfgnr7W37JcA) | [Custom Lovedool](https://open.spotify.com/album/6ZN7SpS7A16lYFQwAE0qZO) | 3:25 | 2023-06-01 | 2023-06-23 |
@@ -32,6 +32,7 @@
 | [DAILY](https://open.spotify.com/track/26nx74NjcyLlVUaUeJ2Qnr) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [DAILY](https://open.spotify.com/album/1bmDjRLQ2stA2ytCo2tVm7) | 1:59 | 2023-03-30 | 2023-05-12 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-26 | 2023-03-25 |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-05-11 |  |
+| [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 | 2023-07-05 |  |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-05-25 |  |
 | [First Love](https://open.spotify.com/track/66qxgF2M6rfGGMWjUMUmVZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [First Love](https://open.spotify.com/album/4fI3dDhZh8PAfbH6GdH5dx) | 3:13 | 2023-03-17 | 2023-05-26 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-26 | 2023-02-24 |
@@ -82,7 +83,7 @@
 | [Mrs\. Right](https://open.spotify.com/track/4N4CHJqFZHyB7SBUuSFu1y) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA), [Diggy Simmons](https://open.spotify.com/artist/28ABOA2akZrXN9kQpqwvVg) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 4:08 | 2023-02-16 | 2023-03-31 |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 |  |
 | [NaNaNa Tokyo](https://open.spotify.com/track/1wj4yYURESSkb67NIxxm8m) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [NaNaNa Tokyo](https://open.spotify.com/album/5ZtzL00EDIBLZQho1vKQ49) | 3:15 | 2023-04-06 | 2023-05-26 |
-| [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-06-01 |  |
+| [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-06-01 | 2023-07-06 |
 | [Ninji\-n Loves you yeah!](https://open.spotify.com/track/4BRBpWDkJM7QlVYIyedm0s) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER \~The False Songstress\~ CM Ranka](https://open.spotify.com/album/5g9MR6bwfKq3tUj1PXyUFM) | 1:01 | 2023-02-16 | 2023-04-21 |
 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 | 2023-05-25 | 2023-06-23 |
 | [OMG](https://open.spotify.com/track/4mEA1iLTA7zEo5Uvv3UeS7) | [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [NIGIRI](https://open.spotify.com/album/2Ph2gYYmPvh0pN9UUZ2TJe) | 3:04 | 2023-05-11 |  |
@@ -159,8 +160,10 @@
 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-03-30 | 2023-06-30 |
 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 | 2023-02-16 |  |
 | [ベリベリラブ](https://open.spotify.com/track/1px44UszuS2Mka8kaNzlwK) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:32 | 2023-01-26 | 2023-02-10 |
+| [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-05 |  |
 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-06-22 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-01-26 | 2023-02-24 |
+| [七福神](https://open.spotify.com/track/6LPDuzCtRkjz99wwbSynb8) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/0eK9iO9xQ5lcTGcXAggJzT) | 3:00 | 2023-07-05 |  |
 | [万々歳](https://open.spotify.com/track/4ZPl090JODD2F8Yz0KAQV4) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [万々歳](https://open.spotify.com/album/77XpTzNk0bmSVsbsXl8c7R) | 3:58 | 2023-01-26 | 2023-04-28 |
 | [会いたいわ](https://open.spotify.com/track/5g1SvaEtzlKEqre9FbPQEc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [life ep](https://open.spotify.com/album/2bJPkcW3Zi3tWizPcKiOkp) | 4:28 | 2023-01-26 | 2023-02-03 |
 | [俺は最高!!!](https://open.spotify.com/track/1ufjsJqgxVEugpPstfj4Qk) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [俺は最高!!!](https://open.spotify.com/album/6LaYjcUU8f4Y8aa4FNeQ1C) | 3:45 | 2023-06-08 | 2023-06-16 |

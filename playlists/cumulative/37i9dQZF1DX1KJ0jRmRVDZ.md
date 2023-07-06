@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-762 songs - 1 day 19 hr 32 min
+763 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Knickknack Kingdom](https://open.spotify.com/track/0ODFEhCNOo6XmAjpJrALAw) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Knickknack Kingdom](https://open.spotify.com/album/5hOcnt10bv1Qmy8sG7YzFn) | 3:00 | 2022-07-07 | 2022-07-27 |
 | [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 | 2022-08-18 | 2022-08-31 |
 | [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 | 2022-10-18 | 2022-10-26 |
+| [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 | 2023-07-04 |  |
 | [LAG](https://open.spotify.com/track/3mNm8AXQ72Btp0ZsI2XwKl) | [パン野実々美](https://open.spotify.com/artist/7zDlO5ZUWerNCeIDy0tYVt) | [LAG](https://open.spotify.com/album/2C7KWtdWlRSoFfyINGHi0a) | 3:42 | 2022-07-26 | 2022-07-29 |
 | [Let's go](https://open.spotify.com/track/4m2Ic45STRPGIRmtIuXb7R) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Let's go](https://open.spotify.com/album/3fsD9wEdENNsSO1gZDPdkX) | 4:12 | 2023-01-17 | 2023-01-19 |
 | [Let's Go](https://open.spotify.com/track/696bLWHXd2Cm0rkQhoBIkQ) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Let's Go](https://open.spotify.com/album/0k1ptoYsgjCzVBFDHpu5OU) | 4:12 | 2023-01-17 | 2023-01-26 |
@@ -607,7 +608,7 @@
 | [推しと結婚したくてしぬ!](https://open.spotify.com/track/5A2MP7c9jAxMPSP7LwBbox) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [推しと結婚したくてしぬ!](https://open.spotify.com/album/3XJ9PoIpGyOKwJR2qA4PmC) | 2:04 | 2022-07-14 | 2022-07-20 |
 | [撫でんな](https://open.spotify.com/track/1WgUYobwKxiqXmMnkKSD8n) | [わかばやし](https://open.spotify.com/artist/4urWHHlpiTQNHdqcoyEwco) | [撫でんな](https://open.spotify.com/album/60NK0Ztj3B04vtCqOQiOqv) | 3:08 | 2022-07-07 | 2022-07-12 |
 | [放浪](https://open.spotify.com/track/6TgiTbz90SeTTR3W7uvc5p) | [ヲロイカ](https://open.spotify.com/artist/6HbdE98XeFyCqAf31oBMvQ) | [放浪](https://open.spotify.com/album/08Lt8mjCsfO7VB3uc6bHAB) | 3:37 | 2022-06-30 | 2022-07-10 |
-| [救世主](https://open.spotify.com/track/7BzmJ07lTS8kaZTLECXrGV) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [救世主](https://open.spotify.com/album/6U2J876mV2hxeSVr0KjRdV) | 3:17 | 2023-07-04 |  |
+| [救世主](https://open.spotify.com/track/7BzmJ07lTS8kaZTLECXrGV) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [救世主](https://open.spotify.com/album/6U2J876mV2hxeSVr0KjRdV) | 3:17 | 2023-07-04 | 2023-07-06 |
 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-05-09 |  |
 | [断線](https://open.spotify.com/track/38dGE6BhONOE6iPqs4ZMCt) | [しょたてゃん](https://open.spotify.com/artist/1uHcysmj34ebaQV8D1gRCo) | [断線](https://open.spotify.com/album/1ffiQNHxI1Gw1nrhn2TrYH) | 3:28 | 2023-05-30 | 2023-06-09 |
 | [断罪デモクラシー](https://open.spotify.com/track/1YYhcvF1ejO19vtEgVBzIg) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [断罪デモクラシー](https://open.spotify.com/album/0aCbx2DAWTiKTkVEr206ZB) | 3:14 | 2022-07-07 | 2022-07-29 |

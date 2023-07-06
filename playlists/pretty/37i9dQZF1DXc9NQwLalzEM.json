@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 183477,
+  "num_followers": 183542,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDdkYmNlYmVjNzBkYjFjMzZkNDJkYWQzMzlhMDQxNDQ2Y2MyNGY1",
+  "snapshot_id": "MCwyMDRjMjliNzNjNDdkNmE3ODY1MzQ2ZTc4ZWNjNDY1MzBjNmJlNGE4",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -115,26 +115,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Two Can Have A Party",
-      "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Tell Her b/w The Dance Got Old",
         "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 145240,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Two Can Have A Party",
+      "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "You Can Count On Me",
-        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
-      },
-      "artists": [
-        {
-          "name": "Mel Carter",
-          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "You Can Count On Me",
-      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Jacksons",
         "url": "https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 296640,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0AJBFdQE0Tqn65nYhsM06n"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "You Can Count On Me",
+        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
+      },
+      "artists": [
+        {
+          "name": "Mel Carter",
+          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Try It (You'll Like It) / Master Plan Intro",
+        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
+      },
+      "artists": [
+        {
+          "name": "Master Plan Inc",
+          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
+        }
+      ],
+      "duration_ms": 143612,
+      "name": "Try It (You'll Like It)",
+      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Eccentric Soul: The 4-J Label",
         "url": "https://open.spotify.com/album/40pYdiaTR1aQQ5zaFELEiH"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 333440,
       "name": "Ain't No Time Fa Nuthin' - 12\" Version",
       "url": "https://open.spotify.com/track/46FfqOCdZGEq3ihI6goIwc"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Try It (You'll Like It) / Master Plan Intro",
-        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
-      },
-      "artists": [
-        {
-          "name": "Master Plan Inc",
-          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
-        }
-      ],
-      "duration_ms": 143612,
-      "name": "Try It (You'll Like It)",
-      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "Chris Clark",
-          "url": "https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "Do I Love You (Indeed I Do) - Alternate Mix",
-      "url": "https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
         "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 191203,
       "name": "I Can't Speak",
       "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Chris Clark",
+          "url": "https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Do I Love You (Indeed I Do) - Alternate Mix",
+      "url": "https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Baby Hit And Run - Alternate Vocal",
-      "url": "https://open.spotify.com/track/1kr3IIOavK40nLgoylfj4T"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Can't Be Satisfied - The XL and Sounds of Memphis Story Vol. 1",
         "url": "https://open.spotify.com/album/7DiuqEndvhXnLcJYMoMIU8"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 154040,
       "name": "Still a Part of Me",
       "url": "https://open.spotify.com/track/3nNLy4pf06yCXoJUITMJDS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Baby Hit And Run - Alternate Vocal",
+      "url": "https://open.spotify.com/track/1kr3IIOavK40nLgoylfj4T"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Lift This Hurt b/w You're Being Unfair",
-        "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
-      },
-      "artists": [
-        {
-          "name": "Elvin Spencer",
-          "url": "https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Lift This Hurt",
-      "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown! (Vol. 2)",
         "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Shirelles (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
+        "name": "Lift This Hurt b/w You're Being Unfair",
+        "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "Elvin Spencer",
+          "url": "https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1"
         }
       ],
-      "duration_ms": 187173,
-      "name": "Brother Brother",
-      "url": "https://open.spotify.com/track/7erspizhVghwfGjmUOJ9LD"
+      "duration_ms": 161800,
+      "name": "Lift This Hurt",
+      "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1567,6 +1551,22 @@
       "duration_ms": 171240,
       "name": "But I'm Afraid - Single Version",
       "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Shirelles (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Brother Brother",
+      "url": "https://open.spotify.com/track/7erspizhVghwfGjmUOJ9LD"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Detroit Funk Vaults",
-        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
-      },
-      "artists": [
-        {
-          "name": "The Deacons",
-          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "A Drop in the Bucket",
-      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Could It Be Magic",
         "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 182493,
       "name": "Never Let You Get Away From Me",
       "url": "https://open.spotify.com/track/0m8MqPpPsZv04ErFEi7JmV"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Detroit Funk Vaults",
+        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
+      },
+      "artists": [
+        {
+          "name": "The Deacons",
+          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "A Drop in the Bucket",
+      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Travelin' In Heavy Traffic",
-        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
-      },
-      "artists": [
-        {
-          "name": "Don Covay",
-          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
-        }
-      ],
-      "duration_ms": 361626,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Best of Ace: Soul Harmony",
         "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown! (Vol. 2)",
-        "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
+        "name": "Travelin' In Heavy Traffic",
+        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
       },
       "artists": [
         {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
         }
       ],
-      "duration_ms": 175186,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH"
+      "duration_ms": 361626,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1855,6 +1839,22 @@
       "duration_ms": 164324,
       "name": "Hi-Lili - Hi-Lo",
       "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown! (Vol. 2)",
+        "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
+      },
+      "artists": [
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 175186,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Plenty Good Eaton",
-        "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
-      },
-      "artists": [
-        {
-          "name": "Cleveland Eaton",
-          "url": "https://open.spotify.com/artist/3feFwQjjuQQSFTi4jilZbj"
-        }
-      ],
-      "duration_ms": 445320,
-      "name": "Are You out There Somewhere Caring",
-      "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Michael Pedicin, Jr.",
         "url": "https://open.spotify.com/album/527Wtf9FeCw8r2E2W8Teai"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 324746,
       "name": "That's a Good One",
       "url": "https://open.spotify.com/track/53p7FlkTpXQ3yu47QrlkLX"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Plenty Good Eaton",
+        "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
+      },
+      "artists": [
+        {
+          "name": "Cleveland Eaton",
+          "url": "https://open.spotify.com/artist/3feFwQjjuQQSFTi4jilZbj"
+        }
+      ],
+      "duration_ms": 445320,
+      "name": "Are You out There Somewhere Caring",
+      "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
     },
     {
       "added_at": "2022-05-11 12:29:38",

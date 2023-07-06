@@ -6766,7 +6766,7 @@
     {
       "album": {
         "name": "Love me tender",
-        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+        "url": "https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG"
       },
       "artists": [
         {
@@ -6777,6 +6777,24 @@
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271266,
+      "name": "So am I",
+      "url": "https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II"
+    },
+    {
+      "album": {
+        "name": "Love me tender",
+        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+      },
+      "artists": [
+        {
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
       "duration_ms": 271266,
       "name": "So am I",
       "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
@@ -7594,6 +7612,24 @@
       "duration_ms": 228330,
       "name": "the eye drops from 7th floor make my eyes burn",
       "url": "https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg"
+    },
+    {
+      "album": {
+        "name": "The last song",
+        "url": "https://open.spotify.com/album/5qwjLuPAV8H3ChvyQZlaM4"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "The last song",
+      "url": "https://open.spotify.com/track/3nSblqRTG9MBEuYNRPxoFn"
     },
     {
       "album": {
@@ -10614,7 +10650,7 @@
     {
       "album": {
         "name": "\u907a\u4f1d\u5b50\u30ec\u30d9\u30eb\u306eNO!!!",
-        "url": "https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk"
+        "url": "https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH"
       },
       "artists": [
         {
@@ -10625,6 +10661,24 @@
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251426,
+      "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE"
+    },
+    {
+      "album": {
+        "name": "\u907a\u4f1d\u5b50\u30ec\u30d9\u30eb\u306eNO!!!",
+        "url": "https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
       "duration_ms": 251426,
       "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ"
@@ -13094,7 +13148,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 211293,
       "name": "\u30e9\u30b9\u30c8\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg"

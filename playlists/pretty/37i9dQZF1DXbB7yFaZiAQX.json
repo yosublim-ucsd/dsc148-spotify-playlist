@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 954932,
+  "num_followers": 955253,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTczOTI0YjQ3ZjE1ZDVhMmM0M2ZiNTNhZjQxMGE1MGE4NDc4MmEx",
+  "snapshot_id": "MCw1MzY4OTA2NTcxMTM3MTUxNGI5YzE5ODA1NWZiYWQxZTEyNjJjMzg3",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "Lovesong - 2010 Remaster",
-      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Power Corruption and Lies",
         "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 215203,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Lovesong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Head on the Door",
-        "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Close to Me - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "The Pleasure Principle",
         "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+        "name": "The Head on the Door",
+        "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
       },
       "artists": [
         {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+      "duration_ms": 203266,
+      "name": "Close to Me - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "And She Was",
-      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 333816,
       "name": "China Girl - 2018 Remaster",
       "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "And She Was",
+      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "A Forest - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Man-Machine (2009 Remaster)",
         "url": "https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 220533,
       "name": "The Model - 2009 Remaster",
       "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 354933,
+      "name": "A Forest - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Boy (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "I Will Follow - Remastered 2008",
-      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 334360,
       "name": "Genius of Love",
       "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "I Will Follow - Remastered 2008",
+      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Babooshka - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 277688,
-      "name": "Someone Somewhere (In Summertime)",
-      "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 277688,
+      "name": "Someone Somewhere (In Summertime)",
+      "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
       "artists": [
         {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1623,22 +1639,6 @@
       "duration_ms": 301826,
       "name": "Love Action (I Believe In Love)",
       "url": "https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Pelican West Plus",
-        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
-      },
-      "artists": [
-        {
-          "name": "Haircut 100",
-          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Love Plus One",
-      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
-      },
-      "artists": [
-        {
-          "name": "Fun Boy Three",
-          "url": "https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "Our Lips Are Sealed",
-      "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Argybargy",
         "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 238133,
       "name": "Pulling Mussels (From The Shell)",
       "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
+      },
+      "artists": [
+        {
+          "name": "Fun Boy Three",
+          "url": "https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "Our Lips Are Sealed",
+      "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sparkle In The Rain",
-        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Waterfront - Remastered 2002",
-      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Soul Mining",
         "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 411973,
       "name": "Uncertain Smile",
       "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Sparkle In The Rain",
+        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Waterfront - Remastered 2002",
+      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Eisb\u00e4r",
-        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
-      },
-      "artists": [
-        {
-          "name": "Grauzone",
-          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
-        }
-      ],
-      "duration_ms": 288305,
-      "name": "Eisb\u00e4r",
-      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Robbie Robertson",
         "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
+      },
+      "artists": [
+        {
+          "name": "Grauzone",
+          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
+        }
+      ],
+      "duration_ms": 288305,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Stoned and Dethroned",
-        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Sometimes Always",
-      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Thirty Thousand Feet Over China",
         "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Stoned and Dethroned",
+        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
     },
     {
       "added_at": "2023-05-03 07:47:14",

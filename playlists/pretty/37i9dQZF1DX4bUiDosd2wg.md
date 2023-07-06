@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,222 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,221 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 120 | [가질 수 없는 너 \(화생방실 클레오파트라\) \(Bonus Track\)](https://open.spotify.com/track/36WthxpEXVwtEhJQ64iryj) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh) | 3:56 |
 | 121 | [Jasmine](https://open.spotify.com/track/3sIVEWJZYmCotuP6QpAleG) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 4:32 |
 | 122 | [나만의 슬픔](https://open.spotify.com/track/3sXDXnEDZLbs4776SNzGfk) | [Homme](https://open.spotify.com/artist/4Dhh69QVGxhuH0oSiCL4v7) | [투유 프로젝트 \- 슈가맨 Pt.14](https://open.spotify.com/album/05Pm4C7HbCHLD0ETYnMty5) | 4:03 |
-| 123 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 |
+| 123 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 |
 | 124 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
 | 125 | [Wild Flower](https://open.spotify.com/track/5wQgwLigxPtDwDMMFCu2tV) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [I am A Dreamer](https://open.spotify.com/album/6ceHoTiPm8m5gera0XdBOW) | 5:14 |
 | 126 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
@@ -201,7 +201,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 191 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 |
 | 192 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
 | 193 | [이미 슬픈 사랑](https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Wear To Healing](https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo) | 4:03 |
-| 194 | [진혼 Editing Version](https://open.spotify.com/track/2JGn0cEvSWTaRHC1zYQYBP) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 4:00 |
+| 194 | [진혼 \- Editing Version](https://open.spotify.com/track/2JGn0cEvSWTaRHC1zYQYBP) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 4:00 |
 | 195 | [Tears Fall Down At The End Of The Sky](https://open.spotify.com/track/1CvsjHs2psvFyeMLP1s4SV) | [Juniper](https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw) | [1st](https://open.spotify.com/album/2nMftYVmWeswq3BR50tUYC) | 4:28 |
 | 196 | [A Beautiful Farewell](https://open.spotify.com/track/2dekdGGBynn4GIAJE1sIa5) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:10 |
 | 197 | [Love has left again](https://open.spotify.com/track/51juQGmbyLEYkL9y2hqMcI) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [New Story](https://open.spotify.com/album/5bZfsIAGUeJfsRd9hN9PEA) | 4:16 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw3MWNjNTVhOGYzZjEyZDVjZmIyOWQxZjRhMTllMTU0OWY0NDg5MTQy`
+Snapshot ID: `MCw3ZDUxN2FlNjA4OWIzYzY1ZTMxYzVhNGM5NmM5MDQ2NzA1MTg5MGQw`

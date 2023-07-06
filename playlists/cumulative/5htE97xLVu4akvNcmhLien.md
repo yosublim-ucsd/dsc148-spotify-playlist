@@ -4,7 +4,7 @@
 
 > 
 
-691 songs - 1 day 16 hr 12 min
+692 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-10-09 |  |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2020-09-15 |  |
 | [Lady](https://open.spotify.com/track/4lksyKA6dnorn0sbsvPlVh) | [DJ Mendez](https://open.spotify.com/artist/0S7CCsKpXJ8e1dIstizHw5) | [Josephine \(Club Remix\)](https://open.spotify.com/album/1bmrQumukDEZzjV1F5omtK) | 3:32 | 2017-09-09 |  |
+| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-06 |  |
 | [Lean \(feat\. Towy, Osquel, Beltito & Sammy & Falsetto\)](https://open.spotify.com/track/5DoLhdU27owX1NMrKLUbUl) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy](https://open.spotify.com/artist/71FfEgML4GAokNHmW1GKPF), [Jone Quest](https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE), [Towy](https://open.spotify.com/artist/7iXYHQPYLQSz3b3hbPJpk3), [Osquel](https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd), [Beltito](https://open.spotify.com/artist/6TOKWuw816UU34AE4MCZqr), [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Lean \(feat\. Towy, Osquel, Beltito & Sammy & Falsetto\)](https://open.spotify.com/album/0W13Em98CWIfEvoh9wuwPu) | 4:20 | 2019-04-30 |  |
 | [Lento](https://open.spotify.com/track/2g4mmpGFOaVgnZCqpKQDIU) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Lento](https://open.spotify.com/album/4EDHXcSqvZ3pRQMlQOgP1d) | 1:51 | 2017-09-26 |  |
 | [Lepo Lepo](https://open.spotify.com/track/6KfHckJBq4qo0wlDR3iDCV) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [One Love, One Rhythm \- The Official 2014 FIFA World Cup Album](https://open.spotify.com/album/7LToNapGIQnMDliV2oSL7Q) | 3:21 | 2017-09-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Uma playlist s\u00f3 com as origens do Rap nacional. Foto: MV Bill",
-  "num_followers": 73964,
+  "num_followers": 74034,
   "original_name": "No Princ\u00edpio Era o Verso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmY3MzcyMjY2YTA2ZTdkYzM5ZDMzMWU0ZTYxYTQzOTJjZDc5NzRh",
+  "snapshot_id": "MCxjYTFlYWUwODdmMzc0OGY5MGY3MDg5M2IyNTc3ODM0MzY3NDY0NTlh",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -691,18 +691,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Somos Nos a Justica",
-        "url": "https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK"
+        "name": "Se Tu Lutas Tu Conquistas",
+        "url": "https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP"
       },
       "artists": [
         {
           "name": "SNJ",
           "url": "https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk"
+        },
+        {
+          "name": "Rafael Crespo",
+          "url": "https://open.spotify.com/artist/1WstEGWD2CqKbpqn6g3HAS"
         }
       ],
-      "duration_ms": 274691,
-      "name": "Somos Nos",
-      "url": "https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW"
+      "duration_ms": 275333,
+      "name": "Somos N\u00f3s",
+      "url": "https://open.spotify.com/track/5VEDQknmwe4XlPrn74e8zU"
     },
     {
       "added_at": "2022-12-02 03:01:00",

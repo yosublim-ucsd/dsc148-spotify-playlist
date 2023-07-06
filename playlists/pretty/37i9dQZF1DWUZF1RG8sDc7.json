@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 83252,
+  "num_followers": 83367,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjYyNjU2MWQyMjA3ZjU5ZjM5OWJlODE4OTdmYmIyMjUzOGU2YjU1",
+  "snapshot_id": "MCw4NjBiOWZkYzg3ZmI4Zjg3YzRjMzU0NTE3MGQxZjIzNmI4MGU5ZjA5",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -991,18 +991,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+          "name": "Jorge O\u00f1ate",
+          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
+        },
+        {
+          "name": "\u00c1lvaro L\u00f3pez",
+          "url": "https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+      "duration_ms": 282920,
+      "name": "No Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
       "artists": [
         {
-          "name": "Jorge O\u00f1ate",
-          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
-        },
-        {
-          "name": "\u00c1lvaro L\u00f3pez",
-          "url": "https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO"
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
         }
       ],
-      "duration_ms": 282920,
-      "name": "No Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2022-12-16 20:17:47",

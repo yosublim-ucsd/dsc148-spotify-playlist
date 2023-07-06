@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 79565,
+  "num_followers": 79586,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjhlNzgxNmVjZWJhODVjMWJmNzc2ZWM0ZjRmOWZkM2VhNzMyNDM1",
+  "snapshot_id": "MCwwOGJmNDk4OTRlNmE0ZGU3NjcwZTMyY2FlOGY4MzgyNzdiNzlhMGMx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107369,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "inhibitions (feat. P-Lo)",
         "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
       },
@@ -1419,26 +1435,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Broken English",
         "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
       },
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Chatter",
-        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
       },
       "artists": [
         {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
         }
       ],
-      "duration_ms": 173686,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Chatter",
+        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
+      },
+      "artists": [
+        {
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+        }
+      ],
+      "duration_ms": 173686,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "THAT'S ON YOU!",
         "url": "https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK"
       },
@@ -1527,26 +1543,6 @@
       "duration_ms": 181040,
       "name": "Nobody Knows We Are Fun",
       "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/5fFw29w9WN8DowadchtaCr"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        },
-        {
-          "name": "CARELESS",
-          "url": "https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/5hfn3tbQM78sjfEp0yRTlC"
     }
   ],
   "unique_name": "Dope AF",

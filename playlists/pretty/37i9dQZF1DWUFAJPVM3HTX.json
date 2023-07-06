@@ -1,13 +1,197 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Billymaree. Updates every Wednesday.",
-  "num_followers": 202226,
+  "description": "The best new R&B by independent artists and labels. Cover: Jordan Hawkins. Updates every Wednesday.",
+  "num_followers": 202471,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTBmMTU3NjNmMzhiYzg1M2JiMDJkNTgzM2U5ZDU2OTIxNGJjZDJk",
+  "snapshot_id": "MCxjMWQyNGQ3OTc4NTRkNDA2Y2JjNGViMWZjMjJjNDhlMDA4MzcxNjY0",
   "tracks": [
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/2tiJPBLSw1W59jn6fXIvvR"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/1PN3k5YsK9g2ncK2ueFmyd"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/35DBbgKMbvjnOmhBMQ6bXv"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5Xq93UDciSLEoL5uRpMdUY"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Flaws & All",
+        "url": "https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Flaws & All",
+      "url": "https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/568bgovTvfQ2WRYYQNyWrr"
+      },
+      "artists": [
+        {
+          "name": "Moorea Masa & the Mood",
+          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
+        }
+      ],
+      "duration_ms": 189815,
+      "name": "Joyful",
+      "url": "https://open.spotify.com/track/3iZucTzv7kc6J1hfQyJuqg"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "heaven hear me above",
+        "url": "https://open.spotify.com/album/6YIstqyxdRPEwoXstm2mkJ"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        }
+      ],
+      "duration_ms": 352680,
+      "name": "heaven hear me above",
+      "url": "https://open.spotify.com/track/0xgpfcwVmSGiBgf2hGa3N6"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Love Dr.ug",
+        "url": "https://open.spotify.com/album/6pfxA0ZFcUU3fhYRa6CkjU"
+      },
+      "artists": [
+        {
+          "name": "CHASE PAVES",
+          "url": "https://open.spotify.com/artist/3NUNrKJ3ZOClTAMjDgE5yz"
+        }
+      ],
+      "duration_ms": 223542,
+      "name": "Love Dr.ug",
+      "url": "https://open.spotify.com/track/4odpQYfYttJh7GWwzNcqRd"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Who Am I (feat. Twigg Martin)",
+        "url": "https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE"
+      },
+      "artists": [
+        {
+          "name": "BARii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        },
+        {
+          "name": "Twigg Martin",
+          "url": "https://open.spotify.com/artist/5F2DtKXZAnKgl5e3BSiI5M"
+        }
+      ],
+      "duration_ms": 122803,
+      "name": "Who Am I (feat. Twigg Martin)",
+      "url": "https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "PHONE DOWN",
+        "url": "https://open.spotify.com/album/6EoPekQd30idDAAi1aEqKa"
+      },
+      "artists": [
+        {
+          "name": "ANDRIELLE",
+          "url": "https://open.spotify.com/artist/2jGNYZcCuwa6dNWfVa8hr7"
+        }
+      ],
+      "duration_ms": 175103,
+      "name": "PHONE DOWN",
+      "url": "https://open.spotify.com/track/38iuyBG3Bj4J0Qw9sKMrDn"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/1qyXEiOlyQkLOXsclicMYN"
+      },
+      "artists": [
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6sw7U2DkWE6PpyrJwA7T51"
+    },
+    {
+      "added_at": "2023-07-05 22:47:53",
+      "album": {
+        "name": "OF US",
+        "url": "https://open.spotify.com/album/13KbkH5IT1BK3UP46s1lVe"
+      },
+      "artists": [
+        {
+          "name": "hanuel",
+          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "OF US",
+      "url": "https://open.spotify.com/track/6MAXtJLtBthqXCSixzh8eL"
+    },
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {

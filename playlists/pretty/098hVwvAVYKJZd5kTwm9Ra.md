@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > Summer Barbeque grilling essentials for your July 4th backyard party\. 4th of July \| Fourth of July \| Independence Day\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 84,075 likes - 189 songs - 12 hr 34 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 84,094 likes - 189 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 188 | [Too Late To Break Your Fall](https://open.spotify.com/track/7qmRzW1UM1EwTdNIcAR2lf) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Too Late To Break Your Fall](https://open.spotify.com/album/5cOkylHa1n2fhnOzvom9eR) | 3:39 |
 | 189 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 
-Snapshot ID: `ODUxLDE0OGYzNmI5ZmNkZWZmM2NkZDA1MjhjY2E3M2ZjZjcyODg0OGRkYjM=`
+Snapshot ID: `ODU0LGRkZDZmOTM2ODY5YjRhYTg3ZGU3NzdlZWQxY2FkODg4OWQ5NDY0MGI=`

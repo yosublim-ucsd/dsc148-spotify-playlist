@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 884,
+  "num_followers": 927,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDBjZDM0M2Q5NDVhZmU5YzcyZmRiY2FhZGZlMDFhMjQwNjBjZWJj",
+  "snapshot_id": "MCwwZTA1NDk0NzNhY2JhNTRlZjFlYzc4MGUyZTEzZDU4ZTdmZGNlZDMy",
   "tracks": [
     {
       "added_at": "2023-06-26 21:00:39",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
-      },
-      "artists": [
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 135017,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
         "name": "Hotel Lounge in Havana",
         "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 264066,
       "name": "Mirla",
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -339,22 +339,18 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Ag\u00fcita de Coco",
-        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Chavezarratia",
-          "url": "https://open.spotify.com/artist/568hZziWFjCPnud0seNeUo"
+          "name": "Ray Ben Rue",
+          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Ag\u00fcita de Coco",
-      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
+      "duration_ms": 119998,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -375,18 +371,22 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Floripa",
-        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
+        "name": "Ag\u00fcita de Coco",
+        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
       },
       "artists": [
         {
-          "name": "Ray Ben Rue",
-          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Chavezarratia",
+          "url": "https://open.spotify.com/artist/568hZziWFjCPnud0seNeUo"
         }
       ],
-      "duration_ms": 119998,
-      "name": "Floripa",
-      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
+      "duration_ms": 136000,
+      "name": "Ag\u00fcita de Coco",
+      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -411,6 +411,26 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -451,26 +471,6 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        }
-      ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -587,18 +567,22 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
         }
       ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "love in medell\u00edn",
-        "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
       "artists": [
         {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 109723,
-      "name": "love in medell\u00edn",
-      "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+        "name": "love in medell\u00edn",
+        "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
       },
       "artists": [
         {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
         }
       ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+      "duration_ms": 109723,
+      "name": "love in medell\u00edn",
+      "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -691,6 +675,22 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Lofi Latino, Vol. 2",
-        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
       },
       "artists": [
         {
-          "name": "Lofi Cult",
-          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
         }
       ],
-      "duration_ms": 138709,
-      "name": "La Selva Nos Llama",
-      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -783,22 +783,6 @@
       "duration_ms": 183702,
       "name": "No S\u00e9 Que Hacer",
       "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -827,6 +811,38 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
+        "name": "Lofi Latino, Vol. 2",
+        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
+      },
+      "artists": [
+        {
+          "name": "Lofi Cult",
+          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
+        }
+      ],
+      "duration_ms": 138709,
+      "name": "La Selva Nos Llama",
+      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
+      },
+      "artists": [
+        {
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
         "name": "El D\u00eda M\u00e1s Corto",
         "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 193554,
       "name": "Bolerodilla",
       "url": "https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
-      },
-      "artists": [
-        {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
     },
     {
       "added_at": "2023-06-26 21:00:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
         "name": "Ascendentes",
         "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
@@ -907,6 +891,38 @@
     {
       "added_at": "2023-06-26 21:00:39",
       "album": {
+        "name": "Quiet Process",
+        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+      },
+      "artists": [
+        {
+          "name": "Baskito",
+          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
+      },
+      "artists": [
+        {
+          "name": "Myst\u00e9rika",
+          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Estoy Ah\u00ed",
+      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
+    },
+    {
+      "added_at": "2023-06-26 21:00:39",
+      "album": {
         "name": "Guaguansoul",
         "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
       },
@@ -919,26 +935,6 @@
       "duration_ms": 150927,
       "name": "Aguanc\u00f3",
       "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
-    },
-    {
-      "added_at": "2023-06-26 21:00:39",
-      "album": {
-        "name": "Landscape Ride",
-        "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 147700,
-      "name": "Landscaper",
-      "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
     }
   ],
   "unique_name": "lofi latino",

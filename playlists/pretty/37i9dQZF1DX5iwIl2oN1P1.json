@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 85308,
+  "num_followers": 85387,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2FlYWNmNWIyOTczNzlhODIxNjY3NDJlMTQ5YjI0MjAzMGVlOTU4",
+  "snapshot_id": "MCxhYWRhODU5NjlhZWFmZGJlYjZlZWUzODRjMDNmZDgwMWYzOWYyMjM3",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "From The Heart",
         "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 246106,
       "name": "Put It On The Altar",
       "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 292789,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "If God / Nothing But the Blood (Studio Version)",
         "url": "https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 267597,
       "name": "If God / Nothing But the Blood - Studio Version",
       "url": "https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 292789,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -595,18 +595,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Life Music: Stage Two",
-        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
+        "name": "Never Have to Be Alone",
+        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 176969,
-      "name": "Gotta Have You",
-      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -627,18 +627,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Never Have to Be Alone",
-        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
+        "name": "Life Music: Stage Two",
+        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
         }
       ],
-      "duration_ms": 227335,
-      "name": "Never Have to Be Alone",
-      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+      "duration_ms": 176969,
+      "name": "Gotta Have You",
+      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
-        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
-      },
-      "artists": [
-        {
-          "name": "Daryl Coley",
-          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
-        }
-      ],
-      "duration_ms": 507893,
-      "name": "Beyond The Veil - Live",
-      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Kingdom...LIVE!",
         "url": "https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 306426,
       "name": "All of My Help",
       "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
+        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "duration_ms": 507893,
+      "name": "Beyond The Veil - Live",
+      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
     }
   ],
   "unique_name": "Sundays Best",

@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: PARTYNEXTDOOR \u2013 celebrating 10 years of PND1 \ud83c\udf89 ",
-  "num_followers": 4864,
+  "num_followers": 4893,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjNmZTFkNDU5NzJmMzc1ZjdjZmI0NWUzN2E4YmZjODcxNDQ5NWJi",
+  "snapshot_id": "MCwwNzM4YWJiNDcxYmM2OWU5ZTcwMDg5MzVjNDAwOWQ0YjRlODk4Mjkx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
       },
       "artists": [
         {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+      "duration_ms": 262840,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/5zvRC6iiYBdhvPPeyqiEOH"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-06-30 04:01:00",

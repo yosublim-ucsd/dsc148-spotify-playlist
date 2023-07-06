@@ -1,12 +1,12 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 12824,
+  "num_followers": 12901,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWY2OTNkMDBkYzNlZjYyNGY0NzFiNzQzMTVjNjlmNjZhOWI0NWNl",
+  "snapshot_id": "MCw1NTg3ZjNlYjJjN2YwODMxNDE4MjUzNjE3YzQ0YTAyNWE0MjVmMTFl",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Chicago IX: Chicago's Greatest Hits",
+        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Saturday in the Park",
+      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Coming Around Again",
         "url": "https://open.spotify.com/album/53533bK65tCzXnCdM5itUX"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 231840,
       "name": "Pancakes & Butter",
       "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Chicago IX: Chicago's Greatest Hits",
-        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Saturday in the Park",
-      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
     },
     {
       "added_at": "2023-05-05 04:00:00",

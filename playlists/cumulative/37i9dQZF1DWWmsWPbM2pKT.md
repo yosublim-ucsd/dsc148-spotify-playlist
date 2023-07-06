@@ -167,10 +167,10 @@
 | [Самый грустный](https://open.spotify.com/track/3bUB37EbTWCFWkehLo52jB) | [ssshhhiiittt!](https://open.spotify.com/artist/0RfocEzLe78RexLTeU1K2p) | [Remastered](https://open.spotify.com/album/5x2CauBdy2DH8NZ46nWvjV) | 3:53 | 2020-12-21 | 2023-06-14 |
 | [Страшно](https://open.spotify.com/track/5vbX1g08j9hGzW93CAIeQo) | [Shortparis](https://open.spotify.com/artist/61j4FFbKlzdYihMtpM1hZD) | [Так закалялась сталь](https://open.spotify.com/album/4RSGIq9Yu5i70lfXJQ19px) | 4:49 | 2020-12-21 | 2023-02-10 |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2020-12-21 |  |
-| [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 | 2020-12-21 |  |
+| [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 | 2020-12-21 | 2023-07-06 |
 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 | 2020-12-21 |  |
 | [Твоего балкона свет](https://open.spotify.com/track/5kx5F2WMHTe5u5jN6Xpty2) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Твоего балкона свет](https://open.spotify.com/album/2dUC5GPRIaRt3IaHFN16DW) | 4:12 | 2020-12-21 | 2023-02-10 |
 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 | 2020-12-21 |  |
-| [Электрический ток](https://open.spotify.com/track/0H5bUiwDSEl2NuoIMEK00y) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Ничего сверхъестественного](https://open.spotify.com/album/7lQLNZSt6iEXtGvgP9fMXD) | 3:34 | 2020-12-21 | 2023-06-20 |
+| [Электрический ток](https://open.spotify.com/track/0H5bUiwDSEl2NuoIMEK00y) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Ничего сверхъестественного](https://open.spotify.com/album/7lQLNZSt6iEXtGvgP9fMXD) | 3:34 | 2020-12-21 |  |
 
 \*This playlist was first scraped on 2023-02-06. Prior content cannot be recovered.

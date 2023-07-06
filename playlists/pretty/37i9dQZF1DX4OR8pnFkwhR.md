@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Skaai
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,300 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,322 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Persona](https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Persona](https://open.spotify.com/album/5e8sX6JiIW3v1LhxBwSoRQ) | 3:00 |
 | 70 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 |
 
-Snapshot ID: `MCw4MTNmZTI5NWM5OTgyMWU3MzlhNWVmNDJkZjZmMzgwYmVlNmUyYzA3`
+Snapshot ID: `MCw2YmJmNzFlYTU0NjQ1MDlmZTRiYzgzODBjMGQ1YWFkMTc5M2U3YWQ5`

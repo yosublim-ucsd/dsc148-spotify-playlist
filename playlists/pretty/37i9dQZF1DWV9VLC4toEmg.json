@@ -1,12 +1,12 @@
 {
   "description": "Spa treatment role-play and ASMR massage sounds to give you tingles and help you relax.",
-  "num_followers": 32970,
+  "num_followers": 33002,
   "original_name": "ASMR Massage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTUxNzM3MDlhYzE4MmQyZWQxMmJlNjcxNzBlNGZhMzVjOGE4MjNi",
+  "snapshot_id": "MCxiZjg0YzMzNzBkYzQ3MDQxYmJjOGY0MjhmOGI1MWFmN2I0MjYwZmQ0",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:09",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-02 13:48:09",
       "album": {
-        "name": "ASMR Chiropractor Roleplay | Neck & Back Cracking (Cracking Sounds) Relaxing Doctor Check-Up",
-        "url": "https://open.spotify.com/album/5Bbc5wV1nUJczWaNPLQ4sI"
-      },
-      "artists": [
-        {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
-        }
-      ],
-      "duration_ms": 233812,
-      "name": "Muscle Massage",
-      "url": "https://open.spotify.com/track/7ab1mcQODvA2ItfnOzrn5p"
-    },
-    {
-      "added_at": "2023-02-02 13:48:09",
-      "album": {
         "name": "ASMR Sleepy Pleasures - Ear Massage (No Talking)",
         "url": "https://open.spotify.com/album/3tBGDsAKEzCGEzMW4MSwru"
       },
@@ -283,8 +267,24 @@
     {
       "added_at": "2023-02-02 13:48:09",
       "album": {
-        "name": "Relaxing Asmr Sounds for Sleep",
-        "url": "https://open.spotify.com/album/6Lof6lUjAJExOplEf9JFF6"
+        "name": "ASMR Chiropractor Roleplay | Neck & Back Cracking (Cracking Sounds) Relaxing Doctor Check-Up",
+        "url": "https://open.spotify.com/album/5Bbc5wV1nUJczWaNPLQ4sI"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "duration_ms": 233812,
+      "name": "Muscle Massage",
+      "url": "https://open.spotify.com/track/7ab1mcQODvA2ItfnOzrn5p"
+    },
+    {
+      "added_at": "2023-02-02 13:48:09",
+      "album": {
+        "name": "ASMR Massage - Massage Sounds for Intense Tingles and Relaxation",
+        "url": "https://open.spotify.com/album/7bSZskRAVTpZczU5hNosVC"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
         }
       ],
-      "duration_ms": 144523,
-      "name": "Deep Scalp Massage with a Scalp Massager",
-      "url": "https://open.spotify.com/track/6hhdgyiX1XT5BfFq32wgEn"
+      "duration_ms": 152778,
+      "name": "Hand Massage with Rubber Gloves",
+      "url": "https://open.spotify.com/track/2fa4KMcuDil6GfzIpnpjyO"
     },
     {
       "added_at": "2023-02-02 13:48:09",
@@ -363,38 +363,6 @@
     {
       "added_at": "2023-02-02 13:48:09",
       "album": {
-        "name": "ASMR Taking Care of Teddy, Head Massage, Facial Cleansing, Fur Combing and Ear Cleaning (No Talking)",
-        "url": "https://open.spotify.com/album/53qvsFoqNPARRdybQzNw0c"
-      },
-      "artists": [
-        {
-          "name": "ASMR Bakery",
-          "url": "https://open.spotify.com/artist/54Mf3tKmBGQbBQlPfC6N7T"
-        }
-      ],
-      "duration_ms": 368568,
-      "name": "Serum Massage",
-      "url": "https://open.spotify.com/track/1SumfX4KD5sKrdnNo2gJYA"
-    },
-    {
-      "added_at": "2023-02-02 13:48:09",
-      "album": {
-        "name": "ASMR Massage - Massage Sounds for Intense Tingles and Relaxation",
-        "url": "https://open.spotify.com/album/7bSZskRAVTpZczU5hNosVC"
-      },
-      "artists": [
-        {
-          "name": "Alexa ASMR",
-          "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
-        }
-      ],
-      "duration_ms": 152778,
-      "name": "Hand Massage with Rubber Gloves",
-      "url": "https://open.spotify.com/track/2fa4KMcuDil6GfzIpnpjyO"
-    },
-    {
-      "added_at": "2023-02-02 13:48:09",
-      "album": {
         "name": "Deep Tissue Massage",
         "url": "https://open.spotify.com/album/2Y2wFM1PPkAK8Rt453Ijz9"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 470372,
       "name": "Deep Tissue Massage Pt.1",
       "url": "https://open.spotify.com/track/5gc80AtEjJ49fKoGBNUzxt"
+    },
+    {
+      "added_at": "2023-02-02 13:48:09",
+      "album": {
+        "name": "Relaxing Asmr Sounds for Sleep",
+        "url": "https://open.spotify.com/album/6Lof6lUjAJExOplEf9JFF6"
+      },
+      "artists": [
+        {
+          "name": "Alexa ASMR",
+          "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
+        }
+      ],
+      "duration_ms": 144523,
+      "name": "Deep Scalp Massage with a Scalp Massager",
+      "url": "https://open.spotify.com/track/6hhdgyiX1XT5BfFq32wgEn"
+    },
+    {
+      "added_at": "2023-02-02 13:48:09",
+      "album": {
+        "name": "ASMR Taking Care of Teddy, Head Massage, Facial Cleansing, Fur Combing and Ear Cleaning (No Talking)",
+        "url": "https://open.spotify.com/album/53qvsFoqNPARRdybQzNw0c"
+      },
+      "artists": [
+        {
+          "name": "ASMR Bakery",
+          "url": "https://open.spotify.com/artist/54Mf3tKmBGQbBQlPfC6N7T"
+        }
+      ],
+      "duration_ms": 368568,
+      "name": "Serum Massage",
+      "url": "https://open.spotify.com/track/1SumfX4KD5sKrdnNo2gJYA"
     },
     {
       "added_at": "2023-02-02 13:48:09",

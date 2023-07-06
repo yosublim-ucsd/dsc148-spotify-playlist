@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Kimberley Akimbo",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Funny Girl",
   "name": "Best of Broadway",
   "tracks": [
     {
@@ -167,6 +167,48 @@
     },
     {
       "album": {
+        "name": "New York, New York Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/0Sdcb1Jtph8WYn5rAKgKWV"
+      },
+      "artists": [
+        {
+          "name": "Colton Ryan",
+          "url": "https://open.spotify.com/artist/4e9ML6IDGbv8W09mMlStKc"
+        },
+        {
+          "name": "Clyde Alves",
+          "url": "https://open.spotify.com/artist/5wvNjjRuPkjXAfJq7FOb2B"
+        },
+        {
+          "name": "Original Broadway Cast of New York, New York",
+          "url": "https://open.spotify.com/artist/6j74FeMTy0Ivy9u43YAoZn"
+        },
+        {
+          "name": "FRED EBB",
+          "url": "https://open.spotify.com/artist/55wRPoIshACSy33Vwfoy6r"
+        },
+        {
+          "name": "John Kander",
+          "url": "https://open.spotify.com/artist/7xSEQmlssbeoIUdQ0HFjUT"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Anna Uzele",
+          "url": "https://open.spotify.com/artist/1DRKyJFDZaw42Nw3En5J1R"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "A Major Chord",
+      "url": "https://open.spotify.com/track/2jEhdp80KX1N5N5t6Z6iR8"
+    },
+    {
+      "album": {
         "name": "Parade (2023 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1Q4VxidzNyBpzIZ11qnCP3"
       },
@@ -190,7 +232,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 211114,
       "name": "A Rumblin\u2019 and a Rollin\u2019",
       "url": "https://open.spotify.com/track/1g3qYpfx3UaJLxIwXZPbiz"
@@ -1453,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Camelot (The 2023 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4jmJcyezLCNTPRc0xfgrMy"
+      },
+      "artists": [
+        {
+          "name": "Jordan Donica",
+          "url": "https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220138,
+      "name": "If Ever I Would Leave You",
+      "url": "https://open.spotify.com/track/5PFXti9RRcfHhx0AXjA25v"
+    },
+    {
+      "album": {
         "name": "In the Heights (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg"
       },
@@ -1632,6 +1692,60 @@
       "duration_ms": 213880,
       "name": "Inner White Girl",
       "url": "https://open.spotify.com/track/7H9HfOnxmrmbYn1SGe21ag"
+    },
+    {
+      "album": {
+        "name": "The Wizard of Friendship (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0KVkTJ23Qff1h9VSxxM7H1"
+      },
+      "artists": [
+        {
+          "name": "Lewberger",
+          "url": "https://open.spotify.com/artist/2zXGFoqXVap8ILc1Od8IsF"
+        },
+        {
+          "name": "Hughie Stone Fish",
+          "url": "https://open.spotify.com/artist/06KxuYYfLAWfreFwa8uBbB"
+        },
+        {
+          "name": "Keith Habersberger",
+          "url": "https://open.spotify.com/artist/5wEKv1zUhowl45tdKySrAI"
+        },
+        {
+          "name": "Alex Lewis",
+          "url": "https://open.spotify.com/artist/4betnH1kdfBLh3fMS1Y6FH"
+        },
+        {
+          "name": "Shaq Hester",
+          "url": "https://open.spotify.com/artist/1doQaUYHV5XpPq7rvuWuzi"
+        },
+        {
+          "name": "Nya Noemi",
+          "url": "https://open.spotify.com/artist/1gIc5eB2qWpGxl7KRbdbGi"
+        },
+        {
+          "name": "Emily Martinez",
+          "url": "https://open.spotify.com/artist/6OGdUvUXABPDM0dgdm1ttk"
+        },
+        {
+          "name": "Aria Renee Curameng",
+          "url": "https://open.spotify.com/artist/25KSdtqWWuBUkVZkbtWe2Z"
+        },
+        {
+          "name": "Dom Jones",
+          "url": "https://open.spotify.com/artist/08VO6fZIFGOv2t9RZfARah"
+        },
+        {
+          "name": "Jenna Bollard-Marcovitz",
+          "url": "https://open.spotify.com/artist/60RoOAPNReMSmThaQAH9qz"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "It's A Stupid Idea (To Put On A Broadway Show)",
+      "url": "https://open.spotify.com/track/3giI0tIzpKidciWVm56kSR"
     },
     {
       "album": {
@@ -2022,7 +2136,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 170162,
       "name": "Maybe It Starts With Me",
       "url": "https://open.spotify.com/track/7lBv7MWOlSLTJCM0VsDyrY"
@@ -2270,6 +2384,40 @@
       "duration_ms": 333154,
       "name": "My Shot",
       "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "album": {
+        "name": "New York, New York Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/0Sdcb1Jtph8WYn5rAKgKWV"
+      },
+      "artists": [
+        {
+          "name": "Anna Uzele",
+          "url": "https://open.spotify.com/artist/1DRKyJFDZaw42Nw3En5J1R"
+        },
+        {
+          "name": "Original Broadway Cast of New York, New York",
+          "url": "https://open.spotify.com/artist/6j74FeMTy0Ivy9u43YAoZn"
+        },
+        {
+          "name": "FRED EBB",
+          "url": "https://open.spotify.com/artist/55wRPoIshACSy33Vwfoy6r"
+        },
+        {
+          "name": "John Kander",
+          "url": "https://open.spotify.com/artist/7xSEQmlssbeoIUdQ0HFjUT"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/1upGgJfj2TfobA9HBYruRR"
     },
     {
       "album": {
@@ -3352,6 +3500,28 @@
       "duration_ms": 249167,
       "name": "The Ladies Who Lunch",
       "url": "https://open.spotify.com/track/22Hnu6M7hvv6L7BWVhnFmx"
+    },
+    {
+      "album": {
+        "name": "Camelot (The 2023 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4jmJcyezLCNTPRc0xfgrMy"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Camelot on Broadway Company",
+          "url": "https://open.spotify.com/artist/5GnneDWabJLOk4GOukFTZz"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289599,
+      "name": "The Lusty Month of May",
+      "url": "https://open.spotify.com/track/24HEn0c2i2jgcGQAmdLuf2"
     },
     {
       "album": {

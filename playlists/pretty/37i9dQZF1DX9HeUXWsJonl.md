@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Écoute en boucle les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,256 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,315 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yamma](https://open.spotify.com/track/2rPfXfRD6eAVSiJBY2x1Ne) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Yamma](https://open.spotify.com/album/3a5o2trBcQBLmPWOfmPTTf) | 4:11 |
-| 2 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
+| 1 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
+| 2 | [Yamma](https://open.spotify.com/track/2rPfXfRD6eAVSiJBY2x1Ne) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Yamma](https://open.spotify.com/album/3a5o2trBcQBLmPWOfmPTTf) | 4:11 |
 | 3 | [Baba](https://open.spotify.com/track/36h8chyy24HG3382bLeKbz) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Baba](https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ) | 4:33 |
 | 4 | [Va Bene](https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Va Bene](https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt) | 2:26 |
 | 5 | [Ghariba \- غريبة](https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghariba \(غريبة\)](https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Tomorrow](https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry) | [Naqqa](https://open.spotify.com/artist/65D6dxtE0d7MoKoJfxOEyH), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Tomorrow](https://open.spotify.com/album/1BNLeUBIAYE6dPAKjKV21M) | 4:03 |
 | 50 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 |
 
-Snapshot ID: `MCw2ZDlmNTJmYjkwMzM4MGJiNzhmOTcxNmNlMThhNDM2NDNkMjEzYmQ0`
+Snapshot ID: `MCwyMWRkMzE1Yjc1NmQzOWVkMDJkM2MzMmJhMmJiZGY5ZjA0NmFkOTll`

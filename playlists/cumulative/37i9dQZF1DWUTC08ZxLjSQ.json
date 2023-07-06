@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Fulana. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: ZOHUD. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 220593,
       "name": "Freecutter",
       "url": "https://open.spotify.com/track/25dZ0pb2Jut2LuDu5t1x8f"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 152727,
       "name": "IM HIM",
       "url": "https://open.spotify.com/track/4DIs8WvTe6VNaapddoUqY3"
@@ -1774,6 +1774,24 @@
       "duration_ms": 188980,
       "name": "LOW KEY",
       "url": "https://open.spotify.com/track/49c0DivBdrqqFrD6UIWTrZ"
+    },
+    {
+      "album": {
+        "name": "Lvl Up",
+        "url": "https://open.spotify.com/album/37igg8BKQ3Ud3eYJmWnSmf"
+      },
+      "artists": [
+        {
+          "name": "Ish Akanour",
+          "url": "https://open.spotify.com/artist/69JgwhIi9mUCrs93Vgkxv2"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "Lvl Up",
+      "url": "https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv"
     },
     {
       "album": {
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 188000,
       "name": "Outro",
       "url": "https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0"
@@ -2579,6 +2597,28 @@
     },
     {
       "album": {
+        "name": "Report to me",
+        "url": "https://open.spotify.com/album/4MlUIh6YfD4E9mzd7K6ahh"
+      },
+      "artists": [
+        {
+          "name": "FIG\u016aREZ",
+          "url": "https://open.spotify.com/artist/5Yz17zWo8Kqau4oOkiiQD8"
+        },
+        {
+          "name": "Triple9",
+          "url": "https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114059,
+      "name": "Report to me",
+      "url": "https://open.spotify.com/track/4syYPLHQ9VwcEAu3BKIx2v"
+    },
+    {
+      "album": {
         "name": "Sabba7 Sabba7 (\u0635\u0628\u062d \u0635\u0628\u062d)",
         "url": "https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp"
       },
@@ -2656,6 +2696,24 @@
       "duration_ms": 190588,
       "name": "Scorsese",
       "url": "https://open.spotify.com/track/750DwBev1112r16elo8Mom"
+    },
+    {
+      "album": {
+        "name": "Seboni Nayem",
+        "url": "https://open.spotify.com/album/5S5Sm9rWMVLgtghPbTuwKQ"
+      },
+      "artists": [
+        {
+          "name": "ZOHUD",
+          "url": "https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Seboni Nayem",
+      "url": "https://open.spotify.com/track/309PcbE6Ve1UiPmtrhqoeq"
     },
     {
       "album": {

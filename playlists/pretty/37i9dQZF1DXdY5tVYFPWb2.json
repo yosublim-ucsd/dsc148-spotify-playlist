@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 144375,
+  "num_followers": 144445,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDhmZjQ5Y2M2ZWU3M2JkZDYxZDQ1MmY1YzBhMTMwY2RjMzhkZDE1",
+  "snapshot_id": "MCw1NjA5N2FkMmQ1OTEzNTZhMGE5ZGNmYjhjMDRkODJkMTc4ZDgzNDQ4",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -48,7 +48,7 @@
       "added_at": "2023-07-04 15:00:00",
       "album": {
         "name": "Silhouette (feat. Asako Toki)",
-        "url": "https://open.spotify.com/album/44G9CppJo6uWZCMFsqZs9b"
+        "url": "https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl"
       },
       "artists": [
         {
@@ -56,13 +56,13 @@
           "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
         },
         {
-          "name": "\u571f\u5c90\u9ebb\u5b50",
-          "url": "https://open.spotify.com/artist/2v3GHWBJprAS0n6tpIx1Oj"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
       "duration_ms": 261017,
       "name": "Silhouette (feat. Asako Toki)",
-      "url": "https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS"
+      "url": "https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -124,7 +124,7 @@
       "added_at": "2023-07-04 15:00:00",
       "album": {
         "name": "Million Miles Away (Edit)",
-        "url": "https://open.spotify.com/album/6XjUXNYXwhXjGdicHqExDc"
+        "url": "https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq"
       },
       "artists": [
         {
@@ -138,7 +138,7 @@
       ],
       "duration_ms": 211995,
       "name": "Million Miles Away - Edit",
-      "url": "https://open.spotify.com/track/7GinkMd26v9s8bJYLTyvkK"
+      "url": "https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "MAO",
+        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        },
+        {
+          "name": "Hayata Kosugi",
+          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "\u5e74\u306e\u702c\u306b",
         "url": "https://open.spotify.com/album/7qeOdN9cJZTMI8QVuq8jD2"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "MAO",
-        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        },
-        {
-          "name": "Hayata Kosugi",
-          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "IMA",
         "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 247941,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 243600,
       "name": "Change My Life",
       "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "PRISMATICS",
+        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 (English Version)",
         "url": "https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "yugi",
         "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "TICKETS",
+        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "YOU+ME=",
+      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "NO TIME",
         "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "TICKETS",
-        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
-      },
-      "artists": [
-        {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "YOU+ME=",
-      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 226779,
       "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "WINDY SUMMER (Cover)",
-        "url": "https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "WINDY SUMMER - Cover",
-      "url": "https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "FANCITY",
         "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
       },
@@ -1459,22 +1439,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Smile in your face",
-        "url": "https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK"
+        "name": "WINDY SUMMER (Cover)",
+        "url": "https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF"
       },
       "artists": [
         {
-          "name": "\u677e\u672c\u5343\u590f",
-          "url": "https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "LITTLE",
-          "url": "https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks"
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy"
         }
       ],
-      "duration_ms": 274250,
-      "name": "Smile in your face",
-      "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
+      "duration_ms": 213506,
+      "name": "WINDY SUMMER - Cover",
+      "url": "https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1495,6 +1475,26 @@
       "duration_ms": 227253,
       "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
       "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Smile in your face",
+        "url": "https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u672c\u5343\u590f",
+          "url": "https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS"
+        },
+        {
+          "name": "LITTLE",
+          "url": "https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "Smile in your face",
+      "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1527,6 +1527,22 @@
       "duration_ms": 272657,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "FLYME",
+        "url": "https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5"
+      },
+      "artists": [
+        {
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+        }
+      ],
+      "duration_ms": 221937,
+      "name": "FLYME",
+      "url": "https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1583,26 +1599,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
-        "url": "https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3089\u304b\u306a\u3053",
-          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
-        },
-        {
-          "name": "Hitomi Shimatani",
-          "url": "https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
-      "url": "https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "Danceless Island",
         "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
       },
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "FLYME",
-        "url": "https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5"
+        "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
+        "url": "https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB"
       },
       "artists": [
         {
-          "name": "dawgss",
-          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+          "name": "\u306f\u3089\u304b\u306a\u3053",
+          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
+        },
+        {
+          "name": "Hitomi Shimatani",
+          "url": "https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18"
         }
       ],
-      "duration_ms": 221937,
-      "name": "FLYME",
-      "url": "https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN"
+      "duration_ms": 326746,
+      "name": "\u6700\u5f8c\u306e\u30ad\u30b9\u306a\u3089",
+      "url": "https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "A.Y.A e.p",
+        "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "duration_ms": 273719,
+      "name": "Rain Of Your Heart",
+      "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "Purple Sunset",
         "url": "https://open.spotify.com/album/0IFs1LexzGsEOlaRflGTQ3"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 209978,
       "name": "Purple Sunset",
       "url": "https://open.spotify.com/track/03AkajGxPe98c5o5whQoja"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "A.Y.A e.p",
-        "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
-      },
-      "artists": [
-        {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
-        }
-      ],
-      "duration_ms": 273719,
-      "name": "Rain Of Your Heart",
-      "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

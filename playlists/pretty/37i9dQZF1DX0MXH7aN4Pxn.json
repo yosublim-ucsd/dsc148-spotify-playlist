@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689025,
+  "num_followers": 689040,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FmODAwOTZjY2IxMjRkMDlhNjU1ODQ5YzNkOTQxZWJkOGI3Yzgw",
+  "snapshot_id": "MCw3YjYyOWRhMjJlZjVjMjNlZmViOGZmMDdjMzEwMjM2ODhlZTlmMDY3",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Human (feat. Echoes)",
-        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Human (feat. Echoes)",
-      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Human (feat. Echoes)",
+        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Human (feat. Echoes)",
+      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Juliet & Romeo",
         "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 204514,
       "name": "Juliet & Romeo",
       "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Summer In Love",
+        "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 195330,
+      "name": "Summer In Love",
+      "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 245927,
       "name": "Children",
       "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Summer In Love",
-        "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 195330,
-      "name": "Summer In Love",
-      "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Peaches & Cream",
+        "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 198956,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Peaches & Cream",
-        "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 198956,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 246944,
-      "name": "Dance with My Ghost (feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Hipcats",
         "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
       },
@@ -1815,6 +1795,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 246944,
+      "name": "Dance with My Ghost (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Mad At Me",
         "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4ZTsEtIrFPFXGo6eXt06Zk"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 154250,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/1By1ldFnEnvZI47HEeTHk5"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-12-31 15:51:36",

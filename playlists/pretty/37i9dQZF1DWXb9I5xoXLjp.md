@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain]
 
 > In the mood for some romance?
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,210 likes - 66 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,879 likes - 66 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain]
 | 65 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 66 | [Lovin' You](https://open.spotify.com/track/4twhYPDyCP6ICeW3TtQVxP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:23 |
 
-Snapshot ID: `MCxjOTI5MjUwYzVmMDZkYTdhZDViMGU0YTNmYThlZWIxN2U2MGY1NDA1`
+Snapshot ID: `MCxkMzk1MDEzZTYwMmI3ZWM2MTgyOWNmYmVhNzAzZjdiYmU5NjEyMWE4`

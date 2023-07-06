@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,074 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,080 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 81 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
 | 82 | [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 |
 
-Snapshot ID: `MCw4ZGViNWQyYjQyZjliYzVlZTgxZTU0MTVjMjVmM2Q1NGRkZTdhMzM0`
+Snapshot ID: `MCxjOTM3N2RjYzhmNDlkZmE3NTdlMmM1OWIxOWMxOTIxYTBlMzUzYjMy`

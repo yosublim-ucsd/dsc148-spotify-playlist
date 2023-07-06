@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Owfuck Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,935 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,947 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Cut Into Pieces](https://open.spotify.com/track/31rYyL9Ji5ohvpOd3Ukshg) | [Bryan Chong](https://open.spotify.com/artist/7iIVtRNGIZF6EjKBAIeGP2) | [Cut Into Pieces](https://open.spotify.com/album/15c4BqGGOkdFQZkN81Skn4) | 3:49 |
 | 74 | [Romeo](https://open.spotify.com/track/0p0tSaSb5DWkU9V4zanLGK) | [Young Fresho](https://open.spotify.com/artist/4BIRCoA30qQVo9iqaV2E6m) | [Romeo](https://open.spotify.com/album/6pcaA26p6ZffTrjpOhbRTV) | 4:10 |
 
-Snapshot ID: `MCxkNmMwYmQ5NGQ5MjI5YmIwZGFhNjhhNTYyZjU1MmQ4NWFkYjY1YTY1`
+Snapshot ID: `MCxiYjA4MTNhODM5NjdlNGJjYWZmYjM4ODkwNWNhNDU5YmM1ZDQ0MzRk`

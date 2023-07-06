@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-283 songs - 15 hr 42 min
+284 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-12 |  |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-07-25 | 2022-11-13 |
 | [A8](https://open.spotify.com/track/06uZ51ssp5PkwHzZM2WUAK) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [to you, to me](https://open.spotify.com/album/5vtHCIkKF4SmJDnWcTqzn7) | 3:28 | 2022-06-06 | 2022-07-29 |
-| [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 | 2022-06-06 |  |
+| [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 | 2022-06-06 | 2023-07-06 |
 | [airplane thoughts](https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:30 | 2022-07-25 |  |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2022-06-06 | 2022-07-29 |
 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-10-24 | 2022-11-13 |
@@ -226,6 +226,7 @@
 | [Sinking](https://open.spotify.com/track/7zwN8pdasAQwkkRP64OIMS) | [Claudia](https://open.spotify.com/artist/4iSU0hKfGnU2nscL5dLi9p) | [Sinking](https://open.spotify.com/album/0CfQZxExm3luRR6aROK0ay) | 3:09 | 2022-06-27 | 2022-07-06 |
 | [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 | 2022-07-25 | 2023-05-23 |
 | [Slowing Down](https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Slowing Down](https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK) | 2:55 | 2022-07-25 | 2023-06-04 |
+| [Slowing Down](https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Slowing Down](https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG) | 2:55 | 2023-07-03 |  |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2022-08-08 |  |
 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 | 2022-10-24 |  |
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2022-07-25 | 2022-10-13 |

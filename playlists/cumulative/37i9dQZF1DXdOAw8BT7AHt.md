@@ -2,9 +2,9 @@
 
 ### [The Punk List](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best in new punk rock music\. Cover: Sprints
+> The best in new punk rock music\. Cover: BIG SPECIAL
 
-165 songs - 8 hr 9 min
+168 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 | 2023-05-19 |  |
 | [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 | 2023-03-08 |
 | [Always Lose](https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Always Lose](https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI) | 3:07 | 2022-12-02 | 2023-03-13 |
+| [Anaconda Frank](https://open.spotify.com/track/1DSfQ1Ol5YoPkY9Y3mv9d1) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Anaconda Frank](https://open.spotify.com/album/5xwbdKZopGHbMrhti5NfCW) | 2:49 | 2023-07-05 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-12-02 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 | 2023-04-03 |
 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 | 2023-03-03 | 2023-03-21 |
@@ -70,6 +71,7 @@
 | [Ghost Brigade](https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Ghost Brigade](https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn) | 3:44 | 2022-12-02 | 2023-04-22 |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-12-02 |  |
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-12-02 |  |
+| [Golden](https://open.spotify.com/track/5tpN5V4gDUc3LQg5xE3m57) | [FRND CRCL](https://open.spotify.com/artist/5y4MciXJL9xyGtvnig6zAB) | [Suburban Dictionary](https://open.spotify.com/album/20iZSpMGZgLQaH2qgSprzE) | 3:17 | 2023-07-05 |  |
 | [Grey Place](https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV) | [The Boogie Down South](https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT) | 4:00 | 2023-02-06 | 2023-03-21 |
 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 | 2022-12-02 |  |
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2022-12-02 |  |
@@ -80,6 +82,7 @@
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-12-02 | 2023-03-21 |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-12-02 | 2023-04-17 |
 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 | 2023-03-20 | 2023-06-16 |
+| [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 | 2023-07-05 |  |
 | [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 | 2023-05-18 |
 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 | 2023-06-08 |  |
 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 | 2023-06-20 |  |
@@ -93,7 +96,7 @@
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-12-02 | 2023-03-03 |
 | [Knees Deep](https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 3:39 | 2023-03-03 |  |
 | [Knees Deep](https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 3:39 | 2022-12-02 | 2023-04-30 |
-| [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-21 |  |
+| [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-21 | 2023-07-06 |
 | [last cadence](https://open.spotify.com/track/6gt5Xpymo2JBF51xs2JvpA) | [Exit Dream](https://open.spotify.com/artist/1vjClLSU7owOEFgBruZVWs) | [last cadence](https://open.spotify.com/album/7cwfws8SSBgQc7AGOtys3I) | 3:54 | 2023-03-03 | 2023-03-23 |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 | 2023-03-03 |  |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-12-02 | 2023-05-04 |
@@ -141,10 +144,10 @@
 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 | 2023-03-03 |  |
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-18 | 2023-04-20 |
 | [So Trendy](https://open.spotify.com/track/0XcFrS0wGmXpuJlBAcL6s4) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [So Trendy](https://open.spotify.com/album/7K20NkKuowGGMoVfk5ouvd) | 3:45 | 2023-04-21 | 2023-06-09 |
-| [Social Lubrication](https://open.spotify.com/track/086JbiF8kMBushqWDifdpE) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:28 | 2023-06-08 |  |
+| [Social Lubrication](https://open.spotify.com/track/086JbiF8kMBushqWDifdpE) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:28 | 2023-06-08 | 2023-07-06 |
 | [Social Lubrication](https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk) | 3:28 | 2023-06-08 | 2023-06-12 |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-12-02 |  |
-| [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-04-21 |  |
+| [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-04-21 | 2023-07-06 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-12-02 |  |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-12-02 |  |
 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 | 2022-12-02 | 2023-06-21 |

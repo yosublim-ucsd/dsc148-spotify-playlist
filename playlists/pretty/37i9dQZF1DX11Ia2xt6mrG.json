@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Nortec: Bostich + Fussible en portada.",
-  "num_followers": 54603,
+  "num_followers": 54610,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmIyZDlkZDkyNTVmOTMzNzA2MTIxMzVmNGMxOTFkOWVmMWZiYmFi",
+  "snapshot_id": "MCxlZjZmNzViNDcyOWQ3MjNkMjYzZWVlYjVlMjhlZmU2YjM1MDFmMTBi",
   "tracks": [
     {
       "added_at": "2023-07-04 19:38:02",
@@ -675,6 +675,30 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Keep It Dope",
+          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
+        },
+        {
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
+        }
+      ],
+      "duration_ms": 211903,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "\u00a1Bang Bang!",
         "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 167666,
       "name": "\u00a1Bang Bang!",
       "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Keep It Dope",
-          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
-        },
-        {
-          "name": "Priscila",
-          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
-        }
-      ],
-      "duration_ms": 211903,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Iskander",
+          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -823,42 +843,6 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Playa",
-        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Iskander",
-          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "The Same Loop Again",
-        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
-      },
-      "artists": [
-        {
-          "name": "Orig\u0101mi",
-          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
-        }
-      ],
-      "duration_ms": 279594,
-      "name": "The Same Loop Again",
-      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "The Same Loop Again",
+        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        }
+      ],
+      "duration_ms": 279594,
+      "name": "The Same Loop Again",
+      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -967,30 +967,6 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
@@ -1023,26 +999,26 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Agua Pa Beber",
-        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
       },
       "artists": [
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
         },
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
         },
         {
-          "name": "Gerardo Varela",
-          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
         }
       ],
-      "duration_ms": 150966,
-      "name": "Agua Pa Beber",
-      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+      "duration_ms": 181935,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1067,6 +1043,30 @@
       "duration_ms": 154687,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "Agua Pa Beber",
+        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Gerardo Varela",
+          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
+        }
+      ],
+      "duration_ms": 150966,
+      "name": "Agua Pa Beber",
+      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1123,6 +1123,26 @@
       "duration_ms": 159359,
       "name": "Covalent Bond",
       "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1255,6 +1255,30 @@
       "duration_ms": 129399,
       "name": "\u00bfDe Qu\u00e9n Chon? - Remix",
       "url": "https://open.spotify.com/track/7BL2mp6t6a1IlwpvJubRua"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1367,30 +1391,6 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
       },
@@ -1427,6 +1427,26 @@
       "duration_ms": 210967,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1483,22 +1503,18 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "Leimantour",
+          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
         }
       ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
+      "duration_ms": 428000,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1515,38 +1531,6 @@
       "duration_ms": 112800,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "killed love",
-        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "killed love",
-      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
-    },
-    {
-      "added_at": "2023-07-04 19:38:02",
-      "album": {
-        "name": "Eunoia",
-        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
-      },
-      "artists": [
-        {
-          "name": "Leimantour",
-          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Eunoia",
-      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
     },
     {
       "added_at": "2023-07-04 19:38:02",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
+      },
+      "artists": [
+        {
+          "name": "JOKA",
+          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+        }
+      ],
+      "duration_ms": 192366,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
+    },
+    {
+      "added_at": "2023-07-04 19:38:02",
+      "album": {
         "name": "Like a Dream",
         "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
       },
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-07-04 19:38:02",
       "album": {
-        "name": "Mistake",
-        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
+        "name": "killed love",
+        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
       },
       "artists": [
         {
-          "name": "JOKA",
-          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 192366,
-      "name": "Mistake",
-      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
+      "duration_ms": 232288,
+      "name": "killed love",
+      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
     }
   ],
   "unique_name": "mint MX",

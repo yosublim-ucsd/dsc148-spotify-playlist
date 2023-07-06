@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 473314,
+  "num_followers": 473338,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTYwMzEwMzg4YTBhMWNhNzVlMzk3MDlhYThlYWI2NTllMGIyNDUz",
+  "snapshot_id": "MCxlNjI4N2JiMjlhODQwZWM2ZTIxMTkxNmJiMzkwNDE4MGJiMWY0YTFm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
-      },
-      "artists": [
-        {
-          "name": "The Luka State",
-          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
-        }
-      ],
-      "duration_ms": 182100,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "I'm Not Sorry, I Was Just Being Me",
         "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209603,
       "name": "All Being Fine",
       "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Elimination Dances",
-        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Elimination Dances",
-      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Elimination Dances",
+        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Elimination Dances",
+      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Rafters",
-        "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
-      },
-      "artists": [
-        {
-          "name": "Yam Haus",
-          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
-        }
-      ],
-      "duration_ms": 230915,
-      "name": "Rafters",
-      "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "MYSTERY",
         "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Rafters",
+        "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
+      },
+      "artists": [
+        {
+          "name": "Yam Haus",
+          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+        }
+      ],
+      "duration_ms": 230915,
+      "name": "Rafters",
+      "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "STATUES (v2)",
         "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
       },
@@ -1231,6 +1247,22 @@
       "duration_ms": 293354,
       "name": "STATUES (v2)",
       "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Seven White Horses",
+        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "duration_ms": 220816,
+      "name": "Seven White Horses",
+      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1251,18 +1283,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Seven White Horses",
-        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
       },
       "artists": [
         {
-          "name": "Starbenders",
-          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
         }
       ],
-      "duration_ms": 220816,
-      "name": "Seven White Horses",
-      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
+      "duration_ms": 197777,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1311,38 +1343,6 @@
       "duration_ms": 189000,
       "name": "Voodoo Science",
       "url": "https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
-      },
-      "artists": [
-        {
-          "name": "Mouth Culture",
-          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
-      },
-      "artists": [
-        {
-          "name": "Superbloom",
-          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
-        }
-      ],
-      "duration_ms": 212228,
-      "name": "Head First",
-      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Distant Populations",
         "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 192013,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "duration_ms": 212228,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
-      },
-      "artists": [
-        {
-          "name": "Loose Lips",
-          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
-        }
-      ],
-      "duration_ms": 184931,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "The Next Curse",
         "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 241638,
       "name": "The Next Curse",
       "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Eye For An Eye",
+        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
+      },
+      "artists": [
+        {
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+        }
+      ],
+      "duration_ms": 184931,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Plus Ultra",
-        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "My Fall",
-      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
     },
     {
       "added_at": "2023-06-30 04:01:00",

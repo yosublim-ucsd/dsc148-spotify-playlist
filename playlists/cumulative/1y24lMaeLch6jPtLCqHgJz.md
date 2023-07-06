@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-154 songs - 8 hr 2 min
+155 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Coming Alive \- Jeffrey Sutorius Remix](https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jone Fields](https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [Coming Alive \(Jeffrey Sutorius Remix\)](https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX) | 3:53 | 2023-01-26 |  |
 | [Control](https://open.spotify.com/track/3GWeeuS0rRQ8oUfjmqZ8fw) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [Control](https://open.spotify.com/album/2IANfZ2LtHRMVRfClATewD) | 2:36 | 2023-06-23 |  |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
+| [Dance Monkey](https://open.spotify.com/track/2jSgV3fYu5HdgrIDkFp8xU) | [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Dance Monkey](https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN) | 2:58 | 2023-07-05 |  |
 | [Dancing](https://open.spotify.com/track/44x1qfLCPkSgEvzzqXSrnr) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Vicman Romero & Mike Sildavia](https://open.spotify.com/artist/1wAZ4sU7fRc00JC3zs6XXg), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Dancing](https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx) | 2:54 | 2022-08-23 |  |
 | [Dancing With Tears In My Eyes](https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Dancing With Tears In My Eyes](https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr) | 3:08 | 2022-07-29 |  |
 | [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 | 2023-02-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,905 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,953 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 18 | [Latigazo](https://open.spotify.com/track/3c5sB8wjUpxJKKDaRrdGAH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cangri.com](https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk) | 2:31 |
 | 19 | [Sientelo](https://open.spotify.com/track/7qA6NCWBEpbEusd6Phx9hy) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s), [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:53 |
 | 20 | [Hot This Year](https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ) | [Dirtsman](https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs) | [Reggae Hits, Vol\. 11](https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P) | 3:29 |
-| 21 | [Medley](https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:11 |
+| 21 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 22 | [Aquel Que Habia Muerto](https://open.spotify.com/track/4Z9is8IlwRlOmKsW58c4p2) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 4:51 |
 | 23 | [La Danza Bella](https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:19 |
 | 24 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
-| 25 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
+| 25 | [Medley](https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:11 |
 | 26 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
 | 27 | [Guayando](https://open.spotify.com/track/5KfTXVRme8sMRFOqHUlWYo) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Cangri.com](https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk) | 3:02 |
 | 28 | [Bomba Para Afincar](https://open.spotify.com/track/0cHircZQcIR3ZkVsuHPgb6) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 | 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MCw2OGU3MjdkN2FlNGI3OTBmYTQ2M2IxOGVlMTFjNTllM2NmMjdkN2Q1`
+Snapshot ID: `MCxiMmNjZWYwNTFhZDNmNDc4NGIwYmYwN2Q3ZjI1NGQ2NDlkZTRiNzg0`

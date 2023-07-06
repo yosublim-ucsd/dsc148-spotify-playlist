@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,698 likes - 39 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,705 likes - 39 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 38 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
 | 39 | [Safari](https://open.spotify.com/track/0ypEcB9ug8CUMUcVw4xRa9) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 5:48 |
 
-Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDAyNmUwNjE1ZDE4Yjc0YmFlNjI4ODkyN2MzNjQ5YmZhNg==`
+Snapshot ID: `MjgxNDI3MDIsMDAwMDAwMDA4ZjMyMDc5ZDBlMjE5MmJjY2ZmNzIyYWRlMGUzMDUxZg==`

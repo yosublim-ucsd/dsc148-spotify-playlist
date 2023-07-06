@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nabi in cover.
 
-629 songs - 1 day 3 hr 24 min
+630 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [31st](https://open.spotify.com/track/2cYGl0YTegitLrJ7KY2JJL) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [31st](https://open.spotify.com/album/4fVrooopjNkCeXFgPp0ebl) | 2:34 | 2022-11-03 | 2022-12-01 |
 | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/album/47I5eWAahrkjPWPXXcLcG8) | 3:24 | 2023-04-13 | 2023-05-19 |
 | [44](https://open.spotify.com/track/1n7ihTuG2hh7sjDVfkBXdt) | [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW), [Parker Wave](https://open.spotify.com/artist/5nCRzdYzQAE059xUATEuXF) | [TERANGA](https://open.spotify.com/album/1nlndcx46poggHwuxi6Duf) | 3:06 | 2023-06-22 | 2023-07-05 |
-| [4LIFE](https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [4LIFE](https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw) | 1:56 | 2023-05-25 |  |
+| [4LIFE](https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [4LIFE](https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw) | 1:56 | 2023-05-25 | 2023-07-06 |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-14 | 2022-11-08 |
 | [4Z](https://open.spotify.com/track/5NFRippZpe3fS8Eei8CoBT) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:35 | 2023-05-04 | 2023-05-12 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-10 | 2022-07-20 |
@@ -368,6 +368,7 @@
 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 | 2023-03-16 | 2023-05-26 |
 | [Misère](https://open.spotify.com/track/3HkGR5ajSAUQzghxcSvJFX) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Misère](https://open.spotify.com/album/3VFxZgTwenSCh3e3K5kDEU) | 2:16 | 2022-10-27 | 2022-11-25 |
 | [MODALITÀ AEREO](https://open.spotify.com/track/4R3A9f585qIiPLjquQ5YCR) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [MODALITÀ AEREO](https://open.spotify.com/album/6pdwB2lhmph33c2oeoi0Ep) | 2:14 | 2023-06-29 |  |
+| [Modus Operandi](https://open.spotify.com/track/14Dep7nFNka7vSw00d8pVp) | [Harmann](https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw) | [Modus Operandi](https://open.spotify.com/album/4ytcYFGwDv09QxwjiTZwxG) | 3:31 | 2023-07-05 |  |
 | [Mogio](https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE) | [GROTTO INFERNO](https://open.spotify.com/album/1zyXtWcVBCqJJW7jQTICEb) | 3:10 | 2023-02-16 | 2023-03-18 |
 | [MONCLER](https://open.spotify.com/track/1TXyie8C4lvN2s2c49kuKX) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MONCLER](https://open.spotify.com/album/2qWUY4m5MP4rlXaN7bu8ka) | 2:27 | 2023-04-20 | 2023-05-12 |
 | [Money Up!](https://open.spotify.com/track/2KzcgMKFe948PbcbSmoDWj) | [LIUK](https://open.spotify.com/artist/6xfeQJvxB1JE91mbYegsni), [LLADE](https://open.spotify.com/artist/07O2VDRdhylixj9TZzXSbI) | [BROKEN](https://open.spotify.com/album/1YZCRc6HysR5iXWXPBUM9O) | 2:27 | 2023-03-09 | 2023-03-25 |

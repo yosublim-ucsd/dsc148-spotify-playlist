@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-113 songs - 8 hr 21 min
+114 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [WASH\(ウオッシュ\)](https://open.spotify.com/track/0gZCmzblfShtJTjripDYRz) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 4:31 | 2022-05-24 | 2022-06-07 |
 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 | 2022-05-24 |  |
 | [YOU'RE MY BABY](https://open.spotify.com/track/2vmaqjpCqVaQ990OQXAqCm) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:49 | 2022-05-24 | 2022-07-29 |
-| [YOU'RE MY BABY](https://open.spotify.com/track/6zDgYObuYVCtVWnssw4myl) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:49 | 2022-11-16 | 2023-01-15 |
+| [YOU'RE MY BABY](https://open.spotify.com/track/6zDgYObuYVCtVWnssw4myl) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:49 | 2022-11-16 |  |
 | [あの頃、マリー・ローランサン](https://open.spotify.com/track/2XoJ6LugOXLiRdZSjVCvX3) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [あの頃、マリー・ローランサン](https://open.spotify.com/album/7bWzuMYIphCJ1nEO5Brzjh) | 4:24 | 2022-05-24 | 2022-07-13 |
 | [これは恋ではない](https://open.spotify.com/track/1ByoodGA3kCcnZjkuCfbeQ) | [ピチカート・ファイヴ](https://open.spotify.com/artist/0IQalWuw5NBk1xXG5GK0Bv) | [ベリッシマ](https://open.spotify.com/album/74K58BJS1PKn8rSbs3gqHw) | 4:47 | 2022-05-24 | 2022-07-29 |
 | [さよならのオーシャン \(2022 Remaster\)](https://open.spotify.com/track/3tzbvujZ9eYLYFaFOMic2R) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [35\(+3\) SUMMERS Sugiyama, Kiyotaka Single Collection \-VAP Edition\-](https://open.spotify.com/album/22n8w6HBOyt1qHwloIsJLN) | 4:54 | 2022-06-28 | 2022-07-29 |
@@ -85,13 +85,14 @@
 | [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 | 2022-09-27 | 2023-01-10 |
 | [クルージング・オン](https://open.spotify.com/track/36hvyr5gfBGJ59juRph6EN) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/5dAeCq2fjxzoUSX8HlJrPa) | 4:25 | 2022-05-24 | 2022-07-29 |
 | [グッド・バイ・トランスファー](https://open.spotify.com/track/1bJjNpECiT1CDolSvtoyPJ) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [ニュー・ベスト・ナウ/RAJI](https://open.spotify.com/album/2O5XbDOuyx6cf55J6h8tNs) | 4:19 | 2022-05-24 | 2022-07-29 |
-| [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 | 2022-05-24 |  |
+| [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 | 2022-05-24 | 2023-07-06 |
 | [ストローハットの夏想い](https://open.spotify.com/track/34qHfYkG7xZsc2INlnf2M3) | [Yuki Saito](https://open.spotify.com/artist/3b1ILSjPEq1AXyfmZXkPGr) | [チャイム <リマスター盤>](https://open.spotify.com/album/0KowZMTAsk3v3X9b5LHUUI) | 4:17 | 2022-05-24 | 2022-07-29 |
 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 | 2022-05-24 | 2023-02-05 |
 | [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 | 2022-05-24 | 2022-07-27 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/0ks0jOCQblDOfJnB9gPmN2) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [City Pop Essentials Vol\. 1](https://open.spotify.com/album/4jJFvy7vL4YtVs3RFb7c2N) | 3:59 | 2022-06-28 | 2022-09-11 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [Tea For Tears](https://open.spotify.com/album/4ZU8Zd85xbSpve4xsqynqA) | 3:59 | 2022-05-24 | 2022-07-29 |
-| [テレフォン・ナンバー](https://open.spotify.com/track/5SxrdeIHki6FmlsKj2m8mY) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 3:59 | 2022-06-28 |  |
+| [テレフォン・ナンバー](https://open.spotify.com/track/3kkhLmINLkhrhJMU8zVb2c) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [シティーポップ](https://open.spotify.com/album/1V8DQ5bDaNyFZaRyRkfvsg) | 3:59 | 2023-03-21 |  |
+| [テレフォン・ナンバー](https://open.spotify.com/track/5SxrdeIHki6FmlsKj2m8mY) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 3:59 | 2022-06-28 | 2023-07-06 |
 | [フロントガラス越しに](https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh) | [Kaoru Sudo](https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3) | [PLANETARIUM](https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh) | 4:49 | 2022-05-24 | 2022-07-29 |
 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 | 2022-05-24 |  |
 | [一本の音楽 \- 2020 Remaster](https://open.spotify.com/track/5iFkWXTQadweNDIl6U3xMT) | [Kazuhito Murata](https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd) | [一本の音楽 〜MOON YEARS〜](https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl) | 4:03 | 2022-05-24 | 2022-07-28 |

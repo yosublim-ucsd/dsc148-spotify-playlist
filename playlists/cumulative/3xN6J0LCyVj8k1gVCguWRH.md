@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,383 songs - 5 day 16 hr 34 min
+2,385 songs - 5 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Float](https://open.spotify.com/track/5QbLgve08VuKzPUZyvY3Z3) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Float](https://open.spotify.com/album/1HXxIkeuydNVC6LY782zhl) | 4:08 | 2021-10-11 | 2021-10-27 |
 | [Flower](https://open.spotify.com/track/49r8KQDs5IkIxs10tTBfY2) | [Adom](https://open.spotify.com/artist/5cp4XJR0TgFBtT5jbHk1Dl) | [Flower](https://open.spotify.com/album/7tF4SlJfRqeYsdoA0q4Pf1) | 2:51 | 2022-12-09 | 2023-05-30 |
 | [Flowers](https://open.spotify.com/track/2dT2ng9hFxCMjW0sWhKnqP) | [Edor](https://open.spotify.com/artist/1ULXAsr3CfTmuwvwsJR36a) | [Myself](https://open.spotify.com/album/58YLhewWS1Ri1baYlWerU3) | 2:57 | 2021-06-04 | 2021-06-20 |
+| [Fluir](https://open.spotify.com/track/6wPIQoIh9n8DxhS2CgfyYX) | [Alejandro Kiroz](https://open.spotify.com/artist/2sWBuk5sIyclca1vhHVici) | [Fluir](https://open.spotify.com/album/2G31FUwO4Xvoaq1IgVs7cK) | 4:01 | 2023-07-05 |  |
 | [Fly Mode](https://open.spotify.com/track/2RzoV1EWko8halYEkvUY9l) | [8Nights](https://open.spotify.com/artist/3udSorp353p8aT4mQDGEMW) | [Fly Mode](https://open.spotify.com/album/0AkWfZiXojbswRk2fLDzvP) | 3:11 | 2021-07-10 | 2021-07-25 |
 | [Fly Wizard Fly](https://open.spotify.com/track/2kVwgjg5VJMcKpyAMsv0jD) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Fly Wizard Fly](https://open.spotify.com/album/38w5T1662XSfXfTWEwFQye) | 4:52 | 2021-09-24 | 2021-10-10 |
 | [Flying High \- Carey Clayton Remix](https://open.spotify.com/track/0w3gxBZxhUlB2HM3ngauFy) | [Yellow Shoots](https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY), [Carey Clayton](https://open.spotify.com/artist/5YgelnfjmFp9I6NAP9FH7P) | [Flying High \(Carey Clayton Remix\)](https://open.spotify.com/album/3Jty2A8eatH6UFFgwW0v2j) | 3:38 | 2022-09-30 | 2022-10-18 |
@@ -1320,6 +1321,7 @@
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-21 | 2022-07-07 |
 | [Mastapiece](https://open.spotify.com/track/19eXUrp36r6CEDHWQESwjV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Mastapiece](https://open.spotify.com/album/3sVrGffE8YcDwpYOggsJwr) | 2:58 | 2020-09-02 | 2020-09-16 |
 | [Materialism](https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn) | [Adame](https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y) | [Materialism](https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA) | 3:30 | 2022-03-25 | 2022-04-10 |
+| [Matisyahu](https://open.spotify.com/track/4W0H0IUNl7B51YsxCQM3dH) | [Adam Weinberg](https://open.spotify.com/artist/1S5h7D2kXw2h2Cu4ap6uY9) | [Sees and Sights](https://open.spotify.com/album/5XHZT1DVFjGzauSH31H3zs) | 3:01 | 2023-07-06 |  |
 | [May to September](https://open.spotify.com/track/7wGrUTDzcpJSXT1IozuDyU) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [May to September](https://open.spotify.com/album/13RzfLMPX69BQxcaGUDvA4) | 3:06 | 2022-09-11 | 2022-09-27 |
 | [Maze](https://open.spotify.com/track/5NHEwfiv4tjbUrEO2LkWBj) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Maze](https://open.spotify.com/album/3mD25KhmdgRF6gHwwLKM0Q) | 2:22 | 2020-08-20 | 2020-09-04 |
 | [Mañanas de Cristal](https://open.spotify.com/track/2a6gwFFwQZ4cB6hdSymNMu) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Mañanas de Cristal](https://open.spotify.com/album/67cfgVgz1x1T1Mb9KApm6C) | 3:48 | 2022-03-25 | 2022-04-10 |

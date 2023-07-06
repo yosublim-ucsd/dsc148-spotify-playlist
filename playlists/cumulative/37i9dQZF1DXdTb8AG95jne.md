@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Stella Jang\(스텔라장\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Jeon Jin Hee\(전진희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-581 songs - 1 day 11 hr 34 min
+583 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2021-12-12 |  |
-| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 |  |
+| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 | 2023-07-06 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
@@ -264,7 +264,7 @@
 | [Just As A Lie 거짓말처럼](https://open.spotify.com/track/12rpCeScvPRFTcnKU8Md18) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Short Film 'Sequence \#3'](https://open.spotify.com/album/4N9NQQsJIVX3ftDiFfYJdr) | 4:17 | 2022-03-31 | 2022-04-18 |
 | [Just Can't Say 차마](https://open.spotify.com/track/5KnfD0WLGxFUTcsRpz9w2w) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG 일지](https://open.spotify.com/album/05FPOh1ujz9nUhiKTQmKQZ) | 3:23 | 2022-03-31 | 2022-04-17 |
 | [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 | 2022-08-18 | 2022-09-06 |
-| [Just thinking about you](https://open.spotify.com/track/13z0tjS1JNelA2fEdxRcET) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 3:37 | 2023-04-18 |  |
+| [Just thinking about you](https://open.spotify.com/track/13z0tjS1JNelA2fEdxRcET) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 3:37 | 2023-04-18 | 2023-07-06 |
 | [Keep you there](https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz) | [Penda](https://open.spotify.com/artist/0HTTljEZfygRWNhK4r8pzC) | [In the box](https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb) | 2:27 | 2022-03-31 | 2022-04-20 |
 | [Koh](https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM) | 4:59 | 2021-12-12 | 2022-07-27 |
 | [Koh](https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF) | 4:59 | 2022-07-27 |  |
@@ -387,6 +387,7 @@
 | [Pluto](https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:55 | 2021-12-21 | 2022-07-25 |
 | [Pluto \(feat\. Woshi\)](https://open.spotify.com/track/7EaG6UP4h9EEFrz71ctqgV) | [Waizmin](https://open.spotify.com/artist/0H7VLFkfZZ5i1oEvrWKDBm), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Pluto](https://open.spotify.com/album/2h5lZIXOeoLR0JJ07By9HP) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-07-08 | 2022-07-12 |
+| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 |  |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-06-20 | 2022-06-30 |
 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 | 2022-03-31 | 2022-06-17 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |
@@ -580,6 +581,7 @@
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 |  |
 | [널 지우려 해](https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [여름 감성](https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o) | 3:29 | 2021-12-21 | 2022-06-28 |
 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-03-31 | 2022-04-08 |
+| [떠날까 Should We Leave](https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [아무도 모르게 Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 4:45 | 2023-07-05 |  |
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
 | [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-10 | 2023-01-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 394269,
+  "num_followers": 394494,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzhlMjgxMzhlNDc5NThjYjAwMzhmZjZhMzYxYjZjOGNlNjkxMjhj",
+  "snapshot_id": "MCxjNWFjMWVmMjA2MmZiYWU5ZmNlZDJjYzVjZTQ4ZTU0ZmYyMDg1YWU3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -635,30 +635,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Disappear",
-        "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Tasan",
-          "url": "https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5"
-        }
-      ],
-      "duration_ms": 235859,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Let's Pretend",
         "url": "https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 342857,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Tasan",
+          "url": "https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5"
+        }
+      ],
+      "duration_ms": 235859,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "When the Lights Go Out",
-        "url": "https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "When the Lights Go Out",
-      "url": "https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Knock Knock Remixes",
         "url": "https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 546471,
       "name": "Drone Me Up, Flashy - &ME Remix",
       "url": "https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "When the Lights Go Out",
+        "url": "https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "When the Lights Go Out",
+      "url": "https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Stuck In Melodies",
-        "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
-      },
-      "artists": [
-        {
-          "name": "Joris Delacroix",
-          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Stuck In Melodies",
-      "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Human Aura",
         "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
       },
@@ -1495,22 +1479,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Black Rain (\u00c2me Remix)",
-        "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
+        "name": "Stuck In Melodies",
+        "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
         }
       ],
-      "duration_ms": 352916,
-      "name": "Black Rain - \u00c2me Remix",
-      "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
+      "duration_ms": 211904,
+      "name": "Stuck In Melodies",
+      "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1531,6 +1511,26 @@
       "duration_ms": 241716,
       "name": "Another Brick In The Wall",
       "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Black Rain (\u00c2me Remix)",
+        "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 352916,
+      "name": "Black Rain - \u00c2me Remix",
+      "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "I Feel Love (Monkey Safari Remix)",
-        "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        },
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Chic Loren",
-          "url": "https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM"
-        }
-      ],
-      "duration_ms": 556908,
-      "name": "I Feel Love - Monkey Safari Remix",
-      "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 212180,
       "name": "Disappear - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "I Feel Love (Monkey Safari Remix)",
+        "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        },
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Chic Loren",
+          "url": "https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM"
+        }
+      ],
+      "duration_ms": 556908,
+      "name": "I Feel Love - Monkey Safari Remix",
+      "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1807,6 +1807,22 @@
       "duration_ms": 251465,
       "name": "Balafonerra",
       "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ"
+      },
+      "artists": [
+        {
+          "name": "Ajna (BE)",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ"
-      },
-      "artists": [
-        {
-          "name": "Ajna (BE)",
-          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
-        }
-      ],
-      "duration_ms": 260500,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Never Too Late",
         "url": "https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN"
       },
@@ -1875,6 +1875,26 @@
       "duration_ms": 287039,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Sil Romero",
+          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
+        }
+      ],
+      "duration_ms": 252790,
+      "name": "Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1899,26 +1919,6 @@
       "duration_ms": 414171,
       "name": "Kiss - Colyn & Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6GgbPOVOGcem6CtVbCcR5o"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "Sil Romero",
-          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
-        }
-      ],
-      "duration_ms": 252790,
-      "name": "Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1991,22 +1991,30 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Falling Through the Ceiling",
-        "url": "https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y"
+        "name": "Renegade EP",
+        "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
         },
         {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "Nicolas Masseyeff",
+          "url": "https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv"
+        },
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
         }
       ],
-      "duration_ms": 472131,
-      "name": "Falling Through the Ceiling",
-      "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
+      "duration_ms": 333658,
+      "name": "Renegade - Adam Ten & Mita Gami Remix",
+      "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2035,30 +2043,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Renegade EP",
-        "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
+        "name": "Falling Through the Ceiling",
+        "url": "https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y"
       },
       "artists": [
         {
-          "name": "Parallelle",
-          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
         },
         {
-          "name": "Nicolas Masseyeff",
-          "url": "https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv"
-        },
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Mita Gami",
-          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 333658,
-      "name": "Renegade - Adam Ten & Mita Gami Remix",
-      "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
+      "duration_ms": 472131,
+      "name": "Falling Through the Ceiling",
+      "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Feathers & Bones",
-        "url": "https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 343080,
-      "name": "Synthwave",
-      "url": "https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 209280,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Feathers & Bones",
+        "url": "https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 343080,
+      "name": "Synthwave",
+      "url": "https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lepiej nie m\u00f3wmy nikomu",
-        "url": "https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz"
-      },
-      "artists": [
-        {
-          "name": "Jeszcze",
-          "url": "https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb"
-        }
-      ],
-      "duration_ms": 345585,
-      "name": "Lepiej nie m\u00f3wmy nikomu",
-      "url": "https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lepiej nie m\u00f3wmy nikomu",
+        "url": "https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz"
+      },
+      "artists": [
+        {
+          "name": "Jeszcze",
+          "url": "https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb"
+        }
+      ],
+      "duration_ms": 345585,
+      "name": "Lepiej nie m\u00f3wmy nikomu",
+      "url": "https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2271,6 +2271,22 @@
       "duration_ms": 308934,
       "name": "Take Care - Maz Remix",
       "url": "https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Shades Of Night",
+        "url": "https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 409492,
+      "name": "Shades Of Night",
+      "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2319,22 +2335,6 @@
       "duration_ms": 218900,
       "name": "More Than I Should Know",
       "url": "https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Shades Of Night",
-        "url": "https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 409492,
-      "name": "Shades Of Night",
-      "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX"
-      },
-      "artists": [
-        {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
-        }
-      ],
-      "duration_ms": 291346,
-      "name": "Oracle",
-      "url": "https://open.spotify.com/track/3gJu4keUtRC5e32h64905c"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Yoruba",
         "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 385567,
       "name": "Bocat",
       "url": "https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX"
+      },
+      "artists": [
+        {
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+        }
+      ],
+      "duration_ms": 291346,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/3gJu4keUtRC5e32h64905c"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26572,
+  "num_followers": 26576,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzExNWM3NzE4ZWM3YzdlN2M1NDQ3YjAyOTFhY2U1YTMxMThiMjBj",
+  "snapshot_id": "MCxjODI1ZDU0ZmU4YTU0OTg2NWFkNzEzNDZjNTEyZjc5NGRhMjk2N2Nk",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -291,22 +291,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Un beau grand bateau",
-      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "A Chacun Son Histoire",
         "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 170466,
       "name": "Je n'ai que mon \u00e2me",
       "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Un beau grand bateau",
+      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -419,18 +419,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
       },
       "artists": [
         {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
         }
       ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+      "duration_ms": 242466,
+      "name": "C'est z\u00e9ro",
+      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -455,18 +455,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
       "artists": [
         {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
         }
       ],
-      "duration_ms": 242466,
-      "name": "C'est z\u00e9ro",
-      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "La Collection",
-        "url": "https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX"
-      },
-      "artists": [
-        {
-          "name": "Mitsou",
-          "url": "https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Bye Bye Mon Cowboy - Original Version",
-      "url": "https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Learn French Thru Music",
         "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "La Collection",
+        "url": "https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX"
+      },
+      "artists": [
+        {
+          "name": "Mitsou",
+          "url": "https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Bye Bye Mon Cowboy - Original Version",
+      "url": "https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Coffret 2CD-3",
         "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 327200,
       "name": "Je vais t'aimer",
       "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Lavez, lavez",
+      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Joe Bocan",
-        "url": "https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb"
-      },
-      "artists": [
-        {
-          "name": "Joe Bocan",
-          "url": "https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Repartir \u00e0 z\u00e9ro",
-      "url": "https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Vivre dans la nuit",
         "url": "https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 285333,
       "name": "Vivre dans la nuit - Version Microsillon",
       "url": "https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Joe Bocan",
+        "url": "https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb"
+      },
+      "artists": [
+        {
+          "name": "Joe Bocan",
+          "url": "https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Repartir \u00e0 z\u00e9ro",
+      "url": "https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Premi\u00e8res nuits",
-        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
-      },
-      "artists": [
-        {
-          "name": "Nelson Minville",
-          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Les bras de satan",
-      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les grands succ\u00e8s de Diane Dufresne",
         "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 173080,
       "name": "Un souvenir heureux",
       "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Premi\u00e8res nuits",
+        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
+      },
+      "artists": [
+        {
+          "name": "Nelson Minville",
+          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Les bras de satan",
+      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
     },
     {
       "added_at": "2020-04-07 15:18:18",

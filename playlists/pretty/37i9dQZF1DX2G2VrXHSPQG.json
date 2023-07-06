@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 67104,
+  "num_followers": 67154,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGMxNzA1OTdlODlhN2QyN2U5ZWIyMjA4NTc2MzRlMDIzZDFlOGFk",
+  "snapshot_id": "MCw2NjViOWRjMjRiNmYxZjVhYTdhNGFhMTk1MDI3MjQ3MmQ5NGYxMWM0",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "We Are The Wrecks",
-        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Favorite Liar",
-      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "We Are The Wrecks",
+        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Favorite Liar",
+      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 189115,
-      "name": "Bummerland",
-      "url": "https://open.spotify.com/track/1N2gWqKHFtPSZ0zgoCr8WK"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Imploding The Mirage",
         "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
       },
@@ -919,22 +903,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Night Running",
-      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
+      "duration_ms": 189115,
+      "name": "Bummerland",
+      "url": "https://open.spotify.com/track/1N2gWqKHFtPSZ0zgoCr8WK"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -967,6 +947,26 @@
       "duration_ms": 217633,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Night Running",
+      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
     },
     {
       "added_at": "2022-02-04 05:01:00",

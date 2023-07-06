@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,002 songs - 22 hr 33 min
+1,004 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Gaze](https://open.spotify.com/track/1JYETWYwTMO5RTKHj0rhQx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:02 | 2022-03-02 |  |
 | [Gazing Above](https://open.spotify.com/track/2m2FXP1aGNvQ5DlEPcKCVo) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Dreams Of Grace](https://open.spotify.com/album/7e6o35zGi3vOPWNyET7BCE) | 1:01 | 2022-04-19 |  |
 | [Gazing Towards The Sky](https://open.spotify.com/track/4awAMEKytUSE7r5j4d5XXs) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Gazing Towards The Sky](https://open.spotify.com/album/11AvT7xDlcFEwP50VQqRfU) | 1:00 | 2022-06-18 |  |
+| [Gazing Up](https://open.spotify.com/track/65BrSKwNrvW8jADQQSWpMg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
 | [Gentle Fall \- Strings Version](https://open.spotify.com/track/7IV4JK8YpM3bLSBkSVEzzC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Gentle Fall \(Strings Version\)](https://open.spotify.com/album/6Kib3hpGjGZWR1gDYA7OJj) | 1:00 | 2023-01-29 |  |
 | [Gentle Flight](https://open.spotify.com/track/4q7FJ0Xiftijp3gmwau2n1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
 | [Gentle Flow](https://open.spotify.com/track/3yMd7RKJgrQn7o2BXjHjLy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:43 | 2022-01-12 |  |
@@ -452,6 +453,7 @@
 | [Hope And Peace](https://open.spotify.com/track/4X34K91bhS4fHYogBQq70K) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hope And Peace](https://open.spotify.com/album/1TKSEHhPYQYlgfUITrnoq0) | 1:02 | 2022-08-31 |  |
 | [Hope Is True](https://open.spotify.com/track/2YiNveOYT0UOl5wRzYPSsQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:06 | 2022-03-03 |  |
 | [Hope Together](https://open.spotify.com/track/15mcPR1p3hWTcjKTxHdXEy) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Hope Together](https://open.spotify.com/album/6rkocIimpyqAeyHVj2Du8t) | 1:01 | 2023-04-08 |  |
+| [Hopeful Moment](https://open.spotify.com/track/773R4yXjSiFMcuXSGa4pwo) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
 | [Hoping Once Again](https://open.spotify.com/track/0H6gTW4pXekohMH881nYHt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:05 | 2022-01-21 |  |
 | [Horizon](https://open.spotify.com/track/0oeMXEnsH1nfxUfJwnynPc) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Acoustic Dreaming](https://open.spotify.com/album/1qAEg7hOM7ha7KDhmD2HjA) | 3:34 | 2022-01-12 |  |
 | [Horizon Beauty](https://open.spotify.com/track/0L7IMxGj5RyDBmihXXU6WZ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Harp Ambience](https://open.spotify.com/album/2c4j85kdUZni7cXlfYmzid) | 1:02 | 2022-03-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 70923,
+  "num_followers": 70971,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDQ3OGViNTBjZTY2N2JhOWVlNWRkNDI4ZmVmNzIzNGY2ZjVmZTMy",
+  "snapshot_id": "MCxiNGMwYTI5NjFiYmM3YTdlMmRjODBjMDQ3ZDZiODM3MzRlYzA0Mjk4",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "She Likes My Tattoos",
-        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT"
       },
       "artists": [
         {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 164327,
-      "name": "She Likes My Tattoos",
-      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
+      "duration_ms": 237643,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT"
+        "name": "She Likes My Tattoos",
+        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
         }
       ],
-      "duration_ms": 237643,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-19 14:21:26",
       "album": {
-        "name": "Heaven Without You",
-        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Heaven Without You",
-      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
-    },
-    {
-      "added_at": "2023-05-19 14:21:26",
-      "album": {
         "name": "PARTY ON MY DEATHBED",
         "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 208125,
       "name": "PARTY ON MY DEATHBED",
       "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
+    },
+    {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
       "added_at": "2022-08-16 22:06:35",

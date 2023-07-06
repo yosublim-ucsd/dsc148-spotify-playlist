@@ -1,13 +1,141 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Sen Morimoto Artwork: Joy Yamusangie",
-  "num_followers": 189958,
+  "num_followers": 190186,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODZmMDhkMWRiYTEyNDY5OTllYTkxODIxYzg5NzgwMTQwYmE0NDBm",
+  "snapshot_id": "MCwzMDJiNjA5YjgzYTYyNTg3MDJiMDhjNjY3ZmI3YzgzMmI1NDU2MDBi",
   "tracks": [
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/2lzZqB8DkojM5aveh3kiOv"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        },
+        {
+          "name": "Gallowstreet",
+          "url": "https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/2yy21cjv5ZPgYvUaFfZASZ"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4cl4iGS3sCdPg2UrrT75Ho"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Nicky Manuputty",
+          "url": "https://open.spotify.com/artist/1O9pkJRFRbdwy1yKCOyh9k"
+        }
+      ],
+      "duration_ms": 202590,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "Why Does",
+        "url": "https://open.spotify.com/album/2dB6cHDNbx4HLOAnf5XyeT"
+      },
+      "artists": [
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "duration_ms": 179402,
+      "name": "Why Does",
+      "url": "https://open.spotify.com/track/1AwNNpDDwp4vAx5EQPE5jE"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/1wJnaydtMwsQRYRsOocKl8"
+      },
+      "artists": [
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "For My Friends",
+      "url": "https://open.spotify.com/track/0Zfxv0tCAxVFTHgeXA42U8"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "Lessonlearned.",
+        "url": "https://open.spotify.com/album/6kikwPRp8G9RNFEe43RyMa"
+      },
+      "artists": [
+        {
+          "name": "Vacatixn",
+          "url": "https://open.spotify.com/artist/1h2xojy2oXiKOh0g2fi9IE"
+        }
+      ],
+      "duration_ms": 384287,
+      "name": "Lessonlearned.",
+      "url": "https://open.spotify.com/track/24avbxBHzoXBCoAgNlHIw2"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "Tame It",
+        "url": "https://open.spotify.com/album/3lQBGb4hCkJ5HCdXOrh7Hn"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "KiliHippie",
+          "url": "https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX"
+        }
+      ],
+      "duration_ms": 215509,
+      "name": "Tame It",
+      "url": "https://open.spotify.com/track/36LrjOrsZpubA8Lh5PnIGw"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "The Never Acting Story",
+        "url": "https://open.spotify.com/album/4DJ6qNMI5lyYkLkq4nVHDQ"
+      },
+      "artists": [
+        {
+          "name": "Brass Riot",
+          "url": "https://open.spotify.com/artist/3Um2PBlg2zLQYqQG4HVwxC"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "What About?",
+      "url": "https://open.spotify.com/track/40jaosNsS1V06x5u18jBuN"
+    },
     {
       "added_at": "2023-06-28 04:00:00",
       "album": {
@@ -1343,38 +1471,6 @@
       "duration_ms": 332205,
       "name": "Venango",
       "url": "https://open.spotify.com/track/1F1uCJIJeldjVC5E3ukStK"
-    },
-    {
-      "added_at": "2023-06-07 04:00:00",
-      "album": {
-        "name": "Ethio Meditations / Drama Al Dente",
-        "url": "https://open.spotify.com/album/3aJ6WC88KrPsCyP4xfIRQq"
-      },
-      "artists": [
-        {
-          "name": "JJ Whitefield",
-          "url": "https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S"
-        }
-      ],
-      "duration_ms": 122157,
-      "name": "Sebat",
-      "url": "https://open.spotify.com/track/2FA4IGSPKrF8y8j7HJmaNJ"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Move Your feet",
-        "url": "https://open.spotify.com/album/1mn5we144aTJIGloiqqHom"
-      },
-      "artists": [
-        {
-          "name": "Michael Valeanu",
-          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
-        }
-      ],
-      "duration_ms": 329042,
-      "name": "Virginia",
-      "url": "https://open.spotify.com/track/5lgoMrd7B6pusfMlwzGcYO"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

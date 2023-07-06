@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- AvoidRafa
 
-223 songs - 19 hr 22 min
+224 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Nitol Paye](https://open.spotify.com/track/44NjxYASrwY5FNO89NmUAh) | [Fuad](https://open.spotify.com/artist/3my0yG4y3f4CnxDiFzApeD), [Rajib](https://open.spotify.com/artist/25uAaPSBBQVyqBslErnSuA) | [Best of Fuad, Vol\. 2](https://open.spotify.com/album/4MEDHrD390pgfZB6rOxOF5) | 4:36 | 2023-02-17 | 2023-04-04 |
 | [NITTOJIBON](https://open.spotify.com/track/3GEdr4Fl6rmniWZwqqsKBH) | [IMPLICIT](https://open.spotify.com/artist/6yvVDi2Uw3tVYOkhXiI9Gk) | [NITTOJIBON](https://open.spotify.com/album/4Tkpkg64IlY4vljFqPHua7) | 6:05 | 2022-09-09 | 2023-01-21 |
 | [Obak](https://open.spotify.com/track/5qZE8vsRIm5zeMGqcs4cp1) | [Invaders](https://open.spotify.com/artist/072YOPgJBQASwnyXY6tlP6) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:14 | 2022-06-16 | 2023-02-23 |
-| [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 | 2023-02-17 |  |
+| [Obak Bhalobasha](https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pothchola](https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA) | 7:19 | 2023-04-28 |  |
+| [Obak Bhalobasha \(Sob Aalo Nibe Ja\)](https://open.spotify.com/track/74MnX5SrkGB6Y9LsmQvZSQ) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 7:21 | 2023-02-17 | 2023-07-06 |
 | [Obhiman](https://open.spotify.com/track/3DK8pt5Ky1Ii4QblF5iBsI) | [Black](https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:36 | 2023-02-17 |  |
 | [Obhimaner Nokkhotro](https://open.spotify.com/track/0LmP1YYlOgQL5OHAseNf4Z) | [Noxious Traitor](https://open.spotify.com/artist/6Rlz8NF2OkYQFurkYs4OQY) | [Obhimaner Nokkhotro](https://open.spotify.com/album/1jjUZ6Dpbmds029jPnGFJS) | 6:13 | 2023-01-20 | 2023-04-04 |
 | [Obosh Onubhutir Deyal](https://open.spotify.com/track/15mPQDFh8mWD9zh32XXkTw) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 6:48 | 2023-02-17 | 2023-04-04 |

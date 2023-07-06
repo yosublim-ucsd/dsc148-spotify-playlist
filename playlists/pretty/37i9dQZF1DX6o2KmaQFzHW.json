@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 168892,
+  "num_followers": 168972,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2RiYzZkYmYxMzU3NWFkZjUxZGM3ZGNiY2QxMTc2ODE2NjQzZjI4",
+  "snapshot_id": "MCxiOWQyM2JiNjNjZjE5NWFmNzhkMDQ0OWE3MGM1MTM1YjM0MWFkODFj",
   "tracks": [
     {
       "added_at": "2023-06-22 19:04:10",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Ckayna Cunan, Vol. 2",
         "url": "https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 218600,
       "name": "Bajo la Sombra de un \u00c1rbol",
       "url": "https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
+        "name": "Avenido",
+        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
       },
       "artists": [
         {
-          "name": "Cuti y Roberto Carabajal",
-          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
+          "name": "Aca Seca Trio",
+          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
         }
       ],
-      "duration_ms": 179722,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
+      "duration_ms": 118773,
+      "name": "Maric\u00f3n",
+      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -795,34 +795,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Cuti y Roberto Carabajal",
+          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Avenido",
-        "url": "https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM"
-      },
-      "artists": [
-        {
-          "name": "Aca Seca Trio",
-          "url": "https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA"
-        }
-      ],
-      "duration_ms": 118773,
-      "name": "Maric\u00f3n",
-      "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
+      "duration_ms": 179722,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -855,6 +839,22 @@
       "duration_ms": 163004,
       "name": "El Que Toca Nunca Baila",
       "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Signos",
         "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 170160,
       "name": "La Descre\u00edda",
       "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Ay Vidita",
-      "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 272986,
       "name": "Sue\u00f1ero",
       "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Ay Vidita",
+      "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
-        "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
       },
       "artists": [
         {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
         }
       ],
-      "duration_ms": 182080,
-      "name": "No Te Puedo Olvidar",
-      "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
+      "duration_ms": 213440,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1231,6 +1215,22 @@
       "duration_ms": 197933,
       "name": "La Oma",
       "url": "https://open.spotify.com/track/33m167IeZBbft2xQOuqjX3"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
+        "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Por Siempre....",
-        "url": "https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Jazm\u00edn de Luna",
-      "url": "https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
         "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
         "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 770851,
       "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
       "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 293186,
+      "name": "La Tempranera",
+      "url": "https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ"
     },
     {
       "added_at": "2023-06-22 19:04:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121 likes - 26 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124 likes - 26 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 20 | [Trepanation](https://open.spotify.com/track/79Sx3cIdMZNYxIpJX27O4P) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:29 |
 | 21 | [Paranoid Hands](https://open.spotify.com/track/7s0E7MQg8ius1ygr0NndJs) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:45 |
 | 22 | [Bulma](https://open.spotify.com/track/3R7Gy621ZWHLd8kYl9Bz6s) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Bulma \- Single](https://open.spotify.com/album/3q0oPKvM3rcpuGY8nOvWc4) | 2:51 |
-| 23 | [Ponderosa Sun Club](https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:56 |
+| 23 | [Stuttering Stanley](https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:10 |
 | 24 | [Fine Day](https://open.spotify.com/track/3RLBhVe1eGn1npfJbR8kCM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 5:25 |
 | 25 | [Satellite](https://open.spotify.com/track/3No5gkFfVh2zW59XT67aNY) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Coursing Through](https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX) | 4:18 |
-| 26 | [Stuttering Stanley](https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:10 |
+| 26 | [Ponderosa Sun Club](https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:56 |
 
-Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDA4Njk0YWNjYzAwOWE2MDU3OWYzZmFmOWYxNzQ4M2U5NA==`
+Snapshot ID: `MjgxNDI3MDIsMDAwMDAwMDAxMmI5YjViMTc3YTM2ZDEyN2YwN2M5OTA4Njk3ZjIyZg==`

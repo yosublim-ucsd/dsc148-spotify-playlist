@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-314 songs - 15 hr 47 min
+315 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Sharks](https://open.spotify.com/track/2BWAkwnvTjLAyQzQteVUXE) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Sharks](https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV) | 3:10 | 2023-03-07 |  |
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-15 | 2023-04-28 |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 | 2023-04-28 |
+| [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/17gEZfnDOMRVsb8Wq5Rilu) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-07-05 |  |
 | [Sinking Ship](https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq) | [Sinking Ship](https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs) | 2:44 | 2022-11-01 |  |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-04-28 |

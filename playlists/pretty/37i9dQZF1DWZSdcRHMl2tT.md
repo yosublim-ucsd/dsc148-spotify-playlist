@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,952 likes - 240 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,191 likes - 240 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 137 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 |
 | 138 | [paloma beach](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [paloma beach](https://open.spotify.com/album/3ZtcDAqw3gck5JsDq8gkNv) | 4:02 |
 | 139 | [Wanderlust](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Wanderlust](https://open.spotify.com/album/4K9NFfOF2AfatXDGTmF56W) | 2:27 |
-| 140 | [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 |
+| 140 | [A Moment Away](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/5JBuR3SpFu5Wsnbtg1f7nQ) | 2:56 |
 | 141 | [Sun Soaked](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Sun Soaked](https://open.spotify.com/album/7oa0OP3sKJEL0q4pmDbvbg) | 2:20 |
 | 142 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
 | 143 | [Sunset In Miami](https://open.spotify.com/track/3P1f3w1gl4K88om3T9WwOi) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Sunset In Miami](https://open.spotify.com/album/7zYANoblZ4Qvoupmc69vgJ) | 2:45 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 239 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 240 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MCw0OWUxYWE3ZTExMDIwZDg4MjhjMDQzNTE3ODY1MGI0MjY0ODBiMGY4`
+Snapshot ID: `MCwzNGZkMTYyYTFiYjE1NWYyMGY2ZmQ3MzZmZGVjNTcyYTMzMmEwNDI1`

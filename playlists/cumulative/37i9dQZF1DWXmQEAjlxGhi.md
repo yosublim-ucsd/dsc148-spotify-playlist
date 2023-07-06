@@ -4,7 +4,7 @@
 
 > Upbeat Latin songs to keep your heart rate up.
 
-298 songs - 16 hr 38 min
+299 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-10-07 |  |
 | [Gettin’ Fit](https://open.spotify.com/track/2vb5k5QNY9CPTXQsIalRus) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [Don Dirty](https://open.spotify.com/artist/6Nnz02WlFCIz3hz2oYH8b8) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 3:18 | 2022-07-21 | 2022-09-02 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2022-07-21 |  |
+| [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 | 2023-06-08 |  |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-07-21 | 2023-06-28 |
 | [GOTA GOTA](https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [GOTA GOTA](https://open.spotify.com/album/2ua6Bo808O7PYttNeBNYD1) | 3:50 | 2021-12-09 | 2022-07-22 |
 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 | 2022-08-01 | 2022-08-17 |
@@ -199,7 +200,7 @@
 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 | 2022-07-21 | 2022-10-28 |
 | [Pa' Lante](https://open.spotify.com/track/24wIxeVejXRhYJPrOFpJbg) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Pa' Lante](https://open.spotify.com/album/03oX3KPyi8ydzOaMNTpX0N) | 2:54 | 2021-12-09 | 2022-07-22 |
 | [PA' ROMPERLA](https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:14 | 2022-07-21 | 2022-08-02 |
-| [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-07-21 |  |
+| [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-07-21 | 2023-07-06 |
 | [Pal Suelo](https://open.spotify.com/track/1fp3eCxNkeUr8G41yUs44w) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO), [Che Antonio](https://open.spotify.com/artist/61n81KpmKaGh9IHaZZe63V) | [Pal Suelo](https://open.spotify.com/album/1xknVOqEaNugsWTXUXft7X) | 2:55 | 2022-07-21 | 2022-11-13 |
 | [PAM](https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAM](https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U) | 3:21 | 2021-12-09 | 2022-07-22 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-02-11 |  |

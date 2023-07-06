@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 149068,
+  "num_followers": 149075,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjViNmVjNzk5NGQwMzJiNTUzNDdkOGM0YTliYTQwMDc1ZTdlZTlh",
+  "snapshot_id": "MCxkYmM0ZDZlNGMxODQ4OTg0ZDI5OTBkZWE0MjljMmVjZWE1OTBhMTky",
   "tracks": [
     {
       "added_at": "2023-06-23 03:01:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "Idas e Vindas",
         "url": "https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 238763,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -747,30 +747,26 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Rosa Mosqueta",
-        "url": "https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm"
+        "name": "Nossa Viagem",
+        "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
       },
       "artists": [
         {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+          "name": "MARCELA",
+          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
         },
         {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+          "name": "Lucas Laypold",
+          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
         },
         {
-          "name": "Kadri",
-          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
         }
       ],
-      "duration_ms": 198247,
-      "name": "Rosa Mosqueta",
-      "url": "https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds"
+      "duration_ms": 156800,
+      "name": "Nossa Viagem",
+      "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -811,26 +807,30 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Nossa Viagem",
-        "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
+        "name": "Rosa Mosqueta",
+        "url": "https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm"
       },
       "artists": [
         {
-          "name": "MARCELA",
-          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
         },
         {
-          "name": "Lucas Laypold",
-          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "Kadri",
+          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Nossa Viagem",
-      "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
+      "duration_ms": 198247,
+      "name": "Rosa Mosqueta",
+      "url": "https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
         "name": "Nada Comum",
         "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
       },
       "artists": [
         {
           "name": "Lontraz",
           "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
         }
       ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -1403,18 +1399,22 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
       "artists": [
         {
           "name": "Lontraz",
           "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-06-23 03:01:00",

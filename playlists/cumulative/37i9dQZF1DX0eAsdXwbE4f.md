@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-122 songs - 5 hr 17 min
+124 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Fåglar i Regn](https://open.spotify.com/track/76DI4bKgwhIFC7lQ5CTr5m) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Fåglar](https://open.spotify.com/album/0UF685ROQzeXZelWiT4nwc) | 3:26 | 2021-11-11 |  |
 | [garden escape](https://open.spotify.com/track/1laSIfJvQhSJ9gL2GpS3ar) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [lo\-fly zone](https://open.spotify.com/album/5InjXAxHwEjzZX9iAtt5c2) | 2:40 | 2021-11-11 |  |
 | [Green Noise \- Early Summer Birds](https://open.spotify.com/track/2K0J7mQTEpY1Vhus3usBT4) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:19 | 2023-06-20 | 2023-07-01 |
+| [Happy Birds \- Soothing Rain](https://open.spotify.com/track/72S28nw8QKEdn46zsqkk1u) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:01 | 2023-06-20 |  |
 | [Heavy Rain](https://open.spotify.com/track/2TELIKNRpPNkMSnuSq1XNj) | [The Rain Factory](https://open.spotify.com/artist/49vl57hBAlm48azTd4iCsN) | [Sleep Rain](https://open.spotify.com/album/17xuXcpMcRLHGbUb7AsUrs) | 3:30 | 2021-11-11 |  |
 | [Hummingbird Song](https://open.spotify.com/track/7r79M5K5fyQtCaHV42XyKa) | [Al Watts](https://open.spotify.com/artist/3rO74EVuCb94fxyCJk1aYx) | [Hummingbird Song](https://open.spotify.com/album/1fwsA7tNImY1FXpDgTxFFZ) | 2:38 | 2021-11-11 |  |
 | [In Harmony with the Rain](https://open.spotify.com/track/5KIFUG7h4FZGEDvAvLTbqX) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Forest Rain](https://open.spotify.com/album/1Yo5Dg0KY1Ic4fDOPKYR6s) | 2:54 | 2021-11-11 |  |
@@ -67,6 +68,7 @@
 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 | 2021-11-11 |  |
 | [Mellow Forest Rain](https://open.spotify.com/track/2bTcONpqEDdYvaFmJQWuEI) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:48 | 2021-11-11 |  |
 | [Mellow Steady Rain](https://open.spotify.com/track/4yFWl1nJiNwKSZNYTf6lPj) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:25 | 2021-11-11 |  |
+| [Midsummer Forest](https://open.spotify.com/track/22bstsbf8kicxWIcp5lfXu) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:52 | 2023-06-20 |  |
 | [Mori no Tori](https://open.spotify.com/track/5brFjtlGhCNhDXkfquy4qY) | [Shiroma Rin](https://open.spotify.com/artist/6vmqYwwLNH5NtbQzMSKDV9) | [Mori no Tori](https://open.spotify.com/album/382q3YGgFS4MfQ7PPoeODm) | 2:13 | 2023-06-20 |  |
 | [Morning Glory \- Rain & Birds](https://open.spotify.com/track/1HI5Uc6JRIhMgyngerFaNS) | [Nature Sound Designer](https://open.spotify.com/artist/7iXPrSY7jJniwLawoqPMNQ) | [Morning Glory \- Rain & Birds](https://open.spotify.com/album/6Afo2S4HGSNqogsYywwEyX) | 2:47 | 2021-11-11 |  |
 | [Nap In The Rain](https://open.spotify.com/track/6GB1I9WVvjrWhDgOI595mS) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Drops Coming Down](https://open.spotify.com/album/1T3VkxiXiDshgFu3J0ymhi) | 2:38 | 2021-11-11 |  |
@@ -101,7 +103,7 @@
 | [Rainforest Bird Songs](https://open.spotify.com/track/14jB7OqCZ395Oopbo6kVdk) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Bird Showers](https://open.spotify.com/album/2u6TpPMlbL9S7v8suCplxU) | 3:26 | 2021-11-11 |  |
 | [Rainwoods](https://open.spotify.com/track/7IgNXFcFSczlfUt1xlX9wJ) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [Rainwoods](https://open.spotify.com/album/7icK7OfhqEdGLm8NcGxcqt) | 2:31 | 2021-11-11 |  |
 | [Rainy Busy Forest](https://open.spotify.com/track/3cIVjUmW1mlRi7TX6bhj43) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds and animals in the rain](https://open.spotify.com/album/7FPQhpj3KzZyQ0xmg2Cccn) | 2:00 | 2021-11-11 |  |
-| [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 | 2021-11-11 |  |
+| [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 | 2021-11-11 | 2023-07-06 |
 | [Rainy Woods](https://open.spotify.com/track/1ikgmjVBJrRR6dqstOpPFK) | [Relax, Bro](https://open.spotify.com/artist/2458EUzcZaoFEJInzQBRag) | [Totally Relaxed Rain](https://open.spotify.com/album/231fpoQIPhRRtmKLboGAXf) | 3:00 | 2021-11-11 |  |
 | [Red Iory Rain](https://open.spotify.com/track/6qIeToUmh9jQunxiF2Vbyh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Red Iory Rain](https://open.spotify.com/album/02W5Op73s3MSj0DzDvKoYW) | 3:03 | 2021-11-11 |  |
 | [Rich Rain Bird](https://open.spotify.com/track/48r69Zr1t0h6Y0yFWgHj9O) | [Natural Nature Makers](https://open.spotify.com/artist/1Rbya7c6FqWC3L0UBCXpbv) | [Rich Rain Bird](https://open.spotify.com/album/7MvrD43usHTvHwfo5FAgnc) | 2:42 | 2022-03-29 |  |
@@ -116,7 +118,7 @@
 | [Steady Rain](https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Nature Rain Relaxation](https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq) | 2:32 | 2021-11-11 |  |
 | [Sunrise Rain](https://open.spotify.com/track/53rgt9RGYjz7UPc2Ky7jOE) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Spring Shower](https://open.spotify.com/album/5DKeccfYs8fSrLCcOBMeFK) | 2:32 | 2021-11-11 |  |
 | [Sweet Birds In A Gentle Rain](https://open.spotify.com/track/3nATDQI5yVwcWnmXK1rIOF) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Rain At The Cabin](https://open.spotify.com/album/0dgI67Y47ZFe3uPV2ZiZme) | 2:47 | 2021-11-11 |  |
-| [Tears & Birds](https://open.spotify.com/track/34m5b7X00OIGsjoS2J41He) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds In Rain Sounds](https://open.spotify.com/album/7FNqm12dXIkN0wEO3zHGPc) | 2:44 | 2022-02-21 |  |
+| [Tears & Birds](https://open.spotify.com/track/34m5b7X00OIGsjoS2J41He) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds In Rain Sounds](https://open.spotify.com/album/7FNqm12dXIkN0wEO3zHGPc) | 2:44 | 2022-02-21 | 2023-07-06 |
 | [Tears Of The Forest](https://open.spotify.com/track/0TdSCKvCw5qdBXxsq4WWwu) | [Prince Of Rain](https://open.spotify.com/artist/4KIDGYa47TH7JkljHMSdZY) | [Purple Rain](https://open.spotify.com/album/3VRK3ZzHmENFBSlj4EygBq) | 2:40 | 2021-11-11 |  |
 | [The Song of the Forest](https://open.spotify.com/track/5pZDF7FY9bG7KRjpFDbGqK) | [Scarlett Lawrence](https://open.spotify.com/artist/5mh0L0HCHFNmAtyupohGli) | [The Song Of The Forest](https://open.spotify.com/album/4dNIFJAySNtuxNHaFWXAt8) | 2:28 | 2021-11-11 |  |
 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [I See Rainbows](https://open.spotify.com/artist/3gsxqVDwafHaGerSAf235l) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 | 2021-11-11 |  |

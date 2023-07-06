@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad\">Guvna B</a>",
-  "num_followers": 51521,
+  "num_followers": 51655,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2ZmZDNjMjc5Y2JlOWY5NjJlM2Y5MTdhYWYzMzBiMmQzYzNkMWNi",
+  "snapshot_id": "MCw0NTU5ZjBlYzA2ZWEyZDZmMjhlZmEzYzUxYzQyZWIwNTVkMTllOTBl",
   "tracks": [
     {
       "added_at": "2023-05-19 08:55:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6P176G2hogYm9WEFbgxfdB"
-      },
-      "artists": [
-        {
-          "name": "Lamboginny",
-          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
-        }
-      ],
-      "duration_ms": 216610,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5UAp4tXcolMuCWfW5Mrkro"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184000,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6P176G2hogYm9WEFbgxfdB"
+      },
+      "artists": [
+        {
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
+        }
+      ],
+      "duration_ms": 216610,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5UAp4tXcolMuCWfW5Mrkro"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Ike",
-        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
-      },
-      "artists": [
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 229363,
-      "name": "Ike",
-      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 233128,
       "name": "I No Send",
       "url": "https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Ike",
+        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 229363,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1135,18 +1135,26 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Omo Baba",
-        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
       },
       "artists": [
         {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
         }
       ],
-      "duration_ms": 195446,
-      "name": "Omo Baba",
-      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1171,26 +1179,18 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
+        "name": "Omo Baba",
+        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
       },
       "artists": [
         {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "O'Tobi",
-          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
-        },
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
         }
       ],
-      "duration_ms": 176788,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
+      "duration_ms": 195446,
+      "name": "Omo Baba",
+      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Jah!",
         "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Kulosa Gospel Cover (Remix)",
-        "url": "https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO"
-      },
-      "artists": [
-        {
-          "name": "elnazor Obi",
-          "url": "https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7"
-        }
-      ],
-      "duration_ms": 77419,
-      "name": "Kulosa Gospel Cover - Remix",
-      "url": "https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 196530,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Kulosa Gospel Cover (Remix)",
+        "url": "https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO"
+      },
+      "artists": [
+        {
+          "name": "elnazor Obi",
+          "url": "https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7"
+        }
+      ],
+      "duration_ms": 77419,
+      "name": "Kulosa Gospel Cover - Remix",
+      "url": "https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "GOD'S LOVE",
-        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 137064,
-      "name": "GOD'S LOVE",
-      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 219088,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "GOD'S LOVE",
+        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 137064,
+      "name": "GOD'S LOVE",
+      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1623,6 +1623,26 @@
       "duration_ms": 180586,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
+      },
+      "artists": [
+        {
+          "name": "Michael Oyo",
+          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1683,26 +1703,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
-      },
-      "artists": [
-        {
-          "name": "Michael Oyo",
-          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
-        },
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "Concussion",
         "url": "https://open.spotify.com/album/7G0COo6oAAHrgLidUnr07I"
       },
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
+      },
+      "artists": [
+        {
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 132662,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Regardless",
         "url": "https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE"
       },
@@ -1771,26 +1791,6 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
-      },
-      "artists": [
-        {
-          "name": "Phontera",
-          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 132662,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1807,26 +1807,6 @@
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Show Dem",
-        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
-      },
-      "artists": [
-        {
-          "name": "Paul Chisom",
-          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
-        },
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 206897,
-      "name": "Show Dem",
-      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1851,26 +1831,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
-        "name": "Efficient",
-        "url": "https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2"
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
       },
       "artists": [
         {
-          "name": "Ealle",
-          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+          "name": "Paul Chisom",
+          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         }
       ],
-      "duration_ms": 164702,
-      "name": "Efficient",
-      "url": "https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o"
+      "duration_ms": 206897,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1891,6 +1867,30 @@
       "duration_ms": 152730,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
+        "name": "Efficient",
+        "url": "https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "duration_ms": 164702,
+      "name": "Efficient",
+      "url": "https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o"
     },
     {
       "added_at": "2023-05-19 08:55:16",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2023-05-19 08:55:16",
       "album": {
+        "name": "Made Whole",
+        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
+      },
+      "artists": [
+        {
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Made Whole",
+      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
+    },
+    {
+      "added_at": "2023-05-19 08:55:16",
+      "album": {
         "name": "Relief",
         "url": "https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 157309,
       "name": "Relief",
       "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
-    },
-    {
-      "added_at": "2023-05-19 08:55:16",
-      "album": {
-        "name": "Made Whole",
-        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
-      },
-      "artists": [
-        {
-          "name": "Gil Joe",
-          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Made Whole",
-      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
     },
     {
       "added_at": "2023-05-19 08:55:16",

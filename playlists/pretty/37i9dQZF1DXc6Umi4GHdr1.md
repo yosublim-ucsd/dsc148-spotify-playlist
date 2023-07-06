@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,590 likes - 107 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,599 likes - 107 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 106 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
 | 107 | [Ungebunden](https://open.spotify.com/track/6gzhnN8gcWTyyU9TRAEyCP) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Ungebunden](https://open.spotify.com/album/4kmDAFoVpyDrDN70opmXnY) | 1:37 |
 
-Snapshot ID: `MCw2NGRiZjQ2ZDA4ZmRkNzhmMWI0ODFkZjZkZGU1OTk4NWZkN2Y3M2M4`
+Snapshot ID: `MCwyNzVjNzNmZmQ2YjYzOGUyZTVmYzI3ODQ2MjllNzcxNjg5MDI1Mzli`

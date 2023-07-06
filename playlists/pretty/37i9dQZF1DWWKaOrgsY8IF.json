@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 127864,
+  "num_followers": 127885,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjBlM2MyNDc3MGE2M2NkMDgyYjZmYWRjODk0MmI5YTJlNGNkOGNh",
+  "snapshot_id": "MCwwOWJhYTAxN2NmNWMwZmIyNWYxZDQ2MTZjMTA3M2I5MjE5MjIyZjc4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Ma\u00f1ana Es Too Late",
-      "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Uebe",
         "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 174291,
       "name": "Se iluminaba",
       "url": "https://open.spotify.com/track/3VPOZWtj8mM89IiRNygxgS"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Ma\u00f1ana Es Too Late",
+      "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
     },
     {
       "added_at": "2020-12-01 05:03:00",

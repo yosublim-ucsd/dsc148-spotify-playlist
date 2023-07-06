@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,399 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,423 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 16 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
 | 17 | [Bounce \(feat\. G Herbo\)](https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Bounce](https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU) | 3:08 |
 | 18 | [FW That](https://open.spotify.com/track/58OdIGfSTryDan1F5MMVEe) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [GHETTO](https://open.spotify.com/album/5DRNvP8Rd9gyFDxNop2eYI) | 2:38 |
-| 19 | [NO BAP](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [NO BAP](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
+| 19 | [No Bap](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [No Bap](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
 | 20 | [NECK TAT](https://open.spotify.com/track/4uc2kcLYBb7pOU99qEDLBR) | [Freddy Got Magic Supa Bwe](https://open.spotify.com/artist/5QZEw4oqiQ98Ygqgu8dJ8i), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D) | [NECK TAT](https://open.spotify.com/album/01QZw9AcDKefG2gMTHET9F) | 2:29 |
 | 21 | [Grocery Freestyle](https://open.spotify.com/track/6POpagXwotnNvqBTjD7uez) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Grocery Freestyle](https://open.spotify.com/album/786kdQmaDyMSLBemNzzoDM) | 3:01 |
 | 22 | [Hoes Mad](https://open.spotify.com/track/6LuTYXUNsmc7SalIfIR9Vc) | [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI), [Chrishan](https://open.spotify.com/artist/454dNdHX9g5srLyya64MaN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Heatwave](https://open.spotify.com/album/1yxmOWSFNk1xDphaipVGR3) | 2:33 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 55 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 |
 | 56 | [Let Down My Guard](https://open.spotify.com/track/35fpJrAudPdQL0ToRhavUN) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:12 |
 
-Snapshot ID: `MCxmMzM5OTIzODdhNjI3MDc1OWI5Mzc2YTdmNmU3NmMwMzdjYTFhODY5`
+Snapshot ID: `MCwwOWQxN2RiYmY0NWYzNWU2ODQ5ODI5MzAxMDk0NDRmN2ExMGVhMTM0`

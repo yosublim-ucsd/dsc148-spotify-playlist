@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 133 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481 likes - 133 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 132 | [Soothing Blue Noise](https://open.spotify.com/track/0yHTk671w4Y3V7PBk5jIZ8) | [White Noise Radiance](https://open.spotify.com/artist/0QUBaF6Rtta4TTmxYYfzux) | [Blue Noise](https://open.spotify.com/album/0r42V3JecTdbFuWyCeqQaO) | 2:17 |
 | 133 | [Blue Noise Notched at 2400 Hertz for Tinnitus Therapy](https://open.spotify.com/track/37QCxDGMgQA8vjwEpaMLRp) | [Vaporwave](https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb) | [Notch Blue Noise: Tinnitus Therapy, Vol\. 1](https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M) | 5:00 |
 
-Snapshot ID: `MCxkNGQ3OThlNzIwOTYyMzI0MjQ1YWY3NDc2MWJiNjk0MDM2YzNiNTgw`
+Snapshot ID: `MCxhOWYyYzVjODYxZWRmNGFjYWZjYmE5MWExZDQxNDMzMDhlYmY3ZmQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,062 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,375 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 52 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
 | 53 | [Ithaque](https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [Ithaque](https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp) | 3:09 |
 | 54 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 |
-| 55 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 |
-| 56 | [Joys](https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp) | [Roberto Surace](https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G) | [Joys](https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0) | 2:15 |
+| 55 | [Joys](https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp) | [Roberto Surace](https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G) | [Joys](https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0) | 2:15 |
+| 56 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 |
 | 57 | [Bar Mediterraneo](https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 3:04 |
-| 58 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 |
-| 59 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
+| 58 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
+| 59 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 |
 | 60 | [Feel Good](https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:00 |
 | 61 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 62 | [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 69 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 |
 | 70 | [The Way You Say \- LP Giobbi Remix](https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Way You Say \(Remixes\)](https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ) | 2:55 |
 | 71 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 |
-| 72 | [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 |
-| 73 | [Stay With You \- Radio Version](https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Stay With You](https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G) | 3:12 |
-| 74 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
+| 72 | [Stay With You \- Radio Version](https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Stay With You](https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G) | 3:12 |
+| 73 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
+| 74 | [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 |
 | 75 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 
-Snapshot ID: `MCwzOGZjYTAwMzQzNmFjZDg5MmU5OTYxYjI3Mjg4ZjkyNjYzNzhhYmM5`
+Snapshot ID: `MCxjNzg3MWY1MTNjYjIzNzZhMWRiZGY5M2M3YTdjZjMyN2ViMGFmNDU0`

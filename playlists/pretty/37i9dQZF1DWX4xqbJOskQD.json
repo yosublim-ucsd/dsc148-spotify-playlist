@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1651,
+  "num_followers": 1654,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM5NDk3YzViZTA0NzBiMTI1MThlOTEyNzcyMzFjYjNiODQyMjlj",
+  "snapshot_id": "MCw5ZDI2MDNmYWM0NDM0OTZmYTAxNDQxOGY5Y2IxZDRkZWJmMTU2NGRi",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Blue Velvet / The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
-      },
-      "artists": [
-        {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 170666,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Blue Velvet / The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Kirby Stone Touch",
-        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
-      },
-      "artists": [
-        {
-          "name": "Kirby Stone Four",
-          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Milestones of a Jazz Legend - Meets the Vocalists, Vol. 4",
         "url": "https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 148040,
       "name": "It's Sand, Man!",
       "url": "https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Kirby Stone Touch",
+        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
+      },
+      "artists": [
+        {
+          "name": "Kirby Stone Four",
+          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
     },
     {
       "added_at": "2020-08-17 22:49:59",

@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 136112,
+  "num_followers": 136189,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDg3ZTFjYzc2MDg1NDJjYmM2YmQxY2JjNzFhNTc5YjdkMGM0MWUx",
+  "snapshot_id": "MCwyNmZhZmU0OWQ2OTdmNGYzZDcwN2IzZDhhN2I1YWNiYzM0MWY3MTRi",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "\u00c9chame La Culpa",
-        "url": "https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr"
-      },
-      "artists": [
-        {
-          "name": "Cris Mon\u00e9",
-          "url": "https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS"
-        },
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 180094,
-      "name": "\u00c9chame La Culpa",
-      "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 291929,
       "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "\u00c9chame La Culpa",
+        "url": "https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr"
+      },
+      "artists": [
+        {
+          "name": "Cris Mon\u00e9",
+          "url": "https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS"
+        },
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 180094,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
       },
       "artists": [
         {
-          "name": "Carlo Gless",
-          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 134612,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gless",
+          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+        }
+      ],
+      "duration_ms": 134612,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 125354,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
-      },
-      "artists": [
-        {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+      },
+      "artists": [
+        {
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Otro trago",
+        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
+      },
+      "artists": [
+        {
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        },
+        {
+          "name": "Paul Fourmy",
+          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "Otro trago",
+      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Otro trago",
-        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
-      },
-      "artists": [
-        {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        },
-        {
-          "name": "Paul Fourmy",
-          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "Otro trago",
-      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Asi Es La Vida",
         "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 284332,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
     },
     {
       "added_at": "2022-02-18 06:00:00",

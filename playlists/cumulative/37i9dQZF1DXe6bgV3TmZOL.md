@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-391 songs - 1 day 0 hr 39 min
+392 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 | 2022-06-17 | 2023-02-25 |
 | [Shatter \- Edit](https://open.spotify.com/track/3JTORH8A2qihTOf5eu39NI) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Shatter](https://open.spotify.com/album/1bBqOYhgLCAwrAVV5gUx9x) | 4:41 | 2021-11-12 | 2022-07-29 |
 | [Silence Means Nothing \(feat\. Liam Cormier\)](https://open.spotify.com/track/1iG8AeszL0CUIp6ryOG1za) | [River Becomes Ocean](https://open.spotify.com/artist/6xLpAXwI7XGsRgroyZCY3L), [Liam Cormier](https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m) | [Silence Means Nothing \(feat\. Liam Cormier\)](https://open.spotify.com/album/7B12MAQST7TeOyK4ORK8Ee) | 3:00 | 2021-11-12 | 2022-07-27 |
+| [Slow Burn](https://open.spotify.com/track/5yur0yxCrkXP4SVZw0UAVx) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Slow Burn](https://open.spotify.com/album/7nBzxq5kjQcbpckXAvFdw0) | 3:43 | 2023-06-28 |  |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2022-07-13 | 2022-07-29 |
 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 | 2022-07-13 | 2023-02-25 |
 | [Soldiers](https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Soldiers](https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ) | 4:01 | 2022-07-13 | 2022-11-03 |
@@ -340,7 +341,7 @@
 | [The End](https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [The End](https://open.spotify.com/album/6GAivLxki3SKsiBJodvqCF) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 | 2022-11-02 |  |
 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-07-13 | 2022-10-26 |
-| [The Hunted](https://open.spotify.com/track/0EtWHPCGpLUGIAw46wsVX3) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [Flawed Design](https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId) | 3:43 | 2023-06-28 |  |
+| [The Hunted](https://open.spotify.com/track/0EtWHPCGpLUGIAw46wsVX3) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [Flawed Design](https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId) | 3:43 | 2023-06-28 | 2023-07-06 |
 | [The Hunted \(feat\. Sully Erna\)](https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [The Hunted](https://open.spotify.com/album/6WUvlN7aMwYXJCIsVDKqQo) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 | 2021-11-12 |  |
 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2022-06-17 |  |

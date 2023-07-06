@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 49 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,411 likes - 49 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 25 | [Kii Seru Akata](https://open.spotify.com/track/18ML5VJvdASIIKsJ8DOco2) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Lagos State](https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V) | 17:41 |
 | 26 | [Ki Oluwa So Ipade Wa](https://open.spotify.com/track/7gNdq3CRaeDz56htUR1mxa) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 19](https://open.spotify.com/album/5NCGXv1sa4xIZR0iduICFp) | 2:58 |
 | 27 | [Mukulu Muke Maa Jo Medley, Part\. 2](https://open.spotify.com/track/28jPzP1GfuAmxXXHqEaRul) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv), [Inter Reformers Band](https://open.spotify.com/artist/19fFyidF8bB0CkXRXVEf4S) | [51 Lex Presents Mukulu Muke Maa Jo](https://open.spotify.com/album/0xX3HKPxKe7AvHgDwS3MYS) | 19:21 |
-| 28 | [Palongo](https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 2:51 |
-| 29 | [The Horse, The Man & The Son](https://open.spotify.com/track/281tnU6RD0BZbn33n6CbzQ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:33 |
-| 30 | [Aiye Wa a Toro](https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 20:18 |
-| 31 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 |
-| 32 | [Lanre Badmus](https://open.spotify.com/track/6kJ0R8uuYZ1V7iZ3jDU8Qb) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 6:01 |
-| 33 | [Ota Mi Dehin Lehin Mi Medley \(Part 1\)](https://open.spotify.com/track/2I10fPjb0qae4IMDVBs7gk) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ota Mi Dehin Lehin Mi](https://open.spotify.com/album/67vvBba9qbOa5L7pXttWy5) | 19:02 |
-| 34 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 |
+| 28 | [The Horse, The Man & The Son](https://open.spotify.com/track/281tnU6RD0BZbn33n6CbzQ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:33 |
+| 29 | [Palongo](https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 2:51 |
+| 30 | [Lanre Badmus](https://open.spotify.com/track/6kJ0R8uuYZ1V7iZ3jDU8Qb) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 6:01 |
+| 31 | [Aiye Wa a Toro](https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 20:18 |
+| 32 | [Ota Mi Dehin Lehin Mi Medley \(Part 1\)](https://open.spotify.com/track/2I10fPjb0qae4IMDVBs7gk) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ota Mi Dehin Lehin Mi](https://open.spotify.com/album/67vvBba9qbOa5L7pXttWy5) | 19:02 |
+| 33 | [Ija Pari, Pt\. 2](https://open.spotify.com/track/1Xj9GldWUOA7rA5JNIsynM) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:31 |
+| 34 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 |
 | 35 | [Oluwa Ni Oluso Aguntan Mi Medley, Pt\. 1](https://open.spotify.com/track/6AggkGAKnQFvIL1o2sA0WD) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Oluwa Ni Oluso Aguntan Mi](https://open.spotify.com/album/5PF0RTccDVSdl6YwOAMvVS) | 18:05 |
-| 36 | [Ija Pari, Pt\. 2](https://open.spotify.com/track/1Xj9GldWUOA7rA5JNIsynM) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:31 |
+| 36 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 |
 | 37 | [Tajudeen Onigbanjo](https://open.spotify.com/track/1JOyGXpmFTu9FGhKhOO1Wp) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 4:28 |
 | 38 | [Ota Mi Dehin](https://open.spotify.com/track/0OHBlNfWNaC1lf7masrkpX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:06 |
 | 39 | [Pegan Pegan](https://open.spotify.com/track/6dh3gfKqz5QIbJlotxIXVY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 3](https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR) | 2:58 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 48 | [Ori Mi Ma Je Nte](https://open.spotify.com/track/71NA0nG2xLBilh4vcKybAC) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 12](https://open.spotify.com/album/3ovZTFTkPQxuLt7wWRRhXr) | 19:24 |
 | 49 | [Lagos State](https://open.spotify.com/track/2N6jX10BX0mTuoKuWIurw4) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Lagos State](https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V) | 20:01 |
 
-Snapshot ID: `MjgxNDEzMDYsMDAwMDAwMDAyZmVhZjZkMGMyY2YzOTQwNGI5YTBkMmJlNjJmNzExNw==`
+Snapshot ID: `MjgxNDI3MDIsMDAwMDAwMDA2NWRjZjViODRjMmY1OGE0NzZlOGQwZWNiZTc0NGI4NQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9801,
+  "num_followers": 9806,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2",
+  "snapshot_id": "MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Summit",
-        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 318040,
-      "name": "Playin' With My Friends",
-      "url": "https://open.spotify.com/track/071l1tdfckojdC5V37NKN6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 174466,
       "name": "Snatch It Back And Hold It",
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Summit",
+        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 318040,
+      "name": "Playin' With My Friends",
+      "url": "https://open.spotify.com/track/071l1tdfckojdC5V37NKN6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 243449,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 170000,
       "name": "T-Bone Shuffle",
       "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 243449,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 114784,
+      "name": "We've Got The Music",
+      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -367,22 +383,6 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 114784,
-      "name": "We've Got The Music",
-      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Palace Of The King - Remastered",
-      "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 295746,
       "name": "Best in Town",
       "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Palace Of The King - Remastered",
+      "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues in My Soul",
-        "url": "https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU"
-      },
-      "artists": [
-        {
-          "name": "Lurrie Bell",
-          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "I Feel so Good",
-      "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues in My Soul",
+        "url": "https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU"
+      },
+      "artists": [
+        {
+          "name": "Lurrie Bell",
+          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "I Feel so Good",
+      "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
     },
     {
       "added_at": "2020-12-01 05:01:00",

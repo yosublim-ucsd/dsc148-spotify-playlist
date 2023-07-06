@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut?si=afijC48GTbu0uO_cbBRN_w\"> Tekno</a>  ",
-  "num_followers": 62634,
+  "num_followers": 62736,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQ0YmNhYWU0NmNhODY5Y2YyMDg3N2YyNjlmMTcxMmQ4ZTMzNmRm",
+  "snapshot_id": "MCxkOTQ0MzAzZWUyNjIwNDYwOTkzYWZhNDk5ODVhY2IwZTAwMDI4OGU2",
   "tracks": [
     {
       "added_at": "2023-06-30 06:16:53",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-06-30 06:16:53",
       "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
-    },
-    {
-      "added_at": "2023-06-30 06:16:53",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
-    },
-    {
-      "added_at": "2023-06-30 06:16:53",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
       },
@@ -1279,6 +1247,38 @@
       "duration_ms": 182073,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+    },
+    {
+      "added_at": "2023-06-30 06:16:53",
+      "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "added_at": "2023-06-30 06:16:53",
+      "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2023-06-30 06:16:53",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2023-06-30 06:16:53",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+        "name": "SOKOTO",
+        "url": "https://open.spotify.com/album/6cZhzvKBRup7VnIfV0roR1"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
+      "duration_ms": 175714,
+      "name": "SOKOTO",
+      "url": "https://open.spotify.com/track/5wedEJLTgmlmworhXQaaO8"
     }
   ],
   "unique_name": "Gbedu",

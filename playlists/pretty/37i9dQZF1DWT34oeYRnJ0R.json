@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko",
-  "num_followers": 695595,
+  "num_followers": 695598,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2ZhOThmYWQ3NTA0ZTc5YzVmNDAxMzQ5NjdmZjIwNmM4MDJkMjQ2",
+  "snapshot_id": "MCw4NTk0MWNmYTAzNmZlMjZhYjY0MDExZjNmMTMwODI3NmZmN2EwNWNm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 169526,
       "name": "P\u00cdDELO",
       "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -955,6 +955,26 @@
       "duration_ms": 184800,
       "name": "BeSos aL vIEnTo :(",
       "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Amor & Paz",
+        "url": "https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 195424,
+      "name": "Amor & Paz",
+      "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 214535,
       "name": "Tu Fan\u00e1tico - Remix",
       "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Amor & Paz",
-        "url": "https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 195424,
-      "name": "Amor & Paz",
-      "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 191489,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Monte Carlo",
-      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 170831,
+      "name": "RDMDA",
+      "url": "https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "ANGOLA",
         "url": "https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 135003,
       "name": "ANGOLA",
       "url": "https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 170831,
-      "name": "RDMDA",
-      "url": "https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 151304,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Khloe",
-        "url": "https://open.spotify.com/album/5ugoU1ic6flKsMKkGOrLTQ"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        }
-      ],
-      "duration_ms": 161521,
-      "name": "Khloe",
-      "url": "https://open.spotify.com/track/1wbJFQJc3sgCZeNkpCDUjQ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Just Fine (feat. Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 171428,
       "name": "Just Fine (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Khloe",
+        "url": "https://open.spotify.com/album/5ugoU1ic6flKsMKkGOrLTQ"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        }
+      ],
+      "duration_ms": 161521,
+      "name": "Khloe",
+      "url": "https://open.spotify.com/track/1wbJFQJc3sgCZeNkpCDUjQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 422438,
+  "num_followers": 422630,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWExNTVjMTUwZDUxY2RhM2NjODg3MTk1OTM4ZjYwODM0YmU1ZTM4",
+  "snapshot_id": "MCw2ZTA5NjNlNmZjZmNmNmVhYWM4YThjOTg2N2ExODNhMjA1NDRhY2I0",
   "tracks": [
     {
       "added_at": "2023-06-30 03:03:00",
@@ -243,8 +243,8 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -419,8 +419,8 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -627,22 +627,30 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
       "artists": [
         {
-          "name": "Brunetta",
-          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "TRIXL",
+          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
+      "duration_ms": 160429,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -691,30 +699,22 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Brunetta",
+          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
         },
         {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        },
-        {
-          "name": "TRIXL",
-          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 160429,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
     },
     {
       "added_at": "2023-06-30 03:03:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-06-30 03:03:00",
       "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+    },
+    {
+      "added_at": "2023-06-30 03:03:00",
+      "album": {
         "name": "Lay Your Head On Me (feat. Marcus Mumford)",
         "url": "https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 199895,
       "name": "Lay Your Head On Me (feat. Marcus Mumford)",
       "url": "https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb"
-    },
-    {
-      "added_at": "2023-06-30 03:03:00",
-      "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     }
   ],
   "unique_name": "Festa na Praia",

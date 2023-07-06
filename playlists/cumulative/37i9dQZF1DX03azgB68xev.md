@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-346 songs - 19 hr 21 min
+347 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 | 2021-10-31 | 2023-01-14 |
 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/7btcLh6AORXqMfm0MqHxsF) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Close](https://open.spotify.com/album/08g3MujFkU5A2lUTkiNYQW) | 2:48 | 2021-10-31 | 2022-07-26 |
 | [Clouds Are Clearing](https://open.spotify.com/track/2Fgbcj5eoEDgtWqgue2QUH) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Clouds Are Clearing](https://open.spotify.com/album/46sK4jN5YFWm3RzDlEbVgi) | 3:29 | 2021-10-31 | 2022-07-28 |
+| [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2023-01-13 |  |
 | [Come By Here](https://open.spotify.com/track/0KGqrTMzjWXpxLbHxeNqBf) | [Prince Tai](https://open.spotify.com/artist/65q6z218YZZypBw6PIQY5J) | [Come By Here](https://open.spotify.com/album/1cPWBquO0f4f5saedjxrhW) | 3:46 | 2021-10-31 | 2022-07-10 |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2023-01-13 |  |
 | [Come Home \- Warehouse Mix](https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Come Home \(Warehouse Mix\)](https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr) | 2:38 | 2023-01-13 |  |
@@ -90,7 +91,7 @@
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2023-01-13 |  |
 | [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2023-01-13 | 2023-05-16 |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2023-01-13 |  |
-| [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2023-01-13 |  |
+| [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2023-01-13 | 2023-07-06 |
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2021-10-31 | 2022-07-27 |
 | [Feel Good](https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Feel Good](https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1) | 3:39 | 2023-01-13 |  |
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2021-10-31 | 2022-06-22 |

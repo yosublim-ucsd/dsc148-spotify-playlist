@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Clipse",
-  "num_followers": 93186,
+  "num_followers": 93292,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzU0Yjg0OTljYWZlYjkxNmQxNTYxYTFmNjVlZjE2YTA2MzMwOTFm",
+  "snapshot_id": "MCwyZTA2ODJiYjg5NTM5ZTUwNDYxMDUyNzE3NmYzZGFhZDk4M2RhNjdi",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Overnight Celebrity",
+      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 280013,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
-      },
-      "artists": [
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Overnight Celebrity",
-      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Rule 3:36",
-        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Rule 3:36",
+        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Always On Time",
-      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Lupe Fiasco's Food & Liquor",
         "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
@@ -1335,6 +1315,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Word Of Mouf",
         "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
@@ -1355,8 +1355,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
       "artists": [
         {
@@ -1364,13 +1364,13 @@
           "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         },
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+      "duration_ms": 255413,
+      "name": "Shawty (feat. T Pain)",
+      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
       },
       "artists": [
         {
@@ -1520,13 +1520,13 @@
           "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         },
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 255413,
-      "name": "Shawty (feat. T Pain)",
-      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
       "artists": [
         {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1699,6 +1695,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "The Inspiration",
         "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 240613,
       "name": "I Luv It",
       "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The State vs. Radric Davis (Deluxe)",
-        "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
         }
       ],
-      "duration_ms": 246013,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
+      "duration_ms": 187280,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

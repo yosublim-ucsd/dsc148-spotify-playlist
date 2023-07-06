@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Nina Suárez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,892 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,907 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Pájaro Herido](https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI) | [Pancho Varona](https://open.spotify.com/artist/0F9zkPxJs5duaybGwqipyC) | [Pájaro Herido](https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78) | 4:05 |
 | 50 | [Cinco Pistolas](https://open.spotify.com/track/2sx2uWxKHggfG7pOJnu0AK) | [Mario Duarte](https://open.spotify.com/artist/7G24om7NKr8dpoa1EVHSIT) | [Cinco Pistolas](https://open.spotify.com/album/3W7XA8fIcNozYoCAFBfsQK) | 3:39 |
 
-Snapshot ID: `MCwxMjA1ZDRlZjg0YTNmNzRiYjgzMWVhMWYwMmM5YTZmZDU1ZDJmMDZi`
+Snapshot ID: `MCxhYmJlZDBlMDc1OTY1YTdhNGRkMWRlMWI3ZmQyMGUyOGU1NGYyNzgz`

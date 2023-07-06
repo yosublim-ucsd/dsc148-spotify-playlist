@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,256 likes - 50 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,303 likes - 50 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 29 | [Durga\-Drut Teen Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/1ODne1DAqhVLRBxgJaPCqv) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 8:18 |
 | 30 | [Raga Bageshri \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3FhO834t9RwdticljtYJJG) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 38:31 |
 | 31 | [Shiva Shankara](https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Aditya Srinivasan](https://open.spotify.com/artist/1uOca0AYJrCRaEsf3lEwZx) | [Shiva Shankara](https://open.spotify.com/album/07yZ6g1QTLfys8PHs6Dd1l) | 10:18 |
-| 32 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |
+| 32 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |
 | 33 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 34 | [Om Namah Shivay](https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1) | [Spiritual Legacy](https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp) | 8:36 |
 | 35 | [Darbari Kanara Jod and Jhalla](https://open.spotify.com/track/7kXIHzGUKI7pwOUadVeNvt) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Tamaghna Chakraborty](https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw) | [Raag Darbari Kannada](https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb) | 7:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 49 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
 | 50 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
 
-Snapshot ID: `MCwxZGFjNDEzZWE3MmZjMDMyNzExNzdkYmIxN2QzNjU5NTY2MjcxM2Nl`
+Snapshot ID: `MCw3NTJjNjc4YzRlNzc5Y2ZlNzQxOTQ0Y2Q0MzdhMTY4NTM1NWVlMjJm`

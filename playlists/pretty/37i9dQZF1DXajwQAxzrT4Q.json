@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 57974,
+  "num_followers": 58065,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDRmM2JkNTkyM2ZlMDk3OWIzYzI4ODVhYWEwYzBkYWM3OThmYjA0",
+  "snapshot_id": "MCw0ODczNzdmZTI3M2NlMDFiN2QzY2EzMTcyZDYyODM0ZWM2YWFmNWEy",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "c\u00f3mo t va?",
-        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
+        "name": "Club Godfather",
+        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 126000,
-      "name": "c\u00f3mo t va?",
-      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
+      "duration_ms": 156800,
+      "name": "PIANO (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -891,22 +895,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Club Godfather",
-        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
+        "name": "c\u00f3mo t va?",
+        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
       },
       "artists": [
         {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 156800,
-      "name": "PIANO (feat. Lay Bankz)",
-      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
+      "duration_ms": 126000,
+      "name": "c\u00f3mo t va?",
+      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
-      },
-      "artists": [
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        },
-        {
-          "name": "Kajun Waters",
-          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
-        }
-      ],
-      "duration_ms": 140298,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
         "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 89072,
       "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
       "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        }
+      ],
+      "duration_ms": 140298,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+      },
+      "artists": [
+        {
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Anxious",
         "url": "https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6"
       },
@@ -1411,38 +1427,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+        "name": "Ayo (Jersey Club) [feat. DJ Bake]",
+        "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
       },
       "artists": [
         {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Can You Bounce? (Remix)",
-        "url": "https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
         },
         {
-          "name": "DJ Blizz",
-          "url": "https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh"
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
         }
       ],
-      "duration_ms": 126955,
-      "name": "Can You Bounce? - Remix",
-      "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
+      "duration_ms": 123480,
+      "name": "Ayo (Jersey Club) [feat. DJ Bake]",
+      "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
     }
   ],
   "unique_name": "Jersey Club Heat",

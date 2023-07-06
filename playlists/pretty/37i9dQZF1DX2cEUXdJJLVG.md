@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,333 likes - 185 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,377 likes - 185 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 184 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 |
 | 185 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 |
 
-Snapshot ID: `MCxiYWY1YTAzZTI2YjVkNTkxZTM1NTY2Nzc4MWM1MTY4MjVhNTU0YzVh`
+Snapshot ID: `MCxlZDBmMzU2ZWY3ZjQwMDk5ZDcwMzU3MjY0Yjc2ZTk3ZjBmNTk5OWVk`

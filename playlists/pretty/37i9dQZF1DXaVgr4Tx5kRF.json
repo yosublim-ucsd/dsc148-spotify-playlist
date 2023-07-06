@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 612808,
+  "num_followers": 612984,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTAzMTFlYmY3ODMwYzNjMWEyYzQ1NWJhNzllNzMwNWM5OGUxYjhl",
+  "snapshot_id": "MCxkZTM0ZDJjNzdmZGRkYTljMmY4MGU1ZDBmMzVlZjQ1ZGNhYTljOWM1",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Kollected - The Best Of Kula Shaker",
-        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
-      },
-      "artists": [
-        {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "In It for the Money (2021 Remaster - Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G"
       },
@@ -955,22 +939,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Tellin' Stories",
         "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
       },
@@ -987,18 +955,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
-        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
       },
       "artists": [
         {
-          "name": "The London Suede",
-          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
+      "duration_ms": 217373,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -1019,6 +987,38 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
+        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Attack of the Grey Lantern",
         "url": "https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Moseley Shoals",
-        "url": "https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W"
+        "name": "International Velvet",
+        "url": "https://open.spotify.com/album/5JKgetvj4148279DoZG7XE"
       },
       "artists": [
         {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+          "name": "Catatonia",
+          "url": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
         }
       ],
-      "duration_ms": 292850,
-      "name": "The Riverboat Song",
-      "url": "https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON"
+      "duration_ms": 309560,
+      "name": "Road Rage",
+      "url": "https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20"
     }
   ],
   "unique_name": "Britpop, Etc.",

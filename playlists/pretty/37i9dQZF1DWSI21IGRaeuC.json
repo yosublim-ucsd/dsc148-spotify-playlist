@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 21703,
+  "num_followers": 21749,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGM3M2YyODdmZDhhNTIzYWVmZmM4NDBlOWQzMDk4MTkxYWUyMTQ3",
+  "snapshot_id": "MCwxYTIwNTI4ZTZkMmE5ODNiNmM5ZWVkM2E2MzJkZWIyZjhiNDhhYjdj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
-      },
-      "artists": [
-        {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
-        }
-      ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Clapped",
-        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Clapped",
-      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Clapped",
+        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "Clapped",
+      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
-      },
-      "artists": [
-        {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
       },
@@ -1103,6 +1087,42 @@
       "duration_ms": 420559,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Into The Hood",
+        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        }
+      ],
+      "duration_ms": 362180,
+      "name": "Into The Hood",
+      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Into The Hood",
-        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        }
-      ],
-      "duration_ms": 362180,
-      "name": "Into The Hood",
-      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "winter '23",
         "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Diri",
-        "url": "https://open.spotify.com/album/77DE5zgJssda21fouB6LYD"
-      },
-      "artists": [
-        {
-          "name": "Lexa Hill",
-          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
-        }
-      ],
-      "duration_ms": 342790,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kill The Soundboy",
         "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 321818,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Diri",
+        "url": "https://open.spotify.com/album/77DE5zgJssda21fouB6LYD"
+      },
+      "artists": [
+        {
+          "name": "Lexa Hill",
+          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
+        }
+      ],
+      "duration_ms": 342790,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
     },
     {
       "added_at": "2023-06-30 04:00:00",

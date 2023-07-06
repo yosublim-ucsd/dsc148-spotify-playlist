@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Olivia Rodrigo",
-  "num_followers": 371448,
+  "num_followers": 371641,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGQ5ZTRlY2VmN2ZlM2IzZTc0MTIyMTg2NzQyN2NjZDk2MDc1YWIz",
+  "snapshot_id": "MCw1NWUyMmI0MGRiY2Q3YTFkNDQwMjc0MzVjMzgyNzg2OWZmNzdlYzI1",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1674,14 +1674,10 @@
         {
           "name": "24hoursav",
           "url": "https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV"
-        },
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         }
       ],
       "duration_ms": 174138,
-      "name": "what comes next (feat. 24hoursav & Dua Saleh)",
+      "name": "what comes next (feat. 24hoursav)",
       "url": "https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n"
     },
     {

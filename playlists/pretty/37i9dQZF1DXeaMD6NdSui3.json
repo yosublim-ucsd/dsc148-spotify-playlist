@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 122158,
+  "num_followers": 122264,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1",
+  "snapshot_id": "MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -207,18 +207,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Have Blues, Will Travel",
-        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Smokin' Joe Kubek & Bnois King",
-          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Have Blues, Will Travel",
-      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -239,18 +239,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
         }
       ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
     },
     {
       "added_at": "2016-03-18 21:56:19",

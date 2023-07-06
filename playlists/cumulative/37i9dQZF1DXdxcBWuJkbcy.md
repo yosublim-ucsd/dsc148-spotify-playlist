@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-649 songs - 1 day 8 hr 23 min
+650 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,8 @@
 | [SYMPHONY](https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [SYMPHONY](https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B) | 2:29 | 2023-05-18 |  |
 | [Symphony](https://open.spotify.com/track/1iaLcGW8ffLMPFSLSGn0Zs) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Symphony](https://open.spotify.com/album/517JKBEa4h8VceELDOHulM) | 3:22 | 2020-10-20 | 2021-12-20 |
 | [Take Everything](https://open.spotify.com/track/2L93hpsnJ8scBHIQFZzh1b) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Take Everything](https://open.spotify.com/album/4FKCBtScQzJUv15wxErtCV) | 3:32 | 2021-03-06 | 2022-04-20 |
-| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-22 |  |
+| [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-22 | 2023-07-06 |
+| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-29 |  |
 | [Take It Off](https://open.spotify.com/track/0z6AYlkxOeV39NsttefSm0) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J), [AXYL](https://open.spotify.com/artist/66ywUht0fTVs4HllACHbWp) | [Take It Off](https://open.spotify.com/album/0IfagMV5lLycdzGu5HlorJ) | 2:15 | 2021-11-12 | 2022-06-17 |
 | [Take It Up Again \(Stef Kalloo, Flush, Kahtana\) \[feat\. Flush & Kahtana\]](https://open.spotify.com/track/4AOgj0qegbby49dTRGMKBB) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [Stef Kalloo](https://open.spotify.com/artist/1vfxe5H8AU9WSNgJf0FRWg), [Flush](https://open.spotify.com/artist/3WanlQjdrG944TvUX4jj0L), [Kahtana](https://open.spotify.com/artist/7lSvdgOCxDpxYa00AY2XK4) | [Take It Up Again \(Stef Kalloo, Flush, Kahtana\) \[feat\. Flush & Kahtana\]](https://open.spotify.com/album/6h5mPU1xIF7My0PVVTTowr) | 3:03 | 2021-03-07 | 2021-03-23 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-02 |  |

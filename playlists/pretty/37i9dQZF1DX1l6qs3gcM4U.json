@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.  ",
-  "num_followers": 174118,
+  "num_followers": 174259,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTcxM2NlZTU0MmMzMmJmMGZhOWYzNDc5MDI2MjIzMmY0ZDRmNGQ4",
+  "snapshot_id": "MCwxZGFmNzU0YzE2YWYzMTlmZmM1ZjU2MTRjZmNjZDExNDY1NWEyNDBj",
   "tracks": [
     {
       "added_at": "2023-06-30 14:12:30",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/28WZuF1LX2Uro8jknHSjZc"
       },
       "artists": [
         {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
         }
       ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+      "duration_ms": 178538,
+      "name": "N\u00e3o Devia (feat. Loony Johnson)",
+      "url": "https://open.spotify.com/track/1PW7sj7JWnx2tZVHFQGiXj"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/28WZuF1LX2Uro8jknHSjZc"
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
       },
       "artists": [
         {
-          "name": "Nuno Ribeiro",
-          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
         }
       ],
-      "duration_ms": 178538,
-      "name": "N\u00e3o Devia (feat. Loony Johnson)",
-      "url": "https://open.spotify.com/track/1PW7sj7JWnx2tZVHFQGiXj"
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Vais Me Perder",
-        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "Vais Me Perder",
-      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 263906,
       "name": "Puro",
       "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
+        "name": "Vais Me Perder",
+        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 221462,
+      "name": "Vais Me Perder",
+      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Nunca Vou Deixar",
-        "url": "https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Mark Exodus",
-          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Nunca Vou Deixar",
-      "url": "https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
       },
@@ -1083,22 +1063,42 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "4 Horas",
-        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
+        "name": "Nunca Vou Deixar",
+        "url": "https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
         },
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Mark Exodus",
+          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
         }
       ],
-      "duration_ms": 194638,
-      "name": "4 Horas",
-      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
+      "duration_ms": 172173,
+      "name": "Nunca Vou Deixar",
+      "url": "https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
+        "name": "Benka Benka",
+        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Benka Benka",
+      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Benka Benka",
-        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
       },
       "artists": [
         {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
         },
         {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Benka Benka",
-      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+      "duration_ms": 194638,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
+        "name": "Quarentena",
+        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Quarentena",
+      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
         "name": "Pak\u00e9",
         "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
-        "name": "Quarentena",
-        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Quarentena",
-      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
-        "name": "Boda",
-        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
-      },
-      "artists": [
-        {
-          "name": "The Nitrox",
-          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
-        },
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Boda",
-      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
+        "name": "Boda",
+        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
+      },
+      "artists": [
+        {
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
+        },
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        }
+      ],
+      "duration_ms": 173844,
+      "name": "Boda",
+      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
         "name": "Sincera",
         "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 256979,
       "name": "Sincera",
       "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
+        "name": "Super Mulher",
+        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 232421,
+      "name": "Super Mulher",
+      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1327,22 +1343,6 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
-        "name": "Super Mulher",
-        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 232421,
-      "name": "Super Mulher",
-      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
     },
     {
       "added_at": "2023-06-30 14:12:30",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-06-30 14:12:30",
       "album": {
+        "name": "Se Eu Pudesse",
+        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 196567,
+      "name": "Se Eu Pudesse",
+      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2023-06-30 14:12:30",
+      "album": {
         "name": "Felicidade",
         "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
-    },
-    {
-      "added_at": "2023-06-30 14:12:30",
-      "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
     }
   ],
   "unique_name": "Dancing Kizomba",

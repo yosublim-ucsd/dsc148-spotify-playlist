@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-480 songs - 1 day 11 hr 33 min
+481 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Dark Guru](https://open.spotify.com/track/3wPJnbaKlWylBEdHNA0u9D) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Dark Guru](https://open.spotify.com/album/14i1awOjIHMy4iYVJNKRar) | 3:57 | 2022-02-17 | 2022-11-19 |
 | [Dark Wing](https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Dark Wing](https://open.spotify.com/album/52RrqDeEPeiA5JWrnLWIb8) | 3:37 | 2022-06-03 |  |
 | [Darkness Interim](https://open.spotify.com/track/0yFjx1pX9fDhREx0NZjoyL) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Darkness Interim](https://open.spotify.com/album/4x0qmzoQosyWmx4GtnwWlq) | 3:12 | 2022-09-02 |  |
-| [Death Row](https://open.spotify.com/track/7GLQdG2KbAA7VXPtkj9RTO) | [Madcore](https://open.spotify.com/artist/1271NVXrouqOPPxx8K5TUP), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Death Row](https://open.spotify.com/album/7zSGRoJPUYKU4xxUCm3xr5) | 2:54 | 2023-02-17 |  |
+| [Death Row](https://open.spotify.com/track/7GLQdG2KbAA7VXPtkj9RTO) | [Madcore](https://open.spotify.com/artist/1271NVXrouqOPPxx8K5TUP), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Death Row](https://open.spotify.com/album/7zSGRoJPUYKU4xxUCm3xr5) | 2:54 | 2023-02-17 | 2023-07-06 |
 | [Deep Fall](https://open.spotify.com/track/4tLbTzUXzzuz6EGU7wb3aU) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Al Controlled](https://open.spotify.com/album/3ejog3FXoAW8lOwIzHcr0V) | 3:08 | 2023-01-06 | 2023-02-27 |
 | [Deep Fall](https://open.spotify.com/track/5j7p02mLq0q7FWcePhzZeJ) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Al Controlled](https://open.spotify.com/album/61HwK93KgSfmCsbL1uqvDT) | 3:08 | 2023-02-17 |  |
 | [Deeper Concentration](https://open.spotify.com/track/5n9jXH1wQlu7PseB4bTqbk) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.3](https://open.spotify.com/album/1HF6nab8pipoOvimG9gMQc) | 0:29 | 2022-02-17 | 2022-07-02 |
@@ -313,6 +313,7 @@
 | [Pressure](https://open.spotify.com/track/5slTNpY7BoMXWhPDOXkw8c) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Pressure](https://open.spotify.com/album/7ruLDcs83wpOXP4kvoiDks) | 3:11 | 2023-01-13 |  |
 | [Pressurising](https://open.spotify.com/track/1TClTNk97qP1hbAsbIo798) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z) | [Dungeon EP](https://open.spotify.com/album/0C2KzS2pddnR8iXQvM4yQu) | 4:13 | 2023-03-10 | 2023-05-23 |
 | [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 | 2022-07-01 |  |
+| [Profit](https://open.spotify.com/track/1tPKSiahAXhNGFNHIFlTDQ) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/3ArOGOIHxL1NwwmI4ecAUh) | 2:35 | 2023-06-30 |  |
 | [Profit](https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV) | 2:35 | 2023-04-21 | 2023-06-28 |
 | [Profound](https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Kaleidoscope, Vol\. 2](https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY) | 5:04 | 2022-02-17 | 2022-07-30 |
 | [Psycho Sushi](https://open.spotify.com/track/5QtuIc4VSjUp2nniV903bZ) | [Eva808](https://open.spotify.com/artist/6BgBdBrs55ObAN04jkmn0Q) | [Psycho Sushi](https://open.spotify.com/album/4RjrGw3HvUfW6fefKoHJfS) | 4:23 | 2022-02-17 | 2022-04-09 |

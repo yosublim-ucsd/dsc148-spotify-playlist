@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Nathan Dawe, Joel Corry & Ella Henderson
+> Altijd fris in Fresh Hits\. Cover: Jorja Smith
 
 223 songs - 10 hr 39 min
 

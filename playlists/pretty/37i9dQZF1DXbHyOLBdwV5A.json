@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 105813,
+  "num_followers": 105908,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWMxNTJlYjhmMWM2MWQzZDczMzE5YTA1ZmRhNGEzYmUxZjVkOWU4",
+  "snapshot_id": "MCxjYTQ3YzQ3ZDUxM2Q2NzZiZDE1NjU1OWZmNzZiYWVkNDkzNTFkZWZi",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -75,6 +75,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Som da Liberdade 2.0",
+        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 264374,
+      "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
+      "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -99,30 +123,6 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Som da Liberdade 2.0",
-        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
-      "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -235,30 +235,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 191552,
-      "name": "Eu Tenho Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "A Casa Sou Eu",
         "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
       },
@@ -279,6 +255,30 @@
       "duration_ms": 225000,
       "name": "A Casa Sou Eu - Remix",
       "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 191552,
+      "name": "Eu Tenho Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "A Casa \u00c9 Sua (Remix)",
+        "url": "https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        }
+      ],
+      "duration_ms": 161718,
+      "name": "A Casa \u00c9 Sua - Remix",
+      "url": "https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Passando pela Prova (Remix)",
         "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 123995,
       "name": "Passando pela Prova - Remix",
       "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "A Casa \u00c9 Sua (Remix)",
-        "url": "https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
-        }
-      ],
-      "duration_ms": 161718,
-      "name": "A Casa \u00c9 Sua - Remix",
-      "url": "https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 146254,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Melhor Lugar (Remix)",
         "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 150062,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 146254,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -651,50 +651,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
-        }
-      ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "N\u00e3o Me Deixar\u00e1s",
         "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
       },
@@ -735,6 +691,50 @@
       "duration_ms": 135000,
       "name": "Festa de Crente",
       "url": "https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -811,46 +811,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
         },
         {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -895,6 +871,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+        }
+      ],
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -919,22 +915,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
         }
       ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
     },
     {
       "added_at": "2023-06-02 03:00:00",

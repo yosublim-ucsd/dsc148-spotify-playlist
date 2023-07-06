@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring RPLK.",
-  "num_followers": 45201,
+  "num_followers": 45209,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmMzYWM5YTUyNzI3ODk2NmYyZmI3ZmNkZTljMzE4NTc4YWYyMTRm",
+  "snapshot_id": "MCw1YTYyYzkzMjExY2Q4MWZjMzRlMWQxMTdjN2FhMGE3Yjc0ZTQ1MzM3",
   "tracks": [
     {
       "added_at": "2023-06-16 15:22:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
         "name": "Torre de Control",
         "url": "https://open.spotify.com/album/0o5kMILqAEb0qc00js9n1X"
       },
@@ -731,38 +731,6 @@
       "duration_ms": 213066,
       "name": "Torre de Control",
       "url": "https://open.spotify.com/track/6VioN8k9Gd2ENRzSbNRUfA"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "cl\u00e1sico vol. 1",
-        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 178541,
-      "name": "tus mensajes",
-      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -787,6 +755,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
         "name": "me pongo un poco sad",
         "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 199357,
       "name": "me pongo un poco sad",
       "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "cl\u00e1sico vol. 1",
+        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 178541,
+      "name": "tus mensajes",
+      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
+        "name": "Amanece Otra Vez",
+        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 247501,
+      "name": "Amanece Otra Vez",
+      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
         "name": "amor universal",
         "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 185685,
       "name": "no quiero estar aqu\u00ed",
       "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "Amanece Otra Vez",
-        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 247501,
-      "name": "Amanece Otra Vez",
-      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
       },
@@ -995,6 +979,38 @@
       "duration_ms": 239965,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Al Cien",
+        "url": "https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Al Cien",
+      "url": "https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1015,22 +1031,6 @@
       "duration_ms": 144170,
       "name": "galleta de la suerte",
       "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "Al Cien",
-        "url": "https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Al Cien",
-      "url": "https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1067,22 +1067,6 @@
       "duration_ms": 201216,
       "name": "No Te Vayas Nunca",
       "url": "https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Glass Cristina",
-          "url": "https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH"
-        }
-      ],
-      "duration_ms": 232895,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Fantas\u00eda",
         "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 176679,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Glass Cristina",
+          "url": "https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH"
+        }
+      ],
+      "duration_ms": 232895,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
+        "name": "Prometimos No Hablar",
+        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 259579,
+      "name": "Prometimos No Hablar",
+      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
         "name": "Ver a Trav\u00e9s de tus Ojos",
         "url": "https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "Prometimos No Hablar",
-        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 259579,
-      "name": "Prometimos No Hablar",
-      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
     },
     {
       "added_at": "2023-06-16 15:22:22",

@@ -4,7 +4,7 @@
 
 > 
 
-1,788 songs - 4 day 0 hr 51 min
+1,789 songs - 4 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Empty Portrait](https://open.spotify.com/track/47adJXiYLsDisW7nBCRzK0) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 2:25 | 2021-08-24 |  |
 | [Empty Promise](https://open.spotify.com/track/4d7NJGdMwpVbTqq8tzICoK) | [Windowshopping](https://open.spotify.com/artist/0y0oVfboNhPRm14rOzNann) | [Ethereal Plane: Large Body of Water](https://open.spotify.com/album/0MW7Wb9Va23pzz7NI76aS3) | 1:45 | 2023-04-23 |  |
 | [End of the Summer](https://open.spotify.com/track/3qlWyv2wrWHPNfDVbxXh4s) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 1:48 | 2022-11-06 |  |
+| [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-07-05 |  |
 | [enemy](https://open.spotify.com/track/51qNCY0lUymE88LPDUqFXd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:42 | 2022-04-03 |  |
 | [Engine No\. 9](https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:24 | 2022-11-23 |  |
 | [Enigma](https://open.spotify.com/track/4tvrRJKDHKSwoCBroZY85r) | [Doon Kanda](https://open.spotify.com/artist/6w7wqJo8dY6Q7BWIRFBFX3) | [Labyrinth](https://open.spotify.com/album/28dav3fEtICTR6DjtwwxMN) | 3:23 | 2022-09-18 |  |

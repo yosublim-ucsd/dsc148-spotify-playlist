@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 925478,
+  "num_followers": 925635,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTNiZGY2ZmE5M2U0MjFhOTVhYmI3MTA0N2I5NTcxYzc3NzJkMjIx",
+  "snapshot_id": "MCxiNTA2NTFiZmZjOTk0MjY2MTgwYzIxNWU3ODQzMTUxNGI4NzRjZDZh",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Patron",
-      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Patron",
+      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
@@ -1475,6 +1495,30 @@
       "duration_ms": 169252,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "No Man",
+        "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "WEiRD GRRL",
+          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
+        }
+      ],
+      "duration_ms": 133477,
+      "name": "No Man",
+      "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1515,30 +1559,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Man",
-        "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
-      },
-      "artists": [
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        },
-        {
-          "name": "WEiRD GRRL",
-          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
-        }
-      ],
-      "duration_ms": 133477,
-      "name": "No Man",
-      "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 162580,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Night Rider",
-        "url": "https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 156612,
       "name": "Kush",
       "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Night Rider",
+        "url": "https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
-      },
-      "artists": [
-        {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) [Cat Dealers Remix]",
         "url": "https://open.spotify.com/album/04pL6T3KzbzyT5bKnvQsjl"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 135483,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/7KewOaneu1MC9RRrky8Oxc"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
+      },
+      "artists": [
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "See You in My 19th Life, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206064,
+      "name": "DOWN (Juicy Juicy)",
+      "url": "https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h"
       },
@@ -3410,7 +3428,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 218253,
       "name": "NOT THE END",
       "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"

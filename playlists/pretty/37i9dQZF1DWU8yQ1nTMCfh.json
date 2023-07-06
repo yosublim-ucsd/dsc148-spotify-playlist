@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 281177,
+  "num_followers": 281199,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTlkYzI2MTE4MTY3MzAwYjhkZDkwMzhlNjc4YjI0YjQ3OGVlNDI4",
+  "snapshot_id": "MCxmMmRiYjZhODgyMWNkYTkzMTRmZWU4YzljNzFjNzBmMGJiNWZkYjRh",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179585,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179585,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 177348,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Flashbacks",
         "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
@@ -723,6 +707,38 @@
       "duration_ms": 173000,
       "name": "Flashbacks",
       "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "S\u00f3lo Eres T\u00fa",
+        "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 233885,
+      "name": "S\u00f3lo Eres T\u00fa",
+      "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 177348,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "S\u00f3lo Eres T\u00fa",
-        "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 233885,
-      "name": "S\u00f3lo Eres T\u00fa",
-      "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -791,8 +791,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC"
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -823,6 +823,22 @@
       "duration_ms": 182679,
       "name": "Vuelta en U",
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -859,24 +875,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "PRISMARAMA",
-        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+      "duration_ms": 190133,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "No Me Odio Tanto",
         "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
       },
@@ -983,6 +967,38 @@
       "duration_ms": 183342,
       "name": "Al menos ahora",
       "url": "https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Cuenta conmigo",
-        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 166717,
-      "name": "Cuenta conmigo",
-      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Cuenta conmigo",
+        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 166717,
+      "name": "Cuenta conmigo",
+      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Generaci\u00f3n Inmediata",
         "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Querernos De Nuevo",
-        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
         }
       ],
-      "duration_ms": 231994,
-      "name": "Querernos De Nuevo",
-      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1131,6 +1147,38 @@
       "duration_ms": 203880,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1155,6 +1203,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "No me preguntes por qu\u00e9",
         "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
@@ -1175,54 +1239,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
-      },
-      "artists": [
-        {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 376123,
       "name": "Todo est\u00e1 bien",
       "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Hey!",
-        "url": "https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ"
-      },
-      "artists": [
-        {
-          "name": "The Guapos",
-          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
-        }
-      ],
-      "duration_ms": 150790,
-      "name": "Hey!",
-      "url": "https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO"
     },
     {
       "added_at": "2023-06-30 04:00:00",

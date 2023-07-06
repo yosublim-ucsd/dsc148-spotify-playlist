@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2568,
+  "num_followers": 2566,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmZmM2UwOWI0ZDQ4NWJhY2YxYjM2ODU4NjVkOWYxN2E0NzBhNjJj",
+  "snapshot_id": "MCwwOTY0YjIwY2Q5OGE2ODI4OWY3ZTgwMGExMmZmODBiYzg4ZTg0N2Vk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:12:26",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
+        "name": "EVERYD4Y",
+        "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 221744,
+      "name": "RAINING",
+      "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
-        "name": "EVERYD4Y",
-        "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 221744,
-      "name": "RAINING",
-      "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
     },
     {
       "added_at": "2023-05-02 09:12:26",

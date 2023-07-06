@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Voted \#1 Club in the World ’22 & ’23, the futuristic club <a href="https://open.spotify.com/user/31coqoicovg7m5ugwuaoty2ls5ia?si=7a89c12a9c12487c">HÏ IBIZA</a>, hosts the most vital artists from across electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,406 likes - 39 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,466 likes - 39 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 4 | [Kilimanjaro \- Samantha Loveridge Remix](https://open.spotify.com/track/5HhzKkfywzQEhL2zYsfXxR) | [The Angels](https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz), [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt) | [Kilimanjaro \(Samantha Loveridge Remix\)](https://open.spotify.com/album/2ZrQsRKn4MEbipouEOc4Q0) | 6:23 |
 | 5 | [I Saw An Angel On The Roof & Wept \- Kitty Amor 's Remix](https://open.spotify.com/track/3mvPZqwOyfAK1FlgbIz5pn) | [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [I Saw An Angel On The Roof & Wept \(Kitty Amor Remixes\)](https://open.spotify.com/album/2REANuXs9XEMcsJJs5gpJH) | 3:03 |
 | 6 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
-| 7 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 |
+| 7 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 8 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 |
 | 9 | [I'm Good \(Blue\) \- Cedric Gervais Remix](https://open.spotify.com/track/4KsCS8KYebw8i8CcQ4piRx) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [I'm Good \(Blue\) \[Cedric Gervais Remix\]](https://open.spotify.com/album/70LyXkSLTLShf7ywwJ6OGO) | 2:59 |
 | 10 | [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 38 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 |
 | 39 | [Perzechella](https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [Babylonia](https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va) | 5:11 |
 
-Snapshot ID: `MCxmOWM4NzY1MmEzOTc4ZjJhNTFkZjAxMTllM2NlNDdkYmExNWY3MzM2`
+Snapshot ID: `MCw3M2I2MDUwOTBlOTQ4NDlhNTFkMGI3NGJlODI1Mjg5NDJjMTBmNjU1`

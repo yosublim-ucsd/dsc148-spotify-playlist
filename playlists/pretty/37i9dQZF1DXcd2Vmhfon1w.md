@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Prok
+> Lo mejor del hip hop español\. Feat\. Reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,135 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,352 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Te Diría](https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Te Diría](https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1) | 3:05 |
 | 2 | [Solo pienso en ti](https://open.spotify.com/track/2hLyWkdMjWsudBEvJ5bokV) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Solo pienso en ti](https://open.spotify.com/album/0kmMqkeWJZbgTwtE7yGonU) | 4:43 |
-| 3 | [Brigantes](https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Brigantes](https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh) | 3:24 |
-| 4 | [Me Lo Pienso](https://open.spotify.com/track/3DjD6fj8uxzMqsLT8iUerq) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Me Lo Pienso](https://open.spotify.com/album/4U8zM4Qlr4gJNO3SZyA36v) | 2:54 |
+| 3 | [Me Lo Pienso](https://open.spotify.com/track/3DjD6fj8uxzMqsLT8iUerq) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Me Lo Pienso](https://open.spotify.com/album/4U8zM4Qlr4gJNO3SZyA36v) | 2:54 |
+| 4 | [Kurosawa](https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Kurosawa](https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3) | 4:18 |
 | 5 | [No hay nada nuevo](https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [No hay nada nuevo](https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io) | 3:40 |
-| 6 | [Kurosawa](https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Kurosawa](https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3) | 4:18 |
-| 7 | [LACOSTA](https://open.spotify.com/track/5MDikm9ADqdDcNiFPmhqEN) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [LACOSTA](https://open.spotify.com/album/2hSIsDIZTHTaJBpTdYaUh5) | 2:56 |
-| 8 | [Si Vuelves Tarde](https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lionware](https://open.spotify.com/artist/67TDVqPf5B8RQzCg2yZpBk) | [Si Vuelves Tarde](https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4) | 3:39 |
-| 9 | [Lo Real](https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Lo Real](https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq) | 3:26 |
-| 10 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
+| 6 | [Si Vuelves Tarde](https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lionware](https://open.spotify.com/artist/67TDVqPf5B8RQzCg2yZpBk) | [Si Vuelves Tarde](https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4) | 3:39 |
+| 7 | [Brigantes](https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Brigantes](https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh) | 3:24 |
+| 8 | [Lo Real](https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Lo Real](https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq) | 3:26 |
+| 9 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
+| 10 | [LACOSTA](https://open.spotify.com/track/5MDikm9ADqdDcNiFPmhqEN) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [LACOSTA](https://open.spotify.com/album/2hSIsDIZTHTaJBpTdYaUh5) | 2:56 |
 | 11 | [Veneno](https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/7ppEt8YdvnAWeNTKNPR4ca) | 4:18 |
 | 12 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
 | 13 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 44 | [A la tumba](https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 3:50 |
 | 45 | [Silencio](https://open.spotify.com/track/4Huf56u4fIIcQwZb9RSe4A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Silencio](https://open.spotify.com/album/05QCvximYc8wuXO8q1oSZ0) | 3:06 |
 
-Snapshot ID: `MCw3ZjRlZWFkYTBmNWEyY2UzMmE1NjYxNjFmMTk1NzcwOGQ4MGYzNDk0`
+Snapshot ID: `MCxmZGNhMTY4ZjFjM2QxZGVlYmI4NjA1MWU0OTM1OTEwNzAwNzY1ZTFi`

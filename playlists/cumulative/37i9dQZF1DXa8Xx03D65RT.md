@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-646 songs - 1 day 3 hr 14 min
+647 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-05-27 |  |
 | [Memory of That Waltz](https://open.spotify.com/track/0zdAirZbfLIA1bENFu1Ll2) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Days Long Gone](https://open.spotify.com/album/0XQDYnVu44dXYMGWVvhxcO) | 2:13 | 2022-05-27 | 2022-07-21 |
 | [Merci et Désolé](https://open.spotify.com/track/4v2zzo3kQO0zSniW39Qc6b) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Merci et Désolé](https://open.spotify.com/album/4lt8DDWZ1cVzGVAVTnXq09) | 2:45 | 2022-05-27 |  |
+| [Midday Breeze](https://open.spotify.com/track/4FHWJ8LiYLzzXXuEWaIGYB) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Midday Breeze](https://open.spotify.com/album/0Bk52PBciTKDUiU9rOi297) | 2:06 | 2023-07-03 |  |
 | [Midgard](https://open.spotify.com/track/14JKtGSkaRBguVTcisOOiK) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Yggdrasil](https://open.spotify.com/album/5psFJLRfDBxZSL9hHTAyZF) | 2:15 | 2022-05-27 | 2022-09-24 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-05-27 |  |
 | [Mind Like Water](https://open.spotify.com/track/4fcdZ4bM6DgVGOs9y13KIk) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Mind Like Water](https://open.spotify.com/album/5IKvJmKiZqUke2c6AaydA0) | 2:00 | 2022-05-27 | 2023-06-14 |
@@ -443,7 +444,7 @@
 | [Portraits Of Jane](https://open.spotify.com/track/43roNryaSvhJl44nkaf9IX) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Portraits Of Jane](https://open.spotify.com/album/5NOzttfi0gigAsCfWweEC0) | 2:13 | 2022-05-27 | 2022-09-24 |
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-27 | 2023-03-13 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-05-27 |  |
-| [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 |  |
+| [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 | 2023-07-06 |
 | [Prelude](https://open.spotify.com/track/7oQaKrNNFpzgGprrD8oirn) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Silent season](https://open.spotify.com/album/223FCnAQ89tkeqnNHMqF4G) | 3:23 | 2023-01-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-05-27 | 2022-09-24 |

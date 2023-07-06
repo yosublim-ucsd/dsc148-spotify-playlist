@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 69315,
+  "num_followers": 69338,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm",
+  "snapshot_id": "MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Syng sang",
         "url": "https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Gutta P\u00e5 By`n",
-        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd"
       },
       "artists": [
         {
-          "name": "Terje Tysland",
-          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 350586,
-      "name": "Heile Livet",
-      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd"
+        "name": "Gutta P\u00e5 By`n",
+        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
       },
       "artists": [
         {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+          "name": "Terje Tysland",
+          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05"
+      "duration_ms": 350586,
+      "name": "Heile Livet",
+      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -639,6 +639,54 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Henda i v\u00e6ret",
+        "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Lite og stort",
+      "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Ikkje sei det som det er",
+        "url": "https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 161067,
+      "name": "Ikkje sei det som det er",
+      "url": "https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Eg Glemmer Deg Aldri",
         "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
       },
@@ -663,50 +711,18 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Henda i v\u00e6ret",
-        "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Lite og stort",
-      "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Ikkje sei det som det er",
-        "url": "https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 161067,
-      "name": "Ikkje sei det som det er",
-      "url": "https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -727,22 +743,6 @@
       "duration_ms": 194893,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Elsk Meg",
-        "url": "https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 196401,
-      "name": "Elsk Meg",
-      "url": "https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Duell",
         "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 222146,
       "name": "En Spennende Dag for Josefine",
       "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Elsk Meg",
+        "url": "https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 196401,
+      "name": "Elsk Meg",
+      "url": "https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi"
     },
     {
       "added_at": "2023-06-08 22:01:00",

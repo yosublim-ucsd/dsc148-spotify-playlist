@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: ASIAN KUNG-FU GENERATION",
-  "num_followers": 260329,
+  "num_followers": 260380,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2U3ZmQzNWYwZTRjOGQwOWY3ZmE5NGVjN2FhZjdiNDI5ZTIwNzRl",
+  "snapshot_id": "MCxjMjA1MjU3YTliM2JmYmVkZjU5MzYzYjU5MzUzY2JkZTgzZDJjMTBi",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -116,7 +116,7 @@
       "added_at": "2023-07-04 15:00:00",
       "album": {
         "name": "Love me tender",
-        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+        "url": "https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG"
       },
       "artists": [
         {
@@ -126,7 +126,7 @@
       ],
       "duration_ms": 271266,
       "name": "So am I",
-      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
+      "url": "https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
-        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
+        "name": "\u511a\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
       },
       "artists": [
         {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 89563,
-      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
-      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+      "duration_ms": 310560,
+      "name": "\u511a\u304f\u306a\u3044",
+      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Dark Crow",
-        "url": "https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT"
+        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
         }
       ],
-      "duration_ms": 278186,
-      "name": "Dark Crow",
-      "url": "https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3"
+      "duration_ms": 89563,
+      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -767,24 +767,24 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u511a\u304f\u306a\u3044",
-        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
+        "name": "Dark Crow",
+        "url": "https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 310560,
-      "name": "\u511a\u304f\u306a\u3044",
-      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
+      "duration_ms": 278186,
+      "name": "Dark Crow",
+      "url": "https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3"
     },
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u590f\u30fb\u5929\u4f7f",
-        "url": "https://open.spotify.com/album/0b3dx31NG4xIMqqYvmPojS"
+        "name": "Natsu Tenshi",
+        "url": "https://open.spotify.com/album/2w9xpvHCmhTAQafp19EquG"
       },
       "artists": [
         {
@@ -793,8 +793,8 @@
         }
       ],
       "duration_ms": 232190,
-      "name": "\u590f\u30fb\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/23836mVDOPAN15ABJPKjmI"
+      "name": "Natsu Tenshi",
+      "url": "https://open.spotify.com/track/6ChVqC6I8TbLkbHez0bRwq"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
+        "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
         "name": "\u7a93\u306e\u4e2d\u304b\u3089",
         "url": "https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 222826,
       "name": "\u30d6\u30e9\u30c3\u30c9\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "The World's On Fire",
-        "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Seven Deadly Sins",
-      "url": "https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -927,8 +927,24 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ"
+        "name": "The World's On Fire",
+        "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Seven Deadly Sins",
+      "url": "https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "\u3072\u305f\u3080\u304d",
+        "url": "https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq"
       },
       "artists": [
         {
@@ -936,9 +952,9 @@
           "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 240533,
-      "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+      "duration_ms": 250960,
+      "name": "\u3072\u305f\u3080\u304d",
+      "url": "https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
-        "name": "LOVE ROCKETS",
-        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
-      },
-      "artists": [
-        {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
-        }
-      ],
-      "duration_ms": 261385,
-      "name": "LOVE ROCKETS",
-      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
     }
   ],
   "unique_name": "Big in Japan",

@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Liquid Stella
 
-62 songs - 4 hr 49 min
+63 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [The Dawn Coming](https://open.spotify.com/track/0MUTuWvy8gVeza5UNYMrTT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [XRONICLE](https://open.spotify.com/album/02BB3vcZOc5FHqQO7718qZ) | 4:39 | 2023-03-14 |  |
 | [TODAY FOR TOMORROW](https://open.spotify.com/track/7eXny7jPPnP4s8PlmILcRK) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW TOPICS](https://open.spotify.com/album/63FjEmZkfAhJzNTh4hS1EG) | 4:39 | 2023-03-14 | 2023-05-17 |
 | [TODAY FOR TOMORROW](https://open.spotify.com/track/0U9H1eQwLJ2kj38YECFHmW) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW BEGINNING LIVE CD \(LIVE at EX THEATER ROPPONGI Dec.11.2022\)](https://open.spotify.com/album/2tKE9zMrM94q49najsX1Ff) | 4:48 | 2023-05-16 |  |
-| [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 | 2023-03-14 |  |
+| [Vanish, Memoria](https://open.spotify.com/track/0ydSsuw2ZHOvxHz2nGnSKn) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Vanish, Memoria](https://open.spotify.com/album/6NlA8uUULRclXbQLOFgicg) | 4:56 | 2023-07-04 |  |
+| [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 | 2023-03-14 | 2023-07-06 |
 | [Weekender](https://open.spotify.com/track/76oqYLjDjbBb43Ne1qrdlP) | [Knew Roy](https://open.spotify.com/artist/42TMYSBkbTK28DAAePvRdw) | [Weekender](https://open.spotify.com/album/0LmJJ8LqWgjsGXtkrgWSLz) | 2:50 | 2023-03-14 |  |
 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 | 2023-03-14 | 2023-05-30 |
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 |  |

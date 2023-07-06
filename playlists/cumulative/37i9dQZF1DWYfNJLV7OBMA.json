@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 240000,
       "name": "Awidan Yanawa",
       "url": "https://open.spotify.com/track/7s2fLyvgcSOzuA0rBHuFSE"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 158949,
       "name": "Charitha Attalage Medley",
       "url": "https://open.spotify.com/track/57o1kkC9RBwoSIuSfHKKBC"
@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "DIAS",
+        "url": "https://open.spotify.com/album/1SmwEglEo2GiwE7MAnkOlP"
+      },
+      "artists": [
+        {
+          "name": "FREEZE",
+          "url": "https://open.spotify.com/artist/2T6JxFkkrJsZY4TCHmm7Hb"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196330,
+      "name": "DIAS",
+      "url": "https://open.spotify.com/track/627U5dQ8rInhEXLm5UWXIY"
+    },
+    {
+      "album": {
         "name": "Sri Lankan Top Chart",
         "url": "https://open.spotify.com/album/29IsYWjeG37GwRB2VTZUOB"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 250090,
       "name": "Dura Akahe",
       "url": "https://open.spotify.com/track/6l6ponf8TLRkam1BWG3Vxq"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 220689,
       "name": "Hanthaney",
       "url": "https://open.spotify.com/track/70JBYyMJ6PI2UDgPOH1OLU"
@@ -1374,6 +1392,24 @@
       "duration_ms": 217020,
       "name": "Heragiya Da",
       "url": "https://open.spotify.com/track/75T5qAhijiHZnMaPD5x3xt"
+    },
+    {
+      "album": {
+        "name": "Hinahenne Mung",
+        "url": "https://open.spotify.com/album/0boxtVsTzHrAIqzx368Eyy"
+      },
+      "artists": [
+        {
+          "name": "Ranidu",
+          "url": "https://open.spotify.com/artist/29A2v7wxGk7GK0EmRKgrOW"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "Hinahenne mung (Nil Nayaniye)",
+      "url": "https://open.spotify.com/track/1zCGWOEgZR3gNcTQ9aRvw3"
     },
     {
       "album": {
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 193333,
       "name": "Laga Lagatama",
       "url": "https://open.spotify.com/track/5wFA2pMbE1JkqWUf3SCqQ9"
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 193141,
       "name": "Lelena",
       "url": "https://open.spotify.com/track/0RX5UmW4ID0NtobeGupa6x"
@@ -2816,7 +2852,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 157308,
       "name": "Matath Kaviyak Liyanna",
       "url": "https://open.spotify.com/track/0elX6W7MMJgt9bxcOIuaHD"
@@ -3366,6 +3402,36 @@
       "duration_ms": 246456,
       "name": "Ninda Noyana Handawe",
       "url": "https://open.spotify.com/track/2KcsI1xnZE6Px7ToatQQqL"
+    },
+    {
+      "album": {
+        "name": "Nira (From \"Takkar\")",
+        "url": "https://open.spotify.com/album/6CulSk0k3tb1La8QAagSj1"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Gautham Vasudev Menon",
+          "url": "https://open.spotify.com/artist/2Fl0BwBH1KNwkrinajN5dI"
+        },
+        {
+          "name": "Malvi Sundaresan",
+          "url": "https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA"
+        },
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304772,
+      "name": "Nira - From \"Takkar\"",
+      "url": "https://open.spotify.com/track/1VxCdnd46iCgHP5zXGCXPe"
     },
     {
       "album": {
@@ -4126,6 +4192,24 @@
       "duration_ms": 240576,
       "name": "Rae Sihinen Maa",
       "url": "https://open.spotify.com/track/75f4NlJv46zv4CuhdtYEwz"
+    },
+    {
+      "album": {
+        "name": "Ranwan Maldam",
+        "url": "https://open.spotify.com/album/2L581ffA4tmnrkSW3AmA3l"
+      },
+      "artists": [
+        {
+          "name": "Centigradz",
+          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Ranwan Maldam",
+      "url": "https://open.spotify.com/track/1bzsi0xA8MxBZICdtB23pO"
     },
     {
       "album": {
@@ -5016,7 +5100,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 234110,
       "name": "Soya Awa",
       "url": "https://open.spotify.com/track/3709XXZvLGFFS3vhFnNlHc"
@@ -5138,7 +5222,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 215972,
       "name": "Surath Suwaya",
       "url": "https://open.spotify.com/track/6aSpOYXyIoXPHy8BiykXoQ"
@@ -5336,7 +5420,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 199787,
       "name": "Udurawee",
       "url": "https://open.spotify.com/track/16O3jCcjYlDQ1enroz7Gyt"

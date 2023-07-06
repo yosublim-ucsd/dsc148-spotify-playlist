@@ -10179,6 +10179,24 @@
     },
     {
       "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/3dPn881z7xaKhuoKHXw9EX"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272122,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/3U1fuAieIu6RcxAWFaLNTF"
+    },
+    {
+      "album": {
         "name": "Red Sky",
         "url": "https://open.spotify.com/album/2Oz5O25E8HxRr9zmRgFjj9"
       },

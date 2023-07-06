@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
@@ -10297,6 +10297,28 @@
     },
     {
       "album": {
+        "name": "Living On Video (feat. DTale) [Festival Mix]",
+        "url": "https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "DTale",
+          "url": "https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Living On Video (feat. DTale)",
+      "url": "https://open.spotify.com/track/0W6MlHGvHAcSsoRt34pZIt"
+    },
+    {
+      "album": {
         "name": "Living On Video (feat. DTale)",
         "url": "https://open.spotify.com/album/61YbvST6Xi4yaKGvm9P7p8"
       },
@@ -16439,6 +16461,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175833,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+    },
+    {
+      "album": {
         "name": "Sooner Or Later",
         "url": "https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt"
       },
@@ -17242,7 +17282,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 194604,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq"

@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8290,
+  "num_followers": 8295,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTI0MDE0MGQ0NDg0Y2JkN2I1NDAxNWYxM2QzMWZhODM0MmFiMTAx",
+  "snapshot_id": "MCw3MDJlYjhjMmViZDEwMDU3OWI5MjAzYzZkNjljZTA4ZjM2MGFiMzEw",
   "tracks": [
     {
       "added_at": "2023-07-01 04:20:26",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-07-01 04:20:26",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Chingchingching (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
-    },
-    {
-      "added_at": "2023-07-01 04:20:26",
-      "album": {
         "name": "Primary and the Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 247092,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
+    },
+    {
+      "added_at": "2023-07-01 04:20:26",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Chingchingching (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
     },
     {
       "added_at": "2023-07-01 04:20:26",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-07-01 04:20:26",
       "album": {
-        "name": "Blessin",
-        "url": "https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v"
-      },
-      "artists": [
-        {
-          "name": "NSW yoon",
-          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
-        }
-      ],
-      "duration_ms": 113084,
-      "name": "Blessin",
-      "url": "https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o"
-    },
-    {
-      "added_at": "2023-07-01 04:20:26",
-      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": "2023-07-01 04:20:26",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2023-07-01 04:20:26",
-      "album": {
         "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
         "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+    },
+    {
+      "added_at": "2023-07-01 04:20:26",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
+    },
+    {
+      "added_at": "2023-07-01 04:20:26",
+      "album": {
+        "name": "Blessin",
+        "url": "https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        }
+      ],
+      "duration_ms": 113084,
+      "name": "Blessin",
+      "url": "https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o"
     },
     {
       "added_at": "2023-07-01 04:20:26",

@@ -7089,6 +7089,36 @@
     },
     {
       "album": {
+        "name": "Jhoom Jhoom (From \"Spy\")",
+        "url": "https://open.spotify.com/album/6580D3GpSQ4VwXflEH5NJ4"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Vishal Chandrashekar",
+          "url": "https://open.spotify.com/artist/48roov0SxmfsyG07Z4lWPB"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286399,
+      "name": "Jhoom Jhoom (From \"Spy\")",
+      "url": "https://open.spotify.com/track/3hX6uJV2RoDs1POWofzHeA"
+    },
+    {
+      "album": {
         "name": "Radha Ramana",
         "url": "https://open.spotify.com/album/6EhD97w1LICqKmYTHuq2WC"
       },

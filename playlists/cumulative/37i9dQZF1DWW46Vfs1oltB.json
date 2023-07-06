@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bBeenzino)",
-  "name": "KrOWN",
+  "description": "The fresh & hottest K-Hip hop tracks. Meet the '10 Korean hip-hop songs that you think are experimental and creative' selected by Beenzino! (\ube48\uc9c0\ub178\uac00 \uc120\uc815\ud55c '\uc2e4\ud5d8\uc801\uc774\uace0 \ucc3d\uc758\uc801\uc774\ub77c\uace0 \uc0dd\uac01\ud558\ub294 \uad6d\ub0b4 \ud799\ud569\uace1' 10\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!) (Cover:\bBeenzino)",
+  "name": "KrOWN: Beenzino Takeover",
   "tracks": [
     {
       "album": {
@@ -462,6 +462,28 @@
       "duration_ms": 152607,
       "name": "24 HOURS",
       "url": "https://open.spotify.com/track/38J29WfdoAELQK3kctj4m2"
+    },
+    {
+      "album": {
+        "name": "BEIGE",
+        "url": "https://open.spotify.com/album/2evikoMhheFgk9gQB7Vd1S"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168525,
+      "name": "25 (Feat. YANGHONGWON)",
+      "url": "https://open.spotify.com/track/1UhHzGWhYLZqwdcySxRolP"
     },
     {
       "album": {
@@ -1843,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "The Songs for the NOT-YETs",
+        "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
+      },
+      "artists": [
+        {
+          "name": "Y2K92",
+          "url": "https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287424,
+      "name": "Bi-elijah",
+      "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
+    },
+    {
+      "album": {
         "name": "Gangnam EP",
         "url": "https://open.spotify.com/album/37UlgFjxwn0Q67WCJOqnvF"
       },
@@ -1906,6 +1946,28 @@
       "duration_ms": 222000,
       "name": "BINGO (Feat. meenoi, george) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/33zyxtEENVeaXiAZc8s6Wa"
+    },
+    {
+      "album": {
+        "name": "Trapstar Lifestyle",
+        "url": "https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY"
+      },
+      "artists": [
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        },
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "Birthday (Feat. BILL STAX)",
+      "url": "https://open.spotify.com/track/35X5q2bFUZZVamlN1UShUx"
     },
     {
       "album": {
@@ -3324,6 +3386,24 @@
       "duration_ms": 220485,
       "name": "CHICKEN DINNA",
       "url": "https://open.spotify.com/track/2bll3Te3bvaxRV0TfzxNfs"
+    },
+    {
+      "album": {
+        "name": "Travel",
+        "url": "https://open.spotify.com/album/5jKpIo0afcaHucq0QYXi3x"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/3hArB0uSLrGt27uAFdFgd6"
     },
     {
       "album": {
@@ -10013,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "KrOWN_Beenzino",
+        "url": "https://open.spotify.com/album/5yffp1pwFAwmPBDAc34wmz"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2500,
+      "name": "KrOWN_Beenzino",
+      "url": "https://open.spotify.com/track/4slPMG63XcpWAOjUx8Ip8d"
+    },
+    {
+      "album": {
         "name": "KrOWN audio liner",
         "url": "https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn"
       },
@@ -10612,6 +10710,28 @@
       "duration_ms": 201000,
       "name": "light it up (feat. LIL GIMCHI)",
       "url": "https://open.spotify.com/track/36rFeJ4jO7QF895h211l2N"
+    },
+    {
+      "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Y2K92",
+          "url": "https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Like A Fool (Feat. Y2K92)",
+      "url": "https://open.spotify.com/track/6IBVgRiEsCo3XkUK7IzaCX"
     },
     {
       "album": {
@@ -12650,7 +12770,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 178920,
       "name": "Mull",
       "url": "https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN"
@@ -14097,6 +14217,24 @@
     },
     {
       "album": {
+        "name": "Modern Rhymes EP",
+        "url": "https://open.spotify.com/album/220KNMbQ5OF9XeLYT0AI9C"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Overclass",
+      "url": "https://open.spotify.com/track/0TonzjCZUWODRE6wzLTTqr"
+    },
+    {
+      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -15080,6 +15218,24 @@
       "duration_ms": 180934,
       "name": "RACHA!",
       "url": "https://open.spotify.com/track/56esqTuj8kbbyuo2nRtAnW"
+    },
+    {
+      "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3YDuuc8zxwDHVNCeLHRKms"
     },
     {
       "album": {

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 185568,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 217642,
       "name": "As\u00ed Es El Amor",
       "url": "https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi"
@@ -230,6 +230,28 @@
       "duration_ms": 217642,
       "name": "As\u00ed Es El Amor",
       "url": "https://open.spotify.com/track/77p3dPEiKwY597PAB3w106"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "album": {
@@ -436,6 +458,24 @@
       "duration_ms": 169300,
       "name": "Busc\u00e1bamos Lo Mismo",
       "url": "https://open.spotify.com/track/17V8HXbGIOST1So1Xsubox"
+    },
+    {
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "BYE",
+      "url": "https://open.spotify.com/track/6f8wbdo8KU5ETWJA7lapgS"
     },
     {
       "album": {
@@ -2513,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Me Faltabas T\u00fa",
         "url": "https://open.spotify.com/album/2fn1kCf7XoVAZUP2wZRDv5"
       },
@@ -2546,7 +2604,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 270668,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"

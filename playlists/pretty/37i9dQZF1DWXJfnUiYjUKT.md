@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,448 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,641 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 89 | [Making The Band \(Danity Kane\)](https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Making The Band \(Danity Kane\)](https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr) | 1:45 |
 | 90 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 91 | [Mates](https://open.spotify.com/track/7caHa8cZXqyzCv0JGwzL12) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Mates](https://open.spotify.com/album/7GW3JPpqLTzy7LjSujyWPT) | 4:57 |
-| 92 | [what comes next \(feat\. 24hoursav & Dua Saleh\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 |
+| 92 | [what comes next \(feat\. 24hoursav\)](https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [24hoursav](https://open.spotify.com/artist/28aywB5keJzUTaVTkGqlgV) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:54 |
 | 93 | [Blind Em](https://open.spotify.com/track/4M7pQy4wQuIm41JVNWiVvQ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Blind Em](https://open.spotify.com/album/5ClLuubF50Fie0XHH32FwM) | 2:14 |
 | 94 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
 | 95 | [lost and found](https://open.spotify.com/track/288E2ZNEmePKXkwUjUidFN) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [3 Typa Nights](https://open.spotify.com/album/7j4pe5VpooIfayomK4MNTv) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Kamikaze](https://open.spotify.com/track/1qMPDuh8E1E0fhFVOiCNSv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd) | [Kamikaze](https://open.spotify.com/album/53wCzAlDpewIIBv071K7xL) | 3:00 |
 | 100 | [Array](https://open.spotify.com/track/1tvxYs80H4RQemzq7Qf9pv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Array](https://open.spotify.com/album/4PKfReLJ6vJCMqmtATfvhz) | 2:55 |
 
-Snapshot ID: `MCw5NGQ5ZTRlY2VmN2ZlM2IzZTc0MTIyMTg2NzQyN2NjZDk2MDc1YWIz`
+Snapshot ID: `MCw1NWUyMmI0MGRiY2Q3YTFkNDQwMjc0MzVjMzgyNzg2OWZmNzdlYzI1`

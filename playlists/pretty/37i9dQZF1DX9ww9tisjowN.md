@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: ZUTOMAYO \(ずっと真夜中でいいのに。\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,000 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,769 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu) | 5:13 |
 | 75 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 |
 
-Snapshot ID: `MCxkNzUwMGE1NmY2Zjg4Y2YxODE4ZDE3Y2M5YzllYWJmNGUwZmU5NWFl`
+Snapshot ID: `MCw0MGUyYjcwNmY4OTZiZmQyMjNkZWQ4NWIxOGE1MDRlYzI5ZGU0Zjdh`

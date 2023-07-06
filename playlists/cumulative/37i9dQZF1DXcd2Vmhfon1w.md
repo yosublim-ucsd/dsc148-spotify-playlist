@@ -2,7 +2,7 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Prok
+> Lo mejor del hip hop español\. Feat\. Reality
 
 208 songs - 11 hr 34 min
 

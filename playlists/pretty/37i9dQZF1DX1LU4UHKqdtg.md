@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TOMORROW X TOGETHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,908 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,305 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 83 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
 | 84 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 
-Snapshot ID: `MCw3YWI4MzA4OWM2ZjZmNjVkNjMxYzMxOGZiMjkwMjcyZjEyZGI0ZjFm`
+Snapshot ID: `MCw4ZWMyOTczNGEwMTY4MzRlY2YzMTBmMjdkNGE4NzY5Mzg1N2RiYTFl`

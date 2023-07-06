@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best in new punk rock music. Cover: Sprints",
+  "description": "The best in new punk rock music. Cover: BIG SPECIAL",
   "name": "The Punk List",
   "tracks": [
     {
@@ -212,6 +212,24 @@
       "duration_ms": 187305,
       "name": "Always Lose",
       "url": "https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss"
+    },
+    {
+      "album": {
+        "name": "Anaconda Frank",
+        "url": "https://open.spotify.com/album/5xwbdKZopGHbMrhti5NfCW"
+      },
+      "artists": [
+        {
+          "name": "CARSICK",
+          "url": "https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "Anaconda Frank",
+      "url": "https://open.spotify.com/track/1DSfQ1Ol5YoPkY9Y3mv9d1"
     },
     {
       "album": {
@@ -1149,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Suburban Dictionary",
+        "url": "https://open.spotify.com/album/20iZSpMGZgLQaH2qgSprzE"
+      },
+      "artists": [
+        {
+          "name": "FRND CRCL",
+          "url": "https://open.spotify.com/artist/5y4MciXJL9xyGtvnig6zAB"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5tpN5V4gDUc3LQg5xE3m57"
+    },
+    {
+      "album": {
         "name": "The Boogie Down South",
         "url": "https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT"
       },
@@ -1338,6 +1374,24 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "album": {
+        "name": "Honda Civic",
+        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Honda Civic",
+      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
     },
     {
       "album": {
@@ -1594,7 +1648,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 191755,
       "name": "Lads Lads Lads",
       "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
@@ -2502,7 +2556,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 208812,
       "name": "Social Lubrication",
       "url": "https://open.spotify.com/track/086JbiF8kMBushqWDifdpE"
@@ -2556,7 +2610,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"

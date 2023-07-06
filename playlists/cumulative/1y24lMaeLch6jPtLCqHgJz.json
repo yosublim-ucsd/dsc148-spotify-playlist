@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN"
+      },
+      "artists": [
+        {
+          "name": "Machine Made",
+          "url": "https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2jSgV3fYu5HdgrIDkFp8xU"
+    },
+    {
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx"
       },

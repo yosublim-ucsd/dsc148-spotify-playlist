@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,734 likes - 275 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,836 likes - 275 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,7 +208,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 198 | [Just Love](https://open.spotify.com/track/0LmonoC34YmrtzPMG01OJt) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Just Love](https://open.spotify.com/album/6CF5JLx8b6PgrzZBVn2FfI) | 2:25 |
 | 199 | [Redeeming](https://open.spotify.com/track/1XHVtIsDvRMI96bYNQ4Sjz) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Redeeming](https://open.spotify.com/album/3QcsMRKYhWuVJISzQK9YXE) | 1:52 |
 | 200 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 |
-| 201 | [Natura](https://open.spotify.com/track/7Auf2qCVAHFuIvQ02Hku3H) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/3grr4LWLRWNm609pm7e7F3) | 2:38 |
+| 201 | [Natura](https://open.spotify.com/track/5VN3OYlh8fP5P6ola1DkXJ) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/7LMjY84m9bSX4BMeCQmPwg) | 2:38 |
 | 202 | [Engines](https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Engines](https://open.spotify.com/album/00GKYTcoOE8YZ7KqVngw48) | 2:20 |
 | 203 | [Under The Waterfall Mist](https://open.spotify.com/track/4gxCwxh5qjZb7XxHDBfGt6) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Under The Waterfall Mist](https://open.spotify.com/album/7JF2LBiypQuv2dYfw5nkn1) | 3:00 |
 | 204 | [Lo\-Fi Disco](https://open.spotify.com/track/2julBmkb51MrSa4jjW5ghK) | [Fuchsia Farro](https://open.spotify.com/artist/7b4QcBY9Rb12Lp8hse7Jtr) | [Color Of My Dreams](https://open.spotify.com/album/4Fx26dD3bFwmTXQbXJE9Ij) | 1:46 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 274 | [Saint Remi](https://open.spotify.com/track/6b0HoYY2sBYrdrCHkIkMjC) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Saint Remi](https://open.spotify.com/album/4mcHYh8nyGb0jPd66pwkmC) | 1:42 |
 | 275 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
 
-Snapshot ID: `MCxkMTkxNzk2MGY4ZWRlMGFmMzVkMzE4MTIxNDg0OWQ3NTM4NDg4YzE3`
+Snapshot ID: `MCxhMjgzNGRmNTIzMmY3MmQwYmM4ZGNkOGE3Njk4MzZjYWNkZTdmZTcx`

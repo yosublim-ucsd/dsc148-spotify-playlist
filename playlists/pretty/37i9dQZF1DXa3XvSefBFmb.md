@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,746 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,803 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Assim Assim](https://open.spotify.com/track/2m0o8Mdg6SxG4ALP2bH00j) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 2:49 |
+| 1 | [Assim Assim](https://open.spotify.com/track/6NhKVVIfnuRTFRXZtjtJZo) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Assim Assim](https://open.spotify.com/album/0PYk0DGSjgfEOTdzKZMnxb) | 2:49 |
 | 2 | [cansada de ti](https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3) | [Capital Da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [cansada de ti](https://open.spotify.com/album/7LZ988wEv0YbUIKdD0S5Cs) | 3:44 |
 | 3 | [Lourdes](https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN) | [Ana De Llor](https://open.spotify.com/artist/61DENukGlPQstYvSeroMfG) | [Not Your Holy Ghost](https://open.spotify.com/album/26F3OQWRgnUPQWjTmYFtsW) | 3:49 |
 | 4 | [Será o que Será](https://open.spotify.com/track/13zIXFdZlVUvzVDcdOyUso) | [Joana Espadinha](https://open.spotify.com/artist/2LNs5dvEce3LaEp4nwW16B) | [Será o que Será](https://open.spotify.com/album/7aKu8zZEkGTYXAVI1q9Wyt) | 3:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [A Tua Mão](https://open.spotify.com/track/3gAgzePTzvCOkLe4OwXrsD) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [A Tua Mão](https://open.spotify.com/album/5JHZf3hbQsy2IpFQVwBO49) | 3:41 |
 | 49 | [Mumentu](https://open.spotify.com/track/4JqmkeOi1wxgwlEi6uWUwJ) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Mumentu](https://open.spotify.com/album/6hzMAoYaLubJFu3NOWQKX6) | 2:59 |
 
-Snapshot ID: `MCwzYzg5YWYwZTI1Njc1ZjFlZWYzNzAyNmNhYzYzMmEyZjIzNjQyZWUy`
+Snapshot ID: `MCw0YmI5NDQyMmFkYjQxMmRlYTJmYmYxZDNiODQ3NDM5YmY1ZDg5ZTVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 230,282 likes - 91 songs - 5 hr 42 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 230,317 likes - 91 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

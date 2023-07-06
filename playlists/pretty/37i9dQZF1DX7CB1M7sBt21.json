@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 3257,
+  "num_followers": 3283,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTcxMmI1ZjdhY2Y4M2U3ZDZlMzdiYzI1OWQwOTA0ODY4Mjg3ZDVi",
+  "snapshot_id": "MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Boom Boom Boom Boom",
-        "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Amfree",
-          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
-        },
-        {
-          "name": "Ampris",
-          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
-        }
-      ],
-      "duration_ms": 128524,
-      "name": "Boom Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -1619,6 +1595,30 @@
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Boom Boom Boom Boom",
+        "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Amfree",
+          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
+        },
+        {
+          "name": "Ampris",
+          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
+        }
+      ],
+      "duration_ms": 128524,
+      "name": "Boom Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
     },
     {
       "added_at": "2023-02-23 23:00:00",

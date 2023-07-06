@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 95 | [Back Together](https://open.spotify.com/track/4MMnlmSn5AUIsY6lA1QveR) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Sings His Sad Heart](https://open.spotify.com/album/7AVpGcmTby2g0rzkcqQj5o) | 3:03 |
 | 96 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
 | 97 | [Zombie](https://open.spotify.com/track/4bhepnvYedYqxy51vCVEfU) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/7JpCGs5WcyjXotan0fIIW4) | 2:55 |
-| 98 | [Sudden Death \(OMG\)](https://open.spotify.com/track/19TH3RUU4RFCJXOMCNHfZM) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Excommunication](https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq) | 3:18 |
-| 99 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 98 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 99 | [Sudden Death \(OMG\)](https://open.spotify.com/track/19TH3RUU4RFCJXOMCNHfZM) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Excommunication](https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq) | 3:18 |
 | 100 | [Happier?](https://open.spotify.com/track/1akmlqMKOnItATjfnolfXO) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:31 |
 | 101 | [Express Myself](https://open.spotify.com/track/4UisKEOzb1R6Yu95k7UF0E) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Express Myself](https://open.spotify.com/album/5fKJd9WRNCvI8RYct7oWUP) | 3:30 |
 | 102 | [Be the 1](https://open.spotify.com/track/1dT6bzRblpd5ALByN95ScG) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Be the 1](https://open.spotify.com/album/7FTULKxxmfN9biaXculBGb) | 3:01 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 145 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 146 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxNDIwNjAsMDAwMDAwMDBlNTg5MDJjZWZmMzc3NjEzMDdlMDYwZDRkZjNhMzFhZQ==`
+Snapshot ID: `MjgxNDM1MDAsMDAwMDAwMDA2MzRiZDZhYzFjMDE0NzE0MmViNDhkOGM5NGUxYTEzYw==`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-512 songs - 1 day 5 hr 52 min
+513 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
 | [I Love You](https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [I Love You](https://open.spotify.com/album/4mk78tvVOFI787pk2SsYMs) | 3:02 | 2022-09-16 | 2022-11-15 |
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 |  |
-| [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 |  |
+| [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 | 2023-07-06 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 |  |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
@@ -255,6 +255,7 @@
 | [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 | 2022-06-17 |
 | [Lies and Deceptions \- Bad Computer Remix](https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Lies and Deceptions \(Bad Computer Remix\)](https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP) | 3:27 | 2022-12-10 | 2023-03-14 |
 | [Life](https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5) | [Skua](https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM), [Cosmaks](https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Life](https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX) | 4:18 | 2022-06-15 | 2022-08-27 |
+| [Lifeline](https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Lifeline](https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf) | 3:45 | 2023-07-05 |  |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |
 | [Lightbringer](https://open.spotify.com/track/1LMuEvPbC5NvWIK2H9g4Ng) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Lightbringer](https://open.spotify.com/album/5FoXz8GMqoM0caVx9F7Izw) | 3:52 | 2023-04-06 | 2023-07-01 |
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 | 2022-08-13 |

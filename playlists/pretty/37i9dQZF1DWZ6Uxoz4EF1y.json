@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 138596,
+  "num_followers": 138762,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk4MzI3NDk5NDFlZmJiMWE4NTg3MGViODc4MWEyNjc5MTU3MGNh",
+  "snapshot_id": "MCwwMWY5NWJiMjk4Y2E5MmIyZGU2ZTIzYjQ2NWZiZDU4YjFhYzE1MTg5",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+        "name": "Ven Y Llena Esta Casa",
+        "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Vino Nuevo",
+          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
         }
       ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
+      "duration_ms": 300040,
+      "name": "Por Las Llagas",
+      "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Ven Y Llena Esta Casa",
-        "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
       "artists": [
         {
-          "name": "Vino Nuevo",
-          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 300040,
-      "name": "Por Las Llagas",
-      "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Getseman\u00ed",
-        "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
+        "name": "Muerte Por Vida",
+        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
       },
       "artists": [
         {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+          "name": "Belen Losa",
+          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
         }
       ],
-      "duration_ms": 248845,
-      "name": "Getseman\u00ed",
-      "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
+      "duration_ms": 368683,
+      "name": "Muerte Por Vida",
+      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Muerte Por Vida",
-        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
+        "name": "Getseman\u00ed",
+        "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
       },
       "artists": [
         {
-          "name": "Belen Losa",
-          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 368683,
-      "name": "Muerte Por Vida",
-      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
+      "duration_ms": 248845,
+      "name": "Getseman\u00ed",
+      "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Colecci\u00f3n Ac\u00fastica I",
-        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
-      },
-      "artists": [
-        {
-          "name": "Majo Sol\u00eds",
-          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
-        }
-      ],
-      "duration_ms": 282345,
-      "name": "Fija Tus Ojos En Cristo",
-      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Santo Es Tu Nombre",
         "url": "https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 387500,
       "name": "Santo Es Tu Nombre",
       "url": "https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Colecci\u00f3n Ac\u00fastica I",
+        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
+      },
+      "artists": [
+        {
+          "name": "Majo Sol\u00eds",
+          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
+        }
+      ],
+      "duration_ms": 282345,
+      "name": "Fija Tus Ojos En Cristo",
+      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Mi Coraz\u00f3n Te Anhela",
-        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bernal",
-          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
-        }
-      ],
-      "duration_ms": 295692,
-      "name": "Mi Coraz\u00f3n Te Anhela",
-      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Tengo Sed de Ti",
         "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 302146,
       "name": "Tengo Sed de Ti",
       "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Mi Coraz\u00f3n Te Anhela",
+        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bernal",
+          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
+        }
+      ],
+      "duration_ms": 295692,
+      "name": "Mi Coraz\u00f3n Te Anhela",
+      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-04-09 08:31:46",

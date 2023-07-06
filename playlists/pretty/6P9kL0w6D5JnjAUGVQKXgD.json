@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTg5Myw2ZWMzZGE4Njg3YzRmNzZlMDI1ZDNmZDBmNTVjNTgyOGMwZjIzMTQ0",
+  "snapshot_id": "MTg5NCwzYWQxNzZlZjhiMDlmNzZiNmNjNWQxYzQ0Mzk2ZGJmMTFkM2UyOGU3",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
     },
     {
-      "added_at": "2023-01-06 10:08:03",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/5sbuflhxjjaLc8GYuubN2w"
-      },
-      "artists": [
-        {
-          "name": "Zesawa",
-          "url": "https://open.spotify.com/artist/44mXbyLFBzAXHsSd1kDkSs"
-        },
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 143389,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/4EOfaILIjnVSBIscACxmYp"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Congratulations (Don Diablo VIP Mix)",
@@ -1253,6 +1233,30 @@
       "url": "https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+    },
+    {
       "added_at": "2023-01-20 10:08:04",
       "album": {
         "name": "Foreign Love",
@@ -1279,30 +1283,6 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
         "name": "Invisible Dress (Maro Music x Skytech Remix)",
         "url": "https://open.spotify.com/album/6MO2u14IJEljE1X5mYYtou"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 147000,
       "name": "Invisible Dress - Maro Music x Skytech Remix - Short Edit",
       "url": "https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Side By Side (with MKLA)",
+        "url": "https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 153870,
+      "name": "Side By Side (with MKLA)",
+      "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
     },
     {
       "added_at": "2022-09-30 15:42:03",
@@ -1347,22 +1347,26 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Side By Side (with MKLA)",
-        "url": "https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH"
+        "name": "Are You Sure? (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/45iPP1EnvBfGZ5sLayxjd2"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 153870,
-      "name": "Side By Side (with MKLA)",
-      "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
+      "duration_ms": 194693,
+      "name": "Are You Sure? (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv"
     },
     {
       "added_at": "2023-01-13 10:08:03",
@@ -1387,30 +1391,6 @@
       "duration_ms": 149032,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/0mE5m6enFqqzsJuRbxLSpD"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Are You Sure? (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/45iPP1EnvBfGZ5sLayxjd2"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Are You Sure? (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1509,22 +1489,6 @@
       "url": "https://open.spotify.com/track/1QKR9U1OnjOHXLKAEzRcN8"
     },
     {
-      "added_at": "2023-01-25 10:08:04",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18ftWB0hllmJEVGm2abJpf"
-      },
-      "artists": [
-        {
-          "name": "JAYALEXVARD",
-          "url": "https://open.spotify.com/artist/2gavU3hmBNBUj7ojDbctgE"
-        }
-      ],
-      "duration_ms": 138281,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/53eXomGtJPyJBCRHkiBHZv"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Higher Love",
@@ -1543,6 +1507,22 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2023-01-25 10:08:04",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18ftWB0hllmJEVGm2abJpf"
+      },
+      "artists": [
+        {
+          "name": "JAYALEXVARD",
+          "url": "https://open.spotify.com/artist/2gavU3hmBNBUj7ojDbctgE"
+        }
+      ],
+      "duration_ms": 138281,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/53eXomGtJPyJBCRHkiBHZv"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1581,26 +1561,6 @@
       "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
     },
     {
-      "added_at": "2021-08-27 15:43:05",
-      "album": {
-        "name": "Desperados",
-        "url": "https://open.spotify.com/album/5fdrFACoOKVRsSYwP5oiLf"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Anica Russo",
-          "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
-        }
-      ],
-      "duration_ms": 140322,
-      "name": "Desperados",
-      "url": "https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "New Wave",
@@ -1619,6 +1579,26 @@
       "duration_ms": 145978,
       "name": "Drank & Drugs",
       "url": "https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc"
+    },
+    {
+      "added_at": "2021-08-27 15:43:05",
+      "album": {
+        "name": "Desperados",
+        "url": "https://open.spotify.com/album/5fdrFACoOKVRsSYwP5oiLf"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Anica Russo",
+          "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
+        }
+      ],
+      "duration_ms": 140322,
+      "name": "Desperados",
+      "url": "https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -2023,6 +2003,26 @@
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
+    },
+    {
+      "added_at": "2023-07-05 09:24:03",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Roses (feat. ROZES)",
+      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     }
   ],
   "unique_name": "EDM Top 100",

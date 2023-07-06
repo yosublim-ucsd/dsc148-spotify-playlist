@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,186 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,189 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 |
 | 80 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 |
 
-Snapshot ID: `MCw4MmYxNzU2NzhhZTk0OGE0M2M0Zjg1YTcyZDI5Y2JlNTc3ZTg1ZmQz`
+Snapshot ID: `MCwzOGE4Yzg5YzAzNDNjYzVhNTUxYzc3YmVjMjc0MGZmNjNmYTY5ZDFh`

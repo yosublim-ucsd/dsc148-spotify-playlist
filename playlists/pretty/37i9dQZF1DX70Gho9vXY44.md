@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,922 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,940 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 47 | [Pasando las Horas](https://open.spotify.com/track/7MSz1eDbAHC1Gec2bktwWK) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [Pasando las Horas](https://open.spotify.com/album/2WuGgXOih9xQYEZRndYf9h) | 2:46 |
 | 48 | [Amor de una Noche](https://open.spotify.com/track/6xv4NqOdKfDIxu1VIJkiep) | [Kalibre Glock](https://open.spotify.com/artist/0UxAfmAVgMpLLHa7OH5Bjb), [Dr\. Kripi](https://open.spotify.com/artist/011gPSBJnYGOV1D9nWFxW6) | [El de la Glock](https://open.spotify.com/album/5v1qzYJY3Kd07SkuDafJK4) | 3:14 |
 | 49 | [Récord de Humildad \(One Take\)](https://open.spotify.com/track/5SCUwBtAsFvV20yTRfbSvS) | [Django](https://open.spotify.com/artist/0vAPDDoJ3Hqk5sOff00c3j) | [Récord de Humildad \(One Take\)](https://open.spotify.com/album/5hY8EBr0lKnFmZkA3Iuk4B) | 1:29 |
-| 50 | [Quizás](https://open.spotify.com/track/6CM4fW2wX2tMM7ZNpb6WEA) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Vincez](https://open.spotify.com/artist/0VyUlaSkXDdEZGkK91mUHt), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Quizás](https://open.spotify.com/album/4CwYPb2YZCtkQ0tMdFZlBw) | 2:44 |
+| 50 | [Quizás](https://open.spotify.com/track/6CM4fW2wX2tMM7ZNpb6WEA) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Vincez](https://open.spotify.com/artist/0VyUlaSkXDdEZGkK91mUHt), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx), [Jorge Alayo](https://open.spotify.com/artist/58XiPNd7YEgXgKrX7JvOoS) | [Quizás](https://open.spotify.com/album/4CwYPb2YZCtkQ0tMdFZlBw) | 2:44 |
 | 51 | [Mirador de Estrellas](https://open.spotify.com/track/2kCAzvahD2dnMIdTY86kZ0) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Mirador de Estrellas](https://open.spotify.com/album/4NLX21nFWfmbgQxyZLCGRG) | 3:25 |
 | 52 | [Ilumina](https://open.spotify.com/track/3PeSFeePzAa8ewb8Iki04U) | [Pedro Mo](https://open.spotify.com/artist/3SddrVrcgL6qbXhj8AkwTZ), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [Ilumina](https://open.spotify.com/album/3LDIDTYvffKOY18dYFXjzY) | 2:55 |
 | 53 | [Posdata Mi Amor](https://open.spotify.com/track/1ztPOG5RIUXF8z0EFltFh6) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Terrateniente](https://open.spotify.com/artist/7tfiLDqUafEO9EUeqzjSHp) | [Sancocho](https://open.spotify.com/album/5vA3ugVT2dgoBszbpvrr75) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 79 | [Kaykunapi](https://open.spotify.com/track/1OkUdksTQFu3usuw5OGkb9) | [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Kaykunapi](https://open.spotify.com/album/29GroZcRkoieMr2OUnjjWX) | 2:44 |
 | 80 | [Tranqui](https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Tranqui](https://open.spotify.com/album/6P9dhAgXWrEgMQbwHxJUFZ) | 3:51 |
 
-Snapshot ID: `MCw4MmZhNTZhNDg1YWY4MGU4NjQ3NGEzZWM4MjE4NTU3MzdhYjcyMzZh`
+Snapshot ID: `MCxmNTcwMTA1OTQ5MzA1MDhmMTQ0YmQyMjEzZDQ5ODFkOGNkZmVjNTVi`

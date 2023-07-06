@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: thekayetan",
-  "num_followers": 4777,
+  "num_followers": 4779,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2IxZjc2OWM5ZjhjMTUyMGQ2ZDFlMGZiNTIxMTAzZWFmOWYxNWQw",
+  "snapshot_id": "MCwxYWNiMThiOWEzYTZiZjAzYTM0ZTUxMGMxZGVmNTg4ZTU3ZGUwZWU4",
   "tracks": [
     {
       "added_at": "2023-06-23 09:22:14",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
       "artists": [
         {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
         }
       ],
-      "duration_ms": 254436,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
+      "duration_ms": 181823,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
       "artists": [
         {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
         "name": "Poczuj Moj\u0105 Magi\u0119",
         "url": "https://open.spotify.com/album/7DhvmxSAbN3vJuddh0V0o2"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 199593,
       "name": "Poczuj Moj\u0105 Magi\u0119",
       "url": "https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
+        "name": "Le$bijka",
+        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169759,
+      "name": "Le$bijka",
+      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 234246,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
-        "name": "Le$bijka",
-        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 169759,
-      "name": "Le$bijka",
-      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "Ch\u0142opaki z BMW",
-        "url": "https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi"
+        "name": "psychodynamiczne",
+        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 170603,
-      "name": "Ch\u0142opaki z BMW",
-      "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
+      "duration_ms": 190000,
+      "name": "priorytetem",
+      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "psychodynamiczne",
-        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+        "name": "Ch\u0142opaki z BMW",
+        "url": "https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi"
       },
       "artists": [
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 190000,
-      "name": "priorytetem",
-      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
+      "duration_ms": 170603,
+      "name": "Ch\u0142opaki z BMW",
+      "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -991,70 +991,6 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "Magister",
-        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 160712,
-      "name": "Evangelion",
-      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
         "name": "DUEL 35 Chamber Orchestra",
         "url": "https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd"
       },
@@ -1127,6 +1063,70 @@
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
+        "name": "Magister",
+        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 160712,
+      "name": "Evangelion",
+      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
+        "name": "Kimkolwiek chc\u0119",
+        "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "Kimkolwiek chc\u0119",
+      "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
         "name": "S3X EDUCATION",
         "url": "https://open.spotify.com/album/4cAZu0wXymmnCclvt7Hf3x"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 224706,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
-        "name": "Kimkolwiek chc\u0119",
-        "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "Kimkolwiek chc\u0119",
-      "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
+        "name": "Girls, Gays, People",
+        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
+      },
+      "artists": [
+        {
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Girls, Gays, People",
+      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
-        "name": "Girls, Gays, People",
-        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
-      },
-      "artists": [
-        {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
-        }
-      ],
-      "duration_ms": 395000,
-      "name": "Girls, Gays, People",
-      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
     },
     {
       "added_at": "2023-06-23 09:22:14",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-23 09:22:14",
       "album": {
-        "name": "Obok mnie (Radio edit)",
-        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Obok mnie - Radio edit",
-      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
-    },
-    {
-      "added_at": "2023-06-23 09:22:14",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
+    },
+    {
+      "added_at": "2023-06-23 09:22:14",
+      "album": {
+        "name": "Obok mnie (Radio edit)",
+        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Obok mnie - Radio edit",
+      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
     },
     {
       "added_at": "2023-06-23 09:22:14",

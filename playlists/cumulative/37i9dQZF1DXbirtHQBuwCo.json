@@ -4727,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
+    },
+    {
+      "album": {
         "name": "Belief",
         "url": "https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw"
       },
@@ -5282,7 +5300,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 159226,
       "name": "If I Success",
       "url": "https://open.spotify.com/track/7beMq9H2hpiINjKNAapFZE"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 217533,
       "name": "Running Through The Night",
       "url": "https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv"
@@ -10384,7 +10402,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 197552,
       "name": "TIME DIFFERENCE",
       "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
@@ -11266,7 +11284,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
@@ -11654,7 +11672,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-06",
       "duration_ms": 202035,
       "name": "You Will Never Know",
       "url": "https://open.spotify.com/track/6N01HkXOMOvC9659WOQGAp"
